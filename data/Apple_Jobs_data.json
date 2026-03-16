@@ -1,8 +1,13 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 17,
+  "total_jobs": 18,
   "jobs": [
+    {
+      "title": "OS Performance Engineer (Modeling)",
+      "url": "https://jobs.apple.com/en-us/details/200651681-0836/os-performance-engineer-modeling?team=SFTWR",
+      "identifier": "OS Performance Engineer (Modeling)_e-engineer-modeling?team=SFTWR"
+    },
     {
       "title": "Quality Assurance Engineer - Siri Quality Program",
       "url": "https://jobs.apple.com/en-us/details/200651742-2926/quality-assurance-engineer-siri-quality-program?team=SFTWR",
@@ -90,5 +95,5 @@
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-16T16:39:06.631953"
+  "timestamp": "2026-03-16T16:56:17.426975"
 }

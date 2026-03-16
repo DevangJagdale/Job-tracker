@@ -4,6 +4,11 @@
   "total_jobs": 18,
   "jobs": [
     {
+      "title": "Software Manager, Siri Communications Experiences",
+      "url": "https://jobs.apple.com/en-us/details/200651897-3337/software-manager-siri-communications-experiences?team=SFTWR",
+      "identifier": "Software Manager, Siri Communications Experiences_cations-experiences?team=SFTWR"
+    },
+    {
       "title": "Quality & Test Automation Engineer \u2013 Xcode",
       "url": "https://jobs.apple.com/en-us/details/200586454-0836/quality-test-automation-engineer-xcode?team=SFTWR",
       "identifier": "Quality & Test Automation Engineer \u2013 Xcode_tion-engineer-xcode?team=SFTWR"
@@ -87,13 +92,8 @@
       "title": "Senior Engineering Manager, Core Services - Apple Services Engineering",
       "url": "https://jobs.apple.com/en-us/details/200651506-0836/senior-engineering-manager-core-services-apple-services-engineering?team=SFTWR",
       "identifier": "Senior Engineering Manager, Core Services - Apple _ervices-engineering?team=SFTWR"
-    },
-    {
-      "title": "Software Tools and Automation Engineer - AI/ML",
-      "url": "https://jobs.apple.com/en-us/details/200648241-3337/software-tools-and-automation-engineer-ai-ml?team=SFTWR",
-      "identifier": "Software Tools and Automation Engineer - AI/ML_tion-engineer-ai-ml?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-16T18:22:12.373368"
+  "timestamp": "2026-03-16T18:39:22.067484"
 }

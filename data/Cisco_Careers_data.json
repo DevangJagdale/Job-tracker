@@ -4,6 +4,11 @@
   "total_jobs": 10,
   "jobs": [
     {
+      "title": "Wireless Network Engineer I (Full Time) - United States",
+      "url": "https://careers.cisco.com/global/en/job/2010991/Wireless-Network-Engineer-I-Full-Time-United-States",
+      "identifier": "Wireless Network Engineer I (Full Time) - United S_neer-I-Full-Time-United-States"
+    },
+    {
       "title": "Customer Experience Project Specialist I (Full-Time) - United States",
       "url": "https://careers.cisco.com/global/en/job/2001576/Customer-Experience-Project-Specialist-I-Full-Time-United-States",
       "identifier": "Customer Experience Project Specialist I (Full-Tim_list-I-Full-Time-United-States"
@@ -47,13 +52,8 @@
       "title": "Software Engineer Backend/Platform Systems II (Full Time) \u2013 United States",
       "url": "https://careers.cisco.com/global/en/job/2000135/Software-Engineer-Backend-Platform-Systems-II-Full-Time-United-States",
       "identifier": "Software Engineer Backend/Platform Systems II (Ful_ems-II-Full-Time-United-States"
-    },
-    {
-      "title": "Sales Development Representative II (Full Time) United States (Virtual Demand Center) - United States",
-      "url": "https://careers.cisco.com/global/en/job/2008662/Sales-Development-Representative-II-Full-Time-United-States-Virtual-Demand-Center-United-States",
-      "identifier": "Sales Development Representative II (Full Time) Un_al-Demand-Center-United-States"
     }
   ],
-  "job_count_text": "30",
-  "timestamp": "2026-03-16T21:18:45.285640"
+  "job_count_text": "31",
+  "timestamp": "2026-03-16T21:35:54.192026"
 }

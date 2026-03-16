@@ -4,17 +4,27 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Senior Software Engineer - Azure Storage\nUnited States, Washington, Redmond\nPosted 7 minutes ago",
+      "title": "Principal Data Scientist\nUnited States, Multiple Locations, Multiple Locations + 8 more\nPosted 13 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556849580?domain=microsoft.com",
+      "identifier": "Principal Data Scientist\nUnited States, Multiple L_556849580?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Software Engineer\nUnited States, Washington, Redmond + 1 more\nPosted 15 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556849511?domain=microsoft.com",
+      "identifier": "Senior Software Engineer\nUnited States, Washington_556849511?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Software Engineer - Azure Storage\nUnited States, Washington, Redmond\nPosted 25 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556637615?domain=microsoft.com",
       "identifier": "Senior Software Engineer - Azure Storage\nUnited St_556637615?domain=microsoft.com"
     },
     {
-      "title": "Principal Software Engineer - Storage\nUnited States, California, Aliso Viejo + 4 more\nPosted 35 minutes ago",
+      "title": "Principal Software Engineer - Storage\nUnited States, California, Aliso Viejo + 4 more\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556756114?domain=microsoft.com",
       "identifier": "Principal Software Engineer - Storage\nUnited State_556756114?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer - Storage\nUnited States, California, Aliso Viejo + 3 more\nPosted 36 minutes ago",
+      "title": "Senior Software Engineer - Storage\nUnited States, California, Aliso Viejo + 3 more\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556756113?domain=microsoft.com",
       "identifier": "Senior Software Engineer - Storage\nUnited States, _556756113?domain=microsoft.com"
     },
@@ -34,26 +44,16 @@
       "identifier": "Principal Software Engineer - Native\nUnited States_556629469?domain=microsoft.com"
     },
     {
-      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted an hour ago",
+      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556753713?domain=microsoft.com",
       "identifier": "Software Engineer II\nUnited States, Washington, Re_556753713?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer\nUnited States, California, Mountain View + 1 more\nPosted an hour ago",
+      "title": "Senior Software Engineer\nUnited States, California, Mountain View + 1 more\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556654997?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, California_556654997?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 2 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556755079?domain=microsoft.com",
-      "identifier": "Senior Software Engineer\nUnited States, Washington_556755079?domain=microsoft.com"
-    },
-    {
-      "title": "Applied Scientist II: Microsoft AI Development Acceleration Program, Cambridge\nUnited States, Massachusetts, Cambridge\nPosted 2 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556638950?domain=microsoft.com",
-      "identifier": "Applied Scientist II: Microsoft AI Development Acc_556638950?domain=microsoft.com"
     }
   ],
-  "job_count_text": "857",
-  "timestamp": "2026-03-16T19:50:40.321229"
+  "job_count_text": "859",
+  "timestamp": "2026-03-16T20:07:54.853116"
 }

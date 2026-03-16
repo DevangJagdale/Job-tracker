@@ -1,7 +1,7 @@
 {
   "page_title": "Search our Job Opportunities at Barclays",
   "url": "https://search.jobs.barclays/search-jobs/United%20States/13015/2/6252001/39x76/-98x5/50/2",
-  "total_jobs": 15,
+  "total_jobs": 14,
   "jobs": [
     {
       "title": "Executive Assistant",
@@ -72,13 +72,8 @@
       "title": "Mortgage Data Engineer, AVP",
       "url": "https://search.jobs.barclays/job/whippany/mortgage-data-engineer-avp/13015/92613194448",
       "identifier": "Mortgage Data Engineer, AVP_engineer-avp/13015/92613194448"
-    },
-    {
-      "title": "Transaction Banking Project Manager, VP",
-      "url": "https://search.jobs.barclays/job/new-york/transaction-banking-project-manager-vp/13015/92613185984",
-      "identifier": "Transaction Banking Project Manager, VP_t-manager-vp/13015/92613185984"
     }
   ],
-  "job_count_text": "76",
-  "timestamp": "2026-03-16T17:30:06.292132"
+  "job_count_text": "79",
+  "timestamp": "2026-03-16T17:47:15.696223"
 }

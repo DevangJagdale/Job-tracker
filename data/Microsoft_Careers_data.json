@@ -4,7 +4,17 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 20 minutes ago",
+      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 9 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556638298?domain=microsoft.com",
+      "identifier": "Software Engineer II\nUnited States, Washington, Re_556638298?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 17 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556751328?domain=microsoft.com",
+      "identifier": "Senior Software Engineer\nUnited States, Washington_556751328?domain=microsoft.com"
+    },
+    {
+      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 37 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556768596?domain=microsoft.com",
       "identifier": "Software Engineer II\nUnited States, Washington, Re_556768596?domain=microsoft.com"
     },
@@ -42,18 +52,8 @@
       "title": "Senior Software Engineer - Azure Databricks\nUnited States, Multiple Locations, Multiple Locations\nPosted 2 days ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556752330?domain=microsoft.com",
       "identifier": "Senior Software Engineer - Azure Databricks\nUnited_556752330?domain=microsoft.com"
-    },
-    {
-      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 2 days ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556640969?domain=microsoft.com",
-      "identifier": "Software Engineer II\nUnited States, Washington, Re_556640969?domain=microsoft.com"
-    },
-    {
-      "title": "Applied Scientist II\nUnited States, Washington, Redmond\nPosted 3 days ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556843618?domain=microsoft.com",
-      "identifier": "Applied Scientist II\nUnited States, Washington, Re_556843618?domain=microsoft.com"
     }
   ],
-  "job_count_text": "847",
-  "timestamp": "2026-03-16T17:30:23.012588"
+  "job_count_text": "848",
+  "timestamp": "2026-03-16T17:47:32.604262"
 }

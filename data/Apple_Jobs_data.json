@@ -4,6 +4,11 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Swift Platform Experience \u2013 UIKit Frameworks Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200651965-0836/swift-platform-experience-uikit-frameworks-engineer?team=SFTWR",
+      "identifier": "Swift Platform Experience \u2013 UIKit Frameworks Engin_frameworks-engineer?team=SFTWR"
+    },
+    {
       "title": "Senior/Staff Software Engineer, Apple Services Engineering",
       "url": "https://jobs.apple.com/en-us/details/200651219-3337/senior-staff-software-engineer-apple-services-engineering?team=SFTWR",
       "identifier": "Senior/Staff Software Engineer, Apple Services Eng_ervices-engineering?team=SFTWR"
@@ -77,13 +82,8 @@
       "title": "QMS Engineering Manager - Medical Devices",
       "url": "https://jobs.apple.com/en-us/details/200650187-0836/qms-engineering-manager-medical-devices?team=SFTWR",
       "identifier": "QMS Engineering Manager - Medical Devices_ger-medical-devices?team=SFTWR"
-    },
-    {
-      "title": "Quality Assurance Engineer - Siri Quality Program",
-      "url": "https://jobs.apple.com/en-us/details/200651742-2926/quality-assurance-engineer-siri-quality-program?team=SFTWR",
-      "identifier": "Quality Assurance Engineer - Siri Quality Program_iri-quality-program?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-16T21:51:24.745923"
+  "timestamp": "2026-03-16T22:08:33.950556"
 }

@@ -1,8 +1,18 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 17,
+  "total_jobs": 16,
   "jobs": [
+    {
+      "title": "Senior Machine Learning Engineer, Wallet, Payment & Commerce",
+      "url": "https://jobs.apple.com/en-us/details/200651766-0157/senior-machine-learning-engineer-wallet-payment-commerce?team=SFTWR",
+      "identifier": "Senior Machine Learning Engineer, Wallet, Payment _et-payment-commerce?team=SFTWR"
+    },
+    {
+      "title": "Site Reliability Engineer - Apple Maps",
+      "url": "https://jobs.apple.com/en-us/details/200650706-0836/site-reliability-engineer-apple-maps?team=SFTWR",
+      "identifier": "Site Reliability Engineer - Apple Maps_engineer-apple-maps?team=SFTWR"
+    },
     {
       "title": "Engineering Program Manager, Data Platform, Apple Services Engineering",
       "url": "https://jobs.apple.com/en-us/details/200651223-0836/engineering-program-manager-data-platform-apple-services-engineering?team=SFTWR",
@@ -72,23 +82,8 @@
       "title": "Software Engineer - Generative AI & ML, Customer Systems",
       "url": "https://jobs.apple.com/en-us/details/200643421-0157/software-engineer-generative-ai-ml-customer-systems?team=SFTWR",
       "identifier": "Software Engineer - Generative AI & ML, Customer S_ml-customer-systems?team=SFTWR"
-    },
-    {
-      "title": "Senior Software Engineer - Generative AI & ML, Customer Systems",
-      "url": "https://jobs.apple.com/en-us/details/200642306-0157/senior-software-engineer-generative-ai-ml-customer-systems?team=SFTWR",
-      "identifier": "Senior Software Engineer - Generative AI & ML, Cus_ml-customer-systems?team=SFTWR"
-    },
-    {
-      "title": "Senior iOS Engineer-Apple Sports",
-      "url": "https://jobs.apple.com/en-us/details/200649479-2459/senior-ios-engineer-apple-sports?team=SFTWR",
-      "identifier": "Senior iOS Engineer-Apple Sports_gineer-apple-sports?team=SFTWR"
-    },
-    {
-      "title": "Site Reliability Engineer - Apple Maps",
-      "url": "https://jobs.apple.com/en-us/details/200650706-0836/site-reliability-engineer-apple-maps?team=SFTWR",
-      "identifier": "Site Reliability Engineer - Apple Maps_engineer-apple-maps?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-16T19:13:47.236994"
+  "timestamp": "2026-03-16T19:33:41.034407"
 }

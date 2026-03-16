@@ -4,12 +4,27 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Senior Software Engineer - Native\nUnited States, Washington, Redmond\nPosted 14 minutes ago",
+      "title": "Principal Software Engineer - Storage\nUnited States, California, Aliso Viejo + 4 more\nPosted 18 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556756114?domain=microsoft.com",
+      "identifier": "Principal Software Engineer - Storage\nUnited State_556756114?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Software Engineer - Storage\nUnited States, California, Aliso Viejo + 3 more\nPosted 18 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556756113?domain=microsoft.com",
+      "identifier": "Senior Software Engineer - Storage\nUnited States, _556756113?domain=microsoft.com"
+    },
+    {
+      "title": "Principal Applied Scientist\nUnited States, Washington, Redmond + 2 more\nPosted 28 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556643393?domain=microsoft.com",
+      "identifier": "Principal Applied Scientist\nUnited States, Washing_556643393?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Software Engineer - Native\nUnited States, Washington, Redmond\nPosted 34 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556642549?domain=microsoft.com",
       "identifier": "Senior Software Engineer - Native\nUnited States, W_556642549?domain=microsoft.com"
     },
     {
-      "title": "Principal Software Engineer - Native\nUnited States, Washington, Redmond\nPosted 17 minutes ago",
+      "title": "Principal Software Engineer - Native\nUnited States, Washington, Redmond\nPosted 37 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556629469?domain=microsoft.com",
       "identifier": "Principal Software Engineer - Native\nUnited States_556629469?domain=microsoft.com"
     },
@@ -34,26 +49,11 @@
       "identifier": "Applied Scientist II: Microsoft AI Development Acc_556638950?domain=microsoft.com"
     },
     {
-      "title": "Principal Software Engineer - C++\nUnited States, Washington, Redmond\nPosted an hour ago",
+      "title": "Principal Software Engineer - C++\nUnited States, Washington, Redmond\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556751829?domain=microsoft.com",
       "identifier": "Principal Software Engineer - C++\nUnited States, W_556751829?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted an hour ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556640502?domain=microsoft.com",
-      "identifier": "Senior Software Engineer\nUnited States, Washington_556640502?domain=microsoft.com"
-    },
-    {
-      "title": "Principal Software Engineer - Azure Dev Ops Infrustructure\nUnited States, North Carolina, Raleigh + 2 more\nPosted 2 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556847600?domain=microsoft.com",
-      "identifier": "Principal Software Engineer - Azure Dev Ops Infrus_556847600?domain=microsoft.com"
-    },
-    {
-      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 2 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556638298?domain=microsoft.com",
-      "identifier": "Software Engineer II\nUnited States, Washington, Re_556638298?domain=microsoft.com"
     }
   ],
-  "job_count_text": "855",
-  "timestamp": "2026-03-16T19:13:31.008217"
+  "job_count_text": "857",
+  "timestamp": "2026-03-16T19:33:24.926130"
 }

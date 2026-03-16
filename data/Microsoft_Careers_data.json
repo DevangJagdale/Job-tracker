@@ -4,22 +4,27 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 14 minutes ago",
+      "title": "Senior Firmware Engineer\nUnited States, Washington, Redmond + 8 more\nPosted 10 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556621424?domain=microsoft.com",
+      "identifier": "Senior Firmware Engineer\nUnited States, Washington_556621424?domain=microsoft.com"
+    },
+    {
+      "title": "Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 31 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556668603?domain=microsoft.com",
       "identifier": "Software Engineer\nUnited States, Multiple Location_556668603?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer\nUnited States, Washington, Redmond + 1 more\nPosted 13 minutes ago",
+      "title": "Senior Software Engineer\nUnited States, Washington, Redmond + 1 more\nPosted 30 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556836744?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Washington_556836744?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer\nUnited States, California, Mountain View + 1 more\nPosted 29 minutes ago",
+      "title": "Senior Software Engineer\nUnited States, California, Mountain View + 1 more\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556834733?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, California_556834733?domain=microsoft.com"
     },
     {
-      "title": "Applied Scientist II\nUnited States, Washington, Redmond\nPosted 28 minutes ago",
+      "title": "Applied Scientist II\nUnited States, Washington, Redmond\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556823698?domain=microsoft.com",
       "identifier": "Applied Scientist II\nUnited States, Washington, Re_556823698?domain=microsoft.com"
     },
@@ -44,16 +49,11 @@
       "identifier": "Senior Software Engineer\nUnited States, Washington_556849511?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer - Azure Storage\nUnited States, Washington, Redmond\nPosted an hour ago",
+      "title": "Senior Software Engineer - Azure Storage\nUnited States, Washington, Redmond\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556637615?domain=microsoft.com",
       "identifier": "Senior Software Engineer - Azure Storage\nUnited St_556637615?domain=microsoft.com"
-    },
-    {
-      "title": "Principal Software Engineer - Storage\nUnited States, California, Aliso Viejo + 4 more\nPosted 2 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556756114?domain=microsoft.com",
-      "identifier": "Principal Software Engineer - Storage\nUnited State_556756114?domain=microsoft.com"
     }
   ],
-  "job_count_text": "862",
-  "timestamp": "2026-03-16T20:59:34.570071"
+  "job_count_text": "863",
+  "timestamp": "2026-03-16T21:16:43.574250"
 }

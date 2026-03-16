@@ -4,6 +4,11 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "GPU Systems Software Engineer, Platform Architecture",
+      "url": "https://jobs.apple.com/en-us/details/200621039-0836/gpu-systems-software-engineer-platform-architecture?team=SFTWR",
+      "identifier": "GPU Systems Software Engineer, Platform Architectu_atform-architecture?team=SFTWR"
+    },
+    {
       "title": "Senior Machine Learning Engineer, Wallet, Payment & Commerce",
       "url": "https://jobs.apple.com/en-us/details/200651766-0157/senior-machine-learning-engineer-wallet-payment-commerce?team=SFTWR",
       "identifier": "Senior Machine Learning Engineer, Wallet, Payment _et-payment-commerce?team=SFTWR"
@@ -77,13 +82,8 @@
       "title": "Software Development Engineer in Test - Charging & Inductive Power",
       "url": "https://jobs.apple.com/en-us/details/200624392-3543/software-development-engineer-in-test-charging-inductive-power?team=SFTWR",
       "identifier": "Software Development Engineer in Test - Charging &_ing-inductive-power?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer - Generative AI & ML, Customer Systems",
-      "url": "https://jobs.apple.com/en-us/details/200643421-0157/software-engineer-generative-ai-ml-customer-systems?team=SFTWR",
-      "identifier": "Software Engineer - Generative AI & ML, Customer S_ml-customer-systems?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-16T19:33:41.034407"
+  "timestamp": "2026-03-16T19:50:56.527600"
 }

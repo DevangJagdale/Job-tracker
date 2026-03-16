@@ -1,8 +1,18 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 18,
+  "total_jobs": 17,
   "jobs": [
+    {
+      "title": "Engineering Program Manager, Data Platform, Apple Services Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200651223-0836/engineering-program-manager-data-platform-apple-services-engineering?team=SFTWR",
+      "identifier": "Engineering Program Manager, Data Platform, Apple _ervices-engineering?team=SFTWR"
+    },
+    {
+      "title": "Senior Quality - Build Qualification and Release",
+      "url": "https://jobs.apple.com/en-us/details/200651908-3401/senior-quality-build-qualification-and-release?team=SFTWR",
+      "identifier": "Senior Quality - Build Qualification and Release_ication-and-release?team=SFTWR"
+    },
     {
       "title": "Software Manager, Siri Communications Experiences",
       "url": "https://jobs.apple.com/en-us/details/200651897-3337/software-manager-siri-communications-experiences?team=SFTWR",
@@ -77,23 +87,8 @@
       "title": "Site Reliability Engineer - Apple Maps",
       "url": "https://jobs.apple.com/en-us/details/200650706-0836/site-reliability-engineer-apple-maps?team=SFTWR",
       "identifier": "Site Reliability Engineer - Apple Maps_engineer-apple-maps?team=SFTWR"
-    },
-    {
-      "title": "Engineering Program Manager, Customer Systems",
-      "url": "https://jobs.apple.com/en-us/details/200640419-0157/engineering-program-manager-customer-systems?team=SFTWR",
-      "identifier": "Engineering Program Manager, Customer Systems_er-customer-systems?team=SFTWR"
-    },
-    {
-      "title": "Systems Software Engineer \u2013 Wireless Technologies & Ecosystems",
-      "url": "https://jobs.apple.com/en-us/details/200651735-3543/systems-software-engineer-wireless-technologies-ecosystems?team=SFTWR",
-      "identifier": "Systems Software Engineer \u2013 Wireless Technologies _nologies-ecosystems?team=SFTWR"
-    },
-    {
-      "title": "Senior Engineering Manager, Core Services - Apple Services Engineering",
-      "url": "https://jobs.apple.com/en-us/details/200651506-0836/senior-engineering-manager-core-services-apple-services-engineering?team=SFTWR",
-      "identifier": "Senior Engineering Manager, Core Services - Apple _ervices-engineering?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-16T18:56:35.788571"
+  "timestamp": "2026-03-16T19:13:47.236994"
 }

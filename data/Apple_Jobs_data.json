@@ -4,6 +4,11 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Senior Engineering Manager - Data Lakehouse",
+      "url": "https://jobs.apple.com/en-us/details/200651889-0836/senior-engineering-manager-data-lakehouse?team=SFTWR",
+      "identifier": "Senior Engineering Manager - Data Lakehouse_ager-data-lakehouse?team=SFTWR"
+    },
+    {
       "title": "Swift Platform Experience \u2013 UIKit Frameworks Engineer",
       "url": "https://jobs.apple.com/en-us/details/200651965-0836/swift-platform-experience-uikit-frameworks-engineer?team=SFTWR",
       "identifier": "Swift Platform Experience \u2013 UIKit Frameworks Engin_frameworks-engineer?team=SFTWR"
@@ -12,11 +17,6 @@
       "title": "Senior/Staff Software Engineer, Apple Services Engineering",
       "url": "https://jobs.apple.com/en-us/details/200651219-3337/senior-staff-software-engineer-apple-services-engineering?team=SFTWR",
       "identifier": "Senior/Staff Software Engineer, Apple Services Eng_ervices-engineering?team=SFTWR"
-    },
-    {
-      "title": "Senior Engineering Manager - Core Data Libraries",
-      "url": "https://jobs.apple.com/en-us/details/200651889-0836/senior-engineering-manager-core-data-libraries?team=SFTWR",
-      "identifier": "Senior Engineering Manager - Core Data Libraries_core-data-libraries?team=SFTWR"
     },
     {
       "title": "Senior Software Engineer, Network Management Plane",
@@ -85,5 +85,5 @@
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-16T22:17:17.213066"
+  "timestamp": "2026-03-16T22:34:24.486479"
 }

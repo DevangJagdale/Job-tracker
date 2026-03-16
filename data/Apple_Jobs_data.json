@@ -1,0 +1,94 @@
+{
+  "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
+  "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
+  "total_jobs": 17,
+  "jobs": [
+    {
+      "title": "Quality Assurance Engineer - Siri Quality Program",
+      "url": "https://jobs.apple.com/en-us/details/200651742-2926/quality-assurance-engineer-siri-quality-program?team=SFTWR",
+      "identifier": "Quality Assurance Engineer - Siri Quality Program_iri-quality-program?team=SFTWR"
+    },
+    {
+      "title": "Software Delivery - Build & Integration Engineering Manager",
+      "url": "https://jobs.apple.com/en-us/details/200651828-3543/software-delivery-build-integration-engineering-manager?team=SFTWR",
+      "identifier": "Software Delivery - Build & Integration Engineerin_engineering-manager?team=SFTWR"
+    },
+    {
+      "title": "Software Engineer - UI Developer (Web & Native)",
+      "url": "https://jobs.apple.com/en-us/details/200651829-3543/software-engineer-ui-developer-web-native?team=SFTWR",
+      "identifier": "Software Engineer - UI Developer (Web & Native)_eveloper-web-native?team=SFTWR"
+    },
+    {
+      "title": "Software Development Engineer in Test - Charging & Inductive Power",
+      "url": "https://jobs.apple.com/en-us/details/200624392-3543/software-development-engineer-in-test-charging-inductive-power?team=SFTWR",
+      "identifier": "Software Development Engineer in Test - Charging &_ing-inductive-power?team=SFTWR"
+    },
+    {
+      "title": "Software Engineer - Generative AI & ML, Customer Systems",
+      "url": "https://jobs.apple.com/en-us/details/200643421-0157/software-engineer-generative-ai-ml-customer-systems?team=SFTWR",
+      "identifier": "Software Engineer - Generative AI & ML, Customer S_ml-customer-systems?team=SFTWR"
+    },
+    {
+      "title": "Senior Software Engineer - Generative AI & ML, Customer Systems",
+      "url": "https://jobs.apple.com/en-us/details/200642306-0157/senior-software-engineer-generative-ai-ml-customer-systems?team=SFTWR",
+      "identifier": "Senior Software Engineer - Generative AI & ML, Cus_ml-customer-systems?team=SFTWR"
+    },
+    {
+      "title": "Senior iOS Engineer-Apple Sports",
+      "url": "https://jobs.apple.com/en-us/details/200649479-2459/senior-ios-engineer-apple-sports?team=SFTWR",
+      "identifier": "Senior iOS Engineer-Apple Sports_gineer-apple-sports?team=SFTWR"
+    },
+    {
+      "title": "Site Reliability Engineer - Apple Maps",
+      "url": "https://jobs.apple.com/en-us/details/200650706-0836/site-reliability-engineer-apple-maps?team=SFTWR",
+      "identifier": "Site Reliability Engineer - Apple Maps_engineer-apple-maps?team=SFTWR"
+    },
+    {
+      "title": "Engineering Program Manager, Customer Systems",
+      "url": "https://jobs.apple.com/en-us/details/200640419-0157/engineering-program-manager-customer-systems?team=SFTWR",
+      "identifier": "Engineering Program Manager, Customer Systems_er-customer-systems?team=SFTWR"
+    },
+    {
+      "title": "Systems Software Engineer \u2013 Wireless Technologies & Ecosystems",
+      "url": "https://jobs.apple.com/en-us/details/200651735-3543/systems-software-engineer-wireless-technologies-ecosystems?team=SFTWR",
+      "identifier": "Systems Software Engineer \u2013 Wireless Technologies _nologies-ecosystems?team=SFTWR"
+    },
+    {
+      "title": "Senior Engineering Manager, Core Services - Apple Services Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200651506-0836/senior-engineering-manager-core-services-apple-services-engineering?team=SFTWR",
+      "identifier": "Senior Engineering Manager, Core Services - Apple _ervices-engineering?team=SFTWR"
+    },
+    {
+      "title": "Software Tools and Automation Engineer - AI/ML",
+      "url": "https://jobs.apple.com/en-us/details/200648241-3337/software-tools-and-automation-engineer-ai-ml?team=SFTWR",
+      "identifier": "Software Tools and Automation Engineer - AI/ML_tion-engineer-ai-ml?team=SFTWR"
+    },
+    {
+      "title": "Senior Data Platform Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200651747-3401/senior-data-platform-engineer?team=SFTWR",
+      "identifier": "Senior Data Platform Engineer_a-platform-engineer?team=SFTWR"
+    },
+    {
+      "title": "Engineering Manager, Find My",
+      "url": "https://jobs.apple.com/en-us/details/200651752-0836/engineering-manager-find-my?team=SFTWR",
+      "identifier": "Engineering Manager, Find My_ing-manager-find-my?team=SFTWR"
+    },
+    {
+      "title": "Visual Generation Framework Software Engineer - SIML, ISE",
+      "url": "https://jobs.apple.com/en-us/details/200646318-3337/visual-generation-framework-software-engineer-siml-ise?team=SFTWR",
+      "identifier": "Visual Generation Framework Software Engineer - SI_e-engineer-siml-ise?team=SFTWR"
+    },
+    {
+      "title": "Embedded Software Engineer, Find My",
+      "url": "https://jobs.apple.com/en-us/details/200651749-0836/embedded-software-engineer-find-my?team=SFTWR",
+      "identifier": "Embedded Software Engineer, Find My_re-engineer-find-my?team=SFTWR"
+    },
+    {
+      "title": "iOS/macOS Software Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200651661-0836/ios-macos-software-engineer?team=SFTWR",
+      "identifier": "iOS/macOS Software Engineer_s-software-engineer?team=SFTWR"
+    }
+  ],
+  "job_count_text": "",
+  "timestamp": "2026-03-16T11:27:39.769898"
+}

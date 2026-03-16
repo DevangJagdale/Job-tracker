@@ -1,0 +1,165 @@
+{
+  "websites": [
+    {
+      "name": "Goldman Sachs Jobs",
+      "url": "https://higher.gs.com/results?EXPERIENCE_LEVEL=Analyst|Associate&JOB_FUNCTION=Data%20Analytics|Data%20Analytics%20%26%20Reporting|Software%20Engineering&LOCATION=Menlo%20Park|Newport%20Beach|San%20Francisco|Miami|West%20Palm%20Beach|Chicago|Boston|Detroit|Jersey%20City|Albany|New%20York|Dallas|Houston|Richardson|Salt%20Lake%20City&page=1&sort=POSTED_DATE",
+      "enabled": true,
+      "check_interval": 600,
+      "description": "Goldman Sachs - Data Analytics, Reporting & Software Engineering Jobs (Analyst/Associate)"
+    },
+    {
+      "name": "Barclays Jobs",
+      "url": "https://search.jobs.barclays/search-jobs/United%20States/13015/2/6252001/39x76/-98x5/50/2",
+      "enabled": true,
+      "check_interval": 600,
+      "description": "Barclays - United States Job Listings"
+    },
+    {
+      "name": "Microsoft Careers",
+      "url": "https://apply.careers.microsoft.com/careers?domain=microsoft.com&start=0&location=United+States&pid=1970393556639438&sort_by=timestamp&filter_include_remote=1&filter_profession=software+engineering%2Cresearch%252C%2520applied%252C%2520%2526%2520data%2520sciences",
+      "enabled": true,
+      "check_interval": 300,
+      "description": "Microsoft - Software Engineering, Research, Applied & Data Sciences (US, Remote)"
+    },
+    {
+      "name": "Apple Jobs",
+      "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
+      "enabled": true,
+      "check_interval": 600,
+      "description": "Apple - ML/AI, Software Engineering, DevOps, Security & Analytics (US)"
+    },
+    {
+      "name": "Meta Careers",
+      "url": "https://www.metacareers.com/jobsearch?sort_by_new=true&teams[0]=University%20Grad%20-%20Engineering%2C%20Tech%20%26%20Design&roles[0]=Full%20time%20employment",
+      "enabled": true,
+      "check_interval": 600,
+      "description": "Meta - University Grad Engineering, Tech & Design (Full-time)"
+    },
+    {
+      "name": "CVS Health Jobs",
+      "url": "https://jobs.cvshealth.com/us/en/search-results",
+      "enabled": true,
+      "check_interval": 600,
+      "description": "CVS Health - Innovation and Technology, Data and Analytics",
+      "interactive": true,
+      "filters": {
+        "category": "Innovation and Technology",
+        "sub_category": "Information Technology",
+        "country":"United States",
+        "sort_by": "Recent"
+      }
+    },
+    {
+      "name": "Cisco Careers",
+      "url": "https://careers.cisco.com/global/en/search-results?s=1",
+      "enabled": true,
+      "check_interval": 600,
+      "description": "Cisco - Professional & Entry Level Talent (US)",
+      "interactive": true,
+      "filters": {
+        "experience_levels": ["Entry Level Talent"],
+        "country": "United States of America",
+        "sort_by": "Most Recent"
+      }
+    },
+    {
+      "name": "JPMorgan Chase Careers",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
+      "enabled": true,
+      "check_interval": 600,
+      "description": "JPMorgan Chase - Technology, Data & Analytics Jobs"
+    },
+    {
+      "name": "ServiceNow Careers",
+      "url": "https://careers.servicenow.com/jobs/?search=&team=Engineering%2C+Infrastructure+and+Operations&team=IT&team=Digital+Technology&jobPostingType=Early+Career&country=United+States&pagesize=20#results",
+      "enabled": true,
+      "check_interval": 600,
+      "description": "ServiceNow - Engineering, IT & Digital Technology Early Career Jobs (US)"
+    },
+    {
+      "name": "Micron Technology Careers",
+      "url": "https://careers.micron.com/careers?start=0&location=United+States&pid=30425005&sort_by=timestamp&filter_include_remote=1&filter_skills=Python%2CData+Analysis&filter_seniority=1",
+      "enabled": true,
+      "check_interval": 600,
+      "description": "Micron Technology - Python, Data Analysis Jobs (US, Remote, Entry Level)"
+    },
+    {
+      "name": "Salesforce Careers",
+      "url": "https://careers.salesforce.com/en/jobs/?search=&country=United+States+of+America&team=Data&team=Enterprise+Technology+%26+Infrastructure&team=Software+Engineering&jobtype=New+Grads&pagesize=20#results",
+      "enabled": true,
+      "check_interval": 600,
+      "description": "Salesforce - Data, Enterprise Technology & Infrastructure, Software Engineering (New Grads, US)"
+    },
+    {
+      "name": "Adobe Careers",
+      "url": "https://careers.adobe.com/us/en/search-results?qcountry=United%20States%20of%20America",
+      "enabled": true,
+      "check_interval": 600,
+      "description": "Adobe - University Graduate, Engineering and Product (US, Most Recent)",
+      "interactive": true,
+      "filters": {
+        "experience_level": "University Graduate",
+        "teams": ["Engineering and Product"],
+        "sort_by": "Most recent"
+      }
+    },
+    {
+      "name": "Google Careers",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/?location=United%20States&target%5C_level=EARLY&target_level=EARLY&sort_by=date",
+      "enabled": true,
+      "check_interval": 600,
+      "description": "Google - Early Career & New Grad roles (US)"
+    },
+    {
+      "name": "Amazon Jobs",
+      "url": "https://www.amazon.jobs/content/en/career-programs/university?country%5B%5D=US&employment-type%5B%5D=Full+time&team%5B%5D=studentprograms.team-jobs-for-grads",
+      "enabled": true,
+      "check_interval": 600,
+      "description": "Amazon - Software Engineer roles (US)"
+    },
+    {
+      "name": "NVIDIA Careers",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite?locationCountry=bc33aa3152ec42d4995f4791a106ed09&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&workerSubType=ab40a98049581037a3ada55b087049b7",
+      "enabled": true,
+      "check_interval": 600,
+      "description": "NVIDIA - Engineering and AI roles (US)"
+    },
+    {
+      "name": "Bloomberg Careers",
+      "url": "https://bloomberg.avature.net/careers/SearchJobs/?1686=%5B55478%5D&1686_format=2312&2562=%5B219290%5D&2562_format=6594&listFilterMode=1&jobRecordsPerPage=12&",
+      "enabled": true,
+      "check_interval": 600,
+      "description": "Bloomberg - Entry Level & Engineering roles (US)"
+    },
+    {
+      "name": "Tesla Careers",
+      "url": "https://www.tesla.com/careers/search/?site=US&type=fulltime",
+      "enabled": true,
+      "check_interval": 600,
+      "description": "Tesla - Engineering & IT roles (US)"
+    },
+    {
+      "name": "DoorDash Careers",
+      "url": "https://careersatdoordash.com/job-search/?intern=0&function=Software%20Engineering%7CIT%20Support%7C&keyword=&location=Los%20Angeles&spage=1",
+      "enabled": true,
+      "check_interval": 600,
+      "description": "DoorDash - Engineering roles (US)"
+    },
+    {
+      "name": "Rivian Careers",
+      "url": "https://careers.rivian.com/careers-home/jobs?page=1&categories=Information%20Technology%7CSoftware%20Engineering%7CTest%20and%20Development",
+      "enabled": true,
+      "check_interval": 600,
+      "description": "Rivian - Software Engineering roles (US)"
+    }
+  ],
+  "telegram": {
+    "bot_token": "",
+    "chat_id": ""
+  },
+  "global_settings": {
+    "default_check_interval": 600,
+    "page_load_wait": 8,
+    "extract_content": true
+  }
+}

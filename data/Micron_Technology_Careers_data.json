@@ -4,6 +4,11 @@
   "total_jobs": 10,
   "jobs": [
     {
+      "title": "New College Grad - Product Development Failure Analysis Engineer\nBoise, Idaho, United States of America\nPosted 20 hours ago",
+      "url": "https://careers.micron.com/careers/job/40485553",
+      "identifier": "New College Grad - Product Development Failure Ana_icron.com/careers/job/40485553"
+    },
+    {
       "title": "Dry Etch Advanced DRAM Process Development Engineer\nBoise, Idaho, United States of America\nPosted 20 hours ago",
       "url": "https://careers.micron.com/careers/job/40711959",
       "identifier": "Dry Etch Advanced DRAM Process Development Enginee_icron.com/careers/job/40711959"
@@ -34,16 +39,6 @@
       "identifier": "Manufacturing Engineer ID1\nBoise, Idaho, United St_icron.com/careers/job/39688083"
     },
     {
-      "title": "Supply Chain Planner\nBoise, Idaho, United States of America\nPosted 4 days ago",
-      "url": "https://careers.micron.com/careers/job/40774903",
-      "identifier": "Supply Chain Planner\nBoise, Idaho, United States o_icron.com/careers/job/40774903"
-    },
-    {
-      "title": "ATE Process Engineer\nBoise, Idaho, United States of America\nPosted 4 days ago",
-      "url": "https://careers.micron.com/careers/job/40776642",
-      "identifier": "ATE Process Engineer\nBoise, Idaho, United States o_icron.com/careers/job/40776642"
-    },
-    {
       "title": "Real-Time Defect Analysis Equipment Applications Engineer\nManassas, Virginia, United States of America\nPosted 4 days ago",
       "url": "https://careers.micron.com/careers/job/40774838",
       "identifier": "Real-Time Defect Analysis Equipment Applications E_icron.com/careers/job/40774838"
@@ -52,8 +47,13 @@
       "title": "Equipment Engineer\nBoise, Idaho, United States of America\nPosted 4 days ago",
       "url": "https://careers.micron.com/careers/job/40774843",
       "identifier": "Equipment Engineer\nBoise, Idaho, United States of _icron.com/careers/job/40774843"
+    },
+    {
+      "title": "Supply Chain Planner\nBoise, Idaho, United States of America\nPosted 4 days ago",
+      "url": "https://careers.micron.com/careers/job/40774903",
+      "identifier": "Supply Chain Planner\nBoise, Idaho, United States o_icron.com/careers/job/40774903"
     }
   ],
   "job_count_text": "67",
-  "timestamp": "2026-03-16T20:11:26.508229"
+  "timestamp": "2026-03-16T20:28:38.092608"
 }

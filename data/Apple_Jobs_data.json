@@ -4,6 +4,11 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Senior Engineering Manager - Core Data Libraries",
+      "url": "https://jobs.apple.com/en-us/details/200651889-0836/senior-engineering-manager-core-data-libraries?team=SFTWR",
+      "identifier": "Senior Engineering Manager - Core Data Libraries_core-data-libraries?team=SFTWR"
+    },
+    {
       "title": "Senior Software Engineer, Network Management Plane",
       "url": "https://jobs.apple.com/en-us/details/200620405-3956/senior-software-engineer-network-management-plane?team=SFTWR",
       "identifier": "Senior Software Engineer, Network Management Plane_rk-management-plane?team=SFTWR"
@@ -77,13 +82,8 @@
       "title": "Software Engineer, Apps",
       "url": "https://jobs.apple.com/en-us/details/200651726-2926/software-engineer-apps?team=SFTWR",
       "identifier": "Software Engineer, Apps_tware-engineer-apps?team=SFTWR"
-    },
-    {
-      "title": "OS Performance Engineer (Modeling)",
-      "url": "https://jobs.apple.com/en-us/details/200651681-0836/os-performance-engineer-modeling?team=SFTWR",
-      "identifier": "OS Performance Engineer (Modeling)_e-engineer-modeling?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-16T20:08:11.143314"
+  "timestamp": "2026-03-16T20:25:21.814005"
 }

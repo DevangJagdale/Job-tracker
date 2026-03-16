@@ -4,17 +4,27 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Principal Data Scientist\nUnited States, Multiple Locations, Multiple Locations + 8 more\nPosted 13 minutes ago",
+      "title": "Senior Applied Scientist\nUnited States, Washington, Redmond\nPosted 20 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556640895?domain=microsoft.com",
+      "identifier": "Senior Applied Scientist\nUnited States, Washington_556640895?domain=microsoft.com"
+    },
+    {
+      "title": "Principal Software Engineering Manager\nUnited States, Washington, Redmond + 2 more\nPosted 29 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556847548?domain=microsoft.com",
+      "identifier": "Principal Software Engineering Manager\nUnited Stat_556847548?domain=microsoft.com"
+    },
+    {
+      "title": "Principal Data Scientist\nUnited States, Multiple Locations, Multiple Locations + 8 more\nPosted 30 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556849580?domain=microsoft.com",
       "identifier": "Principal Data Scientist\nUnited States, Multiple L_556849580?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer\nUnited States, Washington, Redmond + 1 more\nPosted 15 minutes ago",
+      "title": "Senior Software Engineer\nUnited States, Washington, Redmond + 1 more\nPosted 33 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556849511?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Washington_556849511?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer - Azure Storage\nUnited States, Washington, Redmond\nPosted 25 minutes ago",
+      "title": "Senior Software Engineer - Azure Storage\nUnited States, Washington, Redmond\nPosted 42 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556637615?domain=microsoft.com",
       "identifier": "Senior Software Engineer - Azure Storage\nUnited St_556637615?domain=microsoft.com"
     },
@@ -42,18 +52,8 @@
       "title": "Principal Software Engineer - Native\nUnited States, Washington, Redmond\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556629469?domain=microsoft.com",
       "identifier": "Principal Software Engineer - Native\nUnited States_556629469?domain=microsoft.com"
-    },
-    {
-      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 2 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556753713?domain=microsoft.com",
-      "identifier": "Software Engineer II\nUnited States, Washington, Re_556753713?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Software Engineer\nUnited States, California, Mountain View + 1 more\nPosted 2 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556654997?domain=microsoft.com",
-      "identifier": "Senior Software Engineer\nUnited States, California_556654997?domain=microsoft.com"
     }
   ],
-  "job_count_text": "859",
-  "timestamp": "2026-03-16T20:07:54.853116"
+  "job_count_text": "861",
+  "timestamp": "2026-03-16T20:25:05.612269"
 }

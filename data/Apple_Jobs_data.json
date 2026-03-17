@@ -4,6 +4,11 @@
   "total_jobs": 15,
   "jobs": [
     {
+      "title": "Site Reliability Engineering (SRE) Manager, Apple Maps",
+      "url": "https://jobs.apple.com/en-us/details/200651886-0836/site-reliability-engineering-sre-manager-apple-maps?team=SFTWR",
+      "identifier": "Site Reliability Engineering (SRE) Manager, Apple _-manager-apple-maps?team=SFTWR"
+    },
+    {
       "title": "Generative AI Quality Engineer",
       "url": "https://jobs.apple.com/en-us/details/200651864-0836/generative-ai-quality-engineer?team=SFTWR",
       "identifier": "Generative AI Quality Engineer_ai-quality-engineer?team=SFTWR"
@@ -72,13 +77,8 @@
       "title": "Senior Quality - Build Qualification and Release",
       "url": "https://jobs.apple.com/en-us/details/200651908-3401/senior-quality-build-qualification-and-release?team=SFTWR",
       "identifier": "Senior Quality - Build Qualification and Release_ication-and-release?team=SFTWR"
-    },
-    {
-      "title": "Software Manager, Siri Communications Experiences",
-      "url": "https://jobs.apple.com/en-us/details/200651897-3337/software-manager-siri-communications-experiences?team=SFTWR",
-      "identifier": "Software Manager, Siri Communications Experiences_cations-experiences?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-17T15:36:42.970808"
+  "timestamp": "2026-03-17T15:53:57.881628"
 }

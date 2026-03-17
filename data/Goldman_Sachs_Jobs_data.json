@@ -4,6 +4,21 @@
   "total_jobs": 20,
   "jobs": [
     {
+      "title": "Global Markets Trading Platform Engineering - GBM Public - Associate - Software Engineer - Dallas\nNew York\u00b7United States\n\u00b7Associate",
+      "url": "https://higher.gs.com/roles/161601",
+      "identifier": "Global Markets Trading Platform Engineering - GBM _s://higher.gs.com/roles/161601"
+    },
+    {
+      "title": "Data Engineering - Market Data Engineering - Software Engineer - Associate - Dallas\nDallas\u00b7United States\n\u00b7Associate",
+      "url": "https://higher.gs.com/roles/152750",
+      "identifier": "Data Engineering - Market Data Engineering - Softw_s://higher.gs.com/roles/152750"
+    },
+    {
+      "title": "AI/ML Engineer, Global Banking & Markets, Investment Banking\nDallas\u00b7United States\n\u00b7Associate",
+      "url": "https://higher.gs.com/roles/161628",
+      "identifier": "AI/ML Engineer, Global Banking & Markets, Investme_s://higher.gs.com/roles/161628"
+    },
+    {
       "title": "Production Engineer, Global Banking & Markets, FICC Systematic Market Making (SMM)\nNew York\u00b7United States\n\u00b7Associate",
       "url": "https://higher.gs.com/roles/162484",
       "identifier": "Production Engineer, Global Banking & Markets, FIC_s://higher.gs.com/roles/162484"
@@ -12,11 +27,6 @@
       "title": "Asset & Wealth Management-Scrum Master Engineer-Associate-Albany\nAlbany\u00b7United States\n\u00b7Associate",
       "url": "https://higher.gs.com/roles/158357",
       "identifier": "Asset & Wealth Management-Scrum Master Engineer-As_s://higher.gs.com/roles/158357"
-    },
-    {
-      "title": "AI/ML Engineer, Global Banking & Markets, Investment Banking\nDallas\u00b7United States\n\u00b7Associate",
-      "url": "https://higher.gs.com/roles/161628",
-      "identifier": "AI/ML Engineer, Global Banking & Markets, Investme_s://higher.gs.com/roles/161628"
     },
     {
       "title": "Asset & Wealth Management-Software Engineering-Associate-Dallas\nDallas\u00b7United States\n\u00b7Associate",
@@ -69,16 +79,6 @@
       "identifier": "Asset & Wealth Management - Multi Asset Solutions _s://higher.gs.com/roles/161110"
     },
     {
-      "title": "Software Engineer \u2013 CRG (Analyst / Associate)\nDallas\u00b7United States\n\u00b7Associate",
-      "url": "https://higher.gs.com/roles/163118",
-      "identifier": "Software Engineer \u2013 CRG (Analyst / Associate)\nDall_s://higher.gs.com/roles/163118"
-    },
-    {
-      "title": "Global Markets Trading Platform Engineering - GBM Public - Associate - Software Engineer - Dallas\nNew York\u00b7United States\n\u00b7Associate",
-      "url": "https://higher.gs.com/roles/161601",
-      "identifier": "Global Markets Trading Platform Engineering - GBM _s://higher.gs.com/roles/161601"
-    },
-    {
       "title": "Wealth Management Operations- Process Modernization-Associate-Dallas\nDallas\u00b7United States\n\u00b7Associate",
       "url": "https://higher.gs.com/roles/163689",
       "identifier": "Wealth Management Operations- Process Modernizatio_s://higher.gs.com/roles/163689"
@@ -104,6 +104,6 @@
       "identifier": "Software Engineer, Global Banking & Markets, Syste_s://higher.gs.com/roles/162482"
     }
   ],
-  "job_count_text": "56",
-  "timestamp": "2026-03-17T14:19:03.782001"
+  "job_count_text": "55",
+  "timestamp": "2026-03-17T14:36:12.195368"
 }

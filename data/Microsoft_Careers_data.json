@@ -4,7 +4,17 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted 39 minutes ago",
+      "title": "Senior Data Engineer - Generative AI & Agents\nUnited States, Washington, Redmond\nPosted 7 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556843671?domain=microsoft.com",
+      "identifier": "Senior Data Engineer - Generative AI & Agents\nUnit_556843671?domain=microsoft.com"
+    },
+    {
+      "title": "Principal Applied Scientist\nUnited States, Washington, Redmond\nPosted 19 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556638829?domain=microsoft.com",
+      "identifier": "Principal Applied Scientist\nUnited States, Washing_556638829?domain=microsoft.com"
+    },
+    {
+      "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556735299?domain=microsoft.com",
       "identifier": "Principal Software Engineer\nUnited States, Washing_556735299?domain=microsoft.com"
     },
@@ -19,7 +29,7 @@
       "identifier": "Senior Software Engineer (Frontend/Full Stack)\nUni_556755367?domain=microsoft.com"
     },
     {
-      "title": "Software Engineer I - OfficePy\nUnited States, Washington, Redmond\nPosted 13 hours ago",
+      "title": "Software Engineer I - OfficePy\nUnited States, Washington, Redmond\nPosted 14 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556847482?domain=microsoft.com",
       "identifier": "Software Engineer I - OfficePy\nUnited States, Wash_556847482?domain=microsoft.com"
     },
@@ -42,18 +52,8 @@
       "title": "Principal AI Network Architect\nUnited States, Washington, Redmond + 2 more\nPosted 14 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556824933?domain=microsoft.com",
       "identifier": "Principal AI Network Architect\nUnited States, Wash_556824933?domain=microsoft.com"
-    },
-    {
-      "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted 14 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556847433?domain=microsoft.com",
-      "identifier": "Principal Software Engineer\nUnited States, Washing_556847433?domain=microsoft.com"
-    },
-    {
-      "title": "Software Engineering II - Front End\nUnited States, Washington, Redmond + 3 more\nPosted 15 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556849571?domain=microsoft.com",
-      "identifier": "Software Engineering II - Front End\nUnited States,_556849571?domain=microsoft.com"
     }
   ],
-  "job_count_text": "816",
-  "timestamp": "2026-03-17T14:19:37.690364"
+  "job_count_text": "818",
+  "timestamp": "2026-03-17T14:36:46.730686"
 }

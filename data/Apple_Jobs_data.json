@@ -1,8 +1,13 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 16,
+  "total_jobs": 15,
   "jobs": [
+    {
+      "title": "Generative AI Quality Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200651864-0836/generative-ai-quality-engineer?team=SFTWR",
+      "identifier": "Generative AI Quality Engineer_ai-quality-engineer?team=SFTWR"
+    },
     {
       "title": "Full Stack Developer",
       "url": "https://jobs.apple.com/en-us/details/200651648-0836/full-stack-developer?team=SFTWR",
@@ -72,18 +77,8 @@
       "title": "Software Manager, Siri Communications Experiences",
       "url": "https://jobs.apple.com/en-us/details/200651897-3337/software-manager-siri-communications-experiences?team=SFTWR",
       "identifier": "Software Manager, Siri Communications Experiences_cations-experiences?team=SFTWR"
-    },
-    {
-      "title": "Quality & Test Automation Engineer \u2013 Xcode",
-      "url": "https://jobs.apple.com/en-us/details/200586454-0836/quality-test-automation-engineer-xcode?team=SFTWR",
-      "identifier": "Quality & Test Automation Engineer \u2013 Xcode_tion-engineer-xcode?team=SFTWR"
-    },
-    {
-      "title": "Machine Learning Engineer \u2014 On-Device Adaptive Control",
-      "url": "https://jobs.apple.com/en-us/details/200649782-3337/machine-learning-engineer-on-device-adaptive-control?team=SFTWR",
-      "identifier": "Machine Learning Engineer \u2014 On-Device Adaptive Con_ce-adaptive-control?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-17T14:19:53.352817"
+  "timestamp": "2026-03-17T14:37:02.812450"
 }

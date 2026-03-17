@@ -1,20 +1,25 @@
 {
   "page_title": "| Microsoft Careers",
   "url": "https://apply.careers.microsoft.com/careers?domain=microsoft.com&start=0&location=United+States&sort_by=timestamp&filter_include_remote=1&filter_profession=software+engineering%2Cresearch%252C%2520applied%252C%2520%2526%2520data%2520sciences",
-  "total_jobs": 9,
+  "total_jobs": 10,
   "jobs": [
     {
-      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 16 minutes ago",
+      "title": "Software Engineer - CTJ- POLY\nUnited States, Washington, Redmond + 2 more\nPosted 22 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556828047?domain=microsoft.com",
+      "identifier": "Software Engineer - CTJ- POLY\nUnited States, Washi_556828047?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 33 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556619823?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Washington_556619823?domain=microsoft.com"
     },
     {
-      "title": "Principal Applied Scientist\nUnited States, Washington, Redmond + 1 more\nPosted 36 minutes ago",
+      "title": "Principal Applied Scientist\nUnited States, Washington, Redmond + 1 more\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556827467?domain=microsoft.com",
       "identifier": "Principal Applied Scientist\nUnited States, Washing_556827467?domain=microsoft.com"
     },
     {
-      "title": "Forward Deployed Engineer\nUnited States, Washington, Redmond + 2 more\nPosted 37 minutes ago",
+      "title": "Forward Deployed Engineer\nUnited States, Washington, Redmond + 2 more\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556734943?domain=microsoft.com",
       "identifier": "Forward Deployed Engineer\nUnited States, Washingto_556734943?domain=microsoft.com"
     },
@@ -34,12 +39,12 @@
       "identifier": "Senior Software Engineer\nUnited States, Washington_556834306?domain=microsoft.com"
     },
     {
-      "title": "Principal Applied Scientist\nUnited States, Washington, Redmond\nPosted an hour ago",
+      "title": "Principal Applied Scientist\nUnited States, Washington, Redmond\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556744947?domain=microsoft.com",
       "identifier": "Principal Applied Scientist\nUnited States, Washing_556744947?domain=microsoft.com"
     },
     {
-      "title": "Senior AI Applied Scientist\nUnited States, Washington, Redmond\nPosted an hour ago",
+      "title": "Senior AI Applied Scientist\nUnited States, Washington, Redmond\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556620898?domain=microsoft.com",
       "identifier": "Senior AI Applied Scientist\nUnited States, Washing_556620898?domain=microsoft.com"
     },
@@ -49,6 +54,6 @@
       "identifier": "Senior Software Engineer - Surface Post-Launch Eng_556819794?domain=microsoft.com"
     }
   ],
-  "job_count_text": "831",
-  "timestamp": "2026-03-17T17:19:46.089891"
+  "job_count_text": "832",
+  "timestamp": "2026-03-17T17:36:56.903699"
 }

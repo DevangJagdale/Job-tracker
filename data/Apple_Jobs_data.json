@@ -4,6 +4,16 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Software Engineering Manager, Health",
+      "url": "https://jobs.apple.com/en-us/details/200651894-3956/software-engineering-manager-health?team=SFTWR",
+      "identifier": "Software Engineering Manager, Health_ring-manager-health?team=SFTWR"
+    },
+    {
+      "title": "Senior Lead Auditor - Medical Devices",
+      "url": "https://jobs.apple.com/en-us/details/200650153-0836/senior-lead-auditor-medical-devices?team=SFTWR",
+      "identifier": "Senior Lead Auditor - Medical Devices_tor-medical-devices?team=SFTWR"
+    },
+    {
       "title": "Software Engineer - Cloud Systems",
       "url": "https://jobs.apple.com/en-us/details/200633086-3337/software-engineer-cloud-systems?team=SFTWR",
       "identifier": "Software Engineer - Cloud Systems_ineer-cloud-systems?team=SFTWR"
@@ -72,18 +82,8 @@
       "title": "Site Reliability Engineer - Apple Maps",
       "url": "https://jobs.apple.com/en-us/details/200650706-0836/site-reliability-engineer-apple-maps?team=SFTWR",
       "identifier": "Site Reliability Engineer - Apple Maps_engineer-apple-maps?team=SFTWR"
-    },
-    {
-      "title": "Engineering Program Manager, Data Platform, Apple Services Engineering",
-      "url": "https://jobs.apple.com/en-us/details/200651223-0836/engineering-program-manager-data-platform-apple-services-engineering?team=SFTWR",
-      "identifier": "Engineering Program Manager, Data Platform, Apple _ervices-engineering?team=SFTWR"
-    },
-    {
-      "title": "Senior Quality - Build Qualification and Release",
-      "url": "https://jobs.apple.com/en-us/details/200651908-3401/senior-quality-build-qualification-and-release?team=SFTWR",
-      "identifier": "Senior Quality - Build Qualification and Release_ication-and-release?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-17T17:20:02.222823"
+  "timestamp": "2026-03-17T17:37:12.950560"
 }

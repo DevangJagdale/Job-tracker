@@ -39,11 +39,6 @@
       "identifier": "Business Analyst I (Full Time) United States_lyst-I-Full-Time-United-States"
     },
     {
-      "title": "Product Management Engineer II (Full Time)- United States",
-      "url": "https://careers.cisco.com/global/en/job/2007764/Product-Management-Engineer-II-Full-Time-United-States",
-      "identifier": "Product Management Engineer II (Full Time)- United_eer-II-Full-Time-United-States"
-    },
-    {
       "title": "DevOps Engineer II (Full-Time) - United States",
       "url": "https://careers.cisco.com/global/en/job/2008084/DevOps-Engineer-II-Full-Time-United-States",
       "identifier": "DevOps Engineer II (Full-Time) - United States_eer-II-Full-Time-United-States"
@@ -52,8 +47,13 @@
       "title": "Software Engineer Backend/Platform Systems II (Full Time) \u2013 United States",
       "url": "https://careers.cisco.com/global/en/job/2000135/Software-Engineer-Backend-Platform-Systems-II-Full-Time-United-States",
       "identifier": "Software Engineer Backend/Platform Systems II (Ful_ems-II-Full-Time-United-States"
+    },
+    {
+      "title": "Sales Development Representative II (Full Time) United States (Virtual Demand Center) - United States",
+      "url": "https://careers.cisco.com/global/en/job/2008662/Sales-Development-Representative-II-Full-Time-United-States-Virtual-Demand-Center-United-States",
+      "identifier": "Sales Development Representative II (Full Time) Un_al-Demand-Center-United-States"
     }
   ],
-  "job_count_text": "31",
-  "timestamp": "2026-03-17T07:21:22.348738"
+  "job_count_text": "30",
+  "timestamp": "2026-03-17T07:38:36.472820"
 }

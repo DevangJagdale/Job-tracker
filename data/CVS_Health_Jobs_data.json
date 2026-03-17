@@ -4,16 +4,6 @@
   "total_jobs": 8,
   "jobs": [
     {
-      "title": "Senior Analyst, Executive Support",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0791077/Senior-Analyst-Executive-Support",
-      "identifier": "Senior Analyst, Executive Support_nior-Analyst-Executive-Support"
-    },
-    {
-      "title": "Senior Manager, SRE Release Engineering",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0840515/Senior-Manager-SRE-Release-Engineering",
-      "identifier": "Senior Manager, SRE Release Engineering_anager-SRE-Release-Engineering"
-    },
-    {
       "title": "Senior Front End Engineer",
       "url": "https://jobs.cvshealth.com/us/en/job/R0805983/Senior-Front-End-Engineer",
       "identifier": "Senior Front End Engineer_5983/Senior-Front-End-Engineer"
@@ -24,9 +14,14 @@
       "identifier": "Senior .NET Software Development Engineer_-Software-Development-Engineer"
     },
     {
-      "title": "Principal Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0762980/Principal-Software-Development-Engineer",
-      "identifier": "Principal Software Development Engineer_-Software-Development-Engineer"
+      "title": "Senior Software Engineer - Flutter",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0660823/Senior-Software-Engineer-Flutter",
+      "identifier": "Senior Software Engineer - Flutter_nior-Software-Engineer-Flutter"
+    },
+    {
+      "title": "Senior Manager, SRE Release Engineering",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0840515/Senior-Manager-SRE-Release-Engineering",
+      "identifier": "Senior Manager, SRE Release Engineering_anager-SRE-Release-Engineering"
     },
     {
       "title": "Software Engineer",
@@ -34,16 +29,21 @@
       "identifier": "Software Engineer_job/R0812477/Software-Engineer"
     },
     {
-      "title": "Senior Software Engineer - Flutter",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0660823/Senior-Software-Engineer-Flutter",
-      "identifier": "Senior Software Engineer - Flutter_nior-Software-Engineer-Flutter"
+      "title": "Principal Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0762980/Principal-Software-Development-Engineer",
+      "identifier": "Principal Software Development Engineer_-Software-Development-Engineer"
     },
     {
       "title": "Staff Engineer - SRE, Retail and Pharmacy",
       "url": "https://jobs.cvshealth.com/us/en/job/R0749548/Staff-Engineer-SRE-Retail-and-Pharmacy",
       "identifier": "Staff Engineer - SRE, Retail and Pharmacy_gineer-SRE-Retail-and-Pharmacy"
+    },
+    {
+      "title": "Lead DevOps Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0844164/Lead-DevOps-Engineer",
+      "identifier": "Lead DevOps Engineer_/R0844164/Lead-DevOps-Engineer"
     }
   ],
   "job_count_text": "35",
-  "timestamp": "2026-03-17T04:28:09.240249"
+  "timestamp": "2026-03-17T04:45:22.787020"
 }

@@ -4,6 +4,11 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Software Engineer Applications",
+      "url": "https://jobs.apple.com/en-us/details/200651951-3543/software-engineer-applications?team=SFTWR",
+      "identifier": "Software Engineer Applications_gineer-applications?team=SFTWR"
+    },
+    {
       "title": "Software Engineering Manager, Health",
       "url": "https://jobs.apple.com/en-us/details/200651894-3956/software-engineering-manager-health?team=SFTWR",
       "identifier": "Software Engineering Manager, Health_ring-manager-health?team=SFTWR"
@@ -77,13 +82,8 @@
       "title": "Senior Machine Learning Engineer, Wallet, Payment & Commerce",
       "url": "https://jobs.apple.com/en-us/details/200651766-0157/senior-machine-learning-engineer-wallet-payment-commerce?team=SFTWR",
       "identifier": "Senior Machine Learning Engineer, Wallet, Payment _et-payment-commerce?team=SFTWR"
-    },
-    {
-      "title": "Site Reliability Engineer - Apple Maps",
-      "url": "https://jobs.apple.com/en-us/details/200650706-0836/site-reliability-engineer-apple-maps?team=SFTWR",
-      "identifier": "Site Reliability Engineer - Apple Maps_engineer-apple-maps?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-17T17:37:12.950560"
+  "timestamp": "2026-03-17T17:54:30.005587"
 }

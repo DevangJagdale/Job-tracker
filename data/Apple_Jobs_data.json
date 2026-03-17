@@ -4,6 +4,11 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Full Stack Developer",
+      "url": "https://jobs.apple.com/en-us/details/200651648-0836/full-stack-developer?team=SFTWR",
+      "identifier": "Full Stack Developer_ull-stack-developer?team=SFTWR"
+    },
+    {
       "title": "Senior Software Engineer - Technical Lead - Compute, Apple Cloud Engineering",
       "url": "https://jobs.apple.com/en-us/details/200651936-3337/senior-software-engineer-technical-lead-compute-apple-cloud-engineering?team=SFTWR",
       "identifier": "Senior Software Engineer - Technical Lead - Comput_e-cloud-engineering?team=SFTWR"
@@ -77,13 +82,8 @@
       "title": "Machine Learning Engineer \u2014 On-Device Adaptive Control",
       "url": "https://jobs.apple.com/en-us/details/200649782-3337/machine-learning-engineer-on-device-adaptive-control?team=SFTWR",
       "identifier": "Machine Learning Engineer \u2014 On-Device Adaptive Con_ce-adaptive-control?team=SFTWR"
-    },
-    {
-      "title": "Software Integrity Engineer, Video Apps",
-      "url": "https://jobs.apple.com/en-us/details/200651765-0670/software-integrity-engineer-video-apps?team=SFTWR",
-      "identifier": "Software Integrity Engineer, Video Apps_engineer-video-apps?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-17T08:11:18.459591"
+  "timestamp": "2026-03-17T08:28:27.793842"
 }

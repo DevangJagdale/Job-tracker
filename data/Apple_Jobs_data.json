@@ -1,12 +1,32 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 17,
+  "total_jobs": 19,
   "jobs": [
+    {
+      "title": "Computational Photography/Computer Vision Machine Learning Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200645623-0836/computational-photography-computer-vision-machine-learning-engineer?team=SFTWR",
+      "identifier": "Computational Photography/Computer Vision Machine _e-learning-engineer?team=SFTWR"
+    },
     {
       "title": "Software Engineer (Agentic AI), AI & Data Platforms ( AiDP)",
       "url": "https://jobs.apple.com/en-us/details/200649707-0157/software-engineer-agentic-ai-ai-data-platforms-aidp?team=SFTWR",
       "identifier": "Software Engineer (Agentic AI), AI & Data Platform_data-platforms-aidp?team=SFTWR"
+    },
+    {
+      "title": "Software Quality Engineer, Security Server Application, Enterprise Applications Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200651077-3956/software-quality-engineer-security-server-application-enterprise-applications-engineering?team=SFTWR",
+      "identifier": "Software Quality Engineer, Security Server Applica_cations-engineering?team=SFTWR"
+    },
+    {
+      "title": "Security/Privacy Engineer, Enterprise Technology Services.",
+      "url": "https://jobs.apple.com/en-us/details/200650101-3956/security-privacy-engineer-enterprise-technology-services?team=SFTWR",
+      "identifier": "Security/Privacy Engineer, Enterprise Technology S_technology-services?team=SFTWR"
+    },
+    {
+      "title": "Software Engineer, OS and System Services",
+      "url": "https://jobs.apple.com/en-us/details/200652236-0836/software-engineer-os-and-system-services?team=SFTWR",
+      "identifier": "Software Engineer, OS and System Services_and-system-services?team=SFTWR"
     },
     {
       "title": "Software Quality Engineer - Maps",
@@ -77,18 +97,8 @@
       "title": "Generative AI Quality Engineer",
       "url": "https://jobs.apple.com/en-us/details/200651864-0836/generative-ai-quality-engineer?team=SFTWR",
       "identifier": "Generative AI Quality Engineer_ai-quality-engineer?team=SFTWR"
-    },
-    {
-      "title": "Senior Software Engineer - Technical Lead - Compute, Apple Cloud Engineering",
-      "url": "https://jobs.apple.com/en-us/details/200651936-3337/senior-software-engineer-technical-lead-compute-apple-cloud-engineering?team=SFTWR",
-      "identifier": "Senior Software Engineer - Technical Lead - Comput_e-cloud-engineering?team=SFTWR"
-    },
-    {
-      "title": "Senior Engineering Manager - Data Lakehouse",
-      "url": "https://jobs.apple.com/en-us/details/200651889-0836/senior-engineering-manager-data-lakehouse?team=SFTWR",
-      "identifier": "Senior Engineering Manager - Data Lakehouse_ager-data-lakehouse?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-17T21:46:40.969748"
+  "timestamp": "2026-03-17T22:03:59.774648"
 }

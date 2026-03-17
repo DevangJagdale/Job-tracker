@@ -1,20 +1,35 @@
 {
   "page_title": "| Microsoft Careers",
   "url": "https://apply.careers.microsoft.com/careers?domain=microsoft.com&start=0&location=United+States&sort_by=timestamp&filter_include_remote=1&filter_profession=software+engineering%2Cresearch%252C%2520applied%252C%2520%2526%2520data%2520sciences",
-  "total_jobs": 10,
+  "total_jobs": 9,
   "jobs": [
     {
-      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 17 minutes ago",
+      "title": "Applied Sciences\nUnited States, Washington, Redmond + 2 more\nPosted 8 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556837717?domain=microsoft.com",
+      "identifier": "Applied Sciences\nUnited States, Washington, Redmon_556837717?domain=microsoft.com"
+    },
+    {
+      "title": "Principal Software Engineering Lead - Xbox\nUnited States, Multiple Locations, Multiple Locations + 9 more\nPosted 16 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556826804?domain=microsoft.com",
+      "identifier": "Principal Software Engineering Lead - Xbox\nUnited _556826804?domain=microsoft.com"
+    },
+    {
+      "title": "Senior AI Engineer\nUnited States, Washington, Redmond\nPosted 18 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556735298?domain=microsoft.com",
+      "identifier": "Senior AI Engineer\nUnited States, Washington, Redm_556735298?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 34 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556837723?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Washington_556837723?domain=microsoft.com"
     },
     {
-      "title": "Principal Software Engineer\nUnited States, Multiple Locations, Multiple Locations + 8 more\nPosted 23 minutes ago",
+      "title": "Principal Software Engineer\nUnited States, Multiple Locations, Multiple Locations + 8 more\nPosted 40 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556834724?domain=microsoft.com",
       "identifier": "Principal Software Engineer\nUnited States, Multipl_556834724?domain=microsoft.com"
     },
     {
-      "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted 40 minutes ago",
+      "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556803464?domain=microsoft.com",
       "identifier": "Principal Software Engineer\nUnited States, Washing_556803464?domain=microsoft.com"
     },
@@ -32,28 +47,8 @@
       "title": "Principal Software Engineering Manager - Business Enablement\nUnited States, Washington, Redmond\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556847505?domain=microsoft.com",
       "identifier": "Principal Software Engineering Manager - Business _556847505?domain=microsoft.com"
-    },
-    {
-      "title": "Principal Software Engineering Manager - Package Ingestion\nUnited States, Washington, Redmond\nPosted an hour ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556847526?domain=microsoft.com",
-      "identifier": "Principal Software Engineering Manager - Package I_556847526?domain=microsoft.com"
-    },
-    {
-      "title": "Software Engineer\nUnited States, Washington, Redmond\nPosted an hour ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556847494?domain=microsoft.com",
-      "identifier": "Software Engineer\nUnited States, Washington, Redmo_556847494?domain=microsoft.com"
-    },
-    {
-      "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted 2 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556824074?domain=microsoft.com",
-      "identifier": "Principal Software Engineer\nUnited States, Washing_556824074?domain=microsoft.com"
-    },
-    {
-      "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted 2 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556803683?domain=microsoft.com",
-      "identifier": "Principal Software Engineer\nUnited States, Washing_556803683?domain=microsoft.com"
     }
   ],
-  "job_count_text": "846",
-  "timestamp": "2026-03-17T21:11:52.754942"
+  "job_count_text": "848",
+  "timestamp": "2026-03-17T21:29:08.549789"
 }

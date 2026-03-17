@@ -1,7 +1,7 @@
 {
   "page_title": "Search for Jobs",
   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite?locationCountry=bc33aa3152ec42d4995f4791a106ed09&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&workerSubType=ab40a98049581037a3ada55b087049b7",
-  "total_jobs": 19,
+  "total_jobs": 18,
   "jobs": [
     {
       "title": "Software Engineer, Hardware Tools and Methodology - New College Grad 2026",
@@ -22,11 +22,6 @@
       "title": "Power Architect - New College Grad 2026",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Power-Architect---New-College-Grad-2026_JR2012839?locationCountry=bc33aa3152ec42d4995f4791a106ed09&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&workerSubType=ab40a98049581037a3ada55b087049b7",
       "identifier": "Power Architect - New College Grad 2026_40a98049581037a3ada55b087049b7"
-    },
-    {
-      "title": "Long-Horizon Agents Software Engineer \u2014 New College Grad 2026",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Long-Horizon-Agents-Software-Engineer---New-College-Grad-2026_JR2014184?locationCountry=bc33aa3152ec42d4995f4791a106ed09&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&workerSubType=ab40a98049581037a3ada55b087049b7",
-      "identifier": "Long-Horizon Agents Software Engineer \u2014 New Colleg_40a98049581037a3ada55b087049b7"
     },
     {
       "title": "Pricing Operation Specialist - New College Graduate 2026",
@@ -79,11 +74,6 @@
       "identifier": "Developer Technology Engineer, High-Performance Da_40a98049581037a3ada55b087049b7"
     },
     {
-      "title": "Developer Technology Engineer, CPU Performance - New College Grad 2026",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--CPU-Performance---New-College-Grad-2026_JR2013804?locationCountry=bc33aa3152ec42d4995f4791a106ed09&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&workerSubType=ab40a98049581037a3ada55b087049b7",
-      "identifier": "Developer Technology Engineer, CPU Performance - N_40a98049581037a3ada55b087049b7"
-    },
-    {
       "title": "Deep Learning Performance Architect - New College Graduate 2026",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Performance-Architect---New-College-Graduate-2026_JR2014027?locationCountry=bc33aa3152ec42d4995f4791a106ed09&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&workerSubType=ab40a98049581037a3ada55b087049b7",
       "identifier": "Deep Learning Performance Architect - New College _40a98049581037a3ada55b087049b7"
@@ -97,8 +87,13 @@
       "title": "ASIC Floorplan Design Engineer - New College Grad 2026",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Floorplan-Design-Engineer---New-College-Grad-2026_JR2012971?locationCountry=bc33aa3152ec42d4995f4791a106ed09&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&workerSubType=ab40a98049581037a3ada55b087049b7",
       "identifier": "ASIC Floorplan Design Engineer - New College Grad _40a98049581037a3ada55b087049b7"
+    },
+    {
+      "title": "ASIC Clocks Verification Engineer - New College Grad 2026",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Clocks-Verification-Engineer---New-College-Grad-2026_JR2013336?locationCountry=bc33aa3152ec42d4995f4791a106ed09&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&workerSubType=ab40a98049581037a3ada55b087049b7",
+      "identifier": "ASIC Clocks Verification Engineer - New College Gr_40a98049581037a3ada55b087049b7"
     }
   ],
-  "job_count_text": "59",
-  "timestamp": "2026-03-17T19:08:37.018391"
+  "job_count_text": "57",
+  "timestamp": "2026-03-17T19:25:48.691377"
 }

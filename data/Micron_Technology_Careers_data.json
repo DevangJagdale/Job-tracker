@@ -4,14 +4,14 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Memory Design Engineer, DRAM\nBoise, Idaho, United States of America\nPosted 19 hours ago",
-      "url": "https://careers.micron.com/careers/job/39520187",
-      "identifier": "Memory Design Engineer, DRAM\nBoise, Idaho, United _icron.com/careers/job/39520187"
-    },
-    {
       "title": "New College Grad - SPC Engineer\nManassas, Virginia, United States of America\nPosted 19 hours ago",
       "url": "https://careers.micron.com/careers/job/40485502",
       "identifier": "New College Grad - SPC Engineer\nManassas, Virginia_icron.com/careers/job/40485502"
+    },
+    {
+      "title": "Memory Design Engineer, DRAM\nBoise, Idaho, United States of America\nPosted 19 hours ago",
+      "url": "https://careers.micron.com/careers/job/39520187",
+      "identifier": "Memory Design Engineer, DRAM\nBoise, Idaho, United _icron.com/careers/job/39520187"
     },
     {
       "title": "Firmware Test Engineer, SSD\nLongmont, Colorado, United States of America\nPosted 19 hours ago",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "68",
-  "timestamp": "2026-03-17T19:06:50.139122"
+  "timestamp": "2026-03-17T19:24:01.935075"
 }

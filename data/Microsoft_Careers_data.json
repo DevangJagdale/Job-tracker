@@ -4,12 +4,17 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Senior Software Engineer - CTJ - POLY\nUnited States, Virginia, Reston\nPosted 24 minutes ago",
+      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 24 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556658255?domain=microsoft.com",
+      "identifier": "Senior Software Engineer\nUnited States, Washington_556658255?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Software Engineer - CTJ - POLY\nUnited States, Virginia, Reston\nPosted 42 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556843691?domain=microsoft.com",
       "identifier": "Senior Software Engineer - CTJ - POLY\nUnited State_556843691?domain=microsoft.com"
     },
     {
-      "title": "Principal Software Engineering Lead - Xbox\nUnited States, Multiple Locations, Multiple Locations + 9 more\nPosted 34 minutes ago",
+      "title": "Principal Software Engineering Lead - Xbox\nUnited States, Multiple Locations, Multiple Locations + 9 more\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556826804?domain=microsoft.com",
       "identifier": "Principal Software Engineering Lead - Xbox\nUnited _556826804?domain=microsoft.com"
     },
@@ -29,12 +34,12 @@
       "identifier": "Senior Software Engineer\nUnited States, Washington_556619823?domain=microsoft.com"
     },
     {
-      "title": "Principal Applied Scientist\nUnited States, Washington, Redmond + 1 more\nPosted an hour ago",
+      "title": "Principal Applied Scientist\nUnited States, Washington, Redmond + 1 more\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556827467?domain=microsoft.com",
       "identifier": "Principal Applied Scientist\nUnited States, Washing_556827467?domain=microsoft.com"
     },
     {
-      "title": "Forward Deployed Engineer\nUnited States, Washington, Redmond + 2 more\nPosted an hour ago",
+      "title": "Forward Deployed Engineer\nUnited States, Washington, Redmond + 2 more\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556734943?domain=microsoft.com",
       "identifier": "Forward Deployed Engineer\nUnited States, Washingto_556734943?domain=microsoft.com"
     },
@@ -47,13 +52,8 @@
       "title": "Principal Software Engineering Manager\nUnited States, Multiple Locations, Multiple Locations\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556749467?domain=microsoft.com",
       "identifier": "Principal Software Engineering Manager\nUnited Stat_556749467?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 2 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556834306?domain=microsoft.com",
-      "identifier": "Senior Software Engineer\nUnited States, Washington_556834306?domain=microsoft.com"
     }
   ],
-  "job_count_text": "834",
-  "timestamp": "2026-03-17T18:11:27.609765"
+  "job_count_text": "835",
+  "timestamp": "2026-03-17T18:28:44.024122"
 }

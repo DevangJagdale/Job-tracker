@@ -4,6 +4,11 @@
   "total_jobs": 17,
   "jobs": [
     {
+      "title": "Swift Compiler Engineering Manager",
+      "url": "https://jobs.apple.com/en-us/details/200651962-0836/swift-compiler-engineering-manager?team=SFTWR",
+      "identifier": "Swift Compiler Engineering Manager_engineering-manager?team=SFTWR"
+    },
+    {
       "title": "Sr. Manager, Engineering Programs - WPC",
       "url": "https://jobs.apple.com/en-us/details/200651827-0836/sr-manager-engineering-programs-wpc?team=SFTWR",
       "identifier": "Sr. Manager, Engineering Programs - WPC_eering-programs-wpc?team=SFTWR"
@@ -82,13 +87,8 @@
       "title": "GPU Systems Software Engineer, Platform Architecture",
       "url": "https://jobs.apple.com/en-us/details/200621039-0836/gpu-systems-software-engineer-platform-architecture?team=SFTWR",
       "identifier": "GPU Systems Software Engineer, Platform Architectu_atform-architecture?team=SFTWR"
-    },
-    {
-      "title": "Senior Machine Learning Engineer, Wallet, Payment & Commerce",
-      "url": "https://jobs.apple.com/en-us/details/200651766-0157/senior-machine-learning-engineer-wallet-payment-commerce?team=SFTWR",
-      "identifier": "Senior Machine Learning Engineer, Wallet, Payment _et-payment-commerce?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-17T18:11:43.304474"
+  "timestamp": "2026-03-17T18:29:00.108078"
 }

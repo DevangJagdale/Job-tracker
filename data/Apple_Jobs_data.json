@@ -4,6 +4,11 @@
   "total_jobs": 18,
   "jobs": [
     {
+      "title": "Engineering Manager, Data & Machine Learning Systems",
+      "url": "https://jobs.apple.com/en-us/details/200651907-0836/engineering-manager-data-machine-learning-systems?team=SFTWR",
+      "identifier": "Engineering Manager, Data & Machine Learning Syste_ne-learning-systems?team=SFTWR"
+    },
+    {
       "title": "Software Engineer, Data & Machine Learning Systems",
       "url": "https://jobs.apple.com/en-us/details/200651949-3337/software-engineer-data-machine-learning-systems?team=SFTWR",
       "identifier": "Software Engineer, Data & Machine Learning Systems_ne-learning-systems?team=SFTWR"
@@ -87,13 +92,8 @@
       "title": "Software Engineering Manager, Health",
       "url": "https://jobs.apple.com/en-us/details/200651894-3956/software-engineering-manager-health?team=SFTWR",
       "identifier": "Software Engineering Manager, Health_ring-manager-health?team=SFTWR"
-    },
-    {
-      "title": "Senior Lead Auditor - Medical Devices",
-      "url": "https://jobs.apple.com/en-us/details/200650153-0836/senior-lead-auditor-medical-devices?team=SFTWR",
-      "identifier": "Senior Lead Auditor - Medical Devices_tor-medical-devices?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-17T23:30:22.445661"
+  "timestamp": "2026-03-17T23:47:36.847395"
 }

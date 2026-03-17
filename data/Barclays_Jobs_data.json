@@ -1,7 +1,7 @@
 {
   "page_title": "Search our Job Opportunities at Barclays",
   "url": "https://search.jobs.barclays/search-jobs/United%20States/13015/2/6252001/39x76/-98x5/50/2",
-  "total_jobs": 15,
+  "total_jobs": 13,
   "jobs": [
     {
       "title": "Fixed Income eTrading Platform Engineer - VP",
@@ -67,18 +67,8 @@
       "title": "Site Reliability Engineer (SRE), AVP",
       "url": "https://search.jobs.barclays/job/whippany/site-reliability-engineer-sre-avp/13015/92625835696",
       "identifier": "Site Reliability Engineer (SRE), AVP_neer-sre-avp/13015/92625835696"
-    },
-    {
-      "title": "Mortgage Data Engineer, AVP",
-      "url": "https://search.jobs.barclays/job/whippany/mortgage-data-engineer-avp/13015/92613194448",
-      "identifier": "Mortgage Data Engineer, AVP_engineer-avp/13015/92613194448"
-    },
-    {
-      "title": "Senior Fraud Analyst \u2013 AVP",
-      "url": "https://search.jobs.barclays/job/wilmington/senior-fraud-analyst-avp/13015/92586945392",
-      "identifier": "Senior Fraud Analyst \u2013 AVP_-analyst-avp/13015/92586945392"
     }
   ],
-  "job_count_text": "73",
-  "timestamp": "2026-03-17T23:29:48.847988"
+  "job_count_text": "77",
+  "timestamp": "2026-03-17T23:47:03.640674"
 }

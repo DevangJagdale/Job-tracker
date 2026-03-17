@@ -1,15 +1,15 @@
 {
   "page_title": "| Microsoft Careers",
   "url": "https://apply.careers.microsoft.com/careers?domain=microsoft.com&start=0&location=United+States&sort_by=timestamp&filter_include_remote=1&filter_profession=software+engineering%2Cresearch%252C%2520applied%252C%2520%2526%2520data%2520sciences",
-  "total_jobs": 10,
+  "total_jobs": 9,
   "jobs": [
     {
-      "title": "Principal Software Engineering Manager\nUnited States, Washington, Redmond\nPosted 12 minutes ago",
+      "title": "Principal Software Engineering Manager\nUnited States, Washington, Redmond\nPosted 29 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556834878?domain=microsoft.com",
       "identifier": "Principal Software Engineering Manager\nUnited Stat_556834878?domain=microsoft.com"
     },
     {
-      "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted 25 minutes ago",
+      "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted 42 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556823773?domain=microsoft.com",
       "identifier": "Principal Software Engineer\nUnited States, Washing_556823773?domain=microsoft.com"
     },
@@ -39,7 +39,7 @@
       "identifier": "Senior Software Engineer (Frontend/Full Stack)\nUni_556755367?domain=microsoft.com"
     },
     {
-      "title": "Software Engineer I - OfficePy\nUnited States, Washington, Redmond\nPosted 14 hours ago",
+      "title": "Software Engineer I - OfficePy\nUnited States, Washington, Redmond\nPosted 15 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556847482?domain=microsoft.com",
       "identifier": "Software Engineer I - OfficePy\nUnited States, Wash_556847482?domain=microsoft.com"
     },
@@ -47,13 +47,8 @@
       "title": "Software Engineer II and Sr. Software Engineer - AI Frameworks\nUnited States, Multiple Locations, Multiple Locations + 4 more\nPosted 15 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556849595?domain=microsoft.com",
       "identifier": "Software Engineer II and Sr. Software Engineer - A_556849595?domain=microsoft.com"
-    },
-    {
-      "title": "Software Engineer II - CoreAI\nUnited States, Washington, Redmond\nPosted 15 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556745584?domain=microsoft.com",
-      "identifier": "Software Engineer II - CoreAI\nUnited States, Washi_556745584?domain=microsoft.com"
     }
   ],
-  "job_count_text": "822",
-  "timestamp": "2026-03-17T15:19:14.481605"
+  "job_count_text": "824",
+  "timestamp": "2026-03-17T15:36:27.362331"
 }

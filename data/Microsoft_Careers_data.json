@@ -4,17 +4,22 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted 33 minutes ago",
+      "title": "Software Engineer\nUnited States, Washington, Redmond\nPosted 7 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556847494?domain=microsoft.com",
+      "identifier": "Software Engineer\nUnited States, Washington, Redmo_556847494?domain=microsoft.com"
+    },
+    {
+      "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556824074?domain=microsoft.com",
       "identifier": "Principal Software Engineer\nUnited States, Washing_556824074?domain=microsoft.com"
     },
     {
-      "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted 35 minutes ago",
+      "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556803683?domain=microsoft.com",
       "identifier": "Principal Software Engineer\nUnited States, Washing_556803683?domain=microsoft.com"
     },
     {
-      "title": "Software Engineer - CTJ - Poly\nUnited States, Virginia, Reston + 2 more\nPosted 42 minutes ago",
+      "title": "Software Engineer - CTJ - Poly\nUnited States, Virginia, Reston + 2 more\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556833840?domain=microsoft.com",
       "identifier": "Software Engineer - CTJ - Poly\nUnited States, Virg_556833840?domain=microsoft.com"
     },
@@ -47,13 +52,8 @@
       "title": "Principal Software Engineering Lead - Xbox\nUnited States, Multiple Locations, Multiple Locations + 9 more\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556826804?domain=microsoft.com",
       "identifier": "Principal Software Engineering Lead - Xbox\nUnited _556826804?domain=microsoft.com"
-    },
-    {
-      "title": "Backend Software Engineer\nUnited States, California, Mountain View + 1 more\nPosted 2 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556834651?domain=microsoft.com",
-      "identifier": "Backend Software Engineer\nUnited States, Californi_556834651?domain=microsoft.com"
     }
   ],
-  "job_count_text": "840",
-  "timestamp": "2026-03-17T19:37:42.500826"
+  "job_count_text": "841",
+  "timestamp": "2026-03-17T19:55:03.559232"
 }

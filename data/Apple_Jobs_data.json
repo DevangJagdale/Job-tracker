@@ -4,6 +4,11 @@
   "total_jobs": 17,
   "jobs": [
     {
+      "title": "Software Quality Engineer - Maps",
+      "url": "https://jobs.apple.com/en-us/details/200648786-0836/software-quality-engineer-maps?team=SFTWR",
+      "identifier": "Software Quality Engineer - Maps_ality-engineer-maps?team=SFTWR"
+    },
+    {
       "title": "Apple Home / Matter Networking Engineering",
       "url": "https://jobs.apple.com/en-us/details/200652126-0836/apple-home-matter-networking-engineering?team=SFTWR",
       "identifier": "Apple Home / Matter Networking Engineering_working-engineering?team=SFTWR"
@@ -82,13 +87,8 @@
       "title": "Swift Platform Experience \u2013 UI Frameworks Engineer",
       "url": "https://jobs.apple.com/en-us/details/200651965-0836/swift-platform-experience-ui-frameworks-engineer?team=SFTWR",
       "identifier": "Swift Platform Experience \u2013 UI Frameworks Engineer_frameworks-engineer?team=SFTWR"
-    },
-    {
-      "title": "Senior/Staff Software Engineer, Apple Services Engineering",
-      "url": "https://jobs.apple.com/en-us/details/200651219-3337/senior-staff-software-engineer-apple-services-engineering?team=SFTWR",
-      "identifier": "Senior/Staff Software Engineer, Apple Services Eng_ervices-engineering?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-17T20:37:30.431374"
+  "timestamp": "2026-03-17T20:54:48.379178"
 }

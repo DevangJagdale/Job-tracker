@@ -4,7 +4,27 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 41 minutes ago",
+      "title": "Software Engineer - CTJ - Poly\nUnited States, Virginia, Reston + 2 more\nPosted 8 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556833840?domain=microsoft.com",
+      "identifier": "Software Engineer - CTJ - Poly\nUnited States, Virg_556833840?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Data Scientist\nUnited States, Washington, Redmond\nPosted 16 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556639574?domain=microsoft.com",
+      "identifier": "Senior Data Scientist\nUnited States, Washington, R_556639574?domain=microsoft.com"
+    },
+    {
+      "title": "Principal Software Engineering Manager\nUnited States, Washington, Redmond\nPosted 19 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556753132?domain=microsoft.com",
+      "identifier": "Principal Software Engineering Manager\nUnited Stat_556753132?domain=microsoft.com"
+    },
+    {
+      "title": "Principal Software Engineering Manager\nUnited States, Washington, Redmond\nPosted 18 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556753155?domain=microsoft.com",
+      "identifier": "Principal Software Engineering Manager\nUnited Stat_556753155?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556658255?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Washington_556658255?domain=microsoft.com"
     },
@@ -19,7 +39,7 @@
       "identifier": "Principal Software Engineering Lead - Xbox\nUnited _556826804?domain=microsoft.com"
     },
     {
-      "title": "Backend Software Engineer\nUnited States, California, Mountain View + 1 more\nPosted an hour ago",
+      "title": "Backend Software Engineer\nUnited States, California, Mountain View + 1 more\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556834651?domain=microsoft.com",
       "identifier": "Backend Software Engineer\nUnited States, Californi_556834651?domain=microsoft.com"
     },
@@ -32,28 +52,8 @@
       "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556619823?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Washington_556619823?domain=microsoft.com"
-    },
-    {
-      "title": "Principal Applied Scientist\nUnited States, Washington, Redmond + 1 more\nPosted 2 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556827467?domain=microsoft.com",
-      "identifier": "Principal Applied Scientist\nUnited States, Washing_556827467?domain=microsoft.com"
-    },
-    {
-      "title": "Forward Deployed Engineer\nUnited States, Washington, Redmond + 2 more\nPosted 2 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556734943?domain=microsoft.com",
-      "identifier": "Forward Deployed Engineer\nUnited States, Washingto_556734943?domain=microsoft.com"
-    },
-    {
-      "title": "Applied AI Scientist II\nUnited States, Multiple Locations, Multiple Locations\nPosted 2 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556824088?domain=microsoft.com",
-      "identifier": "Applied AI Scientist II\nUnited States, Multiple Lo_556824088?domain=microsoft.com"
-    },
-    {
-      "title": "Principal Software Engineering Manager\nUnited States, Multiple Locations, Multiple Locations\nPosted 2 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556749467?domain=microsoft.com",
-      "identifier": "Principal Software Engineering Manager\nUnited Stat_556749467?domain=microsoft.com"
     }
   ],
-  "job_count_text": "834",
-  "timestamp": "2026-03-17T18:45:57.616174"
+  "job_count_text": "838",
+  "timestamp": "2026-03-17T19:03:14.420984"
 }

@@ -4,16 +4,6 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "MCBU Product Manager\nBoise, Idaho, United States of America\nPosted a day ago",
-      "url": "https://careers.micron.com/careers/job/40878841",
-      "identifier": "MCBU Product Manager\nBoise, Idaho, United States o_icron.com/careers/job/40878841"
-    },
-    {
-      "title": "US Expansion Planning Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
-      "url": "https://careers.micron.com/careers/job/40879212",
-      "identifier": "US Expansion Planning Engineer\nBoise, Idaho, Unite_icron.com/careers/job/40879212"
-    },
-    {
       "title": "New College Grad - Product Development Failure Analysis Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/40485553",
       "identifier": "New College Grad - Product Development Failure Ana_icron.com/careers/job/40485553"
@@ -27,6 +17,16 @@
       "title": "New College Grad - Equipment Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/40876714",
       "identifier": "New College Grad - Equipment Engineer\nBoise, Idaho_icron.com/careers/job/40876714"
+    },
+    {
+      "title": "MCBU Product Manager\nBoise, Idaho, United States of America\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/40878841",
+      "identifier": "MCBU Product Manager\nBoise, Idaho, United States o_icron.com/careers/job/40878841"
+    },
+    {
+      "title": "US Expansion Planning Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/40879212",
+      "identifier": "US Expansion Planning Engineer\nBoise, Idaho, Unite_icron.com/careers/job/40879212"
     },
     {
       "title": "ATE Process Engineer\nBoise, Idaho, United States of America\nPosted 4 days ago",
@@ -49,11 +49,11 @@
       "identifier": "Supply Chain Planner\nBoise, Idaho, United States o_icron.com/careers/job/40774903"
     },
     {
-      "title": "Industrial Engineer \u2013 TPG IE Modeling\nBoise, Idaho, United States of America\nPosted 4 days ago",
-      "url": "https://careers.micron.com/careers/job/40836562",
-      "identifier": "Industrial Engineer \u2013 TPG IE Modeling\nBoise, Idaho_icron.com/careers/job/40836562"
+      "title": "Manufacturing Engineer ID1\nBoise, Idaho, United States of America\nPosted 4 days ago",
+      "url": "https://careers.micron.com/careers/job/39688083",
+      "identifier": "Manufacturing Engineer ID1\nBoise, Idaho, United St_icron.com/careers/job/39688083"
     }
   ],
   "job_count_text": "68",
-  "timestamp": "2026-03-17T09:31:09.818383"
+  "timestamp": "2026-03-17T09:48:22.487617"
 }

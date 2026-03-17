@@ -4,6 +4,16 @@
   "total_jobs": 17,
   "jobs": [
     {
+      "title": "Apple Home / Matter Networking Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200652126-0836/apple-home-matter-networking-engineering?team=SFTWR",
+      "identifier": "Apple Home / Matter Networking Engineering_working-engineering?team=SFTWR"
+    },
+    {
+      "title": "Full Stack Developer",
+      "url": "https://jobs.apple.com/en-us/details/200651648-0836/full-stack-developer?team=SFTWR",
+      "identifier": "Full Stack Developer_ull-stack-developer?team=SFTWR"
+    },
+    {
       "title": "iOS/tvOS Software Engineer, Siri Home Devices",
       "url": "https://jobs.apple.com/en-us/details/200652186-0836/ios-tvos-software-engineer-siri-home-devices?team=SFTWR",
       "identifier": "iOS/tvOS Software Engineer, Siri Home Devices_r-siri-home-devices?team=SFTWR"
@@ -59,11 +69,6 @@
       "identifier": "Generative AI Quality Engineer_ai-quality-engineer?team=SFTWR"
     },
     {
-      "title": "Full Stack Developer",
-      "url": "https://jobs.apple.com/en-us/details/200651648-0836/full-stack-developer?team=SFTWR",
-      "identifier": "Full Stack Developer_ull-stack-developer?team=SFTWR"
-    },
-    {
       "title": "Senior Software Engineer - Technical Lead - Compute, Apple Cloud Engineering",
       "url": "https://jobs.apple.com/en-us/details/200651936-3337/senior-software-engineer-technical-lead-compute-apple-cloud-engineering?team=SFTWR",
       "identifier": "Senior Software Engineer - Technical Lead - Comput_e-cloud-engineering?team=SFTWR"
@@ -82,13 +87,8 @@
       "title": "Senior/Staff Software Engineer, Apple Services Engineering",
       "url": "https://jobs.apple.com/en-us/details/200651219-3337/senior-staff-software-engineer-apple-services-engineering?team=SFTWR",
       "identifier": "Senior/Staff Software Engineer, Apple Services Eng_ervices-engineering?team=SFTWR"
-    },
-    {
-      "title": "Senior Software Engineer, Network Management Plane",
-      "url": "https://jobs.apple.com/en-us/details/200620405-3956/senior-software-engineer-network-management-plane?team=SFTWR",
-      "identifier": "Senior Software Engineer, Network Management Plane_rk-management-plane?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-17T20:29:44.923790"
+  "timestamp": "2026-03-17T20:37:30.431374"
 }

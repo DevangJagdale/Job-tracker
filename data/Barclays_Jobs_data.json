@@ -1,8 +1,13 @@
 {
   "page_title": "Search our Job Opportunities at Barclays",
   "url": "https://search.jobs.barclays/search-jobs/United%20States/13015/2/6252001/39x76/-98x5/50/2",
-  "total_jobs": 14,
+  "total_jobs": 15,
   "jobs": [
+    {
+      "title": "Investment Banking Analyst, Consumer and Retail Group (CRG)",
+      "url": "https://search.jobs.barclays/job/new-york/investment-banking-analyst-consumer-and-retail-group-crg/13015/92857804960",
+      "identifier": "Investment Banking Analyst, Consumer and Retail Gr_il-group-crg/13015/92857804960"
+    },
     {
       "title": "Executive Assistant",
       "url": "https://search.jobs.barclays/job/wilmington/executive-assistant/13015/92732855152",
@@ -75,5 +80,5 @@
     }
   ],
   "job_count_text": "69",
-  "timestamp": "2026-03-17T11:27:34.630009"
+  "timestamp": "2026-03-17T11:44:44.077955"
 }

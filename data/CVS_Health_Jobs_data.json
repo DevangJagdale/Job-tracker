@@ -4,6 +4,11 @@
   "total_jobs": 8,
   "jobs": [
     {
+      "title": "Principal Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0762980/Principal-Software-Development-Engineer",
+      "identifier": "Principal Software Development Engineer_-Software-Development-Engineer"
+    },
+    {
       "title": "Producer",
       "url": "https://jobs.cvshealth.com/us/en/job/R0818760/Producer",
       "identifier": "Producer_om/us/en/job/R0818760/Producer"
@@ -12,11 +17,6 @@
       "title": "Senior Analyst, Executive Support",
       "url": "https://jobs.cvshealth.com/us/en/job/R0791077/Senior-Analyst-Executive-Support",
       "identifier": "Senior Analyst, Executive Support_nior-Analyst-Executive-Support"
-    },
-    {
-      "title": "Principal Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0762980/Principal-Software-Development-Engineer",
-      "identifier": "Principal Software Development Engineer_-Software-Development-Engineer"
     },
     {
       "title": "Senior Software Development Engineer",
@@ -34,16 +34,16 @@
       "identifier": "Senior Manager - Software Development Engineering_ftware-Development-Engineering"
     },
     {
+      "title": "Store Hardware Technician",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0846748/Store-Hardware-Technician",
+      "identifier": "Store Hardware Technician_6748/Store-Hardware-Technician"
+    },
+    {
       "title": "Quality Engineer - Salesforce",
       "url": "https://jobs.cvshealth.com/us/en/job/R0848214/Quality-Engineer-Salesforce",
       "identifier": "Quality Engineer - Salesforce_14/Quality-Engineer-Salesforce"
-    },
-    {
-      "title": "Senior Manager - Production Support",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0845309/Senior-Manager-Production-Support",
-      "identifier": "Senior Manager - Production Support_ior-Manager-Production-Support"
     }
   ],
   "job_count_text": "25",
-  "timestamp": "2026-03-17T10:37:41.357365"
+  "timestamp": "2026-03-17T10:54:48.632981"
 }

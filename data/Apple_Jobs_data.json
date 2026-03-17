@@ -4,6 +4,11 @@
   "total_jobs": 17,
   "jobs": [
     {
+      "title": "Software Engineer (Agentic AI), AI & Data Platforms ( AiDP)",
+      "url": "https://jobs.apple.com/en-us/details/200649707-0157/software-engineer-agentic-ai-ai-data-platforms-aidp?team=SFTWR",
+      "identifier": "Software Engineer (Agentic AI), AI & Data Platform_data-platforms-aidp?team=SFTWR"
+    },
+    {
       "title": "Software Quality Engineer - Maps",
       "url": "https://jobs.apple.com/en-us/details/200648786-0836/software-quality-engineer-maps?team=SFTWR",
       "identifier": "Software Quality Engineer - Maps_ality-engineer-maps?team=SFTWR"
@@ -82,13 +87,8 @@
       "title": "Senior Engineering Manager - Data Lakehouse",
       "url": "https://jobs.apple.com/en-us/details/200651889-0836/senior-engineering-manager-data-lakehouse?team=SFTWR",
       "identifier": "Senior Engineering Manager - Data Lakehouse_ager-data-lakehouse?team=SFTWR"
-    },
-    {
-      "title": "Swift Platform Experience \u2013 UI Frameworks Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200651965-0836/swift-platform-experience-ui-frameworks-engineer?team=SFTWR",
-      "identifier": "Swift Platform Experience \u2013 UI Frameworks Engineer_frameworks-engineer?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-17T21:29:25.144979"
+  "timestamp": "2026-03-17T21:46:40.969748"
 }

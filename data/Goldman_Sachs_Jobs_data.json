@@ -4,6 +4,11 @@
   "total_jobs": 20,
   "jobs": [
     {
+      "title": "Corporate Treasury-New York-Associate-Software Engineering\nNew York\u00b7United States\n\u00b7Associate",
+      "url": "https://higher.gs.com/roles/155284",
+      "identifier": "Corporate Treasury-New York-Associate-Software Eng_s://higher.gs.com/roles/155284"
+    },
+    {
       "title": "Asset & Wealth Management - Web React Developer - Analyst - Richardson\nRichardson\u00b7United States\n\u00b7Analyst",
       "url": "https://higher.gs.com/roles/154114",
       "identifier": "Asset & Wealth Management - Web React Developer - _s://higher.gs.com/roles/154114"
@@ -97,13 +102,8 @@
       "title": "Asset & Wealth Management-Java Developer-Analyst-Dallas\nDallas\u00b7United States\n\u00b7Analyst",
       "url": "https://higher.gs.com/roles/160546",
       "identifier": "Asset & Wealth Management-Java Developer-Analyst-D_s://higher.gs.com/roles/160546"
-    },
-    {
-      "title": "Corporate Planning & Management Engineering, Associate\nDallas\u00b7United States\n\u00b7Associate",
-      "url": "https://higher.gs.com/roles/137803",
-      "identifier": "Corporate Planning & Management Engineering, Assoc_s://higher.gs.com/roles/137803"
     }
   ],
-  "job_count_text": "56",
-  "timestamp": "2026-03-18T21:22:47.873945"
+  "job_count_text": "57",
+  "timestamp": "2026-03-18T21:39:58.679850"
 }

@@ -1,15 +1,30 @@
 {
   "page_title": "| Microsoft Careers",
   "url": "https://apply.careers.microsoft.com/careers?domain=microsoft.com&start=0&location=United+States&sort_by=timestamp&filter_include_remote=1&filter_profession=software+engineering%2Cresearch%252C%2520applied%252C%2520%2526%2520data%2520sciences",
-  "total_jobs": 9,
+  "total_jobs": 8,
   "jobs": [
     {
-      "title": "Senior Software Engineer - Responsible AI\nUnited States, Washington, Redmond\nPosted 10 minutes ago",
+      "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted 16 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556735163?domain=microsoft.com",
+      "identifier": "Principal Software Engineer\nUnited States, Washing_556735163?domain=microsoft.com"
+    },
+    {
+      "title": "Software Engineer - CTJ - Poly\nUnited States, Virginia, Reston + 2 more\nPosted 18 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556824773?domain=microsoft.com",
+      "identifier": "Software Engineer - CTJ - Poly\nUnited States, Virg_556824773?domain=microsoft.com"
+    },
+    {
+      "title": "Machine Learning Engineer\nUnited States, Washington, Redmond\nPosted 18 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556641984?domain=microsoft.com",
+      "identifier": "Machine Learning Engineer\nUnited States, Washingto_556641984?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Software Engineer - Responsible AI\nUnited States, Washington, Redmond\nPosted 27 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556640321?domain=microsoft.com",
       "identifier": "Senior Software Engineer - Responsible AI\nUnited S_556640321?domain=microsoft.com"
     },
     {
-      "title": "Senior Applied Scientist - CoreAI Speech\nUnited States, Washington, Redmond\nPosted 25 minutes ago",
+      "title": "Senior Applied Scientist - CoreAI Speech\nUnited States, Washington, Redmond\nPosted 42 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556636822?domain=microsoft.com",
       "identifier": "Senior Applied Scientist - CoreAI Speech\nUnited St_556636822?domain=microsoft.com"
     },
@@ -27,28 +42,8 @@
       "title": "Principal Software Engineer Manager- CTJ- Poly\nUnited States, Virginia, Reston + 2 more\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556828219?domain=microsoft.com",
       "identifier": "Principal Software Engineer Manager- CTJ- Poly\nUni_556828219?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Software Engineer, Minecraft Scripting\nUnited States, Washington, Redmond\nPosted 2 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556750513?domain=microsoft.com",
-      "identifier": "Senior Software Engineer, Minecraft Scripting\nUnit_556750513?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 2 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556668479?domain=microsoft.com",
-      "identifier": "Senior Software Engineer\nUnited States, Washington_556668479?domain=microsoft.com"
-    },
-    {
-      "title": "Software Engineer II\nUnited States, California, Mountain View + 1 more\nPosted 2 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556814249?domain=microsoft.com",
-      "identifier": "Software Engineer II\nUnited States, California, Mo_556814249?domain=microsoft.com"
-    },
-    {
-      "title": "Member of Technical Staff - Full Stack Engineer, ML Efficiency & Observability\nUnited States, California, Mountain View + 1 more\nPosted 2 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556827351?domain=microsoft.com",
-      "identifier": "Member of Technical Staff - Full Stack Engineer, M_556827351?domain=microsoft.com"
     }
   ],
-  "job_count_text": "856",
-  "timestamp": "2026-03-18T21:57:43.409606"
+  "job_count_text": "860",
+  "timestamp": "2026-03-18T22:14:54.078391"
 }

@@ -4,16 +4,6 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Memory Design Engineer, DRAM\nBoise, Idaho, United States of America\nPosted a day ago",
-      "url": "https://careers.micron.com/careers/job/39520187",
-      "identifier": "Memory Design Engineer, DRAM\nBoise, Idaho, United _icron.com/careers/job/39520187"
-    },
-    {
-      "title": "Firmware Test Engineer, SSD\nLongmont, Colorado, United States of America\nPosted a day ago",
-      "url": "https://careers.micron.com/careers/job/40876529",
-      "identifier": "Firmware Test Engineer, SSD\nLongmont, Colorado, Un_icron.com/careers/job/40876529"
-    },
-    {
       "title": "New College Grad - SPC Engineer\nManassas, Virginia, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/40485502",
       "identifier": "New College Grad - SPC Engineer\nManassas, Virginia_icron.com/careers/job/40485502"
@@ -22,6 +12,16 @@
       "title": "New College Grad - Metals/Films Process Development Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/40797024",
       "identifier": "New College Grad - Metals/Films Process Developmen_icron.com/careers/job/40797024"
+    },
+    {
+      "title": "Memory Design Engineer, DRAM\nBoise, Idaho, United States of America\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/39520187",
+      "identifier": "Memory Design Engineer, DRAM\nBoise, Idaho, United _icron.com/careers/job/39520187"
+    },
+    {
+      "title": "Firmware Test Engineer, SSD\nLongmont, Colorado, United States of America\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/40876529",
+      "identifier": "Firmware Test Engineer, SSD\nLongmont, Colorado, Un_icron.com/careers/job/40876529"
     },
     {
       "title": "US Expansion Planning Engineer\nBoise, Idaho, United States of America\nPosted 2 days ago",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "65",
-  "timestamp": "2026-03-18T01:51:52.042925"
+  "timestamp": "2026-03-18T02:09:13.518120"
 }

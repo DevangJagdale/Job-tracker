@@ -1,20 +1,35 @@
 {
   "page_title": "| Microsoft Careers",
   "url": "https://apply.careers.microsoft.com/careers?domain=microsoft.com&start=0&location=United+States&sort_by=timestamp&filter_include_remote=1&filter_profession=software+engineering%2Cresearch%252C%2520applied%252C%2520%2526%2520data%2520sciences",
-  "total_jobs": 8,
+  "total_jobs": 9,
   "jobs": [
     {
-      "title": "Principal Software Engineer Manager\nUnited States, Washington, Redmond\nPosted 21 minutes ago",
+      "title": "Senior Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 7 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556619344?domain=microsoft.com",
+      "identifier": "Senior Software Engineer\nUnited States, Multiple L_556619344?domain=microsoft.com"
+    },
+    {
+      "title": "Software Engineer II - HR Employee Experiences Team\nUnited States, Washington, Redmond\nPosted 7 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556849484?domain=microsoft.com",
+      "identifier": "Software Engineer II - HR Employee Experiences Tea_556849484?domain=microsoft.com"
+    },
+    {
+      "title": "Principal Security Architect - CTJ - Poly\nUnited States, Virginia, Reston + 1 more\nPosted 14 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556850548?domain=microsoft.com",
+      "identifier": "Principal Security Architect - CTJ - Poly\nUnited S_556850548?domain=microsoft.com"
+    },
+    {
+      "title": "Principal Software Engineer Manager\nUnited States, Washington, Redmond\nPosted 38 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556828198?domain=microsoft.com",
       "identifier": "Principal Software Engineer Manager\nUnited States,_556828198?domain=microsoft.com"
     },
     {
-      "title": "Applied Scientist II and Senior: Microsoft AI Development Acceleration Program\nUnited States, Washington, Redmond + 1 more\nPosted 22 minutes ago",
+      "title": "Applied Scientist II and Senior: Microsoft AI Development Acceleration Program\nUnited States, Washington, Redmond + 1 more\nPosted 39 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556850916?domain=microsoft.com",
       "identifier": "Applied Scientist II and Senior: Microsoft AI Deve_556850916?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 29 minutes ago",
+      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556653641?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Washington_556653641?domain=microsoft.com"
     },
@@ -32,18 +47,8 @@
       "title": "Prinicipal Software Engineer - System Optimization\nUnited States, California, Mountain View\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556827354?domain=microsoft.com",
       "identifier": "Prinicipal Software Engineer - System Optimization_556827354?domain=microsoft.com"
-    },
-    {
-      "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted an hour ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556735163?domain=microsoft.com",
-      "identifier": "Principal Software Engineer\nUnited States, Washing_556735163?domain=microsoft.com"
-    },
-    {
-      "title": "Software Engineer - CTJ - Poly\nUnited States, Virginia, Reston + 2 more\nPosted an hour ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556824773?domain=microsoft.com",
-      "identifier": "Software Engineer - CTJ - Poly\nUnited States, Virg_556824773?domain=microsoft.com"
     }
   ],
-  "job_count_text": "866",
-  "timestamp": "2026-03-18T23:23:38.328960"
+  "job_count_text": "869",
+  "timestamp": "2026-03-18T23:40:46.813735"
 }

@@ -1,8 +1,18 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 9,
+  "total_jobs": 10,
   "jobs": [
+    {
+      "title": "DevOps Engineer, G&A Solutions Engineering (GSE)",
+      "url": "https://jobs.apple.com/en-us/details/200650112-0157/devops-engineer-g-a-solutions-engineering-gse?team=SFTWR",
+      "identifier": "DevOps Engineer, G&A Solutions Engineering (GSE)_ons-engineering-gse?team=SFTWR"
+    },
+    {
+      "title": "Sr Software Engineer (Infrastructure Applications), Infrastructure Services",
+      "url": "https://jobs.apple.com/en-us/details/200652172-3956/sr-software-engineer-infrastructure-applications-infrastructure-services?team=SFTWR",
+      "identifier": "Sr Software Engineer (Infrastructure Applications)_astructure-services?team=SFTWR"
+    },
     {
       "title": "Senior Software Engineer (Ads Platform)- Experimentation",
       "url": "https://jobs.apple.com/en-us/details/200651961-0836/senior-software-engineer-ads-platform-experimentation?team=SFTWR",
@@ -34,21 +44,16 @@
       "identifier": "Engineering Program Manager - Wallet and Payments_wallet-and-payments?team=SFTWR"
     },
     {
-      "title": "Engineering Manager, Data & Machine Learning Systems",
-      "url": "https://jobs.apple.com/en-us/details/200651907-0836/engineering-manager-data-machine-learning-systems?team=SFTWR",
-      "identifier": "Engineering Manager, Data & Machine Learning Syste_ne-learning-systems?team=SFTWR"
+      "title": "Engineering Manager, User & Content Intelligence",
+      "url": "https://jobs.apple.com/en-us/details/200651907-0836/engineering-manager-user-content-intelligence?team=SFTWR",
+      "identifier": "Engineering Manager, User & Content Intelligence_ontent-intelligence?team=SFTWR"
     },
     {
-      "title": "Software Engineer, Data & Machine Learning Systems",
-      "url": "https://jobs.apple.com/en-us/details/200651949-3337/software-engineer-data-machine-learning-systems?team=SFTWR",
-      "identifier": "Software Engineer, Data & Machine Learning Systems_ne-learning-systems?team=SFTWR"
-    },
-    {
-      "title": "AIML - Machine Learning Engineer - Computer Vision & Audio, MIND",
-      "url": "https://jobs.apple.com/en-us/details/200649665-3337/aiml-machine-learning-engineer-computer-vision-audio-mind?team=MLAI",
-      "identifier": "AIML - Machine Learning Engineer - Computer Vision_er-vision-audio-mind?team=MLAI"
+      "title": "Machine Learning Engineer, User & Content Intelligence",
+      "url": "https://jobs.apple.com/en-us/details/200651949-3337/machine-learning-engineer-user-content-intelligence?team=SFTWR",
+      "identifier": "Machine Learning Engineer, User & Content Intellig_ontent-intelligence?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-18T16:06:24.150617"
+  "timestamp": "2026-03-18T16:25:17.108096"
 }

@@ -4,17 +4,22 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Software Engineering - CTJ - POLY\nUnited States, Washington, Redmond + 3 more\nPosted 9 minutes ago",
+      "title": "Cloud Network Engineering\nUnited States, Washington, Redmond\nPosted 4 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556826590?domain=microsoft.com",
+      "identifier": "Cloud Network Engineering\nUnited States, Washingto_556826590?domain=microsoft.com"
+    },
+    {
+      "title": "Software Engineering - CTJ - POLY\nUnited States, Washington, Redmond + 3 more\nPosted 26 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556746551?domain=microsoft.com",
       "identifier": "Software Engineering - CTJ - POLY\nUnited States, W_556746551?domain=microsoft.com"
     },
     {
-      "title": "Software Engineering - CTJ - POLY\nUnited States, Washington, Redmond + 3 more\nPosted 9 minutes ago",
+      "title": "Software Engineering - CTJ - POLY\nUnited States, Washington, Redmond + 3 more\nPosted 26 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556746570?domain=microsoft.com",
       "identifier": "Software Engineering - CTJ - POLY\nUnited States, W_556746570?domain=microsoft.com"
     },
     {
-      "title": "Cloud Network Engineering\nUnited States, Washington, Redmond\nPosted 9 minutes ago",
+      "title": "Cloud Network Engineering\nUnited States, Washington, Redmond\nPosted 26 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556834821?domain=microsoft.com",
       "identifier": "Cloud Network Engineering\nUnited States, Washingto_556834821?domain=microsoft.com"
     },
@@ -34,7 +39,7 @@
       "identifier": "Principal Software Engineer, CoreAI\nUnited States,_556849602?domain=microsoft.com"
     },
     {
-      "title": "Principal, Data Science & Analytics\nUnited States, Washington, Redmond + 1 more\nPosted 4 hours ago",
+      "title": "Principal, Data Science & Analytics\nUnited States, Washington, Redmond + 1 more\nPosted 5 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556823722?domain=microsoft.com",
       "identifier": "Principal, Data Science & Analytics\nUnited States,_556823722?domain=microsoft.com"
     },
@@ -47,13 +52,8 @@
       "title": "Senior Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 5 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556847422?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Multiple L_556847422?domain=microsoft.com"
-    },
-    {
-      "title": "Principal Software Engineering Manager\nUnited States, Washington, Redmond\nPosted 5 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556754173?domain=microsoft.com",
-      "identifier": "Principal Software Engineering Manager\nUnited Stat_556754173?domain=microsoft.com"
     }
   ],
-  "job_count_text": "853",
-  "timestamp": "2026-03-18T03:55:13.365345"
+  "job_count_text": "849",
+  "timestamp": "2026-03-18T04:12:10.124127"
 }

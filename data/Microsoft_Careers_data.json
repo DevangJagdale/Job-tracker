@@ -4,6 +4,16 @@
   "total_jobs": 10,
   "jobs": [
     {
+      "title": "Principal Software Engineer Manager- CTJ- Poly\nUnited States, Virginia, Reston + 2 more\nPosted 21 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556828219?domain=microsoft.com",
+      "identifier": "Principal Software Engineer Manager- CTJ- Poly\nUni_556828219?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 19 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556769362?domain=microsoft.com",
+      "identifier": "Senior Software Engineer\nUnited States, Washington_556769362?domain=microsoft.com"
+    },
+    {
       "title": "Senior Software Engineer, Minecraft Scripting\nUnited States, Washington, Redmond\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556750513?domain=microsoft.com",
       "identifier": "Senior Software Engineer, Minecraft Scripting\nUnit_556750513?domain=microsoft.com"
@@ -42,18 +52,8 @@
       "title": "Principal Software Engineering Manager\nUnited States, Washington, Redmond\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556631077?domain=microsoft.com",
       "identifier": "Principal Software Engineering Manager\nUnited Stat_556631077?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 2 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556619937?domain=microsoft.com",
-      "identifier": "Senior Software Engineer\nUnited States, Washington_556619937?domain=microsoft.com"
-    },
-    {
-      "title": "Principal Data Scientist\nUnited States, Washington, Redmond\nPosted 2 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556837639?domain=microsoft.com",
-      "identifier": "Principal Data Scientist\nUnited States, Washington_556837639?domain=microsoft.com"
     }
   ],
-  "job_count_text": "850",
-  "timestamp": "2026-03-18T20:49:03.188148"
+  "job_count_text": "852",
+  "timestamp": "2026-03-18T21:06:13.289691"
 }

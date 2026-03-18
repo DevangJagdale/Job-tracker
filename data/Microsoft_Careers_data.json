@@ -4,7 +4,12 @@
   "total_jobs": 9,
   "jobs": [
     {
-      "title": "Senior Applied Scientist\nUnited States, Washington, Seattle + 1 more\nPosted 18 minutes ago",
+      "title": "Senior Software Engineer\nUnited States, Washington, Redmond + 2 more\nPosted 8 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556642412?domain=microsoft.com",
+      "identifier": "Senior Software Engineer\nUnited States, Washington_556642412?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Applied Scientist\nUnited States, Washington, Seattle + 1 more\nPosted 36 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556751277?domain=microsoft.com",
       "identifier": "Senior Applied Scientist\nUnited States, Washington_556751277?domain=microsoft.com"
     },
@@ -39,16 +44,11 @@
       "identifier": "Senior Software Engineer - CoreAI\nUnited States, W_556778473?domain=microsoft.com"
     },
     {
-      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted an hour ago",
+      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556769470?domain=microsoft.com",
       "identifier": "Software Engineer II\nUnited States, Washington, Re_556769470?domain=microsoft.com"
-    },
-    {
-      "title": "Principal Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 2 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556751888?domain=microsoft.com",
-      "identifier": "Principal Software Engineer\nUnited States, Multipl_556751888?domain=microsoft.com"
     }
   ],
-  "job_count_text": "843",
-  "timestamp": "2026-03-18T14:53:24.958286"
+  "job_count_text": "844",
+  "timestamp": "2026-03-18T15:11:57.478972"
 }

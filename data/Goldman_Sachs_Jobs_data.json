@@ -4,6 +4,11 @@
   "total_jobs": 20,
   "jobs": [
     {
+      "title": "Asset & Wealth Management - Web React Developer - Analyst - Richardson\nRichardson\u00b7United States\n\u00b7Analyst",
+      "url": "https://higher.gs.com/roles/154114",
+      "identifier": "Asset & Wealth Management - Web React Developer - _s://higher.gs.com/roles/154114"
+    },
+    {
       "title": "Global Markets Trading Platform Engineering - GBM Public - Associate - Software Engineer - Dallas\nNew York\u00b7United States\n\u00b7Associate",
       "url": "https://higher.gs.com/roles/161601",
       "identifier": "Global Markets Trading Platform Engineering - GBM _s://higher.gs.com/roles/161601"
@@ -97,13 +102,8 @@
       "title": "Corporate Planning & Management Engineering, Associate\nDallas\u00b7United States\n\u00b7Associate",
       "url": "https://higher.gs.com/roles/137803",
       "identifier": "Corporate Planning & Management Engineering, Assoc_s://higher.gs.com/roles/137803"
-    },
-    {
-      "title": "Asset & Wealth Management - Software Engineer - Associate - New York\nNew York\u00b7United States\n\u00b7Associate",
-      "url": "https://higher.gs.com/roles/162804",
-      "identifier": "Asset & Wealth Management - Software Engineer - As_s://higher.gs.com/roles/162804"
     }
   ],
-  "job_count_text": "55",
-  "timestamp": "2026-03-18T16:44:22.010621"
+  "job_count_text": "56",
+  "timestamp": "2026-03-18T17:04:19.785656"
 }

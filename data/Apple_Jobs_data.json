@@ -4,6 +4,11 @@
   "total_jobs": 11,
   "jobs": [
     {
+      "title": "Tools and Automation Engineer, Vision Products Software",
+      "url": "https://jobs.apple.com/en-us/details/200652386-3956/tools-and-automation-engineer-vision-products-software?team=SFTWR",
+      "identifier": "Tools and Automation Engineer, Vision Products Sof_n-products-software?team=SFTWR"
+    },
+    {
       "title": "Machine Learning Engineer, Photos",
       "url": "https://jobs.apple.com/en-us/details/200649397-0836/machine-learning-engineer-photos?team=SFTWR",
       "identifier": "Machine Learning Engineer, Photos_ing-engineer-photos?team=SFTWR"
@@ -52,13 +57,8 @@
       "title": "Engineering Program Manager - Wallet and Payments",
       "url": "https://jobs.apple.com/en-us/details/200652162-0836/engineering-program-manager-wallet-and-payments?team=SFTWR",
       "identifier": "Engineering Program Manager - Wallet and Payments_wallet-and-payments?team=SFTWR"
-    },
-    {
-      "title": "Machine Learning Engineer, User & Content Intelligence",
-      "url": "https://jobs.apple.com/en-us/details/200651949-3337/machine-learning-engineer-user-content-intelligence?team=SFTWR",
-      "identifier": "Machine Learning Engineer, User & Content Intellig_ontent-intelligence?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-18T16:45:11.728498"
+  "timestamp": "2026-03-18T17:05:11.119620"
 }

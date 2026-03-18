@@ -4,6 +4,16 @@
   "total_jobs": 9,
   "jobs": [
     {
+      "title": "Senior Software Engineer (Ads Platform)- Experimentation",
+      "url": "https://jobs.apple.com/en-us/details/200651961-0836/senior-software-engineer-ads-platform-experimentation?team=SFTWR",
+      "identifier": "Senior Software Engineer (Ads Platform)- Experimen_orm-experimentation?team=SFTWR"
+    },
+    {
+      "title": "Machine Learning Engineer - Matching, Apple Ads",
+      "url": "https://jobs.apple.com/en-us/details/200605164-0836/machine-learning-engineer-matching-apple-ads?team=SFTWR",
+      "identifier": "Machine Learning Engineer - Matching, Apple Ads_-matching-apple-ads?team=SFTWR"
+    },
+    {
       "title": "Data Center Mechanical Engineer, Infrastructure Services",
       "url": "https://jobs.apple.com/en-us/details/200652269-1025/data-center-mechanical-engineer-infrastructure-services?team=SFTWR",
       "identifier": "Data Center Mechanical Engineer, Infrastructure Se_astructure-services?team=SFTWR"
@@ -37,18 +47,8 @@
       "title": "AIML - Machine Learning Engineer - Computer Vision & Audio, MIND",
       "url": "https://jobs.apple.com/en-us/details/200649665-3337/aiml-machine-learning-engineer-computer-vision-audio-mind?team=MLAI",
       "identifier": "AIML - Machine Learning Engineer - Computer Vision_er-vision-audio-mind?team=MLAI"
-    },
-    {
-      "title": "Computational Photography/Computer Vision Machine Learning Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200645623-0836/computational-photography-computer-vision-machine-learning-engineer?team=SFTWR",
-      "identifier": "Computational Photography/Computer Vision Machine _e-learning-engineer?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer (Agentic AI), AI & Data Platforms ( AiDP)",
-      "url": "https://jobs.apple.com/en-us/details/200649707-0157/software-engineer-agentic-ai-ai-data-platforms-aidp?team=SFTWR",
-      "identifier": "Software Engineer (Agentic AI), AI & Data Platform_data-platforms-aidp?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-18T13:36:50.282209"
+  "timestamp": "2026-03-18T13:54:03.513765"
 }

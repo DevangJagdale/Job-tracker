@@ -4,7 +4,12 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Principal Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 43 minutes ago",
+      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 20 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556769470?domain=microsoft.com",
+      "identifier": "Software Engineer II\nUnited States, Washington, Re_556769470?domain=microsoft.com"
+    },
+    {
+      "title": "Principal Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556751888?domain=microsoft.com",
       "identifier": "Principal Software Engineer\nUnited States, Multipl_556751888?domain=microsoft.com"
     },
@@ -29,7 +34,7 @@
       "identifier": "Senior Software Engineer\nUnited States, Multiple L_556833952?domain=microsoft.com"
     },
     {
-      "title": "Cloud Network Engineering\nUnited States, Washington, Redmond\nPosted 9 hours ago",
+      "title": "Cloud Network Engineering\nUnited States, Washington, Redmond\nPosted 10 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556826590?domain=microsoft.com",
       "identifier": "Cloud Network Engineering\nUnited States, Washingto_556826590?domain=microsoft.com"
     },
@@ -47,13 +52,8 @@
       "title": "Software Engineering - CTJ - POLY\nUnited States, Washington, Redmond + 3 more\nPosted 10 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556746570?domain=microsoft.com",
       "identifier": "Software Engineering - CTJ - POLY\nUnited States, W_556746570?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Data Scientist\nUnited States, Washington, Redmond\nPosted 11 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556621104?domain=microsoft.com",
-      "identifier": "Senior Data Scientist\nUnited States, Washington, R_556621104?domain=microsoft.com"
     }
   ],
-  "job_count_text": "834",
-  "timestamp": "2026-03-18T13:36:34.651813"
+  "job_count_text": "835",
+  "timestamp": "2026-03-18T13:53:46.889580"
 }

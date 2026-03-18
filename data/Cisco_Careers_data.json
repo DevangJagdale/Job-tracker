@@ -4,6 +4,11 @@
   "total_jobs": 10,
   "jobs": [
     {
+      "title": "Mechanical Engineer I (Full Time) - United States",
+      "url": "https://careers.cisco.com/global/en/job/2011166/Mechanical-Engineer-I-Full-Time-United-States",
+      "identifier": "Mechanical Engineer I (Full Time) - United States_neer-I-Full-Time-United-States"
+    },
+    {
       "title": "Data Engineer I (Full Time) - United States",
       "url": "https://careers.cisco.com/global/en/job/2003052/Data-Engineer-I-Full-Time-United-States",
       "identifier": "Data Engineer I (Full Time) - United States_neer-I-Full-Time-United-States"
@@ -47,13 +52,8 @@
       "title": "Software Engineer Backend/Platform Systems II (Full Time) \u2013 United States",
       "url": "https://careers.cisco.com/global/en/job/2000135/Software-Engineer-Backend-Platform-Systems-II-Full-Time-United-States",
       "identifier": "Software Engineer Backend/Platform Systems II (Ful_ems-II-Full-Time-United-States"
-    },
-    {
-      "title": "Sales Development Representative II (Full Time) United States (Virtual Demand Center) - United States",
-      "url": "https://careers.cisco.com/global/en/job/2008662/Sales-Development-Representative-II-Full-Time-United-States-Virtual-Demand-Center-United-States",
-      "identifier": "Sales Development Representative II (Full Time) Un_al-Demand-Center-United-States"
     }
   ],
-  "job_count_text": "30",
-  "timestamp": "2026-03-18T14:15:41.786648"
+  "job_count_text": "31",
+  "timestamp": "2026-03-18T14:35:32.865987"
 }

@@ -1,8 +1,18 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 10,
+  "total_jobs": 11,
   "jobs": [
+    {
+      "title": "Machine Learning Engineer, Photos",
+      "url": "https://jobs.apple.com/en-us/details/200649397-0836/machine-learning-engineer-photos?team=SFTWR",
+      "identifier": "Machine Learning Engineer, Photos_ing-engineer-photos?team=SFTWR"
+    },
+    {
+      "title": "On-device ML Infrastructure Engineer (ML Compiler)",
+      "url": "https://jobs.apple.com/en-us/details/200642877-0836/on-device-ml-infrastructure-engineer-ml-compiler?team=MLAI",
+      "identifier": "On-device ML Infrastructure Engineer (ML Compiler)_engineer-ml-compiler?team=MLAI"
+    },
     {
       "title": "DevOps Engineer, G&A Solutions Engineering (GSE)",
       "url": "https://jobs.apple.com/en-us/details/200650112-0157/devops-engineer-g-a-solutions-engineering-gse?team=SFTWR",
@@ -44,16 +54,11 @@
       "identifier": "Engineering Program Manager - Wallet and Payments_wallet-and-payments?team=SFTWR"
     },
     {
-      "title": "Engineering Manager, User & Content Intelligence",
-      "url": "https://jobs.apple.com/en-us/details/200651907-0836/engineering-manager-user-content-intelligence?team=SFTWR",
-      "identifier": "Engineering Manager, User & Content Intelligence_ontent-intelligence?team=SFTWR"
-    },
-    {
       "title": "Machine Learning Engineer, User & Content Intelligence",
       "url": "https://jobs.apple.com/en-us/details/200651949-3337/machine-learning-engineer-user-content-intelligence?team=SFTWR",
       "identifier": "Machine Learning Engineer, User & Content Intellig_ontent-intelligence?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-18T16:25:17.108096"
+  "timestamp": "2026-03-18T16:45:11.728498"
 }

@@ -1,8 +1,13 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 15,
+  "total_jobs": 9,
   "jobs": [
+    {
+      "title": "Data Center Mechanical Engineer, Infrastructure Services",
+      "url": "https://jobs.apple.com/en-us/details/200652269-1025/data-center-mechanical-engineer-infrastructure-services?team=SFTWR",
+      "identifier": "Data Center Mechanical Engineer, Infrastructure Se_astructure-services?team=SFTWR"
+    },
     {
       "title": "Software Integrity Engineer, Video Apps",
       "url": "https://jobs.apple.com/en-us/details/200652300-0670/software-integrity-engineer-video-apps?team=SFTWR",
@@ -42,43 +47,8 @@
       "title": "Software Engineer (Agentic AI), AI & Data Platforms ( AiDP)",
       "url": "https://jobs.apple.com/en-us/details/200649707-0157/software-engineer-agentic-ai-ai-data-platforms-aidp?team=SFTWR",
       "identifier": "Software Engineer (Agentic AI), AI & Data Platform_data-platforms-aidp?team=SFTWR"
-    },
-    {
-      "title": "Software Quality Engineer, Security Server Application, Enterprise Applications Engineering",
-      "url": "https://jobs.apple.com/en-us/details/200651077-3956/software-quality-engineer-security-server-application-enterprise-applications-engineering?team=SFTWR",
-      "identifier": "Software Quality Engineer, Security Server Applica_cations-engineering?team=SFTWR"
-    },
-    {
-      "title": "Security/Privacy Engineer, Enterprise Technology Services.",
-      "url": "https://jobs.apple.com/en-us/details/200650101-3956/security-privacy-engineer-enterprise-technology-services?team=SFTWR",
-      "identifier": "Security/Privacy Engineer, Enterprise Technology S_technology-services?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer, OS and System Services",
-      "url": "https://jobs.apple.com/en-us/details/200652236-0836/software-engineer-os-and-system-services?team=SFTWR",
-      "identifier": "Software Engineer, OS and System Services_and-system-services?team=SFTWR"
-    },
-    {
-      "title": "Software Quality Engineer - Maps",
-      "url": "https://jobs.apple.com/en-us/details/200648786-0836/software-quality-engineer-maps?team=SFTWR",
-      "identifier": "Software Quality Engineer - Maps_ality-engineer-maps?team=SFTWR"
-    },
-    {
-      "title": "Apple Home / Matter Networking Engineering",
-      "url": "https://jobs.apple.com/en-us/details/200652126-0836/apple-home-matter-networking-engineering?team=SFTWR",
-      "identifier": "Apple Home / Matter Networking Engineering_working-engineering?team=SFTWR"
-    },
-    {
-      "title": "Full Stack Developer",
-      "url": "https://jobs.apple.com/en-us/details/200651648-0836/full-stack-developer?team=SFTWR",
-      "identifier": "Full Stack Developer_ull-stack-developer?team=SFTWR"
-    },
-    {
-      "title": "iOS/tvOS Software Engineer, Siri Home Devices",
-      "url": "https://jobs.apple.com/en-us/details/200652186-0836/ios-tvos-software-engineer-siri-home-devices?team=SFTWR",
-      "identifier": "iOS/tvOS Software Engineer, Siri Home Devices_r-siri-home-devices?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-18T03:21:36.238020"
+  "timestamp": "2026-03-18T03:38:31.828973"
 }

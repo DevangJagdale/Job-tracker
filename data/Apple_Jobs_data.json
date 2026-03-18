@@ -4,6 +4,11 @@
   "total_jobs": 12,
   "jobs": [
     {
+      "title": "Site Reliability Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200652312-0157/site-reliability-engineer?team=SFTWR",
+      "identifier": "Site Reliability Engineer_eliability-engineer?team=SFTWR"
+    },
+    {
       "title": "Machine Learning Software Engineer",
       "url": "https://jobs.apple.com/en-us/details/200652446-3956/machine-learning-software-engineer?team=SFTWR",
       "identifier": "Machine Learning Software Engineer_g-software-engineer?team=SFTWR"
@@ -57,13 +62,8 @@
       "title": "Software Integrity Engineer, Video Apps",
       "url": "https://jobs.apple.com/en-us/details/200652300-0670/software-integrity-engineer-video-apps?team=SFTWR",
       "identifier": "Software Integrity Engineer, Video Apps_engineer-video-apps?team=SFTWR"
-    },
-    {
-      "title": "Software Engineering Program Manager - visionOS",
-      "url": "https://jobs.apple.com/en-us/details/200652194-0365/software-engineering-program-manager-visionos?team=SFTWR",
-      "identifier": "Software Engineering Program Manager - visionOS_am-manager-visionos?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-18T18:40:03.675280"
+  "timestamp": "2026-03-18T18:48:47.264228"
 }

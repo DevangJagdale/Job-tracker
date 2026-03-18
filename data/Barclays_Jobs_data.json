@@ -1,8 +1,13 @@
 {
   "page_title": "Search our Job Opportunities at Barclays",
   "url": "https://search.jobs.barclays/search-jobs/United%20States/13015/2/6252001/39x76/-98x5/50/2",
-  "total_jobs": 13,
+  "total_jobs": 15,
   "jobs": [
+    {
+      "title": "Senior Java Developer",
+      "url": "https://search.jobs.barclays/job/new-york/senior-java-developer/13015/92898416976",
+      "identifier": "Senior Java Developer_va-developer/13015/92898416976"
+    },
     {
       "title": "Fixed Income eTrading Platform Engineer - VP",
       "url": "https://search.jobs.barclays/job/new-york/fixed-income-etrading-platform-engineer-vp/13015/92885465008",
@@ -67,8 +72,13 @@
       "title": "Site Reliability Engineer (SRE), AVP",
       "url": "https://search.jobs.barclays/job/whippany/site-reliability-engineer-sre-avp/13015/92625835696",
       "identifier": "Site Reliability Engineer (SRE), AVP_neer-sre-avp/13015/92625835696"
+    },
+    {
+      "title": "Investment Bank Energy Group, VP",
+      "url": "https://search.jobs.barclays/job/houston/investment-bank-energy-group-vp/13015/92625830912",
+      "identifier": "Investment Bank Energy Group, VP_rgy-group-vp/13015/92625830912"
     }
   ],
-  "job_count_text": "77",
-  "timestamp": "2026-03-18T05:19:36.670212"
+  "job_count_text": "75",
+  "timestamp": "2026-03-18T05:36:32.697382"
 }

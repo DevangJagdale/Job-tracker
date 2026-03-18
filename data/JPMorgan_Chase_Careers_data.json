@@ -64,6 +64,11 @@
       "identifier": "jpmc_210711121"
     },
     {
+      "title": "Software Engineer III - Java, React, Workflow Solution (Camunda OR jBPM)",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210717038/?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
+      "identifier": "jpmc_210717038"
+    },
+    {
       "title": "Principal Software Engineer (APIs)",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210717410/?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
       "identifier": "jpmc_210717410"
@@ -122,13 +127,8 @@
       "title": "Director of Software Engineering - CIB Broker Dealer Platform",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210726155/?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
       "identifier": "jpmc_210726155"
-    },
-    {
-      "title": "Senior Lead Data Engineer - General Ledger",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210722312/?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
-      "identifier": "jpmc_210722312"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-18T20:17:01.169190"
+  "timestamp": "2026-03-18T20:34:09.909488"
 }

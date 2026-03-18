@@ -4,11 +4,6 @@
   "total_jobs": 9,
   "jobs": [
     {
-      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 19 minutes ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556753823?domain=microsoft.com",
-      "identifier": "Senior Software Engineer\nUnited States, Washington_556753823?domain=microsoft.com"
-    },
-    {
       "title": "Senior Software Engineer\nUnited States, California, Mountain View + 1 more\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556837681?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, California_556837681?domain=microsoft.com"
@@ -39,7 +34,7 @@
       "identifier": "Principal Software Engineering Manager\nUnited Stat_556754173?domain=microsoft.com"
     },
     {
-      "title": "Software Engineering II\nUnited States, Washington, Redmond\nPosted 3 hours ago",
+      "title": "Software Engineering II\nUnited States, Washington, Redmond\nPosted 4 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556849951?domain=microsoft.com",
       "identifier": "Software Engineering II\nUnited States, Washington,_556849951?domain=microsoft.com"
     },
@@ -47,8 +42,13 @@
       "title": "Software Engineering IC3\nUnited States, Washington, Redmond\nPosted 4 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556834587?domain=microsoft.com",
       "identifier": "Software Engineering IC3\nUnited States, Washington_556834587?domain=microsoft.com"
+    },
+    {
+      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 4 hours ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556619830?domain=microsoft.com",
+      "identifier": "Software Engineer II\nUnited States, Washington, Re_556619830?domain=microsoft.com"
     }
   ],
-  "job_count_text": "850",
-  "timestamp": "2026-03-18T01:31:06.922956"
+  "job_count_text": "849",
+  "timestamp": "2026-03-18T01:48:20.272679"
 }

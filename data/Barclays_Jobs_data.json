@@ -1,8 +1,38 @@
 {
   "page_title": "Search our Job Opportunities at Barclays",
   "url": "https://search.jobs.barclays/search-jobs/United%20States/13015/2/6252001/39x76/-98x5/50/2",
-  "total_jobs": 15,
+  "total_jobs": 11,
   "jobs": [
+    {
+      "title": "Payments & Cash Management Sales",
+      "url": "https://search.jobs.barclays/job/new-york/payments-and-cash-management-sales/13015/92922777968",
+      "identifier": "Payments & Cash Management Sales_gement-sales/13015/92922777968"
+    },
+    {
+      "title": "Network Security Engineer - AVP",
+      "url": "https://search.jobs.barclays/job/whippany/network-security-engineer-avp/13015/92922776976",
+      "identifier": "Network Security Engineer - AVP_engineer-avp/13015/92922776976"
+    },
+    {
+      "title": "Snr Product Head",
+      "url": "https://search.jobs.barclays/job/new-york/snr-product-head/13015/92922776224",
+      "identifier": "Snr Product Head_product-head/13015/92922776224"
+    },
+    {
+      "title": "Snr Product Head",
+      "url": "https://search.jobs.barclays/job/new-york/snr-product-head/13015/92922775984",
+      "identifier": "Snr Product Head_product-head/13015/92922775984"
+    },
+    {
+      "title": "Investment Banking Associate, Technology",
+      "url": "https://search.jobs.barclays/job/chicago/investment-banking-associate-technology/13015/92922773760",
+      "identifier": "Investment Banking Associate, Technology_e-technology/13015/92922773760"
+    },
+    {
+      "title": "VP Lead Engineer",
+      "url": "https://search.jobs.barclays/job/whippany/vp-lead-engineer/13015/92922735376",
+      "identifier": "VP Lead Engineer_ead-engineer/13015/92922735376"
+    },
     {
       "title": "Senior Java Developer",
       "url": "https://search.jobs.barclays/job/new-york/senior-java-developer/13015/92898416976",
@@ -24,61 +54,11 @@
       "identifier": "KDB Developer_db-developer/13015/92885463600"
     },
     {
-      "title": "Investment Banking Analyst, Consumer and Retail Group (CRG)",
-      "url": "https://search.jobs.barclays/job/new-york/investment-banking-analyst-consumer-and-retail-group-crg/13015/92857804960",
-      "identifier": "Investment Banking Analyst, Consumer and Retail Gr_il-group-crg/13015/92857804960"
-    },
-    {
       "title": "Executive Assistant",
       "url": "https://search.jobs.barclays/job/wilmington/executive-assistant/13015/92732855152",
       "identifier": "Executive Assistant_ve-assistant/13015/92732855152"
-    },
-    {
-      "title": "Assurance Specialist - AVP",
-      "url": "https://search.jobs.barclays/job/new-york/assurance-specialist-avp/13015/92690375376",
-      "identifier": "Assurance Specialist - AVP_ecialist-avp/13015/92690375376"
-    },
-    {
-      "title": "Film Specialist AVP",
-      "url": "https://search.jobs.barclays/job/new-york/film-specialist-avp/13015/92690375344",
-      "identifier": "Film Specialist AVP_ecialist-avp/13015/92690375344"
-    },
-    {
-      "title": "Payments & Cash Management Sales \u2013 Corporates VP",
-      "url": "https://search.jobs.barclays/job/new-york/payments-and-cash-management-sales-corporates-vp/13015/92690372512",
-      "identifier": "Payments & Cash Management Sales \u2013 Corporates VP_orporates-vp/13015/92690372512"
-    },
-    {
-      "title": "Controls Partner VP",
-      "url": "https://search.jobs.barclays/job/wilmington/controls-partner-vp/13015/92690337664",
-      "identifier": "Controls Partner VP_s-partner-vp/13015/92690337664"
-    },
-    {
-      "title": "Barclays Internal Audit- Change AVP",
-      "url": "https://search.jobs.barclays/job/new-york/barclays-internal-audit-change-avp/13015/92664242000",
-      "identifier": "Barclays Internal Audit- Change AVP_t-change-avp/13015/92664242000"
-    },
-    {
-      "title": "Prime RAD Developer",
-      "url": "https://search.jobs.barclays/job/new-york/prime-rad-developer/13015/92651848368",
-      "identifier": "Prime RAD Developer_ad-developer/13015/92651848368"
-    },
-    {
-      "title": "Liquid Financing Inventory Management Senior Engineer",
-      "url": "https://search.jobs.barclays/job/new-york/liquid-financing-inventory-management-senior-engineer/13015/92640163808",
-      "identifier": "Liquid Financing Inventory Management Senior Engin_ior-engineer/13015/92640163808"
-    },
-    {
-      "title": "Site Reliability Engineer (SRE), AVP",
-      "url": "https://search.jobs.barclays/job/whippany/site-reliability-engineer-sre-avp/13015/92625835696",
-      "identifier": "Site Reliability Engineer (SRE), AVP_neer-sre-avp/13015/92625835696"
-    },
-    {
-      "title": "Investment Bank Energy Group, VP",
-      "url": "https://search.jobs.barclays/job/houston/investment-bank-energy-group-vp/13015/92625830912",
-      "identifier": "Investment Bank Energy Group, VP_rgy-group-vp/13015/92625830912"
     }
   ],
-  "job_count_text": "75",
-  "timestamp": "2026-03-18T17:04:37.929571"
+  "job_count_text": "86",
+  "timestamp": "2026-03-18T17:24:40.071585"
 }

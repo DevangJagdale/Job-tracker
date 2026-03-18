@@ -1,10 +1,20 @@
 {
   "page_title": "| Microsoft Careers",
   "url": "https://apply.careers.microsoft.com/careers?domain=microsoft.com&start=0&location=United+States&sort_by=timestamp&filter_include_remote=1&filter_profession=software+engineering%2Cresearch%252C%2520applied%252C%2520%2526%2520data%2520sciences",
-  "total_jobs": 10,
+  "total_jobs": 9,
   "jobs": [
     {
-      "title": "Member of Technical Staff - Data Engineering Manager - Microsoft AI - Copilot\nUnited States, California, Mountain View + 2 more\nPosted 38 minutes ago",
+      "title": "Senior Software Engineer - Responsible AI\nUnited States, Washington, Redmond\nPosted 10 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556640321?domain=microsoft.com",
+      "identifier": "Senior Software Engineer - Responsible AI\nUnited S_556640321?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Applied Scientist - CoreAI Speech\nUnited States, Washington, Redmond\nPosted 25 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556636822?domain=microsoft.com",
+      "identifier": "Senior Applied Scientist - CoreAI Speech\nUnited St_556636822?domain=microsoft.com"
+    },
+    {
+      "title": "Member of Technical Staff - Data Engineering Manager - Microsoft AI - Copilot\nUnited States, California, Mountain View + 2 more\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556641214?domain=microsoft.com",
       "identifier": "Member of Technical Staff - Data Engineering Manag_556641214?domain=microsoft.com"
     },
@@ -37,23 +47,8 @@
       "title": "Member of Technical Staff - Full Stack Engineer, ML Efficiency & Observability\nUnited States, California, Mountain View + 1 more\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556827351?domain=microsoft.com",
       "identifier": "Member of Technical Staff - Full Stack Engineer, M_556827351?domain=microsoft.com"
-    },
-    {
-      "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted 3 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556753151?domain=microsoft.com",
-      "identifier": "Principal Software Engineer\nUnited States, Washing_556753151?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Software Engineer - Copilot Security\nUnited States, Washington, Redmond + 2 more\nPosted 3 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556628381?domain=microsoft.com",
-      "identifier": "Senior Software Engineer - Copilot Security\nUnited_556628381?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 3 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556637204?domain=microsoft.com",
-      "identifier": "Senior Software Engineer\nUnited States, Washington_556637204?domain=microsoft.com"
     }
   ],
-  "job_count_text": "853",
-  "timestamp": "2026-03-18T21:40:33.462913"
+  "job_count_text": "856",
+  "timestamp": "2026-03-18T21:57:43.409606"
 }

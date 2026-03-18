@@ -4,9 +4,14 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Cloud Network Engineering\nUnited States, Washington, Redmond\nPosted 6 hours ago",
+      "title": "Cloud Network Engineering\nUnited States, Washington, Redmond\nPosted 7 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556826590?domain=microsoft.com",
       "identifier": "Cloud Network Engineering\nUnited States, Washingto_556826590?domain=microsoft.com"
+    },
+    {
+      "title": "Cloud Network Engineering\nUnited States, Washington, Redmond\nPosted 7 hours ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556834821?domain=microsoft.com",
+      "identifier": "Cloud Network Engineering\nUnited States, Washingto_556834821?domain=microsoft.com"
     },
     {
       "title": "Software Engineering - CTJ - POLY\nUnited States, Washington, Redmond + 3 more\nPosted 7 hours ago",
@@ -17,11 +22,6 @@
       "title": "Software Engineering - CTJ - POLY\nUnited States, Washington, Redmond + 3 more\nPosted 7 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556746570?domain=microsoft.com",
       "identifier": "Software Engineering - CTJ - POLY\nUnited States, W_556746570?domain=microsoft.com"
-    },
-    {
-      "title": "Cloud Network Engineering\nUnited States, Washington, Redmond\nPosted 7 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556834821?domain=microsoft.com",
-      "identifier": "Cloud Network Engineering\nUnited States, Washingto_556834821?domain=microsoft.com"
     },
     {
       "title": "Senior Data Scientist\nUnited States, Washington, Redmond\nPosted 8 hours ago",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "829",
-  "timestamp": "2026-03-18T10:34:58.044570"
+  "timestamp": "2026-03-18T10:52:08.996091"
 }

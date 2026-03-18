@@ -4,12 +4,22 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Software Engineer II\nUnited States, California, Mountain View + 1 more\nPosted 15 minutes ago",
+      "title": "Senior Software Engineer, Minecraft Scripting\nUnited States, Washington, Redmond\nPosted 16 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556750513?domain=microsoft.com",
+      "identifier": "Senior Software Engineer, Minecraft Scripting\nUnit_556750513?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 17 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556668479?domain=microsoft.com",
+      "identifier": "Senior Software Engineer\nUnited States, Washington_556668479?domain=microsoft.com"
+    },
+    {
+      "title": "Software Engineer II\nUnited States, California, Mountain View + 1 more\nPosted 32 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556814249?domain=microsoft.com",
       "identifier": "Software Engineer II\nUnited States, California, Mo_556814249?domain=microsoft.com"
     },
     {
-      "title": "Member of Technical Staff - Full Stack Engineer, ML Efficiency & Observability\nUnited States, California, Mountain View + 1 more\nPosted 18 minutes ago",
+      "title": "Member of Technical Staff - Full Stack Engineer, ML Efficiency & Observability\nUnited States, California, Mountain View + 1 more\nPosted 35 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556827351?domain=microsoft.com",
       "identifier": "Member of Technical Staff - Full Stack Engineer, M_556827351?domain=microsoft.com"
     },
@@ -39,21 +49,11 @@
       "identifier": "Senior Software Engineer\nUnited States, Washington_556619937?domain=microsoft.com"
     },
     {
-      "title": "Principal Data Scientist\nUnited States, Washington, Redmond\nPosted an hour ago",
+      "title": "Principal Data Scientist\nUnited States, Washington, Redmond\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556837639?domain=microsoft.com",
       "identifier": "Principal Data Scientist\nUnited States, Washington_556837639?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Software Engineer\nUnited States, Washington, Redmond + 1 more\nPosted 2 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556753224?domain=microsoft.com",
-      "identifier": "Senior Software Engineer\nUnited States, Washington_556753224?domain=microsoft.com"
-    },
-    {
-      "title": "Senior AI Engineer\nUnited States, Washington, Redmond\nPosted 2 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556804059?domain=microsoft.com",
-      "identifier": "Senior AI Engineer\nUnited States, Washington, Redm_556804059?domain=microsoft.com"
     }
   ],
-  "job_count_text": "848",
-  "timestamp": "2026-03-18T19:57:33.459720"
+  "job_count_text": "850",
+  "timestamp": "2026-03-18T20:14:44.039564"
 }

@@ -4,9 +4,14 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "New College Grad - Process Engineer ID1\nBoise, Idaho, United States of America\nPosted 19 hours ago",
+      "title": "New College Grad - Process Engineer ID1\nBoise, Idaho, United States of America\nPosted 20 hours ago",
       "url": "https://careers.micron.com/careers/job/40367274",
       "identifier": "New College Grad - Process Engineer ID1\nBoise, Ida_icron.com/careers/job/40367274"
+    },
+    {
+      "title": "MCBU Product Manager\nBoise, Idaho, United States of America\nPosted 20 hours ago",
+      "url": "https://careers.micron.com/careers/job/40878841",
+      "identifier": "MCBU Product Manager\nBoise, Idaho, United States o_icron.com/careers/job/40878841"
     },
     {
       "title": "New College Grad - SPC Engineer\nManassas, Virginia, United States of America\nPosted 2 days ago",
@@ -34,11 +39,6 @@
       "identifier": "Dry Etch Advanced DRAM Process Development Enginee_icron.com/careers/job/40711959"
     },
     {
-      "title": "MCBU Product Manager\nBoise, Idaho, United States of America\nPosted 19 hours ago",
-      "url": "https://careers.micron.com/careers/job/40878841",
-      "identifier": "MCBU Product Manager\nBoise, Idaho, United States o_icron.com/careers/job/40878841"
-    },
-    {
       "title": "US Expansion Planning Engineer\nBoise, Idaho, United States of America\nPosted 3 days ago",
       "url": "https://careers.micron.com/careers/job/40879212",
       "identifier": "US Expansion Planning Engineer\nBoise, Idaho, Unite_icron.com/careers/job/40879212"
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "66",
-  "timestamp": "2026-03-18T19:26:40.334848"
+  "timestamp": "2026-03-18T19:43:53.041638"
 }

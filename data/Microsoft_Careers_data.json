@@ -4,6 +4,11 @@
   "total_jobs": 10,
   "jobs": [
     {
+      "title": "Senior Software Engineer - CTJ - Poly\nUnited States, Virginia, Reston\nPosted 6 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556828136?domain=microsoft.com",
+      "identifier": "Senior Software Engineer - CTJ - Poly\nUnited State_556828136?domain=microsoft.com"
+    },
+    {
       "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted 8 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556755306?domain=microsoft.com",
       "identifier": "Principal Software Engineer\nUnited States, Washing_556755306?domain=microsoft.com"
@@ -39,7 +44,7 @@
       "identifier": "Senior AI/Machine Learning Engineer, Minecraft\nUni_556639530?domain=microsoft.com"
     },
     {
-      "title": "MTS - Platform Engineering Manager\nUnited States, Washington, Redmond\nPosted 14 hours ago",
+      "title": "MTS - Platform Engineering Manager\nUnited States, Washington, Redmond\nPosted 15 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556637122?domain=microsoft.com",
       "identifier": "MTS - Platform Engineering Manager\nUnited States, _556637122?domain=microsoft.com"
     },
@@ -47,13 +52,8 @@
       "title": "Senior Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 15 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556619344?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Multiple L_556619344?domain=microsoft.com"
-    },
-    {
-      "title": "Software Engineer II - HR Employee Experiences Team\nUnited States, Washington, Redmond\nPosted 15 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556849484?domain=microsoft.com",
-      "identifier": "Software Engineer II - HR Employee Experiences Tea_556849484?domain=microsoft.com"
     }
   ],
-  "job_count_text": "855",
-  "timestamp": "2026-03-19T14:21:24.282569"
+  "job_count_text": "856",
+  "timestamp": "2026-03-19T14:38:36.320922"
 }

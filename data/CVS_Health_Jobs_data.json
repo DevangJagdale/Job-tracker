@@ -4,29 +4,14 @@
   "total_jobs": 8,
   "jobs": [
     {
-      "title": "Senior Software Development Engineer (IBMi/AS400)",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0788054/Senior-Software-Development-Engineer-IBMi-AS400",
-      "identifier": "Senior Software Development Engineer (IBMi/AS400)_evelopment-Engineer-IBMi-AS400"
+      "title": "Senior Analyst, Tech Infrastructure",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0818406/Senior-Analyst-Tech-Infrastructure",
+      "identifier": "Senior Analyst, Tech Infrastructure_or-Analyst-Tech-Infrastructure"
     },
     {
-      "title": "Staff Software Development Engineer - Customer Reporting (Lead Full Stack, Angular, Spring Boot)",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0834901/Staff-Software-Development-Engineer-Customer-Reporting-Lead-Full-Stack-Angular-Spring-Boot",
-      "identifier": "Staff Software Development Engineer - Customer Rep_Full-Stack-Angular-Spring-Boot"
-    },
-    {
-      "title": "Senior Manager - Software Development Engineering (Customer Reporting, Frontend - Angular)",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0834902/Senior-Manager-Software-Development-Engineering-Customer-Reporting-Frontend-Angular",
-      "identifier": "Senior Manager - Software Development Engineering _mer-Reporting-Frontend-Angular"
-    },
-    {
-      "title": "Staff Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0852048/Staff-Software-Development-Engineer",
-      "identifier": "Staff Software Development Engineer_-Software-Development-Engineer"
-    },
-    {
-      "title": "Senior Analyst, Clinical Technician (Operational Services)",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0836381/Senior-Analyst-Clinical-Technician-Operational-Services",
-      "identifier": "Senior Analyst, Clinical Technician (Operational S_echnician-Operational-Services"
+      "title": "Senior Full Stack AI ML Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0824949/Senior-Full-Stack-AI-ML-Engineer",
+      "identifier": "Senior Full Stack AI ML Engineer_nior-Full-Stack-AI-ML-Engineer"
     },
     {
       "title": "Manager - Scrum Master",
@@ -34,16 +19,31 @@
       "identifier": "Manager - Scrum Master_/R0850295/Manager-Scrum-Master"
     },
     {
-      "title": "Senior Analyst, Tech Infrastructure",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0818406/Senior-Analyst-Tech-Infrastructure",
-      "identifier": "Senior Analyst, Tech Infrastructure_or-Analyst-Tech-Infrastructure"
+      "title": "Senior Analyst, Clinical Technician (Operational Services)",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0836381/Senior-Analyst-Clinical-Technician-Operational-Services",
+      "identifier": "Senior Analyst, Clinical Technician (Operational S_echnician-Operational-Services"
     },
     {
-      "title": "Business Analyst - ServiceNow HRSD",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0862876/Business-Analyst-ServiceNow-HRSD",
-      "identifier": "Business Analyst - ServiceNow HRSD_siness-Analyst-ServiceNow-HRSD"
+      "title": "Quality Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0856164/Quality-Engineer",
+      "identifier": "Quality Engineer_/job/R0856164/Quality-Engineer"
+    },
+    {
+      "title": "Senior Manager - Production Support Engineering (myPBM)",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0807716/Senior-Manager-Production-Support-Engineering-myPBM",
+      "identifier": "Senior Manager - Production Support Engineering (m_tion-Support-Engineering-myPBM"
+    },
+    {
+      "title": "Senior Analyst, Executive Support",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0791077/Senior-Analyst-Executive-Support",
+      "identifier": "Senior Analyst, Executive Support_nior-Analyst-Executive-Support"
+    },
+    {
+      "title": "Producer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0818760/Producer",
+      "identifier": "Producer_om/us/en/job/R0818760/Producer"
     }
   ],
-  "job_count_text": "35",
-  "timestamp": "2026-03-19T05:56:15.350998"
+  "job_count_text": "26",
+  "timestamp": "2026-03-19T06:13:27.410231"
 }

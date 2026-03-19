@@ -4,14 +4,14 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Mechanical Engineer I (Full Time) - United States",
-      "url": "https://careers.cisco.com/global/en/job/2011166/Mechanical-Engineer-I-Full-Time-United-States",
-      "identifier": "Mechanical Engineer I (Full Time) - United States_neer-I-Full-Time-United-States"
-    },
-    {
       "title": "Strategy & Planning Analyst",
       "url": "https://careers.cisco.com/global/en/job/2010758/Strategy-Planning-Analyst",
       "identifier": "Strategy & Planning Analyst_0758/Strategy-Planning-Analyst"
+    },
+    {
+      "title": "Mechanical Engineer I (Full Time) - United States",
+      "url": "https://careers.cisco.com/global/en/job/2011166/Mechanical-Engineer-I-Full-Time-United-States",
+      "identifier": "Mechanical Engineer I (Full Time) - United States_neer-I-Full-Time-United-States"
     },
     {
       "title": "Data Engineer I (Full Time) - United States",
@@ -24,14 +24,14 @@
       "identifier": "Wireless Network Engineer I (Full Time) - United S_neer-I-Full-Time-United-States"
     },
     {
-      "title": "Customer Experience Project Specialist I (Full-Time) - United States",
-      "url": "https://careers.cisco.com/global/en/job/2001576/Customer-Experience-Project-Specialist-I-Full-Time-United-States",
-      "identifier": "Customer Experience Project Specialist I (Full-Tim_list-I-Full-Time-United-States"
-    },
-    {
       "title": "Customer Project Specialist (Intern) - United States CX Renewals/CX ETR",
       "url": "https://careers.cisco.com/global/en/job/2009089/Customer-Project-Specialist-Intern-United-States-CX-Renewals-CX-ETR",
       "identifier": "Customer Project Specialist (Intern) - United Stat_ited-States-CX-Renewals-CX-ETR"
+    },
+    {
+      "title": "Customer Experience Project Specialist I (Full-Time) - United States",
+      "url": "https://careers.cisco.com/global/en/job/2001576/Customer-Experience-Project-Specialist-I-Full-Time-United-States",
+      "identifier": "Customer Experience Project Specialist I (Full-Tim_list-I-Full-Time-United-States"
     },
     {
       "title": "Data Science Analyst I (Full Time) - United States",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "31",
-  "timestamp": "2026-03-19T05:57:00.132875"
+  "timestamp": "2026-03-19T06:14:11.869100"
 }

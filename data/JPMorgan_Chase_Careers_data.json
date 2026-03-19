@@ -29,6 +29,11 @@
       "identifier": "jpmc_210716290"
     },
     {
+      "title": "Senior Lead Software Engineer - Databricks/Spark/AWS",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210718229/?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
+      "identifier": "jpmc_210718229"
+    },
+    {
       "title": "Senior Lead Software Engineer - Data Software Engineering | Workforce and Experience Technology (WXT)",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210721320/?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
       "identifier": "jpmc_210721320"
@@ -122,13 +127,8 @@
       "title": "Lead Software Engineer - DevOps",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210711121/?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
       "identifier": "jpmc_210711121"
-    },
-    {
-      "title": "Cloud Software Engineer II - Kubernetes/ AWS/ Terraform",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210711648/?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
-      "identifier": "jpmc_210711648"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-19T19:07:30.893348"
+  "timestamp": "2026-03-19T19:24:45.216047"
 }

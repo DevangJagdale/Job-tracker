@@ -4,7 +4,7 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Engineer, DEG Technology Node DEV PE\nBoise, Idaho, United States of America\nPosted an hour ago",
+      "title": "Engineer, DEG Technology Node DEV PE\nBoise, Idaho, United States of America\nPosted 2 hours ago",
       "url": "https://careers.micron.com/careers/job/40644916",
       "identifier": "Engineer, DEG Technology Node DEV PE\nBoise, Idaho,_icron.com/careers/job/40644916"
     },
@@ -39,14 +39,14 @@
       "identifier": "New College Grad - Metals/Films Process Developmen_icron.com/careers/job/40797024"
     },
     {
-      "title": "Dry Etch Advanced DRAM Process Development Engineer\nBoise, Idaho, United States of America\nPosted 3 days ago",
-      "url": "https://careers.micron.com/careers/job/40711959",
-      "identifier": "Dry Etch Advanced DRAM Process Development Enginee_icron.com/careers/job/40711959"
-    },
-    {
       "title": "New College Grad - Product Development Failure Analysis Engineer\nBoise, Idaho, United States of America\nPosted 3 days ago",
       "url": "https://careers.micron.com/careers/job/40485553",
       "identifier": "New College Grad - Product Development Failure Ana_icron.com/careers/job/40485553"
+    },
+    {
+      "title": "Dry Etch Advanced DRAM Process Development Engineer\nBoise, Idaho, United States of America\nPosted 3 days ago",
+      "url": "https://careers.micron.com/careers/job/40711959",
+      "identifier": "Dry Etch Advanced DRAM Process Development Enginee_icron.com/careers/job/40711959"
     },
     {
       "title": "Supply Chain Planner\nBoise, Idaho, United States of America\nPosted 6 days ago",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "66",
-  "timestamp": "2026-03-19T01:17:37.571570"
+  "timestamp": "2026-03-19T01:34:46.595323"
 }

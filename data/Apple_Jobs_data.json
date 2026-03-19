@@ -4,6 +4,16 @@
   "total_jobs": 17,
   "jobs": [
     {
+      "title": "Senior Data Platform Architect",
+      "url": "https://jobs.apple.com/en-us/details/200652474-3337/senior-data-platform-architect?team=SFTWR",
+      "identifier": "Senior Data Platform Architect_-platform-architect?team=SFTWR"
+    },
+    {
+      "title": "Software Engineer, OS and System Services",
+      "url": "https://jobs.apple.com/en-us/details/200652236-0836/software-engineer-os-and-system-services?team=SFTWR",
+      "identifier": "Software Engineer, OS and System Services_and-system-services?team=SFTWR"
+    },
+    {
       "title": "Site Reliability Engineer (Edge Services), Infrastructure Services",
       "url": "https://jobs.apple.com/en-us/details/200645589-0157/site-reliability-engineer-edge-services-infrastructure-services?team=SFTWR",
       "identifier": "Site Reliability Engineer (Edge Services), Infrast_astructure-services?team=SFTWR"
@@ -77,18 +87,8 @@
       "title": "Senior Software Engineer-Apple Music",
       "url": "https://jobs.apple.com/en-us/details/200635026-3401/senior-software-engineer-apple-music?team=SFTWR",
       "identifier": "Senior Software Engineer-Apple Music_ngineer-apple-music?team=SFTWR"
-    },
-    {
-      "title": "Site Reliability Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200652312-0157/site-reliability-engineer?team=SFTWR",
-      "identifier": "Site Reliability Engineer_eliability-engineer?team=SFTWR"
-    },
-    {
-      "title": "Machine Learning Software Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200652446-3956/machine-learning-software-engineer?team=SFTWR",
-      "identifier": "Machine Learning Software Engineer_g-software-engineer?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-19T19:39:56.338557"
+  "timestamp": "2026-03-19T19:57:10.217130"
 }

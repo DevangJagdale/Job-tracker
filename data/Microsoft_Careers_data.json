@@ -4,7 +4,12 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Senior Software Engineer - Windows Cloud Experiences\nUnited States, Washington, Redmond\nPosted 33 minutes ago",
+      "title": "Principal Software Engineer - Azure Key Vault\nUnited States, Washington, Redmond + 2 more\nPosted 19 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556850535?domain=microsoft.com",
+      "identifier": "Principal Software Engineer - Azure Key Vault\nUnit_556850535?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Software Engineer - Windows Cloud Experiences\nUnited States, Washington, Redmond\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556816162?domain=microsoft.com",
       "identifier": "Senior Software Engineer - Windows Cloud Experienc_556816162?domain=microsoft.com"
     },
@@ -47,13 +52,8 @@
       "title": "Principal Software Engineer - Performance\nUnited States, California, Mountain View\nPosted 13 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556828256?domain=microsoft.com",
       "identifier": "Principal Software Engineer - Performance\nUnited S_556828256?domain=microsoft.com"
-    },
-    {
-      "title": "Principal Software Engineer\nUnited States, California, Mountain View + 1 more\nPosted 13 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556630574?domain=microsoft.com",
-      "identifier": "Principal Software Engineer\nUnited States, Califor_556630574?domain=microsoft.com"
     }
   ],
-  "job_count_text": "859",
-  "timestamp": "2026-03-19T16:21:46.152119"
+  "job_count_text": "860",
+  "timestamp": "2026-03-19T16:39:13.265742"
 }

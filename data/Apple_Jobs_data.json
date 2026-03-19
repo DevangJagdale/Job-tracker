@@ -4,6 +4,11 @@
   "total_jobs": 19,
   "jobs": [
     {
+      "title": "Machine Learning Engineer, Apple Services Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200648301-3337/machine-learning-engineer-apple-services-engineering?team=MLAI",
+      "identifier": "Machine Learning Engineer, Apple Services Engineer_services-engineering?team=MLAI"
+    },
+    {
       "title": "AR/VR Software Performance Engineer",
       "url": "https://jobs.apple.com/en-us/details/200652518-3956/ar-vr-software-performance-engineer?team=SFTWR",
       "identifier": "AR/VR Software Performance Engineer_erformance-engineer?team=SFTWR"
@@ -92,13 +97,8 @@
       "title": "Senior Software Engineer (Ads Platform)- Experimentation",
       "url": "https://jobs.apple.com/en-us/details/200651961-0836/senior-software-engineer-ads-platform-experimentation?team=SFTWR",
       "identifier": "Senior Software Engineer (Ads Platform)- Experimen_orm-experimentation?team=SFTWR"
-    },
-    {
-      "title": "Machine Learning Engineer - Matching, Apple Ads",
-      "url": "https://jobs.apple.com/en-us/details/200605164-0836/machine-learning-engineer-matching-apple-ads?team=SFTWR",
-      "identifier": "Machine Learning Engineer - Matching, Apple Ads_-matching-apple-ads?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-19T16:22:01.866329"
+  "timestamp": "2026-03-19T16:39:29.629716"
 }

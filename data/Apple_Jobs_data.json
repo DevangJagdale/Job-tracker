@@ -4,6 +4,26 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Senior Security Engineering Manager",
+      "url": "https://jobs.apple.com/en-us/details/200646044-3337/senior-security-engineering-manager?team=SFTWR",
+      "identifier": "Senior Security Engineering Manager_engineering-manager?team=SFTWR"
+    },
+    {
+      "title": "Perception Manager - Special Projects",
+      "url": "https://jobs.apple.com/en-us/details/200652681-0836/perception-manager-special-projects?team=MLAI",
+      "identifier": "Perception Manager - Special Projects_ger-special-projects?team=MLAI"
+    },
+    {
+      "title": "Perception Algorithms Engineer - Special Project",
+      "url": "https://jobs.apple.com/en-us/details/200652700-0836/perception-algorithms-engineer-special-project?team=MLAI",
+      "identifier": "Perception Algorithms Engineer - Special Project_neer-special-project?team=MLAI"
+    },
+    {
+      "title": "Senior Robot Interaction Engineer - Special Projects",
+      "url": "https://jobs.apple.com/en-us/details/200652707-0836/senior-robot-interaction-engineer-special-projects?team=MLAI",
+      "identifier": "Senior Robot Interaction Engineer - Special Projec_eer-special-projects?team=MLAI"
+    },
+    {
       "title": "Privacy Engineer - Health",
       "url": "https://jobs.apple.com/en-us/details/200652730-0836/privacy-engineer-health?team=SFTWR",
       "identifier": "Privacy Engineer - Health_acy-engineer-health?team=SFTWR"
@@ -62,28 +82,8 @@
       "title": "Data Analyst - Strategic Data Solutions",
       "url": "https://jobs.apple.com/en-us/details/200630587-3401/data-analyst-strategic-data-solutions?team=OPMFG",
       "identifier": "Data Analyst - Strategic Data Solutions_egic-data-solutions?team=OPMFG"
-    },
-    {
-      "title": "Machine Learning Engineer, Apple Services Engineering",
-      "url": "https://jobs.apple.com/en-us/details/200648301-3337/machine-learning-engineer-apple-services-engineering?team=MLAI",
-      "identifier": "Machine Learning Engineer, Apple Services Engineer_services-engineering?team=MLAI"
-    },
-    {
-      "title": "AR/VR Software Performance Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200652518-3956/ar-vr-software-performance-engineer?team=SFTWR",
-      "identifier": "AR/VR Software Performance Engineer_erformance-engineer?team=SFTWR"
-    },
-    {
-      "title": "Senior Partner Engineering Manager, Emerging Technologies",
-      "url": "https://jobs.apple.com/en-us/details/200647999-3956/senior-partner-engineering-manager-emerging-technologies?team=SFTWR",
-      "identifier": "Senior Partner Engineering Manager, Emerging Techn_erging-technologies?team=SFTWR"
-    },
-    {
-      "title": "Video Machine Learning Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200652392-3543/video-machine-learning-engineer?team=SFTWR",
-      "identifier": "Video Machine Learning Engineer_e-learning-engineer?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-19T23:30:33.071952"
+  "timestamp": "2026-03-19T23:47:43.977589"
 }

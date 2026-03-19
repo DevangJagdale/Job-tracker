@@ -1,8 +1,13 @@
 {
   "page_title": "Search our Job Opportunities at Barclays",
   "url": "https://search.jobs.barclays/search-jobs/United%20States/13015/2/6252001/39x76/-98x5/50/2",
-  "total_jobs": 15,
+  "total_jobs": 14,
   "jobs": [
+    {
+      "title": "Senior Developer",
+      "url": "https://search.jobs.barclays/job/whippany/senior-developer/13015/92962116000",
+      "identifier": "Senior Developer_or-developer/13015/92962116000"
+    },
     {
       "title": "Market Data Commercial Owner - VP",
       "url": "https://search.jobs.barclays/job/new-york/market-data-commercial-owner-vp/13015/92936724464",
@@ -34,6 +39,11 @@
       "identifier": "Customer Support Collections Specialist_s-specialist/13015/92922787120"
     },
     {
+      "title": "Payments & Cash Management Sales",
+      "url": "https://search.jobs.barclays/job/new-york/payments-and-cash-management-sales/13015/92922777968",
+      "identifier": "Payments & Cash Management Sales_gement-sales/13015/92922777968"
+    },
+    {
       "title": "Network Security Engineer - AVP",
       "url": "https://search.jobs.barclays/job/whippany/network-security-engineer-avp/13015/92922776976",
       "identifier": "Network Security Engineer - AVP_engineer-avp/13015/92922776976"
@@ -62,23 +72,8 @@
       "title": "Senior Java Developer",
       "url": "https://search.jobs.barclays/job/new-york/senior-java-developer/13015/92898416976",
       "identifier": "Senior Java Developer_va-developer/13015/92898416976"
-    },
-    {
-      "title": "Fixed Income eTrading Platform Engineer - VP",
-      "url": "https://search.jobs.barclays/job/new-york/fixed-income-etrading-platform-engineer-vp/13015/92885465008",
-      "identifier": "Fixed Income eTrading Platform Engineer - VP_-engineer-vp/13015/92885465008"
-    },
-    {
-      "title": "Funds and Sponsors Coverage - Director",
-      "url": "https://search.jobs.barclays/job/new-york/funds-and-sponsors-coverage-director/13015/92885464320",
-      "identifier": "Funds and Sponsors Coverage - Director_age-director/13015/92885464320"
-    },
-    {
-      "title": "KDB Developer",
-      "url": "https://search.jobs.barclays/job/new-york/kdb-developer/13015/92885463600",
-      "identifier": "KDB Developer_db-developer/13015/92885463600"
     }
   ],
-  "job_count_text": "79",
-  "timestamp": "2026-03-19T17:21:12.638914"
+  "job_count_text": "85",
+  "timestamp": "2026-03-19T17:38:25.202541"
 }

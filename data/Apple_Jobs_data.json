@@ -4,6 +4,11 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Privacy Engineer - Health",
+      "url": "https://jobs.apple.com/en-us/details/200652730-0836/privacy-engineer-health?team=SFTWR",
+      "identifier": "Privacy Engineer - Health_acy-engineer-health?team=SFTWR"
+    },
+    {
       "title": "Software Power Systems Engineer",
       "url": "https://jobs.apple.com/en-us/details/200652762-0836/software-power-systems-engineer?team=SFTWR",
       "identifier": "Software Power Systems Engineer_er-systems-engineer?team=SFTWR"
@@ -77,13 +82,8 @@
       "title": "Video Machine Learning Engineer",
       "url": "https://jobs.apple.com/en-us/details/200652392-3543/video-machine-learning-engineer?team=SFTWR",
       "identifier": "Video Machine Learning Engineer_e-learning-engineer?team=SFTWR"
-    },
-    {
-      "title": "Asset Delivery Software Quality Tester",
-      "url": "https://jobs.apple.com/en-us/details/200652486-0836/asset-delivery-software-quality-tester?team=SFTWR",
-      "identifier": "Asset Delivery Software Quality Tester_ware-quality-tester?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-19T23:13:21.168120"
+  "timestamp": "2026-03-19T23:30:33.071952"
 }

@@ -14,14 +14,14 @@
       "identifier": "Level 3 Technical Applications Support - .NET_nical-Applications-Support-NET"
     },
     {
-      "title": "Senior Software Engineer - Java Backend",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0835630/Senior-Software-Engineer-Java-Backend",
-      "identifier": "Senior Software Engineer - Java Backend_Software-Engineer-Java-Backend"
-    },
-    {
       "title": "Full Stack Software Development Engineer (Java)",
       "url": "https://jobs.cvshealth.com/us/en/job/R0826568/Full-Stack-Software-Development-Engineer-Java",
       "identifier": "Full Stack Software Development Engineer (Java)_ware-Development-Engineer-Java"
+    },
+    {
+      "title": "Senior Software Engineer - Java Backend",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0835630/Senior-Software-Engineer-Java-Backend",
+      "identifier": "Senior Software Engineer - Java Backend_Software-Engineer-Java-Backend"
     },
     {
       "title": "Senior Analyst, Tech Infrastructure",
@@ -45,5 +45,5 @@
     }
   ],
   "job_count_text": "29",
-  "timestamp": "2026-03-19T17:05:31.535744"
+  "timestamp": "2026-03-19T17:22:46.479323"
 }

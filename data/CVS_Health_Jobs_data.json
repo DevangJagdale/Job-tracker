@@ -4,9 +4,9 @@
   "total_jobs": 8,
   "jobs": [
     {
-      "title": "Senior Software Development Engineer (IBMi/AS400)",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0788054/Senior-Software-Development-Engineer-IBMi-AS400",
-      "identifier": "Senior Software Development Engineer (IBMi/AS400)_evelopment-Engineer-IBMi-AS400"
+      "title": "Senior Analyst, Clinical Technician (Operational Services)",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0836381/Senior-Analyst-Clinical-Technician-Operational-Services",
+      "identifier": "Senior Analyst, Clinical Technician (Operational S_echnician-Operational-Services"
     },
     {
       "title": "Staff Software Development Engineer - Customer Reporting (Lead Full Stack, Angular, Spring Boot)",
@@ -14,19 +14,9 @@
       "identifier": "Staff Software Development Engineer - Customer Rep_Full-Stack-Angular-Spring-Boot"
     },
     {
-      "title": "Senior Manager - Software Development Engineering (Customer Reporting, Frontend - Angular)",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0834902/Senior-Manager-Software-Development-Engineering-Customer-Reporting-Frontend-Angular",
-      "identifier": "Senior Manager - Software Development Engineering _mer-Reporting-Frontend-Angular"
-    },
-    {
       "title": "Staff Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0852048/Staff-Software-Development-Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0851547/Staff-Software-Development-Engineer",
       "identifier": "Staff Software Development Engineer_-Software-Development-Engineer"
-    },
-    {
-      "title": "Senior Analyst, Clinical Technician (Operational Services)",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0836381/Senior-Analyst-Clinical-Technician-Operational-Services",
-      "identifier": "Senior Analyst, Clinical Technician (Operational S_echnician-Operational-Services"
     },
     {
       "title": "Manager - Scrum Master",
@@ -34,16 +24,26 @@
       "identifier": "Manager - Scrum Master_/R0850295/Manager-Scrum-Master"
     },
     {
+      "title": "Senior Manager - Software Development Engineering (Customer Reporting, Frontend - Angular)",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0834902/Senior-Manager-Software-Development-Engineering-Customer-Reporting-Frontend-Angular",
+      "identifier": "Senior Manager - Software Development Engineering _mer-Reporting-Frontend-Angular"
+    },
+    {
+      "title": "Senior Software Development Engineer (IBMi/AS400)",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0788054/Senior-Software-Development-Engineer-IBMi-AS400",
+      "identifier": "Senior Software Development Engineer (IBMi/AS400)_evelopment-Engineer-IBMi-AS400"
+    },
+    {
+      "title": "Business Analyst - ServiceNow HRSD",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0862876/Business-Analyst-ServiceNow-HRSD",
+      "identifier": "Business Analyst - ServiceNow HRSD_siness-Analyst-ServiceNow-HRSD"
+    },
+    {
       "title": "Senior Analyst, Tech Infrastructure",
       "url": "https://jobs.cvshealth.com/us/en/job/R0818406/Senior-Analyst-Tech-Infrastructure",
       "identifier": "Senior Analyst, Tech Infrastructure_or-Analyst-Tech-Infrastructure"
-    },
-    {
-      "title": "Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0858219/Software-Development-Engineer",
-      "identifier": "Software Development Engineer_/Software-Development-Engineer"
     }
   ],
   "job_count_text": "35",
-  "timestamp": "2026-03-19T00:16:22.363924"
+  "timestamp": "2026-03-19T00:23:59.238372"
 }

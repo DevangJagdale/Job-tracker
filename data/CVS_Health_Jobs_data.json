@@ -4,19 +4,34 @@
   "total_jobs": 8,
   "jobs": [
     {
-      "title": "Level 3 Technical Applications Support - .NET",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0823442/Level-3-Technical-Applications-Support-NET",
-      "identifier": "Level 3 Technical Applications Support - .NET_nical-Applications-Support-NET"
-    },
-    {
       "title": "Reporting Analyst",
       "url": "https://jobs.cvshealth.com/us/en/job/R0840632/Reporting-Analyst",
       "identifier": "Reporting Analyst_job/R0840632/Reporting-Analyst"
     },
     {
+      "title": "Level 3 Technical Applications Support - .NET",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0823442/Level-3-Technical-Applications-Support-NET",
+      "identifier": "Level 3 Technical Applications Support - .NET_nical-Applications-Support-NET"
+    },
+    {
+      "title": "Full Stack Software Development Engineer (Java)",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0826568/Full-Stack-Software-Development-Engineer-Java",
+      "identifier": "Full Stack Software Development Engineer (Java)_ware-Development-Engineer-Java"
+    },
+    {
+      "title": "Senior Software Engineer - Java Backend",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0835630/Senior-Software-Engineer-Java-Backend",
+      "identifier": "Senior Software Engineer - Java Backend_Software-Engineer-Java-Backend"
+    },
+    {
       "title": "Senior Analyst, Tech Infrastructure",
       "url": "https://jobs.cvshealth.com/us/en/job/R0818406/Senior-Analyst-Tech-Infrastructure",
       "identifier": "Senior Analyst, Tech Infrastructure_or-Analyst-Tech-Infrastructure"
+    },
+    {
+      "title": "Manager - Scrum Master",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0850295/Manager-Scrum-Master",
+      "identifier": "Manager - Scrum Master_/R0850295/Manager-Scrum-Master"
     },
     {
       "title": "Senior Full Stack AI ML Engineer",
@@ -27,23 +42,8 @@
       "title": "Senior Analyst, Clinical Technician (Operational Services)",
       "url": "https://jobs.cvshealth.com/us/en/job/R0836381/Senior-Analyst-Clinical-Technician-Operational-Services",
       "identifier": "Senior Analyst, Clinical Technician (Operational S_echnician-Operational-Services"
-    },
-    {
-      "title": "Manager - Scrum Master",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0850295/Manager-Scrum-Master",
-      "identifier": "Manager - Scrum Master_/R0850295/Manager-Scrum-Master"
-    },
-    {
-      "title": "Quality Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0856164/Quality-Engineer",
-      "identifier": "Quality Engineer_/job/R0856164/Quality-Engineer"
-    },
-    {
-      "title": "Senior Manager - Production Support Engineering (myPBM)",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0807716/Senior-Manager-Production-Support-Engineering-myPBM",
-      "identifier": "Senior Manager - Production Support Engineering (m_tion-Support-Engineering-myPBM"
     }
   ],
-  "job_count_text": "28",
-  "timestamp": "2026-03-19T15:14:23.461796"
+  "job_count_text": "30",
+  "timestamp": "2026-03-19T15:31:33.223141"
 }

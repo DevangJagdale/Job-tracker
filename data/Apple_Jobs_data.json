@@ -4,6 +4,11 @@
   "total_jobs": 18,
   "jobs": [
     {
+      "title": "Remote Site Services Data Center Manager, Infrastructure Services",
+      "url": "https://jobs.apple.com/en-us/details/200642872-1902/remote-site-services-data-center-manager-infrastructure-services?team=SFTWR",
+      "identifier": "Remote Site Services Data Center Manager, Infrastr_astructure-services?team=SFTWR"
+    },
+    {
       "title": "Site Reliability Engineer, Enterprise Technology Services",
       "url": "https://jobs.apple.com/en-us/details/200652242-0157/site-reliability-engineer-enterprise-technology-services?team=SFTWR",
       "identifier": "Site Reliability Engineer, Enterprise Technology S_technology-services?team=SFTWR"
@@ -87,13 +92,8 @@
       "title": "Tools and Automation Engineer, Vision Products Software",
       "url": "https://jobs.apple.com/en-us/details/200652386-3956/tools-and-automation-engineer-vision-products-software?team=SFTWR",
       "identifier": "Tools and Automation Engineer, Vision Products Sof_n-products-software?team=SFTWR"
-    },
-    {
-      "title": "Machine Learning Engineer, Photos",
-      "url": "https://jobs.apple.com/en-us/details/200649397-0836/machine-learning-engineer-photos?team=SFTWR",
-      "identifier": "Machine Learning Engineer, Photos_ing-engineer-photos?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-19T18:13:46.794278"
+  "timestamp": "2026-03-19T18:31:01.599165"
 }

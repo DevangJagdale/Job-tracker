@@ -4,6 +4,11 @@
   "total_jobs": 10,
   "jobs": [
     {
+      "title": "Senior Software Engineer - Windows Cloud Experiences\nUnited States, Washington, Redmond\nPosted 16 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556816162?domain=microsoft.com",
+      "identifier": "Senior Software Engineer - Windows Cloud Experienc_556816162?domain=microsoft.com"
+    },
+    {
       "title": "Site Reliability Engineering- CTJ- Poly\nUnited States, Washington, Redmond + 1 more\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556843673?domain=microsoft.com",
       "identifier": "Site Reliability Engineering- CTJ- Poly\nUnited Sta_556843673?domain=microsoft.com"
@@ -14,19 +19,19 @@
       "identifier": "Principal Software Engineering Manager\nUnited Stat_556643353?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer - CTJ - Poly\nUnited States, Virginia, Reston\nPosted an hour ago",
+      "title": "Senior Software Engineer - CTJ - Poly\nUnited States, Virginia, Reston\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556828136?domain=microsoft.com",
       "identifier": "Senior Software Engineer - CTJ - Poly\nUnited State_556828136?domain=microsoft.com"
     },
     {
-      "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted 9 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556755306?domain=microsoft.com",
-      "identifier": "Principal Software Engineer\nUnited States, Washing_556755306?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 9 hours ago",
+      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 10 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556755296?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Washington_556755296?domain=microsoft.com"
+    },
+    {
+      "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted 10 hours ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556755306?domain=microsoft.com",
+      "identifier": "Principal Software Engineer\nUnited States, Washing_556755306?domain=microsoft.com"
     },
     {
       "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted 10 hours ago",
@@ -44,16 +49,11 @@
       "identifier": "Principal Software Engineer - Performance\nUnited S_556828256?domain=microsoft.com"
     },
     {
-      "title": "Principal Software Engineer\nUnited States, California, Mountain View + 1 more\nPosted 12 hours ago",
+      "title": "Principal Software Engineer\nUnited States, California, Mountain View + 1 more\nPosted 13 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556630574?domain=microsoft.com",
       "identifier": "Principal Software Engineer\nUnited States, Califor_556630574?domain=microsoft.com"
-    },
-    {
-      "title": "Senior AI/Machine Learning Engineer, Minecraft\nUnited States, Washington, Redmond\nPosted 13 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556639530?domain=microsoft.com",
-      "identifier": "Senior AI/Machine Learning Engineer, Minecraft\nUni_556639530?domain=microsoft.com"
     }
   ],
-  "job_count_text": "858",
-  "timestamp": "2026-03-19T15:47:26.920980"
+  "job_count_text": "859",
+  "timestamp": "2026-03-19T16:04:38.131626"
 }

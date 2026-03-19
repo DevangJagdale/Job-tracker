@@ -1,8 +1,18 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 15,
+  "total_jobs": 16,
   "jobs": [
+    {
+      "title": "Engineering Program Manager, Apple Media Services, Apple Services Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200651220-0836/engineering-program-manager-apple-media-services-apple-services-engineering?team=SFTWR",
+      "identifier": "Engineering Program Manager, Apple Media Services,_ervices-engineering?team=SFTWR"
+    },
+    {
+      "title": "Accessibility Software Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200649395-0836/accessibility-software-engineer?team=SFTWR",
+      "identifier": "Accessibility Software Engineer_y-software-engineer?team=SFTWR"
+    },
     {
       "title": "Backend Engineer, Measurement - Evaluation",
       "url": "https://jobs.apple.com/en-us/details/200652735-0836/backend-engineer-measurement-evaluation?team=SFTWR",
@@ -72,13 +82,8 @@
       "title": "Speech & Audio ML Algorithm Engineer",
       "url": "https://jobs.apple.com/en-us/details/200652533-0836/speech-audio-ml-algorithm-engineer?team=SFTWR",
       "identifier": "Speech & Audio ML Algorithm Engineer_-algorithm-engineer?team=SFTWR"
-    },
-    {
-      "title": "Senior Software Engineer, Apple Services Engineering, iCloud Platform",
-      "url": "https://jobs.apple.com/en-us/details/200652502-0836/senior-software-engineer-apple-services-engineering-icloud-platform?team=SFTWR",
-      "identifier": "Senior Software Engineer, Apple Services Engineeri_ing-icloud-platform?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-19T21:22:36.659767"
+  "timestamp": "2026-03-19T21:39:09.570835"
 }

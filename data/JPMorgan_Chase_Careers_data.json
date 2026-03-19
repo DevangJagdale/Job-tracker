@@ -99,11 +99,6 @@
       "identifier": "jpmc_210717488"
     },
     {
-      "title": "Senior Lead Software Engineer - Data Software Engineering | Workforce and Experience Technology (WXT)",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210721320/?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
-      "identifier": "jpmc_210721320"
-    },
-    {
       "title": "Lead Software Engineer - Full Stack - Java, React, AWS",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210721954/?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
       "identifier": "jpmc_210721954"
@@ -127,8 +122,13 @@
       "title": "Sr. Lead Software Engineer - Role SSE",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210724891/?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
       "identifier": "jpmc_210724891"
+    },
+    {
+      "title": "Sr Lead Software Engineer-Role DS",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210724949/?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
+      "identifier": "jpmc_210724949"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-19T09:40:57.515487"
+  "timestamp": "2026-03-19T09:58:11.060225"
 }

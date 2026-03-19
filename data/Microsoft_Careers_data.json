@@ -4,22 +4,27 @@
   "total_jobs": 9,
   "jobs": [
     {
-      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 7 minutes ago",
+      "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted 5 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556768513?domain=microsoft.com",
+      "identifier": "Principal Software Engineer\nUnited States, Washing_556768513?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 24 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556849959?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Washington_556849959?domain=microsoft.com"
     },
     {
-      "title": "Principal Applied Science Manager - Excel Core\nUnited States, Washington, Redmond\nPosted 27 minutes ago",
+      "title": "Principal Applied Science Manager - Excel Core\nUnited States, Washington, Redmond\nPosted 44 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556804089?domain=microsoft.com",
       "identifier": "Principal Applied Science Manager - Excel Core\nUni_556804089?domain=microsoft.com"
     },
     {
-      "title": "Principal Software Engineer - CTJ - Poly\nUnited States, Washington, Redmond + 1 more\nPosted 41 minutes ago",
+      "title": "Principal Software Engineer - CTJ - Poly\nUnited States, Washington, Redmond + 1 more\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556851134?domain=microsoft.com",
       "identifier": "Principal Software Engineer - CTJ - Poly\nUnited St_556851134?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted an hour ago",
+      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556750303?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Washington_556750303?domain=microsoft.com"
     },
@@ -42,13 +47,8 @@
       "title": "Site Reliability Engineering- CTJ- Poly\nUnited States, Washington, Redmond + 1 more\nPosted 4 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556843673?domain=microsoft.com",
       "identifier": "Site Reliability Engineering- CTJ- Poly\nUnited Sta_556843673?domain=microsoft.com"
-    },
-    {
-      "title": "Principal Software Engineering Manager\nUnited States, Washington, Redmond\nPosted 4 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556643353?domain=microsoft.com",
-      "identifier": "Principal Software Engineering Manager\nUnited Stat_556643353?domain=microsoft.com"
     }
   ],
-  "job_count_text": "864",
-  "timestamp": "2026-03-19T18:30:45.034385"
+  "job_count_text": "863",
+  "timestamp": "2026-03-19T18:47:56.236246"
 }

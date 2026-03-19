@@ -4,6 +4,11 @@
   "total_jobs": 8,
   "jobs": [
     {
+      "title": "Level 3 Technical Applications Support - .NET",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0823442/Level-3-Technical-Applications-Support-NET",
+      "identifier": "Level 3 Technical Applications Support - .NET_nical-Applications-Support-NET"
+    },
+    {
       "title": "Senior Analyst, Tech Infrastructure",
       "url": "https://jobs.cvshealth.com/us/en/job/R0818406/Senior-Analyst-Tech-Infrastructure",
       "identifier": "Senior Analyst, Tech Infrastructure_or-Analyst-Tech-Infrastructure"
@@ -37,13 +42,8 @@
       "title": "Senior Analyst, Executive Support",
       "url": "https://jobs.cvshealth.com/us/en/job/R0791077/Senior-Analyst-Executive-Support",
       "identifier": "Senior Analyst, Executive Support_nior-Analyst-Executive-Support"
-    },
-    {
-      "title": "Producer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0818760/Producer",
-      "identifier": "Producer_om/us/en/job/R0818760/Producer"
     }
   ],
-  "job_count_text": "26",
-  "timestamp": "2026-03-19T13:13:49.250633"
+  "job_count_text": "27",
+  "timestamp": "2026-03-19T13:31:05.804000"
 }

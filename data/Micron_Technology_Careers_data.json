@@ -4,9 +4,14 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Engineer, DEG Technology Node DEV PE\nBoise, Idaho, United States of America\nPosted 3 hours ago",
+      "title": "Engineer, DEG Technology Node DEV PE\nBoise, Idaho, United States of America\nPosted 4 hours ago",
       "url": "https://careers.micron.com/careers/job/40644916",
       "identifier": "Engineer, DEG Technology Node DEV PE\nBoise, Idaho,_icron.com/careers/job/40644916"
+    },
+    {
+      "title": "US Expansion Planning Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/40879212",
+      "identifier": "US Expansion Planning Engineer\nBoise, Idaho, Unite_icron.com/careers/job/40879212"
     },
     {
       "title": "New College Grad - Process Engineer ID1\nBoise, Idaho, United States of America\nPosted a day ago",
@@ -17,11 +22,6 @@
       "title": "MCBU Product Manager\nBoise, Idaho, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/40878841",
       "identifier": "MCBU Product Manager\nBoise, Idaho, United States o_icron.com/careers/job/40878841"
-    },
-    {
-      "title": "US Expansion Planning Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
-      "url": "https://careers.micron.com/careers/job/40879212",
-      "identifier": "US Expansion Planning Engineer\nBoise, Idaho, Unite_icron.com/careers/job/40879212"
     },
     {
       "title": "New College Grad - Metals/Films Process Development Engineer\nBoise, Idaho, United States of America\nPosted 2 days ago",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "66",
-  "timestamp": "2026-03-19T03:17:15.586811"
+  "timestamp": "2026-03-19T03:34:20.384124"
 }

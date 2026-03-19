@@ -1,8 +1,18 @@
 {
   "page_title": "Search our Job Opportunities at Barclays",
   "url": "https://search.jobs.barclays/search-jobs/United%20States/13015/2/6252001/39x76/-98x5/50/2",
-  "total_jobs": 14,
+  "total_jobs": 15,
   "jobs": [
+    {
+      "title": "Market Data Commercial Owner - VP",
+      "url": "https://search.jobs.barclays/job/new-york/market-data-commercial-owner-vp/13015/92936724464",
+      "identifier": "Market Data Commercial Owner - VP_ial-owner-vp/13015/92936724464"
+    },
+    {
+      "title": "Senior C# Backend Engineer \u2013 AVP",
+      "url": "https://search.jobs.barclays/job/new-york/senior-c-backend-engineer-avp/13015/92936713632",
+      "identifier": "Senior C# Backend Engineer \u2013 AVP_engineer-avp/13015/92936713632"
+    },
     {
       "title": "Network Security Engineering Manager",
       "url": "https://search.jobs.barclays/job/whippany/network-security-engineering-manager/13015/92922787392",
@@ -22,11 +32,6 @@
       "title": "Customer Support Collections Specialist",
       "url": "https://search.jobs.barclays/job/henderson/customer-support-collections-specialist/13015/92922787120",
       "identifier": "Customer Support Collections Specialist_s-specialist/13015/92922787120"
-    },
-    {
-      "title": "Payments & Cash Management Sales",
-      "url": "https://search.jobs.barclays/job/new-york/payments-and-cash-management-sales/13015/92922777968",
-      "identifier": "Payments & Cash Management Sales_gement-sales/13015/92922777968"
     },
     {
       "title": "Network Security Engineer - AVP",
@@ -75,5 +80,5 @@
     }
   ],
   "job_count_text": "79",
-  "timestamp": "2026-03-19T11:29:11.498088"
+  "timestamp": "2026-03-19T11:46:23.769218"
 }

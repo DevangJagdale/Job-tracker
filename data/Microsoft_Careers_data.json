@@ -4,14 +4,14 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 8 minutes ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556755296?domain=microsoft.com",
-      "identifier": "Senior Software Engineer\nUnited States, Washington_556755296?domain=microsoft.com"
-    },
-    {
-      "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted 7 minutes ago",
+      "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted 24 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556755306?domain=microsoft.com",
       "identifier": "Principal Software Engineer\nUnited States, Washing_556755306?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 25 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556755296?domain=microsoft.com",
+      "identifier": "Senior Software Engineer\nUnited States, Washington_556755296?domain=microsoft.com"
     },
     {
       "title": "Software Engineer II - AI\nUnited States, Washington, Redmond\nPosted an hour ago",
@@ -34,12 +34,12 @@
       "identifier": "Principal Software Engineer\nUnited States, Califor_556630574?domain=microsoft.com"
     },
     {
-      "title": "Senior AI/Machine Learning Engineer, Minecraft\nUnited States, Washington, Redmond\nPosted 3 hours ago",
+      "title": "Senior AI/Machine Learning Engineer, Minecraft\nUnited States, Washington, Redmond\nPosted 4 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556639530?domain=microsoft.com",
       "identifier": "Senior AI/Machine Learning Engineer, Minecraft\nUni_556639530?domain=microsoft.com"
     },
     {
-      "title": "MTS - Platform Engineering Manager\nUnited States, Washington, Redmond\nPosted 6 hours ago",
+      "title": "MTS - Platform Engineering Manager\nUnited States, Washington, Redmond\nPosted 7 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556637122?domain=microsoft.com",
       "identifier": "MTS - Platform Engineering Manager\nUnited States, _556637122?domain=microsoft.com"
     },
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "865",
-  "timestamp": "2026-03-19T06:29:21.261385"
+  "timestamp": "2026-03-19T06:46:32.735226"
 }

@@ -4,14 +4,14 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Strategy & Planning Analyst",
-      "url": "https://careers.cisco.com/global/en/job/2010758/Strategy-Planning-Analyst",
-      "identifier": "Strategy & Planning Analyst_0758/Strategy-Planning-Analyst"
-    },
-    {
       "title": "Mechanical Engineer I (Full Time) - United States",
       "url": "https://careers.cisco.com/global/en/job/2011166/Mechanical-Engineer-I-Full-Time-United-States",
       "identifier": "Mechanical Engineer I (Full Time) - United States_neer-I-Full-Time-United-States"
+    },
+    {
+      "title": "Strategy & Planning Analyst",
+      "url": "https://careers.cisco.com/global/en/job/2010758/Strategy-Planning-Analyst",
+      "identifier": "Strategy & Planning Analyst_0758/Strategy-Planning-Analyst"
     },
     {
       "title": "Data Engineer I (Full Time) - United States",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "31",
-  "timestamp": "2026-03-19T06:31:23.041174"
+  "timestamp": "2026-03-19T06:48:34.050828"
 }

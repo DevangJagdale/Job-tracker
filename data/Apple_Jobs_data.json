@@ -4,6 +4,11 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Software Power Systems Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200652762-0836/software-power-systems-engineer?team=SFTWR",
+      "identifier": "Software Power Systems Engineer_er-systems-engineer?team=SFTWR"
+    },
+    {
       "title": "Engineering Program Manager, Apple Media Services, Apple Services Engineering",
       "url": "https://jobs.apple.com/en-us/details/200651220-0836/engineering-program-manager-apple-media-services-apple-services-engineering?team=SFTWR",
       "identifier": "Engineering Program Manager, Apple Media Services,_ervices-engineering?team=SFTWR"
@@ -77,13 +82,8 @@
       "title": "Asset Delivery Software Quality Tester",
       "url": "https://jobs.apple.com/en-us/details/200652486-0836/asset-delivery-software-quality-tester?team=SFTWR",
       "identifier": "Asset Delivery Software Quality Tester_ware-quality-tester?team=SFTWR"
-    },
-    {
-      "title": "Speech & Audio ML Algorithm Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200652533-0836/speech-audio-ml-algorithm-engineer?team=SFTWR",
-      "identifier": "Speech & Audio ML Algorithm Engineer_-algorithm-engineer?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-19T22:30:36.181845"
+  "timestamp": "2026-03-19T22:38:26.266826"
 }

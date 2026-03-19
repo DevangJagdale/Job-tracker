@@ -4,6 +4,11 @@
   "total_jobs": 18,
   "jobs": [
     {
+      "title": "Site Reliability Engineer, Enterprise Technology Services",
+      "url": "https://jobs.apple.com/en-us/details/200652242-0157/site-reliability-engineer-enterprise-technology-services?team=SFTWR",
+      "identifier": "Site Reliability Engineer, Enterprise Technology S_technology-services?team=SFTWR"
+    },
+    {
       "title": "Engineering Manager, User & Content Intelligence",
       "url": "https://jobs.apple.com/en-us/details/200651907-3337/engineering-manager-user-content-intelligence?team=SFTWR",
       "identifier": "Engineering Manager, User & Content Intelligence_ontent-intelligence?team=SFTWR"
@@ -87,13 +92,8 @@
       "title": "Machine Learning Engineer, Photos",
       "url": "https://jobs.apple.com/en-us/details/200649397-0836/machine-learning-engineer-photos?team=SFTWR",
       "identifier": "Machine Learning Engineer, Photos_ing-engineer-photos?team=SFTWR"
-    },
-    {
-      "title": "On-device ML Infrastructure Engineer (ML Compiler)",
-      "url": "https://jobs.apple.com/en-us/details/200642877-0836/on-device-ml-infrastructure-engineer-ml-compiler?team=MLAI",
-      "identifier": "On-device ML Infrastructure Engineer (ML Compiler)_engineer-ml-compiler?team=MLAI"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-19T17:56:11.465845"
+  "timestamp": "2026-03-19T18:13:46.794278"
 }

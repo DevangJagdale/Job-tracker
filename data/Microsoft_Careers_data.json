@@ -4,12 +4,22 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Software Engineer II - AI\nUnited States, Washington, Redmond\nPosted 37 minutes ago",
+      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 8 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556755296?domain=microsoft.com",
+      "identifier": "Senior Software Engineer\nUnited States, Washington_556755296?domain=microsoft.com"
+    },
+    {
+      "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted 7 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556755306?domain=microsoft.com",
+      "identifier": "Principal Software Engineer\nUnited States, Washing_556755306?domain=microsoft.com"
+    },
+    {
+      "title": "Software Engineer II - AI\nUnited States, Washington, Redmond\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556753771?domain=microsoft.com",
       "identifier": "Software Engineer II - AI\nUnited States, Washingto_556753771?domain=microsoft.com"
     },
     {
-      "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted 37 minutes ago",
+      "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556847614?domain=microsoft.com",
       "identifier": "Principal Software Engineer\nUnited States, Washing_556847614?domain=microsoft.com"
     },
@@ -42,18 +52,8 @@
       "title": "Software Engineer II - HR Employee Experiences Team\nUnited States, Washington, Redmond\nPosted 7 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556849484?domain=microsoft.com",
       "identifier": "Software Engineer II - HR Employee Experiences Tea_556849484?domain=microsoft.com"
-    },
-    {
-      "title": "Principal Security Architect - CTJ - Poly\nUnited States, Virginia, Reston + 1 more\nPosted 7 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556850548?domain=microsoft.com",
-      "identifier": "Principal Security Architect - CTJ - Poly\nUnited S_556850548?domain=microsoft.com"
-    },
-    {
-      "title": "Principal Software Engineer Manager\nUnited States, Washington, Redmond\nPosted 7 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556828198?domain=microsoft.com",
-      "identifier": "Principal Software Engineer Manager\nUnited States,_556828198?domain=microsoft.com"
     }
   ],
-  "job_count_text": "864",
-  "timestamp": "2026-03-19T06:12:10.822008"
+  "job_count_text": "865",
+  "timestamp": "2026-03-19T06:29:21.261385"
 }

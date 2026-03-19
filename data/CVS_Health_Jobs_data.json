@@ -19,6 +19,11 @@
       "identifier": "Senior Analyst, Tech Infrastructure_or-Analyst-Tech-Infrastructure"
     },
     {
+      "title": "Manager - Scrum Master",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0850295/Manager-Scrum-Master",
+      "identifier": "Manager - Scrum Master_/R0850295/Manager-Scrum-Master"
+    },
+    {
       "title": "Senior Full Stack AI ML Engineer",
       "url": "https://jobs.cvshealth.com/us/en/job/R0824949/Senior-Full-Stack-AI-ML-Engineer",
       "identifier": "Senior Full Stack AI ML Engineer_nior-Full-Stack-AI-ML-Engineer"
@@ -27,11 +32,6 @@
       "title": "Senior Analyst, Clinical Technician (Operational Services)",
       "url": "https://jobs.cvshealth.com/us/en/job/R0836381/Senior-Analyst-Clinical-Technician-Operational-Services",
       "identifier": "Senior Analyst, Clinical Technician (Operational S_echnician-Operational-Services"
-    },
-    {
-      "title": "Manager - Scrum Master",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0850295/Manager-Scrum-Master",
-      "identifier": "Manager - Scrum Master_/R0850295/Manager-Scrum-Master"
     },
     {
       "title": "Quality Engineer",
@@ -45,5 +45,5 @@
     }
   ],
   "job_count_text": "28",
-  "timestamp": "2026-03-19T14:39:53.804329"
+  "timestamp": "2026-03-19T14:57:04.329398"
 }

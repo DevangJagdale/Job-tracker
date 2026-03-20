@@ -9,24 +9,9 @@
       "identifier": "Staff Software Engineer - AI, React & TypeScript_e-Engineer-AI-React-TypeScript"
     },
     {
-      "title": "Technical Support Representative",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0864462/Technical-Support-Representative",
-      "identifier": "Technical Support Representative_chnical-Support-Representative"
-    },
-    {
       "title": "Staff Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0846991/Staff-Software-Development-Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0810738/Staff-Software-Development-Engineer",
       "identifier": "Staff Software Development Engineer_-Software-Development-Engineer"
-    },
-    {
-      "title": "IT Customer Services Analyst",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0858292/IT-Customer-Services-Analyst",
-      "identifier": "IT Customer Services Analyst_2/IT-Customer-Services-Analyst"
-    },
-    {
-      "title": "Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0853961/Software-Development-Engineer",
-      "identifier": "Software Development Engineer_/Software-Development-Engineer"
     },
     {
       "title": "Senior Software Development Engineer",
@@ -34,16 +19,31 @@
       "identifier": "Senior Software Development Engineer_-Software-Development-Engineer"
     },
     {
-      "title": "Live AV Event Coordinator",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0818760/Live-AV-Event-Coordinator",
-      "identifier": "Live AV Event Coordinator_8760/Live-AV-Event-Coordinator"
+      "title": "Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0853961/Software-Development-Engineer",
+      "identifier": "Software Development Engineer_/Software-Development-Engineer"
     },
     {
-      "title": "Reporting Analyst",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0840632/Reporting-Analyst",
-      "identifier": "Reporting Analyst_job/R0840632/Reporting-Analyst"
+      "title": "Technical Support Representative",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0864462/Technical-Support-Representative",
+      "identifier": "Technical Support Representative_chnical-Support-Representative"
+    },
+    {
+      "title": "IT Customer Services Analyst",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0858292/IT-Customer-Services-Analyst",
+      "identifier": "IT Customer Services Analyst_2/IT-Customer-Services-Analyst"
+    },
+    {
+      "title": "Exchange & Copilot Operations Support Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0857628/Exchange-Copilot-Operations-Support-Engineer",
+      "identifier": "Exchange & Copilot Operations Support Engineer_ot-Operations-Support-Engineer"
+    },
+    {
+      "title": "Machine Learning Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0840283/Machine-Learning-Engineer",
+      "identifier": "Machine Learning Engineer_0283/Machine-Learning-Engineer"
     }
   ],
-  "job_count_text": "33",
-  "timestamp": "2026-03-20T19:07:35.753002"
+  "job_count_text": "35",
+  "timestamp": "2026-03-20T19:24:52.818220"
 }

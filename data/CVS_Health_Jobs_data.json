@@ -4,9 +4,14 @@
   "total_jobs": 8,
   "jobs": [
     {
-      "title": "Staff Software Engineer - AI, React & TypeScript",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0854633/Staff-Software-Engineer-AI-React-TypeScript",
-      "identifier": "Staff Software Engineer - AI, React & TypeScript_e-Engineer-AI-React-TypeScript"
+      "title": "Staff Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0846991/Staff-Software-Development-Engineer",
+      "identifier": "Staff Software Development Engineer_-Software-Development-Engineer"
+    },
+    {
+      "title": "Machine Learning Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0840283/Machine-Learning-Engineer",
+      "identifier": "Machine Learning Engineer_0283/Machine-Learning-Engineer"
     },
     {
       "title": "Technical Support Representative",
@@ -14,9 +19,9 @@
       "identifier": "Technical Support Representative_chnical-Support-Representative"
     },
     {
-      "title": "Staff Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0846991/Staff-Software-Development-Engineer",
-      "identifier": "Staff Software Development Engineer_-Software-Development-Engineer"
+      "title": "Staff Software Engineer - AI, React & TypeScript",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0854633/Staff-Software-Engineer-AI-React-TypeScript",
+      "identifier": "Staff Software Engineer - AI, React & TypeScript_e-Engineer-AI-React-TypeScript"
     },
     {
       "title": "IT Customer Services Analyst",
@@ -37,13 +42,8 @@
       "title": "Exchange & Copilot Operations Support Engineer",
       "url": "https://jobs.cvshealth.com/us/en/job/R0857628/Exchange-Copilot-Operations-Support-Engineer",
       "identifier": "Exchange & Copilot Operations Support Engineer_ot-Operations-Support-Engineer"
-    },
-    {
-      "title": "Machine Learning Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0840283/Machine-Learning-Engineer",
-      "identifier": "Machine Learning Engineer_0283/Machine-Learning-Engineer"
     }
   ],
   "job_count_text": "35",
-  "timestamp": "2026-03-20T21:16:16.490316"
+  "timestamp": "2026-03-20T21:33:25.623038"
 }

@@ -4,16 +4,6 @@
   "total_jobs": 8,
   "jobs": [
     {
-      "title": "Full Stack Software Development Engineer (Java)",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0826568/Full-Stack-Software-Development-Engineer-Java",
-      "identifier": "Full Stack Software Development Engineer (Java)_ware-Development-Engineer-Java"
-    },
-    {
-      "title": "Senior Manager - Software Development Engineering",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0786035/Senior-Manager-Software-Development-Engineering",
-      "identifier": "Senior Manager - Software Development Engineering_ftware-Development-Engineering"
-    },
-    {
       "title": "Reporting Analyst",
       "url": "https://jobs.cvshealth.com/us/en/job/R0840632/Reporting-Analyst",
       "identifier": "Reporting Analyst_job/R0840632/Reporting-Analyst"
@@ -24,14 +14,9 @@
       "identifier": "Level 3 Technical Applications Support - .NET_nical-Applications-Support-NET"
     },
     {
-      "title": "Manager - Virtual Workspace Services Operations",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0862836/Manager-Virtual-Workspace-Services-Operations",
-      "identifier": "Manager - Virtual Workspace Services Operations_-Workspace-Services-Operations"
-    },
-    {
-      "title": "Lead Director - Technical Infrastructure",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0818639/Lead-Director-Technical-Infrastructure",
-      "identifier": "Lead Director - Technical Infrastructure_ector-Technical-Infrastructure"
+      "title": "Full Stack Software Development Engineer (Java)",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0826568/Full-Stack-Software-Development-Engineer-Java",
+      "identifier": "Full Stack Software Development Engineer (Java)_ware-Development-Engineer-Java"
     },
     {
       "title": "Senior Software Development Engineer",
@@ -42,8 +27,23 @@
       "title": "Senior Software Engineer",
       "url": "https://jobs.cvshealth.com/us/en/job/R0858941/Senior-Software-Engineer",
       "identifier": "Senior Software Engineer_58941/Senior-Software-Engineer"
+    },
+    {
+      "title": "Senior Manager - Software Development Engineering",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0786035/Senior-Manager-Software-Development-Engineering",
+      "identifier": "Senior Manager - Software Development Engineering_ftware-Development-Engineering"
+    },
+    {
+      "title": "Lead Director - Technical Infrastructure",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0818639/Lead-Director-Technical-Infrastructure",
+      "identifier": "Lead Director - Technical Infrastructure_ector-Technical-Infrastructure"
+    },
+    {
+      "title": "Manager - Virtual Workspace Services Operations",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0862836/Manager-Virtual-Workspace-Services-Operations",
+      "identifier": "Manager - Virtual Workspace Services Operations_-Workspace-Services-Operations"
     }
   ],
   "job_count_text": "33",
-  "timestamp": "2026-03-19T23:48:47.949910"
+  "timestamp": "2026-03-20T00:06:00.877820"
 }

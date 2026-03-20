@@ -1,8 +1,18 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 16,
+  "total_jobs": 17,
   "jobs": [
+    {
+      "title": "Senior Robot Interaction Engineer - Special Projects",
+      "url": "https://jobs.apple.com/en-us/details/200652707-0836/senior-robot-interaction-engineer-special-projects?team=MLAI",
+      "identifier": "Senior Robot Interaction Engineer - Special Projec_eer-special-projects?team=MLAI"
+    },
+    {
+      "title": "Software Engineer \u2013 Developer Tools Installation Technologies",
+      "url": "https://jobs.apple.com/en-us/details/200652772-0836/software-engineer-developer-tools-installation-technologies?team=SFTWR",
+      "identifier": "Software Engineer \u2013 Developer Tools Installation T_lation-technologies?team=SFTWR"
+    },
     {
       "title": "Senior Security Engineering Manager",
       "url": "https://jobs.apple.com/en-us/details/200646044-3337/senior-security-engineering-manager?team=SFTWR",
@@ -17,11 +27,6 @@
       "title": "Perception Algorithms Engineer - Special Project",
       "url": "https://jobs.apple.com/en-us/details/200652700-0836/perception-algorithms-engineer-special-project?team=MLAI",
       "identifier": "Perception Algorithms Engineer - Special Project_neer-special-project?team=MLAI"
-    },
-    {
-      "title": "Senior Robot Interaction Engineer - Special Projects",
-      "url": "https://jobs.apple.com/en-us/details/200652707-0836/senior-robot-interaction-engineer-special-projects?team=MLAI",
-      "identifier": "Senior Robot Interaction Engineer - Special Projec_eer-special-projects?team=MLAI"
     },
     {
       "title": "Privacy Engineer - Health",
@@ -85,5 +90,5 @@
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-19T23:47:43.977589"
+  "timestamp": "2026-03-20T00:04:58.106251"
 }

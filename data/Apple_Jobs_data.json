@@ -4,6 +4,11 @@
   "total_jobs": 19,
   "jobs": [
     {
+      "title": "AIML - Sr Engineering Program Manager, Foundation Models",
+      "url": "https://jobs.apple.com/en-us/details/200652780-0836/aiml-sr-engineering-program-manager-foundation-models?team=SFTWR",
+      "identifier": "AIML - Sr Engineering Program Manager, Foundation _r-foundation-models?team=SFTWR"
+    },
+    {
       "title": "Software Engineer - Core OS Telemetry",
       "url": "https://jobs.apple.com/en-us/details/200652765-3543/software-engineer-core-os-telemetry?team=SFTWR",
       "identifier": "Software Engineer - Core OS Telemetry_r-core-os-telemetry?team=SFTWR"
@@ -92,13 +97,8 @@
       "title": "Senior Robot Interaction Engineer - Special Projects",
       "url": "https://jobs.apple.com/en-us/details/200652707-0836/senior-robot-interaction-engineer-special-projects?team=MLAI",
       "identifier": "Senior Robot Interaction Engineer - Special Projec_eer-special-projects?team=MLAI"
-    },
-    {
-      "title": "Software Engineer \u2013 Developer Tools Installation Technologies",
-      "url": "https://jobs.apple.com/en-us/details/200652772-0836/software-engineer-developer-tools-installation-technologies?team=SFTWR",
-      "identifier": "Software Engineer \u2013 Developer Tools Installation T_lation-technologies?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-20T22:58:04.680909"
+  "timestamp": "2026-03-20T23:15:13.103252"
 }

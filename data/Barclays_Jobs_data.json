@@ -4,6 +4,11 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Employee Relations Specialist VP",
+      "url": "https://search.jobs.barclays/job/new-york/employee-relations-specialist-vp/13015/93001876400",
+      "identifier": "Employee Relations Specialist VP_pecialist-vp/13015/93001876400"
+    },
+    {
       "title": "Cloud Data Engineer",
       "url": "https://search.jobs.barclays/job/whippany/cloud-data-engineer/13015/92982272688",
       "identifier": "Cloud Data Engineer_ata-engineer/13015/92982272688"
@@ -77,13 +82,8 @@
       "title": "Network Security Engineer - AVP",
       "url": "https://search.jobs.barclays/job/whippany/network-security-engineer-avp/13015/92922776976",
       "identifier": "Network Security Engineer - AVP_engineer-avp/13015/92922776976"
-    },
-    {
-      "title": "Snr Product Head",
-      "url": "https://search.jobs.barclays/job/new-york/snr-product-head/13015/92922776224",
-      "identifier": "Snr Product Head_product-head/13015/92922776224"
     }
   ],
-  "job_count_text": "87",
-  "timestamp": "2026-03-20T17:21:35.829510"
+  "job_count_text": "90",
+  "timestamp": "2026-03-20T17:39:01.822307"
 }

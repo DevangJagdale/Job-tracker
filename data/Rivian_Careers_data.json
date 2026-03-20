@@ -9,11 +9,6 @@
       "identifier": "Check Application Status_ims.com/jobs/login?loginOnly=1"
     },
     {
-      "title": "Staff Cybersecurity Application Security Engineer",
-      "url": "https://careers.rivian.com/careers-home/jobs/29206?lang=en-us&previousLocale=en-US",
-      "identifier": "Staff Cybersecurity Application Security Engineer_ang=en-us&previousLocale=en-US"
-    },
-    {
       "title": "Sr. Data Engineer, Enterprise Data & Analytics",
       "url": "https://careers.rivian.com/careers-home/jobs/27910?lang=en-us&previousLocale=en-US",
       "identifier": "Sr. Data Engineer, Enterprise Data & Analytics_ang=en-us&previousLocale=en-US"
@@ -57,8 +52,13 @@
       "title": "Full-stack Software Engineer, Marketing",
       "url": "https://careers.rivian.com/careers-home/jobs/27898?lang=en-us&previousLocale=en-US",
       "identifier": "Full-stack Software Engineer, Marketing_ang=en-us&previousLocale=en-US"
+    },
+    {
+      "title": "Sr. Staff Product Manager, Enterprise Data",
+      "url": "https://careers.rivian.com/careers-home/jobs/23691?lang=en-us&previousLocale=en-US",
+      "identifier": "Sr. Staff Product Manager, Enterprise Data_ang=en-us&previousLocale=en-US"
     }
   ],
-  "job_count_text": "36",
-  "timestamp": "2026-03-20T04:53:38.282981"
+  "job_count_text": "35",
+  "timestamp": "2026-03-20T05:10:46.419959"
 }

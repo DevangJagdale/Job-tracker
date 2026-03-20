@@ -4,6 +4,11 @@
   "total_jobs": 19,
   "jobs": [
     {
+      "title": "Software Engineer - Core OS Telemetry",
+      "url": "https://jobs.apple.com/en-us/details/200652765-3543/software-engineer-core-os-telemetry?team=SFTWR",
+      "identifier": "Software Engineer - Core OS Telemetry_r-core-os-telemetry?team=SFTWR"
+    },
+    {
       "title": "AIML - Sr Data Scientist, Evaluation",
       "url": "https://jobs.apple.com/en-us/details/200652980-0836/aiml-sr-data-scientist-evaluation?team=MLAI",
       "identifier": "AIML - Sr Data Scientist, Evaluation_scientist-evaluation?team=MLAI"
@@ -27,11 +32,6 @@
       "title": "Lead: Strategy, Analytics & Monetization, Apple Maps",
       "url": "https://jobs.apple.com/en-us/details/200652764-0836/lead-strategy-analytics-monetization-apple-maps?team=SFTWR",
       "identifier": "Lead: Strategy, Analytics & Monetization, Apple Ma_tization-apple-maps?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer - Core OS Telemetry",
-      "url": "https://jobs.apple.com/en-us/details/200652765-3543/software-engineer-core-os-telemetry?team=SFTWR",
-      "identifier": "Software Engineer - Core OS Telemetry_r-core-os-telemetry?team=SFTWR"
     },
     {
       "title": "Associate Creative Director, Photography, Sports",
@@ -100,5 +100,5 @@
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-20T22:40:55.950757"
+  "timestamp": "2026-03-20T22:58:04.680909"
 }

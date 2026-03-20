@@ -1,8 +1,33 @@
 {
   "page_title": "Search our Job Opportunities at Barclays",
   "url": "https://search.jobs.barclays/search-jobs/United%20States/13015/2/6252001/39x76/-98x5/50/2",
-  "total_jobs": 11,
+  "total_jobs": 16,
   "jobs": [
+    {
+      "title": "Cloud Data Engineer",
+      "url": "https://search.jobs.barclays/job/whippany/cloud-data-engineer/13015/92982272688",
+      "identifier": "Cloud Data Engineer_ata-engineer/13015/92982272688"
+    },
+    {
+      "title": "CFO Business Partnering & Controls VP",
+      "url": "https://search.jobs.barclays/job/new-york/cfo-business-partnering-and-controls-vp/13015/92974424512",
+      "identifier": "CFO Business Partnering & Controls VP_-controls-vp/13015/92974424512"
+    },
+    {
+      "title": "Debt Capital Markets, Associate",
+      "url": "https://search.jobs.barclays/job/new-york/debt-capital-markets-associate/13015/92974423808",
+      "identifier": "Debt Capital Markets, Associate_ts-associate/13015/92974423808"
+    },
+    {
+      "title": "Structured Cabling Design Engineer",
+      "url": "https://search.jobs.barclays/job/new-york/structured-cabling-design-engineer/13015/92974422016",
+      "identifier": "Structured Cabling Design Engineer_ign-engineer/13015/92974422016"
+    },
+    {
+      "title": "US Liquidity Reporting Lead",
+      "url": "https://search.jobs.barclays/job/new-york/us-liquidity-reporting-lead/13015/92974421040",
+      "identifier": "US Liquidity Reporting Lead_porting-lead/13015/92974421040"
+    },
     {
       "title": "Director Retail Partnerships",
       "url": "https://search.jobs.barclays/job/wilmington/director-retail-partnerships/13015/92962120832",
@@ -59,6 +84,6 @@
       "identifier": "Snr Product Head_product-head/13015/92922776224"
     }
   ],
-  "job_count_text": "88",
-  "timestamp": "2026-03-20T11:28:19.516125"
+  "job_count_text": "87",
+  "timestamp": "2026-03-20T11:45:25.268597"
 }

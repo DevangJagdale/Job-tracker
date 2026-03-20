@@ -4,6 +4,11 @@
   "total_jobs": 20,
   "jobs": [
     {
+      "title": "Software Engineer - Core OS Telemetry",
+      "url": "https://jobs.apple.com/en-us/details/200652765-3543/software-engineer-core-os-telemetry?team=SFTWR",
+      "identifier": "Software Engineer - Core OS Telemetry_r-core-os-telemetry?team=SFTWR"
+    },
+    {
       "title": "Associate Creative Director, Photography, Sports",
       "url": "https://jobs.apple.com/en-us/details/200647343-0670/associate-creative-director-photography-sports?team=SFTWR",
       "identifier": "Associate Creative Director, Photography, Sports_-photography-sports?team=SFTWR"
@@ -97,13 +102,8 @@
       "title": "Engineering Program Manager, Apple Media Services, Apple Services Engineering",
       "url": "https://jobs.apple.com/en-us/details/200651220-0836/engineering-program-manager-apple-media-services-apple-services-engineering?team=SFTWR",
       "identifier": "Engineering Program Manager, Apple Media Services,_ervices-engineering?team=SFTWR"
-    },
-    {
-      "title": "Accessibility Software Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200649395-0836/accessibility-software-engineer?team=SFTWR",
-      "identifier": "Accessibility Software Engineer_y-software-engineer?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-20T20:15:44.220105"
+  "timestamp": "2026-03-20T20:32:56.642058"
 }

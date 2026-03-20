@@ -4,6 +4,11 @@
   "total_jobs": 18,
   "jobs": [
     {
+      "title": "Engineering Program Manager, Private Cloud Compute - SRE, Apple Services Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200651036-0836/engineering-program-manager-private-cloud-compute-sre-apple-services-engineering?team=SFTWR",
+      "identifier": "Engineering Program Manager, Private Cloud Compute_ervices-engineering?team=SFTWR"
+    },
+    {
       "title": "Senior Machine Learning Engineer, Applied Sensing & Health",
       "url": "https://jobs.apple.com/en-us/details/200647715-0836/senior-machine-learning-engineer-applied-sensing-health?team=SFTWR",
       "identifier": "Senior Machine Learning Engineer, Applied Sensing _lied-sensing-health?team=SFTWR"
@@ -87,13 +92,8 @@
       "title": "Software Engineer, OS and System Services",
       "url": "https://jobs.apple.com/en-us/details/200652236-0836/software-engineer-os-and-system-services?team=SFTWR",
       "identifier": "Software Engineer, OS and System Services_and-system-services?team=SFTWR"
-    },
-    {
-      "title": "Site Reliability Engineer (Edge Services), Infrastructure Services",
-      "url": "https://jobs.apple.com/en-us/details/200645589-0157/site-reliability-engineer-edge-services-infrastructure-services?team=SFTWR",
-      "identifier": "Site Reliability Engineer (Edge Services), Infrast_astructure-services?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-20T17:04:42.903772"
+  "timestamp": "2026-03-20T17:22:08.284383"
 }

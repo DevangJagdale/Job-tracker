@@ -1,22 +1,12 @@
 {
   "page_title": "Rivian Automotive",
   "url": "https://careers.rivian.com/careers-home/jobs?page=1&categories=Information%20Technology%7CSoftware%20Engineering%7CTest%20and%20Development",
-  "total_jobs": 13,
+  "total_jobs": 11,
   "jobs": [
     {
       "title": "Check Application Status",
       "url": "https://us-careers-rivian.icims.com/jobs/login?loginOnly=1",
       "identifier": "Check Application Status_ims.com/jobs/login?loginOnly=1"
-    },
-    {
-      "title": "English",
-      "url": "https://careers.rivian.com/careers-home/jobs?lang=en-US",
-      "identifier": "English_m/careers-home/jobs?lang=en-US"
-    },
-    {
-      "title": "Fran\u00e7ais (Canada)",
-      "url": "https://careers.rivian.com/careers-home/jobs?lang=fr-CA",
-      "identifier": "Fran\u00e7ais (Canada)_m/careers-home/jobs?lang=fr-CA"
     },
     {
       "title": "Sr. Data Engineer, Enterprise Data & Analytics",
@@ -70,5 +60,5 @@
     }
   ],
   "job_count_text": "35",
-  "timestamp": "2026-03-20T17:46:08.144302"
+  "timestamp": "2026-03-20T18:03:29.666338"
 }

@@ -4,6 +4,11 @@
   "total_jobs": 18,
   "jobs": [
     {
+      "title": "Cloud Network Platform Software Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200652884-3956/cloud-network-platform-software-engineer?team=SFTWR",
+      "identifier": "Cloud Network Platform Software Engineer_m-software-engineer?team=SFTWR"
+    },
+    {
       "title": "Engineering Program Manager, Private Cloud Compute - SRE, Apple Services Engineering",
       "url": "https://jobs.apple.com/en-us/details/200651036-0836/engineering-program-manager-private-cloud-compute-sre-apple-services-engineering?team=SFTWR",
       "identifier": "Engineering Program Manager, Private Cloud Compute_ervices-engineering?team=SFTWR"
@@ -87,13 +92,8 @@
       "title": "Senior Data Platform Architect",
       "url": "https://jobs.apple.com/en-us/details/200652474-3337/senior-data-platform-architect?team=SFTWR",
       "identifier": "Senior Data Platform Architect_-platform-architect?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer, OS and System Services",
-      "url": "https://jobs.apple.com/en-us/details/200652236-0836/software-engineer-os-and-system-services?team=SFTWR",
-      "identifier": "Software Engineer, OS and System Services_and-system-services?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-20T17:39:35.453218"
+  "timestamp": "2026-03-20T17:57:15.477256"
 }

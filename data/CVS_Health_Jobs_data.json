@@ -10,8 +10,18 @@
     },
     {
       "title": "Staff Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0810738/Staff-Software-Development-Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0846991/Staff-Software-Development-Engineer",
       "identifier": "Staff Software Development Engineer_-Software-Development-Engineer"
+    },
+    {
+      "title": "Exchange & Copilot Operations Support Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0857628/Exchange-Copilot-Operations-Support-Engineer",
+      "identifier": "Exchange & Copilot Operations Support Engineer_ot-Operations-Support-Engineer"
+    },
+    {
+      "title": "IT Customer Services Analyst",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0858292/IT-Customer-Services-Analyst",
+      "identifier": "IT Customer Services Analyst_2/IT-Customer-Services-Analyst"
     },
     {
       "title": "Senior Software Development Engineer",
@@ -29,21 +39,11 @@
       "identifier": "Technical Support Representative_chnical-Support-Representative"
     },
     {
-      "title": "IT Customer Services Analyst",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0858292/IT-Customer-Services-Analyst",
-      "identifier": "IT Customer Services Analyst_2/IT-Customer-Services-Analyst"
-    },
-    {
-      "title": "Exchange & Copilot Operations Support Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0857628/Exchange-Copilot-Operations-Support-Engineer",
-      "identifier": "Exchange & Copilot Operations Support Engineer_ot-Operations-Support-Engineer"
-    },
-    {
       "title": "Machine Learning Engineer",
       "url": "https://jobs.cvshealth.com/us/en/job/R0840283/Machine-Learning-Engineer",
       "identifier": "Machine Learning Engineer_0283/Machine-Learning-Engineer"
     }
   ],
   "job_count_text": "35",
-  "timestamp": "2026-03-20T19:24:52.818220"
+  "timestamp": "2026-03-20T19:42:12.146293"
 }

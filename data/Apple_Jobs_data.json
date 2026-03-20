@@ -4,6 +4,11 @@
   "total_jobs": 17,
   "jobs": [
     {
+      "title": "Senior MacOS App Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200652874-3543/senior-macos-app-engineer?team=SFTWR",
+      "identifier": "Senior MacOS App Engineer_-macos-app-engineer?team=SFTWR"
+    },
+    {
       "title": "Software Engineer - Visual Intelligence",
       "url": "https://jobs.apple.com/en-us/details/200604470-3337/software-engineer-visual-intelligence?team=SFTWR",
       "identifier": "Software Engineer - Visual Intelligence_visual-intelligence?team=SFTWR"
@@ -82,13 +87,8 @@
       "title": "Site Reliability Engineer, Enterprise Technology Services",
       "url": "https://jobs.apple.com/en-us/details/200652242-0157/site-reliability-engineer-enterprise-technology-services?team=SFTWR",
       "identifier": "Site Reliability Engineer, Enterprise Technology S_technology-services?team=SFTWR"
-    },
-    {
-      "title": "Engineering Manager, User & Content Intelligence",
-      "url": "https://jobs.apple.com/en-us/details/200651907-3337/engineering-manager-user-content-intelligence?team=SFTWR",
-      "identifier": "Engineering Manager, User & Content Intelligence_ontent-intelligence?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-20T15:38:05.054576"
+  "timestamp": "2026-03-20T15:55:29.116053"
 }

@@ -1,8 +1,49 @@
 {
   "page_title": "Search CVS Health Jobs | Find Your Next Career Opportunity",
   "url": "https://jobs.cvshealth.com/us/en/search-results",
-  "total_jobs": 13955,
-  "jobs": [],
-  "job_count_text": "13955",
-  "timestamp": "2026-03-20T15:39:12.439804"
+  "total_jobs": 8,
+  "jobs": [
+    {
+      "title": "Live AV Event Coordinator",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0818760/Live-AV-Event-Coordinator",
+      "identifier": "Live AV Event Coordinator_8760/Live-AV-Event-Coordinator"
+    },
+    {
+      "title": "Reporting Analyst",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0840632/Reporting-Analyst",
+      "identifier": "Reporting Analyst_job/R0840632/Reporting-Analyst"
+    },
+    {
+      "title": "Manager - Virtual Workspace Services Operations",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0862836/Manager-Virtual-Workspace-Services-Operations",
+      "identifier": "Manager - Virtual Workspace Services Operations_-Workspace-Services-Operations"
+    },
+    {
+      "title": "Lead Director - Technical Infrastructure",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0818639/Lead-Director-Technical-Infrastructure",
+      "identifier": "Lead Director - Technical Infrastructure_ector-Technical-Infrastructure"
+    },
+    {
+      "title": "Senior Analyst, Tech Infrastructure",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0818406/Senior-Analyst-Tech-Infrastructure",
+      "identifier": "Senior Analyst, Tech Infrastructure_or-Analyst-Tech-Infrastructure"
+    },
+    {
+      "title": "Senior Full Stack AI ML Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0824949/Senior-Full-Stack-AI-ML-Engineer",
+      "identifier": "Senior Full Stack AI ML Engineer_nior-Full-Stack-AI-ML-Engineer"
+    },
+    {
+      "title": "Senior Analyst, Clinical Technician (Operational Services)",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0836381/Senior-Analyst-Clinical-Technician-Operational-Services",
+      "identifier": "Senior Analyst, Clinical Technician (Operational S_echnician-Operational-Services"
+    },
+    {
+      "title": "Quality Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0856164/Quality-Engineer",
+      "identifier": "Quality Engineer_/job/R0856164/Quality-Engineer"
+    }
+  ],
+  "job_count_text": "27",
+  "timestamp": "2026-03-20T15:56:30.914433"
 }

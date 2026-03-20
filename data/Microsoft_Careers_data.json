@@ -1,10 +1,10 @@
 {
   "page_title": "| Microsoft Careers",
   "url": "https://apply.careers.microsoft.com/careers?domain=microsoft.com&start=0&location=United+States&sort_by=timestamp&filter_include_remote=1&filter_profession=software+engineering%2Cresearch%252C%2520applied%252C%2520%2526%2520data%2520sciences",
-  "total_jobs": 10,
+  "total_jobs": 9,
   "jobs": [
     {
-      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 2 hours ago",
+      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 3 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556768510?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Washington_556768510?domain=microsoft.com"
     },
@@ -19,7 +19,7 @@
       "identifier": "Senior Software Engineer\nUnited States, Washington_556620215?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer and Principal Software Engineer - Power Point AI Team (Multiple Roles)\nUnited States, Washington, Redmond + 1 more\nPosted 5 hours ago",
+      "title": "Senior Software Engineer and Principal Software Engineer - Power Point AI Team (Multiple Roles)\nUnited States, Washington, Redmond + 1 more\nPosted 6 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556746085?domain=microsoft.com",
       "identifier": "Senior Software Engineer and Principal Software En_556746085?domain=microsoft.com"
     },
@@ -34,7 +34,7 @@
       "identifier": "Principal Data Scientist\nUnited States, Multiple L_556749303?domain=microsoft.com"
     },
     {
-      "title": "Member of Technical Staff - Full Stack Engineer, ML Efficiency & Observability\nUnited States, California, Mountain View + 1 more\nPosted 6 hours ago",
+      "title": "Member of Technical Staff - Full Stack Engineer, ML Efficiency & Observability\nUnited States, California, Mountain View + 1 more\nPosted 7 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556827351?domain=microsoft.com",
       "identifier": "Member of Technical Staff - Full Stack Engineer, M_556827351?domain=microsoft.com"
     },
@@ -47,13 +47,8 @@
       "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 7 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556837703?domain=microsoft.com",
       "identifier": "Software Engineer II\nUnited States, Washington, Re_556837703?domain=microsoft.com"
-    },
-    {
-      "title": "Applied Scientist: Microsoft AI Development Acceleration Program\nUnited States, Washington, Redmond + 1 more\nPosted 8 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556638831?domain=microsoft.com",
-      "identifier": "Applied Scientist: Microsoft AI Development Accele_556638831?domain=microsoft.com"
     }
   ],
   "job_count_text": "869",
-  "timestamp": "2026-03-20T04:13:04.517918"
+  "timestamp": "2026-03-20T04:30:14.061484"
 }

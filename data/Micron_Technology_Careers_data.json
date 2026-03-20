@@ -4,6 +4,11 @@
   "total_jobs": 10,
   "jobs": [
     {
+      "title": "Shift Equipment Engineer ID1\nBoise, Idaho, United States of America\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/39687950",
+      "identifier": "Shift Equipment Engineer ID1\nBoise, Idaho, United _icron.com/careers/job/39687950"
+    },
+    {
       "title": "Engineer, DEG Technology Node DEV PE\nBoise, Idaho, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/40644916",
       "identifier": "Engineer, DEG Technology Node DEV PE\nBoise, Idaho,_icron.com/careers/job/40644916"
@@ -19,16 +24,6 @@
       "identifier": "New College Grad - Design Engineer, AI\nSan Jose, C_icron.com/careers/job/40961780"
     },
     {
-      "title": "Shift Equipment Engineer ID1\nBoise, Idaho, United States of America\nPosted a day ago",
-      "url": "https://careers.micron.com/careers/job/39687950",
-      "identifier": "Shift Equipment Engineer ID1\nBoise, Idaho, United _icron.com/careers/job/39687950"
-    },
-    {
-      "title": "New College Grad - Process Engineer ID1\nBoise, Idaho, United States of America\nPosted 2 days ago",
-      "url": "https://careers.micron.com/careers/job/40367274",
-      "identifier": "New College Grad - Process Engineer ID1\nBoise, Ida_icron.com/careers/job/40367274"
-    },
-    {
       "title": "MCBU Product Manager\nBoise, Idaho, United States of America\nPosted 2 days ago",
       "url": "https://careers.micron.com/careers/job/40878841",
       "identifier": "MCBU Product Manager\nBoise, Idaho, United States o_icron.com/careers/job/40878841"
@@ -37,6 +32,11 @@
       "title": "US Expansion Planning Engineer\nBoise, Idaho, United States of America\nPosted 2 days ago",
       "url": "https://careers.micron.com/careers/job/40879212",
       "identifier": "US Expansion Planning Engineer\nBoise, Idaho, Unite_icron.com/careers/job/40879212"
+    },
+    {
+      "title": "New College Grad - Process Engineer ID1\nBoise, Idaho, United States of America\nPosted 2 days ago",
+      "url": "https://careers.micron.com/careers/job/40367274",
+      "identifier": "New College Grad - Process Engineer ID1\nBoise, Ida_icron.com/careers/job/40367274"
     },
     {
       "title": "New College Grad - SPC Engineer\nManassas, Virginia, United States of America\nPosted 3 days ago",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "68",
-  "timestamp": "2026-03-20T01:34:11.007688"
+  "timestamp": "2026-03-20T01:51:20.944660"
 }

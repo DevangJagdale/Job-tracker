@@ -1,15 +1,20 @@
 {
   "page_title": "| Microsoft Careers",
   "url": "https://apply.careers.microsoft.com/careers?domain=microsoft.com&start=0&location=United+States&sort_by=timestamp&filter_include_remote=1&filter_profession=software+engineering%2Cresearch%252C%2520applied%252C%2520%2526%2520data%2520sciences",
-  "total_jobs": 7,
+  "total_jobs": 8,
   "jobs": [
     {
-      "title": "Senior Site Reliability Engineering Manager- CTJ- Secret (Cleared Environments)\nUnited States, Washington, Redmond\nPosted 8 minutes ago",
+      "title": "Member of Technical Staff, Full Stack - ML Efficiency & Observability - MAI Superintelligence Team\nUnited States, California, Mountain View + 1 more\nPosted 13 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556827351?domain=microsoft.com",
+      "identifier": "Member of Technical Staff, Full Stack - ML Efficie_556827351?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Site Reliability Engineering Manager- CTJ- Secret (Cleared Environments)\nUnited States, Washington, Redmond\nPosted 26 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556851191?domain=microsoft.com",
       "identifier": "Senior Site Reliability Engineering Manager- CTJ- _556851191?domain=microsoft.com"
     },
     {
-      "title": "Principal Software Engineer - System Optimization\nUnited States, California, Mountain View\nPosted 23 minutes ago",
+      "title": "Principal Software Engineer - System Optimization\nUnited States, California, Mountain View\nPosted 40 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556827354?domain=microsoft.com",
       "identifier": "Principal Software Engineer - System Optimization\n_556827354?domain=microsoft.com"
     },
@@ -24,7 +29,7 @@
       "identifier": "Principal Software Engineer\nUnited States, Washing_556850853?domain=microsoft.com"
     },
     {
-      "title": "Software Engineer\nUnited States, Washington, Redmond\nPosted an hour ago",
+      "title": "Software Engineer\nUnited States, Washington, Redmond\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556850959?domain=microsoft.com",
       "identifier": "Software Engineer\nUnited States, Washington, Redmo_556850959?domain=microsoft.com"
     },
@@ -40,5 +45,5 @@
     }
   ],
   "job_count_text": "882",
-  "timestamp": "2026-03-20T19:58:09.794713"
+  "timestamp": "2026-03-20T20:15:27.696436"
 }

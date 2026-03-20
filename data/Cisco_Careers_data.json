@@ -29,11 +29,6 @@
       "identifier": "Strategy & Planning Analyst_0758/Strategy-Planning-Analyst"
     },
     {
-      "title": "Data Engineer I (Full Time) - United States",
-      "url": "https://careers.cisco.com/global/en/job/2003052/Data-Engineer-I-Full-Time-United-States",
-      "identifier": "Data Engineer I (Full Time) - United States_neer-I-Full-Time-United-States"
-    },
-    {
       "title": "Wireless Network Engineer I (Full Time) - United States",
       "url": "https://careers.cisco.com/global/en/job/2010991/Wireless-Network-Engineer-I-Full-Time-United-States",
       "identifier": "Wireless Network Engineer I (Full Time) - United S_neer-I-Full-Time-United-States"
@@ -52,8 +47,13 @@
       "title": "Data Science Analyst I (Full Time) - United States",
       "url": "https://careers.cisco.com/global/en/job/2007519/Data-Science-Analyst-I-Full-Time-United-States",
       "identifier": "Data Science Analyst I (Full Time) - United States_lyst-I-Full-Time-United-States"
+    },
+    {
+      "title": "Business Analyst I (Full Time) United States",
+      "url": "https://careers.cisco.com/global/en/job/2000125/Business-Analyst-I-Full-Time-United-States",
+      "identifier": "Business Analyst I (Full Time) United States_lyst-I-Full-Time-United-States"
     }
   ],
-  "job_count_text": "34",
-  "timestamp": "2026-03-20T05:57:55.390740"
+  "job_count_text": "33",
+  "timestamp": "2026-03-20T06:15:00.728618"
 }

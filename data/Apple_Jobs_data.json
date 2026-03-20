@@ -4,6 +4,11 @@
   "total_jobs": 19,
   "jobs": [
     {
+      "title": "Machine Learning Engineer, Siri Core Modeling",
+      "url": "https://jobs.apple.com/en-us/details/200646481-0836/machine-learning-engineer-siri-core-modeling?team=SFTWR",
+      "identifier": "Machine Learning Engineer, Siri Core Modeling_-siri-core-modeling?team=SFTWR"
+    },
+    {
       "title": "Project / Program Manager, WW BPR - Special Projects",
       "url": "https://jobs.apple.com/en-us/details/200652930-0157/project-program-manager-ww-bpr-special-projects?team=OPMFG",
       "identifier": "Project / Program Manager, WW BPR - Special Projec_pr-special-projects?team=OPMFG"
@@ -92,13 +97,8 @@
       "title": "Senior Perception Engineering Manager - Special Projects",
       "url": "https://jobs.apple.com/en-us/details/200652681-0836/senior-perception-engineering-manager-special-projects?team=MLAI",
       "identifier": "Senior Perception Engineering Manager - Special Pr_ger-special-projects?team=MLAI"
-    },
-    {
-      "title": "Senior Perception Algorithms Engineer - Special Project",
-      "url": "https://jobs.apple.com/en-us/details/200652700-0836/senior-perception-algorithms-engineer-special-project?team=MLAI",
-      "identifier": "Senior Perception Algorithms Engineer - Special Pr_neer-special-project?team=MLAI"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-20T21:49:31.958370"
+  "timestamp": "2026-03-20T22:06:41.898583"
 }

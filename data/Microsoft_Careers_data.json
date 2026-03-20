@@ -1,20 +1,30 @@
 {
   "page_title": "| Microsoft Careers",
   "url": "https://apply.careers.microsoft.com/careers?domain=microsoft.com&start=0&location=United+States&sort_by=timestamp&filter_include_remote=1&filter_profession=software+engineering%2Cresearch%252C%2520applied%252C%2520%2526%2520data%2520sciences",
-  "total_jobs": 8,
+  "total_jobs": 9,
   "jobs": [
     {
-      "title": "Principal Software Engineer\nUnited States, California, Mountain View + 1 more\nPosted 15 minutes ago",
+      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 12 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556657923?domain=microsoft.com",
+      "identifier": "Software Engineer II\nUnited States, Washington, Re_556657923?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 17 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556824208?domain=microsoft.com",
+      "identifier": "Senior Software Engineer\nUnited States, Multiple L_556824208?domain=microsoft.com"
+    },
+    {
+      "title": "Principal Software Engineer\nUnited States, California, Mountain View + 1 more\nPosted 32 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556851255?domain=microsoft.com",
       "identifier": "Principal Software Engineer\nUnited States, Califor_556851255?domain=microsoft.com"
     },
     {
-      "title": "Member of Technical Staff, Full Stack - ML Efficiency & Observability - MAI Superintelligence Team\nUnited States, California, Mountain View + 1 more\nPosted 31 minutes ago",
+      "title": "Member of Technical Staff, Full Stack - ML Efficiency & Observability - MAI Superintelligence Team\nUnited States, California, Mountain View + 1 more\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556827351?domain=microsoft.com",
       "identifier": "Member of Technical Staff, Full Stack - ML Efficie_556827351?domain=microsoft.com"
     },
     {
-      "title": "Senior Site Reliability Engineering Manager- CTJ- Secret (Cleared Environments)\nUnited States, Washington, Redmond\nPosted 43 minutes ago",
+      "title": "Senior Site Reliability Engineering Manager- CTJ- Secret (Cleared Environments)\nUnited States, Washington, Redmond\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556851191?domain=microsoft.com",
       "identifier": "Senior Site Reliability Engineering Manager- CTJ- _556851191?domain=microsoft.com"
     },
@@ -37,13 +47,8 @@
       "title": "Software Engineer\nUnited States, Washington, Redmond\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556850959?domain=microsoft.com",
       "identifier": "Software Engineer\nUnited States, Washington, Redmo_556850959?domain=microsoft.com"
-    },
-    {
-      "title": "Member of Technical Staff, Capacity & Efficiency Infrastructure - MAI Superintelligence Team\nUnited States, California, Mountain View + 1 more\nPosted 3 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556851470?domain=microsoft.com",
-      "identifier": "Member of Technical Staff, Capacity & Efficiency I_556851470?domain=microsoft.com"
     }
   ],
-  "job_count_text": "883",
-  "timestamp": "2026-03-20T20:32:40.196030"
+  "job_count_text": "884",
+  "timestamp": "2026-03-20T20:49:59.995684"
 }

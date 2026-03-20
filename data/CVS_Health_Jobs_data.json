@@ -14,19 +14,14 @@
       "identifier": "Technical Support Representative_chnical-Support-Representative"
     },
     {
-      "title": "IT Customer Services Analyst",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0858292/IT-Customer-Services-Analyst",
-      "identifier": "IT Customer Services Analyst_2/IT-Customer-Services-Analyst"
-    },
-    {
       "title": "Staff Software Development Engineer",
       "url": "https://jobs.cvshealth.com/us/en/job/R0846991/Staff-Software-Development-Engineer",
       "identifier": "Staff Software Development Engineer_-Software-Development-Engineer"
     },
     {
-      "title": "Lead Director - Technical Infrastructure",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0818639/Lead-Director-Technical-Infrastructure",
-      "identifier": "Lead Director - Technical Infrastructure_ector-Technical-Infrastructure"
+      "title": "IT Customer Services Analyst",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0858292/IT-Customer-Services-Analyst",
+      "identifier": "IT Customer Services Analyst_2/IT-Customer-Services-Analyst"
     },
     {
       "title": "Live AV Event Coordinator",
@@ -42,8 +37,13 @@
       "title": "Manager - Virtual Workspace Services Operations",
       "url": "https://jobs.cvshealth.com/us/en/job/R0862836/Manager-Virtual-Workspace-Services-Operations",
       "identifier": "Manager - Virtual Workspace Services Operations_-Workspace-Services-Operations"
+    },
+    {
+      "title": "Lead Director - Technical Infrastructure",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0818639/Lead-Director-Technical-Infrastructure",
+      "identifier": "Lead Director - Technical Infrastructure_ector-Technical-Infrastructure"
     }
   ],
   "job_count_text": "30",
-  "timestamp": "2026-03-20T17:58:20.647822"
+  "timestamp": "2026-03-20T18:15:39.999887"
 }

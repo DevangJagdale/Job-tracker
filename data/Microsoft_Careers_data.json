@@ -1,15 +1,20 @@
 {
   "page_title": "| Microsoft Careers",
   "url": "https://apply.careers.microsoft.com/careers?domain=microsoft.com&start=0&location=United+States&sort_by=timestamp&filter_include_remote=1&filter_profession=software+engineering%2Cresearch%252C%2520applied%252C%2520%2526%2520data%2520sciences",
-  "total_jobs": 9,
+  "total_jobs": 8,
   "jobs": [
     {
-      "title": "Senior Software Engineer\nUnited States, California, Mountain View + 1 more\nPosted 3 minutes ago",
+      "title": "Member of Technical Staff, Capacity & Efficiency Infrastructure - MAI Superintelligence Team\nUnited States, California, Mountain View + 1 more\nPosted 13 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556851470?domain=microsoft.com",
+      "identifier": "Member of Technical Staff, Capacity & Efficiency I_556851470?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Software Engineer\nUnited States, California, Mountain View + 1 more\nPosted 20 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556834733?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, California_556834733?domain=microsoft.com"
     },
     {
-      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 34 minutes ago",
+      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556833859?domain=microsoft.com",
       "identifier": "Software Engineer II\nUnited States, Washington, Re_556833859?domain=microsoft.com"
     },
@@ -29,7 +34,7 @@
       "identifier": "Software Engineer II\nUnited States, Washington, Re_556820668?domain=microsoft.com"
     },
     {
-      "title": "Software Engineer II - Customer Security & Trust\nUnited States, Washington, Redmond\nPosted an hour ago",
+      "title": "Software Engineer II - Customer Security & Trust\nUnited States, Washington, Redmond\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556849603?domain=microsoft.com",
       "identifier": "Software Engineer II - Customer Security & Trust\nU_556849603?domain=microsoft.com"
     },
@@ -37,18 +42,8 @@
       "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556627670?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Washington_556627670?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Software Engineer - Office\nUnited States, Washington, Redmond\nPosted 2 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556814479?domain=microsoft.com",
-      "identifier": "Senior Software Engineer - Office\nUnited States, W_556814479?domain=microsoft.com"
-    },
-    {
-      "title": "Software Engineer: AI/ML Intern Opportunities, MAI for University Students\nUnited States, Washington, Redmond + 1 more\nPosted 2 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556631195?domain=microsoft.com",
-      "identifier": "Software Engineer: AI/ML Intern Opportunities, MAI_556631195?domain=microsoft.com"
     }
   ],
-  "job_count_text": "878",
-  "timestamp": "2026-03-20T17:56:59.080516"
+  "job_count_text": "880",
+  "timestamp": "2026-03-20T18:14:21.428754"
 }

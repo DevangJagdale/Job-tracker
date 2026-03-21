@@ -4,14 +4,14 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "US FE Expansion Planning Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
-      "url": "https://careers.micron.com/careers/job/40986798",
-      "identifier": "US FE Expansion Planning Engineer\nBoise, Idaho, Un_icron.com/careers/job/40986798"
-    },
-    {
       "title": "Process Technician - PI Overall Process\nBoise, Idaho, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/40969398",
       "identifier": "Process Technician - PI Overall Process\nBoise, Ida_icron.com/careers/job/40969398"
+    },
+    {
+      "title": "US FE Expansion Planning Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/40986798",
+      "identifier": "US FE Expansion Planning Engineer\nBoise, Idaho, Un_icron.com/careers/job/40986798"
     },
     {
       "title": "Night Shift Thin Films Process Technician\nManassas, Virginia, United States of America\nPosted 2 days ago",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "69",
-  "timestamp": "2026-03-21T10:09:09.297289"
+  "timestamp": "2026-03-21T10:26:20.474506"
 }

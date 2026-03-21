@@ -4,19 +4,14 @@
   "total_jobs": 8,
   "jobs": [
     {
-      "title": "Staff Software Engineer - AI, React & TypeScript",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0854633/Staff-Software-Engineer-AI-React-TypeScript",
-      "identifier": "Staff Software Engineer - AI, React & TypeScript_e-Engineer-AI-React-TypeScript"
-    },
-    {
-      "title": "Staff Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0846991/Staff-Software-Development-Engineer",
-      "identifier": "Staff Software Development Engineer_-Software-Development-Engineer"
-    },
-    {
       "title": "Exchange & Copilot Operations Support Engineer",
       "url": "https://jobs.cvshealth.com/us/en/job/R0857628/Exchange-Copilot-Operations-Support-Engineer",
       "identifier": "Exchange & Copilot Operations Support Engineer_ot-Operations-Support-Engineer"
+    },
+    {
+      "title": "Technical Support Representative",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0864462/Technical-Support-Representative",
+      "identifier": "Technical Support Representative_chnical-Support-Representative"
     },
     {
       "title": "IT Customer Services Analyst",
@@ -24,26 +19,31 @@
       "identifier": "IT Customer Services Analyst_2/IT-Customer-Services-Analyst"
     },
     {
-      "title": "Senior Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0854025/Senior-Software-Development-Engineer",
-      "identifier": "Senior Software Development Engineer_-Software-Development-Engineer"
+      "title": "Manager - Virtual Workspace Services Operations",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0862836/Manager-Virtual-Workspace-Services-Operations",
+      "identifier": "Manager - Virtual Workspace Services Operations_-Workspace-Services-Operations"
     },
     {
-      "title": "Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0853961/Software-Development-Engineer",
-      "identifier": "Software Development Engineer_/Software-Development-Engineer"
+      "title": "Lead Director - Technical Infrastructure",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0818639/Lead-Director-Technical-Infrastructure",
+      "identifier": "Lead Director - Technical Infrastructure_ector-Technical-Infrastructure"
     },
     {
-      "title": "Machine Learning Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0840283/Machine-Learning-Engineer",
-      "identifier": "Machine Learning Engineer_0283/Machine-Learning-Engineer"
+      "title": "Live AV Event Coordinator",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0818760/Live-AV-Event-Coordinator",
+      "identifier": "Live AV Event Coordinator_8760/Live-AV-Event-Coordinator"
     },
     {
-      "title": "Technical Support Representative",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0864462/Technical-Support-Representative",
-      "identifier": "Technical Support Representative_chnical-Support-Representative"
+      "title": "Reporting Analyst",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0840632/Reporting-Analyst",
+      "identifier": "Reporting Analyst_job/R0840632/Reporting-Analyst"
+    },
+    {
+      "title": "Senior Analyst, Tech Infrastructure",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0818406/Senior-Analyst-Tech-Infrastructure",
+      "identifier": "Senior Analyst, Tech Infrastructure_or-Analyst-Tech-Infrastructure"
     }
   ],
-  "job_count_text": "35",
-  "timestamp": "2026-03-21T05:57:41.154205"
+  "job_count_text": "26",
+  "timestamp": "2026-03-21T06:15:04.727250"
 }

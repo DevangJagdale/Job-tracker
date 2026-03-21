@@ -4,6 +4,11 @@
   "total_jobs": 8,
   "jobs": [
     {
+      "title": "IT Customer Services Analyst",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0858292/IT-Customer-Services-Analyst",
+      "identifier": "IT Customer Services Analyst_2/IT-Customer-Services-Analyst"
+    },
+    {
       "title": "Exchange & Copilot Operations Support Engineer",
       "url": "https://jobs.cvshealth.com/us/en/job/R0857628/Exchange-Copilot-Operations-Support-Engineer",
       "identifier": "Exchange & Copilot Operations Support Engineer_ot-Operations-Support-Engineer"
@@ -12,16 +17,6 @@
       "title": "Technical Support Representative",
       "url": "https://jobs.cvshealth.com/us/en/job/R0864462/Technical-Support-Representative",
       "identifier": "Technical Support Representative_chnical-Support-Representative"
-    },
-    {
-      "title": "IT Customer Services Analyst",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0858292/IT-Customer-Services-Analyst",
-      "identifier": "IT Customer Services Analyst_2/IT-Customer-Services-Analyst"
-    },
-    {
-      "title": "Manager - Virtual Workspace Services Operations",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0862836/Manager-Virtual-Workspace-Services-Operations",
-      "identifier": "Manager - Virtual Workspace Services Operations_-Workspace-Services-Operations"
     },
     {
       "title": "Lead Director - Technical Infrastructure",
@@ -39,11 +34,16 @@
       "identifier": "Reporting Analyst_job/R0840632/Reporting-Analyst"
     },
     {
+      "title": "Manager - Virtual Workspace Services Operations",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0862836/Manager-Virtual-Workspace-Services-Operations",
+      "identifier": "Manager - Virtual Workspace Services Operations_-Workspace-Services-Operations"
+    },
+    {
       "title": "Senior Analyst, Tech Infrastructure",
       "url": "https://jobs.cvshealth.com/us/en/job/R0818406/Senior-Analyst-Tech-Infrastructure",
       "identifier": "Senior Analyst, Tech Infrastructure_or-Analyst-Tech-Infrastructure"
     }
   ],
   "job_count_text": "26",
-  "timestamp": "2026-03-21T06:15:04.727250"
+  "timestamp": "2026-03-21T06:32:19.380302"
 }

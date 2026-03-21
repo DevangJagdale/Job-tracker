@@ -9,6 +9,11 @@
       "identifier": "Field Service Technician - Kansas City, MO_vice-Technician-Kansas-City-MO"
     },
     {
+      "title": "Store Hardware Technician",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0846748/Store-Hardware-Technician",
+      "identifier": "Store Hardware Technician_6748/Store-Hardware-Technician"
+    },
+    {
       "title": "Staff Software Development Engineer",
       "url": "https://jobs.cvshealth.com/us/en/job/R0846991/Staff-Software-Development-Engineer",
       "identifier": "Staff Software Development Engineer_-Software-Development-Engineer"
@@ -37,13 +42,8 @@
       "title": "Machine Learning Engineer",
       "url": "https://jobs.cvshealth.com/us/en/job/R0840283/Machine-Learning-Engineer",
       "identifier": "Machine Learning Engineer_0283/Machine-Learning-Engineer"
-    },
-    {
-      "title": "Technical Support Representative",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0864462/Technical-Support-Representative",
-      "identifier": "Technical Support Representative_chnical-Support-Representative"
     }
   ],
-  "job_count_text": "36",
-  "timestamp": "2026-03-21T15:58:37.725902"
+  "job_count_text": "37",
+  "timestamp": "2026-03-21T16:15:48.567460"
 }

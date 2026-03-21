@@ -4,7 +4,12 @@
   "total_jobs": 9,
   "jobs": [
     {
-      "title": "Software Engineer 2\nUnited States, Washington, Redmond\nPosted 35 minutes ago",
+      "title": "Senior Software Engineer - System Optimization\nUnited States, California, Mountain View + 1 more\nPosted 20 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556824867?domain=microsoft.com",
+      "identifier": "Senior Software Engineer - System Optimization\nUni_556824867?domain=microsoft.com"
+    },
+    {
+      "title": "Software Engineer 2\nUnited States, Washington, Redmond\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556749568?domain=microsoft.com",
       "identifier": "Software Engineer 2\nUnited States, Washington, Red_556749568?domain=microsoft.com"
     },
@@ -39,16 +44,11 @@
       "identifier": "Senior Software Engineering\nUnited States, Califor_556638360?domain=microsoft.com"
     },
     {
-      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 4 hours ago",
+      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 5 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556657923?domain=microsoft.com",
       "identifier": "Software Engineer II\nUnited States, Washington, Re_556657923?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 4 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556824208?domain=microsoft.com",
-      "identifier": "Senior Software Engineer\nUnited States, Multiple L_556824208?domain=microsoft.com"
     }
   ],
-  "job_count_text": "889",
-  "timestamp": "2026-03-21T00:57:45.923037"
+  "job_count_text": "890",
+  "timestamp": "2026-03-21T01:14:53.030746"
 }

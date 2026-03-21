@@ -4,6 +4,11 @@
   "total_jobs": 17,
   "jobs": [
     {
+      "title": "Apple Silicon GPU Driver Engineer - Performance",
+      "url": "https://jobs.apple.com/en-us/details/200630065-0836/apple-silicon-gpu-driver-engineer-performance?team=SFTWR",
+      "identifier": "Apple Silicon GPU Driver Engineer - Performance_ngineer-performance?team=SFTWR"
+    },
+    {
       "title": "AIML - Sr Data Scientist, Evaluation",
       "url": "https://jobs.apple.com/en-us/details/200646119-0836/aiml-sr-data-scientist-evaluation?team=MLAI",
       "identifier": "AIML - Sr Data Scientist, Evaluation_scientist-evaluation?team=MLAI"
@@ -82,13 +87,8 @@
       "title": "Business Systems Analyst (SAP PMO), IS&T Enterprise Systems",
       "url": "https://jobs.apple.com/en-us/details/200652423-0240/business-systems-analyst-sap-pmo-is-t-enterprise-systems?team=SFTWR",
       "identifier": "Business Systems Analyst (SAP PMO), IS&T Enterpris_-enterprise-systems?team=SFTWR"
-    },
-    {
-      "title": "Senior MacOS App Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200652874-3543/senior-macos-app-engineer?team=SFTWR",
-      "identifier": "Senior MacOS App Engineer_-macos-app-engineer?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-21T00:06:38.101763"
+  "timestamp": "2026-03-21T00:23:47.021737"
 }

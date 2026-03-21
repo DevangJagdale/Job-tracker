@@ -4,34 +4,9 @@
   "total_jobs": 8,
   "jobs": [
     {
-      "title": "Staff Software Engineer - AI, React & TypeScript",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0854633/Staff-Software-Engineer-AI-React-TypeScript",
-      "identifier": "Staff Software Engineer - AI, React & TypeScript_e-Engineer-AI-React-TypeScript"
-    },
-    {
       "title": "Staff Software Development Engineer",
       "url": "https://jobs.cvshealth.com/us/en/job/R0846991/Staff-Software-Development-Engineer",
       "identifier": "Staff Software Development Engineer_-Software-Development-Engineer"
-    },
-    {
-      "title": "Exchange & Copilot Operations Support Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0857628/Exchange-Copilot-Operations-Support-Engineer",
-      "identifier": "Exchange & Copilot Operations Support Engineer_ot-Operations-Support-Engineer"
-    },
-    {
-      "title": "IT Customer Services Analyst",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0858292/IT-Customer-Services-Analyst",
-      "identifier": "IT Customer Services Analyst_2/IT-Customer-Services-Analyst"
-    },
-    {
-      "title": "Senior Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0854025/Senior-Software-Development-Engineer",
-      "identifier": "Senior Software Development Engineer_-Software-Development-Engineer"
-    },
-    {
-      "title": "Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0853961/Software-Development-Engineer",
-      "identifier": "Software Development Engineer_/Software-Development-Engineer"
     },
     {
       "title": "Machine Learning Engineer",
@@ -42,8 +17,33 @@
       "title": "Technical Support Representative",
       "url": "https://jobs.cvshealth.com/us/en/job/R0864462/Technical-Support-Representative",
       "identifier": "Technical Support Representative_chnical-Support-Representative"
+    },
+    {
+      "title": "Staff Software Engineer - AI, React & TypeScript",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0854633/Staff-Software-Engineer-AI-React-TypeScript",
+      "identifier": "Staff Software Engineer - AI, React & TypeScript_e-Engineer-AI-React-TypeScript"
+    },
+    {
+      "title": "IT Customer Services Analyst",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0858292/IT-Customer-Services-Analyst",
+      "identifier": "IT Customer Services Analyst_2/IT-Customer-Services-Analyst"
+    },
+    {
+      "title": "Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0853961/Software-Development-Engineer",
+      "identifier": "Software Development Engineer_/Software-Development-Engineer"
+    },
+    {
+      "title": "Senior Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0854025/Senior-Software-Development-Engineer",
+      "identifier": "Senior Software Development Engineer_-Software-Development-Engineer"
+    },
+    {
+      "title": "Exchange & Copilot Operations Support Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0857628/Exchange-Copilot-Operations-Support-Engineer",
+      "identifier": "Exchange & Copilot Operations Support Engineer_ot-Operations-Support-Engineer"
     }
   ],
   "job_count_text": "35",
-  "timestamp": "2026-03-21T00:07:38.563167"
+  "timestamp": "2026-03-21T00:24:48.213591"
 }

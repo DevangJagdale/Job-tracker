@@ -19,11 +19,6 @@
       "identifier": "Software Engineer I (Full Time) \u2013 Devices Technolo_Technology-Group-United-States"
     },
     {
-      "title": "Mechanical Engineer I (Full Time) - United States",
-      "url": "https://careers.cisco.com/global/en/job/2011166/Mechanical-Engineer-I-Full-Time-United-States",
-      "identifier": "Mechanical Engineer I (Full Time) - United States_neer-I-Full-Time-United-States"
-    },
-    {
       "title": "Strategy & Planning Analyst",
       "url": "https://careers.cisco.com/global/en/job/2010758/Strategy-Planning-Analyst",
       "identifier": "Strategy & Planning Analyst_0758/Strategy-Planning-Analyst"
@@ -52,8 +47,13 @@
       "title": "Business Analyst I (Full Time) United States",
       "url": "https://careers.cisco.com/global/en/job/2000125/Business-Analyst-I-Full-Time-United-States",
       "identifier": "Business Analyst I (Full Time) United States_lyst-I-Full-Time-United-States"
+    },
+    {
+      "title": "DevOps Engineer II (Full-Time) - United States",
+      "url": "https://careers.cisco.com/global/en/job/2008084/DevOps-Engineer-II-Full-Time-United-States",
+      "identifier": "DevOps Engineer II (Full-Time) - United States_eer-II-Full-Time-United-States"
     }
   ],
-  "job_count_text": "32",
-  "timestamp": "2026-03-21T07:24:56.458870"
+  "job_count_text": "31",
+  "timestamp": "2026-03-21T07:42:11.069052"
 }

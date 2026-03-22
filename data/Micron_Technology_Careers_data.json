@@ -4,19 +4,14 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "US FE Expansion Planning Engineer\nBoise, Idaho, United States of America\nPosted 2 days ago",
-      "url": "https://careers.micron.com/careers/job/40986798",
-      "identifier": "US FE Expansion Planning Engineer\nBoise, Idaho, Un_icron.com/careers/job/40986798"
-    },
-    {
       "title": "Process Technician - PI Overall Process\nBoise, Idaho, United States of America\nPosted 2 days ago",
       "url": "https://careers.micron.com/careers/job/40969398",
       "identifier": "Process Technician - PI Overall Process\nBoise, Ida_icron.com/careers/job/40969398"
     },
     {
-      "title": "New College Grad - Design Engineer, AI\nSan Jose, California, United States of America\nPosted 3 days ago",
-      "url": "https://careers.micron.com/careers/job/40961780",
-      "identifier": "New College Grad - Design Engineer, AI\nSan Jose, C_icron.com/careers/job/40961780"
+      "title": "US FE Expansion Planning Engineer\nBoise, Idaho, United States of America\nPosted 2 days ago",
+      "url": "https://careers.micron.com/careers/job/40986798",
+      "identifier": "US FE Expansion Planning Engineer\nBoise, Idaho, Un_icron.com/careers/job/40986798"
     },
     {
       "title": "Shift Equipment Engineer ID1\nBoise, Idaho, United States of America\nPosted 3 days ago",
@@ -34,19 +29,24 @@
       "identifier": "Night Shift Thin Films Process Technician\nManassas_icron.com/careers/job/40821886"
     },
     {
+      "title": "New College Grad - Design Engineer, AI\nSan Jose, California, United States of America\nPosted 3 days ago",
+      "url": "https://careers.micron.com/careers/job/40961780",
+      "identifier": "New College Grad - Design Engineer, AI\nSan Jose, C_icron.com/careers/job/40961780"
+    },
+    {
       "title": "MCBU Product Manager\nBoise, Idaho, United States of America\nPosted 4 days ago",
       "url": "https://careers.micron.com/careers/job/40878841",
       "identifier": "MCBU Product Manager\nBoise, Idaho, United States o_icron.com/careers/job/40878841"
     },
     {
-      "title": "US Expansion Planning Engineer\nBoise, Idaho, United States of America\nPosted 4 days ago",
-      "url": "https://careers.micron.com/careers/job/40879212",
-      "identifier": "US Expansion Planning Engineer\nBoise, Idaho, Unite_icron.com/careers/job/40879212"
-    },
-    {
       "title": "New College Grad - Process Engineer ID1\nBoise, Idaho, United States of America\nPosted 4 days ago",
       "url": "https://careers.micron.com/careers/job/40367274",
       "identifier": "New College Grad - Process Engineer ID1\nBoise, Ida_icron.com/careers/job/40367274"
+    },
+    {
+      "title": "US Expansion Planning Engineer\nBoise, Idaho, United States of America\nPosted 4 days ago",
+      "url": "https://careers.micron.com/careers/job/40879212",
+      "identifier": "US Expansion Planning Engineer\nBoise, Idaho, Unite_icron.com/careers/job/40879212"
     },
     {
       "title": "Firmware Test Engineer, SSD\nLongmont, Colorado, United States of America\nPosted 5 days ago",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "68",
-  "timestamp": "2026-03-22T05:49:56.972782"
+  "timestamp": "2026-03-22T06:07:12.003737"
 }

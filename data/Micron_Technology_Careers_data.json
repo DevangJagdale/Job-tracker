@@ -4,14 +4,14 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Process Technician - PI Overall Process\nBoise, Idaho, United States of America\nPosted 2 days ago",
-      "url": "https://careers.micron.com/careers/job/40969398",
-      "identifier": "Process Technician - PI Overall Process\nBoise, Ida_icron.com/careers/job/40969398"
-    },
-    {
       "title": "US FE Expansion Planning Engineer\nBoise, Idaho, United States of America\nPosted 2 days ago",
       "url": "https://careers.micron.com/careers/job/40986798",
       "identifier": "US FE Expansion Planning Engineer\nBoise, Idaho, Un_icron.com/careers/job/40986798"
+    },
+    {
+      "title": "Process Technician - PI Overall Process\nBoise, Idaho, United States of America\nPosted 2 days ago",
+      "url": "https://careers.micron.com/careers/job/40969398",
+      "identifier": "Process Technician - PI Overall Process\nBoise, Ida_icron.com/careers/job/40969398"
     },
     {
       "title": "Shift Equipment Engineer ID1\nBoise, Idaho, United States of America\nPosted 3 days ago",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "69",
-  "timestamp": "2026-03-22T02:19:22.229445"
+  "timestamp": "2026-03-22T02:36:37.101163"
 }

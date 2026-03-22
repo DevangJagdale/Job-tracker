@@ -4,14 +4,14 @@
   "total_jobs": 8,
   "jobs": [
     {
-      "title": "Field Service Technician - Kansas City, MO",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0850699/Field-Service-Technician-Kansas-City-MO",
-      "identifier": "Field Service Technician - Kansas City, MO_vice-Technician-Kansas-City-MO"
-    },
-    {
       "title": "Store Hardware Technician",
       "url": "https://jobs.cvshealth.com/us/en/job/R0846748/Store-Hardware-Technician",
       "identifier": "Store Hardware Technician_6748/Store-Hardware-Technician"
+    },
+    {
+      "title": "Field Service Technician - Kansas City, MO",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0850699/Field-Service-Technician-Kansas-City-MO",
+      "identifier": "Field Service Technician - Kansas City, MO_vice-Technician-Kansas-City-MO"
     },
     {
       "title": "Technical Support Representative",
@@ -19,14 +19,19 @@
       "identifier": "Technical Support Representative_chnical-Support-Representative"
     },
     {
+      "title": "IT Customer Services Analyst",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0858292/IT-Customer-Services-Analyst",
+      "identifier": "IT Customer Services Analyst_2/IT-Customer-Services-Analyst"
+    },
+    {
       "title": "Exchange & Copilot Operations Support Engineer",
       "url": "https://jobs.cvshealth.com/us/en/job/R0857628/Exchange-Copilot-Operations-Support-Engineer",
       "identifier": "Exchange & Copilot Operations Support Engineer_ot-Operations-Support-Engineer"
     },
     {
-      "title": "IT Customer Services Analyst",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0858292/IT-Customer-Services-Analyst",
-      "identifier": "IT Customer Services Analyst_2/IT-Customer-Services-Analyst"
+      "title": "Manager - Virtual Workspace Services Operations",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0862836/Manager-Virtual-Workspace-Services-Operations",
+      "identifier": "Manager - Virtual Workspace Services Operations_-Workspace-Services-Operations"
     },
     {
       "title": "Lead Director - Technical Infrastructure",
@@ -37,13 +42,8 @@
       "title": "Live AV Event Coordinator",
       "url": "https://jobs.cvshealth.com/us/en/job/R0818760/Live-AV-Event-Coordinator",
       "identifier": "Live AV Event Coordinator_8760/Live-AV-Event-Coordinator"
-    },
-    {
-      "title": "Reporting Analyst",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0840632/Reporting-Analyst",
-      "identifier": "Reporting Analyst_job/R0840632/Reporting-Analyst"
     }
   ],
   "job_count_text": "29",
-  "timestamp": "2026-03-22T11:45:58.127523"
+  "timestamp": "2026-03-22T12:03:06.575595"
 }

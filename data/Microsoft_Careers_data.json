@@ -4,12 +4,22 @@
   "total_jobs": 9,
   "jobs": [
     {
-      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 16 minutes ago",
+      "title": "Software Engineer II - SAP Basis\nUnited States, Washington, Redmond\nPosted 4 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556760389?domain=microsoft.com",
+      "identifier": "Software Engineer II - SAP Basis\nUnited States, Wa_556760389?domain=microsoft.com"
+    },
+    {
+      "title": "Principal Software Engineering Manager\nUnited States, Washington, Redmond\nPosted 8 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556850582?domain=microsoft.com",
+      "identifier": "Principal Software Engineering Manager\nUnited Stat_556850582?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 33 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556837611?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Washington_556837611?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 24 minutes ago",
+      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 41 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556843612?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Washington_556843612?domain=microsoft.com"
     },
@@ -37,18 +47,8 @@
       "title": "Principal Software Engineer - Simulation Platform\nUnited States, Washington, Redmond + 1 more\nPosted 3 days ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556851169?domain=microsoft.com",
       "identifier": "Principal Software Engineer - Simulation Platform\n_556851169?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Software Engineer - Teams Observability / Instrumentation\nUnited States, Washington, Redmond\nPosted 3 days ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556754881?domain=microsoft.com",
-      "identifier": "Senior Software Engineer - Teams Observability / I_556754881?domain=microsoft.com"
-    },
-    {
-      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 3 days ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556850762?domain=microsoft.com",
-      "identifier": "Software Engineer II\nUnited States, Washington, Re_556850762?domain=microsoft.com"
     }
   ],
-  "job_count_text": "822",
-  "timestamp": "2026-03-23T14:42:41.219917"
+  "job_count_text": "824",
+  "timestamp": "2026-03-23T14:59:32.400781"
 }

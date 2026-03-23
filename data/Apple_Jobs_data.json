@@ -49,11 +49,6 @@
       "identifier": "Project / Program Manager, WW BPR - Special Projec_pr-special-projects?team=OPMFG"
     },
     {
-      "title": "Lead: Strategy, Analytics & Monetization, Apple Maps",
-      "url": "https://jobs.apple.com/en-us/details/200652764-0836/lead-strategy-analytics-monetization-apple-maps?team=SFTWR",
-      "identifier": "Lead: Strategy, Analytics & Monetization, Apple Ma_tization-apple-maps?team=SFTWR"
-    },
-    {
       "title": "Associate Creative Director, Photography, Sports",
       "url": "https://jobs.apple.com/en-us/details/200647343-0670/associate-creative-director-photography-sports?team=SFTWR",
       "identifier": "Associate Creative Director, Photography, Sports_-photography-sports?team=SFTWR"
@@ -77,8 +72,13 @@
       "title": "Cloud Network Platform Software Engineer",
       "url": "https://jobs.apple.com/en-us/details/200652884-3956/cloud-network-platform-software-engineer?team=SFTWR",
       "identifier": "Cloud Network Platform Software Engineer_m-software-engineer?team=SFTWR"
+    },
+    {
+      "title": "Engineering Program Manager, Private Cloud Compute - SRE, Apple Services Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200651036-0836/engineering-program-manager-private-cloud-compute-sre-apple-services-engineering?team=SFTWR",
+      "identifier": "Engineering Program Manager, Private Cloud Compute_ervices-engineering?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-23T14:59:48.592449"
+  "timestamp": "2026-03-23T15:19:33.207718"
 }

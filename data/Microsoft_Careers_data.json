@@ -4,12 +4,12 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Software Engineer\nUnited States, Washington, Redmond\nPosted 18 minutes ago",
+      "title": "Software Engineer\nUnited States, Washington, Redmond\nPosted 35 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556734973?domain=microsoft.com",
       "identifier": "Software Engineer\nUnited States, Washington, Redmo_556734973?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 44 minutes ago",
+      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556849957?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Washington_556849957?domain=microsoft.com"
     },
@@ -19,12 +19,12 @@
       "identifier": "Senior Software Engineer\nUnited States, Washington_556746566?domain=microsoft.com"
     },
     {
-      "title": "Principal Software Engineer - CoreAI Model Inference & Serving\nUnited States, Washington, Redmond + 1 more\nPosted an hour ago",
+      "title": "Principal Software Engineer - CoreAI Model Inference & Serving\nUnited States, Washington, Redmond + 1 more\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556843557?domain=microsoft.com",
       "identifier": "Principal Software Engineer - CoreAI Model Inferen_556843557?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer - CoreAI Model Inference & Serving\nUnited States, Washington, Redmond + 1 more\nPosted an hour ago",
+      "title": "Senior Software Engineer - CoreAI Model Inference & Serving\nUnited States, Washington, Redmond + 1 more\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556837781?domain=microsoft.com",
       "identifier": "Senior Software Engineer - CoreAI Model Inference _556837781?domain=microsoft.com"
     },
@@ -54,6 +54,6 @@
       "identifier": "Senior Machine Learning Engineer\nUnited States, Mu_556638891?domain=microsoft.com"
     }
   ],
-  "job_count_text": "844",
-  "timestamp": "2026-03-23T23:04:19.749363"
+  "job_count_text": "843",
+  "timestamp": "2026-03-23T23:21:31.049201"
 }

@@ -1,12 +1,22 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 15,
+  "total_jobs": 16,
   "jobs": [
+    {
+      "title": "IAM Architect",
+      "url": "https://jobs.apple.com/en-us/details/200653063-3337/iam-architect?team=SFTWR",
+      "identifier": "IAM Architect_-3337/iam-architect?team=SFTWR"
+    },
     {
       "title": "AR/VR Applications Engineer - Personas, Vision Products Software",
       "url": "https://jobs.apple.com/en-us/details/200615171-3337/ar-vr-applications-engineer-personas-vision-products-software?team=SFTWR",
       "identifier": "AR/VR Applications Engineer - Personas, Vision Pro_n-products-software?team=SFTWR"
+    },
+    {
+      "title": "Data Scientist Audio Analytics",
+      "url": "https://jobs.apple.com/en-us/details/200652696-3543/data-scientist-audio-analytics?team=SFTWR",
+      "identifier": "Data Scientist Audio Analytics_ist-audio-analytics?team=SFTWR"
     },
     {
       "title": "Swift LLM API Engineer",
@@ -72,13 +82,8 @@
       "title": "Machine Learning Engineer, Siri Core Modeling",
       "url": "https://jobs.apple.com/en-us/details/200646481-0836/machine-learning-engineer-siri-core-modeling?team=SFTWR",
       "identifier": "Machine Learning Engineer, Siri Core Modeling_-siri-core-modeling?team=SFTWR"
-    },
-    {
-      "title": "Project / Program Manager, WW BPR - Special Projects",
-      "url": "https://jobs.apple.com/en-us/details/200652930-0157/project-program-manager-ww-bpr-special-projects?team=OPMFG",
-      "identifier": "Project / Program Manager, WW BPR - Special Projec_pr-special-projects?team=OPMFG"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-23T18:03:20.164138"
+  "timestamp": "2026-03-23T18:20:27.904213"
 }

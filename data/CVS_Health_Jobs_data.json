@@ -19,14 +19,14 @@
       "identifier": "Executive Director, Engineering - AI Automation_ctor-Engineering-AI-Automation"
     },
     {
-      "title": "Store Hardware Technician",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0846748/Store-Hardware-Technician",
-      "identifier": "Store Hardware Technician_6748/Store-Hardware-Technician"
-    },
-    {
       "title": "Field Service Technician - Kansas City, MO",
       "url": "https://jobs.cvshealth.com/us/en/job/R0850699/Field-Service-Technician-Kansas-City-MO",
       "identifier": "Field Service Technician - Kansas City, MO_vice-Technician-Kansas-City-MO"
+    },
+    {
+      "title": "Store Hardware Technician",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0846748/Store-Hardware-Technician",
+      "identifier": "Store Hardware Technician_6748/Store-Hardware-Technician"
     },
     {
       "title": "Technical Support Representative",
@@ -44,6 +44,6 @@
       "identifier": "Exchange & Copilot Operations Support Engineer_ot-Operations-Support-Engineer"
     }
   ],
-  "job_count_text": "30",
-  "timestamp": "2026-03-23T17:12:52.981153"
+  "job_count_text": "31",
+  "timestamp": "2026-03-23T17:29:58.630924"
 }

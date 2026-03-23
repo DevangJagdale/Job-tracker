@@ -4,6 +4,16 @@
   "total_jobs": 17,
   "jobs": [
     {
+      "title": "Software Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200652310-3337/software-engineer?team=SFTWR",
+      "identifier": "Software Engineer_7/software-engineer?team=SFTWR"
+    },
+    {
+      "title": "Senior Engineering Program Manager",
+      "url": "https://jobs.apple.com/en-us/details/200652942-3956/senior-engineering-program-manager?team=SFTWR",
+      "identifier": "Senior Engineering Program Manager_ing-program-manager?team=SFTWR"
+    },
+    {
       "title": "Darwin Runtime Engineer",
       "url": "https://jobs.apple.com/en-us/details/200653184-0836/darwin-runtime-engineer?team=SFTWR",
       "identifier": "Darwin Runtime Engineer_in-runtime-engineer?team=SFTWR"
@@ -77,18 +87,8 @@
       "title": "Data Scientist Audio Analytics",
       "url": "https://jobs.apple.com/en-us/details/200652696-3543/data-scientist-audio-analytics?team=SFTWR",
       "identifier": "Data Scientist Audio Analytics_ist-audio-analytics?team=SFTWR"
-    },
-    {
-      "title": "Swift LLM API Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200636551-0836/swift-llm-api-engineer?team=MLAI",
-      "identifier": "Swift LLM API Engineer_ift-llm-api-engineer?team=MLAI"
-    },
-    {
-      "title": "Senior Administrative Assistant, WPC Engineering",
-      "url": "https://jobs.apple.com/en-us/details/200652991-0836/senior-administrative-assistant-wpc-engineering?team=SFTWR",
-      "identifier": "Senior Administrative Assistant, WPC Engineering_ant-wpc-engineering?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-23T20:37:50.936419"
+  "timestamp": "2026-03-23T20:54:57.099261"
 }

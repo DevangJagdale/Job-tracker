@@ -4,6 +4,16 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Administrative Assistant - Apple Maps and Find My",
+      "url": "https://jobs.apple.com/en-us/details/200642664-0836/administrative-assistant-apple-maps-and-find-my?team=SFTWR",
+      "identifier": "Administrative Assistant - Apple Maps and Find My_le-maps-and-find-my?team=SFTWR"
+    },
+    {
+      "title": "Data Engineer - AIML Evaluation",
+      "url": "https://jobs.apple.com/en-us/details/200653246-3337/data-engineer-aiml-evaluation?team=SFTWR",
+      "identifier": "Data Engineer - AIML Evaluation_eer-aiml-evaluation?team=SFTWR"
+    },
+    {
       "title": "Senior Computer Vision and Machine Learning Engineer, Creator Studio",
       "url": "https://jobs.apple.com/en-us/details/200653242-0836/senior-computer-vision-and-machine-learning-engineer-creator-studio?team=SFTWR",
       "identifier": "Senior Computer Vision and Machine Learning Engine_neer-creator-studio?team=SFTWR"
@@ -72,18 +82,8 @@
       "title": "Software Data Engineer",
       "url": "https://jobs.apple.com/en-us/details/200652977-3337/software-data-engineer?team=SFTWR",
       "identifier": "Software Data Engineer_tware-data-engineer?team=SFTWR"
-    },
-    {
-      "title": "Staff Software Engineer / Technical Educator",
-      "url": "https://jobs.apple.com/en-us/details/200652784-3337/staff-software-engineer-technical-educator?team=SFTWR",
-      "identifier": "Staff Software Engineer / Technical Educator_-technical-educator?team=SFTWR"
-    },
-    {
-      "title": "Senior Software Engineer, Apple Batch, Apple Data Platform",
-      "url": "https://jobs.apple.com/en-us/details/200652883-0836/senior-software-engineer-apple-batch-apple-data-platform?team=SFTWR",
-      "identifier": "Senior Software Engineer, Apple Batch, Apple Data _apple-data-platform?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-23T21:02:36.732735"
+  "timestamp": "2026-03-23T21:19:46.468656"
 }

@@ -4,6 +4,11 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "HomeKit Software Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200653266-0836/homekit-software-engineer?team=SFTWR",
+      "identifier": "HomeKit Software Engineer_t-software-engineer?team=SFTWR"
+    },
+    {
       "title": "Administrative Assistant - Apple Maps and Find My",
       "url": "https://jobs.apple.com/en-us/details/200642664-0836/administrative-assistant-apple-maps-and-find-my?team=SFTWR",
       "identifier": "Administrative Assistant - Apple Maps and Find My_le-maps-and-find-my?team=SFTWR"
@@ -77,13 +82,8 @@
       "title": "Software Integrity Engineer, Video Apps",
       "url": "https://jobs.apple.com/en-us/details/200651765-0670/software-integrity-engineer-video-apps?team=SFTWR",
       "identifier": "Software Integrity Engineer, Video Apps_engineer-video-apps?team=SFTWR"
-    },
-    {
-      "title": "Software Data Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200652977-3337/software-data-engineer?team=SFTWR",
-      "identifier": "Software Data Engineer_tware-data-engineer?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-23T22:30:18.324346"
+  "timestamp": "2026-03-23T22:47:26.307926"
 }

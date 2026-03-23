@@ -29,14 +29,14 @@
       "identifier": "Senior iOS Engineer - Trip Planner Mobile_ang=en-us&previousLocale=en-US"
     },
     {
-      "title": "Staff Embedded Software Engineer - Vehicle Access Systems",
-      "url": "https://careers.rivian.com/careers-home/jobs/29661?lang=en-us&previousLocale=en-US",
-      "identifier": "Staff Embedded Software Engineer - Vehicle Access _ang=en-us&previousLocale=en-US"
-    },
-    {
       "title": "Sr. IT Wireless Network Engineer",
       "url": "https://careers.rivian.com/careers-home/jobs/24321?lang=en-us&previousLocale=en-US",
       "identifier": "Sr. IT Wireless Network Engineer_ang=en-us&previousLocale=en-US"
+    },
+    {
+      "title": "Staff Embedded Software Engineer - Vehicle Access Systems",
+      "url": "https://careers.rivian.com/careers-home/jobs/29661?lang=en-us&previousLocale=en-US",
+      "identifier": "Staff Embedded Software Engineer - Vehicle Access _ang=en-us&previousLocale=en-US"
     },
     {
       "title": "ML Compiler Engineer",
@@ -60,5 +60,5 @@
     }
   ],
   "job_count_text": "38",
-  "timestamp": "2026-03-23T21:27:25.512813"
+  "timestamp": "2026-03-23T21:44:46.103875"
 }

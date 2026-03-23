@@ -4,14 +4,24 @@
   "total_jobs": 15,
   "jobs": [
     {
-      "title": "Software Automation QA Engineer - Security",
-      "url": "https://jobs.apple.com/en-us/details/200615747-0836/software-automation-qa-engineer-security?team=SFTWR",
-      "identifier": "Software Automation QA Engineer - Security_a-engineer-security?team=SFTWR"
+      "title": "Swift LLM API Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200636551-0836/swift-llm-api-engineer?team=MLAI",
+      "identifier": "Swift LLM API Engineer_ift-llm-api-engineer?team=MLAI"
     },
     {
       "title": "Senior Administrative Assistant, WPC Engineering",
       "url": "https://jobs.apple.com/en-us/details/200652991-0836/senior-administrative-assistant-wpc-engineering?team=SFTWR",
       "identifier": "Senior Administrative Assistant, WPC Engineering_ant-wpc-engineering?team=SFTWR"
+    },
+    {
+      "title": "iOS Software Engineer, Siri Home Devices",
+      "url": "https://jobs.apple.com/en-us/details/200639054-2926/ios-software-engineer-siri-home-devices?team=SFTWR",
+      "identifier": "iOS Software Engineer, Siri Home Devices_r-siri-home-devices?team=SFTWR"
+    },
+    {
+      "title": "Software Automation QA Engineer - Security",
+      "url": "https://jobs.apple.com/en-us/details/200615747-0836/software-automation-qa-engineer-security?team=SFTWR",
+      "identifier": "Software Automation QA Engineer - Security_a-engineer-security?team=SFTWR"
     },
     {
       "title": "Tooling & Infrastructure Engineer",
@@ -67,18 +77,8 @@
       "title": "Associate Creative Director, Photography, Sports",
       "url": "https://jobs.apple.com/en-us/details/200647343-0670/associate-creative-director-photography-sports?team=SFTWR",
       "identifier": "Associate Creative Director, Photography, Sports_-photography-sports?team=SFTWR"
-    },
-    {
-      "title": "Machine Learning Video Processing Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200652693-0836/machine-learning-video-processing-engineer?team=HRDWR",
-      "identifier": "Machine Learning Video Processing Engineer_processing-engineer?team=HRDWR"
-    },
-    {
-      "title": "Senior Accessibility Software Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200652779-0836/senior-accessibility-software-engineer?team=SFTWR",
-      "identifier": "Senior Accessibility Software Engineer_y-software-engineer?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-23T16:54:40.810851"
+  "timestamp": "2026-03-23T17:11:52.106526"
 }

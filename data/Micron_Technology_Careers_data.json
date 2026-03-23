@@ -4,6 +4,11 @@
   "total_jobs": 10,
   "jobs": [
     {
+      "title": "Engineer - Operations Improvement\nBoise, Idaho, United States of America\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/40899085",
+      "identifier": "Engineer - Operations Improvement\nBoise, Idaho, Un_icron.com/careers/job/40899085"
+    },
+    {
       "title": "New College Grad - Software Development Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/40915332",
       "identifier": "New College Grad - Software Development Engineer\nB_icron.com/careers/job/40915332"
@@ -20,18 +25,13 @@
     },
     {
       "title": "Software Development Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
-      "url": "https://careers.micron.com/careers/job/40899233",
-      "identifier": "Software Development Engineer\nBoise, Idaho, United_icron.com/careers/job/40899233"
-    },
-    {
-      "title": "Software Development Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/40899228",
       "identifier": "Software Development Engineer\nBoise, Idaho, United_icron.com/careers/job/40899228"
     },
     {
-      "title": "Engineer - Operations Improvement\nBoise, Idaho, United States of America\nPosted a day ago",
-      "url": "https://careers.micron.com/careers/job/40899085",
-      "identifier": "Engineer - Operations Improvement\nBoise, Idaho, Un_icron.com/careers/job/40899085"
+      "title": "Software Development Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/40899233",
+      "identifier": "Software Development Engineer\nBoise, Idaho, United_icron.com/careers/job/40899233"
     },
     {
       "title": "Process Technician - PI Overall Process\nBoise, Idaho, United States of America\nPosted 4 days ago",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "73",
-  "timestamp": "2026-03-23T21:41:51.660990"
+  "timestamp": "2026-03-23T21:59:11.027898"
 }

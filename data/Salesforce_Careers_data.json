@@ -1,8 +1,109 @@
 {
   "page_title": "Salesforce Jobs | Salesforce Careers",
-  "url": "https://careers.salesforce.com/en/jobs/?search=&country=United+States+of+America&team=Data&team=Enterprise+Technology+%26+Infrastructure&team=Software+Engineering&jobtype=New+Grads&pagesize=20&afd_azwaf_tok=eyJraWQiOiI1MUExNzM1MkJFMzVFNkZCMTE3QUI4MEVDMjhFQjk1NkQ2ODYzNkY5MjA5MENGNENBMTJERTJFREE0MTkxMjY1IiwiYWxnIjoiUlMyNTYifQ.eyJhdWQiOiJjYXJlZXJzLnNhbGVzZm9yY2UuY29tIiwiZXhwIjoxNzc0MjE2Njg1LCJpYXQiOjE3NzQyMTY2NzUsImlzcyI6InRpZXIxLTdjOWNjN2Y4ZDktN3RjOXoiLCJzdWIiOiI1Mi4xNTkuMjI5LjY0IiwiZGF0YSI6eyJ0eXBlIjoiaXNzdWVkIiwicmVmIjoiMjAyNjAzMjJUMjE1NzU1Wi0xN2M5Y2M3ZjhkOTd0Yzl6aEMxQlkxMmRwMDAwMDAwMDBlOGcwMDAwMDAwMDQ3YXEiLCJiIjoiRm9LeTNlYjBYS3podTFic05vdGI3OHFBVUdxRHZEcENaV0UwYXVRM1JFMCIsImgiOiJMaUc1RktGM1I0V1VTS2Q3dmF2clVJZkVPbW1tRng5ZEcwbWFuSFVBMTJVIn19.H0VVm46pb7x5sghlZTJzYTAPh4ndsIhTL_JBW-m8xGG2fk0J8obnTXM1firWTnorYFYrRGXlMt1OzYWXx3txMfTG7_qgAKra0pE4PPWZXBzaTEvZDTB5mh_WWiuw_st4v8cM9_zDlXP7-xcyLhTmgAj9m8TKNgMT-lkKr2UY4ZaTlU9N6_MqrvPPYwV8GSmOwDTS91n51mZm6NyBBZywtbh3do2DkS9nAakOh8NPZX2weCBNWgbwRipo065atMWnoZlyDqw7YW9ajMEJi_L8KjFVy9VfNYxrrFDXeY3ms0clR5rmcDZSvDQTKKtAJFyKwTgQc2BvAYVAHkUJQQuWaQ.WF3obl2IDtqgvMFRqVdYkD5s#results",
-  "total_jobs": 0,
-  "jobs": [],
+  "url": "https://careers.salesforce.com/en/jobs/?search=&country=United+States+of+America&team=Data&team=Enterprise+Technology+%26+Infrastructure&team=Software+Engineering&jobtype=New+Grads&pagesize=20#results",
+  "total_jobs": 20,
+  "jobs": [
+    {
+      "title": "Lead, Account SE, ECS, Public Sector",
+      "url": "https://careers.salesforce.com/en/jobs/jr329351/lead-account-se-ecs-public-sector/",
+      "identifier": "Lead, Account SE, ECS, Public Sector_-account-se-ecs-public-sector/"
+    },
+    {
+      "title": "Director, Strategy and Analytics - Informatica",
+      "url": "https://careers.salesforce.com/en/jobs/jr331603/director-strategy-and-analytics-informatica/",
+      "identifier": "Director, Strategy and Analytics - Informatica_egy-and-analytics-informatica/"
+    },
+    {
+      "title": "Account Solution Engineer - Denmark",
+      "url": "https://careers.salesforce.com/en/jobs/jr334750/account-solution-engineer-denmark/",
+      "identifier": "Account Solution Engineer - Denmark_unt-solution-engineer-denmark/"
+    },
+    {
+      "title": "Cloud Account Executive, Indonesia",
+      "url": "https://careers.salesforce.com/en/jobs/jr333850/cloud-account-executive-indonesia/",
+      "identifier": "Cloud Account Executive, Indonesia_d-account-executive-indonesia/"
+    },
+    {
+      "title": "Summer 2026 Intern - Product Marketing",
+      "url": "https://careers.salesforce.com/en/jobs/jr329752/summer-2026-intern-product-marketing/",
+      "identifier": "Summer 2026 Intern - Product Marketing_2026-intern-product-marketing/"
+    },
+    {
+      "title": "Director, Regional Equality Lead South Asia",
+      "url": "https://careers.salesforce.com/en/jobs/jr329443/director-regional-equality-lead-south-asia/",
+      "identifier": "Director, Regional Equality Lead South Asia_onal-equality-lead-south-asia/"
+    },
+    {
+      "title": "Prime Named Account Executive",
+      "url": "https://careers.salesforce.com/en/jobs/jr332835/prime-named-account-executive/",
+      "identifier": "Prime Named Account Executive_prime-named-account-executive/"
+    },
+    {
+      "title": "Cloud Account Executive, Philippines",
+      "url": "https://careers.salesforce.com/en/jobs/jr328843/cloud-account-executive-philippines/",
+      "identifier": "Cloud Account Executive, Philippines_account-executive-philippines/"
+    },
+    {
+      "title": "Signature Success Sales Executive",
+      "url": "https://careers.salesforce.com/en/jobs/jr330643/signature-success-sales-executive/",
+      "identifier": "Signature Success Sales Executive_ature-success-sales-executive/"
+    },
+    {
+      "title": "Managing Director, Canada Go To Market",
+      "url": "https://careers.salesforce.com/en/jobs/jr332764/managing-director-canada-go-to-market/",
+      "identifier": "Managing Director, Canada Go To Market_-director-canada-go-to-market/"
+    },
+    {
+      "title": "Sales Operations Senior Manager",
+      "url": "https://careers.salesforce.com/en/jobs/jr330707/sales-operations-senior-manager/",
+      "identifier": "Sales Operations Senior Manager_les-operations-senior-manager/"
+    },
+    {
+      "title": "Principal Data and AI Architect",
+      "url": "https://careers.salesforce.com/en/jobs/jr331280/principal-data-and-ai-architect/",
+      "identifier": "Principal Data and AI Architect_incipal-data-and-ai-architect/"
+    },
+    {
+      "title": "Named Account Executive",
+      "url": "https://careers.salesforce.com/en/jobs/jr332582/named-account-executive/",
+      "identifier": "Named Account Executive_32582/named-account-executive/"
+    },
+    {
+      "title": "Account Solution Engineer - Spanish speaking",
+      "url": "https://careers.salesforce.com/en/jobs/jr321370/account-solution-engineer-spanish-speaking/",
+      "identifier": "Account Solution Engineer - Spanish speaking_ion-engineer-spanish-speaking/"
+    },
+    {
+      "title": "Territory Account Executive - Mid Market - IT/ ITES",
+      "url": "https://careers.salesforce.com/en/jobs/jr333714/territory-account-executive-mid-market-it-ites/",
+      "identifier": "Territory Account Executive - Mid Market - IT/ ITE_-executive-mid-market-it-ites/"
+    },
+    {
+      "title": "Account Solution Engineer",
+      "url": "https://careers.salesforce.com/en/jobs/jr334598/account-solution-engineer/",
+      "identifier": "Account Solution Engineer_598/account-solution-engineer/"
+    },
+    {
+      "title": "Solution Engineer (Pre-Sales) - Informatica",
+      "url": "https://careers.salesforce.com/en/jobs/jr331878/solution-engineer-pre-sales-informatica/",
+      "identifier": "Solution Engineer (Pre-Sales) - Informatica_ngineer-pre-sales-informatica/"
+    },
+    {
+      "title": "Customer Success Manager, Informatica",
+      "url": "https://careers.salesforce.com/en/jobs/jr333719/customer-success-manager-informatica/",
+      "identifier": "Customer Success Manager, Informatica_r-success-manager-informatica/"
+    },
+    {
+      "title": "Senior Success Guide - Mulesoft",
+      "url": "https://careers.salesforce.com/en/jobs/jr330194/senior-success-guide-mulesoft/",
+      "identifier": "Senior Success Guide - Mulesoft_senior-success-guide-mulesoft/"
+    },
+    {
+      "title": "Agentforce Forward Deployed Engineer",
+      "url": "https://careers.salesforce.com/en/jobs/jr331090/agentforce-forward-deployed-engineer/",
+      "identifier": "Agentforce Forward Deployed Engineer_rce-forward-deployed-engineer/"
+    }
+  ],
   "job_count_text": "",
-  "timestamp": "2026-03-22T21:58:09.095129"
+  "timestamp": "2026-03-23T01:33:52.352594"
 }

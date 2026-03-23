@@ -4,6 +4,16 @@
   "total_jobs": 17,
   "jobs": [
     {
+      "title": "Machine Learning Engineer - iWork Team",
+      "url": "https://jobs.apple.com/en-us/details/200652759-2926/machine-learning-engineer-iwork-team?team=SFTWR",
+      "identifier": "Machine Learning Engineer - iWork Team_engineer-iwork-team?team=SFTWR"
+    },
+    {
+      "title": "Lead Trust & Safety Data Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200653226-0836/lead-trust-safety-data-engineer?team=SFTWR",
+      "identifier": "Lead Trust & Safety Data Engineer_afety-data-engineer?team=SFTWR"
+    },
+    {
       "title": "Software Engineering Manager - HealthKit",
       "url": "https://jobs.apple.com/en-us/details/200652682-3543/software-engineering-manager-healthkit?team=SFTWR",
       "identifier": "Software Engineering Manager - HealthKit_g-manager-healthkit?team=SFTWR"
@@ -77,18 +87,8 @@
       "title": "Software Automation QA Engineer - Security",
       "url": "https://jobs.apple.com/en-us/details/200615747-0836/software-automation-qa-engineer-security?team=SFTWR",
       "identifier": "Software Automation QA Engineer - Security_a-engineer-security?team=SFTWR"
-    },
-    {
-      "title": "Tooling & Infrastructure Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200652988-0836/tooling-infrastructure-engineer?team=SFTWR",
-      "identifier": "Tooling & Infrastructure Engineer_astructure-engineer?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer, Apple Services Engineering",
-      "url": "https://jobs.apple.com/en-us/details/200642870-3337/software-engineer-apple-services-engineering?team=SFTWR",
-      "identifier": "Software Engineer, Apple Services Engineering_ervices-engineering?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-23T19:46:16.254888"
+  "timestamp": "2026-03-23T20:03:30.998839"
 }

@@ -4,6 +4,16 @@
   "total_jobs": 17,
   "jobs": [
     {
+      "title": "Darwin Runtime Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200653184-0836/darwin-runtime-engineer?team=SFTWR",
+      "identifier": "Darwin Runtime Engineer_in-runtime-engineer?team=SFTWR"
+    },
+    {
+      "title": "Software Engineer - Host Access",
+      "url": "https://jobs.apple.com/en-us/details/200652664-3337/software-engineer-host-access?team=SFTWR",
+      "identifier": "Software Engineer - Host Access_ngineer-host-access?team=SFTWR"
+    },
+    {
       "title": "Machine Learning Engineer - iWork Team",
       "url": "https://jobs.apple.com/en-us/details/200652759-2926/machine-learning-engineer-iwork-team?team=SFTWR",
       "identifier": "Machine Learning Engineer - iWork Team_engineer-iwork-team?team=SFTWR"
@@ -77,18 +87,8 @@
       "title": "Senior Administrative Assistant, WPC Engineering",
       "url": "https://jobs.apple.com/en-us/details/200652991-0836/senior-administrative-assistant-wpc-engineering?team=SFTWR",
       "identifier": "Senior Administrative Assistant, WPC Engineering_ant-wpc-engineering?team=SFTWR"
-    },
-    {
-      "title": "iOS Software Engineer, Siri Home Devices",
-      "url": "https://jobs.apple.com/en-us/details/200639054-2926/ios-software-engineer-siri-home-devices?team=SFTWR",
-      "identifier": "iOS Software Engineer, Siri Home Devices_r-siri-home-devices?team=SFTWR"
-    },
-    {
-      "title": "Software Automation QA Engineer - Security",
-      "url": "https://jobs.apple.com/en-us/details/200615747-0836/software-automation-qa-engineer-security?team=SFTWR",
-      "identifier": "Software Automation QA Engineer - Security_a-engineer-security?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-23T20:20:39.887808"
+  "timestamp": "2026-03-23T20:37:50.936419"
 }

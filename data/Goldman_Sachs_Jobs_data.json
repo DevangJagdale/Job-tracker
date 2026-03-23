@@ -4,6 +4,16 @@
   "total_jobs": 20,
   "jobs": [
     {
+      "title": "Asset & Wealth Management - Software Engineer - Associate - Dallas\nDallas\u00b7United States\n\u00b7Associate",
+      "url": "https://higher.gs.com/roles/158360",
+      "identifier": "Asset & Wealth Management - Software Engineer - As_s://higher.gs.com/roles/158360"
+    },
+    {
+      "title": "Asset & Wealth Management-Software Engineering-Associate-Dallas\nDallas\u00b7United States\n\u00b7Associate",
+      "url": "https://higher.gs.com/roles/163546",
+      "identifier": "Asset & Wealth Management-Software Engineering-Ass_s://higher.gs.com/roles/163546"
+    },
+    {
       "title": "Software Engineer, Global Banking & Markets, Investment Banking\nDallas\u00b7United States\n\u00b7Associate",
       "url": "https://higher.gs.com/roles/161630",
       "identifier": "Software Engineer, Global Banking & Markets, Inves_s://higher.gs.com/roles/161630"
@@ -27,11 +37,6 @@
       "title": "Asset & Wealth Management - Software Engineer - Associate - Dallas\nDallas\u00b7United States\n\u00b7Associate",
       "url": "https://higher.gs.com/roles/161282",
       "identifier": "Asset & Wealth Management - Software Engineer - As_s://higher.gs.com/roles/161282"
-    },
-    {
-      "title": "Corporate Treasury-New York-Associate-Software Engineering\nNew York\u00b7United States\n\u00b7Associate",
-      "url": "https://higher.gs.com/roles/155284",
-      "identifier": "Corporate Treasury-New York-Associate-Software Eng_s://higher.gs.com/roles/155284"
     },
     {
       "title": "Asset & Wealth Management - Web React Developer - Analyst - Richardson\nRichardson\u00b7United States\n\u00b7Analyst",
@@ -89,11 +94,6 @@
       "identifier": "Asset & Wealth Management - Software Engineer - An_s://higher.gs.com/roles/163921"
     },
     {
-      "title": "Asset & Wealth Management - Software Engineer - Associate - Dallas\nDallas\u00b7United States\n\u00b7Associate",
-      "url": "https://higher.gs.com/roles/158922",
-      "identifier": "Asset & Wealth Management - Software Engineer - As_s://higher.gs.com/roles/158922"
-    },
-    {
       "title": "Asset & Wealth Management - Software Engineer - Associate - New York\nNew York\u00b7United States\n\u00b7Associate",
       "url": "https://higher.gs.com/roles/164571",
       "identifier": "Asset & Wealth Management - Software Engineer - As_s://higher.gs.com/roles/164571"
@@ -105,5 +105,5 @@
     }
   ],
   "job_count_text": "56",
-  "timestamp": "2026-03-23T17:45:17.424658"
+  "timestamp": "2026-03-23T18:02:29.518287"
 }

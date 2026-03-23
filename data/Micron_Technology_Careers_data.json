@@ -4,24 +4,14 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Engineer - Operations Improvement\nBoise, Idaho, United States of America\nPosted a day ago",
-      "url": "https://careers.micron.com/careers/job/40899085",
-      "identifier": "Engineer - Operations Improvement\nBoise, Idaho, Un_icron.com/careers/job/40899085"
-    },
-    {
-      "title": "New College Grad - Software Development Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
-      "url": "https://careers.micron.com/careers/job/40915332",
-      "identifier": "New College Grad - Software Development Engineer\nB_icron.com/careers/job/40915332"
-    },
-    {
-      "title": "New College Grad - Embedded Software Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
-      "url": "https://careers.micron.com/careers/job/41025899",
-      "identifier": "New College Grad - Embedded Software Engineer\nBois_icron.com/careers/job/41025899"
-    },
-    {
       "title": "Shift Process Engineer ID1\nBoise, Idaho, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/39688071",
       "identifier": "Shift Process Engineer ID1\nBoise, Idaho, United St_icron.com/careers/job/39688071"
+    },
+    {
+      "title": "Engineer - Operations Improvement\nBoise, Idaho, United States of America\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/40899085",
+      "identifier": "Engineer - Operations Improvement\nBoise, Idaho, Un_icron.com/careers/job/40899085"
     },
     {
       "title": "Software Development Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
@@ -32,6 +22,16 @@
       "title": "Software Development Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/40899233",
       "identifier": "Software Development Engineer\nBoise, Idaho, United_icron.com/careers/job/40899233"
+    },
+    {
+      "title": "New College Grad - Software Development Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/40915332",
+      "identifier": "New College Grad - Software Development Engineer\nB_icron.com/careers/job/40915332"
+    },
+    {
+      "title": "New College Grad - Embedded Software Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/41025899",
+      "identifier": "New College Grad - Embedded Software Engineer\nBois_icron.com/careers/job/41025899"
     },
     {
       "title": "Process Technician - PI Overall Process\nBoise, Idaho, United States of America\nPosted 4 days ago",
@@ -49,11 +49,11 @@
       "identifier": "Shift Equipment Engineer ID1\nBoise, Idaho, United _icron.com/careers/job/39687950"
     },
     {
-      "title": "Engineer, DEG Technology Node DEV PE\nBoise, Idaho, United States of America\nPosted 5 days ago",
-      "url": "https://careers.micron.com/careers/job/40644916",
-      "identifier": "Engineer, DEG Technology Node DEV PE\nBoise, Idaho,_icron.com/careers/job/40644916"
+      "title": "Night Shift Thin Films Process Technician\nManassas, Virginia, United States of America\nPosted 5 days ago",
+      "url": "https://careers.micron.com/careers/job/40821886",
+      "identifier": "Night Shift Thin Films Process Technician\nManassas_icron.com/careers/job/40821886"
     }
   ],
   "job_count_text": "73",
-  "timestamp": "2026-03-23T22:50:40.904773"
+  "timestamp": "2026-03-23T23:07:52.342619"
 }

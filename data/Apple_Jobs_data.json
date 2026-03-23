@@ -1,8 +1,18 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 17,
+  "total_jobs": 16,
   "jobs": [
+    {
+      "title": "Senior Computer Vision and Machine Learning Engineer, Creator Studio",
+      "url": "https://jobs.apple.com/en-us/details/200653242-0836/senior-computer-vision-and-machine-learning-engineer-creator-studio?team=SFTWR",
+      "identifier": "Senior Computer Vision and Machine Learning Engine_neer-creator-studio?team=SFTWR"
+    },
+    {
+      "title": "Production Services Engineer - Apple Services Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200652311-3337/production-services-engineer-apple-services-engineering?team=SFTWR",
+      "identifier": "Production Services Engineer - Apple Services Engi_ervices-engineering?team=SFTWR"
+    },
     {
       "title": "Software Engineer",
       "url": "https://jobs.apple.com/en-us/details/200652310-3337/software-engineer?team=SFTWR",
@@ -72,23 +82,8 @@
       "title": "Senior Software Engineer, Apple Batch, Apple Data Platform",
       "url": "https://jobs.apple.com/en-us/details/200652883-0836/senior-software-engineer-apple-batch-apple-data-platform?team=SFTWR",
       "identifier": "Senior Software Engineer, Apple Batch, Apple Data _apple-data-platform?team=SFTWR"
-    },
-    {
-      "title": "IAM Architect",
-      "url": "https://jobs.apple.com/en-us/details/200653063-3337/iam-architect?team=SFTWR",
-      "identifier": "IAM Architect_-3337/iam-architect?team=SFTWR"
-    },
-    {
-      "title": "AR/VR Applications Engineer - Personas, Vision Products Software",
-      "url": "https://jobs.apple.com/en-us/details/200615171-3337/ar-vr-applications-engineer-personas-vision-products-software?team=SFTWR",
-      "identifier": "AR/VR Applications Engineer - Personas, Vision Pro_n-products-software?team=SFTWR"
-    },
-    {
-      "title": "Data Scientist Audio Analytics",
-      "url": "https://jobs.apple.com/en-us/details/200652696-3543/data-scientist-audio-analytics?team=SFTWR",
-      "identifier": "Data Scientist Audio Analytics_ist-audio-analytics?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-23T20:54:57.099261"
+  "timestamp": "2026-03-23T21:02:36.732735"
 }

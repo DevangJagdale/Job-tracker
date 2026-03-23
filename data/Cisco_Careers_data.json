@@ -4,6 +4,11 @@
   "total_jobs": 10,
   "jobs": [
     {
+      "title": "Account Development Representative II (Full Time) United States",
+      "url": "https://careers.cisco.com/global/en/job/2001887/Account-Development-Representative-II-Full-Time-United-States",
+      "identifier": "Account Development Representative II (Full Time) _ive-II-Full-Time-United-States"
+    },
+    {
       "title": "Global Supply Chain RISE Rotational Program I (Full Time) - United States",
       "url": "https://careers.cisco.com/global/en/job/2011309/Global-Supply-Chain-RISE-Rotational-Program-I-Full-Time-United-States",
       "identifier": "Global Supply Chain RISE Rotational Program I (Ful_gram-I-Full-Time-United-States"
@@ -47,13 +52,8 @@
       "title": "DevOps Engineer II (Full-Time) - United States",
       "url": "https://careers.cisco.com/global/en/job/2008084/DevOps-Engineer-II-Full-Time-United-States",
       "identifier": "DevOps Engineer II (Full-Time) - United States_eer-II-Full-Time-United-States"
-    },
-    {
-      "title": "Software Engineer Backend/Platform Systems II (Full Time) \u2013 United States",
-      "url": "https://careers.cisco.com/global/en/job/2000135/Software-Engineer-Backend-Platform-Systems-II-Full-Time-United-States",
-      "identifier": "Software Engineer Backend/Platform Systems II (Ful_ems-II-Full-Time-United-States"
     }
   ],
-  "job_count_text": "30",
-  "timestamp": "2026-03-23T17:30:43.630394"
+  "job_count_text": "31",
+  "timestamp": "2026-03-23T17:47:54.347792"
 }

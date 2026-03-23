@@ -4,6 +4,11 @@
   "total_jobs": 15,
   "jobs": [
     {
+      "title": "AR/VR Applications Engineer - Personas, Vision Products Software",
+      "url": "https://jobs.apple.com/en-us/details/200615171-3337/ar-vr-applications-engineer-personas-vision-products-software?team=SFTWR",
+      "identifier": "AR/VR Applications Engineer - Personas, Vision Pro_n-products-software?team=SFTWR"
+    },
+    {
       "title": "Swift LLM API Engineer",
       "url": "https://jobs.apple.com/en-us/details/200636551-0836/swift-llm-api-engineer?team=MLAI",
       "identifier": "Swift LLM API Engineer_ift-llm-api-engineer?team=MLAI"
@@ -72,13 +77,8 @@
       "title": "Project / Program Manager, WW BPR - Special Projects",
       "url": "https://jobs.apple.com/en-us/details/200652930-0157/project-program-manager-ww-bpr-special-projects?team=OPMFG",
       "identifier": "Project / Program Manager, WW BPR - Special Projec_pr-special-projects?team=OPMFG"
-    },
-    {
-      "title": "Associate Creative Director, Photography, Sports",
-      "url": "https://jobs.apple.com/en-us/details/200647343-0670/associate-creative-director-photography-sports?team=SFTWR",
-      "identifier": "Associate Creative Director, Photography, Sports_-photography-sports?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-23T17:28:57.754556"
+  "timestamp": "2026-03-23T17:46:08.031224"
 }

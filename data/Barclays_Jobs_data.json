@@ -1,8 +1,38 @@
 {
   "page_title": "Search our Job Opportunities at Barclays",
   "url": "https://search.jobs.barclays/search-jobs/United%20States/13015/2/6252001/39x76/-98x5/50/2",
-  "total_jobs": 16,
+  "total_jobs": 15,
   "jobs": [
+    {
+      "title": "Business Analyst - AVP",
+      "url": "https://search.jobs.barclays/job/whippany/business-analyst-avp/13015/93117464656",
+      "identifier": "Business Analyst - AVP_-analyst-avp/13015/93117464656"
+    },
+    {
+      "title": "Senior Product Taxonomy Project Manager \u2013 VP",
+      "url": "https://search.jobs.barclays/job/whippany/senior-product-taxonomy-project-manager-vp/13015/93117463824",
+      "identifier": "Senior Product Taxonomy Project Manager \u2013 VP_t-manager-vp/13015/93117463824"
+    },
+    {
+      "title": "VP - Prime Relationship Management",
+      "url": "https://search.jobs.barclays/job/new-york/vp-prime-relationship-management/13015/93117455808",
+      "identifier": "VP - Prime Relationship Management_p-management/13015/93117455808"
+    },
+    {
+      "title": "Incremental-AI BA/PM",
+      "url": "https://search.jobs.barclays/job/whippany/incremental-ai-ba-pm/13015/93117448864",
+      "identifier": "Incremental-AI BA/PM_tal-ai-ba-pm/13015/93117448864"
+    },
+    {
+      "title": "Vulnerability Management SME \u2013 VP",
+      "url": "https://search.jobs.barclays/job/whippany/vulnerability-management-sme-vp/13015/93117448848",
+      "identifier": "Vulnerability Management SME \u2013 VP_ement-sme-vp/13015/93117448848"
+    },
+    {
+      "title": "Markets Desk Analyst - VP",
+      "url": "https://search.jobs.barclays/job/new-york/markets-desk-analyst-vp/13015/93117440336",
+      "identifier": "Markets Desk Analyst - VP_k-analyst-vp/13015/93117440336"
+    },
     {
       "title": "Employee Relations Specialist VP",
       "url": "https://search.jobs.barclays/job/new-york/employee-relations-specialist-vp/13015/93001876400",
@@ -12,11 +42,6 @@
       "title": "CFO Business Partnering & Controls VP",
       "url": "https://search.jobs.barclays/job/new-york/cfo-business-partnering-and-controls-vp/13015/92974424512",
       "identifier": "CFO Business Partnering & Controls VP_-controls-vp/13015/92974424512"
-    },
-    {
-      "title": "Debt Capital Markets, Associate",
-      "url": "https://search.jobs.barclays/job/new-york/debt-capital-markets-associate/13015/92974423808",
-      "identifier": "Debt Capital Markets, Associate_ts-associate/13015/92974423808"
     },
     {
       "title": "Structured Cabling Design Engineer",
@@ -32,11 +57,6 @@
       "title": "Director Retail Partnerships",
       "url": "https://search.jobs.barclays/job/wilmington/director-retail-partnerships/13015/92962120832",
       "identifier": "Director Retail Partnerships_partnerships/13015/92962120832"
-    },
-    {
-      "title": "Senior Developer",
-      "url": "https://search.jobs.barclays/job/whippany/senior-developer/13015/92962116000",
-      "identifier": "Senior Developer_or-developer/13015/92962116000"
     },
     {
       "title": "Market Data Commercial Owner - VP",
@@ -57,33 +77,8 @@
       "title": "Customer Support Collections Specialist",
       "url": "https://search.jobs.barclays/job/wilmington/customer-support-collections-specialist/13015/92922787280",
       "identifier": "Customer Support Collections Specialist_s-specialist/13015/92922787280"
-    },
-    {
-      "title": "Network Security Engineer - VP",
-      "url": "https://search.jobs.barclays/job/whippany/network-security-engineer-vp/13015/92922787216",
-      "identifier": "Network Security Engineer - VP_-engineer-vp/13015/92922787216"
-    },
-    {
-      "title": "Customer Support Collections Specialist",
-      "url": "https://search.jobs.barclays/job/henderson/customer-support-collections-specialist/13015/92922787120",
-      "identifier": "Customer Support Collections Specialist_s-specialist/13015/92922787120"
-    },
-    {
-      "title": "Payments & Cash Management Sales",
-      "url": "https://search.jobs.barclays/job/new-york/payments-and-cash-management-sales/13015/92922777968",
-      "identifier": "Payments & Cash Management Sales_gement-sales/13015/92922777968"
-    },
-    {
-      "title": "Network Security Engineer - AVP",
-      "url": "https://search.jobs.barclays/job/whippany/network-security-engineer-avp/13015/92922776976",
-      "identifier": "Network Security Engineer - AVP_engineer-avp/13015/92922776976"
-    },
-    {
-      "title": "Snr Product Head",
-      "url": "https://search.jobs.barclays/job/new-york/snr-product-head/13015/92922776224",
-      "identifier": "Snr Product Head_product-head/13015/92922776224"
     }
   ],
-  "job_count_text": "85",
-  "timestamp": "2026-03-23T17:28:25.296657"
+  "job_count_text": "88",
+  "timestamp": "2026-03-23T17:45:35.075646"
 }

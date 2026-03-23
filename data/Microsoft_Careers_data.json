@@ -4,17 +4,32 @@
   "total_jobs": 8,
   "jobs": [
     {
-      "title": "Parent | Sr. Software Engineer - Azure Storage\nUnited States, Multiple Locations, Multiple Locations\nPosted 29 minutes ago",
+      "title": "Software Engineer II\nUnited States, California, Santa Clara\nPosted 10 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556619889?domain=microsoft.com",
+      "identifier": "Software Engineer II\nUnited States, California, Sa_556619889?domain=microsoft.com"
+    },
+    {
+      "title": "Principal Software Engineer - Power BI\nUnited States, Washington, Redmond\nPosted 18 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556824908?domain=microsoft.com",
+      "identifier": "Principal Software Engineer - Power BI\nUnited Stat_556824908?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Software Engineer - SAP Basis\nUnited States, Washington, Redmond\nPosted 20 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556760142?domain=microsoft.com",
+      "identifier": "Senior Software Engineer - SAP Basis\nUnited States_556760142?domain=microsoft.com"
+    },
+    {
+      "title": "Parent | Sr. Software Engineer - Azure Storage\nUnited States, Multiple Locations, Multiple Locations\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556849539?domain=microsoft.com",
       "identifier": "Parent | Sr. Software Engineer - Azure Storage\nUni_556849539?domain=microsoft.com"
     },
     {
-      "title": "Software Engineer II - SAP Basis\nUnited States, Washington, Redmond\nPosted 33 minutes ago",
+      "title": "Software Engineer II - SAP Basis\nUnited States, Washington, Redmond\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556760389?domain=microsoft.com",
       "identifier": "Software Engineer II - SAP Basis\nUnited States, Wa_556760389?domain=microsoft.com"
     },
     {
-      "title": "Principal Software Engineering Manager\nUnited States, Washington, Redmond\nPosted 37 minutes ago",
+      "title": "Principal Software Engineering Manager\nUnited States, Washington, Redmond\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556850582?domain=microsoft.com",
       "identifier": "Principal Software Engineering Manager\nUnited Stat_556850582?domain=microsoft.com"
     },
@@ -27,23 +42,8 @@
       "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556843612?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Washington_556843612?domain=microsoft.com"
-    },
-    {
-      "title": "Principal Software Engineer\nUnited States, Multiple Locations, Multiple Locations + 8 more\nPosted 2 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556849991?domain=microsoft.com",
-      "identifier": "Principal Software Engineer\nUnited States, Multipl_556849991?domain=microsoft.com"
-    },
-    {
-      "title": "Principal Software Engineer - Purview\nUnited States, Washington, Redmond\nPosted 2 days ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556817453?domain=microsoft.com",
-      "identifier": "Principal Software Engineer - Purview\nUnited State_556817453?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Software Engineer - System Optimization\nUnited States, California, Mountain View + 1 more\nPosted 3 days ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556824867?domain=microsoft.com",
-      "identifier": "Senior Software Engineer - System Optimization\nUni_556824867?domain=microsoft.com"
     }
   ],
-  "job_count_text": "826",
-  "timestamp": "2026-03-23T15:28:26.195604"
+  "job_count_text": "829",
+  "timestamp": "2026-03-23T15:45:40.849891"
 }

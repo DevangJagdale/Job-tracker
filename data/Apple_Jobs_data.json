@@ -4,6 +4,26 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Software Integrity Engineer, Video Apps",
+      "url": "https://jobs.apple.com/en-us/details/200651765-0670/software-integrity-engineer-video-apps?team=SFTWR",
+      "identifier": "Software Integrity Engineer, Video Apps_engineer-video-apps?team=SFTWR"
+    },
+    {
+      "title": "Software Data Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200652977-3337/software-data-engineer?team=SFTWR",
+      "identifier": "Software Data Engineer_tware-data-engineer?team=SFTWR"
+    },
+    {
+      "title": "Staff Software Engineer / Technical Educator",
+      "url": "https://jobs.apple.com/en-us/details/200652784-3337/staff-software-engineer-technical-educator?team=SFTWR",
+      "identifier": "Staff Software Engineer / Technical Educator_-technical-educator?team=SFTWR"
+    },
+    {
+      "title": "Senior Software Engineer, Apple Batch, Apple Data Platform",
+      "url": "https://jobs.apple.com/en-us/details/200652883-0836/senior-software-engineer-apple-batch-apple-data-platform?team=SFTWR",
+      "identifier": "Senior Software Engineer, Apple Batch, Apple Data _apple-data-platform?team=SFTWR"
+    },
+    {
       "title": "IAM Architect",
       "url": "https://jobs.apple.com/en-us/details/200653063-3337/iam-architect?team=SFTWR",
       "identifier": "IAM Architect_-3337/iam-architect?team=SFTWR"
@@ -62,28 +82,8 @@
       "title": "AIML - Sr Data Scientist, Evaluation",
       "url": "https://jobs.apple.com/en-us/details/200646119-0836/aiml-sr-data-scientist-evaluation?team=MLAI",
       "identifier": "AIML - Sr Data Scientist, Evaluation_scientist-evaluation?team=MLAI"
-    },
-    {
-      "title": "AIML - Sr Engineering Program Manager, Foundation Models",
-      "url": "https://jobs.apple.com/en-us/details/200652780-0836/aiml-sr-engineering-program-manager-foundation-models?team=SFTWR",
-      "identifier": "AIML - Sr Engineering Program Manager, Foundation _r-foundation-models?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer - Core OS Telemetry",
-      "url": "https://jobs.apple.com/en-us/details/200652765-3543/software-engineer-core-os-telemetry?team=SFTWR",
-      "identifier": "Software Engineer - Core OS Telemetry_r-core-os-telemetry?team=SFTWR"
-    },
-    {
-      "title": "Machine Learning Inference Performance Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200652437-3956/machine-learning-inference-performance-engineer?team=SFTWR",
-      "identifier": "Machine Learning Inference Performance Engineer_erformance-engineer?team=SFTWR"
-    },
-    {
-      "title": "Machine Learning Engineer, Siri Core Modeling",
-      "url": "https://jobs.apple.com/en-us/details/200646481-0836/machine-learning-engineer-siri-core-modeling?team=SFTWR",
-      "identifier": "Machine Learning Engineer, Siri Core Modeling_-siri-core-modeling?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-23T18:20:27.904213"
+  "timestamp": "2026-03-23T18:37:39.685652"
 }

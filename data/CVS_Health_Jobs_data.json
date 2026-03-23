@@ -4,9 +4,19 @@
   "total_jobs": 8,
   "jobs": [
     {
+      "title": "Senior Manager - Software Development Engineering",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0851746/Senior-Manager-Software-Development-Engineering",
+      "identifier": "Senior Manager - Software Development Engineering_ftware-Development-Engineering"
+    },
+    {
       "title": "Full-Stack Developer - Python",
       "url": "https://jobs.cvshealth.com/us/en/job/R0840586/Full-Stack-Developer-Python",
       "identifier": "Full-Stack Developer - Python_86/Full-Stack-Developer-Python"
+    },
+    {
+      "title": "Field Service Technician - Baltimore, MD",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0863636/Field-Service-Technician-Baltimore-MD",
+      "identifier": "Field Service Technician - Baltimore, MD_ervice-Technician-Baltimore-MD"
     },
     {
       "title": "Executive Director, Engineering - AI Automation",
@@ -14,19 +24,14 @@
       "identifier": "Executive Director, Engineering - AI Automation_ctor-Engineering-AI-Automation"
     },
     {
-      "title": "Senior Manager - Software Development Engineering",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0851746/Senior-Manager-Software-Development-Engineering",
-      "identifier": "Senior Manager - Software Development Engineering_ftware-Development-Engineering"
+      "title": "Field Service Technician - Kansas City, MO",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0850699/Field-Service-Technician-Kansas-City-MO",
+      "identifier": "Field Service Technician - Kansas City, MO_vice-Technician-Kansas-City-MO"
     },
     {
       "title": "Store Hardware Technician",
       "url": "https://jobs.cvshealth.com/us/en/job/R0846748/Store-Hardware-Technician",
       "identifier": "Store Hardware Technician_6748/Store-Hardware-Technician"
-    },
-    {
-      "title": "Field Service Technician - Kansas City, MO",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0850699/Field-Service-Technician-Kansas-City-MO",
-      "identifier": "Field Service Technician - Kansas City, MO_vice-Technician-Kansas-City-MO"
     },
     {
       "title": "Technical Support Representative",
@@ -37,13 +42,8 @@
       "title": "IT Customer Services Analyst",
       "url": "https://jobs.cvshealth.com/us/en/job/R0858292/IT-Customer-Services-Analyst",
       "identifier": "IT Customer Services Analyst_2/IT-Customer-Services-Analyst"
-    },
-    {
-      "title": "Exchange & Copilot Operations Support Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0857628/Exchange-Copilot-Operations-Support-Engineer",
-      "identifier": "Exchange & Copilot Operations Support Engineer_ot-Operations-Support-Engineer"
     }
   ],
-  "job_count_text": "31",
-  "timestamp": "2026-03-23T18:21:31.345439"
+  "job_count_text": "32",
+  "timestamp": "2026-03-23T18:38:40.874216"
 }

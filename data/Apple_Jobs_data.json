@@ -4,6 +4,16 @@
   "total_jobs": 15,
   "jobs": [
     {
+      "title": "Software Automation QA Engineer - Security",
+      "url": "https://jobs.apple.com/en-us/details/200615747-0836/software-automation-qa-engineer-security?team=SFTWR",
+      "identifier": "Software Automation QA Engineer - Security_a-engineer-security?team=SFTWR"
+    },
+    {
+      "title": "Senior Administrative Assistant, WPC Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200652991-0836/senior-administrative-assistant-wpc-engineering?team=SFTWR",
+      "identifier": "Senior Administrative Assistant, WPC Engineering_ant-wpc-engineering?team=SFTWR"
+    },
+    {
       "title": "Tooling & Infrastructure Engineer",
       "url": "https://jobs.apple.com/en-us/details/200652988-0836/tooling-infrastructure-engineer?team=SFTWR",
       "identifier": "Tooling & Infrastructure Engineer_astructure-engineer?team=SFTWR"
@@ -67,18 +77,8 @@
       "title": "Senior Accessibility Software Engineer",
       "url": "https://jobs.apple.com/en-us/details/200652779-0836/senior-accessibility-software-engineer?team=SFTWR",
       "identifier": "Senior Accessibility Software Engineer_y-software-engineer?team=SFTWR"
-    },
-    {
-      "title": "Sr. Machine Learning System Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200652776-0836/sr-machine-learning-system-engineer?team=SFTWR",
-      "identifier": "Sr. Machine Learning System Engineer_ing-system-engineer?team=SFTWR"
-    },
-    {
-      "title": "Cloud Network Platform Software Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200652884-3956/cloud-network-platform-software-engineer?team=SFTWR",
-      "identifier": "Cloud Network Platform Software Engineer_m-software-engineer?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-23T16:37:28.716205"
+  "timestamp": "2026-03-23T16:54:40.810851"
 }

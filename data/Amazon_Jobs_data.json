@@ -1,7 +1,7 @@
 {
   "page_title": "Amazon University Talent Acquisition (AUTA)",
   "url": "https://www.amazon.jobs/content/en/career-programs/university?country%5B%5D=US&employment-type%5B%5D=Full+time&team%5B%5D=studentprograms.team-jobs-for-grads",
-  "total_jobs": 11,
+  "total_jobs": 10,
   "jobs": [
     {
       "title": "Full-time roles for graduates",
@@ -9,29 +9,9 @@
       "identifier": "Full-time roles for graduates_tudent-programs/jobs-for-grads"
     },
     {
-      "title": "Solutions Architect - 2026 (US)",
-      "url": "https://www.amazon.jobs/jobs/3204552",
-      "identifier": "Solutions Architect - 2026 (US)_//www.amazon.jobs/jobs/3204552"
-    },
-    {
       "title": "Postdoctoral Scientist",
       "url": "https://www.amazon.jobs/jobs/3116161",
       "identifier": "Postdoctoral Scientist_//www.amazon.jobs/jobs/3116161"
-    },
-    {
-      "title": "Associate Engagement Manager, ADC",
-      "url": "https://www.amazon.jobs/jobs/3200044",
-      "identifier": "Associate Engagement Manager, ADC_//www.amazon.jobs/jobs/3200044"
-    },
-    {
-      "title": "Associate Cloud Application Developer",
-      "url": "https://www.amazon.jobs/jobs/3201194",
-      "identifier": "Associate Cloud Application Developer_//www.amazon.jobs/jobs/3201194"
-    },
-    {
-      "title": "Associate Data AnaIytics Consultant",
-      "url": "https://www.amazon.jobs/jobs/3201170",
-      "identifier": "Associate Data AnaIytics Consultant_//www.amazon.jobs/jobs/3201170"
     },
     {
       "title": "Software Development Engineer - Military Veterans",
@@ -57,8 +37,23 @@
       "title": "ASIC Engineer, Project Leo",
       "url": "https://www.amazon.jobs/jobs/3176560",
       "identifier": "ASIC Engineer, Project Leo_//www.amazon.jobs/jobs/3176560"
+    },
+    {
+      "title": "Hardware Development Engineer, Quantum Computing",
+      "url": "https://www.amazon.jobs/jobs/3176565",
+      "identifier": "Hardware Development Engineer, Quantum Computing_//www.amazon.jobs/jobs/3176565"
+    },
+    {
+      "title": "2026 Annapurna Labs at AWS, Early Career (US) - Machine Learning Systems & Silicon Innovation",
+      "url": "https://www.amazon.jobs/jobs/3175965",
+      "identifier": "2026 Annapurna Labs at AWS, Early Career (US) - Ma_//www.amazon.jobs/jobs/3175965"
+    },
+    {
+      "title": "Software Development Engineer \u2013 Amazon Leo (US)",
+      "url": "https://www.amazon.jobs/jobs/3144341",
+      "identifier": "Software Development Engineer \u2013 Amazon Leo (US)_//www.amazon.jobs/jobs/3144341"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-23T19:33:48.961135"
+  "timestamp": "2026-03-23T19:51:03.002712"
 }

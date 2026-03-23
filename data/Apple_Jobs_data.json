@@ -4,6 +4,11 @@
   "total_jobs": 17,
   "jobs": [
     {
+      "title": "Software Engineering Manager - HealthKit",
+      "url": "https://jobs.apple.com/en-us/details/200652682-3543/software-engineering-manager-healthkit?team=SFTWR",
+      "identifier": "Software Engineering Manager - HealthKit_g-manager-healthkit?team=SFTWR"
+    },
+    {
       "title": "Senior Software Engineer - System Experience Personalization",
       "url": "https://jobs.apple.com/en-us/details/200601461-0836/senior-software-engineer-system-experience-personalization?team=SFTWR",
       "identifier": "Senior Software Engineer - System Experience Perso_nce-personalization?team=SFTWR"
@@ -17,11 +22,6 @@
       "title": "DevOps Engineer, Retail & Marcom Engineering",
       "url": "https://jobs.apple.com/en-us/details/200653186-3956/devops-engineer-retail-marcom-engineering?team=SFTWR",
       "identifier": "DevOps Engineer, Retail & Marcom Engineering_-marcom-engineering?team=SFTWR"
-    },
-    {
-      "title": "Software Engineering Manager - HealthKit",
-      "url": "https://jobs.apple.com/en-us/details/200652682-3543/software-engineering-manager-healthkit?team=SFTWR",
-      "identifier": "Software Engineering Manager - HealthKit_g-manager-healthkit?team=SFTWR"
     },
     {
       "title": "Software Integrity Engineer, Video Apps",
@@ -90,5 +90,5 @@
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-23T19:29:04.306107"
+  "timestamp": "2026-03-23T19:46:16.254888"
 }

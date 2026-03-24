@@ -14,14 +14,14 @@
       "identifier": "Software Quality Automation Engineer_re-Quality-Automation-Engineer"
     },
     {
-      "title": "Executive Director, Engineering - AI Automation",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0849706/Executive-Director-Engineering-AI-Automation",
-      "identifier": "Executive Director, Engineering - AI Automation_ctor-Engineering-AI-Automation"
-    },
-    {
       "title": "Senior Software Development Engineer",
       "url": "https://jobs.cvshealth.com/us/en/job/R0849927/Senior-Software-Development-Engineer",
       "identifier": "Senior Software Development Engineer_-Software-Development-Engineer"
+    },
+    {
+      "title": "Executive Director, Engineering - AI Automation",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0849706/Executive-Director-Engineering-AI-Automation",
+      "identifier": "Executive Director, Engineering - AI Automation_ctor-Engineering-AI-Automation"
     },
     {
       "title": "Senior Manager - Software Development Engineering",
@@ -29,14 +29,14 @@
       "identifier": "Senior Manager - Software Development Engineering_ftware-Development-Engineering"
     },
     {
-      "title": "Store Hardware Technician",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0846748/Store-Hardware-Technician",
-      "identifier": "Store Hardware Technician_6748/Store-Hardware-Technician"
-    },
-    {
       "title": "Field Service Technician - Kansas City, MO",
       "url": "https://jobs.cvshealth.com/us/en/job/R0850699/Field-Service-Technician-Kansas-City-MO",
       "identifier": "Field Service Technician - Kansas City, MO_vice-Technician-Kansas-City-MO"
+    },
+    {
+      "title": "Store Hardware Technician",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0846748/Store-Hardware-Technician",
+      "identifier": "Store Hardware Technician_6748/Store-Hardware-Technician"
     },
     {
       "title": "Technical Support Representative",
@@ -45,5 +45,5 @@
     }
   ],
   "job_count_text": "31",
-  "timestamp": "2026-03-24T14:47:32.311945"
+  "timestamp": "2026-03-24T15:07:36.108628"
 }

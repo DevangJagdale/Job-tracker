@@ -4,6 +4,11 @@
   "total_jobs": 18,
   "jobs": [
     {
+      "title": "Security Server Application Engineer, Enterprise Technology Services",
+      "url": "https://jobs.apple.com/en-us/details/200652003-3956/security-server-application-engineer-enterprise-technology-services?team=SFTWR",
+      "identifier": "Security Server Application Engineer, Enterprise T_technology-services?team=SFTWR"
+    },
+    {
       "title": "AIML - Sr Machine Learning Engineer, Modeling Evaluation & Data",
       "url": "https://jobs.apple.com/en-us/details/200653465-0836/aiml-sr-machine-learning-engineer-modeling-evaluation-data?team=MLAI",
       "identifier": "AIML - Sr Machine Learning Engineer, Modeling Eval_ling-evaluation-data?team=MLAI"
@@ -37,11 +42,6 @@
       "title": "Staff Software Engineer (Ads Platform)- Experimentation",
       "url": "https://jobs.apple.com/en-us/details/200619873-0836/staff-software-engineer-ads-platform-experimentation?team=SFTWR",
       "identifier": "Staff Software Engineer (Ads Platform)- Experiment_orm-experimentation?team=SFTWR"
-    },
-    {
-      "title": "Software Development Engineer in Test, Retail and Marcom Engineering",
-      "url": "https://jobs.apple.com/en-us/details/200649735-3956/software-development-engineer-in-test-retail-and-marcom-engineering?team=SFTWR",
-      "identifier": "Software Development Engineer in Test, Retail and _-marcom-engineering?team=SFTWR"
     },
     {
       "title": "Senior Machine Learning Engineer \u2013 Ads Predictions",
@@ -95,5 +95,5 @@
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-24T21:41:35.068829"
+  "timestamp": "2026-03-24T21:58:45.334367"
 }

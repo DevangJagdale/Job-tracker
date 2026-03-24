@@ -4,6 +4,11 @@
   "total_jobs": 18,
   "jobs": [
     {
+      "title": "Camera Imaging Software Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200653138-0836/camera-imaging-software-engineer?team=SFTWR",
+      "identifier": "Camera Imaging Software Engineer_g-software-engineer?team=SFTWR"
+    },
+    {
       "title": "Senior Realtime Rendering and Graphics Software Engineer",
       "url": "https://jobs.apple.com/en-us/details/200645831-0836/senior-realtime-rendering-and-graphics-software-engineer?team=SFTWR",
       "identifier": "Senior Realtime Rendering and Graphics Software En_s-software-engineer?team=SFTWR"
@@ -87,13 +92,8 @@
       "title": "Lead Trust & Safety Data Engineer",
       "url": "https://jobs.apple.com/en-us/details/200653226-0836/lead-trust-safety-data-engineer?team=SFTWR",
       "identifier": "Lead Trust & Safety Data Engineer_afety-data-engineer?team=SFTWR"
-    },
-    {
-      "title": "Software Engineering Manager - HealthKit",
-      "url": "https://jobs.apple.com/en-us/details/200652682-3543/software-engineering-manager-healthkit?team=SFTWR",
-      "identifier": "Software Engineering Manager - HealthKit_g-manager-healthkit?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-24T16:55:10.515274"
+  "timestamp": "2026-03-24T17:12:27.217359"
 }

@@ -4,17 +4,32 @@
   "total_jobs": 9,
   "jobs": [
     {
-      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 14 minutes ago",
+      "title": "Senior Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 13 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556668364?domain=microsoft.com",
+      "identifier": "Senior Software Engineer\nUnited States, Multiple L_556668364?domain=microsoft.com"
+    },
+    {
+      "title": "Principal Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 12 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556668376?domain=microsoft.com",
+      "identifier": "Principal Software Engineer\nUnited States, Multipl_556668376?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Software Engineer - Storage\nUnited States, California, Aliso Viejo + 3 more\nPosted 24 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556756113?domain=microsoft.com",
+      "identifier": "Senior Software Engineer - Storage\nUnited States, _556756113?domain=microsoft.com"
+    },
+    {
+      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 32 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556653704?domain=microsoft.com",
       "identifier": "Software Engineer II\nUnited States, Washington, Re_556653704?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer, Workflow Innovation - Halo Studios\nUnited States, Washington, Redmond\nPosted 19 minutes ago",
+      "title": "Senior Software Engineer, Workflow Innovation - Halo Studios\nUnited States, Washington, Redmond\nPosted 36 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556826708?domain=microsoft.com",
       "identifier": "Senior Software Engineer, Workflow Innovation - Ha_556826708?domain=microsoft.com"
     },
     {
-      "title": "Software Engineer - Full Stack\nUnited States, Washington, Redmond\nPosted 30 minutes ago",
+      "title": "Software Engineer - Full Stack\nUnited States, Washington, Redmond\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556850645?domain=microsoft.com",
       "identifier": "Software Engineer - Full Stack\nUnited States, Wash_556850645?domain=microsoft.com"
     },
@@ -32,23 +47,8 @@
       "title": "Senior Software Engineer - Networking / RDMA\nUnited States, California, Santa Clara\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556620906?domain=microsoft.com",
       "identifier": "Senior Software Engineer - Networking / RDMA\nUnite_556620906?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted an hour ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556850824?domain=microsoft.com",
-      "identifier": "Senior Software Engineer\nUnited States, Washington_556850824?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted an hour ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556851183?domain=microsoft.com",
-      "identifier": "Senior Software Engineer\nUnited States, Washington_556851183?domain=microsoft.com"
-    },
-    {
-      "title": "Principal Software Engineering Manager\nUnited States, Washington, Redmond\nPosted 2 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556851567?domain=microsoft.com",
-      "identifier": "Principal Software Engineering Manager\nUnited Stat_556851567?domain=microsoft.com"
     }
   ],
-  "job_count_text": "834",
-  "timestamp": "2026-03-24T21:06:56.624036"
+  "job_count_text": "836",
+  "timestamp": "2026-03-24T21:24:08.374804"
 }

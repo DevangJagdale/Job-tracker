@@ -4,7 +4,12 @@
   "total_jobs": 9,
   "jobs": [
     {
-      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 40 minutes ago",
+      "title": "Software Engineer\nUnited States, Washington, Redmond\nPosted 4 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556849639?domain=microsoft.com",
+      "identifier": "Software Engineer\nUnited States, Washington, Redmo_556849639?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556619200?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Washington_556619200?domain=microsoft.com"
     },
@@ -19,12 +24,12 @@
       "identifier": "Principal Security Architect - Windows Server\nUnit_556851547?domain=microsoft.com"
     },
     {
-      "title": "Senior Applied Scientist and Principal Applied Scientist (Multiple openings)\nUnited States, Washington, Redmond\nPosted an hour ago",
+      "title": "Senior Applied Scientist and Principal Applied Scientist (Multiple openings)\nUnited States, Washington, Redmond\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556819839?domain=microsoft.com",
       "identifier": "Senior Applied Scientist and Principal Applied Sci_556819839?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer - C++\nUnited States, Washington, Redmond\nPosted an hour ago",
+      "title": "Senior Software Engineer - C++\nUnited States, Washington, Redmond\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556653243?domain=microsoft.com",
       "identifier": "Senior Software Engineer - C++\nUnited States, Wash_556653243?domain=microsoft.com"
     },
@@ -42,13 +47,8 @@
       "title": "Senior Software Engineer - CTJ - Poly\nUnited States, Washington, Redmond + 1 more\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556654030?domain=microsoft.com",
       "identifier": "Senior Software Engineer - CTJ - Poly\nUnited State_556654030?domain=microsoft.com"
-    },
-    {
-      "title": "Principal Software Engineer - CTJ - POLY\nUnited States, Virginia, Reston + 2 more\nPosted 2 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556850847?domain=microsoft.com",
-      "identifier": "Principal Software Engineer - CTJ - POLY\nUnited St_556850847?domain=microsoft.com"
     }
   ],
-  "job_count_text": "818",
-  "timestamp": "2026-03-24T17:12:11.188863"
+  "job_count_text": "819",
+  "timestamp": "2026-03-24T17:29:28.906582"
 }

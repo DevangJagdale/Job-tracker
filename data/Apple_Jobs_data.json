@@ -4,6 +4,11 @@
   "total_jobs": 17,
   "jobs": [
     {
+      "title": "Senior Machine Learning Engineer \u2013 Ads Predictions",
+      "url": "https://jobs.apple.com/en-us/details/200653495-0836/senior-machine-learning-engineer-ads-predictions?team=SFTWR",
+      "identifier": "Senior Machine Learning Engineer \u2013 Ads Predictions_eer-ads-predictions?team=SFTWR"
+    },
+    {
       "title": "Data Engineer (Agentic AI, LLM Training), G&A Solutions Engineering (GSE)",
       "url": "https://jobs.apple.com/en-us/details/200653416-0157/data-engineer-agentic-ai-llm-training-g-a-solutions-engineering-gse?team=SFTWR",
       "identifier": "Data Engineer (Agentic AI, LLM Training), G&A Solu_ons-engineering-gse?team=SFTWR"
@@ -82,13 +87,8 @@
       "title": "Production Services Engineer - Apple Services Engineering",
       "url": "https://jobs.apple.com/en-us/details/200652311-3337/production-services-engineer-apple-services-engineering?team=SFTWR",
       "identifier": "Production Services Engineer - Apple Services Engi_ervices-engineering?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200652310-3337/software-engineer?team=SFTWR",
-      "identifier": "Software Engineer_7/software-engineer?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-24T19:21:47.281936"
+  "timestamp": "2026-03-24T19:38:59.685073"
 }

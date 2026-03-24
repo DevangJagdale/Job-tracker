@@ -14,11 +14,6 @@
       "identifier": "Account Development Representative II (Full Time) _ive-II-Full-Time-United-States"
     },
     {
-      "title": "Software Engineer II (Full Time) \u2013 Devices Technology Group \u2013 United States",
-      "url": "https://careers.cisco.com/global/en/job/2011259/Software-Engineer-II-Full-Time-Devices-Technology-Group-United-States",
-      "identifier": "Software Engineer II (Full Time) \u2013 Devices Technol_Technology-Group-United-States"
-    },
-    {
       "title": "Global Supply Chain RISE Rotational Program I (Full Time) - United States",
       "url": "https://careers.cisco.com/global/en/job/2011309/Global-Supply-Chain-RISE-Rotational-Program-I-Full-Time-United-States",
       "identifier": "Global Supply Chain RISE Rotational Program I (Ful_gram-I-Full-Time-United-States"
@@ -27,6 +22,11 @@
       "title": "Software Engineer I (Full Time) \u2013 Devices Technology Group \u2013 United States",
       "url": "https://careers.cisco.com/global/en/job/2011256/Software-Engineer-I-Full-Time-Devices-Technology-Group-United-States",
       "identifier": "Software Engineer I (Full Time) \u2013 Devices Technolo_Technology-Group-United-States"
+    },
+    {
+      "title": "Software Engineer II (Full Time) \u2013 Devices Technology Group \u2013 United States",
+      "url": "https://careers.cisco.com/global/en/job/2011259/Software-Engineer-II-Full-Time-Devices-Technology-Group-United-States",
+      "identifier": "Software Engineer II (Full Time) \u2013 Devices Technol_Technology-Group-United-States"
     },
     {
       "title": "Customer Experience Project Specialist I (Full-Time) - United States",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "30",
-  "timestamp": "2026-03-24T20:51:46.628888"
+  "timestamp": "2026-03-24T21:08:58.185342"
 }

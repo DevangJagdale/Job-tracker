@@ -4,14 +4,19 @@
   "total_jobs": 18,
   "jobs": [
     {
-      "title": "Senior Detection Creation Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200653006-3337/senior-detection-creation-engineer?team=SFTWR",
-      "identifier": "Senior Detection Creation Engineer_n-creation-engineer?team=SFTWR"
-    },
-    {
       "title": "AIML - Sr Machine Learning Engineer, Modeling Evaluation & Data",
       "url": "https://jobs.apple.com/en-us/details/200653465-0836/aiml-sr-machine-learning-engineer-modeling-evaluation-data?team=MLAI",
       "identifier": "AIML - Sr Machine Learning Engineer, Modeling Eval_ling-evaluation-data?team=MLAI"
+    },
+    {
+      "title": "Sr. Ruby on Rails Engineer, Apple Services Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200653298-3577/sr-ruby-on-rails-engineer-apple-services-engineering?team=SFTWR",
+      "identifier": "Sr. Ruby on Rails Engineer, Apple Services Enginee_ervices-engineering?team=SFTWR"
+    },
+    {
+      "title": "Senior Detection Creation Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200653006-3337/senior-detection-creation-engineer?team=SFTWR",
+      "identifier": "Senior Detection Creation Engineer_n-creation-engineer?team=SFTWR"
     },
     {
       "title": "Machine Learning Engineer, Apple Services Engineering",
@@ -87,13 +92,8 @@
       "title": "Software Engineer (UI Solutions), AI & Data Platforms (AiDP)",
       "url": "https://jobs.apple.com/en-us/details/200639144-0157/software-engineer-ui-solutions-ai-data-platforms-aidp?team=SFTWR",
       "identifier": "Software Engineer (UI Solutions), AI & Data Platfo_data-platforms-aidp?team=SFTWR"
-    },
-    {
-      "title": "Traffic and Secure Services Network SRE Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200649032-0836/traffic-and-secure-services-network-sre-engineer?team=SFTWR",
-      "identifier": "Traffic and Secure Services Network SRE Engineer_etwork-sre-engineer?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-24T20:50:02.505968"
+  "timestamp": "2026-03-24T21:07:12.809771"
 }

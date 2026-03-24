@@ -1,7 +1,7 @@
 {
   "page_title": "| Microsoft Careers",
   "url": "https://apply.careers.microsoft.com/careers?domain=microsoft.com&start=0&location=United+States&sort_by=timestamp&filter_include_remote=1&filter_profession=software+engineering%2Cresearch%252C%2520applied%252C%2520%2526%2520data%2520sciences",
-  "total_jobs": 10,
+  "total_jobs": 9,
   "jobs": [
     {
       "title": "Graphics Software Engineer II\nUnited States, Washington, Redmond\nPosted 2 hours ago",
@@ -9,7 +9,7 @@
       "identifier": "Graphics Software Engineer II\nUnited States, Washi_556641411?domain=microsoft.com"
     },
     {
-      "title": "Software Engineer II - Embedded Networking\nUnited States, Multiple Locations, Multiple Locations\nPosted 2 hours ago",
+      "title": "Software Engineer II - Embedded Networking\nUnited States, Multiple Locations, Multiple Locations\nPosted 3 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556668399?domain=microsoft.com",
       "identifier": "Software Engineer II - Embedded Networking\nUnited _556668399?domain=microsoft.com"
     },
@@ -39,21 +39,16 @@
       "identifier": "Senior Software Engineer\nUnited States, Washington_556746566?domain=microsoft.com"
     },
     {
-      "title": "Principal Software Engineer - CoreAI Model Inference & Serving\nUnited States, Washington, Redmond + 1 more\nPosted 5 hours ago",
+      "title": "Principal Software Engineer - CoreAI Model Inference & Serving\nUnited States, Washington, Redmond + 1 more\nPosted 6 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556843557?domain=microsoft.com",
       "identifier": "Principal Software Engineer - CoreAI Model Inferen_556843557?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer - CoreAI Model Inference & Serving\nUnited States, Washington, Redmond + 1 more\nPosted 5 hours ago",
+      "title": "Senior Software Engineer - CoreAI Model Inference & Serving\nUnited States, Washington, Redmond + 1 more\nPosted 6 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556837781?domain=microsoft.com",
       "identifier": "Senior Software Engineer - CoreAI Model Inference _556837781?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 6 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556657760?domain=microsoft.com",
-      "identifier": "Senior Software Engineer\nUnited States, Washington_556657760?domain=microsoft.com"
     }
   ],
-  "job_count_text": "844",
-  "timestamp": "2026-03-24T02:55:08.541998"
+  "job_count_text": "845",
+  "timestamp": "2026-03-24T03:12:18.384680"
 }

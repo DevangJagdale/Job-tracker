@@ -1,8 +1,18 @@
 {
   "page_title": "Search our Job Opportunities at Barclays",
   "url": "https://search.jobs.barclays/search-jobs/United%20States/13015/2/6252001/39x76/-98x5/50/2",
-  "total_jobs": 16,
+  "total_jobs": 14,
   "jobs": [
+    {
+      "title": "Liquid Finance Streaming Architect",
+      "url": "https://search.jobs.barclays/job/new-york/liquid-finance-streaming-architect/13015/93156155904",
+      "identifier": "Liquid Finance Streaming Architect_ng-architect/13015/93156155904"
+    },
+    {
+      "title": "Project Manager for Corporate Real Estate Solutions (CRES)",
+      "url": "https://search.jobs.barclays/job/new-york/project-manager-for-corporate-real-estate-solutions-cres/13015/93156135536",
+      "identifier": "Project Manager for Corporate Real Estate Solution_lutions-cres/13015/93156135536"
+    },
     {
       "title": "Senior Data Engineering Lead",
       "url": "https://search.jobs.barclays/job/whippany/senior-data-engineering-lead/13015/93130195744",
@@ -62,28 +72,8 @@
       "title": "US Liquidity Reporting Lead",
       "url": "https://search.jobs.barclays/job/new-york/us-liquidity-reporting-lead/13015/92974421040",
       "identifier": "US Liquidity Reporting Lead_porting-lead/13015/92974421040"
-    },
-    {
-      "title": "Director Retail Partnerships",
-      "url": "https://search.jobs.barclays/job/wilmington/director-retail-partnerships/13015/92962120832",
-      "identifier": "Director Retail Partnerships_partnerships/13015/92962120832"
-    },
-    {
-      "title": "Market Data Commercial Owner - VP",
-      "url": "https://search.jobs.barclays/job/new-york/market-data-commercial-owner-vp/13015/92936724464",
-      "identifier": "Market Data Commercial Owner - VP_ial-owner-vp/13015/92936724464"
-    },
-    {
-      "title": "Network Infrastructure Engineer - VP",
-      "url": "https://search.jobs.barclays/job/whippany/network-infrastructure-engineer-vp/13015/92922787456",
-      "identifier": "Network Infrastructure Engineer - VP_-engineer-vp/13015/92922787456"
-    },
-    {
-      "title": "Network Security Engineering Manager",
-      "url": "https://search.jobs.barclays/job/whippany/network-security-engineering-manager/13015/92922787392",
-      "identifier": "Network Security Engineering Manager_ring-manager/13015/92922787392"
     }
   ],
-  "job_count_text": "91",
-  "timestamp": "2026-03-24T17:29:11.115114"
+  "job_count_text": "99",
+  "timestamp": "2026-03-24T17:46:43.353701"
 }

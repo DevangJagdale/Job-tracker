@@ -1,8 +1,18 @@
 {
   "page_title": "| Microsoft Careers",
   "url": "https://apply.careers.microsoft.com/careers?domain=microsoft.com&start=0&location=United+States&sort_by=timestamp&filter_include_remote=1&filter_profession=software+engineering%2Cresearch%252C%2520applied%252C%2520%2526%2520data%2520sciences",
-  "total_jobs": 9,
+  "total_jobs": 10,
   "jobs": [
+    {
+      "title": "Principal AI Architect\nUnited States, Multiple Locations, Multiple Locations\nPosted 9 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556749593?domain=microsoft.com",
+      "identifier": "Principal AI Architect\nUnited States, Multiple Loc_556749593?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Applied Scientist\nUnited States, Multiple Locations, Multiple Locations + 1 more\nPosted 22 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556850759?domain=microsoft.com",
+      "identifier": "Senior Applied Scientist\nUnited States, Multiple L_556850759?domain=microsoft.com"
+    },
     {
       "title": "Senior Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556668364?domain=microsoft.com",
@@ -29,7 +39,7 @@
       "identifier": "Senior Software Engineer, Workflow Innovation - Ha_556826708?domain=microsoft.com"
     },
     {
-      "title": "Software Engineer - Full Stack\nUnited States, Washington, Redmond\nPosted an hour ago",
+      "title": "Software Engineer - Full Stack\nUnited States, Washington, Redmond\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556850645?domain=microsoft.com",
       "identifier": "Software Engineer - Full Stack\nUnited States, Wash_556850645?domain=microsoft.com"
     },
@@ -42,13 +52,8 @@
       "title": "Senior Software Engineer - Networking / RDMA\nUnited States, California, Santa Clara\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556620906?domain=microsoft.com",
       "identifier": "Senior Software Engineer - Networking / RDMA\nUnite_556620906?domain=microsoft.com"
-    },
-    {
-      "title": "Principal, DPU Security, Manager\nUnited States, California, Santa Clara + 1 more\nPosted 2 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556752644?domain=microsoft.com",
-      "identifier": "Principal, DPU Security, Manager\nUnited States, Ca_556752644?domain=microsoft.com"
     }
   ],
-  "job_count_text": "837",
-  "timestamp": "2026-03-24T21:58:29.717003"
+  "job_count_text": "839",
+  "timestamp": "2026-03-24T22:15:41.339480"
 }

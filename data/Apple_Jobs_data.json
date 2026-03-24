@@ -4,6 +4,11 @@
   "total_jobs": 18,
   "jobs": [
     {
+      "title": "Principal Backend Infrastructure Engineer,",
+      "url": "https://jobs.apple.com/en-us/details/200653545-3760/principal-backend-infrastructure-engineer?team=MLAI",
+      "identifier": "Principal Backend Infrastructure Engineer,_rastructure-engineer?team=MLAI"
+    },
+    {
       "title": "Security Server Application Engineer, Enterprise Technology Services",
       "url": "https://jobs.apple.com/en-us/details/200652003-3956/security-server-application-engineer-enterprise-technology-services?team=SFTWR",
       "identifier": "Security Server Application Engineer, Enterprise T_technology-services?team=SFTWR"
@@ -87,13 +92,8 @@
       "title": "AIML - Regulatory Engineering Lead, Evaluation",
       "url": "https://jobs.apple.com/en-us/details/200653004-2459/aiml-regulatory-engineering-lead-evaluation?team=MLAI",
       "identifier": "AIML - Regulatory Engineering Lead, Evaluation_ring-lead-evaluation?team=MLAI"
-    },
-    {
-      "title": "Software Engineer (UI Solutions), AI & Data Platforms (AiDP)",
-      "url": "https://jobs.apple.com/en-us/details/200639144-0157/software-engineer-ui-solutions-ai-data-platforms-aidp?team=SFTWR",
-      "identifier": "Software Engineer (UI Solutions), AI & Data Platfo_data-platforms-aidp?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-24T21:58:45.334367"
+  "timestamp": "2026-03-24T22:15:57.547200"
 }

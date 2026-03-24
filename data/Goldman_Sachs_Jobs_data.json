@@ -4,9 +4,9 @@
   "total_jobs": 20,
   "jobs": [
     {
-      "title": "Asset & Wealth Management - Software Engineer - Associate - New York\nNew York\u00b7United States\n\u00b7Analyst",
+      "title": "Asset & Wealth Management - Software Engineer - Analyst - New York\nNew York\u00b7United States\n\u00b7Analyst",
       "url": "https://higher.gs.com/roles/166075",
-      "identifier": "Asset & Wealth Management - Software Engineer - As_s://higher.gs.com/roles/166075"
+      "identifier": "Asset & Wealth Management - Software Engineer - An_s://higher.gs.com/roles/166075"
     },
     {
       "title": "Asset & Wealth Management - Software Engineer - Analyst - New York\nNew York\u00b7United States\n\u00b7Analyst",
@@ -105,5 +105,5 @@
     }
   ],
   "job_count_text": "56",
-  "timestamp": "2026-03-24T21:57:55.545894"
+  "timestamp": "2026-03-24T22:15:06.502169"
 }

@@ -1,8 +1,23 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 17,
+  "total_jobs": 18,
   "jobs": [
+    {
+      "title": "AR/VR Applications Engineer - Photos, Vision Products Software",
+      "url": "https://jobs.apple.com/en-us/details/200653477-3401/ar-vr-applications-engineer-photos-vision-products-software?team=SFTWR",
+      "identifier": "AR/VR Applications Engineer - Photos, Vision Produ_n-products-software?team=SFTWR"
+    },
+    {
+      "title": "Staff Software Engineer (Ads Platform)- Experimentation",
+      "url": "https://jobs.apple.com/en-us/details/200619873-0836/staff-software-engineer-ads-platform-experimentation?team=SFTWR",
+      "identifier": "Staff Software Engineer (Ads Platform)- Experiment_orm-experimentation?team=SFTWR"
+    },
+    {
+      "title": "Software Development Engineer in Test, Retail and Marcom Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200649735-3956/software-development-engineer-in-test-retail-and-marcom-engineering?team=SFTWR",
+      "identifier": "Software Development Engineer in Test, Retail and _-marcom-engineering?team=SFTWR"
+    },
     {
       "title": "Senior Machine Learning Engineer \u2013 Ads Predictions",
       "url": "https://jobs.apple.com/en-us/details/200653495-0836/senior-machine-learning-engineer-ads-predictions?team=SFTWR",
@@ -12,11 +27,6 @@
       "title": "Data Engineer (Agentic AI, LLM Training), G&A Solutions Engineering (GSE)",
       "url": "https://jobs.apple.com/en-us/details/200653416-0157/data-engineer-agentic-ai-llm-training-g-a-solutions-engineering-gse?team=SFTWR",
       "identifier": "Data Engineer (Agentic AI, LLM Training), G&A Solu_ons-engineering-gse?team=SFTWR"
-    },
-    {
-      "title": "AR/VR Applications Engineer - Photos, Vision Products Software",
-      "url": "https://jobs.apple.com/en-us/details/200653477-3401/ar-vr-applications-engineer-photos-vision-products-software?team=SFTWR",
-      "identifier": "AR/VR Applications Engineer - Photos, Vision Produ_n-products-software?team=SFTWR"
     },
     {
       "title": "Sr Systems Engineer, Retail Demo Production",
@@ -82,13 +92,8 @@
       "title": "Senior Computer Vision and Machine Learning Engineer, Creator Studio",
       "url": "https://jobs.apple.com/en-us/details/200653242-0836/senior-computer-vision-and-machine-learning-engineer-creator-studio?team=SFTWR",
       "identifier": "Senior Computer Vision and Machine Learning Engine_neer-creator-studio?team=SFTWR"
-    },
-    {
-      "title": "Production Services Engineer - Apple Services Engineering",
-      "url": "https://jobs.apple.com/en-us/details/200652311-3337/production-services-engineer-apple-services-engineering?team=SFTWR",
-      "identifier": "Production Services Engineer - Apple Services Engi_ervices-engineering?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-24T19:38:59.685073"
+  "timestamp": "2026-03-24T19:58:23.307092"
 }

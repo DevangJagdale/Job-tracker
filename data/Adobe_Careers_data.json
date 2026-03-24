@@ -1,17 +1,12 @@
 {
   "page_title": "Search results | Find available job openings at Adobe",
   "url": "https://careers.adobe.com/us/en/search-results?qcountry=United%20States%20of%20America",
-  "total_jobs": 4,
+  "total_jobs": 3,
   "jobs": [
     {
       "title": "Software Development Engineer",
       "url": "https://careers.adobe.com/us/en/job/R161750/Software-Development-Engineer",
       "identifier": "Software Development Engineer_/Software-Development-Engineer"
-    },
-    {
-      "title": "2026 MBA University Graduate - Product Manager",
-      "url": "https://careers.adobe.com/us/en/job/R158962/2026-MBA-University-Graduate-Product-Manager",
-      "identifier": "2026 MBA University Graduate - Product Manager_rsity-Graduate-Product-Manager"
     },
     {
       "title": "2026 University Graduate - Machine Learning Engineer",
@@ -24,6 +19,6 @@
       "identifier": "2026 University Graduate - Applied Scientist_ity-Graduate-Applied-Scientist"
     }
   ],
-  "job_count_text": "5",
-  "timestamp": "2026-03-24T22:55:01.491849"
+  "job_count_text": "4",
+  "timestamp": "2026-03-24T23:12:17.037054"
 }

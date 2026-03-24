@@ -4,27 +4,32 @@
   "total_jobs": 9,
   "jobs": [
     {
-      "title": "Senior Software Engineer\nUnited States, California, Santa Clara\nPosted 14 minutes ago",
+      "title": "Software Engineer - Full Stack\nUnited States, Washington, Redmond\nPosted 13 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556850645?domain=microsoft.com",
+      "identifier": "Software Engineer - Full Stack\nUnited States, Wash_556850645?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Software Engineer\nUnited States, California, Santa Clara\nPosted 31 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556638278?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, California_556638278?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer - Networking / RDMA\nUnited States, California, Santa Clara\nPosted 16 minutes ago",
+      "title": "Senior Software Engineer - Networking / RDMA\nUnited States, California, Santa Clara\nPosted 33 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556620906?domain=microsoft.com",
       "identifier": "Senior Software Engineer - Networking / RDMA\nUnite_556620906?domain=microsoft.com"
     },
     {
-      "title": "Principal, DPU Security, Manager\nUnited States, California, Santa Clara + 1 more\nPosted 17 minutes ago",
+      "title": "Principal, DPU Security, Manager\nUnited States, California, Santa Clara + 1 more\nPosted 34 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556752644?domain=microsoft.com",
       "identifier": "Principal, DPU Security, Manager\nUnited States, Ca_556752644?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 28 minutes ago",
+      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556850824?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Washington_556850824?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 32 minutes ago",
+      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556851183?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Washington_556851183?domain=microsoft.com"
     },
@@ -42,13 +47,8 @@
       "title": "Senior Software Engineer - CTJ - Poly\nUnited States, Virginia, Reston\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556628477?domain=microsoft.com",
       "identifier": "Senior Software Engineer - CTJ - Poly\nUnited State_556628477?domain=microsoft.com"
-    },
-    {
-      "title": "Principal Software Engineer\nUnited States, Multiple Locations, Multiple Locations + 1 more\nPosted an hour ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556752154?domain=microsoft.com",
-      "identifier": "Principal Software Engineer\nUnited States, Multipl_556752154?domain=microsoft.com"
     }
   ],
-  "job_count_text": "831",
-  "timestamp": "2026-03-24T20:32:34.083230"
+  "job_count_text": "832",
+  "timestamp": "2026-03-24T20:49:46.361706"
 }

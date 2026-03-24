@@ -1,8 +1,18 @@
 {
   "page_title": "Search our Job Opportunities at Barclays",
   "url": "https://search.jobs.barclays/search-jobs/United%20States/13015/2/6252001/39x76/-98x5/50/2",
-  "total_jobs": 14,
+  "total_jobs": 16,
   "jobs": [
+    {
+      "title": "Senior Data Engineering Lead",
+      "url": "https://search.jobs.barclays/job/whippany/senior-data-engineering-lead/13015/93130195744",
+      "identifier": "Senior Data Engineering Lead_neering-lead/13015/93130195744"
+    },
+    {
+      "title": "Debt Capital Markets, Associate",
+      "url": "https://search.jobs.barclays/job/new-york/debt-capital-markets-associate/13015/93130195456",
+      "identifier": "Debt Capital Markets, Associate_ts-associate/13015/93130195456"
+    },
     {
       "title": "Market Risk Specialist - VP",
       "url": "https://search.jobs.barclays/job/new-york/market-risk-specialist-vp/13015/93117472576",
@@ -75,5 +85,5 @@
     }
   ],
   "job_count_text": "91",
-  "timestamp": "2026-03-24T11:23:55.330894"
+  "timestamp": "2026-03-24T11:41:05.058560"
 }

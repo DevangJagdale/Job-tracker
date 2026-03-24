@@ -4,6 +4,11 @@
   "total_jobs": 18,
   "jobs": [
     {
+      "title": "Director of Software Engineering, Comms Apps Teams",
+      "url": "https://jobs.apple.com/en-us/details/200631981-0836/director-of-software-engineering-comms-apps-teams?team=SFTWR",
+      "identifier": "Director of Software Engineering, Comms Apps Teams_ng-comms-apps-teams?team=SFTWR"
+    },
+    {
       "title": "AIML - Regulatory Engineering Lead, Evaluation",
       "url": "https://jobs.apple.com/en-us/details/200653004-2459/aiml-regulatory-engineering-lead-evaluation?team=MLAI",
       "identifier": "AIML - Regulatory Engineering Lead, Evaluation_ring-lead-evaluation?team=MLAI"
@@ -87,13 +92,8 @@
       "title": "Data Engineer (Agentic AI, LLM Training), G&A Solutions Engineering (GSE)",
       "url": "https://jobs.apple.com/en-us/details/200651345-0157/data-engineer-agentic-ai-llm-training-g-a-solutions-engineering-gse?team=SFTWR",
       "identifier": "Data Engineer (Agentic AI, LLM Training), G&A Solu_ons-engineering-gse?team=SFTWR"
-    },
-    {
-      "title": "DevOps Engineer, Retail & Marcom Engineering",
-      "url": "https://jobs.apple.com/en-us/details/200653186-3956/devops-engineer-retail-marcom-engineering?team=SFTWR",
-      "identifier": "DevOps Engineer, Retail & Marcom Engineering_-marcom-engineering?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-24T04:21:37.875177"
+  "timestamp": "2026-03-24T04:38:46.240900"
 }

@@ -4,6 +4,16 @@
   "total_jobs": 18,
   "jobs": [
     {
+      "title": "AR/VR Applications Engineer - Photos, Vision Products Software",
+      "url": "https://jobs.apple.com/en-us/details/200653477-3401/ar-vr-applications-engineer-photos-vision-products-software?team=SFTWR",
+      "identifier": "AR/VR Applications Engineer - Photos, Vision Produ_n-products-software?team=SFTWR"
+    },
+    {
+      "title": "Manager - WW Business Process Re-Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200653196-3956/manager-ww-business-process-re-engineering?team=OPMFG",
+      "identifier": "Manager - WW Business Process Re-Engineering_cess-re-engineering?team=OPMFG"
+    },
+    {
       "title": "Principal Backend Infrastructure Engineer,",
       "url": "https://jobs.apple.com/en-us/details/200653545-3760/principal-backend-infrastructure-engineer?team=MLAI",
       "identifier": "Principal Backend Infrastructure Engineer,_rastructure-engineer?team=MLAI"
@@ -37,11 +47,6 @@
       "title": "Machine Learning Engineer, Computer Vision - Strategic Data Solutions",
       "url": "https://jobs.apple.com/en-us/details/200652434-0157/machine-learning-engineer-computer-vision-strategic-data-solutions?team=MLAI",
       "identifier": "Machine Learning Engineer, Computer Vision - Strat_tegic-data-solutions?team=MLAI"
-    },
-    {
-      "title": "AR/VR Applications Engineer - Photos, Vision Products Software",
-      "url": "https://jobs.apple.com/en-us/details/200653477-3401/ar-vr-applications-engineer-photos-vision-products-software?team=SFTWR",
-      "identifier": "AR/VR Applications Engineer - Photos, Vision Produ_n-products-software?team=SFTWR"
     },
     {
       "title": "Staff Software Engineer (Ads Platform)- Experimentation",
@@ -87,13 +92,8 @@
       "title": "Director of Software Engineering, Comms Apps Teams",
       "url": "https://jobs.apple.com/en-us/details/200631981-0836/director-of-software-engineering-comms-apps-teams?team=SFTWR",
       "identifier": "Director of Software Engineering, Comms Apps Teams_ng-comms-apps-teams?team=SFTWR"
-    },
-    {
-      "title": "AIML - Regulatory Engineering Lead, Evaluation",
-      "url": "https://jobs.apple.com/en-us/details/200653004-2459/aiml-regulatory-engineering-lead-evaluation?team=MLAI",
-      "identifier": "AIML - Regulatory Engineering Lead, Evaluation_ring-lead-evaluation?team=MLAI"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-24T23:08:00.092067"
+  "timestamp": "2026-03-24T23:25:12.646916"
 }

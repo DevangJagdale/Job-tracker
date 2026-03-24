@@ -4,6 +4,16 @@
   "total_jobs": 18,
   "jobs": [
     {
+      "title": "Senior Realtime Rendering and Graphics Software Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200645831-0836/senior-realtime-rendering-and-graphics-software-engineer?team=SFTWR",
+      "identifier": "Senior Realtime Rendering and Graphics Software En_s-software-engineer?team=SFTWR"
+    },
+    {
+      "title": "Software Engineer - Family Services- iCloud",
+      "url": "https://jobs.apple.com/en-us/details/200653320-3543/software-engineer-family-services-icloud?team=SFTWR",
+      "identifier": "Software Engineer - Family Services- iCloud_ily-services-icloud?team=SFTWR"
+    },
+    {
       "title": "Director of Software Engineering, Comms Apps Teams",
       "url": "https://jobs.apple.com/en-us/details/200631981-0836/director-of-software-engineering-comms-apps-teams?team=SFTWR",
       "identifier": "Director of Software Engineering, Comms Apps Teams_ng-comms-apps-teams?team=SFTWR"
@@ -82,18 +92,8 @@
       "title": "Software Engineering Manager - HealthKit",
       "url": "https://jobs.apple.com/en-us/details/200652682-3543/software-engineering-manager-healthkit?team=SFTWR",
       "identifier": "Software Engineering Manager - HealthKit_g-manager-healthkit?team=SFTWR"
-    },
-    {
-      "title": "Senior Software Engineer - System Experience Personalization",
-      "url": "https://jobs.apple.com/en-us/details/200601461-0836/senior-software-engineer-system-experience-personalization?team=SFTWR",
-      "identifier": "Senior Software Engineer - System Experience Perso_nce-personalization?team=SFTWR"
-    },
-    {
-      "title": "Data Engineer (Agentic AI, LLM Training), G&A Solutions Engineering (GSE)",
-      "url": "https://jobs.apple.com/en-us/details/200651345-0157/data-engineer-agentic-ai-llm-training-g-a-solutions-engineering-gse?team=SFTWR",
-      "identifier": "Data Engineer (Agentic AI, LLM Training), G&A Solu_ons-engineering-gse?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-24T16:37:45.804746"
+  "timestamp": "2026-03-24T16:55:10.515274"
 }

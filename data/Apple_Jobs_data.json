@@ -4,6 +4,16 @@
   "total_jobs": 18,
   "jobs": [
     {
+      "title": "Machine Learning Engineer, Apple Services Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200651733-2459/machine-learning-engineer-apple-services-engineering?team=SFTWR",
+      "identifier": "Machine Learning Engineer, Apple Services Engineer_ervices-engineering?team=SFTWR"
+    },
+    {
+      "title": "Machine Learning Engineer, Computer Vision - Strategic Data Solutions",
+      "url": "https://jobs.apple.com/en-us/details/200652434-0157/machine-learning-engineer-computer-vision-strategic-data-solutions?team=MLAI",
+      "identifier": "Machine Learning Engineer, Computer Vision - Strat_tegic-data-solutions?team=MLAI"
+    },
+    {
       "title": "AR/VR Applications Engineer - Photos, Vision Products Software",
       "url": "https://jobs.apple.com/en-us/details/200653477-3401/ar-vr-applications-engineer-photos-vision-products-software?team=SFTWR",
       "identifier": "AR/VR Applications Engineer - Photos, Vision Produ_n-products-software?team=SFTWR"
@@ -82,18 +92,8 @@
       "title": "Administrative Assistant - Apple Maps and Find My",
       "url": "https://jobs.apple.com/en-us/details/200642664-0836/administrative-assistant-apple-maps-and-find-my?team=SFTWR",
       "identifier": "Administrative Assistant - Apple Maps and Find My_le-maps-and-find-my?team=SFTWR"
-    },
-    {
-      "title": "Data Engineer - AIML Evaluation",
-      "url": "https://jobs.apple.com/en-us/details/200653246-3337/data-engineer-aiml-evaluation?team=SFTWR",
-      "identifier": "Data Engineer - AIML Evaluation_eer-aiml-evaluation?team=SFTWR"
-    },
-    {
-      "title": "Senior Computer Vision and Machine Learning Engineer, Creator Studio",
-      "url": "https://jobs.apple.com/en-us/details/200653242-0836/senior-computer-vision-and-machine-learning-engineer-creator-studio?team=SFTWR",
-      "identifier": "Senior Computer Vision and Machine Learning Engine_neer-creator-studio?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-24T19:58:23.307092"
+  "timestamp": "2026-03-24T20:15:36.520607"
 }

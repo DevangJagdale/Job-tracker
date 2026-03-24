@@ -4,6 +4,11 @@
   "total_jobs": 18,
   "jobs": [
     {
+      "title": "Software Engineer - Machine Translation Automation",
+      "url": "https://jobs.apple.com/en-us/details/200651662-3337/software-engineer-machine-translation-automation?team=MLAI",
+      "identifier": "Software Engineer - Machine Translation Automation_anslation-automation?team=MLAI"
+    },
+    {
       "title": "AR/VR Applications Engineer - Photos, Vision Products Software",
       "url": "https://jobs.apple.com/en-us/details/200653477-3401/ar-vr-applications-engineer-photos-vision-products-software?team=SFTWR",
       "identifier": "AR/VR Applications Engineer - Photos, Vision Produ_n-products-software?team=SFTWR"
@@ -87,13 +92,8 @@
       "title": "Software Engineer - Family Services- iCloud",
       "url": "https://jobs.apple.com/en-us/details/200653320-3543/software-engineer-family-services-icloud?team=SFTWR",
       "identifier": "Software Engineer - Family Services- iCloud_ily-services-icloud?team=SFTWR"
-    },
-    {
-      "title": "Director of Software Engineering, Comms Apps Teams",
-      "url": "https://jobs.apple.com/en-us/details/200631981-0836/director-of-software-engineering-comms-apps-teams?team=SFTWR",
-      "identifier": "Director of Software Engineering, Comms Apps Teams_ng-comms-apps-teams?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-24T23:25:12.646916"
+  "timestamp": "2026-03-24T23:42:22.273749"
 }

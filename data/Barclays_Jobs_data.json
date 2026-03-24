@@ -1,7 +1,7 @@
 {
   "page_title": "Search our Job Opportunities at Barclays",
   "url": "https://search.jobs.barclays/search-jobs/United%20States/13015/2/6252001/39x76/-98x5/50/2",
-  "total_jobs": 14,
+  "total_jobs": 15,
   "jobs": [
     {
       "title": "Liquid Finance Streaming Architect",
@@ -32,11 +32,6 @@
       "title": "Senior Product Taxonomy Project Manager \u2013 VP",
       "url": "https://search.jobs.barclays/job/whippany/senior-product-taxonomy-project-manager-vp/13015/93117463824",
       "identifier": "Senior Product Taxonomy Project Manager \u2013 VP_t-manager-vp/13015/93117463824"
-    },
-    {
-      "title": "VP - Prime Relationship Management",
-      "url": "https://search.jobs.barclays/job/new-york/vp-prime-relationship-management/13015/93117455808",
-      "identifier": "VP - Prime Relationship Management_p-management/13015/93117455808"
     },
     {
       "title": "Incremental-AI BA/PM",
@@ -72,8 +67,18 @@
       "title": "US Liquidity Reporting Lead",
       "url": "https://search.jobs.barclays/job/new-york/us-liquidity-reporting-lead/13015/92974421040",
       "identifier": "US Liquidity Reporting Lead_porting-lead/13015/92974421040"
+    },
+    {
+      "title": "Director Retail Partnerships",
+      "url": "https://search.jobs.barclays/job/wilmington/director-retail-partnerships/13015/92962120832",
+      "identifier": "Director Retail Partnerships_partnerships/13015/92962120832"
+    },
+    {
+      "title": "Market Data Commercial Owner - VP",
+      "url": "https://search.jobs.barclays/job/new-york/market-data-commercial-owner-vp/13015/92936724464",
+      "identifier": "Market Data Commercial Owner - VP_ial-owner-vp/13015/92936724464"
     }
   ],
-  "job_count_text": "99",
-  "timestamp": "2026-03-24T23:24:39.978163"
+  "job_count_text": "97",
+  "timestamp": "2026-03-24T23:41:49.375518"
 }

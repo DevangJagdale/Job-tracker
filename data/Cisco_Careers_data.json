@@ -4,14 +4,29 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Sales Development Representative I (Full Time) United States",
-      "url": "https://careers.cisco.com/global/en/job/2000767/Sales-Development-Representative-I-Full-Time-United-States",
-      "identifier": "Sales Development Representative I (Full Time) Uni_tive-I-Full-Time-United-States"
+      "title": "Account Development Representative II (Full Time) United States",
+      "url": "https://careers.cisco.com/global/en/job/2001887/Account-Development-Representative-II-Full-Time-United-States",
+      "identifier": "Account Development Representative II (Full Time) _ive-II-Full-Time-United-States"
     },
     {
-      "title": "Sales Development Representative II (Full Time) United States",
-      "url": "https://careers.cisco.com/global/en/job/2000676/Sales-Development-Representative-II-Full-Time-United-States",
-      "identifier": "Sales Development Representative II (Full Time) Un_ive-II-Full-Time-United-States"
+      "title": "Global Supply Chain RISE Rotational Program I (Full Time) - United States",
+      "url": "https://careers.cisco.com/global/en/job/2011309/Global-Supply-Chain-RISE-Rotational-Program-I-Full-Time-United-States",
+      "identifier": "Global Supply Chain RISE Rotational Program I (Ful_gram-I-Full-Time-United-States"
+    },
+    {
+      "title": "Software Engineer II (Full Time) \u2013 Devices Technology Group \u2013 United States",
+      "url": "https://careers.cisco.com/global/en/job/2011259/Software-Engineer-II-Full-Time-Devices-Technology-Group-United-States",
+      "identifier": "Software Engineer II (Full Time) \u2013 Devices Technol_Technology-Group-United-States"
+    },
+    {
+      "title": "Software Engineer I (Full Time) \u2013 Devices Technology Group \u2013 United States",
+      "url": "https://careers.cisco.com/global/en/job/2011256/Software-Engineer-I-Full-Time-Devices-Technology-Group-United-States",
+      "identifier": "Software Engineer I (Full Time) \u2013 Devices Technolo_Technology-Group-United-States"
+    },
+    {
+      "title": "Data Science Analyst I (Full Time) - United States",
+      "url": "https://careers.cisco.com/global/en/job/2007519/Data-Science-Analyst-I-Full-Time-United-States",
+      "identifier": "Data Science Analyst I (Full Time) - United States_lyst-I-Full-Time-United-States"
     },
     {
       "title": "Customer Experience Project Specialist I (Full-Time) - United States",
@@ -19,29 +34,14 @@
       "identifier": "Customer Experience Project Specialist I (Full-Tim_list-I-Full-Time-United-States"
     },
     {
-      "title": "Software Engineer Embedded/Network Systems I (Full Time) - United States",
-      "url": "https://careers.cisco.com/global/en/job/2000081/Software-Engineer-Embedded-Network-Systems-I-Full-Time-United-States",
-      "identifier": "Software Engineer Embedded/Network Systems I (Full_tems-I-Full-Time-United-States"
+      "title": "Business Analyst I (Full Time) United States",
+      "url": "https://careers.cisco.com/global/en/job/2000125/Business-Analyst-I-Full-Time-United-States",
+      "identifier": "Business Analyst I (Full Time) United States_lyst-I-Full-Time-United-States"
     },
     {
-      "title": "Software Engineer Full Stack & Application Development I (Full Time) \u2013 United States",
-      "url": "https://careers.cisco.com/global/en/job/2000087/Software-Engineer-Full-Stack-Application-Development-I-Full-Time-United-States",
-      "identifier": "Software Engineer Full Stack & Application Develop_ment-I-Full-Time-United-States"
-    },
-    {
-      "title": "Software Engineer Security & Automation II (Full Time) \u2013 United States",
-      "url": "https://careers.cisco.com/global/en/job/2000090/Software-Engineer-Security-Automation-II-Full-Time-United-States",
-      "identifier": "Software Engineer Security & Automation II (Full T_ion-II-Full-Time-United-States"
-    },
-    {
-      "title": "Software Engineer Backend/Platform Systems I (Full Time) \u2013 United States",
-      "url": "https://careers.cisco.com/global/en/job/2000046/Software-Engineer-Backend-Platform-Systems-I-Full-Time-United-States",
-      "identifier": "Software Engineer Backend/Platform Systems I (Full_tems-I-Full-Time-United-States"
-    },
-    {
-      "title": "Software Engineer Embedded/Network Systems II (Full Time) - United States",
-      "url": "https://careers.cisco.com/global/en/job/2000131/Software-Engineer-Embedded-Network-Systems-II-Full-Time-United-States",
-      "identifier": "Software Engineer Embedded/Network Systems II (Ful_ems-II-Full-Time-United-States"
+      "title": "DevOps Engineer II (Full-Time) - United States",
+      "url": "https://careers.cisco.com/global/en/job/2008084/DevOps-Engineer-II-Full-Time-United-States",
+      "identifier": "DevOps Engineer II (Full-Time) - United States_eer-II-Full-Time-United-States"
     },
     {
       "title": "Software Engineer Backend/Platform Systems II (Full Time) \u2013 United States",
@@ -49,11 +49,11 @@
       "identifier": "Software Engineer Backend/Platform Systems II (Ful_ems-II-Full-Time-United-States"
     },
     {
-      "title": "Software Engineer Data/AI/Intelligent Systems II (Full Time) \u2013 United States",
-      "url": "https://careers.cisco.com/global/en/job/2000137/Software-Engineer-Data-AI-Intelligent-Systems-II-Full-Time-United-States",
-      "identifier": "Software Engineer Data/AI/Intelligent Systems II (_ems-II-Full-Time-United-States"
+      "title": "Sales Development Representative II (Full Time) United States (Virtual Demand Center) - United States",
+      "url": "https://careers.cisco.com/global/en/job/2008662/Sales-Development-Representative-II-Full-Time-United-States-Virtual-Demand-Center-United-States",
+      "identifier": "Sales Development Representative II (Full Time) Un_al-Demand-Center-United-States"
     }
   ],
   "job_count_text": "30",
-  "timestamp": "2026-03-24T15:08:20.476078"
+  "timestamp": "2026-03-24T15:26:42.333984"
 }

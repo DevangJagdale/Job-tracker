@@ -4,16 +4,6 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "New College Grad - Software Development Engineer\nBoise, Idaho, United States of America\nPosted 2 days ago",
-      "url": "https://careers.micron.com/careers/job/40915332",
-      "identifier": "New College Grad - Software Development Engineer\nB_icron.com/careers/job/40915332"
-    },
-    {
-      "title": "Engineer - Operations Improvement\nBoise, Idaho, United States of America\nPosted 2 days ago",
-      "url": "https://careers.micron.com/careers/job/40899085",
-      "identifier": "Engineer - Operations Improvement\nBoise, Idaho, Un_icron.com/careers/job/40899085"
-    },
-    {
       "title": "Software Development Engineer\nBoise, Idaho, United States of America\nPosted 2 days ago",
       "url": "https://careers.micron.com/careers/job/40899228",
       "identifier": "Software Development Engineer\nBoise, Idaho, United_icron.com/careers/job/40899228"
@@ -32,6 +22,16 @@
       "title": "Shift Process Engineer ID1\nBoise, Idaho, United States of America\nPosted 2 days ago",
       "url": "https://careers.micron.com/careers/job/39688071",
       "identifier": "Shift Process Engineer ID1\nBoise, Idaho, United St_icron.com/careers/job/39688071"
+    },
+    {
+      "title": "Engineer - Operations Improvement\nBoise, Idaho, United States of America\nPosted 2 days ago",
+      "url": "https://careers.micron.com/careers/job/40899085",
+      "identifier": "Engineer - Operations Improvement\nBoise, Idaho, Un_icron.com/careers/job/40899085"
+    },
+    {
+      "title": "New College Grad - Software Development Engineer\nBoise, Idaho, United States of America\nPosted 2 days ago",
+      "url": "https://careers.micron.com/careers/job/40915332",
+      "identifier": "New College Grad - Software Development Engineer\nB_icron.com/careers/job/40915332"
     },
     {
       "title": "Process Technician - PI Overall Process\nBoise, Idaho, United States of America\nPosted 5 days ago",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "73",
-  "timestamp": "2026-03-24T12:19:06.144435"
+  "timestamp": "2026-03-24T12:36:14.788410"
 }

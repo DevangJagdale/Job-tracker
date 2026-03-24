@@ -1,20 +1,25 @@
 {
   "page_title": "| Microsoft Careers",
   "url": "https://apply.careers.microsoft.com/careers?domain=microsoft.com&start=0&location=United+States&sort_by=timestamp&filter_include_remote=1&filter_profession=software+engineering%2Cresearch%252C%2520applied%252C%2520%2526%2520data%2520sciences",
-  "total_jobs": 8,
+  "total_jobs": 9,
   "jobs": [
     {
-      "title": "Senior Applied Scientist\nUnited States, Washington, Redmond\nPosted 19 minutes ago",
+      "title": "Senior Software Engineer - C++\nUnited States, Washington, Redmond\nPosted 15 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556653243?domain=microsoft.com",
+      "identifier": "Senior Software Engineer - C++\nUnited States, Wash_556653243?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Applied Scientist\nUnited States, Washington, Redmond\nPosted 38 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556824823?domain=microsoft.com",
       "identifier": "Senior Applied Scientist\nUnited States, Washington_556824823?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 31 minutes ago",
+      "title": "Senior Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556754213?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Multiple L_556754213?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer - CTJ - Poly\nUnited States, Washington, Redmond + 1 more\nPosted 42 minutes ago",
+      "title": "Senior Software Engineer - CTJ - Poly\nUnited States, Washington, Redmond + 1 more\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556654030?domain=microsoft.com",
       "identifier": "Senior Software Engineer - CTJ - Poly\nUnited State_556654030?domain=microsoft.com"
     },
@@ -45,5 +50,5 @@
     }
   ],
   "job_count_text": "822",
-  "timestamp": "2026-03-24T15:43:03.877682"
+  "timestamp": "2026-03-24T16:02:01.251000"
 }

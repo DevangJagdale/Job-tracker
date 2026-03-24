@@ -1,7 +1,7 @@
 {
   "page_title": "Search for Jobs",
   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite?locationCountry=bc33aa3152ec42d4995f4791a106ed09&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&workerSubType=ab40a98049581037a3ada55b087049b7",
-  "total_jobs": 19,
+  "total_jobs": 17,
   "jobs": [
     {
       "title": "SoC ASIC Verification Engineer \u2013 New College Grad 2026",
@@ -22,11 +22,6 @@
       "title": "Senior Systems Software Engineer - New College Grad 2026",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-OR-Hillsboro/Senior-Systems-Software-Engineer---New-College-Grad-2026_JR2015144-1?locationCountry=bc33aa3152ec42d4995f4791a106ed09&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&workerSubType=ab40a98049581037a3ada55b087049b7",
       "identifier": "Senior Systems Software Engineer - New College Gra_40a98049581037a3ada55b087049b7"
-    },
-    {
-      "title": "Infrastructure and Build Systems Engineer - New College Grad 2026",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Infrastructure-and-Build-Systems-Engineer---New-College-Grad-2026_JR2015069?locationCountry=bc33aa3152ec42d4995f4791a106ed09&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&workerSubType=ab40a98049581037a3ada55b087049b7",
-      "identifier": "Infrastructure and Build Systems Engineer - New Co_40a98049581037a3ada55b087049b7"
     },
     {
       "title": "Field Application Engineer - New College Graduate 2026",
@@ -52,11 +47,6 @@
       "title": "Silicon Co-Design Engineer - New College Grad 2026",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Silicon-Co-Design-Engineer---New-College-Grad-2026_JR2014451?locationCountry=bc33aa3152ec42d4995f4791a106ed09&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&workerSubType=ab40a98049581037a3ada55b087049b7",
       "identifier": "Silicon Co-Design Engineer - New College Grad 2026_40a98049581037a3ada55b087049b7"
-    },
-    {
-      "title": "Deep Learning Architect, LLM Inference - New College Grad 2026",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Architect--LLM-Inference---New-College-Grad-2026_JR2014368?locationCountry=bc33aa3152ec42d4995f4791a106ed09&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&workerSubType=ab40a98049581037a3ada55b087049b7",
-      "identifier": "Deep Learning Architect, LLM Inference - New Colle_40a98049581037a3ada55b087049b7"
     },
     {
       "title": "Software Development Engineer in Test, Graphics - New College Grad 2026",
@@ -99,6 +89,6 @@
       "identifier": "Deep Learning Performance Architect - New College _40a98049581037a3ada55b087049b7"
     }
   ],
-  "job_count_text": "57",
-  "timestamp": "2026-03-24T20:20:41.497610"
+  "job_count_text": "56",
+  "timestamp": "2026-03-24T20:37:52.689370"
 }

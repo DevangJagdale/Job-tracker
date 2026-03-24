@@ -1,15 +1,30 @@
 {
   "page_title": "| Microsoft Careers",
   "url": "https://apply.careers.microsoft.com/careers?domain=microsoft.com&start=0&location=United+States&sort_by=timestamp&filter_include_remote=1&filter_profession=software+engineering%2Cresearch%252C%2520applied%252C%2520%2526%2520data%2520sciences",
-  "total_jobs": 10,
+  "total_jobs": 9,
   "jobs": [
     {
-      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 11 minutes ago",
+      "title": "Senior Software Engineer\nUnited States, California, Santa Clara\nPosted 14 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556638278?domain=microsoft.com",
+      "identifier": "Senior Software Engineer\nUnited States, California_556638278?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Software Engineer - Networking / RDMA\nUnited States, California, Santa Clara\nPosted 16 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556620906?domain=microsoft.com",
+      "identifier": "Senior Software Engineer - Networking / RDMA\nUnite_556620906?domain=microsoft.com"
+    },
+    {
+      "title": "Principal, DPU Security, Manager\nUnited States, California, Santa Clara + 1 more\nPosted 17 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556752644?domain=microsoft.com",
+      "identifier": "Principal, DPU Security, Manager\nUnited States, Ca_556752644?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 28 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556850824?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Washington_556850824?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 15 minutes ago",
+      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 32 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556851183?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Washington_556851183?domain=microsoft.com"
     },
@@ -32,28 +47,8 @@
       "title": "Principal Software Engineer\nUnited States, Multiple Locations, Multiple Locations + 1 more\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556752154?domain=microsoft.com",
       "identifier": "Principal Software Engineer\nUnited States, Multipl_556752154?domain=microsoft.com"
-    },
-    {
-      "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted an hour ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556652497?domain=microsoft.com",
-      "identifier": "Principal Software Engineer\nUnited States, Washing_556652497?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Software Engineer - Azure Storage\nUnited States, Multiple Locations, Multiple Locations\nPosted an hour ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556640659?domain=microsoft.com",
-      "identifier": "Senior Software Engineer - Azure Storage\nUnited St_556640659?domain=microsoft.com"
-    },
-    {
-      "title": "Principal Software Engineering Manager - Substrate- CTJ- Secret (Cleared Environments)\nUnited States, Washington, Redmond\nPosted an hour ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556851545?domain=microsoft.com",
-      "identifier": "Principal Software Engineering Manager - Substrate_556851545?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Software Engineer - Backend\nUnited States, Washington, Redmond\nPosted an hour ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556850647?domain=microsoft.com",
-      "identifier": "Senior Software Engineer - Backend\nUnited States, _556850647?domain=microsoft.com"
     }
   ],
-  "job_count_text": "828",
-  "timestamp": "2026-03-24T20:15:20.413910"
+  "job_count_text": "831",
+  "timestamp": "2026-03-24T20:32:34.083230"
 }

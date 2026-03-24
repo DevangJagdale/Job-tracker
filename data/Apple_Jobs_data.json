@@ -4,6 +4,16 @@
   "total_jobs": 18,
   "jobs": [
     {
+      "title": "Senior Detection Creation Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200653006-3337/senior-detection-creation-engineer?team=SFTWR",
+      "identifier": "Senior Detection Creation Engineer_n-creation-engineer?team=SFTWR"
+    },
+    {
+      "title": "AIML - Sr Machine Learning Engineer, Modeling Evaluation & Data",
+      "url": "https://jobs.apple.com/en-us/details/200653465-0836/aiml-sr-machine-learning-engineer-modeling-evaluation-data?team=MLAI",
+      "identifier": "AIML - Sr Machine Learning Engineer, Modeling Eval_ling-evaluation-data?team=MLAI"
+    },
+    {
       "title": "Machine Learning Engineer, Apple Services Engineering",
       "url": "https://jobs.apple.com/en-us/details/200651733-2459/machine-learning-engineer-apple-services-engineering?team=SFTWR",
       "identifier": "Machine Learning Engineer, Apple Services Engineer_ervices-engineering?team=SFTWR"
@@ -82,18 +92,8 @@
       "title": "Traffic and Secure Services Network SRE Engineer",
       "url": "https://jobs.apple.com/en-us/details/200649032-0836/traffic-and-secure-services-network-sre-engineer?team=SFTWR",
       "identifier": "Traffic and Secure Services Network SRE Engineer_etwork-sre-engineer?team=SFTWR"
-    },
-    {
-      "title": "HomeKit Software Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200653266-0836/homekit-software-engineer?team=SFTWR",
-      "identifier": "HomeKit Software Engineer_t-software-engineer?team=SFTWR"
-    },
-    {
-      "title": "Administrative Assistant - Apple Maps and Find My",
-      "url": "https://jobs.apple.com/en-us/details/200642664-0836/administrative-assistant-apple-maps-and-find-my?team=SFTWR",
-      "identifier": "Administrative Assistant - Apple Maps and Find My_le-maps-and-find-my?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-24T20:15:36.520607"
+  "timestamp": "2026-03-24T20:32:50.379655"
 }

@@ -1,7 +1,7 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 17,
+  "total_jobs": 16,
   "jobs": [
     {
       "title": "Xcode Intelligence Foundation Engineer",
@@ -82,13 +82,8 @@
       "title": "Camera Imaging Software Engineer",
       "url": "https://jobs.apple.com/en-us/details/200653138-0836/camera-imaging-software-engineer?team=SFTWR",
       "identifier": "Camera Imaging Software Engineer_g-software-engineer?team=SFTWR"
-    },
-    {
-      "title": "Senior Realtime Rendering and Graphics Software Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200645831-0836/senior-realtime-rendering-and-graphics-software-engineer?team=SFTWR",
-      "identifier": "Senior Realtime Rendering and Graphics Software En_s-software-engineer?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-25T01:32:53.275992"
+  "timestamp": "2026-03-25T01:49:59.265086"
 }

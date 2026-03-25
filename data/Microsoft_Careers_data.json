@@ -4,24 +4,29 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 18 minutes ago",
+      "title": "Principal Supercomputing Operations Engineering Manager\nUnited States, Multiple Locations, Multiple Locations\nPosted 21 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556761682?domain=microsoft.com",
+      "identifier": "Principal Supercomputing Operations Engineering Ma_556761682?domain=microsoft.com"
+    },
+    {
+      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 27 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556802649?domain=microsoft.com",
+      "identifier": "Software Engineer II\nUnited States, Washington, Re_556802649?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 36 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556851529?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Washington_556851529?domain=microsoft.com"
     },
     {
-      "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted 23 minutes ago",
+      "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted 40 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556751374?domain=microsoft.com",
       "identifier": "Principal Software Engineer\nUnited States, Washing_556751374?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 23 minutes ago",
+      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 41 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556750009?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Washington_556750009?domain=microsoft.com"
-    },
-    {
-      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 30 minutes ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556745599?domain=microsoft.com",
-      "identifier": "Software Engineer II\nUnited States, Washington, Re_556745599?domain=microsoft.com"
     },
     {
       "title": "Principal Supercomputing Operations Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted an hour ago",
@@ -47,13 +52,8 @@
       "title": "Software Engineer 2 - AI\nUnited States, Washington, Redmond\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556803651?domain=microsoft.com",
       "identifier": "Software Engineer 2 - AI\nUnited States, Washington_556803651?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Applied Scientist\nUnited States, Washington, Redmond\nPosted an hour ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556639601?domain=microsoft.com",
-      "identifier": "Senior Applied Scientist\nUnited States, Washington_556639601?domain=microsoft.com"
     }
   ],
-  "job_count_text": "830",
-  "timestamp": "2026-03-25T20:05:52.551459"
+  "job_count_text": "831",
+  "timestamp": "2026-03-25T20:23:17.019234"
 }

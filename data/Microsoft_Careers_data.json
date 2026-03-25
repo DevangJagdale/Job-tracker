@@ -4,29 +4,29 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Principal Data Scientist\nUnited States, Washington, Redmond + 1 more\nPosted 11 minutes ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556755023?domain=microsoft.com",
-      "identifier": "Principal Data Scientist\nUnited States, Washington_556755023?domain=microsoft.com"
-    },
-    {
-      "title": "Principal Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 7 minutes ago",
+      "title": "Principal Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 24 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556851517?domain=microsoft.com",
       "identifier": "Principal Software Engineer\nUnited States, Multipl_556851517?domain=microsoft.com"
     },
     {
-      "title": "Member of Technical Staff - Data Infrastructure Manager - Microsoft AI - Copilot\nUnited States, New York, New York + 2 more\nPosted 40 minutes ago",
+      "title": "Principal Data Scientist\nUnited States, Washington, Redmond + 1 more\nPosted 28 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556755023?domain=microsoft.com",
+      "identifier": "Principal Data Scientist\nUnited States, Washington_556755023?domain=microsoft.com"
+    },
+    {
+      "title": "Member of Technical Staff - Data Infrastructure Manager - Microsoft AI - Copilot\nUnited States, New York, New York + 2 more\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556852432?domain=microsoft.com",
       "identifier": "Member of Technical Staff - Data Infrastructure Ma_556852432?domain=microsoft.com"
     },
     {
-      "title": "Principal Applied Scientist\nUnited States, Washington, Redmond + 1 more\nPosted 42 minutes ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556851584?domain=microsoft.com",
-      "identifier": "Principal Applied Scientist\nUnited States, Washing_556851584?domain=microsoft.com"
-    },
-    {
-      "title": "Software Engineer II - M365 Copilot App\nUnited States, California, Mountain View\nPosted 42 minutes ago",
+      "title": "Software Engineer II - M365 Copilot App\nUnited States, California, Mountain View\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556852850?domain=microsoft.com",
       "identifier": "Software Engineer II - M365 Copilot App\nUnited Sta_556852850?domain=microsoft.com"
+    },
+    {
+      "title": "Principal Applied Scientist\nUnited States, Washington, Redmond + 1 more\nPosted an hour ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556851584?domain=microsoft.com",
+      "identifier": "Principal Applied Scientist\nUnited States, Washing_556851584?domain=microsoft.com"
     },
     {
       "title": "Senior Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted an hour ago",
@@ -54,6 +54,6 @@
       "identifier": "Principal Supercomputing Operations Engineering Ma_556761682?domain=microsoft.com"
     }
   ],
-  "job_count_text": "840",
-  "timestamp": "2026-03-25T21:32:09.314025"
+  "job_count_text": "839",
+  "timestamp": "2026-03-25T21:49:17.371987"
 }

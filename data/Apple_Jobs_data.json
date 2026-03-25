@@ -4,14 +4,19 @@
   "total_jobs": 17,
   "jobs": [
     {
+      "title": "Software QA Engineer- Automation, Siri",
+      "url": "https://jobs.apple.com/en-us/details/200633462-0836/software-qa-engineer-automation-siri?team=SFTWR",
+      "identifier": "Software QA Engineer- Automation, Siri_eer-automation-siri?team=SFTWR"
+    },
+    {
+      "title": "Senior Software Engineer \u2014 Full Stack (Node.js/TypeScript/functional)",
+      "url": "https://jobs.apple.com/en-us/details/200653511-0157/senior-software-engineer-full-stack-node-js-typescript-functional?team=SFTWR",
+      "identifier": "Senior Software Engineer \u2014 Full Stack (Node.js/Typ_pescript-functional?team=SFTWR"
+    },
+    {
       "title": "watchOS Software QA Engineer",
       "url": "https://jobs.apple.com/en-us/details/200653144-0836/watchos-software-qa-engineer?team=SFTWR",
       "identifier": "watchOS Software QA Engineer_oftware-qa-engineer?team=SFTWR"
-    },
-    {
-      "title": "Software QA Engineer, Siri",
-      "url": "https://jobs.apple.com/en-us/details/200633462-0836/software-qa-engineer-siri?team=SFTWR",
-      "identifier": "Software QA Engineer, Siri_re-qa-engineer-siri?team=SFTWR"
     },
     {
       "title": "Senior Infrastructure SRE, Object Storage",
@@ -82,13 +87,8 @@
       "title": "Lead: Strategy, Analytics & Monetization, Apple Maps",
       "url": "https://jobs.apple.com/en-us/details/200652764-0836/lead-strategy-analytics-monetization-apple-maps?team=SFTWR",
       "identifier": "Lead: Strategy, Analytics & Monetization, Apple Ma_tization-apple-maps?team=SFTWR"
-    },
-    {
-      "title": "Senior ML Data Engineer, ISE",
-      "url": "https://jobs.apple.com/en-us/details/200632081-3401/senior-ml-data-engineer-ise?team=SFTWR",
-      "identifier": "Senior ML Data Engineer, ISE_l-data-engineer-ise?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-25T21:32:25.429909"
+  "timestamp": "2026-03-25T21:49:33.027830"
 }

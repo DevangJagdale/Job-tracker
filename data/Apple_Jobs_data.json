@@ -4,6 +4,21 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Certification Engineering Program Manager",
+      "url": "https://jobs.apple.com/en-us/details/200653574-0836/certification-engineering-program-manager?team=SFTWR",
+      "identifier": "Certification Engineering Program Manager_ing-program-manager?team=SFTWR"
+    },
+    {
+      "title": "Organizational Program Manager, Apple Services Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200652426-0836/organizational-program-manager-apple-services-engineering?team=SFTWR",
+      "identifier": "Organizational Program Manager, Apple Services Eng_ervices-engineering?team=SFTWR"
+    },
+    {
+      "title": "ISE, Incubation - Software Development Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200649720-0836/ise-incubation-software-development-engineer?team=SFTWR",
+      "identifier": "ISE, Incubation - Software Development Engineer_evelopment-engineer?team=SFTWR"
+    },
+    {
       "title": "Manager, Central Quality Automation - Apple Services Engineering",
       "url": "https://jobs.apple.com/en-us/details/200653167-0836/manager-central-quality-automation-apple-services-engineering?team=SFTWR",
       "identifier": "Manager, Central Quality Automation - Apple Servic_ervices-engineering?team=SFTWR"
@@ -67,23 +82,8 @@
       "title": "Sr. Ruby on Rails Engineer, Apple Services Engineering",
       "url": "https://jobs.apple.com/en-us/details/200653298-3577/sr-ruby-on-rails-engineer-apple-services-engineering?team=SFTWR",
       "identifier": "Sr. Ruby on Rails Engineer, Apple Services Enginee_ervices-engineering?team=SFTWR"
-    },
-    {
-      "title": "Senior Detection Creation Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200653006-3337/senior-detection-creation-engineer?team=SFTWR",
-      "identifier": "Senior Detection Creation Engineer_n-creation-engineer?team=SFTWR"
-    },
-    {
-      "title": "Machine Learning Engineer, Apple Services Engineering",
-      "url": "https://jobs.apple.com/en-us/details/200651733-2459/machine-learning-engineer-apple-services-engineering?team=SFTWR",
-      "identifier": "Machine Learning Engineer, Apple Services Engineer_ervices-engineering?team=SFTWR"
-    },
-    {
-      "title": "Machine Learning Engineer, Computer Vision - Strategic Data Solutions",
-      "url": "https://jobs.apple.com/en-us/details/200652434-0157/machine-learning-engineer-computer-vision-strategic-data-solutions?team=MLAI",
-      "identifier": "Machine Learning Engineer, Computer Vision - Strat_tegic-data-solutions?team=MLAI"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-25T17:31:03.117988"
+  "timestamp": "2026-03-25T17:48:10.996061"
 }

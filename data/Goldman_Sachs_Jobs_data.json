@@ -4,6 +4,11 @@
   "total_jobs": 20,
   "jobs": [
     {
+      "title": "Corporate Planning & Management Engineering, Associate\nDallas\u00b7United States\n\u00b7Associate",
+      "url": "https://higher.gs.com/roles/137803",
+      "identifier": "Corporate Planning & Management Engineering, Assoc_s://higher.gs.com/roles/137803"
+    },
+    {
       "title": "Asset & Wealth Management - Software Engineer - Analyst - New York\nNew York\u00b7United States\n\u00b7Analyst",
       "url": "https://higher.gs.com/roles/166075",
       "identifier": "Asset & Wealth Management - Software Engineer - An_s://higher.gs.com/roles/166075"
@@ -97,13 +102,8 @@
       "title": "Asset & Wealth Management - Data Engineer - Associate - New York\nNew York\u00b7United States\n\u00b7Associate",
       "url": "https://higher.gs.com/roles/163594",
       "identifier": "Asset & Wealth Management - Data Engineer - Associ_s://higher.gs.com/roles/163594"
-    },
-    {
-      "title": "Production Engineer, Global Banking & Markets, FICC Systematic Market Making (SMM)\nNew York\u00b7United States\n\u00b7Associate",
-      "url": "https://higher.gs.com/roles/162484",
-      "identifier": "Production Engineer, Global Banking & Markets, FIC_s://higher.gs.com/roles/162484"
     }
   ],
   "job_count_text": "55",
-  "timestamp": "2026-03-25T09:07:11.413469"
+  "timestamp": "2026-03-25T09:24:23.777949"
 }

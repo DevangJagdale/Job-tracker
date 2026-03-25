@@ -4,6 +4,11 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Lead: Strategy, Analytics & Monetization, Apple Maps",
+      "url": "https://jobs.apple.com/en-us/details/200652764-0836/lead-strategy-analytics-monetization-apple-maps?team=SFTWR",
+      "identifier": "Lead: Strategy, Analytics & Monetization, Apple Ma_tization-apple-maps?team=SFTWR"
+    },
+    {
       "title": "Senior ML Data Engineer, ISE",
       "url": "https://jobs.apple.com/en-us/details/200632081-3401/senior-ml-data-engineer-ise?team=SFTWR",
       "identifier": "Senior ML Data Engineer, ISE_l-data-engineer-ise?team=SFTWR"
@@ -77,13 +82,8 @@
       "title": "Data Engineer (Agentic AI, LLM Training), G&A Solutions Engineering (GSE)",
       "url": "https://jobs.apple.com/en-us/details/200653416-0157/data-engineer-agentic-ai-llm-training-g-a-solutions-engineering-gse?team=SFTWR",
       "identifier": "Data Engineer (Agentic AI, LLM Training), G&A Solu_ons-engineering-gse?team=SFTWR"
-    },
-    {
-      "title": "Sr Systems Engineer, Retail Demo Production",
-      "url": "https://jobs.apple.com/en-us/details/200652940-3956/sr-systems-engineer-retail-demo-production?team=SFTWR",
-      "identifier": "Sr Systems Engineer, Retail Demo Production_ail-demo-production?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-25T14:59:06.040385"
+  "timestamp": "2026-03-25T15:16:12.009563"
 }

@@ -1,8 +1,18 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 16,
+  "total_jobs": 17,
   "jobs": [
+    {
+      "title": "Senior Infrastructure SRE, Object Storage",
+      "url": "https://jobs.apple.com/en-us/details/200653315-3337/senior-infrastructure-sre-object-storage?team=SFTWR",
+      "identifier": "Senior Infrastructure SRE, Object Storage_-sre-object-storage?team=SFTWR"
+    },
+    {
+      "title": "Senior Site Reliability Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200630731-0836/senior-site-reliability-engineer?team=SFTWR",
+      "identifier": "Senior Site Reliability Engineer_eliability-engineer?team=SFTWR"
+    },
     {
       "title": "Software Engineer in Test, Device Management",
       "url": "https://jobs.apple.com/en-us/details/200621557-3543/software-engineer-in-test-device-management?team=SFTWR",
@@ -77,13 +87,8 @@
       "title": "Manager - WW Business Process Re-Engineering",
       "url": "https://jobs.apple.com/en-us/details/200653196-3956/manager-ww-business-process-re-engineering?team=OPMFG",
       "identifier": "Manager - WW Business Process Re-Engineering_cess-re-engineering?team=OPMFG"
-    },
-    {
-      "title": "Security Server Application Engineer, Enterprise Technology Services",
-      "url": "https://jobs.apple.com/en-us/details/200652003-3956/security-server-application-engineer-enterprise-technology-services?team=SFTWR",
-      "identifier": "Security Server Application Engineer, Enterprise T_technology-services?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-25T18:22:38.678970"
+  "timestamp": "2026-03-25T18:40:08.273336"
 }

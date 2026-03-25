@@ -14,11 +14,6 @@
       "identifier": "Senior Software Development Engineer_-Software-Development-Engineer"
     },
     {
-      "title": "Sr Mgr. Business Analyst",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0864469/Sr-Mgr-Business-Analyst",
-      "identifier": "Sr Mgr. Business Analyst_864469/Sr-Mgr-Business-Analyst"
-    },
-    {
       "title": "Staff Solutions Engineer - Manhattan Active Warehouse Management",
       "url": "https://jobs.cvshealth.com/us/en/job/R0859681/Staff-Solutions-Engineer-Manhattan-Active-Warehouse-Management",
       "identifier": "Staff Solutions Engineer - Manhattan Active Wareho_an-Active-Warehouse-Management"
@@ -29,14 +24,19 @@
       "identifier": "Senior Solutions Engineer - Manhattan Active Wareh_an-Active-Warehouse-Management"
     },
     {
-      "title": "Senior Manager - Agile Practice Management",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0861815/Senior-Manager-Agile-Practice-Management",
-      "identifier": "Senior Manager - Agile Practice Management_ager-Agile-Practice-Management"
+      "title": "Sr Mgr. Business Analyst",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0864469/Sr-Mgr-Business-Analyst",
+      "identifier": "Sr Mgr. Business Analyst_864469/Sr-Mgr-Business-Analyst"
     },
     {
       "title": "Technical Support Representative",
       "url": "https://jobs.cvshealth.com/us/en/job/R0864509/Technical-Support-Representative",
       "identifier": "Technical Support Representative_chnical-Support-Representative"
+    },
+    {
+      "title": "Senior Manager - Agile Practice Management",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0861815/Senior-Manager-Agile-Practice-Management",
+      "identifier": "Senior Manager - Agile Practice Management_ager-Agile-Practice-Management"
     },
     {
       "title": "SME ACAS Benefits Testing",
@@ -45,5 +45,5 @@
     }
   ],
   "job_count_text": "34",
-  "timestamp": "2026-03-25T16:43:24.517637"
+  "timestamp": "2026-03-25T17:03:19.324709"
 }

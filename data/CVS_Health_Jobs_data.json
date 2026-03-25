@@ -4,14 +4,24 @@
   "total_jobs": 8,
   "jobs": [
     {
-      "title": "Technical Support Representative",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0864509/Technical-Support-Representative",
-      "identifier": "Technical Support Representative_chnical-Support-Representative"
+      "title": "Senior Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0837880/Senior-Software-Development-Engineer",
+      "identifier": "Senior Software Development Engineer_-Software-Development-Engineer"
+    },
+    {
+      "title": "Manager - Client Operations (IC)",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0858895/Manager-Client-Operations-IC",
+      "identifier": "Manager - Client Operations (IC)_5/Manager-Client-Operations-IC"
     },
     {
       "title": "Senior Manager - Agile Practice Management",
       "url": "https://jobs.cvshealth.com/us/en/job/R0861815/Senior-Manager-Agile-Practice-Management",
       "identifier": "Senior Manager - Agile Practice Management_ager-Agile-Practice-Management"
+    },
+    {
+      "title": "Technical Support Representative",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0864509/Technical-Support-Representative",
+      "identifier": "Technical Support Representative_chnical-Support-Representative"
     },
     {
       "title": "SME ACAS Benefits Testing",
@@ -29,21 +39,11 @@
       "identifier": "Software Quality Automation Engineer_re-Quality-Automation-Engineer"
     },
     {
-      "title": "Store Hardware Technician",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0846748/Store-Hardware-Technician",
-      "identifier": "Store Hardware Technician_6748/Store-Hardware-Technician"
-    },
-    {
       "title": "Field Service Technician - Kansas City, MO",
       "url": "https://jobs.cvshealth.com/us/en/job/R0850699/Field-Service-Technician-Kansas-City-MO",
       "identifier": "Field Service Technician - Kansas City, MO_vice-Technician-Kansas-City-MO"
-    },
-    {
-      "title": "IT Customer Services Analyst",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0858292/IT-Customer-Services-Analyst",
-      "identifier": "IT Customer Services Analyst_2/IT-Customer-Services-Analyst"
     }
   ],
-  "job_count_text": "30",
-  "timestamp": "2026-03-25T14:08:43.097836"
+  "job_count_text": "31",
+  "timestamp": "2026-03-25T14:25:55.465424"
 }

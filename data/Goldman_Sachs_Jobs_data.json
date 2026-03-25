@@ -4,6 +4,21 @@
   "total_jobs": 20,
   "jobs": [
     {
+      "title": "Asset & Wealth Management - Software Engineer - Associate - New York\nNew York\u00b7United States\n\u00b7Associate",
+      "url": "https://higher.gs.com/roles/160510",
+      "identifier": "Asset & Wealth Management - Software Engineer - As_s://higher.gs.com/roles/160510"
+    },
+    {
+      "title": "Compliance, Dallas, Associate, Software Engineering\nDallas\u00b7United States\n\u00b7Associate",
+      "url": "https://higher.gs.com/roles/161807",
+      "identifier": "Compliance, Dallas, Associate, Software Engineerin_s://higher.gs.com/roles/161807"
+    },
+    {
+      "title": "Asset & Wealth Management - Web React Developer - Analyst - Richardson\nRichardson\u00b7United States\n\u00b7Analyst",
+      "url": "https://higher.gs.com/roles/154114",
+      "identifier": "Asset & Wealth Management - Web React Developer - _s://higher.gs.com/roles/154114"
+    },
+    {
       "title": "Asset & Wealth Management - Quantitative Strategist , ETF, New York, Associate\nNew York\u00b7United States\n\u00b7Associate",
       "url": "https://higher.gs.com/roles/165917",
       "identifier": "Asset & Wealth Management - Quantitative Strategis_s://higher.gs.com/roles/165917"
@@ -79,11 +94,6 @@
       "identifier": "Asset & Wealth Management - Software Engineer - As_s://higher.gs.com/roles/161282"
     },
     {
-      "title": "Asset & Wealth Management - Web React Developer - Analyst - Richardson\nRichardson\u00b7United States\n\u00b7Analyst",
-      "url": "https://higher.gs.com/roles/154114",
-      "identifier": "Asset & Wealth Management - Web React Developer - _s://higher.gs.com/roles/154114"
-    },
-    {
       "title": "Global Markets Trading Platform Engineering - GBM Public - Associate - Software Engineer - Dallas\nNew York\u00b7United States\n\u00b7Associate",
       "url": "https://higher.gs.com/roles/161601",
       "identifier": "Global Markets Trading Platform Engineering - GBM _s://higher.gs.com/roles/161601"
@@ -92,18 +102,8 @@
       "title": "Data Engineering - Market Data Engineering - Software Engineer - Associate - Dallas\nDallas\u00b7United States\n\u00b7Associate",
       "url": "https://higher.gs.com/roles/152750",
       "identifier": "Data Engineering - Market Data Engineering - Softw_s://higher.gs.com/roles/152750"
-    },
-    {
-      "title": "AI/ML Engineer, Global Banking & Markets, Investment Banking\nDallas\u00b7United States\n\u00b7Associate",
-      "url": "https://higher.gs.com/roles/161628",
-      "identifier": "AI/ML Engineer, Global Banking & Markets, Investme_s://higher.gs.com/roles/161628"
-    },
-    {
-      "title": "Asset & Wealth Management-Software Engineering- Margin- Associate-Dallas\nDallas\u00b7United States\n\u00b7Associate",
-      "url": "https://higher.gs.com/roles/160534",
-      "identifier": "Asset & Wealth Management-Software Engineering- Ma_s://higher.gs.com/roles/160534"
     }
   ],
   "job_count_text": "56",
-  "timestamp": "2026-03-25T13:49:44.926750"
+  "timestamp": "2026-03-25T14:06:51.119166"
 }

@@ -1,8 +1,13 @@
 {
   "page_title": "Search our Job Opportunities at Barclays",
   "url": "https://search.jobs.barclays/search-jobs/United%20States/13015/2/6252001/39x76/-98x5/50/2",
-  "total_jobs": 15,
+  "total_jobs": 16,
   "jobs": [
+    {
+      "title": "Development Lead",
+      "url": "https://search.jobs.barclays/job/whippany/development-lead/13015/93156171088",
+      "identifier": "Development Lead_lopment-lead/13015/93156171088"
+    },
     {
       "title": "Liquid Finance Streaming Architect",
       "url": "https://search.jobs.barclays/job/new-york/liquid-finance-streaming-architect/13015/93156155904",
@@ -79,6 +84,6 @@
       "identifier": "Network Infrastructure Engineer - VP_-engineer-vp/13015/92922787456"
     }
   ],
-  "job_count_text": "93",
-  "timestamp": "2026-03-25T11:25:02.515732"
+  "job_count_text": "91",
+  "timestamp": "2026-03-25T11:42:22.619696"
 }

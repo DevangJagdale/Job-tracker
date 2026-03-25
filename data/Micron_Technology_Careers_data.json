@@ -4,29 +4,29 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Product Manager\nBoise, Idaho, United States of America\nPosted 21 hours ago",
+      "title": "Product Manager\nBoise, Idaho, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/41063411",
       "identifier": "Product Manager\nBoise, Idaho, United States of Ame_icron.com/careers/job/41063411"
     },
     {
-      "title": "Engineer, IT MFG & TPG\nBoise, Idaho, United States of America\nPosted 21 hours ago",
+      "title": "Engineer, IT MFG & TPG\nBoise, Idaho, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/41025925",
       "identifier": "Engineer, IT MFG & TPG\nBoise, Idaho, United States_icron.com/careers/job/41025925"
     },
     {
-      "title": "Systems Software Engineer\nFolsom, California, United States of America\nPosted 21 hours ago",
+      "title": "Systems Software Engineer\nFolsom, California, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/41062686",
       "identifier": "Systems Software Engineer\nFolsom, California, Unit_icron.com/careers/job/41062686"
-    },
-    {
-      "title": "HBM SoC Design Engineer\nRichardson, Texas, United States of America + 1 more\nPosted 2 days ago",
-      "url": "https://careers.micron.com/careers/job/41044579",
-      "identifier": "HBM SoC Design Engineer\nRichardson, Texas, United _icron.com/careers/job/41044579"
     },
     {
       "title": "Product Development Engineer\nBoise, Idaho, United States of America\nPosted 2 days ago",
       "url": "https://careers.micron.com/careers/job/41040587",
       "identifier": "Product Development Engineer\nBoise, Idaho, United _icron.com/careers/job/41040587"
+    },
+    {
+      "title": "HBM SoC Design Engineer\nRichardson, Texas, United States of America + 1 more\nPosted 2 days ago",
+      "url": "https://careers.micron.com/careers/job/41044579",
+      "identifier": "HBM SoC Design Engineer\nRichardson, Texas, United _icron.com/careers/job/41044579"
     },
     {
       "title": "Software Development Engineer\nBoise, Idaho, United States of America\nPosted 3 days ago",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "74",
-  "timestamp": "2026-03-25T21:18:31.592171"
+  "timestamp": "2026-03-25T21:35:40.092737"
 }

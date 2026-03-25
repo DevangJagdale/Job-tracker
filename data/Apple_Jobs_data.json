@@ -4,6 +4,11 @@
   "total_jobs": 17,
   "jobs": [
     {
+      "title": "watchOS Software QA Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200653144-0836/watchos-software-qa-engineer?team=SFTWR",
+      "identifier": "watchOS Software QA Engineer_oftware-qa-engineer?team=SFTWR"
+    },
+    {
       "title": "Software QA Engineer, Siri",
       "url": "https://jobs.apple.com/en-us/details/200633462-0836/software-qa-engineer-siri?team=SFTWR",
       "identifier": "Software QA Engineer, Siri_re-qa-engineer-siri?team=SFTWR"
@@ -82,13 +87,8 @@
       "title": "Senior ML Data Engineer, ISE",
       "url": "https://jobs.apple.com/en-us/details/200632081-3401/senior-ml-data-engineer-ise?team=SFTWR",
       "identifier": "Senior ML Data Engineer, ISE_l-data-engineer-ise?team=SFTWR"
-    },
-    {
-      "title": "Software QA Automation Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200653565-0836/software-qa-automation-engineer?team=SFTWR",
-      "identifier": "Software QA Automation Engineer_automation-engineer?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-25T21:15:01.476606"
+  "timestamp": "2026-03-25T21:32:25.429909"
 }

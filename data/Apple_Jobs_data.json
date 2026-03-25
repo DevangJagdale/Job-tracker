@@ -4,6 +4,11 @@
   "total_jobs": 17,
   "jobs": [
     {
+      "title": "Senior Software Data Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200653743-3337/senior-software-data-engineer?team=SFTWR",
+      "identifier": "Senior Software Data Engineer_tware-data-engineer?team=SFTWR"
+    },
+    {
       "title": "Senior Infrastructure SRE, Object Storage",
       "url": "https://jobs.apple.com/en-us/details/200653315-3337/senior-infrastructure-sre-object-storage?team=SFTWR",
       "identifier": "Senior Infrastructure SRE, Object Storage_-sre-object-storage?team=SFTWR"
@@ -82,13 +87,8 @@
       "title": "AR/VR Applications Engineer - Photos, Vision Products Software",
       "url": "https://jobs.apple.com/en-us/details/200653477-3401/ar-vr-applications-engineer-photos-vision-products-software?team=SFTWR",
       "identifier": "AR/VR Applications Engineer - Photos, Vision Produ_n-products-software?team=SFTWR"
-    },
-    {
-      "title": "Manager - WW Business Process Re-Engineering",
-      "url": "https://jobs.apple.com/en-us/details/200653196-3956/manager-ww-business-process-re-engineering?team=OPMFG",
-      "identifier": "Manager - WW Business Process Re-Engineering_cess-re-engineering?team=OPMFG"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-25T19:49:00.503548"
+  "timestamp": "2026-03-25T20:06:08.554825"
 }

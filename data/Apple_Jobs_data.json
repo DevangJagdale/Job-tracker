@@ -4,6 +4,11 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Software Development Engineer in Test (SDET), Frameworks",
+      "url": "https://jobs.apple.com/en-us/details/200653801-0836/software-development-engineer-in-test-sdet-frameworks?team=SFTWR",
+      "identifier": "Software Development Engineer in Test (SDET), Fram_est-sdet-frameworks?team=SFTWR"
+    },
+    {
       "title": "Game Designer / Senior Game Designer, Apple Arcade",
       "url": "https://jobs.apple.com/en-us/details/200648596-0836/game-designer-senior-game-designer-apple-arcade?team=SFTWR",
       "identifier": "Game Designer / Senior Game Designer, Apple Arcade_signer-apple-arcade?team=SFTWR"
@@ -77,13 +82,8 @@
       "title": "Senior Data Scientist, ASE iCloud Data Organization",
       "url": "https://jobs.apple.com/en-us/details/200653217-3337/senior-data-scientist-ase-icloud-data-organization?team=SFTWR",
       "identifier": "Senior Data Scientist, ASE iCloud Data Organizatio_d-data-organization?team=SFTWR"
-    },
-    {
-      "title": "Software Integrity Engineer, Photos",
-      "url": "https://jobs.apple.com/en-us/details/200653661-0836/software-integrity-engineer-photos?team=SFTWR",
-      "identifier": "Software Integrity Engineer, Photos_ity-engineer-photos?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-25T23:06:22.091992"
+  "timestamp": "2026-03-25T23:23:40.104779"
 }

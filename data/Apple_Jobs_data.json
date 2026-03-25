@@ -4,6 +4,11 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Senior ML Data Engineer, ISE",
+      "url": "https://jobs.apple.com/en-us/details/200632081-3401/senior-ml-data-engineer-ise?team=SFTWR",
+      "identifier": "Senior ML Data Engineer, ISE_l-data-engineer-ise?team=SFTWR"
+    },
+    {
       "title": "Software QA Automation Engineer",
       "url": "https://jobs.apple.com/en-us/details/200653565-0836/software-qa-automation-engineer?team=SFTWR",
       "identifier": "Software QA Automation Engineer_automation-engineer?team=SFTWR"
@@ -77,13 +82,8 @@
       "title": "Sr Systems Engineer, Retail Demo Production",
       "url": "https://jobs.apple.com/en-us/details/200652940-3956/sr-systems-engineer-retail-demo-production?team=SFTWR",
       "identifier": "Sr Systems Engineer, Retail Demo Production_ail-demo-production?team=SFTWR"
-    },
-    {
-      "title": "Data Analyst - Strategic Data Solutions",
-      "url": "https://jobs.apple.com/en-us/details/200630587-3956/data-analyst-strategic-data-solutions?team=OPMFG",
-      "identifier": "Data Analyst - Strategic Data Solutions_egic-data-solutions?team=OPMFG"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-25T13:16:20.831982"
+  "timestamp": "2026-03-25T13:33:30.579968"
 }

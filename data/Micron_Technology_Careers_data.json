@@ -4,14 +4,14 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Staff Engineer, Device Characterization\nBoise, Idaho, United States of America\nPosted a day ago",
-      "url": "https://careers.micron.com/careers/job/38365874",
-      "identifier": "Staff Engineer, Device Characterization\nBoise, Ida_icron.com/careers/job/38365874"
-    },
-    {
       "title": "Engineer, IT MFG & TPG\nBoise, Idaho, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/41025925",
       "identifier": "Engineer, IT MFG & TPG\nBoise, Idaho, United States_icron.com/careers/job/41025925"
+    },
+    {
+      "title": "Product Manager\nBoise, Idaho, United States of America\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/41063411",
+      "identifier": "Product Manager\nBoise, Idaho, United States of Ame_icron.com/careers/job/41063411"
     },
     {
       "title": "Systems Software Engineer\nFolsom, California, United States of America\nPosted a day ago",
@@ -19,9 +19,9 @@
       "identifier": "Systems Software Engineer\nFolsom, California, Unit_icron.com/careers/job/41062686"
     },
     {
-      "title": "Product Manager\nBoise, Idaho, United States of America\nPosted a day ago",
-      "url": "https://careers.micron.com/careers/job/41063411",
-      "identifier": "Product Manager\nBoise, Idaho, United States of Ame_icron.com/careers/job/41063411"
+      "title": "Staff Engineer, Device Characterization\nBoise, Idaho, United States of America\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/38365874",
+      "identifier": "Staff Engineer, Device Characterization\nBoise, Ida_icron.com/careers/job/38365874"
     },
     {
       "title": "Product Development Engineer\nBoise, Idaho, United States of America\nPosted 2 days ago",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "74",
-  "timestamp": "2026-03-25T22:44:14.794105"
+  "timestamp": "2026-03-25T23:01:28.074406"
 }

@@ -4,6 +4,11 @@
   "total_jobs": 20,
   "jobs": [
     {
+      "title": "Engineering-Dallas-Associate-Software Engineering\nDallas\u00b7United States\n\u00b7Associate",
+      "url": "https://higher.gs.com/roles/153020",
+      "identifier": "Engineering-Dallas-Associate-Software Engineering\n_s://higher.gs.com/roles/153020"
+    },
+    {
       "title": "Asset & Wealth Management - Software Engineer - Associate - New York\nNew York\u00b7United States\n\u00b7Associate",
       "url": "https://higher.gs.com/roles/160510",
       "identifier": "Asset & Wealth Management - Software Engineer - As_s://higher.gs.com/roles/160510"
@@ -97,13 +102,8 @@
       "title": "Global Markets Trading Platform Engineering - GBM Public - Associate - Software Engineer - Dallas\nNew York\u00b7United States\n\u00b7Associate",
       "url": "https://higher.gs.com/roles/161601",
       "identifier": "Global Markets Trading Platform Engineering - GBM _s://higher.gs.com/roles/161601"
-    },
-    {
-      "title": "Data Engineering - Market Data Engineering - Software Engineer - Associate - Dallas\nDallas\u00b7United States\n\u00b7Associate",
-      "url": "https://higher.gs.com/roles/152750",
-      "identifier": "Data Engineering - Market Data Engineering - Softw_s://higher.gs.com/roles/152750"
     }
   ],
-  "job_count_text": "56",
-  "timestamp": "2026-03-25T14:24:02.991924"
+  "job_count_text": "57",
+  "timestamp": "2026-03-25T14:41:07.947334"
 }

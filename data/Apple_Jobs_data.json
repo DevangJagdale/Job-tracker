@@ -4,6 +4,11 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Software Engineer, Apple Services Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200653761-3337/software-engineer-apple-services-engineering?team=SFTWR",
+      "identifier": "Software Engineer, Apple Services Engineering_ervices-engineering?team=SFTWR"
+    },
+    {
       "title": "Sr. iOS Engineer- iCloud",
       "url": "https://jobs.apple.com/en-us/details/200653653-0836/sr-ios-engineer-icloud?team=SFTWR",
       "identifier": "Sr. iOS Engineer- iCloud_ios-engineer-icloud?team=SFTWR"
@@ -77,13 +82,8 @@
       "title": "Software QA Automation Engineer",
       "url": "https://jobs.apple.com/en-us/details/200653565-0836/software-qa-automation-engineer?team=SFTWR",
       "identifier": "Software QA Automation Engineer_automation-engineer?team=SFTWR"
-    },
-    {
-      "title": "Xcode Intelligence Foundation Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200648567-0836/xcode-intelligence-foundation-engineer?team=SFTWR",
-      "identifier": "Xcode Intelligence Foundation Engineer_foundation-engineer?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-25T20:40:45.902011"
+  "timestamp": "2026-03-25T20:57:55.963435"
 }

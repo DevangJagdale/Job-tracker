@@ -1,7 +1,7 @@
 {
   "page_title": "Search our Job Opportunities at Barclays",
   "url": "https://search.jobs.barclays/search-jobs/United%20States/13015/2/6252001/39x76/-98x5/50/2",
-  "total_jobs": 16,
+  "total_jobs": 14,
   "jobs": [
     {
       "title": "Development Lead",
@@ -17,11 +17,6 @@
       "title": "Project Manager for Corporate Real Estate Solutions (CRES)",
       "url": "https://search.jobs.barclays/job/new-york/project-manager-for-corporate-real-estate-solutions-cres/13015/93156135536",
       "identifier": "Project Manager for Corporate Real Estate Solution_lutions-cres/13015/93156135536"
-    },
-    {
-      "title": "Debt Capital Markets, Associate",
-      "url": "https://search.jobs.barclays/job/new-york/debt-capital-markets-associate/13015/93130195456",
-      "identifier": "Debt Capital Markets, Associate_ts-associate/13015/93130195456"
     },
     {
       "title": "Market Risk Specialist - VP",
@@ -77,13 +72,8 @@
       "title": "Network Infrastructure Engineer - VP",
       "url": "https://search.jobs.barclays/job/whippany/network-infrastructure-engineer-vp/13015/92922787456",
       "identifier": "Network Infrastructure Engineer - VP_-engineer-vp/13015/92922787456"
-    },
-    {
-      "title": "Network Security Engineering Manager",
-      "url": "https://search.jobs.barclays/job/whippany/network-security-engineering-manager/13015/92922787392",
-      "identifier": "Network Security Engineering Manager_ring-manager/13015/92922787392"
     }
   ],
-  "job_count_text": "89",
-  "timestamp": "2026-03-25T23:23:03.498128"
+  "job_count_text": "93",
+  "timestamp": "2026-03-25T23:40:22.447251"
 }

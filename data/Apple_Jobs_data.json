@@ -1,8 +1,18 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 16,
+  "total_jobs": 17,
   "jobs": [
+    {
+      "title": "Software QA Engineer, Siri",
+      "url": "https://jobs.apple.com/en-us/details/200633462-0836/software-qa-engineer-siri?team=SFTWR",
+      "identifier": "Software QA Engineer, Siri_re-qa-engineer-siri?team=SFTWR"
+    },
+    {
+      "title": "Senior Infrastructure SRE, Object Storage",
+      "url": "https://jobs.apple.com/en-us/details/200653315-3337/senior-infrastructure-sre-object-storage?team=SFTWR",
+      "identifier": "Senior Infrastructure SRE, Object Storage_-sre-object-storage?team=SFTWR"
+    },
     {
       "title": "Software Engineer, Apple Services Engineering",
       "url": "https://jobs.apple.com/en-us/details/200653761-3337/software-engineer-apple-services-engineering?team=SFTWR",
@@ -17,11 +27,6 @@
       "title": "Senior Software Data Engineer",
       "url": "https://jobs.apple.com/en-us/details/200653743-3337/senior-software-data-engineer?team=SFTWR",
       "identifier": "Senior Software Data Engineer_tware-data-engineer?team=SFTWR"
-    },
-    {
-      "title": "Senior Infrastructure SRE, Object Storage",
-      "url": "https://jobs.apple.com/en-us/details/200653315-3337/senior-infrastructure-sre-object-storage?team=SFTWR",
-      "identifier": "Senior Infrastructure SRE, Object Storage_-sre-object-storage?team=SFTWR"
     },
     {
       "title": "Senior Site Reliability Engineer",
@@ -85,5 +90,5 @@
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-25T20:57:55.963435"
+  "timestamp": "2026-03-25T21:15:01.476606"
 }

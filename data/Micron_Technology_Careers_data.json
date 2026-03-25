@@ -4,6 +4,16 @@
   "total_jobs": 10,
   "jobs": [
     {
+      "title": "Product Manager\nBoise, Idaho, United States of America\nPosted 21 hours ago",
+      "url": "https://careers.micron.com/careers/job/41063411",
+      "identifier": "Product Manager\nBoise, Idaho, United States of Ame_icron.com/careers/job/41063411"
+    },
+    {
+      "title": "Engineer, IT MFG & TPG\nBoise, Idaho, United States of America\nPosted 21 hours ago",
+      "url": "https://careers.micron.com/careers/job/41025925",
+      "identifier": "Engineer, IT MFG & TPG\nBoise, Idaho, United States_icron.com/careers/job/41025925"
+    },
+    {
       "title": "Systems Software Engineer\nFolsom, California, United States of America\nPosted 21 hours ago",
       "url": "https://careers.micron.com/careers/job/41062686",
       "identifier": "Systems Software Engineer\nFolsom, California, Unit_icron.com/careers/job/41062686"
@@ -42,18 +52,8 @@
       "title": "Process Technician - PI Overall Process\nBoise, Idaho, United States of America\nPosted 6 days ago",
       "url": "https://careers.micron.com/careers/job/40969398",
       "identifier": "Process Technician - PI Overall Process\nBoise, Ida_icron.com/careers/job/40969398"
-    },
-    {
-      "title": "Night Shift Thin Films Process Technician\nManassas, Virginia, United States of America\nPosted 7 days ago",
-      "url": "https://careers.micron.com/careers/job/40821886",
-      "identifier": "Night Shift Thin Films Process Technician\nManassas_icron.com/careers/job/40821886"
-    },
-    {
-      "title": "New College Grad - Design Engineer, AI\nSan Jose, California, United States of America\nPosted 7 days ago",
-      "url": "https://careers.micron.com/careers/job/40961780",
-      "identifier": "New College Grad - Design Engineer, AI\nSan Jose, C_icron.com/careers/job/40961780"
     }
   ],
-  "job_count_text": "72",
-  "timestamp": "2026-03-25T21:01:09.032426"
+  "job_count_text": "74",
+  "timestamp": "2026-03-25T21:18:31.592171"
 }

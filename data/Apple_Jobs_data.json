@@ -9,11 +9,6 @@
       "identifier": "Game Designer / Senior Game Designer, Apple Arcade_signer-apple-arcade?team=SFTWR"
     },
     {
-      "title": "Data Scientist, Streaming Media",
-      "url": "https://jobs.apple.com/en-us/details/200632724-0836/data-scientist-streaming-media?team=SFTWR",
-      "identifier": "Data Scientist, Streaming Media_ist-streaming-media?team=SFTWR"
-    },
-    {
       "title": "Software QA Engineer- Automation, Siri",
       "url": "https://jobs.apple.com/en-us/details/200633462-0836/software-qa-engineer-automation-siri?team=SFTWR",
       "identifier": "Software QA Engineer- Automation, Siri_eer-automation-siri?team=SFTWR"
@@ -82,8 +77,13 @@
       "title": "Senior Data Scientist, ASE iCloud Data Organization",
       "url": "https://jobs.apple.com/en-us/details/200653217-3337/senior-data-scientist-ase-icloud-data-organization?team=SFTWR",
       "identifier": "Senior Data Scientist, ASE iCloud Data Organizatio_d-data-organization?team=SFTWR"
+    },
+    {
+      "title": "Software Integrity Engineer, Photos",
+      "url": "https://jobs.apple.com/en-us/details/200653661-0836/software-integrity-engineer-photos?team=SFTWR",
+      "identifier": "Software Integrity Engineer, Photos_ity-engineer-photos?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-25T22:58:10.674839"
+  "timestamp": "2026-03-25T23:06:22.091992"
 }

@@ -4,14 +4,9 @@
   "total_jobs": 8,
   "jobs": [
     {
-      "title": "Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0843852/Software-Development-Engineer",
-      "identifier": "Software Development Engineer_/Software-Development-Engineer"
-    },
-    {
-      "title": "Senior Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0865335/Senior-Software-Development-Engineer",
-      "identifier": "Senior Software Development Engineer_-Software-Development-Engineer"
+      "title": "Technical Support Representative",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0864509/Technical-Support-Representative",
+      "identifier": "Technical Support Representative_chnical-Support-Representative"
     },
     {
       "title": "Senior Manager - Agile Practice Management",
@@ -19,31 +14,36 @@
       "identifier": "Senior Manager - Agile Practice Management_ager-Agile-Practice-Management"
     },
     {
-      "title": "Technical Support Representative",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0864509/Technical-Support-Representative",
-      "identifier": "Technical Support Representative_chnical-Support-Representative"
+      "title": "SME ACAS Benefits Testing",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0866905/SME-ACAS-Benefits-Testing",
+      "identifier": "SME ACAS Benefits Testing_6905/SME-ACAS-Benefits-Testing"
     },
     {
-      "title": "Senior Solutions Engineer - Manhattan Active Warehouse Management",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0859775/Senior-Solutions-Engineer-Manhattan-Active-Warehouse-Management",
-      "identifier": "Senior Solutions Engineer - Manhattan Active Wareh_an-Active-Warehouse-Management"
+      "title": "Field Service Technician - Baltimore, MD",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0863636/Field-Service-Technician-Baltimore-MD",
+      "identifier": "Field Service Technician - Baltimore, MD_ervice-Technician-Baltimore-MD"
     },
     {
-      "title": "Staff Solutions Engineer - Manhattan Active Warehouse Management",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0859681/Staff-Solutions-Engineer-Manhattan-Active-Warehouse-Management",
-      "identifier": "Staff Solutions Engineer - Manhattan Active Wareho_an-Active-Warehouse-Management"
+      "title": "Software Quality Automation Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0843978/Software-Quality-Automation-Engineer",
+      "identifier": "Software Quality Automation Engineer_re-Quality-Automation-Engineer"
     },
     {
-      "title": "Staff Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0856546/Staff-Software-Development-Engineer",
-      "identifier": "Staff Software Development Engineer_-Software-Development-Engineer"
+      "title": "Store Hardware Technician",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0846748/Store-Hardware-Technician",
+      "identifier": "Store Hardware Technician_6748/Store-Hardware-Technician"
     },
     {
-      "title": "Senior BackEnd Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0861508/Senior-BackEnd-Engineer",
-      "identifier": "Senior BackEnd Engineer_861508/Senior-BackEnd-Engineer"
+      "title": "Field Service Technician - Kansas City, MO",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0850699/Field-Service-Technician-Kansas-City-MO",
+      "identifier": "Field Service Technician - Kansas City, MO_vice-Technician-Kansas-City-MO"
+    },
+    {
+      "title": "IT Customer Services Analyst",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0858292/IT-Customer-Services-Analyst",
+      "identifier": "IT Customer Services Analyst_2/IT-Customer-Services-Analyst"
     }
   ],
-  "job_count_text": "42",
-  "timestamp": "2026-03-25T05:52:25.999225"
+  "job_count_text": "30",
+  "timestamp": "2026-03-25T06:09:30.862622"
 }

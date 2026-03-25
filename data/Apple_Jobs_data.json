@@ -1,8 +1,13 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 17,
+  "total_jobs": 15,
   "jobs": [
+    {
+      "title": "Software Engineer, Creativity Apps",
+      "url": "https://jobs.apple.com/en-us/details/200644927-0157/software-engineer-creativity-apps?team=SFTWR",
+      "identifier": "Software Engineer, Creativity Apps_eer-creativity-apps?team=SFTWR"
+    },
     {
       "title": "Senior Infrastructure SRE, Object Storage",
       "url": "https://jobs.apple.com/en-us/details/200653315-3337/senior-infrastructure-sre-object-storage?team=SFTWR",
@@ -72,23 +77,8 @@
       "title": "Xcode Intelligence Foundation Engineer",
       "url": "https://jobs.apple.com/en-us/details/200648567-0836/xcode-intelligence-foundation-engineer?team=SFTWR",
       "identifier": "Xcode Intelligence Foundation Engineer_foundation-engineer?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer - Machine Translation Automation",
-      "url": "https://jobs.apple.com/en-us/details/200651662-3337/software-engineer-machine-translation-automation?team=MLAI",
-      "identifier": "Software Engineer - Machine Translation Automation_anslation-automation?team=MLAI"
-    },
-    {
-      "title": "AR/VR Applications Engineer - Photos, Vision Products Software",
-      "url": "https://jobs.apple.com/en-us/details/200653477-3401/ar-vr-applications-engineer-photos-vision-products-software?team=SFTWR",
-      "identifier": "AR/VR Applications Engineer - Photos, Vision Produ_n-products-software?team=SFTWR"
-    },
-    {
-      "title": "Manager - WW Business Process Re-Engineering",
-      "url": "https://jobs.apple.com/en-us/details/200653196-3956/manager-ww-business-process-re-engineering?team=OPMFG",
-      "identifier": "Manager - WW Business Process Re-Engineering_cess-re-engineering?team=OPMFG"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-25T18:57:17.856808"
+  "timestamp": "2026-03-25T19:14:28.706307"
 }

@@ -4,14 +4,14 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Product Development Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
-      "url": "https://careers.micron.com/careers/job/41040587",
-      "identifier": "Product Development Engineer\nBoise, Idaho, United _icron.com/careers/job/41040587"
-    },
-    {
       "title": "HBM SoC Design Engineer\nRichardson, Texas, United States of America + 1 more\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/41044579",
       "identifier": "HBM SoC Design Engineer\nRichardson, Texas, United _icron.com/careers/job/41044579"
+    },
+    {
+      "title": "Product Development Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/41040587",
+      "identifier": "Product Development Engineer\nBoise, Idaho, United _icron.com/careers/job/41040587"
     },
     {
       "title": "Engineer - Operations Improvement\nBoise, Idaho, United States of America\nPosted 2 days ago",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "71",
-  "timestamp": "2026-03-25T10:37:20.301384"
+  "timestamp": "2026-03-25T10:54:28.842558"
 }

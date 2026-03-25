@@ -14,11 +14,6 @@
       "identifier": "Senior Software Development Engineer_-Software-Development-Engineer"
     },
     {
-      "title": "Senior Manager - Agile Practice Management",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0861815/Senior-Manager-Agile-Practice-Management",
-      "identifier": "Senior Manager - Agile Practice Management_ager-Agile-Practice-Management"
-    },
-    {
       "title": "Technical Support Representative",
       "url": "https://jobs.cvshealth.com/us/en/job/R0864509/Technical-Support-Representative",
       "identifier": "Technical Support Representative_chnical-Support-Representative"
@@ -34,6 +29,11 @@
       "identifier": "Staff Solutions Engineer - Manhattan Active Wareho_an-Active-Warehouse-Management"
     },
     {
+      "title": "Senior Manager - Agile Practice Management",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0861815/Senior-Manager-Agile-Practice-Management",
+      "identifier": "Senior Manager - Agile Practice Management_ager-Agile-Practice-Management"
+    },
+    {
       "title": "Staff Software Development Engineer",
       "url": "https://jobs.cvshealth.com/us/en/job/R0856546/Staff-Software-Development-Engineer",
       "identifier": "Staff Software Development Engineer_-Software-Development-Engineer"
@@ -45,5 +45,5 @@
     }
   ],
   "job_count_text": "42",
-  "timestamp": "2026-03-25T01:51:00.003265"
+  "timestamp": "2026-03-25T02:08:06.514618"
 }

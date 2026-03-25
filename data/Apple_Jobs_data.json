@@ -54,11 +54,6 @@
       "identifier": "Software Engineer in Test, Device Management_t-device-management?team=SFTWR"
     },
     {
-      "title": "Sr Software Engineer, ML Systems Engineering",
-      "url": "https://jobs.apple.com/en-us/details/200642675-0836/sr-software-engineer-ml-systems-engineering?team=SFTWR",
-      "identifier": "Sr Software Engineer, ML Systems Engineering_systems-engineering?team=SFTWR"
-    },
-    {
       "title": "Certification Engineering Program Manager",
       "url": "https://jobs.apple.com/en-us/details/200653574-0836/certification-engineering-program-manager?team=SFTWR",
       "identifier": "Certification Engineering Program Manager_ing-program-manager?team=SFTWR"
@@ -82,8 +77,13 @@
       "title": "Senior Data Scientist, ASE iCloud Data Organization",
       "url": "https://jobs.apple.com/en-us/details/200653217-3337/senior-data-scientist-ase-icloud-data-organization?team=SFTWR",
       "identifier": "Senior Data Scientist, ASE iCloud Data Organizatio_d-data-organization?team=SFTWR"
+    },
+    {
+      "title": "Software Integrity Engineer, Photos",
+      "url": "https://jobs.apple.com/en-us/details/200653661-0836/software-integrity-engineer-photos?team=SFTWR",
+      "identifier": "Software Integrity Engineer, Photos_ity-engineer-photos?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-25T22:23:50.460794"
+  "timestamp": "2026-03-25T22:40:57.611573"
 }

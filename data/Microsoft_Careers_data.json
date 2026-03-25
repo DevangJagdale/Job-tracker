@@ -4,12 +4,17 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Principal Engineer - Identity Services\nUnited States, Washington, Redmond\nPosted 12 minutes ago",
+      "title": "Data & Applied Scientist II\nUnited States, Washington, Redmond\nPosted 5 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556852372?domain=microsoft.com",
+      "identifier": "Data & Applied Scientist II\nUnited States, Washing_556852372?domain=microsoft.com"
+    },
+    {
+      "title": "Principal Engineer - Identity Services\nUnited States, Washington, Redmond\nPosted 30 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556852373?domain=microsoft.com",
       "identifier": "Principal Engineer - Identity Services\nUnited Stat_556852373?domain=microsoft.com"
     },
     {
-      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 24 minutes ago",
+      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 41 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556745599?domain=microsoft.com",
       "identifier": "Software Engineer II\nUnited States, Washington, Re_556745599?domain=microsoft.com"
     },
@@ -47,13 +52,8 @@
       "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556852069?domain=microsoft.com",
       "identifier": "Principal Software Engineer\nUnited States, Washing_556852069?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Software Engineer - AI Frameworks\nUnited States, Washington, Redmond\nPosted 2 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556852816?domain=microsoft.com",
-      "identifier": "Senior Software Engineer - AI Frameworks\nUnited St_556852816?domain=microsoft.com"
     }
   ],
   "job_count_text": "841",
-  "timestamp": "2026-03-25T22:23:34.249475"
+  "timestamp": "2026-03-25T22:40:41.550855"
 }

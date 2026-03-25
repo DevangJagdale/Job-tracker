@@ -1,8 +1,13 @@
 {
   "page_title": "Search for Jobs",
   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite?locationCountry=bc33aa3152ec42d4995f4791a106ed09&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&workerSubType=ab40a98049581037a3ada55b087049b7",
-  "total_jobs": 18,
+  "total_jobs": 19,
   "jobs": [
+    {
+      "title": "Cell Modelling and Verification Engineer - New College Grad 2026",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Cell-Modelling-and-Verification-Engineer---New-College-Grad-2026_JR2011631?locationCountry=bc33aa3152ec42d4995f4791a106ed09&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&workerSubType=ab40a98049581037a3ada55b087049b7",
+      "identifier": "Cell Modelling and Verification Engineer - New Col_40a98049581037a3ada55b087049b7"
+    },
     {
       "title": "SoC ASIC Verification Engineer \u2013 New College Grad 2026",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SoC-ASIC-Verification-Engineer---New-College-Grad-2026_JR2015202-1?locationCountry=bc33aa3152ec42d4995f4791a106ed09&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&workerSubType=ab40a98049581037a3ada55b087049b7",
@@ -94,6 +99,6 @@
       "identifier": "ASIC Floorplan Design Engineer - New College Grad _40a98049581037a3ada55b087049b7"
     }
   ],
-  "job_count_text": "53",
-  "timestamp": "2026-03-25T17:09:55.101604"
+  "job_count_text": "54",
+  "timestamp": "2026-03-25T17:28:23.447714"
 }

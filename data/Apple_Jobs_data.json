@@ -4,6 +4,11 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Software Engineer in Test, Device Management",
+      "url": "https://jobs.apple.com/en-us/details/200621557-3543/software-engineer-in-test-device-management?team=SFTWR",
+      "identifier": "Software Engineer in Test, Device Management_t-device-management?team=SFTWR"
+    },
+    {
       "title": "Sr Software Engineer, ML Systems Engineering",
       "url": "https://jobs.apple.com/en-us/details/200642675-0836/sr-software-engineer-ml-systems-engineering?team=SFTWR",
       "identifier": "Sr Software Engineer, ML Systems Engineering_systems-engineering?team=SFTWR"
@@ -77,13 +82,8 @@
       "title": "Security Server Application Engineer, Enterprise Technology Services",
       "url": "https://jobs.apple.com/en-us/details/200652003-3956/security-server-application-engineer-enterprise-technology-services?team=SFTWR",
       "identifier": "Security Server Application Engineer, Enterprise T_technology-services?team=SFTWR"
-    },
-    {
-      "title": "AIML - Sr Machine Learning Engineer, Modeling Evaluation & Data",
-      "url": "https://jobs.apple.com/en-us/details/200653465-0836/aiml-sr-machine-learning-engineer-modeling-evaluation-data?team=MLAI",
-      "identifier": "AIML - Sr Machine Learning Engineer, Modeling Eval_ling-evaluation-data?team=MLAI"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-25T18:05:26.560756"
+  "timestamp": "2026-03-25T18:22:38.678970"
 }

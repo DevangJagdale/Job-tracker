@@ -4,11 +4,6 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Project Specialist I (Full-Time) - United States",
-      "url": "https://careers.cisco.com/global/en/job/2007824/Project-Specialist-I-Full-Time-United-States",
-      "identifier": "Project Specialist I (Full-Time) - United States_list-I-Full-Time-United-States"
-    },
-    {
       "title": "Wireless Network Engineer I (Full Time) - United States",
       "url": "https://careers.cisco.com/global/en/job/2010991/Wireless-Network-Engineer-I-Full-Time-United-States",
       "identifier": "Wireless Network Engineer I (Full Time) - United S_neer-I-Full-Time-United-States"
@@ -17,11 +12,6 @@
       "title": "Account Development Representative II (Full Time) United States",
       "url": "https://careers.cisco.com/global/en/job/2001887/Account-Development-Representative-II-Full-Time-United-States",
       "identifier": "Account Development Representative II (Full Time) _ive-II-Full-Time-United-States"
-    },
-    {
-      "title": "Software Engineer II (Full Time) \u2013 Devices Technology Group \u2013 United States",
-      "url": "https://careers.cisco.com/global/en/job/2011259/Software-Engineer-II-Full-Time-Devices-Technology-Group-United-States",
-      "identifier": "Software Engineer II (Full Time) \u2013 Devices Technol_Technology-Group-United-States"
     },
     {
       "title": "Global Supply Chain RISE Rotational Program I (Full Time) - United States",
@@ -34,14 +24,19 @@
       "identifier": "Software Engineer I (Full Time) \u2013 Devices Technolo_Technology-Group-United-States"
     },
     {
-      "title": "Data Science Analyst I (Full Time) - United States",
-      "url": "https://careers.cisco.com/global/en/job/2007519/Data-Science-Analyst-I-Full-Time-United-States",
-      "identifier": "Data Science Analyst I (Full Time) - United States_lyst-I-Full-Time-United-States"
+      "title": "Software Engineer II (Full Time) \u2013 Devices Technology Group \u2013 United States",
+      "url": "https://careers.cisco.com/global/en/job/2011259/Software-Engineer-II-Full-Time-Devices-Technology-Group-United-States",
+      "identifier": "Software Engineer II (Full Time) \u2013 Devices Technol_Technology-Group-United-States"
     },
     {
       "title": "Customer Experience Project Specialist I (Full-Time) - United States",
       "url": "https://careers.cisco.com/global/en/job/2001576/Customer-Experience-Project-Specialist-I-Full-Time-United-States",
       "identifier": "Customer Experience Project Specialist I (Full-Tim_list-I-Full-Time-United-States"
+    },
+    {
+      "title": "Data Science Analyst I (Full Time) - United States",
+      "url": "https://careers.cisco.com/global/en/job/2007519/Data-Science-Analyst-I-Full-Time-United-States",
+      "identifier": "Data Science Analyst I (Full Time) - United States_lyst-I-Full-Time-United-States"
     },
     {
       "title": "Business Analyst I (Full Time) United States",
@@ -52,8 +47,13 @@
       "title": "DevOps Engineer II (Full-Time) - United States",
       "url": "https://careers.cisco.com/global/en/job/2008084/DevOps-Engineer-II-Full-Time-United-States",
       "identifier": "DevOps Engineer II (Full-Time) - United States_eer-II-Full-Time-United-States"
+    },
+    {
+      "title": "Software Engineer Backend/Platform Systems II (Full Time) \u2013 United States",
+      "url": "https://careers.cisco.com/global/en/job/2000135/Software-Engineer-Backend-Platform-Systems-II-Full-Time-United-States",
+      "identifier": "Software Engineer Backend/Platform Systems II (Ful_ems-II-Full-Time-United-States"
     }
   ],
-  "job_count_text": "30",
-  "timestamp": "2026-03-25T15:17:58.000514"
+  "job_count_text": "29",
+  "timestamp": "2026-03-25T15:35:02.389250"
 }

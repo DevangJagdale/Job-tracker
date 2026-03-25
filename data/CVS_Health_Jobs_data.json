@@ -4,14 +4,14 @@
   "total_jobs": 8,
   "jobs": [
     {
-      "title": "Senior Manager - Agile Practice Management",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0861815/Senior-Manager-Agile-Practice-Management",
-      "identifier": "Senior Manager - Agile Practice Management_ager-Agile-Practice-Management"
-    },
-    {
       "title": "Technical Support Representative",
       "url": "https://jobs.cvshealth.com/us/en/job/R0864509/Technical-Support-Representative",
       "identifier": "Technical Support Representative_chnical-Support-Representative"
+    },
+    {
+      "title": "Senior Manager - Agile Practice Management",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0861815/Senior-Manager-Agile-Practice-Management",
+      "identifier": "Senior Manager - Agile Practice Management_ager-Agile-Practice-Management"
     },
     {
       "title": "SME ACAS Benefits Testing",
@@ -29,14 +29,14 @@
       "identifier": "Software Quality Automation Engineer_re-Quality-Automation-Engineer"
     },
     {
-      "title": "Field Service Technician - Kansas City, MO",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0850699/Field-Service-Technician-Kansas-City-MO",
-      "identifier": "Field Service Technician - Kansas City, MO_vice-Technician-Kansas-City-MO"
-    },
-    {
       "title": "Store Hardware Technician",
       "url": "https://jobs.cvshealth.com/us/en/job/R0846748/Store-Hardware-Technician",
       "identifier": "Store Hardware Technician_6748/Store-Hardware-Technician"
+    },
+    {
+      "title": "Field Service Technician - Kansas City, MO",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0850699/Field-Service-Technician-Kansas-City-MO",
+      "identifier": "Field Service Technician - Kansas City, MO_vice-Technician-Kansas-City-MO"
     },
     {
       "title": "IT Customer Services Analyst",
@@ -45,5 +45,5 @@
     }
   ],
   "job_count_text": "30",
-  "timestamp": "2026-03-25T13:00:15.763944"
+  "timestamp": "2026-03-25T13:17:22.563169"
 }

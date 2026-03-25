@@ -1,15 +1,25 @@
 {
   "page_title": "| Microsoft Careers",
   "url": "https://apply.careers.microsoft.com/careers?domain=microsoft.com&start=0&location=United+States&sort_by=timestamp&filter_include_remote=1&filter_profession=software+engineering%2Cresearch%252C%2520applied%252C%2520%2526%2520data%2520sciences",
-  "total_jobs": 9,
+  "total_jobs": 10,
   "jobs": [
     {
-      "title": "Software Engineer II - CTJ - Poly\nUnited States, Multiple Locations, Multiple Locations + 3 more\nPosted 37 minutes ago",
+      "title": "Senior Software Engineer - Copilot Extensibility\nUnited States, Washington, Redmond\nPosted 19 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556623154?domain=microsoft.com",
+      "identifier": "Senior Software Engineer - Copilot Extensibility\nU_556623154?domain=microsoft.com"
+    },
+    {
+      "title": "Software Engineer II\nUnited States, Multiple Locations, Multiple Locations\nPosted 22 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556637860?domain=microsoft.com",
+      "identifier": "Software Engineer II\nUnited States, Multiple Locat_556637860?domain=microsoft.com"
+    },
+    {
+      "title": "Software Engineer II - CTJ - Poly\nUnited States, Multiple Locations, Multiple Locations + 3 more\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556852481?domain=microsoft.com",
       "identifier": "Software Engineer II - CTJ - Poly\nUnited States, M_556852481?domain=microsoft.com"
     },
     {
-      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted an hour ago",
+      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556619441?domain=microsoft.com",
       "identifier": "Software Engineer II\nUnited States, Washington, Re_556619441?domain=microsoft.com"
     },
@@ -42,13 +52,8 @@
       "title": "iOS Senior Software Engineer, Teams Mobile\nUnited States, Washington, Redmond\nPosted 15 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556851557?domain=microsoft.com",
       "identifier": "iOS Senior Software Engineer, Teams Mobile\nUnited _556851557?domain=microsoft.com"
-    },
-    {
-      "title": "Principal Software Engineer - Simulation Platform\nUnited States, Washington, Redmond + 1 more\nPosted 17 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556852494?domain=microsoft.com",
-      "identifier": "Principal Software Engineer - Simulation Platform\n_556852494?domain=microsoft.com"
     }
   ],
-  "job_count_text": "823",
-  "timestamp": "2026-03-25T17:47:55.385232"
+  "job_count_text": "825",
+  "timestamp": "2026-03-25T18:05:10.488148"
 }

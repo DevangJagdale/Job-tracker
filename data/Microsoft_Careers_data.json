@@ -4,7 +4,12 @@
   "total_jobs": 9,
   "jobs": [
     {
-      "title": "iOS Senior Software Engineer, Teams Mobile\nUnited States, Washington, Redmond\nPosted 34 minutes ago",
+      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 18 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556851157?domain=microsoft.com",
+      "identifier": "Senior Software Engineer\nUnited States, Washington_556851157?domain=microsoft.com"
+    },
+    {
+      "title": "iOS Senior Software Engineer, Teams Mobile\nUnited States, Washington, Redmond\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556851557?domain=microsoft.com",
       "identifier": "iOS Senior Software Engineer, Teams Mobile\nUnited _556851557?domain=microsoft.com"
     },
@@ -29,7 +34,7 @@
       "identifier": "Principal AI Architect\nUnited States, Multiple Loc_556749593?domain=microsoft.com"
     },
     {
-      "title": "Senior Applied Scientist\nUnited States, Multiple Locations, Multiple Locations + 1 more\nPosted 5 hours ago",
+      "title": "Senior Applied Scientist\nUnited States, Multiple Locations, Multiple Locations + 1 more\nPosted 6 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556850759?domain=microsoft.com",
       "identifier": "Senior Applied Scientist\nUnited States, Multiple L_556850759?domain=microsoft.com"
     },
@@ -42,13 +47,8 @@
       "title": "Principal Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 6 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556668376?domain=microsoft.com",
       "identifier": "Principal Software Engineer\nUnited States, Multipl_556668376?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Software Engineer - Storage\nUnited States, California, Aliso Viejo + 3 more\nPosted 6 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556756113?domain=microsoft.com",
-      "identifier": "Senior Software Engineer - Storage\nUnited States, _556756113?domain=microsoft.com"
     }
   ],
-  "job_count_text": "842",
-  "timestamp": "2026-03-25T03:15:12.866094"
+  "job_count_text": "843",
+  "timestamp": "2026-03-25T03:32:19.190142"
 }

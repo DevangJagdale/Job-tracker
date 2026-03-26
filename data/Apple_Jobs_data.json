@@ -4,6 +4,11 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Sr Software Engineer, ML Systems Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200642675-0836/sr-software-engineer-ml-systems-engineering?team=SFTWR",
+      "identifier": "Sr Software Engineer, ML Systems Engineering_systems-engineering?team=SFTWR"
+    },
+    {
       "title": "Software Engineering Program Manager (EPM) - Apple Vision Pro",
       "url": "https://jobs.apple.com/en-us/details/200653560-3956/software-engineering-program-manager-epm-apple-vision-pro?team=SFTWR",
       "identifier": "Software Engineering Program Manager (EPM) - Apple_pm-apple-vision-pro?team=SFTWR"
@@ -77,13 +82,8 @@
       "title": "ISE, Incubation - Software Development Engineer",
       "url": "https://jobs.apple.com/en-us/details/200649720-0836/ise-incubation-software-development-engineer?team=SFTWR",
       "identifier": "ISE, Incubation - Software Development Engineer_evelopment-engineer?team=SFTWR"
-    },
-    {
-      "title": "Manager, Central Quality Automation - Apple Services Engineering",
-      "url": "https://jobs.apple.com/en-us/details/200653167-0836/manager-central-quality-automation-apple-services-engineering?team=SFTWR",
-      "identifier": "Manager, Central Quality Automation - Apple Servic_ervices-engineering?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-26T00:32:37.976832"
+  "timestamp": "2026-03-26T00:49:50.589347"
 }

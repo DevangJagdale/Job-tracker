@@ -1,8 +1,18 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 11,
+  "total_jobs": 13,
   "jobs": [
+    {
+      "title": "Sr. Ruby on Rails Engineer, ASE",
+      "url": "https://jobs.apple.com/en-us/details/200653742-3577/sr-ruby-on-rails-engineer-ase?team=SFTWR",
+      "identifier": "Sr. Ruby on Rails Engineer, ASE_-rails-engineer-ase?team=SFTWR"
+    },
+    {
+      "title": "Senior Engineering Manager, Apple Data Platform",
+      "url": "https://jobs.apple.com/en-us/details/200653924-3337/senior-engineering-manager-apple-data-platform?team=SFTWR",
+      "identifier": "Senior Engineering Manager, Apple Data Platform_apple-data-platform?team=SFTWR"
+    },
     {
       "title": "Software Engineer (UI Solutions), AI & Data Platforms (AiDP)",
       "url": "https://jobs.apple.com/en-us/details/200653293-0157/software-engineer-ui-solutions-ai-data-platforms-aidp?team=SFTWR",
@@ -60,5 +70,5 @@
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-26T22:48:24.406534"
+  "timestamp": "2026-03-26T23:05:36.069585"
 }

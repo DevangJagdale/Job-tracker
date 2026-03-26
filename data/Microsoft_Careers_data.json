@@ -4,12 +4,22 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted 39 minutes ago",
+      "title": "Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 17 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556752814?domain=microsoft.com",
+      "identifier": "Software Engineer\nUnited States, Multiple Location_556752814?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Software Engineer - Frontend\nUnited States, Washington, Redmond\nPosted 17 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556768809?domain=microsoft.com",
+      "identifier": "Senior Software Engineer - Frontend\nUnited States,_556768809?domain=microsoft.com"
+    },
+    {
+      "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556852779?domain=microsoft.com",
       "identifier": "Principal Software Engineer\nUnited States, Washing_556852779?domain=microsoft.com"
     },
     {
-      "title": "Site Reliability Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 39 minutes ago",
+      "title": "Site Reliability Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556619927?domain=microsoft.com",
       "identifier": "Site Reliability Engineer\nUnited States, Multiple _556619927?domain=microsoft.com"
     },
@@ -42,18 +52,8 @@
       "title": "Senior Software Engineer\nUnited States, Multiple Locations, Multiple Locations + 1 more\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556850758?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Multiple L_556850758?domain=microsoft.com"
-    },
-    {
-      "title": "Principal Manager- Core Networking\nUnited States, California, Santa Clara\nPosted 2 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556852019?domain=microsoft.com",
-      "identifier": "Principal Manager- Core Networking\nUnited States, _556852019?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Software Engineer\nUnited States, Washington, Redmond + 1 more\nPosted 3 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556630386?domain=microsoft.com",
-      "identifier": "Senior Software Engineer\nUnited States, Washington_556630386?domain=microsoft.com"
     }
   ],
-  "job_count_text": "815",
-  "timestamp": "2026-03-26T22:48:08.493328"
+  "job_count_text": "817",
+  "timestamp": "2026-03-26T23:05:19.508427"
 }

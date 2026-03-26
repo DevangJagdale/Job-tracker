@@ -4,6 +4,16 @@
   "total_jobs": 8,
   "jobs": [
     {
+      "title": "Sr. Manager, Salesforce Software Development Engineering",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0851252/Sr-Manager-Salesforce-Software-Development-Engineering",
+      "identifier": "Sr. Manager, Salesforce Software Development Engin_ftware-Development-Engineering"
+    },
+    {
+      "title": "Software Development Engineer, Salesforce",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0848188/Software-Development-Engineer-Salesforce",
+      "identifier": "Software Development Engineer, Salesforce_evelopment-Engineer-Salesforce"
+    },
+    {
       "title": "Sr Mgr. Business Analyst",
       "url": "https://jobs.cvshealth.com/us/en/job/R0864469/Sr-Mgr-Business-Analyst",
       "identifier": "Sr Mgr. Business Analyst_864469/Sr-Mgr-Business-Analyst"
@@ -32,18 +42,8 @@
       "title": "Staff Software Development Engineer (IBMi/AS400, Modernization)",
       "url": "https://jobs.cvshealth.com/us/en/job/R0838988/Staff-Software-Development-Engineer-IBMi-AS400-Modernization",
       "identifier": "Staff Software Development Engineer (IBMi/AS400, M_ineer-IBMi-AS400-Modernization"
-    },
-    {
-      "title": "SME ACAS Benefits Testing",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0866905/SME-ACAS-Benefits-Testing",
-      "identifier": "SME ACAS Benefits Testing_6905/SME-ACAS-Benefits-Testing"
-    },
-    {
-      "title": "Technical Support Representative",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0864509/Technical-Support-Representative",
-      "identifier": "Technical Support Representative_chnical-Support-Representative"
     }
   ],
-  "job_count_text": "32",
-  "timestamp": "2026-03-26T13:08:28.046244"
+  "job_count_text": "35",
+  "timestamp": "2026-03-26T13:25:41.783253"
 }

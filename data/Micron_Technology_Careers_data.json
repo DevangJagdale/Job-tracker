@@ -4,6 +4,11 @@
   "total_jobs": 10,
   "jobs": [
     {
+      "title": "Staff Engineer, Device Characterization\nBoise, Idaho, United States of America\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/38365874",
+      "identifier": "Staff Engineer, Device Characterization\nBoise, Ida_icron.com/careers/job/38365874"
+    },
+    {
       "title": "Systems Software Engineer\nFolsom, California, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/41062686",
       "identifier": "Systems Software Engineer\nFolsom, California, Unit_icron.com/careers/job/41062686"
@@ -12,11 +17,6 @@
       "title": "Product Manager\nBoise, Idaho, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/41063411",
       "identifier": "Product Manager\nBoise, Idaho, United States of Ame_icron.com/careers/job/41063411"
-    },
-    {
-      "title": "Staff Engineer, Device Characterization\nBoise, Idaho, United States of America\nPosted a day ago",
-      "url": "https://careers.micron.com/careers/job/38365874",
-      "identifier": "Staff Engineer, Device Characterization\nBoise, Ida_icron.com/careers/job/38365874"
     },
     {
       "title": "HBM SoC Design Engineer\nRichardson, Texas, United States of America + 1 more\nPosted 2 days ago",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "73",
-  "timestamp": "2026-03-26T02:19:16.350634"
+  "timestamp": "2026-03-26T02:36:32.362417"
 }

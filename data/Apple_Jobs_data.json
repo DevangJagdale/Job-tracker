@@ -1,8 +1,18 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 13,
+  "total_jobs": 14,
   "jobs": [
+    {
+      "title": "Sr. Machine Learning Scientist, Siri Speech",
+      "url": "https://jobs.apple.com/en-us/details/200653772-1242/sr-machine-learning-scientist-siri-speech?team=SFTWR",
+      "identifier": "Sr. Machine Learning Scientist, Siri Speech_ientist-siri-speech?team=SFTWR"
+    },
+    {
+      "title": "Software QA Engineer - Automation, Siri",
+      "url": "https://jobs.apple.com/en-us/details/200653762-3401/software-qa-engineer-automation-siri?team=SFTWR",
+      "identifier": "Software QA Engineer - Automation, Siri_eer-automation-siri?team=SFTWR"
+    },
     {
       "title": "Software Quality Engineer, Media",
       "url": "https://jobs.apple.com/en-us/details/200627832-3543/software-quality-engineer-media?team=SFTWR",
@@ -62,13 +72,8 @@
       "title": "Game Designer / Senior Game Designer, Apple Arcade",
       "url": "https://jobs.apple.com/en-us/details/200648596-0836/game-designer-senior-game-designer-apple-arcade?team=SFTWR",
       "identifier": "Game Designer / Senior Game Designer, Apple Arcade_signer-apple-arcade?team=SFTWR"
-    },
-    {
-      "title": "Software QA Engineer- Automation, Siri",
-      "url": "https://jobs.apple.com/en-us/details/200633462-0836/software-qa-engineer-automation-siri?team=SFTWR",
-      "identifier": "Software QA Engineer- Automation, Siri_eer-automation-siri?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-26T14:02:03.119443"
+  "timestamp": "2026-03-26T14:20:58.943762"
 }

@@ -4,6 +4,11 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Emoji & Stickers Software Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200653779-0836/emoji-stickers-software-engineer?team=SFTWR",
+      "identifier": "Emoji & Stickers Software Engineer_s-software-engineer?team=SFTWR"
+    },
+    {
       "title": "Engineering Project Coordinator",
       "url": "https://jobs.apple.com/en-us/details/200652100-0157/engineering-project-coordinator?team=SFTWR",
       "identifier": "Engineering Project Coordinator_project-coordinator?team=SFTWR"
@@ -77,13 +82,8 @@
       "title": "Software Development Engineer - Test",
       "url": "https://jobs.apple.com/en-us/details/200652150-0836/software-development-engineer-test?team=SFTWR",
       "identifier": "Software Development Engineer - Test_pment-engineer-test?team=SFTWR"
-    },
-    {
-      "title": "Machine Learning",
-      "url": "https://jobs.apple.com/en-us/details/200652151-0836/machine-learning?team=SFTWR",
-      "identifier": "Machine Learning_36/machine-learning?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-26T17:13:16.911233"
+  "timestamp": "2026-03-26T17:30:27.182133"
 }

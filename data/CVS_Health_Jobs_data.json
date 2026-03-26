@@ -4,14 +4,19 @@
   "total_jobs": 8,
   "jobs": [
     {
-      "title": "Executive Director - Engineering, SRE - Retail, Pharmacy & Dispensing",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0732416/Executive-Director-Engineering-SRE-Retail-Pharmacy-Dispensing",
-      "identifier": "Executive Director - Engineering, SRE - Retail, Ph_SRE-Retail-Pharmacy-Dispensing"
+      "title": "Senior Fullstack Software Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0824954/Senior-Fullstack-Software-Engineer",
+      "identifier": "Senior Fullstack Software Engineer_or-Fullstack-Software-Engineer"
     },
     {
-      "title": "Lead Director \u2013 Software Development Engineering (AI & Automation)",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0843277/Lead-Director-Software-Development-Engineering-AI-Automation",
-      "identifier": "Lead Director \u2013 Software Development Engineering (_ment-Engineering-AI-Automation"
+      "title": "Manager - Scrum Master",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0863613/Manager-Scrum-Master",
+      "identifier": "Manager - Scrum Master_/R0863613/Manager-Scrum-Master"
+    },
+    {
+      "title": "Staff Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0835190/Staff-Software-Development-Engineer",
+      "identifier": "Staff Software Development Engineer_-Software-Development-Engineer"
     },
     {
       "title": "Senior Analyst Software Development Engineer",
@@ -24,26 +29,21 @@
       "identifier": "Senior Manager Software Development_r-Manager-Software-Development"
     },
     {
-      "title": "Staff Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0835190/Staff-Software-Development-Engineer",
-      "identifier": "Staff Software Development Engineer_-Software-Development-Engineer"
+      "title": "Lead Director \u2013 Software Development Engineering (AI & Automation)",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0843277/Lead-Director-Software-Development-Engineering-AI-Automation",
+      "identifier": "Lead Director \u2013 Software Development Engineering (_ment-Engineering-AI-Automation"
+    },
+    {
+      "title": "Executive Director - Engineering, SRE - Retail, Pharmacy & Dispensing",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0732416/Executive-Director-Engineering-SRE-Retail-Pharmacy-Dispensing",
+      "identifier": "Executive Director - Engineering, SRE - Retail, Ph_SRE-Retail-Pharmacy-Dispensing"
     },
     {
       "title": "Sr. Manager, Salesforce Software Development Engineering",
       "url": "https://jobs.cvshealth.com/us/en/job/R0851252/Sr-Manager-Salesforce-Software-Development-Engineering",
       "identifier": "Sr. Manager, Salesforce Software Development Engin_ftware-Development-Engineering"
-    },
-    {
-      "title": "Software Development Engineer, Salesforce",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0848188/Software-Development-Engineer-Salesforce",
-      "identifier": "Software Development Engineer, Salesforce_evelopment-Engineer-Salesforce"
-    },
-    {
-      "title": "Senior Fullstack Software Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0824954/Senior-Fullstack-Software-Engineer",
-      "identifier": "Senior Fullstack Software Engineer_or-Fullstack-Software-Engineer"
     }
   ],
   "job_count_text": "44",
-  "timestamp": "2026-03-26T19:32:25.706949"
+  "timestamp": "2026-03-26T19:49:33.761017"
 }

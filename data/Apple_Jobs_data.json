@@ -4,6 +4,11 @@
   "total_jobs": 13,
   "jobs": [
     {
+      "title": "Software Quality Engineer, Media",
+      "url": "https://jobs.apple.com/en-us/details/200627832-3543/software-quality-engineer-media?team=SFTWR",
+      "identifier": "Software Quality Engineer, Media_lity-engineer-media?team=SFTWR"
+    },
+    {
       "title": "Sr. Software Engineer, Siri Devices",
       "url": "https://jobs.apple.com/en-us/details/200638270-3337/sr-software-engineer-siri-devices?team=SFTWR",
       "identifier": "Sr. Software Engineer, Siri Devices_gineer-siri-devices?team=SFTWR"
@@ -62,13 +67,8 @@
       "title": "Software QA Engineer- Automation, Siri",
       "url": "https://jobs.apple.com/en-us/details/200633462-0836/software-qa-engineer-automation-siri?team=SFTWR",
       "identifier": "Software QA Engineer- Automation, Siri_eer-automation-siri?team=SFTWR"
-    },
-    {
-      "title": "Senior Software Engineer \u2014 Full Stack (Node.js/TypeScript/functional)",
-      "url": "https://jobs.apple.com/en-us/details/200653511-0157/senior-software-engineer-full-stack-node-js-typescript-functional?team=SFTWR",
-      "identifier": "Senior Software Engineer \u2014 Full Stack (Node.js/Typ_pescript-functional?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-26T06:59:31.222943"
+  "timestamp": "2026-03-26T07:16:41.541990"
 }

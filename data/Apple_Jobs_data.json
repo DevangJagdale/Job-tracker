@@ -4,6 +4,11 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Software QA Automation Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200646752-0836/software-qa-automation-engineer?team=SFTWR",
+      "identifier": "Software QA Automation Engineer_automation-engineer?team=SFTWR"
+    },
+    {
       "title": "Sr Software Engineer, ML Systems Engineering",
       "url": "https://jobs.apple.com/en-us/details/200642675-0836/sr-software-engineer-ml-systems-engineering?team=SFTWR",
       "identifier": "Sr Software Engineer, ML Systems Engineering_systems-engineering?team=SFTWR"
@@ -77,13 +82,8 @@
       "title": "Organizational Program Manager, Apple Services Engineering",
       "url": "https://jobs.apple.com/en-us/details/200652426-0836/organizational-program-manager-apple-services-engineering?team=SFTWR",
       "identifier": "Organizational Program Manager, Apple Services Eng_ervices-engineering?team=SFTWR"
-    },
-    {
-      "title": "ISE, Incubation - Software Development Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200649720-0836/ise-incubation-software-development-engineer?team=SFTWR",
-      "identifier": "ISE, Incubation - Software Development Engineer_evelopment-engineer?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-26T01:07:02.304270"
+  "timestamp": "2026-03-26T01:24:17.710430"
 }

@@ -1,8 +1,18 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 11,
+  "total_jobs": 12,
   "jobs": [
+    {
+      "title": "Solutions Engineering Manager - Marketing Technologies",
+      "url": "https://jobs.apple.com/en-us/details/200652543-0836/solutions-engineering-manager-marketing-technologies?team=SFTWR",
+      "identifier": "Solutions Engineering Manager - Marketing Technolo_keting-technologies?team=SFTWR"
+    },
+    {
+      "title": "Bluetooth Embedded Software Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200643923-0836/bluetooth-embedded-software-engineer?team=SFTWR",
+      "identifier": "Bluetooth Embedded Software Engineer_d-software-engineer?team=SFTWR"
+    },
     {
       "title": "Software Engineering Manager, ML Infrastructure - Creator Studio",
       "url": "https://jobs.apple.com/en-us/details/200646105-1435/software-engineering-manager-ml-infrastructure-creator-studio?team=SFTWR",
@@ -52,13 +62,8 @@
       "title": "ML Engineer - Evaluation Analysis, Metric and Data Strategy",
       "url": "https://jobs.apple.com/en-us/details/200653803-0670/ml-engineer-evaluation-analysis-metric-and-data-strategy?team=SFTWR",
       "identifier": "ML Engineer - Evaluation Analysis, Metric and Data_c-and-data-strategy?team=SFTWR"
-    },
-    {
-      "title": "Data Engineer for Crowdsourced Sensing",
-      "url": "https://jobs.apple.com/en-us/details/200653598-0836/data-engineer-for-crowdsourced-sensing?team=SFTWR",
-      "identifier": "Data Engineer for Crowdsourced Sensing_rowdsourced-sensing?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-26T15:47:02.476510"
+  "timestamp": "2026-03-26T16:04:13.595089"
 }

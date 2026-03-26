@@ -14,14 +14,9 @@
       "identifier": "Software Development Engineer, Salesforce_evelopment-Engineer-Salesforce"
     },
     {
-      "title": "Lead Director \u2013 Software Development Engineering (AI & Automation)",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0843277/Lead-Director-Software-Development-Engineering-AI-Automation",
-      "identifier": "Lead Director \u2013 Software Development Engineering (_ment-Engineering-AI-Automation"
-    },
-    {
-      "title": "Executive Director - Engineering, SRE - Retail, Pharmacy & Dispensing",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0732416/Executive-Director-Engineering-SRE-Retail-Pharmacy-Dispensing",
-      "identifier": "Executive Director - Engineering, SRE - Retail, Ph_SRE-Retail-Pharmacy-Dispensing"
+      "title": "Staff Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0835190/Staff-Software-Development-Engineer",
+      "identifier": "Staff Software Development Engineer_-Software-Development-Engineer"
     },
     {
       "title": "Senior Analyst Software Development Engineer",
@@ -34,9 +29,14 @@
       "identifier": "Senior Manager Software Development_r-Manager-Software-Development"
     },
     {
-      "title": "Staff Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0835190/Staff-Software-Development-Engineer",
-      "identifier": "Staff Software Development Engineer_-Software-Development-Engineer"
+      "title": "Lead Director \u2013 Software Development Engineering (AI & Automation)",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0843277/Lead-Director-Software-Development-Engineering-AI-Automation",
+      "identifier": "Lead Director \u2013 Software Development Engineering (_ment-Engineering-AI-Automation"
+    },
+    {
+      "title": "Executive Director - Engineering, SRE - Retail, Pharmacy & Dispensing",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0732416/Executive-Director-Engineering-SRE-Retail-Pharmacy-Dispensing",
+      "identifier": "Executive Director - Engineering, SRE - Retail, Ph_SRE-Retail-Pharmacy-Dispensing"
     },
     {
       "title": "Senior Fullstack Software Engineer",
@@ -45,5 +45,5 @@
     }
   ],
   "job_count_text": "42",
-  "timestamp": "2026-03-26T17:31:28.906487"
+  "timestamp": "2026-03-26T17:48:41.298488"
 }

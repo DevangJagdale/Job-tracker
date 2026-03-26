@@ -4,6 +4,11 @@
   "total_jobs": 14,
   "jobs": [
     {
+      "title": "Senior Software Engineer, App Store Data",
+      "url": "https://jobs.apple.com/en-us/details/200631930-0836/senior-software-engineer-app-store-data?team=SFTWR",
+      "identifier": "Senior Software Engineer, App Store Data_neer-app-store-data?team=SFTWR"
+    },
+    {
       "title": "Sr. Machine Learning Scientist, Siri Speech",
       "url": "https://jobs.apple.com/en-us/details/200653772-1242/sr-machine-learning-scientist-siri-speech?team=SFTWR",
       "identifier": "Sr. Machine Learning Scientist, Siri Speech_ientist-siri-speech?team=SFTWR"
@@ -67,13 +72,8 @@
       "title": "Software Development Engineer in Test (SDET), Frameworks",
       "url": "https://jobs.apple.com/en-us/details/200653801-0836/software-development-engineer-in-test-sdet-frameworks?team=SFTWR",
       "identifier": "Software Development Engineer in Test (SDET), Fram_est-sdet-frameworks?team=SFTWR"
-    },
-    {
-      "title": "Game Designer / Senior Game Designer, Apple Arcade",
-      "url": "https://jobs.apple.com/en-us/details/200648596-0836/game-designer-senior-game-designer-apple-arcade?team=SFTWR",
-      "identifier": "Game Designer / Senior Game Designer, Apple Arcade_signer-apple-arcade?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-26T15:19:26.657984"
+  "timestamp": "2026-03-26T15:39:21.154592"
 }

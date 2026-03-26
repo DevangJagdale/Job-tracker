@@ -4,6 +4,11 @@
   "total_jobs": 11,
   "jobs": [
     {
+      "title": "Software Engineer (UI Solutions), AI & Data Platforms (AiDP)",
+      "url": "https://jobs.apple.com/en-us/details/200653293-0157/software-engineer-ui-solutions-ai-data-platforms-aidp?team=SFTWR",
+      "identifier": "Software Engineer (UI Solutions), AI & Data Platfo_data-platforms-aidp?team=SFTWR"
+    },
+    {
       "title": "Wireless Software Engineer",
       "url": "https://jobs.apple.com/en-us/details/200653448-3543/wireless-software-engineer?team=SFTWR",
       "identifier": "Wireless Software Engineer_s-software-engineer?team=SFTWR"
@@ -52,13 +57,8 @@
       "title": "Senior Applications Engineer - Data Layer",
       "url": "https://jobs.apple.com/en-us/details/200647129-0157/senior-applications-engineer-data-layer?team=SFTWR",
       "identifier": "Senior Applications Engineer - Data Layer_engineer-data-layer?team=SFTWR"
-    },
-    {
-      "title": "Emoji & Stickers Software Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200653779-0836/emoji-stickers-software-engineer?team=SFTWR",
-      "identifier": "Emoji & Stickers Software Engineer_s-software-engineer?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-26T22:13:56.972705"
+  "timestamp": "2026-03-26T22:31:11.815256"
 }

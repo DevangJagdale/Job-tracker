@@ -4,6 +4,11 @@
   "total_jobs": 13,
   "jobs": [
     {
+      "title": "Senior Product Manager - Claris",
+      "url": "https://jobs.apple.com/en-us/details/200643356-3956/senior-product-manager-claris?team=SFTWR",
+      "identifier": "Senior Product Manager - Claris_duct-manager-claris?team=SFTWR"
+    },
+    {
       "title": "Software Engineering Program Manager (EPM) - Apple Vision Pro, Connectivity",
       "url": "https://jobs.apple.com/en-us/details/200653811-3956/software-engineering-program-manager-epm-apple-vision-pro-connectivity?team=SFTWR",
       "identifier": "Software Engineering Program Manager (EPM) - Apple_on-pro-connectivity?team=SFTWR"
@@ -62,13 +67,8 @@
       "title": "Software Development Engineering",
       "url": "https://jobs.apple.com/en-us/details/200652091-0836/software-development-engineering?team=SFTWR",
       "identifier": "Software Development Engineering_lopment-engineering?team=SFTWR"
-    },
-    {
-      "title": "Machine Learning Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200652083-0836/machine-learning-engineer?team=SFTWR",
-      "identifier": "Machine Learning Engineer_e-learning-engineer?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-26T18:39:40.527575"
+  "timestamp": "2026-03-26T18:57:01.026357"
 }

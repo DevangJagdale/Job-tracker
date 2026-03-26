@@ -4,6 +4,16 @@
   "total_jobs": 13,
   "jobs": [
     {
+      "title": "Product Manager, Employee Experience & Productivity",
+      "url": "https://jobs.apple.com/en-us/details/200652916-3956/product-manager-employee-experience-productivity?team=SFTWR",
+      "identifier": "Product Manager, Employee Experience & Productivit_rience-productivity?team=SFTWR"
+    },
+    {
+      "title": "Software Engineering Manager (Data Solutions), Ai & Data Platforms",
+      "url": "https://jobs.apple.com/en-us/details/200652503-3956/software-engineering-manager-data-solutions-ai-data-platforms?team=SFTWR",
+      "identifier": "Software Engineering Manager (Data Solutions), Ai _s-ai-data-platforms?team=SFTWR"
+    },
+    {
       "title": "Senior Product Manager - Claris",
       "url": "https://jobs.apple.com/en-us/details/200643356-3956/senior-product-manager-claris?team=SFTWR",
       "identifier": "Senior Product Manager - Claris_duct-manager-claris?team=SFTWR"
@@ -57,18 +67,8 @@
       "title": "RF/Analog/Mixed Signal Engineering",
       "url": "https://jobs.apple.com/en-us/details/200652146-3543/rf-analog-mixed-signal-engineering?team=SFTWR",
       "identifier": "RF/Analog/Mixed Signal Engineering_-signal-engineering?team=SFTWR"
-    },
-    {
-      "title": "Video Machine Learning Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200653646-3543/video-machine-learning-engineer?team=SFTWR",
-      "identifier": "Video Machine Learning Engineer_e-learning-engineer?team=SFTWR"
-    },
-    {
-      "title": "Software Development Engineering",
-      "url": "https://jobs.apple.com/en-us/details/200652091-0836/software-development-engineering?team=SFTWR",
-      "identifier": "Software Development Engineering_lopment-engineering?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-26T18:57:01.026357"
+  "timestamp": "2026-03-26T19:14:14.491974"
 }

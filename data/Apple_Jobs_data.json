@@ -4,6 +4,11 @@
   "total_jobs": 12,
   "jobs": [
     {
+      "title": "Senior Machine Learning Engineering Manager \u2013 Ads Predictions",
+      "url": "https://jobs.apple.com/en-us/details/200653874-0836/senior-machine-learning-engineering-manager-ads-predictions?team=SFTWR",
+      "identifier": "Senior Machine Learning Engineering Manager \u2013 Ads _ger-ads-predictions?team=SFTWR"
+    },
+    {
       "title": "Senior Applications Engineer - Data Layer",
       "url": "https://jobs.apple.com/en-us/details/200647129-0157/senior-applications-engineer-data-layer?team=SFTWR",
       "identifier": "Senior Applications Engineer - Data Layer_engineer-data-layer?team=SFTWR"
@@ -57,13 +62,8 @@
       "title": "Machine Learning Engineer",
       "url": "https://jobs.apple.com/en-us/details/200652083-0836/machine-learning-engineer?team=SFTWR",
       "identifier": "Machine Learning Engineer_e-learning-engineer?team=SFTWR"
-    },
-    {
-      "title": "Software Development Engineer - Systems",
-      "url": "https://jobs.apple.com/en-us/details/200652065-0836/software-development-engineer-systems?team=SFTWR",
-      "identifier": "Software Development Engineer - Systems_nt-engineer-systems?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-26T17:47:39.664853"
+  "timestamp": "2026-03-26T18:05:12.441351"
 }

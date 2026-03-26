@@ -4,6 +4,11 @@
   "total_jobs": 20,
   "jobs": [
     {
+      "title": "Asset & Wealth Management - Multi Asset Solutions (MAS) Digital Strats - Analyst - New York\nNew York\u00b7United States\n\u00b7Analyst",
+      "url": "https://higher.gs.com/roles/161110",
+      "identifier": "Asset & Wealth Management - Multi Asset Solutions _s://higher.gs.com/roles/161110"
+    },
+    {
       "title": "Production Engineer, Global Banking & Markets, FICC Systematic Market Making (SMM)\nNew York\u00b7United States\n\u00b7Associate",
       "url": "https://higher.gs.com/roles/162484",
       "identifier": "Production Engineer, Global Banking & Markets, FIC_s://higher.gs.com/roles/162484"
@@ -69,11 +74,6 @@
       "identifier": "Asset & Wealth Management - Software Engineer - An_s://higher.gs.com/roles/163547"
     },
     {
-      "title": "Asset & Wealth Management - Multi Asset Solutions (MAS) Digital Strats - Analyst - New York\nNew York\u00b7United States\n\u00b7Analyst",
-      "url": "https://higher.gs.com/roles/161110",
-      "identifier": "Asset & Wealth Management - Multi Asset Solutions _s://higher.gs.com/roles/161110"
-    },
-    {
       "title": "Software Engineer, Global Banking & Markets, Investment Banking\nDallas\u00b7United States\n\u00b7Associate",
       "url": "https://higher.gs.com/roles/161630",
       "identifier": "Software Engineer, Global Banking & Markets, Inves_s://higher.gs.com/roles/161630"
@@ -105,5 +105,5 @@
     }
   ],
   "job_count_text": "56",
-  "timestamp": "2026-03-26T17:46:47.540830"
+  "timestamp": "2026-03-26T18:04:18.813121"
 }

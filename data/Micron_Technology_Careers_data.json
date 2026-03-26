@@ -4,14 +4,14 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Product Yield & Analytics ESDA Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
-      "url": "https://careers.micron.com/careers/job/40795739",
-      "identifier": "Product Yield & Analytics ESDA Engineer\nBoise, Ida_icron.com/careers/job/40795739"
-    },
-    {
       "title": "Reticle Manufacturing Process Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/41077337",
       "identifier": "Reticle Manufacturing Process Engineer\nBoise, Idah_icron.com/careers/job/41077337"
+    },
+    {
+      "title": "Product Yield & Analytics ESDA Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/40795739",
+      "identifier": "Product Yield & Analytics ESDA Engineer\nBoise, Ida_icron.com/careers/job/40795739"
     },
     {
       "title": "Systems Software Engineer\nFolsom, California, United States of America\nPosted 2 days ago",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "73",
-  "timestamp": "2026-03-26T23:26:09.152687"
+  "timestamp": "2026-03-26T23:43:23.391824"
 }

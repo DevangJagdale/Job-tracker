@@ -1,8 +1,18 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 12,
+  "total_jobs": 13,
   "jobs": [
+    {
+      "title": "Sr. Software Engineer, Siri Devices",
+      "url": "https://jobs.apple.com/en-us/details/200638270-3337/sr-software-engineer-siri-devices?team=SFTWR",
+      "identifier": "Sr. Software Engineer, Siri Devices_gineer-siri-devices?team=SFTWR"
+    },
+    {
+      "title": "Full-Stack RoR Engineer, Retail & Marcom Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200631160-3956/full-stack-ror-engineer-retail-marcom-engineering?team=SFTWR",
+      "identifier": "Full-Stack RoR Engineer, Retail & Marcom Engineeri_-marcom-engineering?team=SFTWR"
+    },
     {
       "title": "ML Engineer - Automated Evaluation and Adversarial Design",
       "url": "https://jobs.apple.com/en-us/details/200653704-0670/ml-engineer-automated-evaluation-and-adversarial-design?team=SFTWR",
@@ -57,13 +67,8 @@
       "title": "Senior Software Engineer \u2014 Full Stack (Node.js/TypeScript/functional)",
       "url": "https://jobs.apple.com/en-us/details/200653511-0157/senior-software-engineer-full-stack-node-js-typescript-functional?team=SFTWR",
       "identifier": "Senior Software Engineer \u2014 Full Stack (Node.js/Typ_pescript-functional?team=SFTWR"
-    },
-    {
-      "title": "watchOS Software QA Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200653144-0836/watchos-software-qa-engineer?team=SFTWR",
-      "identifier": "watchOS Software QA Engineer_oftware-qa-engineer?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-26T04:17:04.895991"
+  "timestamp": "2026-03-26T04:34:21.485447"
 }

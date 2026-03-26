@@ -4,6 +4,11 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Data Engineer for Crowdsourced Sensing",
+      "url": "https://jobs.apple.com/en-us/details/200653598-0836/data-engineer-for-crowdsourced-sensing?team=SFTWR",
+      "identifier": "Data Engineer for Crowdsourced Sensing_rowdsourced-sensing?team=SFTWR"
+    },
+    {
       "title": "Software QA Automation Engineer",
       "url": "https://jobs.apple.com/en-us/details/200646752-0836/software-qa-automation-engineer?team=SFTWR",
       "identifier": "Software QA Automation Engineer_automation-engineer?team=SFTWR"
@@ -77,13 +82,8 @@
       "title": "Certification Engineering Program Manager",
       "url": "https://jobs.apple.com/en-us/details/200653574-0836/certification-engineering-program-manager?team=SFTWR",
       "identifier": "Certification Engineering Program Manager_ing-program-manager?team=SFTWR"
-    },
-    {
-      "title": "Organizational Program Manager, Apple Services Engineering",
-      "url": "https://jobs.apple.com/en-us/details/200652426-0836/organizational-program-manager-apple-services-engineering?team=SFTWR",
-      "identifier": "Organizational Program Manager, Apple Services Eng_ervices-engineering?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-26T01:41:33.072731"
+  "timestamp": "2026-03-26T01:58:44.989456"
 }

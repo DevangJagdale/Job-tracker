@@ -4,6 +4,11 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Software Engineering Program Manager (EPM) - Apple Vision Pro",
+      "url": "https://jobs.apple.com/en-us/details/200653560-3956/software-engineering-program-manager-epm-apple-vision-pro?team=SFTWR",
+      "identifier": "Software Engineering Program Manager (EPM) - Apple_pm-apple-vision-pro?team=SFTWR"
+    },
+    {
       "title": "Software Development Engineer in Test (SDET), Frameworks",
       "url": "https://jobs.apple.com/en-us/details/200653801-0836/software-development-engineer-in-test-sdet-frameworks?team=SFTWR",
       "identifier": "Software Development Engineer in Test (SDET), Fram_est-sdet-frameworks?team=SFTWR"
@@ -77,13 +82,8 @@
       "title": "Manager, Central Quality Automation - Apple Services Engineering",
       "url": "https://jobs.apple.com/en-us/details/200653167-0836/manager-central-quality-automation-apple-services-engineering?team=SFTWR",
       "identifier": "Manager, Central Quality Automation - Apple Servic_ervices-engineering?team=SFTWR"
-    },
-    {
-      "title": "Senior Data Scientist, ASE iCloud Data Organization",
-      "url": "https://jobs.apple.com/en-us/details/200653217-3337/senior-data-scientist-ase-icloud-data-organization?team=SFTWR",
-      "identifier": "Senior Data Scientist, ASE iCloud Data Organizatio_d-data-organization?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-25T23:58:08.932493"
+  "timestamp": "2026-03-26T00:15:25.809293"
 }

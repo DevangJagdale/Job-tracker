@@ -4,9 +4,9 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Senior Software Development Engineer, IT MFG & TPG\nBoise, Idaho, United States of America\nPosted a day ago",
-      "url": "https://careers.micron.com/careers/job/41025925",
-      "identifier": "Senior Software Development Engineer, IT MFG & TPG_icron.com/careers/job/41025925"
+      "title": "Staff Engineer, Device Characterization\nBoise, Idaho, United States of America\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/38365874",
+      "identifier": "Staff Engineer, Device Characterization\nBoise, Ida_icron.com/careers/job/38365874"
     },
     {
       "title": "Systems Software Engineer\nFolsom, California, United States of America\nPosted a day ago",
@@ -17,11 +17,6 @@
       "title": "Product Manager\nBoise, Idaho, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/41063411",
       "identifier": "Product Manager\nBoise, Idaho, United States of Ame_icron.com/careers/job/41063411"
-    },
-    {
-      "title": "Staff Engineer, Device Characterization\nBoise, Idaho, United States of America\nPosted a day ago",
-      "url": "https://careers.micron.com/careers/job/38365874",
-      "identifier": "Staff Engineer, Device Characterization\nBoise, Ida_icron.com/careers/job/38365874"
     },
     {
       "title": "Product Development Engineer\nBoise, Idaho, United States of America\nPosted 2 days ago",
@@ -49,11 +44,16 @@
       "identifier": "Software Development Engineer\nBoise, Idaho, United_icron.com/careers/job/40899228"
     },
     {
+      "title": "US FE Expansion Planning Engineer\nBoise, Idaho, United States of America\nPosted 6 days ago",
+      "url": "https://careers.micron.com/careers/job/40986798",
+      "identifier": "US FE Expansion Planning Engineer\nBoise, Idaho, Un_icron.com/careers/job/40986798"
+    },
+    {
       "title": "Process Technician - PI Overall Process\nBoise, Idaho, United States of America\nPosted 6 days ago",
       "url": "https://careers.micron.com/careers/job/40969398",
       "identifier": "Process Technician - PI Overall Process\nBoise, Ida_icron.com/careers/job/40969398"
     }
   ],
-  "job_count_text": "74",
-  "timestamp": "2026-03-26T00:01:26.730927"
+  "job_count_text": "73",
+  "timestamp": "2026-03-26T00:18:40.627602"
 }

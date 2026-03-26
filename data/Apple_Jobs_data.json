@@ -1,8 +1,23 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 16,
+  "total_jobs": 12,
   "jobs": [
+    {
+      "title": "ML Engineer - Automated Evaluation and Adversarial Design",
+      "url": "https://jobs.apple.com/en-us/details/200653704-0670/ml-engineer-automated-evaluation-and-adversarial-design?team=SFTWR",
+      "identifier": "ML Engineer - Automated Evaluation and Adversarial_-adversarial-design?team=SFTWR"
+    },
+    {
+      "title": "WPC Apple Cash Data Scientist",
+      "url": "https://jobs.apple.com/en-us/details/200653784-1435/wpc-apple-cash-data-scientist?team=SFTWR",
+      "identifier": "WPC Apple Cash Data Scientist_cash-data-scientist?team=SFTWR"
+    },
+    {
+      "title": "ML Engineer - Evaluation Analysis, Metric and Data Strategy",
+      "url": "https://jobs.apple.com/en-us/details/200653803-0670/ml-engineer-evaluation-analysis-metric-and-data-strategy?team=SFTWR",
+      "identifier": "ML Engineer - Evaluation Analysis, Metric and Data_c-and-data-strategy?team=SFTWR"
+    },
     {
       "title": "Data Engineer for Crowdsourced Sensing",
       "url": "https://jobs.apple.com/en-us/details/200653598-0836/data-engineer-for-crowdsourced-sensing?team=SFTWR",
@@ -47,43 +62,8 @@
       "title": "watchOS Software QA Engineer",
       "url": "https://jobs.apple.com/en-us/details/200653144-0836/watchos-software-qa-engineer?team=SFTWR",
       "identifier": "watchOS Software QA Engineer_oftware-qa-engineer?team=SFTWR"
-    },
-    {
-      "title": "Senior Infrastructure SRE, Object Storage",
-      "url": "https://jobs.apple.com/en-us/details/200653315-3337/senior-infrastructure-sre-object-storage?team=SFTWR",
-      "identifier": "Senior Infrastructure SRE, Object Storage_-sre-object-storage?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer, Apple Services Engineering",
-      "url": "https://jobs.apple.com/en-us/details/200653761-3337/software-engineer-apple-services-engineering?team=SFTWR",
-      "identifier": "Software Engineer, Apple Services Engineering_ervices-engineering?team=SFTWR"
-    },
-    {
-      "title": "Sr. iOS Engineer- iCloud",
-      "url": "https://jobs.apple.com/en-us/details/200653653-0836/sr-ios-engineer-icloud?team=SFTWR",
-      "identifier": "Sr. iOS Engineer- iCloud_ios-engineer-icloud?team=SFTWR"
-    },
-    {
-      "title": "Senior Software Data Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200653743-3337/senior-software-data-engineer?team=SFTWR",
-      "identifier": "Senior Software Data Engineer_tware-data-engineer?team=SFTWR"
-    },
-    {
-      "title": "Senior Site Reliability Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200630731-0836/senior-site-reliability-engineer?team=SFTWR",
-      "identifier": "Senior Site Reliability Engineer_eliability-engineer?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer in Test, Device Management",
-      "url": "https://jobs.apple.com/en-us/details/200621557-3543/software-engineer-in-test-device-management?team=SFTWR",
-      "identifier": "Software Engineer in Test, Device Management_t-device-management?team=SFTWR"
-    },
-    {
-      "title": "Certification Engineering Program Manager",
-      "url": "https://jobs.apple.com/en-us/details/200653574-0836/certification-engineering-program-manager?team=SFTWR",
-      "identifier": "Certification Engineering Program Manager_ing-program-manager?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-26T02:50:36.812254"
+  "timestamp": "2026-03-26T03:07:49.874749"
 }

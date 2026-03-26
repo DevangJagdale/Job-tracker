@@ -1,74 +1,89 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 13,
+  "total_jobs": 16,
   "jobs": [
     {
-      "title": "Software Engineer, Observability",
-      "url": "https://jobs.apple.com/en-us/details/200632611-3577/software-engineer-observability?team=SFTWR",
-      "identifier": "Software Engineer, Observability_ineer-observability?team=SFTWR"
+      "title": "Engineering Project Coordinator",
+      "url": "https://jobs.apple.com/en-us/details/200652100-0157/engineering-project-coordinator?team=SFTWR",
+      "identifier": "Engineering Project Coordinator_project-coordinator?team=SFTWR"
     },
     {
-      "title": "Solutions Engineering Manager - Marketing Technologies",
-      "url": "https://jobs.apple.com/en-us/details/200652543-0836/solutions-engineering-manager-marketing-technologies?team=SFTWR",
-      "identifier": "Solutions Engineering Manager - Marketing Technolo_keting-technologies?team=SFTWR"
+      "title": "Software Development Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200652098-3337/software-development-engineer?team=SFTWR",
+      "identifier": "Software Development Engineer_evelopment-engineer?team=SFTWR"
     },
     {
-      "title": "Bluetooth Embedded Software Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200643923-0836/bluetooth-embedded-software-engineer?team=SFTWR",
-      "identifier": "Bluetooth Embedded Software Engineer_d-software-engineer?team=SFTWR"
+      "title": "Software Engineer - Systems",
+      "url": "https://jobs.apple.com/en-us/details/200652101-0836/software-engineer-systems?team=SFTWR",
+      "identifier": "Software Engineer - Systems_re-engineer-systems?team=SFTWR"
     },
     {
-      "title": "Software Engineering Manager, ML Infrastructure - Creator Studio",
-      "url": "https://jobs.apple.com/en-us/details/200646105-1435/software-engineering-manager-ml-infrastructure-creator-studio?team=SFTWR",
-      "identifier": "Software Engineering Manager, ML Infrastructure - _ture-creator-studio?team=SFTWR"
+      "title": "Data Scientist",
+      "url": "https://jobs.apple.com/en-us/details/200652121-0836/data-scientist?team=SFTWR",
+      "identifier": "Data Scientist_0836/data-scientist?team=SFTWR"
     },
     {
-      "title": "Senior Software Engineer, App Store Data",
-      "url": "https://jobs.apple.com/en-us/details/200631930-0836/senior-software-engineer-app-store-data?team=SFTWR",
-      "identifier": "Senior Software Engineer, App Store Data_neer-app-store-data?team=SFTWR"
+      "title": "Engineering Project Lead",
+      "url": "https://jobs.apple.com/en-us/details/200652127-0836/engineering-project-lead?team=SFTWR",
+      "identifier": "Engineering Project Lead_eering-project-lead?team=SFTWR"
     },
     {
-      "title": "Sr. Machine Learning Scientist, Siri Speech",
-      "url": "https://jobs.apple.com/en-us/details/200653772-1242/sr-machine-learning-scientist-siri-speech?team=SFTWR",
-      "identifier": "Sr. Machine Learning Scientist, Siri Speech_ientist-siri-speech?team=SFTWR"
+      "title": "RF/Analog/Mixed Signal Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200652146-3543/rf-analog-mixed-signal-engineering?team=SFTWR",
+      "identifier": "RF/Analog/Mixed Signal Engineering_-signal-engineering?team=SFTWR"
     },
     {
-      "title": "Software QA Engineer - Automation, Siri",
-      "url": "https://jobs.apple.com/en-us/details/200653762-3401/software-qa-engineer-automation-siri?team=SFTWR",
-      "identifier": "Software QA Engineer - Automation, Siri_eer-automation-siri?team=SFTWR"
+      "title": "Video Machine Learning Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200653646-3543/video-machine-learning-engineer?team=SFTWR",
+      "identifier": "Video Machine Learning Engineer_e-learning-engineer?team=SFTWR"
     },
     {
-      "title": "Software Quality Engineer, Media",
-      "url": "https://jobs.apple.com/en-us/details/200627832-3543/software-quality-engineer-media?team=SFTWR",
-      "identifier": "Software Quality Engineer, Media_lity-engineer-media?team=SFTWR"
+      "title": "Software Development Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200652091-0836/software-development-engineering?team=SFTWR",
+      "identifier": "Software Development Engineering_lopment-engineering?team=SFTWR"
     },
     {
-      "title": "Sr. Software Engineer, Siri Devices",
-      "url": "https://jobs.apple.com/en-us/details/200638270-3337/sr-software-engineer-siri-devices?team=SFTWR",
-      "identifier": "Sr. Software Engineer, Siri Devices_gineer-siri-devices?team=SFTWR"
+      "title": "Machine Learning Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200652083-0836/machine-learning-engineer?team=SFTWR",
+      "identifier": "Machine Learning Engineer_e-learning-engineer?team=SFTWR"
     },
     {
-      "title": "Full-Stack RoR Engineer, Retail & Marcom Engineering",
-      "url": "https://jobs.apple.com/en-us/details/200631160-3956/full-stack-ror-engineer-retail-marcom-engineering?team=SFTWR",
-      "identifier": "Full-Stack RoR Engineer, Retail & Marcom Engineeri_-marcom-engineering?team=SFTWR"
+      "title": "Software Development Engineer - Systems",
+      "url": "https://jobs.apple.com/en-us/details/200652065-0836/software-development-engineer-systems?team=SFTWR",
+      "identifier": "Software Development Engineer - Systems_nt-engineer-systems?team=SFTWR"
     },
     {
-      "title": "ML Engineer - Automated Evaluation and Adversarial Design",
-      "url": "https://jobs.apple.com/en-us/details/200653704-0670/ml-engineer-automated-evaluation-and-adversarial-design?team=SFTWR",
-      "identifier": "ML Engineer - Automated Evaluation and Adversarial_-adversarial-design?team=SFTWR"
+      "title": "Tools and Automation Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200652056-0836/tools-and-automation-engineer?team=SFTWR",
+      "identifier": "Tools and Automation Engineer_automation-engineer?team=SFTWR"
     },
     {
-      "title": "WPC Apple Cash Data Scientist",
-      "url": "https://jobs.apple.com/en-us/details/200653784-1435/wpc-apple-cash-data-scientist?team=SFTWR",
-      "identifier": "WPC Apple Cash Data Scientist_cash-data-scientist?team=SFTWR"
+      "title": "Engineer Project/Program Manager",
+      "url": "https://jobs.apple.com/en-us/details/200652141-3543/engineer-project-program-manager?team=SFTWR",
+      "identifier": "Engineer Project/Program Manager_ect-program-manager?team=SFTWR"
     },
     {
-      "title": "ML Engineer - Evaluation Analysis, Metric and Data Strategy",
-      "url": "https://jobs.apple.com/en-us/details/200653803-0670/ml-engineer-evaluation-analysis-metric-and-data-strategy?team=SFTWR",
-      "identifier": "ML Engineer - Evaluation Analysis, Metric and Data_c-and-data-strategy?team=SFTWR"
+      "title": "AR/VR Software Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200652134-1697/ar-vr-software-engineer?team=SFTWR",
+      "identifier": "AR/VR Software Engineer_r-software-engineer?team=SFTWR"
+    },
+    {
+      "title": "Maps Business Analyst",
+      "url": "https://jobs.apple.com/en-us/details/200652144-0157/maps-business-analyst?team=OPMFG",
+      "identifier": "Maps Business Analyst_ps-business-analyst?team=OPMFG"
+    },
+    {
+      "title": "Software Development Engineer - Test",
+      "url": "https://jobs.apple.com/en-us/details/200652150-0836/software-development-engineer-test?team=SFTWR",
+      "identifier": "Software Development Engineer - Test_pment-engineer-test?team=SFTWR"
+    },
+    {
+      "title": "Machine Learning",
+      "url": "https://jobs.apple.com/en-us/details/200652151-0836/machine-learning?team=SFTWR",
+      "identifier": "Machine Learning_36/machine-learning?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-26T16:38:44.355743"
+  "timestamp": "2026-03-26T16:55:58.697102"
 }

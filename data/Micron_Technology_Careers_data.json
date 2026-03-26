@@ -4,24 +4,19 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "RAM RDA Process Engineer\nBoise, Idaho, United States of America\nPosted 17 hours ago",
-      "url": "https://careers.micron.com/careers/job/39720423",
-      "identifier": "RAM RDA Process Engineer\nBoise, Idaho, United Stat_icron.com/careers/job/39720423"
-    },
-    {
       "title": "Product Yield & Analytics ESDA Engineer\nBoise, Idaho, United States of America\nPosted 17 hours ago",
       "url": "https://careers.micron.com/careers/job/40795739",
       "identifier": "Product Yield & Analytics ESDA Engineer\nBoise, Ida_icron.com/careers/job/40795739"
     },
     {
+      "title": "RAM RDA Process Engineer\nBoise, Idaho, United States of America\nPosted 17 hours ago",
+      "url": "https://careers.micron.com/careers/job/39720423",
+      "identifier": "RAM RDA Process Engineer\nBoise, Idaho, United Stat_icron.com/careers/job/39720423"
+    },
+    {
       "title": "Systems Software Engineer\nFolsom, California, United States of America\nPosted 2 days ago",
       "url": "https://careers.micron.com/careers/job/41062686",
       "identifier": "Systems Software Engineer\nFolsom, California, Unit_icron.com/careers/job/41062686"
-    },
-    {
-      "title": "Staff Engineer, Device Characterization\nBoise, Idaho, United States of America\nPosted 2 days ago",
-      "url": "https://careers.micron.com/careers/job/38365874",
-      "identifier": "Staff Engineer, Device Characterization\nBoise, Ida_icron.com/careers/job/38365874"
     },
     {
       "title": "Returned Material Authorization Engineer (Quality Engineer)\nBoise, Idaho, United States of America\nPosted 2 days ago",
@@ -32,6 +27,11 @@
       "title": "Product Manager\nBoise, Idaho, United States of America\nPosted 2 days ago",
       "url": "https://careers.micron.com/careers/job/41063411",
       "identifier": "Product Manager\nBoise, Idaho, United States of Ame_icron.com/careers/job/41063411"
+    },
+    {
+      "title": "Staff Engineer, Device Characterization\nBoise, Idaho, United States of America\nPosted 2 days ago",
+      "url": "https://careers.micron.com/careers/job/38365874",
+      "identifier": "Staff Engineer, Device Characterization\nBoise, Ida_icron.com/careers/job/38365874"
     },
     {
       "title": "HBM SoC Design Engineer\nRichardson, Texas, United States of America + 1 more\nPosted 3 days ago",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "75",
-  "timestamp": "2026-03-26T16:41:56.791437"
+  "timestamp": "2026-03-26T16:59:12.517571"
 }

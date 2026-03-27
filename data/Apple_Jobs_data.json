@@ -4,6 +4,11 @@
   "total_jobs": 13,
   "jobs": [
     {
+      "title": "Sr. Site Reliability Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200633415-3401/sr-site-reliability-engineer?team=SFTWR",
+      "identifier": "Sr. Site Reliability Engineer_eliability-engineer?team=SFTWR"
+    },
+    {
       "title": "Sr Software Engineer (Python), Supply Chain Integration",
       "url": "https://jobs.apple.com/en-us/details/200600702-3956/sr-software-engineer-python-supply-chain-integration?team=SFTWR",
       "identifier": "Sr Software Engineer (Python), Supply Chain Integr_y-chain-integration?team=SFTWR"
@@ -62,13 +67,8 @@
       "title": "Senior UI Software Engineer - Video Applications",
       "url": "https://jobs.apple.com/en-us/details/200653979-0157/senior-ui-software-engineer-video-applications?team=SFTWR",
       "identifier": "Senior UI Software Engineer - Video Applications_-video-applications?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer, Apple Services Engineering, iCloud Platform",
-      "url": "https://jobs.apple.com/en-us/details/200637172-0836/software-engineer-apple-services-engineering-icloud-platform?team=SFTWR",
-      "identifier": "Software Engineer, Apple Services Engineering, iCl_ing-icloud-platform?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-27T19:59:38.481340"
+  "timestamp": "2026-03-27T20:16:53.393328"
 }

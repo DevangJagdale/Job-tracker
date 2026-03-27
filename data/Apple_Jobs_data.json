@@ -4,6 +4,11 @@
   "total_jobs": 12,
   "jobs": [
     {
+      "title": "Senior Software QA Engineer, Creativity Apps",
+      "url": "https://jobs.apple.com/en-us/details/200646132-3543/senior-software-qa-engineer-creativity-apps?team=SFTWR",
+      "identifier": "Senior Software QA Engineer, Creativity Apps_eer-creativity-apps?team=SFTWR"
+    },
+    {
       "title": "Sr Software Engineer, Employee Experience & Productivity",
       "url": "https://jobs.apple.com/en-us/details/200652035-0670/sr-software-engineer-employee-experience-productivity?team=SFTWR",
       "identifier": "Sr Software Engineer, Employee Experience & Produc_rience-productivity?team=SFTWR"
@@ -57,13 +62,8 @@
       "title": "Senior UI Software Engineer - Video Applications",
       "url": "https://jobs.apple.com/en-us/details/200653979-0157/senior-ui-software-engineer-video-applications?team=SFTWR",
       "identifier": "Senior UI Software Engineer - Video Applications_-video-applications?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer, Apple Services Engineering, iCloud Platform",
-      "url": "https://jobs.apple.com/en-us/details/200637172-0836/software-engineer-apple-services-engineering-icloud-platform?team=SFTWR",
-      "identifier": "Software Engineer, Apple Services Engineering, iCl_ing-icloud-platform?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-27T19:34:43.669968"
+  "timestamp": "2026-03-27T19:42:27.140273"
 }

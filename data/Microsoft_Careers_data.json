@@ -4,6 +4,16 @@
   "total_jobs": 10,
   "jobs": [
     {
+      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 6 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556653641?domain=microsoft.com",
+      "identifier": "Senior Software Engineer\nUnited States, Washington_556653641?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 14 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556851582?domain=microsoft.com",
+      "identifier": "Senior Software Engineer\nUnited States, Washington_556851582?domain=microsoft.com"
+    },
+    {
       "title": "Senior Software Engineer Azure Storage\nUnited States, Multiple Locations, Multiple Locations\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556847408?domain=microsoft.com",
       "identifier": "Senior Software Engineer Azure Storage\nUnited Stat_556847408?domain=microsoft.com"
@@ -34,7 +44,7 @@
       "identifier": "Senior Software Engineer\nUnited States, Multiple L_556847387?domain=microsoft.com"
     },
     {
-      "title": "Principal Software Engineer Manager\nUnited States, Washington, Redmond\nPosted 15 hours ago",
+      "title": "Principal Software Engineer Manager\nUnited States, Washington, Redmond\nPosted 16 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556853160?domain=microsoft.com",
       "identifier": "Principal Software Engineer Manager\nUnited States,_556853160?domain=microsoft.com"
     },
@@ -42,18 +52,8 @@
       "title": "Principal Software Engineering-CoreAI\nUnited States, Washington, Redmond\nPosted 17 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556760128?domain=microsoft.com",
       "identifier": "Principal Software Engineering-CoreAI\nUnited State_556760128?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Principal Engineering Manager\nUnited States, Washington, Redmond\nPosted 17 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556852852?domain=microsoft.com",
-      "identifier": "Senior Principal Engineering Manager\nUnited States_556852852?domain=microsoft.com"
-    },
-    {
-      "title": "Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 18 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556752814?domain=microsoft.com",
-      "identifier": "Software Engineer\nUnited States, Multiple Location_556752814?domain=microsoft.com"
     }
   ],
-  "job_count_text": "805",
-  "timestamp": "2026-03-27T16:24:33.589534"
+  "job_count_text": "807",
+  "timestamp": "2026-03-27T16:41:49.218773"
 }

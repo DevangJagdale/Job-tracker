@@ -1,8 +1,13 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 14,
+  "total_jobs": 13,
   "jobs": [
+    {
+      "title": "Sr Live Stream Broadcast Systems Engineer - AppleTV",
+      "url": "https://jobs.apple.com/en-us/details/200652260-0670/sr-live-stream-broadcast-systems-engineer-appletv?team=SFTWR",
+      "identifier": "Sr Live Stream Broadcast Systems Engineer - AppleT_ms-engineer-appletv?team=SFTWR"
+    },
     {
       "title": "Senior UI Software Engineer - Video Applications",
       "url": "https://jobs.apple.com/en-us/details/200653979-0157/senior-ui-software-engineer-video-applications?team=SFTWR",
@@ -60,20 +65,10 @@
     },
     {
       "title": "Senior Engineering Manager, Apple Data Platform",
-      "url": "https://jobs.apple.com/en-us/details/200653924-3337/senior-engineering-manager-apple-data-platform?team=SFTWR",
+      "url": "https://jobs.apple.com/en-us/details/200653924-0836/senior-engineering-manager-apple-data-platform?team=SFTWR",
       "identifier": "Senior Engineering Manager, Apple Data Platform_apple-data-platform?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer (UI Solutions), AI & Data Platforms (AiDP)",
-      "url": "https://jobs.apple.com/en-us/details/200653293-0157/software-engineer-ui-solutions-ai-data-platforms-aidp?team=SFTWR",
-      "identifier": "Software Engineer (UI Solutions), AI & Data Platfo_data-platforms-aidp?team=SFTWR"
-    },
-    {
-      "title": "Wireless Software Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200653448-3543/wireless-software-engineer?team=SFTWR",
-      "identifier": "Wireless Software Engineer_s-software-engineer?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-27T16:24:49.498955"
+  "timestamp": "2026-03-27T16:42:05.800873"
 }

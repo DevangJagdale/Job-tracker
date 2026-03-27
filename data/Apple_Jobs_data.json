@@ -4,6 +4,11 @@
   "total_jobs": 12,
   "jobs": [
     {
+      "title": "Sr. ML Engineer, Siri User Experience Metrics and Data",
+      "url": "https://jobs.apple.com/en-us/details/200653967-0836/sr-ml-engineer-siri-user-experience-metrics-and-data?team=SFTWR",
+      "identifier": "Sr. ML Engineer, Siri User Experience Metrics and _ce-metrics-and-data?team=SFTWR"
+    },
+    {
       "title": "Sr. Site Reliability Engineer",
       "url": "https://jobs.apple.com/en-us/details/200633415-3401/sr-site-reliability-engineer?team=SFTWR",
       "identifier": "Sr. Site Reliability Engineer_eliability-engineer?team=SFTWR"
@@ -57,13 +62,8 @@
       "title": "Sr. Software Engineer Products - iCloud Anti Spam",
       "url": "https://jobs.apple.com/en-us/details/200653982-3543/sr-software-engineer-products-icloud-anti-spam?team=SFTWR",
       "identifier": "Sr. Software Engineer Products - iCloud Anti Spam_ts-icloud-anti-spam?team=SFTWR"
-    },
-    {
-      "title": "SDET, Security Server Application, Enterprise Applications Engineering",
-      "url": "https://jobs.apple.com/en-us/details/200651077-3956/sdet-security-server-application-enterprise-applications-engineering?team=SFTWR",
-      "identifier": "SDET, Security Server Application, Enterprise Appl_cations-engineering?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-27T17:33:53.877060"
+  "timestamp": "2026-03-27T17:51:12.330831"
 }

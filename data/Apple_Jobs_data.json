@@ -4,6 +4,11 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Manager, Engineering Program Manager, Siri Speech",
+      "url": "https://jobs.apple.com/en-us/details/200653812-0836/manager-engineering-program-manager-siri-speech?team=SFTWR",
+      "identifier": "Manager, Engineering Program Manager, Siri Speech_manager-siri-speech?team=SFTWR"
+    },
+    {
       "title": "Motion Scientist",
       "url": "https://jobs.apple.com/en-us/details/200653981-0836/motion-scientist?team=SFTWR",
       "identifier": "Motion Scientist_36/motion-scientist?team=SFTWR"
@@ -77,13 +82,8 @@
       "title": "Software Engineering Manager (Data Solutions), Ai & Data Platforms",
       "url": "https://jobs.apple.com/en-us/details/200652503-3956/software-engineering-manager-data-solutions-ai-data-platforms?team=SFTWR",
       "identifier": "Software Engineering Manager (Data Solutions), Ai _s-ai-data-platforms?team=SFTWR"
-    },
-    {
-      "title": "Software Engineering Program Manager (EPM) - Apple Vision Pro, Connectivity",
-      "url": "https://jobs.apple.com/en-us/details/200653811-3956/software-engineering-program-manager-epm-apple-vision-pro-connectivity?team=SFTWR",
-      "identifier": "Software Engineering Program Manager (EPM) - Apple_on-pro-connectivity?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-26T23:57:21.117621"
+  "timestamp": "2026-03-27T00:14:36.742353"
 }

@@ -4,6 +4,11 @@
   "total_jobs": 20,
   "jobs": [
     {
+      "title": "Asset & Wealth Management - Software Engineer - Associate - New York\nNew York\u00b7United States\n\u00b7Associate",
+      "url": "https://higher.gs.com/roles/160510",
+      "identifier": "Asset & Wealth Management - Software Engineer - As_s://higher.gs.com/roles/160510"
+    },
+    {
       "title": "Asset & Wealth Management-Java Developer-Analyst-Dallas\nDallas\u00b7United States\n\u00b7Analyst",
       "url": "https://higher.gs.com/roles/160546",
       "identifier": "Asset & Wealth Management-Java Developer-Analyst-D_s://higher.gs.com/roles/160546"
@@ -22,11 +27,6 @@
       "title": "Engineering-Dallas-Associate-Software Engineering\nDallas\u00b7United States\n\u00b7Associate",
       "url": "https://higher.gs.com/roles/153020",
       "identifier": "Engineering-Dallas-Associate-Software Engineering\n_s://higher.gs.com/roles/153020"
-    },
-    {
-      "title": "Asset & Wealth Management - Software Engineer - Associate - New York\nNew York\u00b7United States\n\u00b7Associate",
-      "url": "https://higher.gs.com/roles/160510",
-      "identifier": "Asset & Wealth Management - Software Engineer - As_s://higher.gs.com/roles/160510"
     },
     {
       "title": "Compliance, Dallas, Associate, Software Engineering\nDallas\u00b7United States\n\u00b7Associate",
@@ -105,5 +105,5 @@
     }
   ],
   "job_count_text": "54",
-  "timestamp": "2026-03-27T18:42:09.625630"
+  "timestamp": "2026-03-27T18:59:25.118276"
 }

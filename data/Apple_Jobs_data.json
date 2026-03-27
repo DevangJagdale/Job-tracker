@@ -4,6 +4,11 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Live Stream Reliability Engineer - AppleTV",
+      "url": "https://jobs.apple.com/en-us/details/200653224-0670/live-stream-reliability-engineer-appletv?team=SFTWR",
+      "identifier": "Live Stream Reliability Engineer - AppleTV_ty-engineer-appletv?team=SFTWR"
+    },
+    {
       "title": "Sr Live Stream Broadcast Systems Engineer - AppleTV",
       "url": "https://jobs.apple.com/en-us/details/200652260-0670/sr-live-stream-broadcast-systems-engineer-appletv?team=SFTWR",
       "identifier": "Sr Live Stream Broadcast Systems Engineer - AppleT_ms-engineer-appletv?team=SFTWR"
@@ -77,13 +82,8 @@
       "title": "Display Device Driver SW Engineer, Core OS",
       "url": "https://jobs.apple.com/en-us/details/200643430-0836/display-device-driver-sw-engineer-core-os?team=SFTWR",
       "identifier": "Display Device Driver SW Engineer, Core OS_sw-engineer-core-os?team=SFTWR"
-    },
-    {
-      "title": "Wi-Fi UI Engineer, Wireless Technologies & Ecosystems",
-      "url": "https://jobs.apple.com/en-us/details/200642864-0836/wi-fi-ui-engineer-wireless-technologies-ecosystems?team=SFTWR",
-      "identifier": "Wi-Fi UI Engineer, Wireless Technologies & Ecosyst_nologies-ecosystems?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-27T23:08:57.063964"
+  "timestamp": "2026-03-27T23:26:09.678539"
 }

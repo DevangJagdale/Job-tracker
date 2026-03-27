@@ -4,6 +4,11 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Senior Machine Learning Engineering Manager, Ads Quality",
+      "url": "https://jobs.apple.com/en-us/details/200653902-0836/senior-machine-learning-engineering-manager-ads-quality?team=SFTWR",
+      "identifier": "Senior Machine Learning Engineering Manager, Ads Q_manager-ads-quality?team=SFTWR"
+    },
+    {
       "title": "Manager, Engineering Program Manager, Siri Speech",
       "url": "https://jobs.apple.com/en-us/details/200653812-0836/manager-engineering-program-manager-siri-speech?team=SFTWR",
       "identifier": "Manager, Engineering Program Manager, Siri Speech_manager-siri-speech?team=SFTWR"
@@ -77,13 +82,8 @@
       "title": "Product Manager, Employee Experience & Productivity",
       "url": "https://jobs.apple.com/en-us/details/200652916-3956/product-manager-employee-experience-productivity?team=SFTWR",
       "identifier": "Product Manager, Employee Experience & Productivit_rience-productivity?team=SFTWR"
-    },
-    {
-      "title": "Software Engineering Manager (Data Solutions), Ai & Data Platforms",
-      "url": "https://jobs.apple.com/en-us/details/200652503-3956/software-engineering-manager-data-solutions-ai-data-platforms?team=SFTWR",
-      "identifier": "Software Engineering Manager (Data Solutions), Ai _s-ai-data-platforms?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-27T02:57:36.173187"
+  "timestamp": "2026-03-27T03:15:01.864079"
 }

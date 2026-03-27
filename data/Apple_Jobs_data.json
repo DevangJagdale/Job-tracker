@@ -1,109 +1,99 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 20,
+  "total_jobs": 18,
   "jobs": [
     {
-      "title": "Metal GPU Driver Engineer, Graphics, Games, & ML",
-      "url": "https://jobs.apple.com/en-us/details/200628574-0836/metal-gpu-driver-engineer-graphics-games-ml?team=SFTWR",
-      "identifier": "Metal GPU Driver Engineer, Graphics, Games, & ML_r-graphics-games-ml?team=SFTWR"
+      "title": "Senior Data Analyst - Storage Technologies, Core OS",
+      "url": "https://jobs.apple.com/en-us/details/200637401-0836/senior-data-analyst-storage-technologies-core-os?team=SFTWR",
+      "identifier": "Senior Data Analyst - Storage Technologies, Core O_echnologies-core-os?team=SFTWR"
     },
     {
-      "title": "Security Software Engineer, Data Protection",
-      "url": "https://jobs.apple.com/en-us/details/200649068-0836/security-software-engineer-data-protection?team=SFTWR",
-      "identifier": "Security Software Engineer, Data Protection_eer-data-protection?team=SFTWR"
+      "title": "Quality Engineering Manager - Bluetooth, Wireless Technologies & Ecosystems",
+      "url": "https://jobs.apple.com/en-us/details/200644139-0836/quality-engineering-manager-bluetooth-wireless-technologies-ecosystems?team=SFTWR",
+      "identifier": "Quality Engineering Manager - Bluetooth, Wireless _nologies-ecosystems?team=SFTWR"
     },
     {
-      "title": "Wireless Systems AI/ML Engineer, Wireless Technologies & Ecosystems",
-      "url": "https://jobs.apple.com/en-us/details/200638218-3543/wireless-systems-ai-ml-engineer-wireless-technologies-ecosystems?team=SFTWR",
-      "identifier": "Wireless Systems AI/ML Engineer, Wireless Technolo_nologies-ecosystems?team=SFTWR"
+      "title": "AirPods Software Engineer, Sensing & Connectivity",
+      "url": "https://jobs.apple.com/en-us/details/200641069-0836/airpods-software-engineer-sensing-connectivity?team=SFTWR",
+      "identifier": "AirPods Software Engineer, Sensing & Connectivity_ensing-connectivity?team=SFTWR"
     },
     {
-      "title": "Pre-silicon ML and Compute Framework Engineer, Graphics, Game and ML",
-      "url": "https://jobs.apple.com/en-us/details/200631702-0836/pre-silicon-ml-and-compute-framework-engineer-graphics-game-and-ml?team=SFTWR",
-      "identifier": "Pre-silicon ML and Compute Framework Engineer, Gra_raphics-game-and-ml?team=SFTWR"
+      "title": "Software Engineer - Systems & Rendering Performance (Freeform), Vision Products Software",
+      "url": "https://jobs.apple.com/en-us/details/200640422-3337/software-engineer-systems-rendering-performance-freeform-vision-products-software?team=SFTWR",
+      "identifier": "Software Engineer - Systems & Rendering Performanc_n-products-software?team=SFTWR"
     },
     {
-      "title": "Apple Silicon GPU Driver Engineer - Performance, Graphics, Games, & ML",
-      "url": "https://jobs.apple.com/en-us/details/200630065-0836/apple-silicon-gpu-driver-engineer-performance-graphics-games-ml?team=SFTWR",
-      "identifier": "Apple Silicon GPU Driver Engineer - Performance, G_e-graphics-games-ml?team=SFTWR"
+      "title": "Wi-Fi Software Engineer, Wireless Technologies & Ecosystems",
+      "url": "https://jobs.apple.com/en-us/details/200640036-0836/wi-fi-software-engineer-wireless-technologies-ecosystems?team=SFTWR",
+      "identifier": "Wi-Fi Software Engineer, Wireless Technologies & E_nologies-ecosystems?team=SFTWR"
     },
     {
-      "title": "Wi-Fi Software Engineer - Frameworks & AI/ML, Wireless Technologies & Ecosystems",
-      "url": "https://jobs.apple.com/en-us/details/200646833-0836/wi-fi-software-engineer-frameworks-ai-ml-wireless-technologies-ecosystems?team=SFTWR",
-      "identifier": "Wi-Fi Software Engineer - Frameworks & AI/ML, Wire_nologies-ecosystems?team=SFTWR"
+      "title": "Sr Software Engineer - Systems & Rendering Performance (Freeform), Vision Products Software",
+      "url": "https://jobs.apple.com/en-us/details/200642059-3337/sr-software-engineer-systems-rendering-performance-freeform-vision-products-software?team=SFTWR",
+      "identifier": "Sr Software Engineer - Systems & Rendering Perform_n-products-software?team=SFTWR"
     },
     {
-      "title": "Junior UI Compositing Engineer, Graphics, Games, & ML",
-      "url": "https://jobs.apple.com/en-us/details/200636915-0836/junior-ui-compositing-engineer-graphics-games-ml?team=SFTWR",
-      "identifier": "Junior UI Compositing Engineer, Graphics, Games, &_r-graphics-games-ml?team=SFTWR"
+      "title": "Headphones and Accessories Tools & Automation Quality Engineer, Sensing & Connectivity",
+      "url": "https://jobs.apple.com/en-us/details/200641237-3543/headphones-and-accessories-tools-automation-quality-engineer-sensing-connectivity?team=SFTWR",
+      "identifier": "Headphones and Accessories Tools & Automation Qual_ensing-connectivity?team=SFTWR"
     },
     {
-      "title": "GPU Drivers & Metal Test Engineer, Graphics, Games, & ML",
-      "url": "https://jobs.apple.com/en-us/details/200638012-0836/gpu-drivers-metal-test-engineer-graphics-games-ml?team=SFTWR",
-      "identifier": "GPU Drivers & Metal Test Engineer, Graphics, Games_r-graphics-games-ml?team=SFTWR"
+      "title": "Platform Systems Engineering Manager, CoreoS",
+      "url": "https://jobs.apple.com/en-us/details/200644146-0505/platform-systems-engineering-manager-coreos?team=SFTWR",
+      "identifier": "Platform Systems Engineering Manager, CoreoS_ring-manager-coreos?team=SFTWR"
     },
     {
-      "title": "Senior Media Applications Engineer, Audio & Media Technologies",
-      "url": "https://jobs.apple.com/en-us/details/200651342-3543/senior-media-applications-engineer-audio-media-technologies?team=SFTWR",
-      "identifier": "Senior Media Applications Engineer, Audio & Media _-media-technologies?team=SFTWR"
+      "title": "AR/VR Software Engineer - Spatial Media, Vision Products Software",
+      "url": "https://jobs.apple.com/en-us/details/200649460-3401/ar-vr-software-engineer-spatial-media-vision-products-software?team=SFTWR",
+      "identifier": "AR/VR Software Engineer - Spatial Media, Vision Pr_n-products-software?team=SFTWR"
     },
     {
-      "title": "Product System Test Engineer, Wireless Technologies & Ecosystems",
-      "url": "https://jobs.apple.com/en-us/details/200649186-3543/product-system-test-engineer-wireless-technologies-ecosystems?team=SFTWR",
-      "identifier": "Product System Test Engineer, Wireless Technologie_nologies-ecosystems?team=SFTWR"
+      "title": "Core Wi-Fi Embedded Software Engineer, Wireless Technologies & Ecosystems",
+      "url": "https://jobs.apple.com/en-us/details/200640285-3543/core-wi-fi-embedded-software-engineer-wireless-technologies-ecosystems?team=SFTWR",
+      "identifier": "Core Wi-Fi Embedded Software Engineer, Wireless Te_nologies-ecosystems?team=SFTWR"
     },
     {
-      "title": "Display Driver Engineer, Graphics, Games, & ML",
-      "url": "https://jobs.apple.com/en-us/details/200646170-0836/display-driver-engineer-graphics-games-ml?team=SFTWR",
-      "identifier": "Display Driver Engineer, Graphics, Games, & ML_r-graphics-games-ml?team=SFTWR"
+      "title": "Sr. Privacy Systems Software Engineer, Sensing & Connectivity",
+      "url": "https://jobs.apple.com/en-us/details/200643254-3543/sr-privacy-systems-software-engineer-sensing-connectivity?team=SFTWR",
+      "identifier": "Sr. Privacy Systems Software Engineer, Sensing & C_ensing-connectivity?team=SFTWR"
     },
     {
-      "title": "Product Display Driver Engineer, Graphics, Games, & ML",
-      "url": "https://jobs.apple.com/en-us/details/200647491-0836/product-display-driver-engineer-graphics-games-ml?team=SFTWR",
-      "identifier": "Product Display Driver Engineer, Graphics, Games, _r-graphics-games-ml?team=SFTWR"
+      "title": "Sr AR/VR Software Engineer - UI Frameworks, Vision Products Software",
+      "url": "https://jobs.apple.com/en-us/details/200633549-3401/sr-ar-vr-software-engineer-ui-frameworks-vision-products-software?team=SFTWR",
+      "identifier": "Sr AR/VR Software Engineer - UI Frameworks, Vision_n-products-software?team=SFTWR"
     },
     {
-      "title": "Wireless System Validation Engineer, Wireless Technologies & Ecosystems",
-      "url": "https://jobs.apple.com/en-us/details/200647885-3543/wireless-system-validation-engineer-wireless-technologies-ecosystems?team=SFTWR",
-      "identifier": "Wireless System Validation Engineer, Wireless Tech_nologies-ecosystems?team=SFTWR"
+      "title": "Sr AR/VR Software Engineer - visionOS Apps, Vision Products Software",
+      "url": "https://jobs.apple.com/en-us/details/200649673-3401/sr-ar-vr-software-engineer-visionos-apps-vision-products-software?team=SFTWR",
+      "identifier": "Sr AR/VR Software Engineer - visionOS Apps, Vision_n-products-software?team=SFTWR"
     },
     {
-      "title": "Software Performance Engineer for Memory, CoreOS",
-      "url": "https://jobs.apple.com/en-us/details/200653992-0836/software-performance-engineer-for-memory-coreos?team=SFTWR",
-      "identifier": "Software Performance Engineer for Memory, CoreOS_r-for-memory-coreos?team=SFTWR"
+      "title": "File Systems Software Engineer, Core OS",
+      "url": "https://jobs.apple.com/en-us/details/200631962-0836/file-systems-software-engineer-core-os?team=SFTWR",
+      "identifier": "File Systems Software Engineer, Core OS_re-engineer-core-os?team=SFTWR"
     },
     {
-      "title": "Wireless Thread Ecosystem Engineer, Wireless Technologies & Ecosystems",
-      "url": "https://jobs.apple.com/en-us/details/200623717-0836/wireless-thread-ecosystem-engineer-wireless-technologies-ecosystems?team=SFTWR",
-      "identifier": "Wireless Thread Ecosystem Engineer, Wireless Techn_nologies-ecosystems?team=SFTWR"
+      "title": "Firmware Development Engineer, Wireless Technologies & Ecosystems",
+      "url": "https://jobs.apple.com/en-us/details/200640806-0836/firmware-development-engineer-wireless-technologies-ecosystems?team=SFTWR",
+      "identifier": "Firmware Development Engineer, Wireless Technologi_nologies-ecosystems?team=SFTWR"
     },
     {
-      "title": "Real-Time Streaming Media Software Engineer (AVConference), Audio & Media Technologies",
-      "url": "https://jobs.apple.com/en-us/details/200633051-3543/real-time-streaming-media-software-engineer-avconference-audio-media-technologies?team=SFTWR",
-      "identifier": "Real-Time Streaming Media Software Engineer (AVCon_-media-technologies?team=SFTWR"
+      "title": "Software Engineer, Connected Audio, Sensing & Connectivity",
+      "url": "https://jobs.apple.com/en-us/details/200639881-3401/software-engineer-connected-audio-sensing-connectivity?team=SFTWR",
+      "identifier": "Software Engineer, Connected Audio, Sensing & Conn_ensing-connectivity?team=SFTWR"
     },
     {
-      "title": "Production Metal Frameworks Engineer, Graphics, Game and ML",
-      "url": "https://jobs.apple.com/en-us/details/200651242-0836/production-metal-frameworks-engineer-graphics-game-and-ml?team=SFTWR",
-      "identifier": "Production Metal Frameworks Engineer, Graphics, Ga_raphics-game-and-ml?team=SFTWR"
+      "title": "AR/VR UI Software Engineer - FaceTime, Vision Products Software",
+      "url": "https://jobs.apple.com/en-us/details/200641952-3401/ar-vr-ui-software-engineer-facetime-vision-products-software?team=SFTWR",
+      "identifier": "AR/VR UI Software Engineer - FaceTime, Vision Prod_n-products-software?team=SFTWR"
     },
     {
-      "title": "Senior Software Engineer, Applied Machine Learning , Sensing & Connectivity",
-      "url": "https://jobs.apple.com/en-us/details/200640328-0836/senior-software-engineer-applied-machine-learning%E2%80%A8-sensing-connectivity?team=SFTWR",
-      "identifier": "Senior Software Engineer, Applied Machine Learning_ensing-connectivity?team=SFTWR"
-    },
-    {
-      "title": "Darwin Runtime Engineer, CoreOS",
-      "url": "https://jobs.apple.com/en-us/details/200641854-0836/darwin-runtime-engineer-coreos?team=SFTWR",
-      "identifier": "Darwin Runtime Engineer, CoreOS_ime-engineer-coreos?team=SFTWR"
-    },
-    {
-      "title": "On-Device ML Infrastructure Engineer, ML User Experience, APIs & Integration, Graphics, Games & ML",
-      "url": "https://jobs.apple.com/en-us/details/200631250-0836/on-device-ml-infrastructure-engineer-ml-user-experience-apis-integration-graphics-games-ml?team=SFTWR",
-      "identifier": "On-Device ML Infrastructure Engineer, ML User Expe_n-graphics-games-ml?team=SFTWR"
+      "title": "Software Development Engineer Wi-Fi Experience, Wireless Technologies & Ecosystems",
+      "url": "https://jobs.apple.com/en-us/details/200573152-3543/software-development-engineer-wi-fi-experience-wireless-technologies-ecosystems?team=SFTWR",
+      "identifier": "Software Development Engineer Wi-Fi Experience, Wi_nologies-ecosystems?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-27T21:25:46.028536"
+  "timestamp": "2026-03-27T21:42:55.875791"
 }

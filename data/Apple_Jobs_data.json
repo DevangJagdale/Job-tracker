@@ -1,8 +1,13 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 12,
+  "total_jobs": 13,
   "jobs": [
+    {
+      "title": "Sr Software Engineer (Python), Supply Chain Integration",
+      "url": "https://jobs.apple.com/en-us/details/200600702-3956/sr-software-engineer-python-supply-chain-integration?team=SFTWR",
+      "identifier": "Sr Software Engineer (Python), Supply Chain Integr_y-chain-integration?team=SFTWR"
+    },
     {
       "title": "Senior Software QA Engineer, Creativity Apps",
       "url": "https://jobs.apple.com/en-us/details/200646132-3543/senior-software-qa-engineer-creativity-apps?team=SFTWR",
@@ -49,11 +54,6 @@
       "identifier": "Sr. ML Engineer, Siri User Experience Metrics and _ce-metrics-and-data?team=SFTWR"
     },
     {
-      "title": "Sr. Site Reliability Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200633415-3401/sr-site-reliability-engineer?team=SFTWR",
-      "identifier": "Sr. Site Reliability Engineer_eliability-engineer?team=SFTWR"
-    },
-    {
       "title": "Systems Engineer - Apple Vision Pro",
       "url": "https://jobs.apple.com/en-us/details/200653703-3749/systems-engineer-apple-vision-pro?team=SFTWR",
       "identifier": "Systems Engineer - Apple Vision Pro_er-apple-vision-pro?team=SFTWR"
@@ -62,8 +62,13 @@
       "title": "Senior UI Software Engineer - Video Applications",
       "url": "https://jobs.apple.com/en-us/details/200653979-0157/senior-ui-software-engineer-video-applications?team=SFTWR",
       "identifier": "Senior UI Software Engineer - Video Applications_-video-applications?team=SFTWR"
+    },
+    {
+      "title": "Software Engineer, Apple Services Engineering, iCloud Platform",
+      "url": "https://jobs.apple.com/en-us/details/200637172-0836/software-engineer-apple-services-engineering-icloud-platform?team=SFTWR",
+      "identifier": "Software Engineer, Apple Services Engineering, iCl_ing-icloud-platform?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-27T19:42:27.140273"
+  "timestamp": "2026-03-27T19:59:38.481340"
 }

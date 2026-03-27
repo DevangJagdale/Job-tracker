@@ -4,7 +4,12 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Principal Software Engineering Architect\nUnited States, Multiple Locations, Multiple Locations\nPosted 26 minutes ago",
+      "title": "Senior Software Engineer, Minecraft UX\nUnited States, Washington, Redmond\nPosted 5 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556827384?domain=microsoft.com",
+      "identifier": "Senior Software Engineer, Minecraft UX\nUnited Stat_556827384?domain=microsoft.com"
+    },
+    {
+      "title": "Principal Software Engineering Architect\nUnited States, Multiple Locations, Multiple Locations\nPosted 43 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556847406?domain=microsoft.com",
       "identifier": "Principal Software Engineering Architect\nUnited St_556847406?domain=microsoft.com"
     },
@@ -47,13 +52,8 @@
       "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted 4 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556621588?domain=microsoft.com",
       "identifier": "Principal Software Engineer\nUnited States, Washing_556621588?domain=microsoft.com"
-    },
-    {
-      "title": "Software Engineer, Agent Services (CoreAI)\nUnited States, Washington, Redmond\nPosted 4 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556619865?domain=microsoft.com",
-      "identifier": "Software Engineer, Agent Services (CoreAI)\nUnited _556619865?domain=microsoft.com"
     }
   ],
-  "job_count_text": "809",
-  "timestamp": "2026-03-27T18:25:30.616827"
+  "job_count_text": "810",
+  "timestamp": "2026-03-27T18:42:43.753310"
 }

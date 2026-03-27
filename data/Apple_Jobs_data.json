@@ -1,8 +1,18 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 12,
+  "total_jobs": 10,
   "jobs": [
+    {
+      "title": "Software Engineer, Creativity Apps",
+      "url": "https://jobs.apple.com/en-us/details/200645140-0157/software-engineer-creativity-apps?team=SFTWR",
+      "identifier": "Software Engineer, Creativity Apps_eer-creativity-apps?team=SFTWR"
+    },
+    {
+      "title": "FoundationDB SRE Manager",
+      "url": "https://jobs.apple.com/en-us/details/200653986-3577/foundationdb-sre-manager?team=SFTWR",
+      "identifier": "FoundationDB SRE Manager_ationdb-sre-manager?team=SFTWR"
+    },
     {
       "title": "Staff Machine Learning Rendering Engineer - Simulation, Special Projects",
       "url": "https://jobs.apple.com/en-us/details/200631707-0836/staff-machine-learning-rendering-engineer-simulation-special-projects?team=SFTWR",
@@ -42,28 +52,8 @@
       "title": "Senior UI Software Engineer - Video Applications",
       "url": "https://jobs.apple.com/en-us/details/200653979-0157/senior-ui-software-engineer-video-applications?team=SFTWR",
       "identifier": "Senior UI Software Engineer - Video Applications_-video-applications?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer, Apple Services Engineering, iCloud Platform",
-      "url": "https://jobs.apple.com/en-us/details/200637172-0836/software-engineer-apple-services-engineering-icloud-platform?team=SFTWR",
-      "identifier": "Software Engineer, Apple Services Engineering, iCl_ing-icloud-platform?team=SFTWR"
-    },
-    {
-      "title": "Software Performance Engineer for Memory",
-      "url": "https://jobs.apple.com/en-us/details/200653992-0836/software-performance-engineer-for-memory?team=SFTWR",
-      "identifier": "Software Performance Engineer for Memory_engineer-for-memory?team=SFTWR"
-    },
-    {
-      "title": "Senior Machine Learning Engineering Manager, Ads Quality",
-      "url": "https://jobs.apple.com/en-us/details/200653902-0836/senior-machine-learning-engineering-manager-ads-quality?team=SFTWR",
-      "identifier": "Senior Machine Learning Engineering Manager, Ads Q_manager-ads-quality?team=SFTWR"
-    },
-    {
-      "title": "Manager, Engineering Program Manager, Siri Speech",
-      "url": "https://jobs.apple.com/en-us/details/200653812-0836/manager-engineering-program-manager-siri-speech?team=SFTWR",
-      "identifier": "Manager, Engineering Program Manager, Siri Speech_manager-siri-speech?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-27T18:25:46.579384"
+  "timestamp": "2026-03-27T18:43:00.351219"
 }

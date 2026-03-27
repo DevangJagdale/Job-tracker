@@ -4,11 +4,6 @@
   "total_jobs": 20,
   "jobs": [
     {
-      "title": "Asset & Wealth Management - Multi Asset Solutions (MAS) Digital Strats - Analyst - New York\nNew York\u00b7United States\n\u00b7Analyst",
-      "url": "https://higher.gs.com/roles/161110",
-      "identifier": "Asset & Wealth Management - Multi Asset Solutions _s://higher.gs.com/roles/161110"
-    },
-    {
       "title": "Engineering-Dallas-Associate-Software Engineering\nDallas\u00b7United States\n\u00b7Associate",
       "url": "https://higher.gs.com/roles/153020",
       "identifier": "Engineering-Dallas-Associate-Software Engineering\n_s://higher.gs.com/roles/153020"
@@ -102,8 +97,13 @@
       "title": "Global Markets Trading Platform Engineering - GBM Public - Associate - Software Engineer - Dallas\nNew York\u00b7United States\n\u00b7Associate",
       "url": "https://higher.gs.com/roles/161601",
       "identifier": "Global Markets Trading Platform Engineering - GBM _s://higher.gs.com/roles/161601"
+    },
+    {
+      "title": "Data Engineering - Market Data Engineering - Software Engineer - Associate - Dallas\nDallas\u00b7United States\n\u00b7Associate",
+      "url": "https://higher.gs.com/roles/152750",
+      "identifier": "Data Engineering - Market Data Engineering - Softw_s://higher.gs.com/roles/152750"
     }
   ],
-  "job_count_text": "53",
-  "timestamp": "2026-03-27T02:31:32.879046"
+  "job_count_text": "52",
+  "timestamp": "2026-03-27T02:48:49.201788"
 }

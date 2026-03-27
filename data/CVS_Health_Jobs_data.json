@@ -4,6 +4,16 @@
   "total_jobs": 8,
   "jobs": [
     {
+      "title": "Staff Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0863451/Staff-Software-Development-Engineer",
+      "identifier": "Staff Software Development Engineer_-Software-Development-Engineer"
+    },
+    {
+      "title": "Senior Analyst Digital Operations",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0859398/Senior-Analyst-Digital-Operations",
+      "identifier": "Senior Analyst Digital Operations_ior-Analyst-Digital-Operations"
+    },
+    {
       "title": "Senior Manager - Software Development Engineering (Customer Reporting)",
       "url": "https://jobs.cvshealth.com/us/en/job/R0783915/Senior-Manager-Software-Development-Engineering-Customer-Reporting",
       "identifier": "Senior Manager - Software Development Engineering _Engineering-Customer-Reporting"
@@ -19,11 +29,6 @@
       "identifier": "Manager - Software Technology Vendor Management_e-Technology-Vendor-Management"
     },
     {
-      "title": "Lead Director - Software Technology Vendor Management",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0818639/Lead-Director-Software-Technology-Vendor-Management",
-      "identifier": "Lead Director - Software Technology Vendor Managem_e-Technology-Vendor-Management"
-    },
-    {
       "title": "Lead Director, Frictionless Provider Experience (FPX)",
       "url": "https://jobs.cvshealth.com/us/en/job/R0861079/Lead-Director-Frictionless-Provider-Experience-FPX",
       "identifier": "Lead Director, Frictionless Provider Experience (F_onless-Provider-Experience-FPX"
@@ -34,16 +39,11 @@
       "identifier": "Staff Software Development and Devops Engineer_evelopment-and-Devops-Engineer"
     },
     {
-      "title": "Staff Software Development and DevOps Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0749847/Staff-Software-Development-and-DevOps-Engineer",
-      "identifier": "Staff Software Development and DevOps Engineer_evelopment-and-DevOps-Engineer"
-    },
-    {
-      "title": "Lead Director \u2013 Software Development Engineering (AI & Automation)",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0843277/Lead-Director-Software-Development-Engineering-AI-Automation",
-      "identifier": "Lead Director \u2013 Software Development Engineering (_ment-Engineering-AI-Automation"
+      "title": "Lead Director - Software Technology Vendor Management",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0818639/Lead-Director-Software-Technology-Vendor-Management",
+      "identifier": "Lead Director - Software Technology Vendor Managem_e-Technology-Vendor-Management"
     }
   ],
-  "job_count_text": "43",
-  "timestamp": "2026-03-27T20:17:55.470152"
+  "job_count_text": "45",
+  "timestamp": "2026-03-27T20:35:11.146160"
 }

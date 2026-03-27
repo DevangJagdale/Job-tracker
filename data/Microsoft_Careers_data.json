@@ -5,16 +5,26 @@
   "jobs": [
     {
       "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 6 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556850814?domain=microsoft.com",
+      "identifier": "Senior Software Engineer\nUnited States, Washington_556850814?domain=microsoft.com"
+    },
+    {
+      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 18 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556627736?domain=microsoft.com",
+      "identifier": "Software Engineer II\nUnited States, Washington, Re_556627736?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 24 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556653641?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Washington_556653641?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 14 minutes ago",
+      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 31 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556851582?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Washington_556851582?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer Azure Storage\nUnited States, Multiple Locations, Multiple Locations\nPosted an hour ago",
+      "title": "Senior Software Engineer Azure Storage\nUnited States, Multiple Locations, Multiple Locations\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556847408?domain=microsoft.com",
       "identifier": "Senior Software Engineer Azure Storage\nUnited Stat_556847408?domain=microsoft.com"
     },
@@ -24,12 +34,12 @@
       "identifier": "Principal Applied Scientist\nUnited States, Washing_556638046?domain=microsoft.com"
     },
     {
-      "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted 2 hours ago",
+      "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted 3 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556621588?domain=microsoft.com",
       "identifier": "Principal Software Engineer\nUnited States, Washing_556621588?domain=microsoft.com"
     },
     {
-      "title": "Software Engineer, Agent Services (CoreAI)\nUnited States, Washington, Redmond\nPosted 2 hours ago",
+      "title": "Software Engineer, Agent Services (CoreAI)\nUnited States, Washington, Redmond\nPosted 3 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556619865?domain=microsoft.com",
       "identifier": "Software Engineer, Agent Services (CoreAI)\nUnited _556619865?domain=microsoft.com"
     },
@@ -42,18 +52,8 @@
       "title": "Senior Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 5 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556847387?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Multiple L_556847387?domain=microsoft.com"
-    },
-    {
-      "title": "Principal Software Engineer Manager\nUnited States, Washington, Redmond\nPosted 16 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556853160?domain=microsoft.com",
-      "identifier": "Principal Software Engineer Manager\nUnited States,_556853160?domain=microsoft.com"
-    },
-    {
-      "title": "Principal Software Engineering-CoreAI\nUnited States, Washington, Redmond\nPosted 17 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556760128?domain=microsoft.com",
-      "identifier": "Principal Software Engineering-CoreAI\nUnited State_556760128?domain=microsoft.com"
     }
   ],
-  "job_count_text": "807",
-  "timestamp": "2026-03-27T16:41:49.218773"
+  "job_count_text": "809",
+  "timestamp": "2026-03-27T16:59:07.594400"
 }

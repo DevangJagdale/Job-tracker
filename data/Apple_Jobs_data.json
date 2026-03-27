@@ -4,6 +4,16 @@
   "total_jobs": 12,
   "jobs": [
     {
+      "title": "Live Stream Reliability Engineer - AppleTV",
+      "url": "https://jobs.apple.com/en-us/details/200653224-0670/live-stream-reliability-engineer-appletv?team=SFTWR",
+      "identifier": "Live Stream Reliability Engineer - AppleTV_ty-engineer-appletv?team=SFTWR"
+    },
+    {
+      "title": "Staff Machine Learning Engineer (Generative AI)",
+      "url": "https://jobs.apple.com/en-us/details/200603249-0836/staff-machine-learning-engineer-generative-ai?team=MLAI",
+      "identifier": "Staff Machine Learning Engineer (Generative AI)_gineer-generative-ai?team=MLAI"
+    },
+    {
       "title": "Sr. ML Engineer, Siri User Experience Metrics and Data",
       "url": "https://jobs.apple.com/en-us/details/200653967-0836/sr-ml-engineer-siri-user-experience-metrics-and-data?team=SFTWR",
       "identifier": "Sr. ML Engineer, Siri User Experience Metrics and _ce-metrics-and-data?team=SFTWR"
@@ -52,18 +62,8 @@
       "title": "Motion Scientist",
       "url": "https://jobs.apple.com/en-us/details/200653981-0836/motion-scientist?team=SFTWR",
       "identifier": "Motion Scientist_36/motion-scientist?team=SFTWR"
-    },
-    {
-      "title": "Software Engineering Program Manager (EPM) - Apple Vision Pro, Persona",
-      "url": "https://jobs.apple.com/en-us/details/200653559-3956/software-engineering-program-manager-epm-apple-vision-pro-persona?team=SFTWR",
-      "identifier": "Software Engineering Program Manager (EPM) - Apple_-vision-pro-persona?team=SFTWR"
-    },
-    {
-      "title": "Sr. Software Engineer Products - iCloud Anti Spam",
-      "url": "https://jobs.apple.com/en-us/details/200653982-3543/sr-software-engineer-products-icloud-anti-spam?team=SFTWR",
-      "identifier": "Sr. Software Engineer Products - iCloud Anti Spam_ts-icloud-anti-spam?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-27T17:51:12.330831"
+  "timestamp": "2026-03-27T18:08:26.810993"
 }

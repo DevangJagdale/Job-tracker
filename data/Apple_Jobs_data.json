@@ -4,6 +4,11 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Sr Live Stream Broadcast Systems Engineer - AppleTV",
+      "url": "https://jobs.apple.com/en-us/details/200652260-0670/sr-live-stream-broadcast-systems-engineer-appletv?team=SFTWR",
+      "identifier": "Sr Live Stream Broadcast Systems Engineer - AppleT_ms-engineer-appletv?team=SFTWR"
+    },
+    {
       "title": "Tools & Automation Engineer, Wireless Technologies & Ecosystems",
       "url": "https://jobs.apple.com/en-us/details/200648766-0836/tools-automation-engineer-wireless-technologies-ecosystems?team=SFTWR",
       "identifier": "Tools & Automation Engineer, Wireless Technologies_nologies-ecosystems?team=SFTWR"
@@ -77,13 +82,8 @@
       "title": "Wi-Fi UI Engineer, Wireless Technologies & Ecosystems",
       "url": "https://jobs.apple.com/en-us/details/200642864-0836/wi-fi-ui-engineer-wireless-technologies-ecosystems?team=SFTWR",
       "identifier": "Wi-Fi UI Engineer, Wireless Technologies & Ecosyst_nologies-ecosystems?team=SFTWR"
-    },
-    {
-      "title": "Systems Software Engineer, Process Management and Device Attestation, CoreOS",
-      "url": "https://jobs.apple.com/en-us/details/200643346-3543/systems-software-engineer-process-management-and-device-attestation-coreos?team=SFTWR",
-      "identifier": "Systems Software Engineer, Process Management and _-attestation-coreos?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-27T22:51:40.567283"
+  "timestamp": "2026-03-27T23:08:57.063964"
 }

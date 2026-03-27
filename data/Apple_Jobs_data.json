@@ -1,79 +1,109 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 14,
+  "total_jobs": 20,
   "jobs": [
     {
-      "title": "Data Scientist, Streaming Media",
-      "url": "https://jobs.apple.com/en-us/details/200632724-0836/data-scientist-streaming-media?team=SFTWR",
-      "identifier": "Data Scientist, Streaming Media_ist-streaming-media?team=SFTWR"
+      "title": "Metal GPU Driver Engineer, Graphics, Games, & ML",
+      "url": "https://jobs.apple.com/en-us/details/200628574-0836/metal-gpu-driver-engineer-graphics-games-ml?team=SFTWR",
+      "identifier": "Metal GPU Driver Engineer, Graphics, Games, & ML_r-graphics-games-ml?team=SFTWR"
     },
     {
-      "title": "Sr. Site Reliability Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200633415-3401/sr-site-reliability-engineer?team=SFTWR",
-      "identifier": "Sr. Site Reliability Engineer_eliability-engineer?team=SFTWR"
+      "title": "Security Software Engineer, Data Protection",
+      "url": "https://jobs.apple.com/en-us/details/200649068-0836/security-software-engineer-data-protection?team=SFTWR",
+      "identifier": "Security Software Engineer, Data Protection_eer-data-protection?team=SFTWR"
     },
     {
-      "title": "Sr Software Engineer (Python), Supply Chain Integration",
-      "url": "https://jobs.apple.com/en-us/details/200600702-3956/sr-software-engineer-python-supply-chain-integration?team=SFTWR",
-      "identifier": "Sr Software Engineer (Python), Supply Chain Integr_y-chain-integration?team=SFTWR"
+      "title": "Wireless Systems AI/ML Engineer, Wireless Technologies & Ecosystems",
+      "url": "https://jobs.apple.com/en-us/details/200638218-3543/wireless-systems-ai-ml-engineer-wireless-technologies-ecosystems?team=SFTWR",
+      "identifier": "Wireless Systems AI/ML Engineer, Wireless Technolo_nologies-ecosystems?team=SFTWR"
     },
     {
-      "title": "Senior Software QA Engineer, Creativity Apps",
-      "url": "https://jobs.apple.com/en-us/details/200646132-3543/senior-software-qa-engineer-creativity-apps?team=SFTWR",
-      "identifier": "Senior Software QA Engineer, Creativity Apps_eer-creativity-apps?team=SFTWR"
+      "title": "Pre-silicon ML and Compute Framework Engineer, Graphics, Game and ML",
+      "url": "https://jobs.apple.com/en-us/details/200631702-0836/pre-silicon-ml-and-compute-framework-engineer-graphics-game-and-ml?team=SFTWR",
+      "identifier": "Pre-silicon ML and Compute Framework Engineer, Gra_raphics-game-and-ml?team=SFTWR"
     },
     {
-      "title": "Sr Software Engineer, Employee Experience & Productivity",
-      "url": "https://jobs.apple.com/en-us/details/200652035-0670/sr-software-engineer-employee-experience-productivity?team=SFTWR",
-      "identifier": "Sr Software Engineer, Employee Experience & Produc_rience-productivity?team=SFTWR"
+      "title": "Apple Silicon GPU Driver Engineer - Performance, Graphics, Games, & ML",
+      "url": "https://jobs.apple.com/en-us/details/200630065-0836/apple-silicon-gpu-driver-engineer-performance-graphics-games-ml?team=SFTWR",
+      "identifier": "Apple Silicon GPU Driver Engineer - Performance, G_e-graphics-games-ml?team=SFTWR"
     },
     {
-      "title": "Site Reliability Engineer (Edge Services), Infrastructure Services",
-      "url": "https://jobs.apple.com/en-us/details/200645589-0157/site-reliability-engineer-edge-services-infrastructure-services?team=SFTWR",
-      "identifier": "Site Reliability Engineer (Edge Services), Infrast_astructure-services?team=SFTWR"
+      "title": "Wi-Fi Software Engineer - Frameworks & AI/ML, Wireless Technologies & Ecosystems",
+      "url": "https://jobs.apple.com/en-us/details/200646833-0836/wi-fi-software-engineer-frameworks-ai-ml-wireless-technologies-ecosystems?team=SFTWR",
+      "identifier": "Wi-Fi Software Engineer - Frameworks & AI/ML, Wire_nologies-ecosystems?team=SFTWR"
     },
     {
-      "title": "FoundationDB SRE Manager",
-      "url": "https://jobs.apple.com/en-us/details/200653986-3577/foundationdb-sre-manager?team=SFTWR",
-      "identifier": "FoundationDB SRE Manager_ationdb-sre-manager?team=SFTWR"
+      "title": "Junior UI Compositing Engineer, Graphics, Games, & ML",
+      "url": "https://jobs.apple.com/en-us/details/200636915-0836/junior-ui-compositing-engineer-graphics-games-ml?team=SFTWR",
+      "identifier": "Junior UI Compositing Engineer, Graphics, Games, &_r-graphics-games-ml?team=SFTWR"
     },
     {
-      "title": "Staff Machine Learning Rendering Engineer - Simulation, Special Projects",
-      "url": "https://jobs.apple.com/en-us/details/200631707-0836/staff-machine-learning-rendering-engineer-simulation-special-projects?team=SFTWR",
-      "identifier": "Staff Machine Learning Rendering Engineer - Simula_on-special-projects?team=SFTWR"
+      "title": "GPU Drivers & Metal Test Engineer, Graphics, Games, & ML",
+      "url": "https://jobs.apple.com/en-us/details/200638012-0836/gpu-drivers-metal-test-engineer-graphics-games-ml?team=SFTWR",
+      "identifier": "GPU Drivers & Metal Test Engineer, Graphics, Games_r-graphics-games-ml?team=SFTWR"
     },
     {
-      "title": "Sr Live Stream Broadcast Systems Engineer - AppleTV",
-      "url": "https://jobs.apple.com/en-us/details/200652260-0670/sr-live-stream-broadcast-systems-engineer-appletv?team=SFTWR",
-      "identifier": "Sr Live Stream Broadcast Systems Engineer - AppleT_ms-engineer-appletv?team=SFTWR"
+      "title": "Senior Media Applications Engineer, Audio & Media Technologies",
+      "url": "https://jobs.apple.com/en-us/details/200651342-3543/senior-media-applications-engineer-audio-media-technologies?team=SFTWR",
+      "identifier": "Senior Media Applications Engineer, Audio & Media _-media-technologies?team=SFTWR"
     },
     {
-      "title": "Live Stream Reliability Engineer - AppleTV",
-      "url": "https://jobs.apple.com/en-us/details/200653224-0670/live-stream-reliability-engineer-appletv?team=SFTWR",
-      "identifier": "Live Stream Reliability Engineer - AppleTV_ty-engineer-appletv?team=SFTWR"
+      "title": "Product System Test Engineer, Wireless Technologies & Ecosystems",
+      "url": "https://jobs.apple.com/en-us/details/200649186-3543/product-system-test-engineer-wireless-technologies-ecosystems?team=SFTWR",
+      "identifier": "Product System Test Engineer, Wireless Technologie_nologies-ecosystems?team=SFTWR"
     },
     {
-      "title": "Staff Machine Learning Engineer (Generative AI)",
-      "url": "https://jobs.apple.com/en-us/details/200603249-0836/staff-machine-learning-engineer-generative-ai?team=MLAI",
-      "identifier": "Staff Machine Learning Engineer (Generative AI)_gineer-generative-ai?team=MLAI"
+      "title": "Display Driver Engineer, Graphics, Games, & ML",
+      "url": "https://jobs.apple.com/en-us/details/200646170-0836/display-driver-engineer-graphics-games-ml?team=SFTWR",
+      "identifier": "Display Driver Engineer, Graphics, Games, & ML_r-graphics-games-ml?team=SFTWR"
     },
     {
-      "title": "Sr. ML Engineer, Siri User Experience Metrics and Data",
-      "url": "https://jobs.apple.com/en-us/details/200653967-0836/sr-ml-engineer-siri-user-experience-metrics-and-data?team=SFTWR",
-      "identifier": "Sr. ML Engineer, Siri User Experience Metrics and _ce-metrics-and-data?team=SFTWR"
+      "title": "Product Display Driver Engineer, Graphics, Games, & ML",
+      "url": "https://jobs.apple.com/en-us/details/200647491-0836/product-display-driver-engineer-graphics-games-ml?team=SFTWR",
+      "identifier": "Product Display Driver Engineer, Graphics, Games, _r-graphics-games-ml?team=SFTWR"
     },
     {
-      "title": "Systems Engineer - Apple Vision Pro",
-      "url": "https://jobs.apple.com/en-us/details/200653703-3749/systems-engineer-apple-vision-pro?team=SFTWR",
-      "identifier": "Systems Engineer - Apple Vision Pro_er-apple-vision-pro?team=SFTWR"
+      "title": "Wireless System Validation Engineer, Wireless Technologies & Ecosystems",
+      "url": "https://jobs.apple.com/en-us/details/200647885-3543/wireless-system-validation-engineer-wireless-technologies-ecosystems?team=SFTWR",
+      "identifier": "Wireless System Validation Engineer, Wireless Tech_nologies-ecosystems?team=SFTWR"
     },
     {
-      "title": "Senior UI Software Engineer - Video Applications",
-      "url": "https://jobs.apple.com/en-us/details/200653979-0157/senior-ui-software-engineer-video-applications?team=SFTWR",
-      "identifier": "Senior UI Software Engineer - Video Applications_-video-applications?team=SFTWR"
+      "title": "Software Performance Engineer for Memory, CoreOS",
+      "url": "https://jobs.apple.com/en-us/details/200653992-0836/software-performance-engineer-for-memory-coreos?team=SFTWR",
+      "identifier": "Software Performance Engineer for Memory, CoreOS_r-for-memory-coreos?team=SFTWR"
+    },
+    {
+      "title": "Wireless Thread Ecosystem Engineer, Wireless Technologies & Ecosystems",
+      "url": "https://jobs.apple.com/en-us/details/200623717-0836/wireless-thread-ecosystem-engineer-wireless-technologies-ecosystems?team=SFTWR",
+      "identifier": "Wireless Thread Ecosystem Engineer, Wireless Techn_nologies-ecosystems?team=SFTWR"
+    },
+    {
+      "title": "Real-Time Streaming Media Software Engineer (AVConference), Audio & Media Technologies",
+      "url": "https://jobs.apple.com/en-us/details/200633051-3543/real-time-streaming-media-software-engineer-avconference-audio-media-technologies?team=SFTWR",
+      "identifier": "Real-Time Streaming Media Software Engineer (AVCon_-media-technologies?team=SFTWR"
+    },
+    {
+      "title": "Production Metal Frameworks Engineer, Graphics, Game and ML",
+      "url": "https://jobs.apple.com/en-us/details/200651242-0836/production-metal-frameworks-engineer-graphics-game-and-ml?team=SFTWR",
+      "identifier": "Production Metal Frameworks Engineer, Graphics, Ga_raphics-game-and-ml?team=SFTWR"
+    },
+    {
+      "title": "Senior Software Engineer, Applied Machine Learning , Sensing & Connectivity",
+      "url": "https://jobs.apple.com/en-us/details/200640328-0836/senior-software-engineer-applied-machine-learning%E2%80%A8-sensing-connectivity?team=SFTWR",
+      "identifier": "Senior Software Engineer, Applied Machine Learning_ensing-connectivity?team=SFTWR"
+    },
+    {
+      "title": "Darwin Runtime Engineer, CoreOS",
+      "url": "https://jobs.apple.com/en-us/details/200641854-0836/darwin-runtime-engineer-coreos?team=SFTWR",
+      "identifier": "Darwin Runtime Engineer, CoreOS_ime-engineer-coreos?team=SFTWR"
+    },
+    {
+      "title": "On-Device ML Infrastructure Engineer, ML User Experience, APIs & Integration, Graphics, Games & ML",
+      "url": "https://jobs.apple.com/en-us/details/200631250-0836/on-device-ml-infrastructure-engineer-ml-user-experience-apis-integration-graphics-games-ml?team=SFTWR",
+      "identifier": "On-Device ML Infrastructure Engineer, ML User Expe_n-graphics-games-ml?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-27T21:08:34.653199"
+  "timestamp": "2026-03-27T21:25:46.028536"
 }

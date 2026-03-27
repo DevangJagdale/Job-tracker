@@ -1,8 +1,23 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 15,
+  "total_jobs": 16,
   "jobs": [
+    {
+      "title": "Motion Scientist",
+      "url": "https://jobs.apple.com/en-us/details/200653981-0836/motion-scientist?team=SFTWR",
+      "identifier": "Motion Scientist_36/motion-scientist?team=SFTWR"
+    },
+    {
+      "title": "Software Engineering Program Manager (EPM) - Apple Vision Pro, Persona",
+      "url": "https://jobs.apple.com/en-us/details/200653559-3956/software-engineering-program-manager-epm-apple-vision-pro-persona?team=SFTWR",
+      "identifier": "Software Engineering Program Manager (EPM) - Apple_-vision-pro-persona?team=SFTWR"
+    },
+    {
+      "title": "Sr. Software Engineer Products - iCloud Anti Spam",
+      "url": "https://jobs.apple.com/en-us/details/200653982-3543/sr-software-engineer-products-icloud-anti-spam?team=SFTWR",
+      "identifier": "Sr. Software Engineer Products - iCloud Anti Spam_ts-icloud-anti-spam?team=SFTWR"
+    },
     {
       "title": "SDET, Security Server Application, Enterprise Applications Engineering",
       "url": "https://jobs.apple.com/en-us/details/200651077-3956/sdet-security-server-application-enterprise-applications-engineering?team=SFTWR",
@@ -67,18 +82,8 @@
       "title": "Software Engineering Program Manager (EPM) - Apple Vision Pro, Connectivity",
       "url": "https://jobs.apple.com/en-us/details/200653811-3956/software-engineering-program-manager-epm-apple-vision-pro-connectivity?team=SFTWR",
       "identifier": "Software Engineering Program Manager (EPM) - Apple_on-pro-connectivity?team=SFTWR"
-    },
-    {
-      "title": "Senior Machine Learning Engineering Manager \u2013 Ads Predictions",
-      "url": "https://jobs.apple.com/en-us/details/200653874-0836/senior-machine-learning-engineering-manager-ads-predictions?team=SFTWR",
-      "identifier": "Senior Machine Learning Engineering Manager \u2013 Ads _ger-ads-predictions?team=SFTWR"
-    },
-    {
-      "title": "Senior Applications Engineer - Data Layer",
-      "url": "https://jobs.apple.com/en-us/details/200647129-0157/senior-applications-engineer-data-layer?team=SFTWR",
-      "identifier": "Senior Applications Engineer - Data Layer_engineer-data-layer?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-26T23:40:07.386753"
+  "timestamp": "2026-03-26T23:57:21.117621"
 }

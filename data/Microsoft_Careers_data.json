@@ -4,12 +4,22 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Software Engineer, Agent Services (CoreAI)\nUnited States, Washington, Redmond\nPosted 5 minutes ago",
+      "title": "Principal Applied Scientist\nUnited States, Washington, Redmond + 1 more\nPosted 10 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556638046?domain=microsoft.com",
+      "identifier": "Principal Applied Scientist\nUnited States, Washing_556638046?domain=microsoft.com"
+    },
+    {
+      "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted 15 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556621588?domain=microsoft.com",
+      "identifier": "Principal Software Engineer\nUnited States, Washing_556621588?domain=microsoft.com"
+    },
+    {
+      "title": "Software Engineer, Agent Services (CoreAI)\nUnited States, Washington, Redmond\nPosted 23 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556619865?domain=microsoft.com",
       "identifier": "Software Engineer, Agent Services (CoreAI)\nUnited _556619865?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer Manager - Azure Storage\nUnited States, Multiple Locations, Multiple Locations\nPosted 35 minutes ago",
+      "title": "Senior Software Engineer Manager - Azure Storage\nUnited States, Multiple Locations, Multiple Locations\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556853144?domain=microsoft.com",
       "identifier": "Senior Software Engineer Manager - Azure Storage\nU_556853144?domain=microsoft.com"
     },
@@ -19,7 +29,7 @@
       "identifier": "Senior Software Engineer\nUnited States, Multiple L_556847387?domain=microsoft.com"
     },
     {
-      "title": "Principal Software Engineer Manager\nUnited States, Washington, Redmond\nPosted 13 hours ago",
+      "title": "Principal Software Engineer Manager\nUnited States, Washington, Redmond\nPosted 14 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556853160?domain=microsoft.com",
       "identifier": "Principal Software Engineer Manager\nUnited States,_556853160?domain=microsoft.com"
     },
@@ -42,18 +52,8 @@
       "title": "Senior Software Engineer - Frontend\nUnited States, Washington, Redmond\nPosted 16 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556768809?domain=microsoft.com",
       "identifier": "Senior Software Engineer - Frontend\nUnited States,_556768809?domain=microsoft.com"
-    },
-    {
-      "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted 16 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556852779?domain=microsoft.com",
-      "identifier": "Principal Software Engineer\nUnited States, Washing_556852779?domain=microsoft.com"
-    },
-    {
-      "title": "Site Reliability Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 16 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556619927?domain=microsoft.com",
-      "identifier": "Site Reliability Engineer\nUnited States, Multiple _556619927?domain=microsoft.com"
     }
   ],
-  "job_count_text": "805",
-  "timestamp": "2026-03-27T14:23:42.758073"
+  "job_count_text": "807",
+  "timestamp": "2026-03-27T14:40:59.117305"
 }

@@ -4,12 +4,27 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Software Engineer\nUnited States, Washington, Redmond\nPosted 15 minutes ago",
+      "title": "Principal Software Engineer - AI Ads\nUnited States, Washington, Redmond\nPosted 8 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556629316?domain=microsoft.com",
+      "identifier": "Principal Software Engineer - AI Ads\nUnited States_556629316?domain=microsoft.com"
+    },
+    {
+      "title": "Software Engineer\nUnited States, Washington, Redmond\nPosted 12 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556850653?domain=microsoft.com",
+      "identifier": "Software Engineer\nUnited States, Washington, Redmo_556850653?domain=microsoft.com"
+    },
+    {
+      "title": "Software Engineer II\nUnited States, Multiple Locations, Multiple Locations + 1 more\nPosted 14 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556755280?domain=microsoft.com",
+      "identifier": "Software Engineer II\nUnited States, Multiple Locat_556755280?domain=microsoft.com"
+    },
+    {
+      "title": "Software Engineer\nUnited States, Washington, Redmond\nPosted 33 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556752120?domain=microsoft.com",
       "identifier": "Software Engineer\nUnited States, Washington, Redmo_556752120?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 36 minutes ago",
+      "title": "Senior Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556619272?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Multiple L_556619272?domain=microsoft.com"
     },
@@ -24,36 +39,21 @@
       "identifier": "Senior Software Engineer\nUnited States, Washington_556850874?domain=microsoft.com"
     },
     {
-      "title": "Software Engineer II - HR Employee Experience\nUnited States, Washington, Redmond\nPosted 2 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556849705?domain=microsoft.com",
-      "identifier": "Software Engineer II - HR Employee Experience\nUnit_556849705?domain=microsoft.com"
-    },
-    {
       "title": "Senior Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556620184?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Multiple L_556620184?domain=microsoft.com"
     },
     {
+      "title": "Software Engineer II - HR Employee Experience\nUnited States, Washington, Redmond\nPosted 2 hours ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556849705?domain=microsoft.com",
+      "identifier": "Software Engineer II - HR Employee Experience\nUnit_556849705?domain=microsoft.com"
+    },
+    {
       "title": "Member of Technical Staff, AI Platform Engineer - Response Quality\nUnited States, Washington, Redmond\nPosted 3 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556642880?domain=microsoft.com",
       "identifier": "Member of Technical Staff, AI Platform Engineer - _556642880?domain=microsoft.com"
-    },
-    {
-      "title": "Software Engineer\nUnited States, Washington, Redmond\nPosted 3 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556847494?domain=microsoft.com",
-      "identifier": "Software Engineer\nUnited States, Washington, Redmo_556847494?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 3 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556852821?domain=microsoft.com",
-      "identifier": "Senior Software Engineer\nUnited States, Washington_556852821?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Software Engineer-Compromise & Fraud Prevention\nUnited States, Washington, Redmond\nPosted 4 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556851985?domain=microsoft.com",
-      "identifier": "Senior Software Engineer-Compromise & Fraud Preven_556851985?domain=microsoft.com"
     }
   ],
-  "job_count_text": "814",
-  "timestamp": "2026-03-27T22:34:12.759657"
+  "job_count_text": "817",
+  "timestamp": "2026-03-27T22:51:23.902321"
 }

@@ -4,24 +4,19 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Reticle Manufacturing Process Engineer\nBoise, Idaho, United States of America\nPosted 2 days ago",
-      "url": "https://careers.micron.com/careers/job/41077337",
-      "identifier": "Reticle Manufacturing Process Engineer\nBoise, Idah_icron.com/careers/job/41077337"
-    },
-    {
       "title": "Product Yield & Analytics ESDA Engineer\nBoise, Idaho, United States of America\nPosted 2 days ago",
       "url": "https://careers.micron.com/careers/job/40795739",
       "identifier": "Product Yield & Analytics ESDA Engineer\nBoise, Ida_icron.com/careers/job/40795739"
     },
     {
+      "title": "Reticle Manufacturing Process Engineer\nBoise, Idaho, United States of America\nPosted 2 days ago",
+      "url": "https://careers.micron.com/careers/job/41077337",
+      "identifier": "Reticle Manufacturing Process Engineer\nBoise, Idah_icron.com/careers/job/41077337"
+    },
+    {
       "title": "Returned Material Authorization Engineer (Quality Engineer)\nBoise, Idaho, United States of America\nPosted 3 days ago",
       "url": "https://careers.micron.com/careers/job/41065045",
       "identifier": "Returned Material Authorization Engineer (Quality _icron.com/careers/job/41065045"
-    },
-    {
-      "title": "Staff Engineer, Device Characterization\nBoise, Idaho, United States of America\nPosted 3 days ago",
-      "url": "https://careers.micron.com/careers/job/38365874",
-      "identifier": "Staff Engineer, Device Characterization\nBoise, Ida_icron.com/careers/job/38365874"
     },
     {
       "title": "Systems Software Engineer\nFolsom, California, United States of America\nPosted 3 days ago",
@@ -34,14 +29,19 @@
       "identifier": "Product Manager\nBoise, Idaho, United States of Ame_icron.com/careers/job/41063411"
     },
     {
-      "title": "Product Development Engineer\nBoise, Idaho, United States of America\nPosted 4 days ago",
-      "url": "https://careers.micron.com/careers/job/41040587",
-      "identifier": "Product Development Engineer\nBoise, Idaho, United _icron.com/careers/job/41040587"
+      "title": "Staff Engineer, Device Characterization\nBoise, Idaho, United States of America\nPosted 3 days ago",
+      "url": "https://careers.micron.com/careers/job/38365874",
+      "identifier": "Staff Engineer, Device Characterization\nBoise, Ida_icron.com/careers/job/38365874"
     },
     {
       "title": "HBM SoC Design Engineer\nRichardson, Texas, United States of America + 1 more\nPosted 4 days ago",
       "url": "https://careers.micron.com/careers/job/41044579",
       "identifier": "HBM SoC Design Engineer\nRichardson, Texas, United _icron.com/careers/job/41044579"
+    },
+    {
+      "title": "Product Development Engineer\nBoise, Idaho, United States of America\nPosted 4 days ago",
+      "url": "https://careers.micron.com/careers/job/41040587",
+      "identifier": "Product Development Engineer\nBoise, Idaho, United _icron.com/careers/job/41040587"
     },
     {
       "title": "Engineer - Operations Improvement\nBoise, Idaho, United States of America\nPosted 5 days ago",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "72",
-  "timestamp": "2026-03-27T12:02:11.430515"
+  "timestamp": "2026-03-27T12:19:11.948629"
 }

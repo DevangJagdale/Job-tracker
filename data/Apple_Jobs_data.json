@@ -4,6 +4,11 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Software Performance Engineer for Memory",
+      "url": "https://jobs.apple.com/en-us/details/200653992-0836/software-performance-engineer-for-memory?team=SFTWR",
+      "identifier": "Software Performance Engineer for Memory_engineer-for-memory?team=SFTWR"
+    },
+    {
       "title": "Senior Machine Learning Engineering Manager, Ads Quality",
       "url": "https://jobs.apple.com/en-us/details/200653902-0836/senior-machine-learning-engineering-manager-ads-quality?team=SFTWR",
       "identifier": "Senior Machine Learning Engineering Manager, Ads Q_manager-ads-quality?team=SFTWR"
@@ -77,13 +82,8 @@
       "title": "Senior Software Engineer - Cloud Infrastructure, Golang",
       "url": "https://jobs.apple.com/en-us/details/200641254-0240/senior-software-engineer-cloud-infrastructure-golang?team=SFTWR",
       "identifier": "Senior Software Engineer - Cloud Infrastructure, G_frastructure-golang?team=SFTWR"
-    },
-    {
-      "title": "Product Manager, Employee Experience & Productivity",
-      "url": "https://jobs.apple.com/en-us/details/200652916-3956/product-manager-employee-experience-productivity?team=SFTWR",
-      "identifier": "Product Manager, Employee Experience & Productivit_rience-productivity?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-27T14:41:15.738187"
+  "timestamp": "2026-03-27T14:58:32.812827"
 }

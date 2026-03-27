@@ -1,99 +1,89 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 18,
+  "total_jobs": 16,
   "jobs": [
     {
-      "title": "Senior Data Analyst - Storage Technologies, Core OS",
-      "url": "https://jobs.apple.com/en-us/details/200637401-0836/senior-data-analyst-storage-technologies-core-os?team=SFTWR",
-      "identifier": "Senior Data Analyst - Storage Technologies, Core O_echnologies-core-os?team=SFTWR"
+      "title": "Tools & Automation Engineer, Wireless Technologies & Ecosystems",
+      "url": "https://jobs.apple.com/en-us/details/200648766-0836/tools-automation-engineer-wireless-technologies-ecosystems?team=SFTWR",
+      "identifier": "Tools & Automation Engineer, Wireless Technologies_nologies-ecosystems?team=SFTWR"
     },
     {
-      "title": "Quality Engineering Manager - Bluetooth, Wireless Technologies & Ecosystems",
-      "url": "https://jobs.apple.com/en-us/details/200644139-0836/quality-engineering-manager-bluetooth-wireless-technologies-ecosystems?team=SFTWR",
-      "identifier": "Quality Engineering Manager - Bluetooth, Wireless _nologies-ecosystems?team=SFTWR"
+      "title": "Software Device Driver Engineer - Core I/O, Core OS",
+      "url": "https://jobs.apple.com/en-us/details/200648465-0836/software-device-driver-engineer-core-i-o-core-os?team=SFTWR",
+      "identifier": "Software Device Driver Engineer - Core I/O, Core O_er-core-i-o-core-os?team=SFTWR"
     },
     {
-      "title": "AirPods Software Engineer, Sensing & Connectivity",
-      "url": "https://jobs.apple.com/en-us/details/200641069-0836/airpods-software-engineer-sensing-connectivity?team=SFTWR",
-      "identifier": "AirPods Software Engineer, Sensing & Connectivity_ensing-connectivity?team=SFTWR"
+      "title": "Software Developer in Test - LocalStorage QA, Core OS",
+      "url": "https://jobs.apple.com/en-us/details/200646138-0157/software-developer-in-test-localstorage-qa-core-os?team=SFTWR",
+      "identifier": "Software Developer in Test - LocalStorage QA, Core_lstorage-qa-core-os?team=SFTWR"
     },
     {
-      "title": "Software Engineer - Systems & Rendering Performance (Freeform), Vision Products Software",
-      "url": "https://jobs.apple.com/en-us/details/200640422-3337/software-engineer-systems-rendering-performance-freeform-vision-products-software?team=SFTWR",
-      "identifier": "Software Engineer - Systems & Rendering Performanc_n-products-software?team=SFTWR"
+      "title": "Software Engineer, System Services & Daemons, CoreOS",
+      "url": "https://jobs.apple.com/en-us/details/200631692-0505/software-engineer-system-services-daemons-coreos?team=SFTWR",
+      "identifier": "Software Engineer, System Services & Daemons, Core_ices-daemons-coreos?team=SFTWR"
     },
     {
-      "title": "Wi-Fi Software Engineer, Wireless Technologies & Ecosystems",
-      "url": "https://jobs.apple.com/en-us/details/200640036-0836/wi-fi-software-engineer-wireless-technologies-ecosystems?team=SFTWR",
-      "identifier": "Wi-Fi Software Engineer, Wireless Technologies & E_nologies-ecosystems?team=SFTWR"
+      "title": "Core Bring Up Engineer, CoreOS",
+      "url": "https://jobs.apple.com/en-us/details/200635979-0836/core-bring-up-engineer-coreos?team=SFTWR",
+      "identifier": "Core Bring Up Engineer, CoreOS_-up-engineer-coreos?team=SFTWR"
     },
     {
-      "title": "Sr Software Engineer - Systems & Rendering Performance (Freeform), Vision Products Software",
-      "url": "https://jobs.apple.com/en-us/details/200642059-3337/sr-software-engineer-systems-rendering-performance-freeform-vision-products-software?team=SFTWR",
-      "identifier": "Sr Software Engineer - Systems & Rendering Perform_n-products-software?team=SFTWR"
+      "title": "Software Engineer - File System Services, Core OS",
+      "url": "https://jobs.apple.com/en-us/details/200646144-3401/software-engineer-file-system-services-core-os?team=SFTWR",
+      "identifier": "Software Engineer - File System Services, Core OS_em-services-core-os?team=SFTWR"
     },
     {
-      "title": "Headphones and Accessories Tools & Automation Quality Engineer, Sensing & Connectivity",
-      "url": "https://jobs.apple.com/en-us/details/200641237-3543/headphones-and-accessories-tools-automation-quality-engineer-sensing-connectivity?team=SFTWR",
-      "identifier": "Headphones and Accessories Tools & Automation Qual_ensing-connectivity?team=SFTWR"
+      "title": "Bluetooth Software Performance Engineer, Wireless Technologies & Ecosystems",
+      "url": "https://jobs.apple.com/en-us/details/200620192-3543/bluetooth-software-performance-engineer-wireless-technologies-ecosystems?team=SFTWR",
+      "identifier": "Bluetooth Software Performance Engineer, Wireless _nologies-ecosystems?team=SFTWR"
     },
     {
-      "title": "Platform Systems Engineering Manager, CoreoS",
-      "url": "https://jobs.apple.com/en-us/details/200644146-0505/platform-systems-engineering-manager-coreos?team=SFTWR",
-      "identifier": "Platform Systems Engineering Manager, CoreoS_ring-manager-coreos?team=SFTWR"
+      "title": "System Integration Electrical Engineer - Apple Vision Pro",
+      "url": "https://jobs.apple.com/en-us/details/200654152-0836/system-integration-electrical-engineer-apple-vision-pro?team=SFTWR",
+      "identifier": "System Integration Electrical Engineer - Apple Vis_er-apple-vision-pro?team=SFTWR"
     },
     {
-      "title": "AR/VR Software Engineer - Spatial Media, Vision Products Software",
-      "url": "https://jobs.apple.com/en-us/details/200649460-3401/ar-vr-software-engineer-spatial-media-vision-products-software?team=SFTWR",
-      "identifier": "AR/VR Software Engineer - Spatial Media, Vision Pr_n-products-software?team=SFTWR"
+      "title": "Virtualization Software Development Engineer in Test (SDET), Core OS",
+      "url": "https://jobs.apple.com/en-us/details/200625094-0836/virtualization-software-development-engineer-in-test-sdet-core-os?team=SFTWR",
+      "identifier": "Virtualization Software Development Engineer in Te_n-test-sdet-core-os?team=SFTWR"
     },
     {
-      "title": "Core Wi-Fi Embedded Software Engineer, Wireless Technologies & Ecosystems",
-      "url": "https://jobs.apple.com/en-us/details/200640285-3543/core-wi-fi-embedded-software-engineer-wireless-technologies-ecosystems?team=SFTWR",
-      "identifier": "Core Wi-Fi Embedded Software Engineer, Wireless Te_nologies-ecosystems?team=SFTWR"
+      "title": "Hardware System Design Engineer - Apple Vision Pro",
+      "url": "https://jobs.apple.com/en-us/details/200653706-3749/hardware-system-design-engineer-apple-vision-pro?team=SFTWR",
+      "identifier": "Hardware System Design Engineer - Apple Vision Pro_er-apple-vision-pro?team=SFTWR"
     },
     {
-      "title": "Sr. Privacy Systems Software Engineer, Sensing & Connectivity",
-      "url": "https://jobs.apple.com/en-us/details/200643254-3543/sr-privacy-systems-software-engineer-sensing-connectivity?team=SFTWR",
-      "identifier": "Sr. Privacy Systems Software Engineer, Sensing & C_ensing-connectivity?team=SFTWR"
+      "title": "Bluetooth Embedded Software Engineer, Wireless Technologies & Ecosystems",
+      "url": "https://jobs.apple.com/en-us/details/200643923-0836/bluetooth-embedded-software-engineer-wireless-technologies-ecosystems?team=SFTWR",
+      "identifier": "Bluetooth Embedded Software Engineer, Wireless Tec_nologies-ecosystems?team=SFTWR"
     },
     {
-      "title": "Sr AR/VR Software Engineer - UI Frameworks, Vision Products Software",
-      "url": "https://jobs.apple.com/en-us/details/200633549-3401/sr-ar-vr-software-engineer-ui-frameworks-vision-products-software?team=SFTWR",
-      "identifier": "Sr AR/VR Software Engineer - UI Frameworks, Vision_n-products-software?team=SFTWR"
+      "title": "Platform Productization Manager, CoreOS",
+      "url": "https://jobs.apple.com/en-us/details/200612989-3543/platform-productization-manager-coreos?team=SFTWR",
+      "identifier": "Platform Productization Manager, CoreOS_tion-manager-coreos?team=SFTWR"
     },
     {
-      "title": "Sr AR/VR Software Engineer - visionOS Apps, Vision Products Software",
-      "url": "https://jobs.apple.com/en-us/details/200649673-3401/sr-ar-vr-software-engineer-visionos-apps-vision-products-software?team=SFTWR",
-      "identifier": "Sr AR/VR Software Engineer - visionOS Apps, Vision_n-products-software?team=SFTWR"
+      "title": "Wi-Fi AI/ML Software Engineer, Wireless Technologies & Ecosystems",
+      "url": "https://jobs.apple.com/en-us/details/200641429-0836/wi-fi-ai-ml-software-engineer-wireless-technologies-ecosystems?team=SFTWR",
+      "identifier": "Wi-Fi AI/ML Software Engineer, Wireless Technologi_nologies-ecosystems?team=SFTWR"
     },
     {
-      "title": "File Systems Software Engineer, Core OS",
-      "url": "https://jobs.apple.com/en-us/details/200631962-0836/file-systems-software-engineer-core-os?team=SFTWR",
-      "identifier": "File Systems Software Engineer, Core OS_re-engineer-core-os?team=SFTWR"
+      "title": "Display Device Driver SW Engineer, Core OS",
+      "url": "https://jobs.apple.com/en-us/details/200643430-0836/display-device-driver-sw-engineer-core-os?team=SFTWR",
+      "identifier": "Display Device Driver SW Engineer, Core OS_sw-engineer-core-os?team=SFTWR"
     },
     {
-      "title": "Firmware Development Engineer, Wireless Technologies & Ecosystems",
-      "url": "https://jobs.apple.com/en-us/details/200640806-0836/firmware-development-engineer-wireless-technologies-ecosystems?team=SFTWR",
-      "identifier": "Firmware Development Engineer, Wireless Technologi_nologies-ecosystems?team=SFTWR"
+      "title": "Wi-Fi UI Engineer, Wireless Technologies & Ecosystems",
+      "url": "https://jobs.apple.com/en-us/details/200642864-0836/wi-fi-ui-engineer-wireless-technologies-ecosystems?team=SFTWR",
+      "identifier": "Wi-Fi UI Engineer, Wireless Technologies & Ecosyst_nologies-ecosystems?team=SFTWR"
     },
     {
-      "title": "Software Engineer, Connected Audio, Sensing & Connectivity",
-      "url": "https://jobs.apple.com/en-us/details/200639881-3401/software-engineer-connected-audio-sensing-connectivity?team=SFTWR",
-      "identifier": "Software Engineer, Connected Audio, Sensing & Conn_ensing-connectivity?team=SFTWR"
-    },
-    {
-      "title": "AR/VR UI Software Engineer - FaceTime, Vision Products Software",
-      "url": "https://jobs.apple.com/en-us/details/200641952-3401/ar-vr-ui-software-engineer-facetime-vision-products-software?team=SFTWR",
-      "identifier": "AR/VR UI Software Engineer - FaceTime, Vision Prod_n-products-software?team=SFTWR"
-    },
-    {
-      "title": "Software Development Engineer Wi-Fi Experience, Wireless Technologies & Ecosystems",
-      "url": "https://jobs.apple.com/en-us/details/200573152-3543/software-development-engineer-wi-fi-experience-wireless-technologies-ecosystems?team=SFTWR",
-      "identifier": "Software Development Engineer Wi-Fi Experience, Wi_nologies-ecosystems?team=SFTWR"
+      "title": "Systems Software Engineer, Process Management and Device Attestation, CoreOS",
+      "url": "https://jobs.apple.com/en-us/details/200643346-3543/systems-software-engineer-process-management-and-device-attestation-coreos?team=SFTWR",
+      "identifier": "Systems Software Engineer, Process Management and _-attestation-coreos?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-27T21:42:55.875791"
+  "timestamp": "2026-03-27T22:00:09.265490"
 }

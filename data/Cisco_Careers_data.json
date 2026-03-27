@@ -4,6 +4,11 @@
   "total_jobs": 10,
   "jobs": [
     {
+      "title": "Project Specialist I (Full Time) United States - STO/Info Security & Trust Office ETR",
+      "url": "https://careers.cisco.com/global/en/job/2008573/Project-Specialist-I-Full-Time-United-States-STO-Info-Security-Trust-Office-ETR",
+      "identifier": "Project Specialist I (Full Time) United States - S_Info-Security-Trust-Office-ETR"
+    },
+    {
       "title": "Wireless Network Engineer I (Full Time) - United States",
       "url": "https://careers.cisco.com/global/en/job/2010991/Wireless-Network-Engineer-I-Full-Time-United-States",
       "identifier": "Wireless Network Engineer I (Full Time) - United S_neer-I-Full-Time-United-States"
@@ -47,13 +52,8 @@
       "title": "DevOps Engineer II (Full-Time) - United States",
       "url": "https://careers.cisco.com/global/en/job/2008084/DevOps-Engineer-II-Full-Time-United-States",
       "identifier": "DevOps Engineer II (Full-Time) - United States_eer-II-Full-Time-United-States"
-    },
-    {
-      "title": "Software Engineer Backend/Platform Systems II (Full Time) \u2013 United States",
-      "url": "https://careers.cisco.com/global/en/job/2000135/Software-Engineer-Backend-Platform-Systems-II-Full-Time-United-States",
-      "identifier": "Software Engineer Backend/Platform Systems II (Ful_ems-II-Full-Time-United-States"
     }
   ],
-  "job_count_text": "29",
-  "timestamp": "2026-03-27T01:59:43.580371"
+  "job_count_text": "30",
+  "timestamp": "2026-03-27T02:16:54.592849"
 }

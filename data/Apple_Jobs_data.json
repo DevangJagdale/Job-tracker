@@ -9,11 +9,6 @@
       "identifier": "Sr Software Engineer, Employee Experience & Produc_rience-productivity?team=SFTWR"
     },
     {
-      "title": "Generative AI Quality Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200651864-0836/generative-ai-quality-engineer?team=SFTWR",
-      "identifier": "Generative AI Quality Engineer_ai-quality-engineer?team=SFTWR"
-    },
-    {
       "title": "Site Reliability Engineer (Edge Services), Infrastructure Services",
       "url": "https://jobs.apple.com/en-us/details/200645589-0157/site-reliability-engineer-edge-services-infrastructure-services?team=SFTWR",
       "identifier": "Site Reliability Engineer (Edge Services), Infrast_astructure-services?team=SFTWR"
@@ -62,8 +57,13 @@
       "title": "Senior UI Software Engineer - Video Applications",
       "url": "https://jobs.apple.com/en-us/details/200653979-0157/senior-ui-software-engineer-video-applications?team=SFTWR",
       "identifier": "Senior UI Software Engineer - Video Applications_-video-applications?team=SFTWR"
+    },
+    {
+      "title": "Software Engineer, Apple Services Engineering, iCloud Platform",
+      "url": "https://jobs.apple.com/en-us/details/200637172-0836/software-engineer-apple-services-engineering-icloud-platform?team=SFTWR",
+      "identifier": "Software Engineer, Apple Services Engineering, iCl_ing-icloud-platform?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-27T19:17:29.193190"
+  "timestamp": "2026-03-27T19:34:43.669968"
 }

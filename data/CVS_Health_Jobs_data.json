@@ -4,19 +4,14 @@
   "total_jobs": 8,
   "jobs": [
     {
-      "title": "Senior Anaplan Architect-1",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0866304/Senior-Anaplan-Architect-1",
-      "identifier": "Senior Anaplan Architect-1_304/Senior-Anaplan-Architect-1"
-    },
-    {
       "title": "Lead Director \u2013 Software Development Engineering (AI & Automation)",
       "url": "https://jobs.cvshealth.com/us/en/job/R0843277/Lead-Director-Software-Development-Engineering-AI-Automation",
       "identifier": "Lead Director \u2013 Software Development Engineering (_ment-Engineering-AI-Automation"
     },
     {
-      "title": "Senior Analyst - Digital Customer Experience Optimization",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0869970/Senior-Analyst-Digital-Customer-Experience-Optimization",
-      "identifier": "Senior Analyst - Digital Customer Experience Optim_stomer-Experience-Optimization"
+      "title": "Quality Engineer Salesforce",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0851476/Quality-Engineer-Salesforce",
+      "identifier": "Quality Engineer Salesforce_76/Quality-Engineer-Salesforce"
     },
     {
       "title": "Senior Manager, Scrum Master",
@@ -24,9 +19,14 @@
       "identifier": "Senior Manager, Scrum Master_79/Senior-Manager-Scrum-Master"
     },
     {
-      "title": "Quality Engineer Salesforce",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0851476/Quality-Engineer-Salesforce",
-      "identifier": "Quality Engineer Salesforce_76/Quality-Engineer-Salesforce"
+      "title": "Senior Anaplan Architect-1",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0866304/Senior-Anaplan-Architect-1",
+      "identifier": "Senior Anaplan Architect-1_304/Senior-Anaplan-Architect-1"
+    },
+    {
+      "title": "Senior Analyst - Digital Customer Experience Optimization",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0869970/Senior-Analyst-Digital-Customer-Experience-Optimization",
+      "identifier": "Senior Analyst - Digital Customer Experience Optim_stomer-Experience-Optimization"
     },
     {
       "title": "Senior Anaplan Architect-2",
@@ -39,11 +39,11 @@
       "identifier": "Senior Analyst Software Development Engineer_-Software-Development-Engineer"
     },
     {
-      "title": "Sr Mgr. Business Analyst",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0864469/Sr-Mgr-Business-Analyst",
-      "identifier": "Sr Mgr. Business Analyst_864469/Sr-Mgr-Business-Analyst"
+      "title": "Senior Manager Software Development",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0860105/Senior-Manager-Software-Development",
+      "identifier": "Senior Manager Software Development_r-Manager-Software-Development"
     }
   ],
-  "job_count_text": "35",
-  "timestamp": "2026-03-27T06:08:16.160539"
+  "job_count_text": "36",
+  "timestamp": "2026-03-27T06:25:24.774256"
 }

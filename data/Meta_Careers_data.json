@@ -1,7 +1,7 @@
 {
   "page_title": "Meta Careers",
   "url": "https://www.metacareers.com/jobsearch?sort_by_new=true&teams[0]=University%20Grad%20-%20Engineering%2C%20Tech%20%26%20Design&roles[0]=Full%20time%20employment",
-  "total_jobs": 5,
+  "total_jobs": 4,
   "jobs": [
     {
       "title": "Production Engineer (University Grad)\nSunnyvale, CA +5 locations\n\u22c5\nUniversity Grad - Engineering, Tech & Design\n\u22c5\nProduction Engineering\nMultiple Locations\nUniversity Grad - Engineering, Tech & Design",
@@ -12,11 +12,6 @@
       "title": "EMC Design Engineer (University Grad)\nRedmond, WA\n\u22c5\nAR/VR +2 more\n\u22c5\nHardware\nRedmond, WA\nAR/VR\nFacebook Reality Labs\nUniversity Grad - Engineering, Tech & Design\nHardware",
       "url": "https://www.metacareers.com/profile/job_details/1332935228583174",
       "identifier": "EMC Design Engineer (University Grad)\nRedmond, WA\n_e/job_details/1332935228583174"
-    },
-    {
-      "title": "Production Engineer (University Grad)\nLondon, UK\n\u22c5\nInfrastructure +1 more\n\u22c5\nEngineering +1 more\nLondon, UK\nInfrastructure\nUniversity Grad - Engineering, Tech & Design\nEngineering\nProduction Engineerin",
-      "url": "https://www.metacareers.com/profile/job_details/1303824955124384",
-      "identifier": "Production Engineer (University Grad)\nLondon, UK\n\u22c5_e/job_details/1303824955124384"
     },
     {
       "title": "Software Engineer (University Grad)\nSingapore\n\u22c5\nUniversity Grad - Engineering, Tech & Design\n\u22c5\nEngineering\nSingapore\nUniversity Grad - Engineering, Tech & Design\nEngineering",
@@ -30,5 +25,5 @@
     }
   ],
   "job_count_text": "1",
-  "timestamp": "2026-03-27T13:07:41.226270"
+  "timestamp": "2026-03-27T13:25:03.439234"
 }

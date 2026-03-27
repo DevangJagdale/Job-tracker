@@ -4,6 +4,11 @@
   "total_jobs": 10,
   "jobs": [
     {
+      "title": "New College Grad - Supply Chain Planner\nBoise, Idaho, United States of America\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/41084880",
+      "identifier": "New College Grad - Supply Chain Planner\nBoise, Ida_icron.com/careers/job/41084880"
+    },
+    {
       "title": "US FE Expansion Planning Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/40986798",
       "identifier": "US FE Expansion Planning Engineer\nBoise, Idaho, Un_icron.com/careers/job/40986798"
@@ -34,11 +39,6 @@
       "identifier": "Reticle Manufacturing Process Engineer\nBoise, Idah_icron.com/careers/job/41077337"
     },
     {
-      "title": "New College Grad - Supply Chain Planner\nBoise, Idaho, United States of America\nPosted a day ago",
-      "url": "https://careers.micron.com/careers/job/41084880",
-      "identifier": "New College Grad - Supply Chain Planner\nBoise, Ida_icron.com/careers/job/41084880"
-    },
-    {
       "title": "Product Yield & Analytics ESDA Engineer\nBoise, Idaho, United States of America\nPosted 2 days ago",
       "url": "https://careers.micron.com/careers/job/40795739",
       "identifier": "Product Yield & Analytics ESDA Engineer\nBoise, Ida_icron.com/careers/job/40795739"
@@ -54,6 +54,6 @@
       "identifier": "HBM SoC Design Engineer\nRichardson, Texas, United _icron.com/careers/job/41044579"
     }
   ],
-  "job_count_text": "74",
-  "timestamp": "2026-03-27T22:20:32.740508"
+  "job_count_text": "73",
+  "timestamp": "2026-03-27T22:37:42.744336"
 }

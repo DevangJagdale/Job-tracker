@@ -39,14 +39,14 @@
       "identifier": "Software Developer in Test - LocalStorage QA, Core_lstorage-qa-core-os?team=SFTWR"
     },
     {
-      "title": "Software Engineer, System Services & Daemons, CoreOS",
-      "url": "https://jobs.apple.com/en-us/details/200631692-0505/software-engineer-system-services-daemons-coreos?team=SFTWR",
-      "identifier": "Software Engineer, System Services & Daemons, Core_ices-daemons-coreos?team=SFTWR"
+      "title": "Software Engineer, System Services & Daemons, Core OS",
+      "url": "https://jobs.apple.com/en-us/details/200631692-0505/software-engineer-system-services-daemons-core-os?team=SFTWR",
+      "identifier": "Software Engineer, System Services & Daemons, Core_ces-daemons-core-os?team=SFTWR"
     },
     {
-      "title": "Core Bring Up Engineer, CoreOS",
-      "url": "https://jobs.apple.com/en-us/details/200635979-0836/core-bring-up-engineer-coreos?team=SFTWR",
-      "identifier": "Core Bring Up Engineer, CoreOS_-up-engineer-coreos?team=SFTWR"
+      "title": "Core Bring Up Engineer, Core OS",
+      "url": "https://jobs.apple.com/en-us/details/200635979-0836/core-bring-up-engineer-core-os?team=SFTWR",
+      "identifier": "Core Bring Up Engineer, Core OS_up-engineer-core-os?team=SFTWR"
     },
     {
       "title": "Software Engineer - File System Services, Core OS",
@@ -80,5 +80,5 @@
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-28T02:58:43.886969"
+  "timestamp": "2026-03-28T03:15:46.496817"
 }

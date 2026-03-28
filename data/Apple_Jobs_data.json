@@ -1,8 +1,13 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 16,
+  "total_jobs": 15,
   "jobs": [
+    {
+      "title": "Software Device Driver Engineer - Core I/O, Core OS",
+      "url": "https://jobs.apple.com/en-us/details/200654151-0836/software-device-driver-engineer-core-i-o-core-os?team=SFTWR",
+      "identifier": "Software Device Driver Engineer - Core I/O, Core O_er-core-i-o-core-os?team=SFTWR"
+    },
     {
       "title": "Software Quality Assurance Engineer, Apps",
       "url": "https://jobs.apple.com/en-us/details/200654207-3543/software-quality-assurance-engineer-apps?team=SFTWR",
@@ -22,11 +27,6 @@
       "title": "Tools & Automation Engineer, Wireless Technologies & Ecosystems",
       "url": "https://jobs.apple.com/en-us/details/200648766-0836/tools-automation-engineer-wireless-technologies-ecosystems?team=SFTWR",
       "identifier": "Tools & Automation Engineer, Wireless Technologies_nologies-ecosystems?team=SFTWR"
-    },
-    {
-      "title": "Software Device Driver Engineer - Core I/O, Core OS",
-      "url": "https://jobs.apple.com/en-us/details/200648465-0836/software-device-driver-engineer-core-i-o-core-os?team=SFTWR",
-      "identifier": "Software Device Driver Engineer - Core I/O, Core O_er-core-i-o-core-os?team=SFTWR"
     },
     {
       "title": "Software Developer in Test - LocalStorage QA, Core OS",
@@ -77,13 +77,8 @@
       "title": "Platform Productization Manager, CoreOS",
       "url": "https://jobs.apple.com/en-us/details/200612989-3543/platform-productization-manager-coreos?team=SFTWR",
       "identifier": "Platform Productization Manager, CoreOS_tion-manager-coreos?team=SFTWR"
-    },
-    {
-      "title": "Wi-Fi AI/ML Software Engineer, Wireless Technologies & Ecosystems",
-      "url": "https://jobs.apple.com/en-us/details/200641429-0836/wi-fi-ai-ml-software-engineer-wireless-technologies-ecosystems?team=SFTWR",
-      "identifier": "Wi-Fi AI/ML Software Engineer, Wireless Technologi_nologies-ecosystems?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-28T00:00:35.412745"
+  "timestamp": "2026-03-28T00:17:45.769426"
 }

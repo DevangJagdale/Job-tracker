@@ -4,6 +4,11 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Software Quality Assurance Engineer, Apps",
+      "url": "https://jobs.apple.com/en-us/details/200654207-3543/software-quality-assurance-engineer-apps?team=SFTWR",
+      "identifier": "Software Quality Assurance Engineer, Apps_rance-engineer-apps?team=SFTWR"
+    },
+    {
       "title": "Live Stream Reliability Engineer - AppleTV",
       "url": "https://jobs.apple.com/en-us/details/200653224-0670/live-stream-reliability-engineer-appletv?team=SFTWR",
       "identifier": "Live Stream Reliability Engineer - AppleTV_ty-engineer-appletv?team=SFTWR"
@@ -77,13 +82,8 @@
       "title": "Wi-Fi AI/ML Software Engineer, Wireless Technologies & Ecosystems",
       "url": "https://jobs.apple.com/en-us/details/200641429-0836/wi-fi-ai-ml-software-engineer-wireless-technologies-ecosystems?team=SFTWR",
       "identifier": "Wi-Fi AI/ML Software Engineer, Wireless Technologi_nologies-ecosystems?team=SFTWR"
-    },
-    {
-      "title": "Display Device Driver SW Engineer, Core OS",
-      "url": "https://jobs.apple.com/en-us/details/200643430-0836/display-device-driver-sw-engineer-core-os?team=SFTWR",
-      "identifier": "Display Device Driver SW Engineer, Core OS_sw-engineer-core-os?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-27T23:43:22.899209"
+  "timestamp": "2026-03-28T00:00:35.412745"
 }

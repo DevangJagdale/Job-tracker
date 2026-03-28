@@ -4,11 +4,6 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "GEL Engineering Technician\nBoise, Idaho, United States of America\nPosted 2 days ago",
-      "url": "https://careers.micron.com/careers/job/41072699",
-      "identifier": "GEL Engineering Technician\nBoise, Idaho, United St_icron.com/careers/job/41072699"
-    },
-    {
       "title": "Systems Software Engineer\nFolsom, California, United States of America\nPosted 2 days ago",
       "url": "https://careers.micron.com/careers/job/41062686",
       "identifier": "Systems Software Engineer\nFolsom, California, Unit_icron.com/careers/job/41062686"
@@ -44,6 +39,11 @@
       "identifier": "Product Development Engineer\nBoise, Idaho, United _icron.com/careers/job/41065126"
     },
     {
+      "title": "GEL Engineering Technician\nBoise, Idaho, United States of America\nPosted 2 days ago",
+      "url": "https://careers.micron.com/careers/job/41072699",
+      "identifier": "GEL Engineering Technician\nBoise, Idaho, United St_icron.com/careers/job/41072699"
+    },
+    {
       "title": "Product Yield & Analytics ESDA Engineer\nBoise, Idaho, United States of America\nPosted 3 days ago",
       "url": "https://careers.micron.com/careers/job/40795739",
       "identifier": "Product Yield & Analytics ESDA Engineer\nBoise, Ida_icron.com/careers/job/40795739"
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "76",
-  "timestamp": "2026-03-28T14:38:47.327877"
+  "timestamp": "2026-03-28T14:55:42.378326"
 }

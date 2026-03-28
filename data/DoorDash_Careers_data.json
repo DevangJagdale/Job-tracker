@@ -1,14 +1,64 @@
 {
   "page_title": "Job Search - DoorDash",
   "url": "https://careersatdoordash.com/job-search/?intern=0&function=Software%20Engineering%7CIT%20Support%7C&keyword=&location=Los%20Angeles&spage=1",
-  "total_jobs": 1,
+  "total_jobs": 11,
   "jobs": [
     {
       "title": "Software Engineer, Backend - Presentation Gateway",
       "url": "https://careersatdoordash.com/jobs/software-engineer-backend---presentation-gateway/7729768",
       "identifier": "Software Engineer, Backend - Presentation Gateway_--presentation-gateway/7729768"
+    },
+    {
+      "title": "Software Engineer - Developer Experience, Android",
+      "url": "https://careersatdoordash.com/jobs/software-engineer---developer-experience-android/7704515",
+      "identifier": "Software Engineer - Developer Experience, Android_per-experience-android/7704515"
+    },
+    {
+      "title": "Software Engineer, Full Stack - Developer Console",
+      "url": "https://careersatdoordash.com/jobs/software-engineer-full-stack---developer-console/7480892",
+      "identifier": "Software Engineer, Full Stack - Developer Console_ck---developer-console/7480892"
+    },
+    {
+      "title": "Senior Software Engineer, Design Infrastructure - Android",
+      "url": "https://careersatdoordash.com/jobs/senior-software-engineer-design-infrastructure---android/7460868",
+      "identifier": "Senior Software Engineer, Design Infrastructure - _frastructure---android/7460868"
+    },
+    {
+      "title": "Software Engineer, Backend Developer Experience",
+      "url": "https://careersatdoordash.com/jobs/software-engineer-backend-developer-experience/7438977",
+      "identifier": "Software Engineer, Backend Developer Experience_d-developer-experience/7438977"
+    },
+    {
+      "title": "Senior Staff Engineer, Developer Platform",
+      "url": "https://careersatdoordash.com/jobs/senior-staff-engineer-developer-platform/7429741",
+      "identifier": "Senior Staff Engineer, Developer Platform_eer-developer-platform/7429741"
+    },
+    {
+      "title": "Software Engineer, Intern (Summer 2026) - US",
+      "url": "https://careersatdoordash.com/jobs/software-engineer-intern-summer-2026---us/7262223",
+      "identifier": "Software Engineer, Intern (Summer 2026) - US_ntern-summer-2026---us/7262223"
+    },
+    {
+      "title": "Engineering Manager, Backend Frameworks",
+      "url": "https://careersatdoordash.com/jobs/engineering-manager-backend-frameworks/7259738",
+      "identifier": "Engineering Manager, Backend Frameworks_ger-backend-frameworks/7259738"
+    },
+    {
+      "title": "Senior Staff Software Engineer - Delivery Experience",
+      "url": "https://careersatdoordash.com/jobs/senior-staff-software-engineer---delivery-experience/7195865",
+      "identifier": "Senior Staff Software Engineer - Delivery Experien_---delivery-experience/7195865"
+    },
+    {
+      "title": "Software Engineer, Backend (All Teams)",
+      "url": "https://careersatdoordash.com/jobs/software-engineer-backend-all-teams/5630445",
+      "identifier": "Software Engineer, Backend (All Teams)_neer-backend-all-teams/5630445"
+    },
+    {
+      "title": "Software Engineer, Android (All Teams)",
+      "url": "https://careersatdoordash.com/jobs/software-engineer-android-all-teams/5630438",
+      "identifier": "Software Engineer, Android (All Teams)_neer-android-all-teams/5630438"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-28T21:37:45.494696"
+  "timestamp": "2026-03-28T21:54:49.988097"
 }

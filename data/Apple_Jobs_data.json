@@ -4,6 +4,11 @@
   "total_jobs": 15,
   "jobs": [
     {
+      "title": "Graphics Compositing UI Rendering Engineer, Graphics, Games, & ML",
+      "url": "https://jobs.apple.com/en-us/details/200606688-0836/graphics-compositing-ui-rendering-engineer-graphics-games-ml?team=SFTWR",
+      "identifier": "Graphics Compositing UI Rendering Engineer, Graphi_r-graphics-games-ml?team=SFTWR"
+    },
+    {
       "title": "Software Device Driver Engineer - Core I/O, Core OS",
       "url": "https://jobs.apple.com/en-us/details/200654151-0836/software-device-driver-engineer-core-i-o-core-os?team=SFTWR",
       "identifier": "Software Device Driver Engineer - Core I/O, Core O_er-core-i-o-core-os?team=SFTWR"
@@ -72,13 +77,8 @@
       "title": "Bluetooth Embedded Software Engineer, Wireless Technologies & Ecosystems",
       "url": "https://jobs.apple.com/en-us/details/200643923-0836/bluetooth-embedded-software-engineer-wireless-technologies-ecosystems?team=SFTWR",
       "identifier": "Bluetooth Embedded Software Engineer, Wireless Tec_nologies-ecosystems?team=SFTWR"
-    },
-    {
-      "title": "Platform Productization Manager, CoreOS",
-      "url": "https://jobs.apple.com/en-us/details/200612989-3543/platform-productization-manager-coreos?team=SFTWR",
-      "identifier": "Platform Productization Manager, CoreOS_tion-manager-coreos?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-28T00:17:45.769426"
+  "timestamp": "2026-03-28T00:34:57.354446"
 }

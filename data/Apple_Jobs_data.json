@@ -4,6 +4,11 @@
   "total_jobs": 15,
   "jobs": [
     {
+      "title": "Data Scientist",
+      "url": "https://jobs.apple.com/en-us/details/200653418-3543/data-scientist?team=SFTWR",
+      "identifier": "Data Scientist_3543/data-scientist?team=SFTWR"
+    },
+    {
       "title": "Graphics Compositing UI Rendering Engineer, Graphics, Games, & ML",
       "url": "https://jobs.apple.com/en-us/details/200606688-0836/graphics-compositing-ui-rendering-engineer-graphics-games-ml?team=SFTWR",
       "identifier": "Graphics Compositing UI Rendering Engineer, Graphi_r-graphics-games-ml?team=SFTWR"
@@ -72,13 +77,8 @@
       "title": "Hardware System Design Engineer - Apple Vision Pro",
       "url": "https://jobs.apple.com/en-us/details/200653706-3749/hardware-system-design-engineer-apple-vision-pro?team=SFTWR",
       "identifier": "Hardware System Design Engineer - Apple Vision Pro_er-apple-vision-pro?team=SFTWR"
-    },
-    {
-      "title": "Bluetooth Embedded Software Engineer, Wireless Technologies & Ecosystems",
-      "url": "https://jobs.apple.com/en-us/details/200643923-0836/bluetooth-embedded-software-engineer-wireless-technologies-ecosystems?team=SFTWR",
-      "identifier": "Bluetooth Embedded Software Engineer, Wireless Tec_nologies-ecosystems?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-28T03:15:46.496817"
+  "timestamp": "2026-03-28T03:32:50.845329"
 }

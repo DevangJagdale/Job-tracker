@@ -1,8 +1,109 @@
 {
   "page_title": "Salesforce Jobs | Salesforce Careers",
   "url": "https://careers.salesforce.com/en/jobs/?search=&country=United+States+of+America&team=Data&team=Enterprise+Technology+%26+Infrastructure&team=Software+Engineering&jobtype=New+Grads&pagesize=20#results",
-  "total_jobs": 0,
-  "jobs": [],
+  "total_jobs": 20,
+  "jobs": [
+    {
+      "title": "Lead, Account SE, ECS, Public Sector",
+      "url": "https://careers.salesforce.com/en/jobs/jr329351/lead-account-se-ecs-public-sector/",
+      "identifier": "Lead, Account SE, ECS, Public Sector_-account-se-ecs-public-sector/"
+    },
+    {
+      "title": "Director, Strategy and Analytics - Informatica",
+      "url": "https://careers.salesforce.com/en/jobs/jr331603/director-strategy-and-analytics-informatica/",
+      "identifier": "Director, Strategy and Analytics - Informatica_egy-and-analytics-informatica/"
+    },
+    {
+      "title": "Corporate Counsel, M&A",
+      "url": "https://careers.salesforce.com/en/jobs/jr334560/corporate-counsel-ma/",
+      "identifier": "Corporate Counsel, M&A_jr334560/corporate-counsel-ma/"
+    },
+    {
+      "title": "Corporate Counsel, M&A Product & Privacy Integration",
+      "url": "https://careers.salesforce.com/en/jobs/jr336129/corporate-counsel-ma-product-privacy-integration/",
+      "identifier": "Corporate Counsel, M&A Product & Privacy Integrati_a-product-privacy-integration/"
+    },
+    {
+      "title": "Senior Manager, Finance Technology & Transformation",
+      "url": "https://careers.salesforce.com/en/jobs/jr335836/senior-manager-finance-technology-transformation/",
+      "identifier": "Senior Manager, Finance Technology & Transformatio_nce-technology-transformation/"
+    },
+    {
+      "title": "Data Science Senior Associate",
+      "url": "https://careers.salesforce.com/en/jobs/jr325469/data-science-senior-associate/",
+      "identifier": "Data Science Senior Associate_data-science-senior-associate/"
+    },
+    {
+      "title": "Senior Corporate Counsel, Third Party Anti-Corruption, Global Ethics & Integrity",
+      "url": "https://careers.salesforce.com/en/jobs/jr334156/senior-corporate-counsel-third-party-anti-corruption-global-ethics-integrity/",
+      "identifier": "Senior Corporate Counsel, Third Party Anti-Corrupt_ption-global-ethics-integrity/"
+    },
+    {
+      "title": "Senior Director, Event Finance & Economics",
+      "url": "https://careers.salesforce.com/en/jobs/jr335014/senior-director-event-finance-economics/",
+      "identifier": "Senior Director, Event Finance & Economics_ector-event-finance-economics/"
+    },
+    {
+      "title": "Software Engineering MTS (Salesforce + Mulesoft Developer)",
+      "url": "https://careers.salesforce.com/en/jobs/jr335048/software-engineering-mts-salesforce-plus-mulesoft-developer/",
+      "identifier": "Software Engineering MTS (Salesforce + Mulesoft De_force-plus-mulesoft-developer/"
+    },
+    {
+      "title": "Signature Success, Sales Executive",
+      "url": "https://careers.salesforce.com/en/jobs/jr335983/signature-success-sales-executive/",
+      "identifier": "Signature Success, Sales Executive_ature-success-sales-executive/"
+    },
+    {
+      "title": "Full Stack Principal Software Engineer - Event Technology",
+      "url": "https://careers.salesforce.com/en/jobs/jr328543/full-stack-principal-software-engineer-event-technology/",
+      "identifier": "Full Stack Principal Software Engineer - Event Tec_are-engineer-event-technology/"
+    },
+    {
+      "title": "Named Account Executive Public Sector",
+      "url": "https://careers.salesforce.com/en/jobs/jr325624/named-account-executive-public-sector/",
+      "identifier": "Named Account Executive Public Sector_count-executive-public-sector/"
+    },
+    {
+      "title": "Cloud Account Executive",
+      "url": "https://careers.salesforce.com/en/jobs/jr335922/cloud-account-executive/",
+      "identifier": "Cloud Account Executive_35922/cloud-account-executive/"
+    },
+    {
+      "title": "Senior Analyst, L2O Innovation Business Analysis",
+      "url": "https://careers.salesforce.com/en/jobs/jr334824/senior-analyst-l2o-innovation-business-analysis/",
+      "identifier": "Senior Analyst, L2O Innovation Business Analysis_-innovation-business-analysis/"
+    },
+    {
+      "title": "Account Executive, Regional Mid Market Sales (Nagoya)",
+      "url": "https://careers.salesforce.com/en/jobs/jr335888/account-executive-regional-mid-market-sales-nagoya/",
+      "identifier": "Account Executive, Regional Mid Market Sales (Nago_ional-mid-market-sales-nagoya/"
+    },
+    {
+      "title": "Prime Account Executive - Data Foundation - SMB - MED",
+      "url": "https://careers.salesforce.com/en/jobs/jr331687/prime-account-executive-data-foundation-smb-med/",
+      "identifier": "Prime Account Executive - Data Foundation - SMB - _utive-data-foundation-smb-med/"
+    },
+    {
+      "title": "Success Architect (Life Sciences Domain)",
+      "url": "https://careers.salesforce.com/en/jobs/jr329679/success-architect-life-sciences-domain/",
+      "identifier": "Success Architect (Life Sciences Domain)_rchitect-life-sciences-domain/"
+    },
+    {
+      "title": "Pre-Sales Enterprise Architect - Health/ Life Sciences Cloud - Pharma/ Med Tech Industry",
+      "url": "https://careers.salesforce.com/en/jobs/jr335914/pre-sales-enterprise-architect-health-life-sciences-cloud-pharma-med-tech-industry/",
+      "identifier": "Pre-Sales Enterprise Architect - Health/ Life Scie_loud-pharma-med-tech-industry/"
+    },
+    {
+      "title": "Lead Employee Success People Consultant",
+      "url": "https://careers.salesforce.com/en/jobs/jr335996/lead-employee-success-people-consultant/",
+      "identifier": "Lead Employee Success People Consultant_yee-success-people-consultant/"
+    },
+    {
+      "title": "Associate Creative Director, Experiential",
+      "url": "https://careers.salesforce.com/en/jobs/jr332275/associate-creative-director-experiential/",
+      "identifier": "Associate Creative Director, Experiential_reative-director-experiential/"
+    }
+  ],
   "job_count_text": "",
-  "timestamp": "2026-03-27T20:20:26.746021"
+  "timestamp": "2026-03-29T05:33:17.110439"
 }

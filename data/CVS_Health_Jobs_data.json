@@ -4,14 +4,9 @@
   "total_jobs": 8,
   "jobs": [
     {
-      "title": "Senior Analyst Digital Operations",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0859398/Senior-Analyst-Digital-Operations",
-      "identifier": "Senior Analyst Digital Operations_ior-Analyst-Digital-Operations"
-    },
-    {
-      "title": "Manager - Software Technology Vendor Management",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0818678/Manager-Software-Technology-Vendor-Management",
-      "identifier": "Manager - Software Technology Vendor Management_e-Technology-Vendor-Management"
+      "title": "Lead Director, Frictionless Provider Experience (FPX)",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0861079/Lead-Director-Frictionless-Provider-Experience-FPX",
+      "identifier": "Lead Director, Frictionless Provider Experience (F_onless-Provider-Experience-FPX"
     },
     {
       "title": "Lead Director - Software Technology Vendor Management",
@@ -24,14 +19,19 @@
       "identifier": "Software Quality Automation Engineer_re-Quality-Automation-Engineer"
     },
     {
-      "title": "Lead Director, Frictionless Provider Experience (FPX)",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0861079/Lead-Director-Frictionless-Provider-Experience-FPX",
-      "identifier": "Lead Director, Frictionless Provider Experience (F_onless-Provider-Experience-FPX"
+      "title": "Senior Analyst Digital Operations",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0859398/Senior-Analyst-Digital-Operations",
+      "identifier": "Senior Analyst Digital Operations_ior-Analyst-Digital-Operations"
     },
     {
-      "title": "Lead Director \u2013 Software Development Engineering (AI & Automation)",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0843277/Lead-Director-Software-Development-Engineering-AI-Automation",
-      "identifier": "Lead Director \u2013 Software Development Engineering (_ment-Engineering-AI-Automation"
+      "title": "Manager - Software Technology Vendor Management",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0818678/Manager-Software-Technology-Vendor-Management",
+      "identifier": "Manager - Software Technology Vendor Management_e-Technology-Vendor-Management"
+    },
+    {
+      "title": "Senior Anaplan Architect-1",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0866304/Senior-Anaplan-Architect-1",
+      "identifier": "Senior Anaplan Architect-1_304/Senior-Anaplan-Architect-1"
     },
     {
       "title": "Quality Engineer Salesforce",
@@ -39,11 +39,11 @@
       "identifier": "Quality Engineer Salesforce_76/Quality-Engineer-Salesforce"
     },
     {
-      "title": "Senior Anaplan Architect-1",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0866304/Senior-Anaplan-Architect-1",
-      "identifier": "Senior Anaplan Architect-1_304/Senior-Anaplan-Architect-1"
+      "title": "Senior Anaplan Architect-2",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0866351/Senior-Anaplan-Architect-2",
+      "identifier": "Senior Anaplan Architect-2_351/Senior-Anaplan-Architect-2"
     }
   ],
   "job_count_text": "32",
-  "timestamp": "2026-03-29T04:56:42.535503"
+  "timestamp": "2026-03-29T05:13:46.956131"
 }

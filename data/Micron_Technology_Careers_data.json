@@ -4,29 +4,14 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Product Manager\nBoise, Idaho, United States of America\nPosted 3 days ago",
-      "url": "https://careers.micron.com/careers/job/41063411",
-      "identifier": "Product Manager\nBoise, Idaho, United States of Ame_icron.com/careers/job/41063411"
-    },
-    {
-      "title": "Returned Material Authorization Engineer (Quality Engineer)\nBoise, Idaho, United States of America\nPosted 3 days ago",
-      "url": "https://careers.micron.com/careers/job/41065045",
-      "identifier": "Returned Material Authorization Engineer (Quality _icron.com/careers/job/41065045"
-    },
-    {
-      "title": "Systems Software Engineer\nFolsom, California, United States of America\nPosted 3 days ago",
-      "url": "https://careers.micron.com/careers/job/41062686",
-      "identifier": "Systems Software Engineer\nFolsom, California, Unit_icron.com/careers/job/41062686"
-    },
-    {
-      "title": "Reticle Manufacturing Process Engineer\nBoise, Idaho, United States of America\nPosted 3 days ago",
-      "url": "https://careers.micron.com/careers/job/41077337",
-      "identifier": "Reticle Manufacturing Process Engineer\nBoise, Idah_icron.com/careers/job/41077337"
-    },
-    {
       "title": "GEL Engineering Technician\nBoise, Idaho, United States of America\nPosted 3 days ago",
       "url": "https://careers.micron.com/careers/job/41072699",
       "identifier": "GEL Engineering Technician\nBoise, Idaho, United St_icron.com/careers/job/41072699"
+    },
+    {
+      "title": "Product Development Engineer\nBoise, Idaho, United States of America\nPosted 3 days ago",
+      "url": "https://careers.micron.com/careers/job/41065126",
+      "identifier": "Product Development Engineer\nBoise, Idaho, United _icron.com/careers/job/41065126"
     },
     {
       "title": "New College Grad - Supply Chain Planner\nBoise, Idaho, United States of America\nPosted 3 days ago",
@@ -39,9 +24,24 @@
       "identifier": "US FE Expansion Planning Engineer\nBoise, Idaho, Un_icron.com/careers/job/40986798"
     },
     {
-      "title": "Product Development Engineer\nBoise, Idaho, United States of America\nPosted 3 days ago",
-      "url": "https://careers.micron.com/careers/job/41065126",
-      "identifier": "Product Development Engineer\nBoise, Idaho, United _icron.com/careers/job/41065126"
+      "title": "Systems Software Engineer\nFolsom, California, United States of America\nPosted 3 days ago",
+      "url": "https://careers.micron.com/careers/job/41062686",
+      "identifier": "Systems Software Engineer\nFolsom, California, Unit_icron.com/careers/job/41062686"
+    },
+    {
+      "title": "Product Manager\nBoise, Idaho, United States of America\nPosted 3 days ago",
+      "url": "https://careers.micron.com/careers/job/41063411",
+      "identifier": "Product Manager\nBoise, Idaho, United States of Ame_icron.com/careers/job/41063411"
+    },
+    {
+      "title": "Returned Material Authorization Engineer (Quality Engineer)\nBoise, Idaho, United States of America\nPosted 3 days ago",
+      "url": "https://careers.micron.com/careers/job/41065045",
+      "identifier": "Returned Material Authorization Engineer (Quality _icron.com/careers/job/41065045"
+    },
+    {
+      "title": "Reticle Manufacturing Process Engineer\nBoise, Idaho, United States of America\nPosted 3 days ago",
+      "url": "https://careers.micron.com/careers/job/41077337",
+      "identifier": "Reticle Manufacturing Process Engineer\nBoise, Idah_icron.com/careers/job/41077337"
     },
     {
       "title": "Product Yield & Analytics ESDA Engineer\nBoise, Idaho, United States of America\nPosted 4 days ago",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "74",
-  "timestamp": "2026-03-29T22:15:20.264978"
+  "timestamp": "2026-03-29T22:33:10.683428"
 }

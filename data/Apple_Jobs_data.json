@@ -4,6 +4,11 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "SAP Functional Engineer, Supply Chain & Logistics",
+      "url": "https://jobs.apple.com/en-us/details/200615746-0157/sap-functional-engineer-supply-chain-logistics?team=SFTWR",
+      "identifier": "SAP Functional Engineer, Supply Chain & Logistics_ply-chain-logistics?team=SFTWR"
+    },
+    {
       "title": "Machine Learning Architect Manager , LLM & Generative AI",
       "url": "https://jobs.apple.com/en-us/details/200635924-3337/machine-learning-architect-manager-llm-generative-ai?team=MLAI",
       "identifier": "Machine Learning Architect Manager , LLM & Generat_er-llm-generative-ai?team=MLAI"
@@ -77,13 +82,8 @@
       "title": "System Integration Electrical Engineer - Apple Vision Pro",
       "url": "https://jobs.apple.com/en-us/details/200654152-0836/system-integration-electrical-engineer-apple-vision-pro?team=SFTWR",
       "identifier": "System Integration Electrical Engineer - Apple Vis_er-apple-vision-pro?team=SFTWR"
-    },
-    {
-      "title": "Virtualization Software Development Engineer in Test (SDET), Core OS",
-      "url": "https://jobs.apple.com/en-us/details/200625094-0836/virtualization-software-development-engineer-in-test-sdet-core-os?team=SFTWR",
-      "identifier": "Virtualization Software Development Engineer in Te_n-test-sdet-core-os?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-30T03:31:29.479895"
+  "timestamp": "2026-03-30T03:48:40.682789"
 }

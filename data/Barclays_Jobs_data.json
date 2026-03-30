@@ -1,8 +1,23 @@
 {
   "page_title": "Search our Job Opportunities at Barclays",
   "url": "https://search.jobs.barclays/search-jobs/United%20States/13015/2/6252001/39x76/-98x5/50/2",
-  "total_jobs": 12,
+  "total_jobs": 15,
   "jobs": [
+    {
+      "title": "Site Reliability Engineer",
+      "url": "https://search.jobs.barclays/job/whippany/site-reliability-engineer/13015/93359979664",
+      "identifier": "Site Reliability Engineer_ity-engineer/13015/93359979664"
+    },
+    {
+      "title": "Equities Trading Support",
+      "url": "https://search.jobs.barclays/job/new-york/equities-trading-support/13015/93359972864",
+      "identifier": "Equities Trading Support_ding-support/13015/93359972864"
+    },
+    {
+      "title": "Principal Engineer - Engineering Automation Program",
+      "url": "https://search.jobs.barclays/job/whippany/principal-engineer-engineering-automation-program/13015/93286211488",
+      "identifier": "Principal Engineer - Engineering Automation Progra_tion-program/13015/93286211488"
+    },
     {
       "title": "Vice President Technology M&A Investment Banking",
       "url": "https://search.jobs.barclays/job/san-francisco/vice-president-technology-m-and-a-investment-banking/13015/93273374832",
@@ -65,5 +80,5 @@
     }
   ],
   "job_count_text": "99",
-  "timestamp": "2026-03-30T11:22:31.953333"
+  "timestamp": "2026-03-30T11:39:42.126713"
 }

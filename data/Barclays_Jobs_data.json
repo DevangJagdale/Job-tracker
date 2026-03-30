@@ -1,8 +1,18 @@
 {
   "page_title": "Search our Job Opportunities at Barclays",
   "url": "https://search.jobs.barclays/search-jobs/United%20States/13015/2/6252001/39x76/-98x5/50/2",
-  "total_jobs": 13,
+  "total_jobs": 11,
   "jobs": [
+    {
+      "title": "Director - IB Enterprise Architect",
+      "url": "https://search.jobs.barclays/job/whippany/director-ib-enterprise-architect/13015/93384862640",
+      "identifier": "Director - IB Enterprise Architect_se-architect/13015/93384862640"
+    },
+    {
+      "title": "TMT Corporate Banking VP",
+      "url": "https://search.jobs.barclays/job/menlo-park/tmt-corporate-banking-vp/13015/93384861984",
+      "identifier": "TMT Corporate Banking VP_e-banking-vp/13015/93384861984"
+    },
     {
       "title": "Client Implementation Manager",
       "url": "https://search.jobs.barclays/job/whippany/client-implementation-manager/13015/93384859200",
@@ -47,28 +57,8 @@
       "title": "Treasury Funding and Investments VP",
       "url": "https://search.jobs.barclays/job/new-york/treasury-funding-and-investments-vp/13015/93208035232",
       "identifier": "Treasury Funding and Investments VP_vestments-vp/13015/93208035232"
-    },
-    {
-      "title": "Development Lead",
-      "url": "https://search.jobs.barclays/job/whippany/development-lead/13015/93156171088",
-      "identifier": "Development Lead_lopment-lead/13015/93156171088"
-    },
-    {
-      "title": "Liquid Finance Streaming Architect",
-      "url": "https://search.jobs.barclays/job/new-york/liquid-finance-streaming-architect/13015/93156155904",
-      "identifier": "Liquid Finance Streaming Architect_ng-architect/13015/93156155904"
-    },
-    {
-      "title": "Market Risk Specialist - VP",
-      "url": "https://search.jobs.barclays/job/new-york/market-risk-specialist-vp/13015/93117472576",
-      "identifier": "Market Risk Specialist - VP_pecialist-vp/13015/93117472576"
-    },
-    {
-      "title": "Senior Product Taxonomy Project Manager \u2013 VP",
-      "url": "https://search.jobs.barclays/job/whippany/senior-product-taxonomy-project-manager-vp/13015/93117463824",
-      "identifier": "Senior Product Taxonomy Project Manager \u2013 VP_t-manager-vp/13015/93117463824"
     }
   ],
-  "job_count_text": "97",
-  "timestamp": "2026-03-30T23:21:59.842675"
+  "job_count_text": "104",
+  "timestamp": "2026-03-30T23:39:00.753991"
 }

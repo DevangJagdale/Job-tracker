@@ -4,6 +4,16 @@
   "total_jobs": 15,
   "jobs": [
     {
+      "title": "Software QA Engineer, Wireless Technologies & Ecosystems",
+      "url": "https://jobs.apple.com/en-us/details/200654506-0836/software-qa-engineer-wireless-technologies-ecosystems?team=SFTWR",
+      "identifier": "Software QA Engineer, Wireless Technologies & Ecos_nologies-ecosystems?team=SFTWR"
+    },
+    {
+      "title": "Senior iOS Software Engineer - Proximity",
+      "url": "https://jobs.apple.com/en-us/details/200654485-0836/senior-ios-software-engineer-proximity?team=SFTWR",
+      "identifier": "Senior iOS Software Engineer - Proximity_-engineer-proximity?team=SFTWR"
+    },
+    {
       "title": "Senior Software Engineer, Data Science & Analytics Platform Engineering",
       "url": "https://jobs.apple.com/en-us/details/200614973-0157/senior-software-engineer-data-science-analytics-platform-engineering?team=SFTWR",
       "identifier": "Senior Software Engineer, Data Science & Analytics_latform-engineering?team=SFTWR"
@@ -67,18 +77,8 @@
       "title": "Senior Video SRE",
       "url": "https://jobs.apple.com/en-us/details/200654414-3543/senior-video-sre?team=SFTWR",
       "identifier": "Senior Video SRE_43/senior-video-sre?team=SFTWR"
-    },
-    {
-      "title": "Data Scientist",
-      "url": "https://jobs.apple.com/en-us/details/200654193-0836/data-scientist?team=SFTWR",
-      "identifier": "Data Scientist_0836/data-scientist?team=SFTWR"
-    },
-    {
-      "title": "Software Tools and Automation",
-      "url": "https://jobs.apple.com/en-us/details/200653189-3337/software-tools-and-automation?team=SFTWR",
-      "identifier": "Software Tools and Automation_ools-and-automation?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-30T23:22:32.098860"
+  "timestamp": "2026-03-30T23:39:33.679229"
 }

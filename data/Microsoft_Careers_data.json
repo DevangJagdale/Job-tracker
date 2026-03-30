@@ -1,15 +1,15 @@
 {
   "page_title": "| Microsoft Careers",
   "url": "https://apply.careers.microsoft.com/careers?domain=microsoft.com&start=0&location=United+States&sort_by=timestamp&filter_include_remote=1&filter_profession=software+engineering%2Cresearch%252C%2520applied%252C%2520%2526%2520data%2520sciences",
-  "total_jobs": 10,
+  "total_jobs": 9,
   "jobs": [
     {
-      "title": "Senior Software Engineer\nUnited States, Georgia, Atlanta\nPosted 18 minutes ago",
+      "title": "Senior Software Engineer\nUnited States, Georgia, Atlanta\nPosted 35 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556641785?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Georgia, A_556641785?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 25 minutes ago",
+      "title": "Senior Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 42 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556619285?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Multiple L_556619285?domain=microsoft.com"
     },
@@ -29,12 +29,12 @@
       "identifier": "Principal Applied Scientist - Auction & Bidding\nUn_556852883?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 3 hours ago",
+      "title": "Senior Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 4 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556619251?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Multiple L_556619251?domain=microsoft.com"
     },
     {
-      "title": "Principal Software Development Engineer\nUnited States, Washington, Redmond\nPosted 3 hours ago",
+      "title": "Principal Software Development Engineer\nUnited States, Washington, Redmond\nPosted 4 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556853158?domain=microsoft.com",
       "identifier": "Principal Software Development Engineer\nUnited Sta_556853158?domain=microsoft.com"
     },
@@ -47,13 +47,8 @@
       "title": "Multidisciplinary Manager, Industry Solutions Engineering (ISE) / Data Science\nUnited States, Multiple Locations, Multiple Locations\nPosted 21 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556652525?domain=microsoft.com",
       "identifier": "Multidisciplinary Manager, Industry Solutions Engi_556652525?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Application Builder\nUnited States, Washington, Redmond\nPosted 3 days ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556802474?domain=microsoft.com",
-      "identifier": "Senior Application Builder\nUnited States, Washingt_556802474?domain=microsoft.com"
     }
   ],
-  "job_count_text": "778",
-  "timestamp": "2026-03-30T16:57:35.225366"
+  "job_count_text": "779",
+  "timestamp": "2026-03-30T17:14:51.159473"
 }

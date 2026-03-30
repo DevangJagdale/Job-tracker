@@ -4,19 +4,19 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "New College Grad - Embedded Software Engineer\nBoise, Idaho, United States of America\nPosted 17 hours ago",
-      "url": "https://careers.micron.com/careers/job/41025899",
-      "identifier": "New College Grad - Embedded Software Engineer\nBois_icron.com/careers/job/41025899"
-    },
-    {
       "title": "Sr. Construction Category Analyst\nSyracuse, New York, United States of America\nPosted 17 hours ago",
       "url": "https://careers.micron.com/careers/job/39605563",
       "identifier": "Sr. Construction Category Analyst\nSyracuse, New Yo_icron.com/careers/job/39605563"
     },
     {
-      "title": "US FE Expansion Planning Engineer\nBoise, Idaho, United States of America\nPosted 4 days ago",
-      "url": "https://careers.micron.com/careers/job/40986798",
-      "identifier": "US FE Expansion Planning Engineer\nBoise, Idaho, Un_icron.com/careers/job/40986798"
+      "title": "AI Solution Intake & Feasibility Analyst\nBoise, Idaho, United States of America\nPosted 17 hours ago",
+      "url": "https://careers.micron.com/careers/job/39315395",
+      "identifier": "AI Solution Intake & Feasibility Analyst\nBoise, Id_icron.com/careers/job/39315395"
+    },
+    {
+      "title": "New College Grad - Embedded Software Engineer\nBoise, Idaho, United States of America\nPosted 17 hours ago",
+      "url": "https://careers.micron.com/careers/job/41025899",
+      "identifier": "New College Grad - Embedded Software Engineer\nBois_icron.com/careers/job/41025899"
     },
     {
       "title": "New College Grad - Supply Chain Planner\nBoise, Idaho, United States of America\nPosted 4 days ago",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "74",
-  "timestamp": "2026-03-30T17:01:04.383118"
+  "timestamp": "2026-03-30T17:18:21.430055"
 }

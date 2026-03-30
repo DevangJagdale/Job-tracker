@@ -4,14 +4,14 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Multidisciplinary Manager, Industry Solutions Engineering (ISE) / SWE\nUnited States, Multiple Locations, Multiple Locations\nPosted 9 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556652519?domain=microsoft.com",
-      "identifier": "Multidisciplinary Manager, Industry Solutions Engi_556652519?domain=microsoft.com"
-    },
-    {
-      "title": "Multidisciplinary Manager, Industry Solutions Engineering (ISE) / Data Science\nUnited States, Multiple Locations, Multiple Locations\nPosted 9 hours ago",
+      "title": "Multidisciplinary Manager, Industry Solutions Engineering (ISE) / Data Science\nUnited States, Multiple Locations, Multiple Locations\nPosted 10 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556652525?domain=microsoft.com",
       "identifier": "Multidisciplinary Manager, Industry Solutions Engi_556652525?domain=microsoft.com"
+    },
+    {
+      "title": "Multidisciplinary Manager, Industry Solutions Engineering (ISE) / SWE\nUnited States, Multiple Locations, Multiple Locations\nPosted 10 hours ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556652519?domain=microsoft.com",
+      "identifier": "Multidisciplinary Manager, Industry Solutions Engi_556652519?domain=microsoft.com"
     },
     {
       "title": "Senior Application Builder\nUnited States, Washington, Redmond\nPosted 2 days ago",
@@ -54,6 +54,6 @@
       "identifier": "Software Engineer\nUnited States, Washington, Redmo_556752120?domain=microsoft.com"
     }
   ],
-  "job_count_text": "790",
-  "timestamp": "2026-03-30T05:48:45.540146"
+  "job_count_text": "789",
+  "timestamp": "2026-03-30T06:05:56.106348"
 }

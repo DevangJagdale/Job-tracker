@@ -4,6 +4,11 @@
   "total_jobs": 19,
   "jobs": [
     {
+      "title": "Senior Software Engineer, App Store Data",
+      "url": "https://jobs.apple.com/en-us/details/200632382-3337/senior-software-engineer-app-store-data?team=SFTWR",
+      "identifier": "Senior Software Engineer, App Store Data_neer-app-store-data?team=SFTWR"
+    },
+    {
       "title": "Software Develpment Engineer in Test (SDET), Creativity Apps",
       "url": "https://jobs.apple.com/en-us/details/200654221-0836/software-develpment-engineer-in-test-sdet-creativity-apps?team=SFTWR",
       "identifier": "Software Develpment Engineer in Test (SDET), Creat_det-creativity-apps?team=SFTWR"
@@ -92,13 +97,8 @@
       "title": "Live Stream Reliability Engineer - AppleTV",
       "url": "https://jobs.apple.com/en-us/details/200653224-0670/live-stream-reliability-engineer-appletv?team=SFTWR",
       "identifier": "Live Stream Reliability Engineer - AppleTV_ty-engineer-appletv?team=SFTWR"
-    },
-    {
-      "title": "Sr Live Stream Broadcast Systems Engineer - AppleTV",
-      "url": "https://jobs.apple.com/en-us/details/200652260-0670/sr-live-stream-broadcast-systems-engineer-appletv?team=SFTWR",
-      "identifier": "Sr Live Stream Broadcast Systems Engineer - AppleT_ms-engineer-appletv?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-30T18:41:15.511324"
+  "timestamp": "2026-03-30T18:58:25.272268"
 }

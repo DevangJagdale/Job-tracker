@@ -4,6 +4,11 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Machine Learning Architect Manager , LLM & Generative AI",
+      "url": "https://jobs.apple.com/en-us/details/200635924-3337/machine-learning-architect-manager-llm-generative-ai?team=MLAI",
+      "identifier": "Machine Learning Architect Manager , LLM & Generat_er-llm-generative-ai?team=MLAI"
+    },
+    {
       "title": "Software Engineer, Test Platform Intelligence",
       "url": "https://jobs.apple.com/en-us/details/200639904-0836/software-engineer-test-platform-intelligence?team=SFTWR",
       "identifier": "Software Engineer, Test Platform Intelligence_atform-intelligence?team=SFTWR"
@@ -77,13 +82,8 @@
       "title": "Virtualization Software Development Engineer in Test (SDET), Core OS",
       "url": "https://jobs.apple.com/en-us/details/200625094-0836/virtualization-software-development-engineer-in-test-sdet-core-os?team=SFTWR",
       "identifier": "Virtualization Software Development Engineer in Te_n-test-sdet-core-os?team=SFTWR"
-    },
-    {
-      "title": "Hardware System Design Engineer - Apple Vision Pro",
-      "url": "https://jobs.apple.com/en-us/details/200653706-3749/hardware-system-design-engineer-apple-vision-pro?team=SFTWR",
-      "identifier": "Hardware System Design Engineer - Apple Vision Pro_er-apple-vision-pro?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-30T01:22:56.485263"
+  "timestamp": "2026-03-30T01:40:11.999959"
 }

@@ -4,6 +4,11 @@
   "total_jobs": 10,
   "jobs": [
     {
+      "title": "ASIC Design Verfication Engineer II (Full Time) - United States",
+      "url": "https://careers.cisco.com/global/en/job/2002902/ASIC-Design-Verfication-Engineer-II-Full-Time-United-States",
+      "identifier": "ASIC Design Verfication Engineer II (Full Time) - _eer-II-Full-Time-United-States"
+    },
+    {
       "title": "Wireless Network Engineer I (Full Time) - United States",
       "url": "https://careers.cisco.com/global/en/job/2010991/Wireless-Network-Engineer-I-Full-Time-United-States",
       "identifier": "Wireless Network Engineer I (Full Time) - United S_neer-I-Full-Time-United-States"
@@ -47,13 +52,8 @@
       "title": "DevOps Engineer II (Full-Time) - United States",
       "url": "https://careers.cisco.com/global/en/job/2008084/DevOps-Engineer-II-Full-Time-United-States",
       "identifier": "DevOps Engineer II (Full-Time) - United States_eer-II-Full-Time-United-States"
-    },
-    {
-      "title": "Sales Development Representative II (Full Time) United States (Virtual Demand Center) - United States",
-      "url": "https://careers.cisco.com/global/en/job/2008662/Sales-Development-Representative-II-Full-Time-United-States-Virtual-Demand-Center-United-States",
-      "identifier": "Sales Development Representative II (Full Time) Un_al-Demand-Center-United-States"
     }
   ],
-  "job_count_text": "13",
-  "timestamp": "2026-03-30T15:33:34.752814"
+  "job_count_text": "14",
+  "timestamp": "2026-03-30T15:50:47.664711"
 }

@@ -4,14 +4,14 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Multidisciplinary Manager, Industry Solutions Engineering (ISE) / Data Science\nUnited States, Multiple Locations, Multiple Locations\nPosted 15 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556652525?domain=microsoft.com",
-      "identifier": "Multidisciplinary Manager, Industry Solutions Engi_556652525?domain=microsoft.com"
-    },
-    {
-      "title": "Multidisciplinary Manager, Industry Solutions Engineering (ISE) / SWE\nUnited States, Multiple Locations, Multiple Locations\nPosted 15 hours ago",
+      "title": "Multidisciplinary Manager, Industry Solutions Engineering (ISE) / SWE\nUnited States, Multiple Locations, Multiple Locations\nPosted 16 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556652519?domain=microsoft.com",
       "identifier": "Multidisciplinary Manager, Industry Solutions Engi_556652519?domain=microsoft.com"
+    },
+    {
+      "title": "Multidisciplinary Manager, Industry Solutions Engineering (ISE) / Data Science\nUnited States, Multiple Locations, Multiple Locations\nPosted 16 hours ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556652525?domain=microsoft.com",
+      "identifier": "Multidisciplinary Manager, Industry Solutions Engi_556652525?domain=microsoft.com"
     },
     {
       "title": "Senior Application Builder\nUnited States, Washington, Redmond\nPosted 2 days ago",
@@ -24,7 +24,7 @@
       "identifier": "Principal Software Engineer\nUnited States, Washing_556638169?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 2 days ago",
+      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 3 days ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556851300?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Washington_556851300?domain=microsoft.com"
     },
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "780",
-  "timestamp": "2026-03-30T11:40:00.334460"
+  "timestamp": "2026-03-30T11:57:10.660224"
 }

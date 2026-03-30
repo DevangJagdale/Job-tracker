@@ -4,6 +4,11 @@
   "total_jobs": 15,
   "jobs": [
     {
+      "title": "Senior Software Engineer, Data Science & Analytics Platform Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200614973-0157/senior-software-engineer-data-science-analytics-platform-engineering?team=SFTWR",
+      "identifier": "Senior Software Engineer, Data Science & Analytics_latform-engineering?team=SFTWR"
+    },
+    {
       "title": "Data Product Engineering Lead - Wallet, Payments & Commerce",
       "url": "https://jobs.apple.com/en-us/details/200654427-0157/data-product-engineering-lead-wallet-payments-commerce?team=SFTWR",
       "identifier": "Data Product Engineering Lead - Wallet, Payments &_t-payments-commerce?team=SFTWR"
@@ -72,13 +77,8 @@
       "title": "Software Tools and Automation",
       "url": "https://jobs.apple.com/en-us/details/200653189-3337/software-tools-and-automation?team=SFTWR",
       "identifier": "Software Tools and Automation_ools-and-automation?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer, iOS Keyboard",
-      "url": "https://jobs.apple.com/en-us/details/200654277-0836/software-engineer-ios-keyboard?team=SFTWR",
-      "identifier": "Software Engineer, iOS Keyboard_gineer-ios-keyboard?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-30T23:05:08.185650"
+  "timestamp": "2026-03-30T23:22:32.098860"
 }

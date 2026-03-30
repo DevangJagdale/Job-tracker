@@ -4,6 +4,11 @@
   "total_jobs": 18,
   "jobs": [
     {
+      "title": "Software Tools and Automation",
+      "url": "https://jobs.apple.com/en-us/details/200653189-3337/software-tools-and-automation?team=SFTWR",
+      "identifier": "Software Tools and Automation_ools-and-automation?team=SFTWR"
+    },
+    {
       "title": "Software Engineer, iOS Keyboard",
       "url": "https://jobs.apple.com/en-us/details/200654277-0836/software-engineer-ios-keyboard?team=SFTWR",
       "identifier": "Software Engineer, iOS Keyboard_gineer-ios-keyboard?team=SFTWR"
@@ -87,13 +92,8 @@
       "title": "Software Engineer - File System Services, Core OS",
       "url": "https://jobs.apple.com/en-us/details/200646144-3401/software-engineer-file-system-services-core-os?team=SFTWR",
       "identifier": "Software Engineer - File System Services, Core OS_em-services-core-os?team=SFTWR"
-    },
-    {
-      "title": "Bluetooth Software Performance Engineer, Wireless Technologies & Ecosystems",
-      "url": "https://jobs.apple.com/en-us/details/200620192-3543/bluetooth-software-performance-engineer-wireless-technologies-ecosystems?team=SFTWR",
-      "identifier": "Bluetooth Software Performance Engineer, Wireless _nologies-ecosystems?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-30T16:23:24.765551"
+  "timestamp": "2026-03-30T16:40:35.032196"
 }

@@ -9,19 +9,19 @@
       "identifier": "Senior Software Development Engineer_-Software-Development-Engineer"
     },
     {
+      "title": "Staff Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0783061/Staff-Software-Development-Engineer",
+      "identifier": "Staff Software Development Engineer_-Software-Development-Engineer"
+    },
+    {
+      "title": "Senior Data Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0860934/Senior-Data-Engineer",
+      "identifier": "Senior Data Engineer_/R0860934/Senior-Data-Engineer"
+    },
+    {
       "title": "Senior Manager - Software Development Engineering",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0844984/Senior-Manager-Software-Development-Engineering",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0851746/Senior-Manager-Software-Development-Engineering",
       "identifier": "Senior Manager - Software Development Engineering_ftware-Development-Engineering"
-    },
-    {
-      "title": "Business Analyst - ServiceNow HRSD",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0862876/Business-Analyst-ServiceNow-HRSD",
-      "identifier": "Business Analyst - ServiceNow HRSD_siness-Analyst-ServiceNow-HRSD"
-    },
-    {
-      "title": "Staff Software Development Engineer (myPBM)",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0719480/Staff-Software-Development-Engineer-myPBM",
-      "identifier": "Staff Software Development Engineer (myPBM)_are-Development-Engineer-myPBM"
     },
     {
       "title": "Engineering Lead, Non-Production Environment",
@@ -29,9 +29,9 @@
       "identifier": "Engineering Lead, Non-Production Environment_ead-Non-Production-Environment"
     },
     {
-      "title": "Senior Full Stack Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0860953/Senior-Full-Stack-Engineer",
-      "identifier": "Senior Full Stack Engineer_953/Senior-Full-Stack-Engineer"
+      "title": "Staff Software Development Engineer (myPBM)",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0719480/Staff-Software-Development-Engineer-myPBM",
+      "identifier": "Staff Software Development Engineer (myPBM)_are-Development-Engineer-myPBM"
     },
     {
       "title": "Manager, Site Reliability Engineering",
@@ -39,11 +39,11 @@
       "identifier": "Manager, Site Reliability Engineering_r-Site-Reliability-Engineering"
     },
     {
-      "title": "Staff Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0783061/Staff-Software-Development-Engineer",
-      "identifier": "Staff Software Development Engineer_-Software-Development-Engineer"
+      "title": "Senior Full Stack Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0860953/Senior-Full-Stack-Engineer",
+      "identifier": "Senior Full Stack Engineer_953/Senior-Full-Stack-Engineer"
     }
   ],
   "job_count_text": "41",
-  "timestamp": "2026-03-30T16:41:36.070124"
+  "timestamp": "2026-03-30T16:58:52.752675"
 }

@@ -4,6 +4,11 @@
   "total_jobs": 18,
   "jobs": [
     {
+      "title": "Data Scientist",
+      "url": "https://jobs.apple.com/en-us/details/200654193-0836/data-scientist?team=SFTWR",
+      "identifier": "Data Scientist_0836/data-scientist?team=SFTWR"
+    },
+    {
       "title": "Software Tools and Automation",
       "url": "https://jobs.apple.com/en-us/details/200653189-3337/software-tools-and-automation?team=SFTWR",
       "identifier": "Software Tools and Automation_ools-and-automation?team=SFTWR"
@@ -87,13 +92,8 @@
       "title": "Core Bring Up Engineer, Core OS",
       "url": "https://jobs.apple.com/en-us/details/200635979-0836/core-bring-up-engineer-core-os?team=SFTWR",
       "identifier": "Core Bring Up Engineer, Core OS_up-engineer-core-os?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer - File System Services, Core OS",
-      "url": "https://jobs.apple.com/en-us/details/200646144-3401/software-engineer-file-system-services-core-os?team=SFTWR",
-      "identifier": "Software Engineer - File System Services, Core OS_em-services-core-os?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-30T16:40:35.032196"
+  "timestamp": "2026-03-30T16:57:51.635969"
 }

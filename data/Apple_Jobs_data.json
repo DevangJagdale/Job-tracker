@@ -1,8 +1,13 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 16,
+  "total_jobs": 15,
   "jobs": [
+    {
+      "title": "Data Product Engineering Lead - Wallet, Payments & Commerce",
+      "url": "https://jobs.apple.com/en-us/details/200654427-0157/data-product-engineering-lead-wallet-payments-commerce?team=SFTWR",
+      "identifier": "Data Product Engineering Lead - Wallet, Payments &_t-payments-commerce?team=SFTWR"
+    },
     {
       "title": "Senior Detection Creation Engineer",
       "url": "https://jobs.apple.com/en-us/details/200654441-3337/senior-detection-creation-engineer?team=SFTWR",
@@ -72,18 +77,8 @@
       "title": "Software Engineer, iOS Keyboard",
       "url": "https://jobs.apple.com/en-us/details/200654277-0836/software-engineer-ios-keyboard?team=SFTWR",
       "identifier": "Software Engineer, iOS Keyboard_gineer-ios-keyboard?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer, Trusted Execution (Security Systems)",
-      "url": "https://jobs.apple.com/en-us/details/200654389-0836/software-engineer-trusted-execution-security-systems?team=SFTWR",
-      "identifier": "Software Engineer, Trusted Execution (Security Sys_on-security-systems?team=SFTWR"
-    },
-    {
-      "title": "Technical Operations & Site Reliability Engineer, Customer Systems",
-      "url": "https://jobs.apple.com/en-us/details/200636330-3956/technical-operations-site-reliability-engineer-customer-systems?team=SFTWR",
-      "identifier": "Technical Operations & Site Reliability Engineer, _er-customer-systems?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-30T22:47:55.193488"
+  "timestamp": "2026-03-30T23:05:08.185650"
 }

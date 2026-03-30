@@ -4,6 +4,11 @@
   "total_jobs": 20,
   "jobs": [
     {
+      "title": "AWM, Marcus by Goldman Sachs, Pricing & Analytics, Analyst, Richardson, TX\nRichardson\u00b7United States\n\u00b7Analyst",
+      "url": "https://higher.gs.com/roles/151793",
+      "identifier": "AWM, Marcus by Goldman Sachs, Pricing & Analytics,_s://higher.gs.com/roles/151793"
+    },
+    {
       "title": "Asset & Wealth Management - Software Engineer - Associate - Dallas\nDallas\u00b7United States\n\u00b7Associate",
       "url": "https://higher.gs.com/roles/160564",
       "identifier": "Asset & Wealth Management - Software Engineer - As_s://higher.gs.com/roles/160564"
@@ -69,11 +74,6 @@
       "identifier": "AI/ML Engineer, Global Banking & Markets, Investme_s://higher.gs.com/roles/161628"
     },
     {
-      "title": "AWM, Marcus by Goldman Sachs, Pricing & Analytics, Analyst, Richardson, TX\nRichardson\u00b7United States\n\u00b7Analyst",
-      "url": "https://higher.gs.com/roles/151793",
-      "identifier": "AWM, Marcus by Goldman Sachs, Pricing & Analytics,_s://higher.gs.com/roles/151793"
-    },
-    {
       "title": "AWM, Marcus by Goldman Sachs, Pricing & Analytics (Modeling) Associate, Richardson, TX\nRichardson\u00b7United States\n\u00b7Associate",
       "url": "https://higher.gs.com/roles/136065",
       "identifier": "AWM, Marcus by Goldman Sachs, Pricing & Analytics _s://higher.gs.com/roles/136065"
@@ -105,5 +105,5 @@
     }
   ],
   "job_count_text": "52",
-  "timestamp": "2026-03-30T22:47:05.551539"
+  "timestamp": "2026-03-30T23:04:08.583271"
 }

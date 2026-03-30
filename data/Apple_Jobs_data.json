@@ -1,17 +1,17 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 18,
+  "total_jobs": 17,
   "jobs": [
+    {
+      "title": "Software Engineer, Information Systems & Technology",
+      "url": "https://jobs.apple.com/en-us/details/200653252-3956/software-engineer-information-systems-technology?team=SFTWR",
+      "identifier": "Software Engineer, Information Systems & Technolog_-systems-technology?team=SFTWR"
+    },
     {
       "title": "Product Display Driver Engineer, Graphics, Games, & ML",
       "url": "https://jobs.apple.com/en-us/details/200647490-0836/product-display-driver-engineer-graphics-games-ml?team=SFTWR",
       "identifier": "Product Display Driver Engineer, Graphics, Games, _r-graphics-games-ml?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer, Information Systems & Technology",
-      "url": "https://jobs.apple.com/en-us/details/200653729-0157/software-engineer-information-systems-technology?team=SFTWR",
-      "identifier": "Software Engineer, Information Systems & Technolog_-systems-technology?team=SFTWR"
     },
     {
       "title": "Sr. WebKit Performance Engineer",
@@ -87,13 +87,8 @@
       "title": "SAP Functional Engineer, Supply Chain & Logistics",
       "url": "https://jobs.apple.com/en-us/details/200615746-0157/sap-functional-engineer-supply-chain-logistics?team=SFTWR",
       "identifier": "SAP Functional Engineer, Supply Chain & Logistics_ply-chain-logistics?team=SFTWR"
-    },
-    {
-      "title": "Machine Learning Architect Manager , LLM & Generative AI",
-      "url": "https://jobs.apple.com/en-us/details/200635924-3337/machine-learning-architect-manager-llm-generative-ai?team=MLAI",
-      "identifier": "Machine Learning Architect Manager , LLM & Generat_er-llm-generative-ai?team=MLAI"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-30T21:22:47.151095"
+  "timestamp": "2026-03-30T21:39:48.731948"
 }

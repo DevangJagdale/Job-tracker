@@ -1,7 +1,7 @@
 {
   "page_title": "Job Openings - Cisco Careers",
   "url": "https://careers.cisco.com/global/en/search-results?s=1",
-  "total_jobs": 10,
+  "total_jobs": 9,
   "jobs": [
     {
       "title": "ASIC Design Verfication Engineer II (Full Time) - United States",
@@ -39,21 +39,16 @@
       "identifier": "Data Science Analyst I (Full Time) - United States_lyst-I-Full-Time-United-States"
     },
     {
-      "title": "Customer Experience Project Specialist I (Full-Time) - United States",
-      "url": "https://careers.cisco.com/global/en/job/2001576/Customer-Experience-Project-Specialist-I-Full-Time-United-States",
-      "identifier": "Customer Experience Project Specialist I (Full-Tim_list-I-Full-Time-United-States"
-    },
-    {
-      "title": "DevOps Engineer II (Full-Time) - United States",
-      "url": "https://careers.cisco.com/global/en/job/2008084/DevOps-Engineer-II-Full-Time-United-States",
-      "identifier": "DevOps Engineer II (Full-Time) - United States_eer-II-Full-Time-United-States"
-    },
-    {
       "title": "Sales Development Representative II (Full Time) United States (Virtual Demand Center) - United States",
       "url": "https://careers.cisco.com/global/en/job/2008662/Sales-Development-Representative-II-Full-Time-United-States-Virtual-Demand-Center-United-States",
       "identifier": "Sales Development Representative II (Full Time) Un_al-Demand-Center-United-States"
+    },
+    {
+      "title": "Senior Applied AI Scientist",
+      "url": "https://careers.cisco.com/global/en/job/2001300/Senior-Applied-AI-Scientist",
+      "identifier": "Senior Applied AI Scientist_00/Senior-Applied-AI-Scientist"
     }
   ],
-  "job_count_text": "12",
-  "timestamp": "2026-03-30T18:08:37.697365"
+  "job_count_text": "9",
+  "timestamp": "2026-03-30T18:25:49.014669"
 }

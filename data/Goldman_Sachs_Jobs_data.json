@@ -4,6 +4,11 @@
   "total_jobs": 20,
   "jobs": [
     {
+      "title": "Asset & Wealth Management - Quantitative Strategist , ETF, New York, Associate\nNew York\u00b7United States\n\u00b7Associate",
+      "url": "https://higher.gs.com/roles/165917",
+      "identifier": "Asset & Wealth Management - Quantitative Strategis_s://higher.gs.com/roles/165917"
+    },
+    {
       "title": "Data Engineering - Market Data Engineering - Software Engineer - Associate - Dallas\nDallas\u00b7United States\n\u00b7Associate",
       "url": "https://higher.gs.com/roles/152750",
       "identifier": "Data Engineering - Market Data Engineering - Softw_s://higher.gs.com/roles/152750"
@@ -64,11 +69,6 @@
       "identifier": "Asset & Wealth Management - Web React Developer - _s://higher.gs.com/roles/154114"
     },
     {
-      "title": "Asset & Wealth Management - Quantitative Strategist , ETF, New York, Associate\nNew York\u00b7United States\n\u00b7Associate",
-      "url": "https://higher.gs.com/roles/165917",
-      "identifier": "Asset & Wealth Management - Quantitative Strategis_s://higher.gs.com/roles/165917"
-    },
-    {
       "title": "Asset & Wealth Management - QA Automation Engineer - Associate - Dallas\nDallas\u00b7United States\n\u00b7Associate",
       "url": "https://higher.gs.com/roles/161877",
       "identifier": "Asset & Wealth Management - QA Automation Engineer_s://higher.gs.com/roles/161877"
@@ -105,5 +105,5 @@
     }
   ],
   "job_count_text": "52",
-  "timestamp": "2026-03-30T18:05:59.644538"
+  "timestamp": "2026-03-30T18:23:13.008130"
 }

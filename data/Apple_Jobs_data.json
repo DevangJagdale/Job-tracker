@@ -1,13 +1,8 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 15,
+  "total_jobs": 19,
   "jobs": [
-    {
-      "title": "Software Engineer, Creativity Apps",
-      "url": "https://jobs.apple.com/en-us/details/200645143-0157/software-engineer-creativity-apps?team=SFTWR",
-      "identifier": "Software Engineer, Creativity Apps_eer-creativity-apps?team=SFTWR"
-    },
     {
       "title": "Software Develpment Engineer in Test (SDET), Creativity Apps",
       "url": "https://jobs.apple.com/en-us/details/200654221-0836/software-develpment-engineer-in-test-sdet-creativity-apps?team=SFTWR",
@@ -77,8 +72,33 @@
       "title": "Data Scientist",
       "url": "https://jobs.apple.com/en-us/details/200653418-3543/data-scientist?team=SFTWR",
       "identifier": "Data Scientist_3543/data-scientist?team=SFTWR"
+    },
+    {
+      "title": "Graphics Compositing UI Rendering Engineer, Graphics, Games, & ML",
+      "url": "https://jobs.apple.com/en-us/details/200606688-0836/graphics-compositing-ui-rendering-engineer-graphics-games-ml?team=SFTWR",
+      "identifier": "Graphics Compositing UI Rendering Engineer, Graphi_r-graphics-games-ml?team=SFTWR"
+    },
+    {
+      "title": "Software Device Driver Engineer - Core I/O, Core OS",
+      "url": "https://jobs.apple.com/en-us/details/200654151-0836/software-device-driver-engineer-core-i-o-core-os?team=SFTWR",
+      "identifier": "Software Device Driver Engineer - Core I/O, Core O_er-core-i-o-core-os?team=SFTWR"
+    },
+    {
+      "title": "Software Quality Assurance Engineer, Apps",
+      "url": "https://jobs.apple.com/en-us/details/200654207-3543/software-quality-assurance-engineer-apps?team=SFTWR",
+      "identifier": "Software Quality Assurance Engineer, Apps_rance-engineer-apps?team=SFTWR"
+    },
+    {
+      "title": "Live Stream Reliability Engineer - AppleTV",
+      "url": "https://jobs.apple.com/en-us/details/200653224-0670/live-stream-reliability-engineer-appletv?team=SFTWR",
+      "identifier": "Live Stream Reliability Engineer - AppleTV_ty-engineer-appletv?team=SFTWR"
+    },
+    {
+      "title": "Sr Live Stream Broadcast Systems Engineer - AppleTV",
+      "url": "https://jobs.apple.com/en-us/details/200652260-0670/sr-live-stream-broadcast-systems-engineer-appletv?team=SFTWR",
+      "identifier": "Sr Live Stream Broadcast Systems Engineer - AppleT_ms-engineer-appletv?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-30T18:24:03.535866"
+  "timestamp": "2026-03-30T18:41:15.511324"
 }

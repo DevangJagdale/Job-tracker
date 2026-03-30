@@ -4,14 +4,14 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Sr. Construction Category Analyst\nSyracuse, New York, United States of America\nPosted 18 hours ago",
-      "url": "https://careers.micron.com/careers/job/39605563",
-      "identifier": "Sr. Construction Category Analyst\nSyracuse, New Yo_icron.com/careers/job/39605563"
-    },
-    {
       "title": "AI Solution Intake & Feasibility Analyst\nBoise, Idaho, United States of America\nPosted 18 hours ago",
       "url": "https://careers.micron.com/careers/job/39315395",
       "identifier": "AI Solution Intake & Feasibility Analyst\nBoise, Id_icron.com/careers/job/39315395"
+    },
+    {
+      "title": "Sr. Construction Category Analyst\nSyracuse, New York, United States of America\nPosted 18 hours ago",
+      "url": "https://careers.micron.com/careers/job/39605563",
+      "identifier": "Sr. Construction Category Analyst\nSyracuse, New Yo_icron.com/careers/job/39605563"
     },
     {
       "title": "New College Grad - Embedded Software Engineer\nBoise, Idaho, United States of America\nPosted 18 hours ago",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "75",
-  "timestamp": "2026-03-30T17:52:54.347687"
+  "timestamp": "2026-03-30T18:10:06.602441"
 }

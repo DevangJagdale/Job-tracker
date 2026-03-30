@@ -1,8 +1,23 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 18,
+  "total_jobs": 19,
   "jobs": [
+    {
+      "title": "Software Develpment Engineer in Test (SDET), Creativity Apps",
+      "url": "https://jobs.apple.com/en-us/details/200654221-0836/software-develpment-engineer-in-test-sdet-creativity-apps?team=SFTWR",
+      "identifier": "Software Develpment Engineer in Test (SDET), Creat_det-creativity-apps?team=SFTWR"
+    },
+    {
+      "title": "Senior Detection Creation Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200653006-3337/senior-detection-creation-engineer?team=SFTWR",
+      "identifier": "Senior Detection Creation Engineer_n-creation-engineer?team=SFTWR"
+    },
+    {
+      "title": "Lead Producer, Customer Journeys and Marketing",
+      "url": "https://jobs.apple.com/en-us/details/200647924-0670/lead-producer-customer-journeys-and-marketing?team=SFTWR",
+      "identifier": "Lead Producer, Customer Journeys and Marketing_rneys-and-marketing?team=SFTWR"
+    },
     {
       "title": "Site Reliability Engineer, Apple Data Platform / Druid",
       "url": "https://jobs.apple.com/en-us/details/200654406-0157/site-reliability-engineer-apple-data-platform-druid?team=SFTWR",
@@ -82,18 +97,8 @@
       "title": "Sr Live Stream Broadcast Systems Engineer - AppleTV",
       "url": "https://jobs.apple.com/en-us/details/200652260-0670/sr-live-stream-broadcast-systems-engineer-appletv?team=SFTWR",
       "identifier": "Sr Live Stream Broadcast Systems Engineer - AppleT_ms-engineer-appletv?team=SFTWR"
-    },
-    {
-      "title": "Tools & Automation Engineer, Wireless Technologies & Ecosystems",
-      "url": "https://jobs.apple.com/en-us/details/200648766-0836/tools-automation-engineer-wireless-technologies-ecosystems?team=SFTWR",
-      "identifier": "Tools & Automation Engineer, Wireless Technologies_nologies-ecosystems?team=SFTWR"
-    },
-    {
-      "title": "Software Developer in Test - LocalStorage QA, Core OS",
-      "url": "https://jobs.apple.com/en-us/details/200646138-0157/software-developer-in-test-localstorage-qa-core-os?team=SFTWR",
-      "identifier": "Software Developer in Test - LocalStorage QA, Core_lstorage-qa-core-os?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-30T17:32:22.313883"
+  "timestamp": "2026-03-30T17:49:40.315358"
 }

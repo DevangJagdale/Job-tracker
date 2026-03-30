@@ -4,6 +4,11 @@
   "total_jobs": 20,
   "jobs": [
     {
+      "title": "AWM, Marcus by Goldman Sachs, Pricing & Analytics (Modeling) Associate, Richardson, TX\nRichardson\u00b7United States\n\u00b7Associate",
+      "url": "https://higher.gs.com/roles/136065",
+      "identifier": "AWM, Marcus by Goldman Sachs, Pricing & Analytics _s://higher.gs.com/roles/136065"
+    },
+    {
       "title": "Asset & Wealth Management - Multi Asset Solutions (MAS) Digital Strats - Associate - New York\nNew York\u00b7United States\n\u00b7Associate",
       "url": "https://higher.gs.com/roles/164082",
       "identifier": "Asset & Wealth Management - Multi Asset Solutions _s://higher.gs.com/roles/164082"
@@ -97,13 +102,8 @@
       "title": "Asset & Wealth Management - Software Engineer - Associate - Dallas\nDallas\u00b7United States\n\u00b7Associate",
       "url": "https://higher.gs.com/roles/160564",
       "identifier": "Asset & Wealth Management - Software Engineer - As_s://higher.gs.com/roles/160564"
-    },
-    {
-      "title": "Asset & Wealth Management - Software Engineer - Associate - Dallas\nDallas\u00b7United States\n\u00b7Associate",
-      "url": "https://higher.gs.com/roles/166092",
-      "identifier": "Asset & Wealth Management - Software Engineer - As_s://higher.gs.com/roles/166092"
     }
   ],
-  "job_count_text": "53",
-  "timestamp": "2026-03-30T01:39:20.507461"
+  "job_count_text": "54",
+  "timestamp": "2026-03-30T01:56:39.206828"
 }

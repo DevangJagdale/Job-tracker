@@ -1,7 +1,7 @@
 {
   "page_title": "Search for Jobs",
   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite?locationCountry=bc33aa3152ec42d4995f4791a106ed09&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&workerSubType=ab40a98049581037a3ada55b087049b7",
-  "total_jobs": 19,
+  "total_jobs": 18,
   "jobs": [
     {
       "title": "ASIC Design Engineer - New College Grad 2026",
@@ -92,13 +92,8 @@
       "title": "Developer Technology Engineer, High-Performance Databases \u2013 New College Grad 2026",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--High-Performance-Databases---New-College-Grad-2026_JR2014129?locationCountry=bc33aa3152ec42d4995f4791a106ed09&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&workerSubType=ab40a98049581037a3ada55b087049b7",
       "identifier": "Developer Technology Engineer, High-Performance Da_40a98049581037a3ada55b087049b7"
-    },
-    {
-      "title": "Deep Learning Performance Architect - New College Graduate 2026",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Performance-Architect---New-College-Graduate-2026_JR2014027?locationCountry=bc33aa3152ec42d4995f4791a106ed09&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&workerSubType=ab40a98049581037a3ada55b087049b7",
-      "identifier": "Deep Learning Performance Architect - New College _40a98049581037a3ada55b087049b7"
     }
   ],
-  "job_count_text": "52",
-  "timestamp": "2026-03-30T22:35:47.026899"
+  "job_count_text": "53",
+  "timestamp": "2026-03-30T22:52:51.558119"
 }

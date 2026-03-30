@@ -4,6 +4,26 @@
   "total_jobs": 19,
   "jobs": [
     {
+      "title": "Software Engineer, Information Systems & Technology",
+      "url": "https://jobs.apple.com/en-us/details/200653729-0157/software-engineer-information-systems-technology?team=SFTWR",
+      "identifier": "Software Engineer, Information Systems & Technolog_-systems-technology?team=SFTWR"
+    },
+    {
+      "title": "Sr. WebKit Performance Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200653988-3543/sr-webkit-performance-engineer?team=SFTWR",
+      "identifier": "Sr. WebKit Performance Engineer_erformance-engineer?team=SFTWR"
+    },
+    {
+      "title": "Full Stack Software Engineer, Customer Systems",
+      "url": "https://jobs.apple.com/en-us/details/200641853-3956/full-stack-software-engineer-customer-systems?team=SFTWR",
+      "identifier": "Full Stack Software Engineer, Customer Systems_er-customer-systems?team=SFTWR"
+    },
+    {
+      "title": "Sr Engineering Program Manager",
+      "url": "https://jobs.apple.com/en-us/details/200644156-0836/sr-engineering-program-manager?team=SFTWR",
+      "identifier": "Sr Engineering Program Manager_ing-program-manager?team=SFTWR"
+    },
+    {
       "title": "Senior Software Engineer, App Store Data",
       "url": "https://jobs.apple.com/en-us/details/200632382-3337/senior-software-engineer-app-store-data?team=SFTWR",
       "identifier": "Senior Software Engineer, App Store Data_neer-app-store-data?team=SFTWR"
@@ -77,28 +97,8 @@
       "title": "Data Scientist",
       "url": "https://jobs.apple.com/en-us/details/200653418-3543/data-scientist?team=SFTWR",
       "identifier": "Data Scientist_3543/data-scientist?team=SFTWR"
-    },
-    {
-      "title": "Graphics Compositing UI Rendering Engineer, Graphics, Games, & ML",
-      "url": "https://jobs.apple.com/en-us/details/200606688-0836/graphics-compositing-ui-rendering-engineer-graphics-games-ml?team=SFTWR",
-      "identifier": "Graphics Compositing UI Rendering Engineer, Graphi_r-graphics-games-ml?team=SFTWR"
-    },
-    {
-      "title": "Software Device Driver Engineer - Core I/O, Core OS",
-      "url": "https://jobs.apple.com/en-us/details/200654151-0836/software-device-driver-engineer-core-i-o-core-os?team=SFTWR",
-      "identifier": "Software Device Driver Engineer - Core I/O, Core O_er-core-i-o-core-os?team=SFTWR"
-    },
-    {
-      "title": "Software Quality Assurance Engineer, Apps",
-      "url": "https://jobs.apple.com/en-us/details/200654207-3543/software-quality-assurance-engineer-apps?team=SFTWR",
-      "identifier": "Software Quality Assurance Engineer, Apps_rance-engineer-apps?team=SFTWR"
-    },
-    {
-      "title": "Live Stream Reliability Engineer - AppleTV",
-      "url": "https://jobs.apple.com/en-us/details/200653224-0670/live-stream-reliability-engineer-appletv?team=SFTWR",
-      "identifier": "Live Stream Reliability Engineer - AppleTV_ty-engineer-appletv?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-30T19:57:35.784681"
+  "timestamp": "2026-03-30T20:14:39.633569"
 }

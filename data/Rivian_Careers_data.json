@@ -34,14 +34,14 @@
       "identifier": "Sr. IT Wireless Network Engineer_ang=en-us&previousLocale=en-US"
     },
     {
-      "title": "Staff Embedded Software Engineer - Vehicle Access Systems",
-      "url": "https://careers.rivian.com/careers-home/jobs/29661?lang=en-us&previousLocale=en-US",
-      "identifier": "Staff Embedded Software Engineer - Vehicle Access _ang=en-us&previousLocale=en-US"
-    },
-    {
       "title": "ML Compiler Engineer",
       "url": "https://careers.rivian.com/careers-home/jobs/26319?lang=en-us&previousLocale=en-US",
       "identifier": "ML Compiler Engineer_ang=en-us&previousLocale=en-US"
+    },
+    {
+      "title": "Staff Embedded Software Engineer - Vehicle Access Systems",
+      "url": "https://careers.rivian.com/careers-home/jobs/29661?lang=en-us&previousLocale=en-US",
+      "identifier": "Staff Embedded Software Engineer - Vehicle Access _ang=en-us&previousLocale=en-US"
     },
     {
       "title": "Sr. AI Engineer, Enterprise Applied AI",
@@ -60,5 +60,5 @@
     }
   ],
   "job_count_text": "36",
-  "timestamp": "2026-03-30T10:37:37.586254"
+  "timestamp": "2026-03-30T10:54:46.090868"
 }

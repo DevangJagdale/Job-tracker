@@ -1,8 +1,13 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 17,
+  "total_jobs": 14,
   "jobs": [
+    {
+      "title": "Engineering Program Manager, Data Center Operations",
+      "url": "https://jobs.apple.com/en-us/details/200636333-1336/engineering-program-manager-data-center-operations?team=SFTWR",
+      "identifier": "Engineering Program Manager, Data Center Operation_a-center-operations?team=SFTWR"
+    },
     {
       "title": "Software Development Engineer - Test, Customer Systems",
       "url": "https://jobs.apple.com/en-us/details/200651918-3956/software-development-engineer-test-customer-systems?team=SFTWR",
@@ -67,28 +72,8 @@
       "title": "Manager: UI Frameworks Engineering",
       "url": "https://jobs.apple.com/en-us/details/200633177-0836/manager-ui-frameworks-engineering?team=SFTWR",
       "identifier": "Manager: UI Frameworks Engineering_meworks-engineering?team=SFTWR"
-    },
-    {
-      "title": "IS&T Engineering Project Manager (SAP), IS&T Enterprise Systems",
-      "url": "https://jobs.apple.com/en-us/details/200653884-3401/is-t-engineering-project-manager-sap-is-t-enterprise-systems?team=SFTWR",
-      "identifier": "IS&T Engineering Project Manager (SAP), IS&T Enter_-enterprise-systems?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer - Video Applications Audio Engineering",
-      "url": "https://jobs.apple.com/en-us/details/200650901-0836/software-engineer-video-applications-audio-engineering?team=SFTWR",
-      "identifier": "Software Engineer - Video Applications Audio Engin_s-audio-engineering?team=SFTWR"
-    },
-    {
-      "title": "AR/VR Realtime Rendering and Graphics Software Engineer, RealityKit, Vision Products Software",
-      "url": "https://jobs.apple.com/en-us/details/200639098-3401/ar-vr-realtime-rendering-and-graphics-software-engineer-realitykit-vision-products-software?team=SFTWR",
-      "identifier": "AR/VR Realtime Rendering and Graphics Software Eng_n-products-software?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer, Vision Products Software",
-      "url": "https://jobs.apple.com/en-us/details/200648923-2605/software-engineer-vision-products-software?team=SFTWR",
-      "identifier": "Software Engineer, Vision Products Software_n-products-software?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-31T21:15:16.909633"
+  "timestamp": "2026-03-31T21:32:12.560826"
 }

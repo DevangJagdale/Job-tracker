@@ -4,11 +4,6 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Semiconductor Design Engineer\nRichardson, Texas, United States of America\nPosted 2 days ago",
-      "url": "https://careers.micron.com/careers/job/41139930",
-      "identifier": "Semiconductor Design Engineer\nRichardson, Texas, U_icron.com/careers/job/41139930"
-    },
-    {
       "title": "New College Grad - Silicon Planning Engineer\nBoise, Idaho, United States of America\nPosted 2 days ago",
       "url": "https://careers.micron.com/careers/job/41138334",
       "identifier": "New College Grad - Silicon Planning Engineer\nBoise_icron.com/careers/job/41138334"
@@ -29,9 +24,9 @@
       "identifier": "New College Grad - Embedded Software Engineer\nBois_icron.com/careers/job/41025899"
     },
     {
-      "title": "Product Development Engineer\nBoise, Idaho, United States of America\nPosted 5 days ago",
-      "url": "https://careers.micron.com/careers/job/41065126",
-      "identifier": "Product Development Engineer\nBoise, Idaho, United _icron.com/careers/job/41065126"
+      "title": "Semiconductor Design Engineer\nRichardson, Texas, United States of America\nPosted 2 days ago",
+      "url": "https://careers.micron.com/careers/job/41139930",
+      "identifier": "Semiconductor Design Engineer\nRichardson, Texas, U_icron.com/careers/job/41139930"
     },
     {
       "title": "GEL Engineering Technician\nBoise, Idaho, United States of America\nPosted 5 days ago",
@@ -52,8 +47,13 @@
       "title": "Product Manager\nBoise, Idaho, United States of America\nPosted 5 days ago",
       "url": "https://careers.micron.com/careers/job/41063411",
       "identifier": "Product Manager\nBoise, Idaho, United States of Ame_icron.com/careers/job/41063411"
+    },
+    {
+      "title": "Returned Material Authorization Engineer (Quality Engineer)\nBoise, Idaho, United States of America\nPosted 5 days ago",
+      "url": "https://careers.micron.com/careers/job/41065045",
+      "identifier": "Returned Material Authorization Engineer (Quality _icron.com/careers/job/41065045"
     }
   ],
   "job_count_text": "74",
-  "timestamp": "2026-03-31T15:05:19.110673"
+  "timestamp": "2026-03-31T15:24:03.141070"
 }

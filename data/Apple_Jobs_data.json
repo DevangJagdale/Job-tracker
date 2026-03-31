@@ -1,8 +1,18 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 12,
+  "total_jobs": 13,
   "jobs": [
+    {
+      "title": "Machine Learning System Software Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200654700-3956/machine-learning-system-software-engineer?team=SFTWR",
+      "identifier": "Machine Learning System Software Engineer_m-software-engineer?team=SFTWR"
+    },
+    {
+      "title": "Data Scientist - Multimodal Training Data & Tools - SIML",
+      "url": "https://jobs.apple.com/en-us/details/200654558-0836/data-scientist-multimodal-training-data-tools-siml?team=SFTWR",
+      "identifier": "Data Scientist - Multimodal Training Data & Tools _ing-data-tools-siml?team=SFTWR"
+    },
     {
       "title": "Machine Learning Engineer - Health AIML",
       "url": "https://jobs.apple.com/en-us/details/200616486-0836/machine-learning-engineer-health-aiml?team=MLAI",
@@ -57,13 +67,8 @@
       "title": "Sr. AR/VR/AI Experience Prototyper- Vision Products Software",
       "url": "https://jobs.apple.com/en-us/details/200628261-3956/sr-ar-vr-ai-experience-prototyper-vision-products-software?team=SFTWR",
       "identifier": "Sr. AR/VR/AI Experience Prototyper- Vision Product_n-products-software?team=SFTWR"
-    },
-    {
-      "title": "Applied AI Software Engineer - Vision Products Group & Siri",
-      "url": "https://jobs.apple.com/en-us/details/200645788-3956/applied-ai-software-engineer-vision-products-group-siri?team=SFTWR",
-      "identifier": "Applied AI Software Engineer - Vision Products Gro_products-group-siri?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-31T15:57:45.446533"
+  "timestamp": "2026-03-31T16:16:18.574578"
 }

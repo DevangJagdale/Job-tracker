@@ -4,12 +4,27 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Software Engineering - CTJ - POLY\nUnited States, Washington, Redmond + 3 more\nPosted 24 minutes ago",
+      "title": "Senior Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 8 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556621494?domain=microsoft.com",
+      "identifier": "Senior Software Engineer\nUnited States, Multiple L_556621494?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Data Scientist\nUnited States, Washington, Redmond\nPosted 12 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556853733?domain=microsoft.com",
+      "identifier": "Senior Data Scientist\nUnited States, Washington, R_556853733?domain=microsoft.com"
+    },
+    {
+      "title": "Software Engineer II - Compromise & Fraud Prevention\nUnited States, Washington, Redmond\nPosted 30 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556749458?domain=microsoft.com",
+      "identifier": "Software Engineer II - Compromise & Fraud Preventi_556749458?domain=microsoft.com"
+    },
+    {
+      "title": "Software Engineering - CTJ - POLY\nUnited States, Washington, Redmond + 3 more\nPosted 42 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556746551?domain=microsoft.com",
       "identifier": "Software Engineering - CTJ - POLY\nUnited States, W_556746551?domain=microsoft.com"
     },
     {
-      "title": "Software Engineering - CTJ - POLY\nUnited States, Washington, Redmond + 3 more\nPosted 23 minutes ago",
+      "title": "Software Engineering - CTJ - POLY\nUnited States, Washington, Redmond + 3 more\nPosted 41 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556746570?domain=microsoft.com",
       "identifier": "Software Engineering - CTJ - POLY\nUnited States, W_556746570?domain=microsoft.com"
     },
@@ -37,23 +52,8 @@
       "title": "Principal Software Engineer - Performance Tooling\nUnited States, Washington, Redmond + 1 more\nPosted 12 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556853718?domain=microsoft.com",
       "identifier": "Principal Software Engineer - Performance Tooling\n_556853718?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Software Engineer - Performance Tooling\nUnited States, Washington, Redmond + 1 more\nPosted 12 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556853720?domain=microsoft.com",
-      "identifier": "Senior Software Engineer - Performance Tooling\nUni_556853720?domain=microsoft.com"
-    },
-    {
-      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 15 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556837703?domain=microsoft.com",
-      "identifier": "Software Engineer II\nUnited States, Washington, Re_556837703?domain=microsoft.com"
-    },
-    {
-      "title": "Principal Software Engineering Manager\nUnited States, Washington, Redmond\nPosted 15 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556852364?domain=microsoft.com",
-      "identifier": "Principal Software Engineering Manager\nUnited Stat_556852364?domain=microsoft.com"
     }
   ],
-  "job_count_text": "769",
-  "timestamp": "2026-03-31T15:57:29.226421"
+  "job_count_text": "772",
+  "timestamp": "2026-03-31T16:16:02.500301"
 }

@@ -4,6 +4,11 @@
   "total_jobs": 10,
   "jobs": [
     {
+      "title": "Design Characterization Engineer\nSan Jose, California, United States of America\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/41139984",
+      "identifier": "Design Characterization Engineer\nSan Jose, Califor_icron.com/careers/job/41139984"
+    },
+    {
       "title": "Semiconductor Design Engineer\nRichardson, Texas, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/41139930",
       "identifier": "Semiconductor Design Engineer\nRichardson, Texas, U_icron.com/careers/job/41139930"
@@ -14,16 +19,6 @@
       "identifier": "Product Development Engineer\nBoise, Idaho, United _icron.com/careers/job/41153769"
     },
     {
-      "title": "Design Characterization Engineer\nSan Jose, California, United States of America\nPosted a day ago",
-      "url": "https://careers.micron.com/careers/job/41139984",
-      "identifier": "Design Characterization Engineer\nSan Jose, Califor_icron.com/careers/job/41139984"
-    },
-    {
-      "title": "New College Grad - Embedded Software Engineer\nBoise, Idaho, United States of America\nPosted 2 days ago",
-      "url": "https://careers.micron.com/careers/job/41025899",
-      "identifier": "New College Grad - Embedded Software Engineer\nBois_icron.com/careers/job/41025899"
-    },
-    {
       "title": "AI Solution Intake & Feasibility Analyst\nBoise, Idaho, United States of America\nPosted 2 days ago",
       "url": "https://careers.micron.com/careers/job/39315395",
       "identifier": "AI Solution Intake & Feasibility Analyst\nBoise, Id_icron.com/careers/job/39315395"
@@ -32,6 +27,11 @@
       "title": "New College Grad - Silicon Planning Engineer\nBoise, Idaho, United States of America\nPosted 2 days ago",
       "url": "https://careers.micron.com/careers/job/41138334",
       "identifier": "New College Grad - Silicon Planning Engineer\nBoise_icron.com/careers/job/41138334"
+    },
+    {
+      "title": "New College Grad - Embedded Software Engineer\nBoise, Idaho, United States of America\nPosted 2 days ago",
+      "url": "https://careers.micron.com/careers/job/41025899",
+      "identifier": "New College Grad - Embedded Software Engineer\nBois_icron.com/careers/job/41025899"
     },
     {
       "title": "US FE Expansion Planning Engineer\nBoise, Idaho, United States of America\nPosted 5 days ago",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "75",
-  "timestamp": "2026-03-31T23:00:19.242785"
+  "timestamp": "2026-03-31T23:17:14.261453"
 }

@@ -4,6 +4,11 @@
   "total_jobs": 8,
   "jobs": [
     {
+      "title": "Senior Manager - Client Operations (IC)",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0857040/Senior-Manager-Client-Operations-IC",
+      "identifier": "Senior Manager - Client Operations (IC)_r-Manager-Client-Operations-IC"
+    },
+    {
       "title": "Senior Manager ACAS/Commercial Benefits Testing",
       "url": "https://jobs.cvshealth.com/us/en/job/R0871984/Senior-Manager-ACAS-Commercial-Benefits-Testing",
       "identifier": "Senior Manager ACAS/Commercial Benefits Testing_AS-Commercial-Benefits-Testing"
@@ -17,11 +22,6 @@
       "title": "Manager, ACAS/Commercial Benefits Testing",
       "url": "https://jobs.cvshealth.com/us/en/job/R0872005/Manager-ACAS-Commercial-Benefits-Testing",
       "identifier": "Manager, ACAS/Commercial Benefits Testing_AS-Commercial-Benefits-Testing"
-    },
-    {
-      "title": "Senior Manager - Client Operations (IC)",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0857040/Senior-Manager-Client-Operations-IC",
-      "identifier": "Senior Manager - Client Operations (IC)_r-Manager-Client-Operations-IC"
     },
     {
       "title": "Senior Software Development Engineer",
@@ -39,11 +39,11 @@
       "identifier": "Lead Director, Frictionless Provider Experience (F_onless-Provider-Experience-FPX"
     },
     {
-      "title": "Senior Analyst Digital Operations",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0859398/Senior-Analyst-Digital-Operations",
-      "identifier": "Senior Analyst Digital Operations_ior-Analyst-Digital-Operations"
+      "title": "Lead Director - Software Technology Vendor Management",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0818639/Lead-Director-Software-Technology-Vendor-Management",
+      "identifier": "Lead Director - Software Technology Vendor Managem_e-Technology-Vendor-Management"
     }
   ],
   "job_count_text": "34",
-  "timestamp": "2026-03-31T06:22:22.015084"
+  "timestamp": "2026-03-31T06:39:34.552589"
 }

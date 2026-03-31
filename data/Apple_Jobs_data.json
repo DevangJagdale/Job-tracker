@@ -4,6 +4,11 @@
   "total_jobs": 15,
   "jobs": [
     {
+      "title": "Product Manager, Apple Wallet",
+      "url": "https://jobs.apple.com/en-us/details/200654467-0836/product-manager-apple-wallet?team=SFTWR",
+      "identifier": "Product Manager, Apple Wallet_anager-apple-wallet?team=SFTWR"
+    },
+    {
       "title": "Spatial Computing Engineer, RealityKit, Vision Products Software",
       "url": "https://jobs.apple.com/en-us/details/200635456-3401/spatial-computing-engineer-realitykit-vision-products-software?team=SFTWR",
       "identifier": "Spatial Computing Engineer, RealityKit, Vision Pro_n-products-software?team=SFTWR"
@@ -12,11 +17,6 @@
       "title": "User Experience - Quality Engineering Manager",
       "url": "https://jobs.apple.com/en-us/details/200653562-0836/user-experience-quality-engineering-manager?team=SFTWR",
       "identifier": "User Experience - Quality Engineering Manager_engineering-manager?team=SFTWR"
-    },
-    {
-      "title": "Product Manager, Apple Wallet",
-      "url": "https://jobs.apple.com/en-us/details/200654467-0836/product-manager-apple-wallet?team=SFTWR",
-      "identifier": "Product Manager, Apple Wallet_anager-apple-wallet?team=SFTWR"
     },
     {
       "title": "Senior Software Engineer - Data Governance Solutions, Data Platform",
@@ -80,5 +80,5 @@
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-31T18:59:13.056338"
+  "timestamp": "2026-03-31T19:16:11.110711"
 }

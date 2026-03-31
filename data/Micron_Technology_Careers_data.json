@@ -4,6 +4,11 @@
   "total_jobs": 10,
   "jobs": [
     {
+      "title": "Staff Construction Category Analyst\nSyracuse, New York, United States of America\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/39605563",
+      "identifier": "Staff Construction Category Analyst\nSyracuse, New _icron.com/careers/job/39605563"
+    },
+    {
       "title": "AI Solution Intake & Feasibility Analyst\nBoise, Idaho, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/39315395",
       "identifier": "AI Solution Intake & Feasibility Analyst\nBoise, Id_icron.com/careers/job/39315395"
@@ -22,11 +27,6 @@
       "title": "RDA Process Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/41134600",
       "identifier": "RDA Process Engineer\nBoise, Idaho, United States o_icron.com/careers/job/41134600"
-    },
-    {
-      "title": "Staff Construction Category Analyst\nSyracuse, New York, United States of America\nPosted a day ago",
-      "url": "https://careers.micron.com/careers/job/39605563",
-      "identifier": "Staff Construction Category Analyst\nSyracuse, New _icron.com/careers/job/39605563"
     },
     {
       "title": "US FE Expansion Planning Engineer\nBoise, Idaho, United States of America\nPosted 4 days ago",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "75",
-  "timestamp": "2026-03-31T00:16:47.557717"
+  "timestamp": "2026-03-31T00:33:49.427688"
 }

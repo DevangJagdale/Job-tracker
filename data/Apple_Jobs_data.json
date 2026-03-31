@@ -4,6 +4,16 @@
   "total_jobs": 13,
   "jobs": [
     {
+      "title": "FindMy Data Scientist",
+      "url": "https://jobs.apple.com/en-us/details/200654875-0836/findmy-data-scientist?team=SFTWR",
+      "identifier": "FindMy Data Scientist_ndmy-data-scientist?team=SFTWR"
+    },
+    {
+      "title": "Wireless Software Engineer, Wireless Technologies & Ecosystems",
+      "url": "https://jobs.apple.com/en-us/details/200654877-0836/wireless-software-engineer-wireless-technologies-ecosystems?team=SFTWR",
+      "identifier": "Wireless Software Engineer, Wireless Technologies _nologies-ecosystems?team=SFTWR"
+    },
+    {
       "title": "Quality & Test Automation Engineer \u2013 Xcode",
       "url": "https://jobs.apple.com/en-us/details/200654816-0836/quality-test-automation-engineer-xcode?team=SFTWR",
       "identifier": "Quality & Test Automation Engineer \u2013 Xcode_tion-engineer-xcode?team=SFTWR"
@@ -57,18 +67,8 @@
       "title": "User Experience - Quality Engineering Manager",
       "url": "https://jobs.apple.com/en-us/details/200653562-0836/user-experience-quality-engineering-manager?team=SFTWR",
       "identifier": "User Experience - Quality Engineering Manager_engineering-manager?team=SFTWR"
-    },
-    {
-      "title": "Senior Software Engineer - Data Governance Solutions, Data Platform",
-      "url": "https://jobs.apple.com/en-us/details/200654475-0836/senior-software-engineer-data-governance-solutions-data-platform?team=SFTWR",
-      "identifier": "Senior Software Engineer - Data Governance Solutio_tions-data-platform?team=SFTWR"
-    },
-    {
-      "title": "Sr. Engineering Program Manager, Security, Apple Services Engineering",
-      "url": "https://jobs.apple.com/en-us/details/200633447-3337/sr-engineering-program-manager-security-apple-services-engineering?team=SFTWR",
-      "identifier": "Sr. Engineering Program Manager, Security, Apple S_ervices-engineering?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-31T22:06:07.469195"
+  "timestamp": "2026-03-31T22:23:05.643674"
 }

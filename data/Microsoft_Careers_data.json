@@ -4,7 +4,12 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Senior Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 31 minutes ago",
+      "title": "Service Engineer 3- CTJ- TS/SCI\nUnited States, Virginia, Reston\nPosted 24 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556852371?domain=microsoft.com",
+      "identifier": "Service Engineer 3- CTJ- TS/SCI\nUnited States, Vir_556852371?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556750483?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Multiple L_556750483?domain=microsoft.com"
     },
@@ -19,7 +24,7 @@
       "identifier": "Senior Software Engineer - Performance Tooling\nUni_556853720?domain=microsoft.com"
     },
     {
-      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 12 hours ago",
+      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 13 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556837703?domain=microsoft.com",
       "identifier": "Software Engineer II\nUnited States, Washington, Re_556837703?domain=microsoft.com"
     },
@@ -47,13 +52,8 @@
       "title": "Senior Software Engineer - Full Stack\nUnited States, Washington, Redmond\nPosted 15 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556754983?domain=microsoft.com",
       "identifier": "Senior Software Engineer - Full Stack\nUnited State_556754983?domain=microsoft.com"
-    },
-    {
-      "title": "Principal Software Engineer (CoreAI)\nUnited States, Washington, Redmond\nPosted 15 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556752685?domain=microsoft.com",
-      "identifier": "Principal Software Engineer (CoreAI)\nUnited States_556752685?domain=microsoft.com"
     }
   ],
-  "job_count_text": "767",
-  "timestamp": "2026-03-31T13:28:37.397146"
+  "job_count_text": "768",
+  "timestamp": "2026-03-31T13:46:07.069060"
 }

@@ -1,8 +1,28 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 14,
+  "total_jobs": 13,
   "jobs": [
+    {
+      "title": "Quality & Test Automation Engineer \u2013 Xcode",
+      "url": "https://jobs.apple.com/en-us/details/200654816-0836/quality-test-automation-engineer-xcode?team=SFTWR",
+      "identifier": "Quality & Test Automation Engineer \u2013 Xcode_tion-engineer-xcode?team=SFTWR"
+    },
+    {
+      "title": "Senior Software Engineer - Distributed Build Systems",
+      "url": "https://jobs.apple.com/en-us/details/200653994-0836/senior-software-engineer-distributed-build-systems?team=SFTWR",
+      "identifier": "Senior Software Engineer - Distributed Build Syste_buted-build-systems?team=SFTWR"
+    },
+    {
+      "title": "Software Engineer - Distributed Build Systems",
+      "url": "https://jobs.apple.com/en-us/details/200653991-0836/software-engineer-distributed-build-systems?team=SFTWR",
+      "identifier": "Software Engineer - Distributed Build Systems_buted-build-systems?team=SFTWR"
+    },
+    {
+      "title": "Data Products & Metrics Foundation Lead - Wallet, Payments & Commerce",
+      "url": "https://jobs.apple.com/en-us/details/200654762-1435/data-products-metrics-foundation-lead-wallet-payments-commerce?team=SFTWR",
+      "identifier": "Data Products & Metrics Foundation Lead - Wallet, _t-payments-commerce?team=SFTWR"
+    },
     {
       "title": "Software Engineer, Platforms and Applications",
       "url": "https://jobs.apple.com/en-us/details/200647967-3543/software-engineer-platforms-and-applications?team=SFTWR",
@@ -47,33 +67,8 @@
       "title": "Sr. Engineering Program Manager, Security, Apple Services Engineering",
       "url": "https://jobs.apple.com/en-us/details/200633447-3337/sr-engineering-program-manager-security-apple-services-engineering?team=SFTWR",
       "identifier": "Sr. Engineering Program Manager, Security, Apple S_ervices-engineering?team=SFTWR"
-    },
-    {
-      "title": "iOS Engineer, Retail & Marcom Engineering",
-      "url": "https://jobs.apple.com/en-us/details/200647030-3956/ios-engineer-retail-marcom-engineering?team=SFTWR",
-      "identifier": "iOS Engineer, Retail & Marcom Engineering_-marcom-engineering?team=SFTWR"
-    },
-    {
-      "title": "Engineering Program Manager, Data Services - Apple Services Engineering",
-      "url": "https://jobs.apple.com/en-us/details/200653925-3337/engineering-program-manager-data-services-apple-services-engineering?team=SFTWR",
-      "identifier": "Engineering Program Manager, Data Services - Apple_ervices-engineering?team=SFTWR"
-    },
-    {
-      "title": "Machine Learning System Software Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200654700-3956/machine-learning-system-software-engineer?team=SFTWR",
-      "identifier": "Machine Learning System Software Engineer_m-software-engineer?team=SFTWR"
-    },
-    {
-      "title": "Data Scientist - Multimodal Training Data & Tools - SIML",
-      "url": "https://jobs.apple.com/en-us/details/200654558-0836/data-scientist-multimodal-training-data-tools-siml?team=SFTWR",
-      "identifier": "Data Scientist - Multimodal Training Data & Tools _ing-data-tools-siml?team=SFTWR"
-    },
-    {
-      "title": "Machine Learning Engineer - Health AIML",
-      "url": "https://jobs.apple.com/en-us/details/200616486-0836/machine-learning-engineer-health-aiml?team=MLAI",
-      "identifier": "Machine Learning Engineer - Health AIML_engineer-health-aiml?team=MLAI"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-31T21:49:11.223888"
+  "timestamp": "2026-03-31T22:06:07.469195"
 }

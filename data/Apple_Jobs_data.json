@@ -4,6 +4,21 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Applied AI Software Engineer - Vision Products Group & Siri",
+      "url": "https://jobs.apple.com/en-us/details/200645788-3956/applied-ai-software-engineer-vision-products-group-siri?team=SFTWR",
+      "identifier": "Applied AI Software Engineer - Vision Products Gro_products-group-siri?team=SFTWR"
+    },
+    {
+      "title": "Sr. Applied AI Software Engineer- Vision Products Group & Siri",
+      "url": "https://jobs.apple.com/en-us/details/200645785-3401/sr-applied-ai-software-engineer-vision-products-group-siri?team=SFTWR",
+      "identifier": "Sr. Applied AI Software Engineer- Vision Products _products-group-siri?team=SFTWR"
+    },
+    {
+      "title": "Sr. Health AI Software Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200645699-3956/sr-health-ai-software-engineer?team=SFTWR",
+      "identifier": "Sr. Health AI Software Engineer_i-software-engineer?team=SFTWR"
+    },
+    {
       "title": "Software Development Engineer in Test: Applied Networking",
       "url": "https://jobs.apple.com/en-us/details/200654486-3543/software-development-engineer-in-test-applied-networking?team=SFTWR",
       "identifier": "Software Development Engineer in Test: Applied Net_-applied-networking?team=SFTWR"
@@ -67,23 +82,8 @@
       "title": "Sr. WebKit Performance Engineer",
       "url": "https://jobs.apple.com/en-us/details/200653988-3543/sr-webkit-performance-engineer?team=SFTWR",
       "identifier": "Sr. WebKit Performance Engineer_erformance-engineer?team=SFTWR"
-    },
-    {
-      "title": "Full Stack Software Engineer, Customer Systems",
-      "url": "https://jobs.apple.com/en-us/details/200641853-3956/full-stack-software-engineer-customer-systems?team=SFTWR",
-      "identifier": "Full Stack Software Engineer, Customer Systems_er-customer-systems?team=SFTWR"
-    },
-    {
-      "title": "Sr Engineering Program Manager",
-      "url": "https://jobs.apple.com/en-us/details/200644156-0836/sr-engineering-program-manager?team=SFTWR",
-      "identifier": "Sr Engineering Program Manager_ing-program-manager?team=SFTWR"
-    },
-    {
-      "title": "Senior Software Engineer, App Store Data",
-      "url": "https://jobs.apple.com/en-us/details/200632382-3337/senior-software-engineer-app-store-data?team=SFTWR",
-      "identifier": "Senior Software Engineer, App Store Data_neer-app-store-data?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-31T02:21:04.530022"
+  "timestamp": "2026-03-31T02:38:13.170328"
 }

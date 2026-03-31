@@ -4,46 +4,46 @@
   "total_jobs": 8,
   "jobs": [
     {
-      "title": "Senior Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0833352/Senior-Software-Development-Engineer",
-      "identifier": "Senior Software Development Engineer_-Software-Development-Engineer"
-    },
-    {
-      "title": "Senior Manager - Software Development Engineering",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0844984/Senior-Manager-Software-Development-Engineering",
-      "identifier": "Senior Manager - Software Development Engineering_ftware-Development-Engineering"
-    },
-    {
       "title": "Staff Software Development Engineer (myPBM)",
       "url": "https://jobs.cvshealth.com/us/en/job/R0719480/Staff-Software-Development-Engineer-myPBM",
       "identifier": "Staff Software Development Engineer (myPBM)_are-Development-Engineer-myPBM"
     },
     {
-      "title": "Engineering Lead, Non-Production Environment",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0807135/Engineering-Lead-Non-Production-Environment",
-      "identifier": "Engineering Lead, Non-Production Environment_ead-Non-Production-Environment"
+      "title": "Senior Manager Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0847459/Senior-Manager-Software-Development-Engineer",
+      "identifier": "Senior Manager Software Development Engineer_-Software-Development-Engineer"
     },
     {
-      "title": "Senior Full Stack Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0860953/Senior-Full-Stack-Engineer",
-      "identifier": "Senior Full Stack Engineer_953/Senior-Full-Stack-Engineer"
+      "title": "Senior Manager - Client Operations (IC)",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0857040/Senior-Manager-Client-Operations-IC",
+      "identifier": "Senior Manager - Client Operations (IC)_r-Manager-Client-Operations-IC"
     },
     {
-      "title": "Staff Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0783061/Staff-Software-Development-Engineer",
-      "identifier": "Staff Software Development Engineer_-Software-Development-Engineer"
+      "title": "Senior Manager ACAS/Commercial Benefits Testing",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0871984/Senior-Manager-ACAS-Commercial-Benefits-Testing",
+      "identifier": "Senior Manager ACAS/Commercial Benefits Testing_AS-Commercial-Benefits-Testing"
     },
     {
-      "title": "Manager, Site Reliability Engineering",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0869928/Manager-Site-Reliability-Engineering",
-      "identifier": "Manager, Site Reliability Engineering_r-Site-Reliability-Engineering"
+      "title": "Lead Director \u2013 Software Development Engineering (AI & Automation)",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0843277/Lead-Director-Software-Development-Engineering-AI-Automation",
+      "identifier": "Lead Director \u2013 Software Development Engineering (_ment-Engineering-AI-Automation"
     },
     {
-      "title": "Senior Integration - Site Reliability Engineer (SRE)",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0834201/Senior-Integration-Site-Reliability-Engineer-SRE",
-      "identifier": "Senior Integration - Site Reliability Engineer (SR_-Site-Reliability-Engineer-SRE"
+      "title": "Lead Director \u2013 Software Engineering (Modernization & Reliability)",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0843276/Lead-Director-Software-Engineering-Modernization-Reliability",
+      "identifier": "Lead Director \u2013 Software Engineering (Modernizatio_ring-Modernization-Reliability"
+    },
+    {
+      "title": "Manager, ACAS/Commercial Benefits Testing",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0872005/Manager-ACAS-Commercial-Benefits-Testing",
+      "identifier": "Manager, ACAS/Commercial Benefits Testing_AS-Commercial-Benefits-Testing"
+    },
+    {
+      "title": "Lead Director, Frictionless Provider Experience (FPX)",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0861079/Lead-Director-Frictionless-Provider-Experience-FPX",
+      "identifier": "Lead Director, Frictionless Provider Experience (F_onless-Provider-Experience-FPX"
     }
   ],
-  "job_count_text": "45",
-  "timestamp": "2026-03-31T05:48:02.163568"
+  "job_count_text": "35",
+  "timestamp": "2026-03-31T06:05:12.085568"
 }

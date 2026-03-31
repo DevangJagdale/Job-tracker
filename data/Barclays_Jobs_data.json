@@ -19,11 +19,6 @@
       "identifier": "Client Implementation Manager_tion-manager/13015/93384859200"
     },
     {
-      "title": "Site Reliability Engineer",
-      "url": "https://search.jobs.barclays/job/whippany/site-reliability-engineer/13015/93359979664",
-      "identifier": "Site Reliability Engineer_ity-engineer/13015/93359979664"
-    },
-    {
       "title": "Equities Trading Support",
       "url": "https://search.jobs.barclays/job/new-york/equities-trading-support/13015/93359972864",
       "identifier": "Equities Trading Support_ding-support/13015/93359972864"
@@ -57,8 +52,13 @@
       "title": "Treasury Funding and Investments VP",
       "url": "https://search.jobs.barclays/job/new-york/treasury-funding-and-investments-vp/13015/93208035232",
       "identifier": "Treasury Funding and Investments VP_vestments-vp/13015/93208035232"
+    },
+    {
+      "title": "Development Lead",
+      "url": "https://search.jobs.barclays/job/whippany/development-lead/13015/93156171088",
+      "identifier": "Development Lead_lopment-lead/13015/93156171088"
     }
   ],
-  "job_count_text": "104",
-  "timestamp": "2026-03-31T05:29:18.202766"
+  "job_count_text": "101",
+  "timestamp": "2026-03-31T05:46:26.929274"
 }

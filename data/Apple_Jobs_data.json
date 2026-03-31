@@ -4,6 +4,11 @@
   "total_jobs": 13,
   "jobs": [
     {
+      "title": "Engineering Program Manager, Data Services - Apple Services Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200653925-3337/engineering-program-manager-data-services-apple-services-engineering?team=SFTWR",
+      "identifier": "Engineering Program Manager, Data Services - Apple_ervices-engineering?team=SFTWR"
+    },
+    {
       "title": "Machine Learning System Software Engineer",
       "url": "https://jobs.apple.com/en-us/details/200654700-3956/machine-learning-system-software-engineer?team=SFTWR",
       "identifier": "Machine Learning System Software Engineer_m-software-engineer?team=SFTWR"
@@ -62,13 +67,8 @@
       "title": "Machine Learning Engineer - Vision Products Software",
       "url": "https://jobs.apple.com/en-us/details/200643241-2605/machine-learning-engineer-vision-products-software?team=SFTWR",
       "identifier": "Machine Learning Engineer - Vision Products Softwa_n-products-software?team=SFTWR"
-    },
-    {
-      "title": "Sr. AR/VR/AI Experience Prototyper- Vision Products Software",
-      "url": "https://jobs.apple.com/en-us/details/200628261-3956/sr-ar-vr-ai-experience-prototyper-vision-products-software?team=SFTWR",
-      "identifier": "Sr. AR/VR/AI Experience Prototyper- Vision Product_n-products-software?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-31T16:33:34.530883"
+  "timestamp": "2026-03-31T16:51:52.151880"
 }

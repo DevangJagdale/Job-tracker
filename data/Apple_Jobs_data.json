@@ -1,17 +1,27 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 16,
+  "total_jobs": 13,
   "jobs": [
+    {
+      "title": "Sr. Applied AI Software Engineer- Vision Products Group & Siri",
+      "url": "https://jobs.apple.com/en-us/details/200646382-3956/sr-applied-ai-software-engineer-vision-products-group-siri?team=SFTWR",
+      "identifier": "Sr. Applied AI Software Engineer- Vision Products _products-group-siri?team=SFTWR"
+    },
+    {
+      "title": "Machine Learning Engineer - Vision Products Software",
+      "url": "https://jobs.apple.com/en-us/details/200643241-2605/machine-learning-engineer-vision-products-software?team=SFTWR",
+      "identifier": "Machine Learning Engineer - Vision Products Softwa_n-products-software?team=SFTWR"
+    },
+    {
+      "title": "Sr. AR/VR/AI Experience Prototyper- Vision Products Software",
+      "url": "https://jobs.apple.com/en-us/details/200628261-3956/sr-ar-vr-ai-experience-prototyper-vision-products-software?team=SFTWR",
+      "identifier": "Sr. AR/VR/AI Experience Prototyper- Vision Product_n-products-software?team=SFTWR"
+    },
     {
       "title": "Applied AI Software Engineer - Vision Products Group & Siri",
       "url": "https://jobs.apple.com/en-us/details/200645788-3956/applied-ai-software-engineer-vision-products-group-siri?team=SFTWR",
       "identifier": "Applied AI Software Engineer - Vision Products Gro_products-group-siri?team=SFTWR"
-    },
-    {
-      "title": "Sr. Applied AI Software Engineer- Vision Products Group & Siri",
-      "url": "https://jobs.apple.com/en-us/details/200645785-3401/sr-applied-ai-software-engineer-vision-products-group-siri?team=SFTWR",
-      "identifier": "Sr. Applied AI Software Engineer- Vision Products _products-group-siri?team=SFTWR"
     },
     {
       "title": "Sr. Health AI Software Engineer",
@@ -57,33 +67,8 @@
       "title": "Senior Software Engineer, Data Science & Analytics Platform Engineering",
       "url": "https://jobs.apple.com/en-us/details/200614973-0157/senior-software-engineer-data-science-analytics-platform-engineering?team=SFTWR",
       "identifier": "Senior Software Engineer, Data Science & Analytics_latform-engineering?team=SFTWR"
-    },
-    {
-      "title": "Data Product Engineering Lead - Wallet, Payments & Commerce",
-      "url": "https://jobs.apple.com/en-us/details/200654427-0157/data-product-engineering-lead-wallet-payments-commerce?team=SFTWR",
-      "identifier": "Data Product Engineering Lead - Wallet, Payments &_t-payments-commerce?team=SFTWR"
-    },
-    {
-      "title": "Senior Detection Creation Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200654441-3337/senior-detection-creation-engineer?team=SFTWR",
-      "identifier": "Senior Detection Creation Engineer_n-creation-engineer?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer, Information Systems & Technology",
-      "url": "https://jobs.apple.com/en-us/details/200653252-3956/software-engineer-information-systems-technology?team=SFTWR",
-      "identifier": "Software Engineer, Information Systems & Technolog_-systems-technology?team=SFTWR"
-    },
-    {
-      "title": "Product Display Driver Engineer, Graphics, Games, & ML",
-      "url": "https://jobs.apple.com/en-us/details/200647490-0836/product-display-driver-engineer-graphics-games-ml?team=SFTWR",
-      "identifier": "Product Display Driver Engineer, Graphics, Games, _r-graphics-games-ml?team=SFTWR"
-    },
-    {
-      "title": "Sr. WebKit Performance Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200653988-3543/sr-webkit-performance-engineer?team=SFTWR",
-      "identifier": "Sr. WebKit Performance Engineer_erformance-engineer?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-31T02:38:13.170328"
+  "timestamp": "2026-03-31T02:55:26.043907"
 }

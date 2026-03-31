@@ -4,11 +4,6 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Semiconductor Design Engineer\nRichardson, Texas, United States of America\nPosted a day ago",
-      "url": "https://careers.micron.com/careers/job/41139930",
-      "identifier": "Semiconductor Design Engineer\nRichardson, Texas, U_icron.com/careers/job/41139930"
-    },
-    {
       "title": "AI Solution Intake & Feasibility Analyst\nBoise, Idaho, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/39315395",
       "identifier": "AI Solution Intake & Feasibility Analyst\nBoise, Id_icron.com/careers/job/39315395"
@@ -27,6 +22,11 @@
       "title": "New College Grad - Embedded Software Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/41025899",
       "identifier": "New College Grad - Embedded Software Engineer\nBois_icron.com/careers/job/41025899"
+    },
+    {
+      "title": "Semiconductor Design Engineer\nRichardson, Texas, United States of America\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/41139930",
+      "identifier": "Semiconductor Design Engineer\nRichardson, Texas, U_icron.com/careers/job/41139930"
     },
     {
       "title": "New College Grad - Supply Chain Planner\nBoise, Idaho, United States of America\nPosted 4 days ago",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "75",
-  "timestamp": "2026-03-31T08:48:47.047003"
+  "timestamp": "2026-03-31T09:05:49.490105"
 }

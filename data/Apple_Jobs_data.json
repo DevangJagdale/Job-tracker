@@ -4,6 +4,11 @@
   "total_jobs": 11,
   "jobs": [
     {
+      "title": "Manager: UI Frameworks Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200633177-0836/manager-ui-frameworks-engineering?team=SFTWR",
+      "identifier": "Manager: UI Frameworks Engineering_meworks-engineering?team=SFTWR"
+    },
+    {
       "title": "IS&T Engineering Project Manager (SAP), IS&T Enterprise Systems",
       "url": "https://jobs.apple.com/en-us/details/200653884-3401/is-t-engineering-project-manager-sap-is-t-enterprise-systems?team=SFTWR",
       "identifier": "IS&T Engineering Project Manager (SAP), IS&T Enter_-enterprise-systems?team=SFTWR"
@@ -52,13 +57,8 @@
       "title": "Applied AI Software Engineer - Vision Products Group & Siri",
       "url": "https://jobs.apple.com/en-us/details/200645788-3956/applied-ai-software-engineer-vision-products-group-siri?team=SFTWR",
       "identifier": "Applied AI Software Engineer - Vision Products Gro_products-group-siri?team=SFTWR"
-    },
-    {
-      "title": "Sr. Health AI Software Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200645699-3956/sr-health-ai-software-engineer?team=SFTWR",
-      "identifier": "Sr. Health AI Software Engineer_i-software-engineer?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-31T15:19:13.325206"
+  "timestamp": "2026-03-31T15:37:57.383535"
 }

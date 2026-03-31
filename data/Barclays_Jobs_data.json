@@ -1,8 +1,28 @@
 {
   "page_title": "Search our Job Opportunities at Barclays",
   "url": "https://search.jobs.barclays/search-jobs/United%20States/13015/2/6252001/39x76/-98x5/50/2",
-  "total_jobs": 15,
+  "total_jobs": 14,
   "jobs": [
+    {
+      "title": "Senior Data Engineer",
+      "url": "https://search.jobs.barclays/job/whippany/senior-data-engineer/13015/93422766608",
+      "identifier": "Senior Data Engineer_ata-engineer/13015/93422766608"
+    },
+    {
+      "title": "Enterprise Security Posture Management (ESPM) Lead",
+      "url": "https://search.jobs.barclays/job/whippany/enterprise-security-posture-management-espm-lead/13015/93422765152",
+      "identifier": "Enterprise Security Posture Management (ESPM) Lead_nt-espm-lead/13015/93422765152"
+    },
+    {
+      "title": "Business Information Security Officer",
+      "url": "https://search.jobs.barclays/job/whippany/business-information-security-officer/13015/93422761600",
+      "identifier": "Business Information Security Officer_rity-officer/13015/93422761600"
+    },
+    {
+      "title": "Business Information Security Officer",
+      "url": "https://search.jobs.barclays/job/whippany/business-information-security-officer/13015/93422761552",
+      "identifier": "Business Information Security Officer_rity-officer/13015/93422761552"
+    },
     {
       "title": "Group Technology Strategy Lead",
       "url": "https://search.jobs.barclays/job/new-york/group-technology-strategy-lead/13015/93398025680",
@@ -39,11 +59,6 @@
       "identifier": "Client Implementation Manager_tion-manager/13015/93384859200"
     },
     {
-      "title": "Equities Trading Support",
-      "url": "https://search.jobs.barclays/job/new-york/equities-trading-support/13015/93359972864",
-      "identifier": "Equities Trading Support_ding-support/13015/93359972864"
-    },
-    {
       "title": "Principal Engineer - Engineering Automation Program",
       "url": "https://search.jobs.barclays/job/whippany/principal-engineer-engineering-automation-program/13015/93286211488",
       "identifier": "Principal Engineer - Engineering Automation Progra_tion-program/13015/93286211488"
@@ -57,28 +72,8 @@
       "title": "US Rates Derivatives Sales Assistant, AVP",
       "url": "https://search.jobs.barclays/job/new-york/us-rates-derivatives-sales-assistant-avp/13015/93273372032",
       "identifier": "US Rates Derivatives Sales Assistant, AVP_ssistant-avp/13015/93273372032"
-    },
-    {
-      "title": "Business Transformation & Financial Reporting VP",
-      "url": "https://search.jobs.barclays/job/wilmington/business-transformation-and-financial-reporting-vp/13015/93233680880",
-      "identifier": "Business Transformation & Financial Reporting VP_reporting-vp/13015/93233680880"
-    },
-    {
-      "title": "Payment Solutions Analyst",
-      "url": "https://search.jobs.barclays/job/wilmington/payment-solutions-analyst/13015/93233644800",
-      "identifier": "Payment Solutions Analyst_ions-analyst/13015/93233644800"
-    },
-    {
-      "title": "Treasury Funding and Investments VP",
-      "url": "https://search.jobs.barclays/job/new-york/treasury-funding-and-investments-vp/13015/93208035232",
-      "identifier": "Treasury Funding and Investments VP_vestments-vp/13015/93208035232"
-    },
-    {
-      "title": "Development Lead",
-      "url": "https://search.jobs.barclays/job/whippany/development-lead/13015/93156171088",
-      "identifier": "Development Lead_lopment-lead/13015/93156171088"
     }
   ],
-  "job_count_text": "101",
-  "timestamp": "2026-03-31T17:25:38.499299"
+  "job_count_text": "104",
+  "timestamp": "2026-03-31T17:42:50.030391"
 }

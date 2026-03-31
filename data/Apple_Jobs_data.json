@@ -1,8 +1,23 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 13,
+  "total_jobs": 15,
   "jobs": [
+    {
+      "title": "Senior Software Engineer - Data Governance Solutions, Data Platform",
+      "url": "https://jobs.apple.com/en-us/details/200654475-0836/senior-software-engineer-data-governance-solutions-data-platform?team=SFTWR",
+      "identifier": "Senior Software Engineer - Data Governance Solutio_tions-data-platform?team=SFTWR"
+    },
+    {
+      "title": "Sr. Engineering Program Manager, Security, Apple Services Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200633447-3337/sr-engineering-program-manager-security-apple-services-engineering?team=SFTWR",
+      "identifier": "Sr. Engineering Program Manager, Security, Apple S_ervices-engineering?team=SFTWR"
+    },
+    {
+      "title": "iOS Engineer, Retail & Marcom Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200647030-3956/ios-engineer-retail-marcom-engineering?team=SFTWR",
+      "identifier": "iOS Engineer, Retail & Marcom Engineering_-marcom-engineering?team=SFTWR"
+    },
     {
       "title": "Engineering Program Manager, Data Services - Apple Services Engineering",
       "url": "https://jobs.apple.com/en-us/details/200653925-3337/engineering-program-manager-data-services-apple-services-engineering?team=SFTWR",
@@ -62,13 +77,8 @@
       "title": "Sr. Applied AI Software Engineer- Vision Products Group & Siri",
       "url": "https://jobs.apple.com/en-us/details/200646382-3956/sr-applied-ai-software-engineer-vision-products-group-siri?team=SFTWR",
       "identifier": "Sr. Applied AI Software Engineer- Vision Products _products-group-siri?team=SFTWR"
-    },
-    {
-      "title": "Machine Learning Engineer - Vision Products Software",
-      "url": "https://jobs.apple.com/en-us/details/200643241-2605/machine-learning-engineer-vision-products-software?team=SFTWR",
-      "identifier": "Machine Learning Engineer - Vision Products Softwa_n-products-software?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-31T17:26:11.551487"
+  "timestamp": "2026-03-31T17:43:23.180301"
 }

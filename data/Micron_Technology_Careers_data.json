@@ -4,11 +4,6 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Design Characterization Engineer\nSan Jose, California, United States of America\nPosted a day ago",
-      "url": "https://careers.micron.com/careers/job/41139984",
-      "identifier": "Design Characterization Engineer\nSan Jose, Califor_icron.com/careers/job/41139984"
-    },
-    {
       "title": "Semiconductor Design Engineer\nRichardson, Texas, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/41139930",
       "identifier": "Semiconductor Design Engineer\nRichardson, Texas, U_icron.com/careers/job/41139930"
@@ -17,6 +12,11 @@
       "title": "Product Development Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/41153769",
       "identifier": "Product Development Engineer\nBoise, Idaho, United _icron.com/careers/job/41153769"
+    },
+    {
+      "title": "Design Characterization Engineer\nSan Jose, California, United States of America\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/41139984",
+      "identifier": "Design Characterization Engineer\nSan Jose, Califor_icron.com/careers/job/41139984"
     },
     {
       "title": "New College Grad - Embedded Software Engineer\nBoise, Idaho, United States of America\nPosted 2 days ago",
@@ -49,11 +49,11 @@
       "identifier": "Systems Software Engineer\nFolsom, California, Unit_icron.com/careers/job/41062686"
     },
     {
-      "title": "GEL Engineering Technician\nBoise, Idaho, United States of America\nPosted 5 days ago",
-      "url": "https://careers.micron.com/careers/job/41072699",
-      "identifier": "GEL Engineering Technician\nBoise, Idaho, United St_icron.com/careers/job/41072699"
+      "title": "Reticle Manufacturing Process Engineer\nBoise, Idaho, United States of America\nPosted 5 days ago",
+      "url": "https://careers.micron.com/careers/job/41077337",
+      "identifier": "Reticle Manufacturing Process Engineer\nBoise, Idah_icron.com/careers/job/41077337"
     }
   ],
   "job_count_text": "75",
-  "timestamp": "2026-03-31T22:43:20.102779"
+  "timestamp": "2026-03-31T23:00:19.242785"
 }

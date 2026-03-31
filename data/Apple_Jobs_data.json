@@ -4,6 +4,16 @@
   "total_jobs": 15,
   "jobs": [
     {
+      "title": "User Experience - Quality Engineering Manager",
+      "url": "https://jobs.apple.com/en-us/details/200653562-0836/user-experience-quality-engineering-manager?team=SFTWR",
+      "identifier": "User Experience - Quality Engineering Manager_engineering-manager?team=SFTWR"
+    },
+    {
+      "title": "Product Manager, Apple Wallet",
+      "url": "https://jobs.apple.com/en-us/details/200654467-0836/product-manager-apple-wallet?team=SFTWR",
+      "identifier": "Product Manager, Apple Wallet_anager-apple-wallet?team=SFTWR"
+    },
+    {
       "title": "Senior Software Engineer - Data Governance Solutions, Data Platform",
       "url": "https://jobs.apple.com/en-us/details/200654475-0836/senior-software-engineer-data-governance-solutions-data-platform?team=SFTWR",
       "identifier": "Senior Software Engineer - Data Governance Solutio_tions-data-platform?team=SFTWR"
@@ -67,18 +77,8 @@
       "title": "Software Engineer, Vision Products Software",
       "url": "https://jobs.apple.com/en-us/details/200648923-2605/software-engineer-vision-products-software?team=SFTWR",
       "identifier": "Software Engineer, Vision Products Software_n-products-software?team=SFTWR"
-    },
-    {
-      "title": "Software QA Engineer, Apple Vision Pro, Vision Products Software",
-      "url": "https://jobs.apple.com/en-us/details/200632669-3401/software-qa-engineer-apple-vision-pro-vision-products-software?team=SFTWR",
-      "identifier": "Software QA Engineer, Apple Vision Pro, Vision Pro_n-products-software?team=SFTWR"
-    },
-    {
-      "title": "Sr. Applied AI Software Engineer- Vision Products Group & Siri",
-      "url": "https://jobs.apple.com/en-us/details/200646382-3956/sr-applied-ai-software-engineer-vision-products-group-siri?team=SFTWR",
-      "identifier": "Sr. Applied AI Software Engineer- Vision Products _products-group-siri?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-31T17:43:23.180301"
+  "timestamp": "2026-03-31T18:00:34.650801"
 }

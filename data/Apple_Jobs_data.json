@@ -1,8 +1,23 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 13,
+  "total_jobs": 12,
   "jobs": [
+    {
+      "title": "Software Development Engineer, Spatial Computing, Vision Products Software",
+      "url": "https://jobs.apple.com/en-us/details/200635456-3401/software-development-engineer-spatial-computing-vision-products-software?team=SFTWR",
+      "identifier": "Software Development Engineer, Spatial Computing, _n-products-software?team=SFTWR"
+    },
+    {
+      "title": "Software Engineer, Vision Products Software",
+      "url": "https://jobs.apple.com/en-us/details/200648923-2605/software-engineer-vision-products-software?team=SFTWR",
+      "identifier": "Software Engineer, Vision Products Software_n-products-software?team=SFTWR"
+    },
+    {
+      "title": "Software QA Engineer, Apple Vision Pro, Vision Products Software",
+      "url": "https://jobs.apple.com/en-us/details/200632669-3401/software-qa-engineer-apple-vision-pro-vision-products-software?team=SFTWR",
+      "identifier": "Software QA Engineer, Apple Vision Pro, Vision Pro_n-products-software?team=SFTWR"
+    },
     {
       "title": "Sr. Applied AI Software Engineer- Vision Products Group & Siri",
       "url": "https://jobs.apple.com/en-us/details/200646382-3956/sr-applied-ai-software-engineer-vision-products-group-siri?team=SFTWR",
@@ -47,28 +62,8 @@
       "title": "Software Engineer (Python) - Supply Chain Integration",
       "url": "https://jobs.apple.com/en-us/details/200654501-0157/software-engineer-python-supply-chain-integration?team=SFTWR",
       "identifier": "Software Engineer (Python) - Supply Chain Integrat_y-chain-integration?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer in Test, System Experience",
-      "url": "https://jobs.apple.com/en-us/details/200654275-0836/software-engineer-in-test-system-experience?team=SFTWR",
-      "identifier": "Software Engineer in Test, System Experience_t-system-experience?team=SFTWR"
-    },
-    {
-      "title": "Software QA Engineer, Wireless Technologies & Ecosystems",
-      "url": "https://jobs.apple.com/en-us/details/200654506-0836/software-qa-engineer-wireless-technologies-ecosystems?team=SFTWR",
-      "identifier": "Software QA Engineer, Wireless Technologies & Ecos_nologies-ecosystems?team=SFTWR"
-    },
-    {
-      "title": "Senior iOS Software Engineer - Proximity",
-      "url": "https://jobs.apple.com/en-us/details/200654485-0836/senior-ios-software-engineer-proximity?team=SFTWR",
-      "identifier": "Senior iOS Software Engineer - Proximity_-engineer-proximity?team=SFTWR"
-    },
-    {
-      "title": "Senior Software Engineer, Data Science & Analytics Platform Engineering",
-      "url": "https://jobs.apple.com/en-us/details/200614973-0157/senior-software-engineer-data-science-analytics-platform-engineering?team=SFTWR",
-      "identifier": "Senior Software Engineer, Data Science & Analytics_latform-engineering?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-31T12:10:31.913389"
+  "timestamp": "2026-03-31T12:27:35.728223"
 }

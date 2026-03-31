@@ -4,6 +4,11 @@
   "total_jobs": 14,
   "jobs": [
     {
+      "title": "Software Engineer, Platforms and Applications",
+      "url": "https://jobs.apple.com/en-us/details/200647967-3543/software-engineer-platforms-and-applications?team=SFTWR",
+      "identifier": "Software Engineer, Platforms and Applications_ms-and-applications?team=SFTWR"
+    },
+    {
       "title": "Engineering Program Manager, Data Center Operations",
       "url": "https://jobs.apple.com/en-us/details/200636333-1336/engineering-program-manager-data-center-operations?team=SFTWR",
       "identifier": "Engineering Program Manager, Data Center Operation_a-center-operations?team=SFTWR"
@@ -67,13 +72,8 @@
       "title": "Machine Learning Engineer - Health AIML",
       "url": "https://jobs.apple.com/en-us/details/200616486-0836/machine-learning-engineer-health-aiml?team=MLAI",
       "identifier": "Machine Learning Engineer - Health AIML_engineer-health-aiml?team=MLAI"
-    },
-    {
-      "title": "Manager: UI Frameworks Engineering",
-      "url": "https://jobs.apple.com/en-us/details/200633177-0836/manager-ui-frameworks-engineering?team=SFTWR",
-      "identifier": "Manager: UI Frameworks Engineering_meworks-engineering?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-31T21:32:12.560826"
+  "timestamp": "2026-03-31T21:49:11.223888"
 }

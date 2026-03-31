@@ -4,6 +4,11 @@
   "total_jobs": 14,
   "jobs": [
     {
+      "title": "Software Engineer (Python) - Supply Chain Integration",
+      "url": "https://jobs.apple.com/en-us/details/200654501-0157/software-engineer-python-supply-chain-integration?team=SFTWR",
+      "identifier": "Software Engineer (Python) - Supply Chain Integrat_y-chain-integration?team=SFTWR"
+    },
+    {
       "title": "Software Engineer in Test, System Experience",
       "url": "https://jobs.apple.com/en-us/details/200654275-0836/software-engineer-in-test-system-experience?team=SFTWR",
       "identifier": "Software Engineer in Test, System Experience_t-system-experience?team=SFTWR"
@@ -67,13 +72,8 @@
       "title": "Software Develpment Engineer in Test (SDET), Creativity Apps",
       "url": "https://jobs.apple.com/en-us/details/200654221-0836/software-develpment-engineer-in-test-sdet-creativity-apps?team=SFTWR",
       "identifier": "Software Develpment Engineer in Test (SDET), Creat_det-creativity-apps?team=SFTWR"
-    },
-    {
-      "title": "Lead Producer, Customer Journeys and Marketing",
-      "url": "https://jobs.apple.com/en-us/details/200647924-0670/lead-producer-customer-journeys-and-marketing?team=SFTWR",
-      "identifier": "Lead Producer, Customer Journeys and Marketing_rneys-and-marketing?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-31T00:30:39.219898"
+  "timestamp": "2026-03-31T00:47:42.089860"
 }

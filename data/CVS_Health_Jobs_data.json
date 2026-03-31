@@ -4,29 +4,9 @@
   "total_jobs": 8,
   "jobs": [
     {
-      "title": "Senior Manager - Software Engineering",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0832662/Senior-Manager-Software-Engineering",
-      "identifier": "Senior Manager - Software Engineering_r-Manager-Software-Engineering"
-    },
-    {
-      "title": "Senior Manager, IT Project Management",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0845572/Senior-Manager-IT-Project-Management",
-      "identifier": "Senior Manager, IT Project Management_-Manager-IT-Project-Management"
-    },
-    {
       "title": "Senior Front End Engineer",
       "url": "https://jobs.cvshealth.com/us/en/job/R0805983/Senior-Front-End-Engineer",
       "identifier": "Senior Front End Engineer_5983/Senior-Front-End-Engineer"
-    },
-    {
-      "title": "Senior Android Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0851832/Senior-Android-Engineer",
-      "identifier": "Senior Android Engineer_851832/Senior-Android-Engineer"
-    },
-    {
-      "title": "Senior iOS Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0869077/Senior-iOS-Engineer",
-      "identifier": "Senior iOS Engineer_b/R0869077/Senior-iOS-Engineer"
     },
     {
       "title": "Senior Manager - Software Development Engineering",
@@ -42,8 +22,28 @@
       "title": "Software Development Engineer",
       "url": "https://jobs.cvshealth.com/us/en/job/R0846164/Software-Development-Engineer",
       "identifier": "Software Development Engineer_/Software-Development-Engineer"
+    },
+    {
+      "title": "Senior Manager - Software Engineering",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0832662/Senior-Manager-Software-Engineering",
+      "identifier": "Senior Manager - Software Engineering_r-Manager-Software-Engineering"
+    },
+    {
+      "title": "Senior Manager, IT Project Management",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0845572/Senior-Manager-IT-Project-Management",
+      "identifier": "Senior Manager, IT Project Management_-Manager-IT-Project-Management"
+    },
+    {
+      "title": "Senior Android Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0851832/Senior-Android-Engineer",
+      "identifier": "Senior Android Engineer_851832/Senior-Android-Engineer"
+    },
+    {
+      "title": "Staff Software Development Engineer (Modernization)",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0760057/Staff-Software-Development-Engineer-Modernization",
+      "identifier": "Staff Software Development Engineer (Modernization_lopment-Engineer-Modernization"
     }
   ],
   "job_count_text": "46",
-  "timestamp": "2026-03-31T19:51:09.022949"
+  "timestamp": "2026-03-31T20:08:07.019063"
 }

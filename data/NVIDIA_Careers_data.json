@@ -1,7 +1,7 @@
 {
   "page_title": "Search for Jobs",
   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite?locationCountry=bc33aa3152ec42d4995f4791a106ed09&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&workerSubType=ab40a98049581037a3ada55b087049b7",
-  "total_jobs": 17,
+  "total_jobs": 15,
   "jobs": [
     {
       "title": "DL Algorithms Engineer - Cosmos - New College Graduate 2026",
@@ -44,11 +44,6 @@
       "identifier": "Senior Systems Software Engineer - New College Gra_40a98049581037a3ada55b087049b7"
     },
     {
-      "title": "Field Application Engineer - New College Graduate 2026",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-NC-Durham/Field-Application-Engineer---New-College-Graduate-2026_JR2014639?locationCountry=bc33aa3152ec42d4995f4791a106ed09&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&workerSubType=ab40a98049581037a3ada55b087049b7",
-      "identifier": "Field Application Engineer - New College Graduate _40a98049581037a3ada55b087049b7"
-    },
-    {
       "title": "Software Engineer, Hardware Tools and Methodology - New College Grad 2026",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Hardware-Tools-and-Methodology---New-College-Grad-2026_JR2014649?locationCountry=bc33aa3152ec42d4995f4791a106ed09&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&workerSubType=ab40a98049581037a3ada55b087049b7",
       "identifier": "Software Engineer, Hardware Tools and Methodology _40a98049581037a3ada55b087049b7"
@@ -69,11 +64,6 @@
       "identifier": "Silicon Co-Design Engineer - New College Grad 2026_40a98049581037a3ada55b087049b7"
     },
     {
-      "title": "Software Development Engineer in Test, Graphics - New College Grad 2026",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/Software-Development-Engineer-in-Test--Graphics---New-College-Grad-2026_JR2014288?locationCountry=bc33aa3152ec42d4995f4791a106ed09&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&workerSubType=ab40a98049581037a3ada55b087049b7",
-      "identifier": "Software Development Engineer in Test, Graphics - _40a98049581037a3ada55b087049b7"
-    },
-    {
       "title": "AI Inference Performance Engineer - New College Grad 2026",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Inference-Performance-Engineer---New-College-Grad-2026_JR2014441?locationCountry=bc33aa3152ec42d4995f4791a106ed09&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&workerSubType=ab40a98049581037a3ada55b087049b7",
       "identifier": "AI Inference Performance Engineer - New College Gr_40a98049581037a3ada55b087049b7"
@@ -90,5 +80,5 @@
     }
   ],
   "job_count_text": "56",
-  "timestamp": "2026-03-31T19:20:59.625342"
+  "timestamp": "2026-03-31T19:37:58.421839"
 }

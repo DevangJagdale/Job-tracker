@@ -4,6 +4,11 @@
   "total_jobs": 15,
   "jobs": [
     {
+      "title": "Spatial Computing Engineer, RealityKit, Vision Products Software",
+      "url": "https://jobs.apple.com/en-us/details/200635456-3401/spatial-computing-engineer-realitykit-vision-products-software?team=SFTWR",
+      "identifier": "Spatial Computing Engineer, RealityKit, Vision Pro_n-products-software?team=SFTWR"
+    },
+    {
       "title": "User Experience - Quality Engineering Manager",
       "url": "https://jobs.apple.com/en-us/details/200653562-0836/user-experience-quality-engineering-manager?team=SFTWR",
       "identifier": "User Experience - Quality Engineering Manager_engineering-manager?team=SFTWR"
@@ -69,16 +74,11 @@
       "identifier": "AR/VR Realtime Rendering and Graphics Software Eng_n-products-software?team=SFTWR"
     },
     {
-      "title": "Software Development Engineer, Spatial Computing, Vision Products Software",
-      "url": "https://jobs.apple.com/en-us/details/200635456-3401/software-development-engineer-spatial-computing-vision-products-software?team=SFTWR",
-      "identifier": "Software Development Engineer, Spatial Computing, _n-products-software?team=SFTWR"
-    },
-    {
       "title": "Software Engineer, Vision Products Software",
       "url": "https://jobs.apple.com/en-us/details/200648923-2605/software-engineer-vision-products-software?team=SFTWR",
       "identifier": "Software Engineer, Vision Products Software_n-products-software?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-31T18:00:34.650801"
+  "timestamp": "2026-03-31T18:08:18.179663"
 }

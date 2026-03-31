@@ -1,8 +1,13 @@
 {
   "page_title": "Job Openings - Cisco Careers",
   "url": "https://careers.cisco.com/global/en/search-results?s=1",
-  "total_jobs": 8,
+  "total_jobs": 9,
   "jobs": [
+    {
+      "title": "Strategy and Operations Manager MBA (Full Time) - United States",
+      "url": "https://careers.cisco.com/global/en/job/2011072/Strategy-and-Operations-Manager-MBA-Full-Time-United-States",
+      "identifier": "Strategy and Operations Manager MBA (Full Time) - _er-MBA-Full-Time-United-States"
+    },
     {
       "title": "ASIC Design Verfication Engineer II (Full Time) - United States",
       "url": "https://careers.cisco.com/global/en/job/2002902/ASIC-Design-Verfication-Engineer-II-Full-Time-United-States",
@@ -44,6 +49,6 @@
       "identifier": "Senior Applied AI Scientist_00/Senior-Applied-AI-Scientist"
     }
   ],
-  "job_count_text": "8",
-  "timestamp": "2026-03-31T18:02:19.031173"
+  "job_count_text": "9",
+  "timestamp": "2026-03-31T18:10:02.920753"
 }

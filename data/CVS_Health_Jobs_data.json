@@ -4,29 +4,9 @@
   "total_jobs": 8,
   "jobs": [
     {
-      "title": "Staff Software Development Engineer (myPBM)",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0719480/Staff-Software-Development-Engineer-myPBM",
-      "identifier": "Staff Software Development Engineer (myPBM)_are-Development-Engineer-myPBM"
-    },
-    {
-      "title": "Senior Manager Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0847459/Senior-Manager-Software-Development-Engineer",
-      "identifier": "Senior Manager Software Development Engineer_-Software-Development-Engineer"
-    },
-    {
-      "title": "Senior Manager - Client Operations (IC)",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0857040/Senior-Manager-Client-Operations-IC",
-      "identifier": "Senior Manager - Client Operations (IC)_r-Manager-Client-Operations-IC"
-    },
-    {
       "title": "Senior Manager ACAS/Commercial Benefits Testing",
       "url": "https://jobs.cvshealth.com/us/en/job/R0871984/Senior-Manager-ACAS-Commercial-Benefits-Testing",
       "identifier": "Senior Manager ACAS/Commercial Benefits Testing_AS-Commercial-Benefits-Testing"
-    },
-    {
-      "title": "Lead Director \u2013 Software Development Engineering (AI & Automation)",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0843277/Lead-Director-Software-Development-Engineering-AI-Automation",
-      "identifier": "Lead Director \u2013 Software Development Engineering (_ment-Engineering-AI-Automation"
     },
     {
       "title": "Lead Director \u2013 Software Engineering (Modernization & Reliability)",
@@ -39,11 +19,31 @@
       "identifier": "Manager, ACAS/Commercial Benefits Testing_AS-Commercial-Benefits-Testing"
     },
     {
+      "title": "Senior Manager - Client Operations (IC)",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0857040/Senior-Manager-Client-Operations-IC",
+      "identifier": "Senior Manager - Client Operations (IC)_r-Manager-Client-Operations-IC"
+    },
+    {
+      "title": "Senior Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0833352/Senior-Software-Development-Engineer",
+      "identifier": "Senior Software Development Engineer_-Software-Development-Engineer"
+    },
+    {
+      "title": "Lead Director \u2013 Software Development Engineering (AI & Automation)",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0843277/Lead-Director-Software-Development-Engineering-AI-Automation",
+      "identifier": "Lead Director \u2013 Software Development Engineering (_ment-Engineering-AI-Automation"
+    },
+    {
       "title": "Lead Director, Frictionless Provider Experience (FPX)",
       "url": "https://jobs.cvshealth.com/us/en/job/R0861079/Lead-Director-Frictionless-Provider-Experience-FPX",
       "identifier": "Lead Director, Frictionless Provider Experience (F_onless-Provider-Experience-FPX"
+    },
+    {
+      "title": "Senior Analyst Digital Operations",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0859398/Senior-Analyst-Digital-Operations",
+      "identifier": "Senior Analyst Digital Operations_ior-Analyst-Digital-Operations"
     }
   ],
-  "job_count_text": "35",
-  "timestamp": "2026-03-31T06:05:12.085568"
+  "job_count_text": "34",
+  "timestamp": "2026-03-31T06:22:22.015084"
 }

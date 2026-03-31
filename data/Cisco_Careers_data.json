@@ -1,17 +1,12 @@
 {
   "page_title": "Job Openings - Cisco Careers",
   "url": "https://careers.cisco.com/global/en/search-results?s=1",
-  "total_jobs": 9,
+  "total_jobs": 8,
   "jobs": [
     {
       "title": "ASIC Design Verfication Engineer II (Full Time) - United States",
       "url": "https://careers.cisco.com/global/en/job/2002902/ASIC-Design-Verfication-Engineer-II-Full-Time-United-States",
       "identifier": "ASIC Design Verfication Engineer II (Full Time) - _eer-II-Full-Time-United-States"
-    },
-    {
-      "title": "Wireless Network Engineer I (Full Time) - United States",
-      "url": "https://careers.cisco.com/global/en/job/2010991/Wireless-Network-Engineer-I-Full-Time-United-States",
-      "identifier": "Wireless Network Engineer I (Full Time) - United S_neer-I-Full-Time-United-States"
     },
     {
       "title": "Account Development Representative II (Full Time) United States",
@@ -49,6 +44,6 @@
       "identifier": "Senior Applied AI Scientist_00/Senior-Applied-AI-Scientist"
     }
   ],
-  "job_count_text": "9",
-  "timestamp": "2026-03-31T06:05:56.188178"
+  "job_count_text": "8",
+  "timestamp": "2026-03-31T06:23:07.041324"
 }

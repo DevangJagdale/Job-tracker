@@ -4,6 +4,16 @@
   "total_jobs": 10,
   "jobs": [
     {
+      "title": "Staff Construction Category Analyst\nSyracuse, New York, United States of America\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/39605563",
+      "identifier": "Staff Construction Category Analyst\nSyracuse, New _icron.com/careers/job/39605563"
+    },
+    {
+      "title": "Semiconductor Design Engineer\nRichardson, Texas, United States of America\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/41139930",
+      "identifier": "Semiconductor Design Engineer\nRichardson, Texas, U_icron.com/careers/job/41139930"
+    },
+    {
       "title": "AI Solution Intake & Feasibility Analyst\nBoise, Idaho, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/39315395",
       "identifier": "AI Solution Intake & Feasibility Analyst\nBoise, Id_icron.com/careers/job/39315395"
@@ -17,16 +27,6 @@
       "title": "RDA Process Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/41134600",
       "identifier": "RDA Process Engineer\nBoise, Idaho, United States o_icron.com/careers/job/41134600"
-    },
-    {
-      "title": "Staff Construction Category Analyst\nSyracuse, New York, United States of America\nPosted a day ago",
-      "url": "https://careers.micron.com/careers/job/39605563",
-      "identifier": "Staff Construction Category Analyst\nSyracuse, New _icron.com/careers/job/39605563"
-    },
-    {
-      "title": "Semiconductor Design Engineer\nRichardson, Texas, United States of America\nPosted a day ago",
-      "url": "https://careers.micron.com/careers/job/41139930",
-      "identifier": "Semiconductor Design Engineer\nRichardson, Texas, U_icron.com/careers/job/41139930"
     },
     {
       "title": "New College Grad - Supply Chain Planner\nBoise, Idaho, United States of America\nPosted 4 days ago",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "75",
-  "timestamp": "2026-03-31T01:08:11.971226"
+  "timestamp": "2026-03-31T01:25:11.669514"
 }

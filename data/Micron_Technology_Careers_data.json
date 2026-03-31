@@ -4,19 +4,14 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "New College Grad - Silicon Planning Engineer\nBoise, Idaho, United States of America\nPosted 2 days ago",
-      "url": "https://careers.micron.com/careers/job/41138334",
-      "identifier": "New College Grad - Silicon Planning Engineer\nBoise_icron.com/careers/job/41138334"
-    },
-    {
       "title": "AI Solution Intake & Feasibility Analyst\nBoise, Idaho, United States of America\nPosted 2 days ago",
       "url": "https://careers.micron.com/careers/job/39315395",
       "identifier": "AI Solution Intake & Feasibility Analyst\nBoise, Id_icron.com/careers/job/39315395"
     },
     {
-      "title": "RDA Process Engineer\nBoise, Idaho, United States of America\nPosted 2 days ago",
-      "url": "https://careers.micron.com/careers/job/41134600",
-      "identifier": "RDA Process Engineer\nBoise, Idaho, United States o_icron.com/careers/job/41134600"
+      "title": "New College Grad - Silicon Planning Engineer\nBoise, Idaho, United States of America\nPosted 2 days ago",
+      "url": "https://careers.micron.com/careers/job/41138334",
+      "identifier": "New College Grad - Silicon Planning Engineer\nBoise_icron.com/careers/job/41138334"
     },
     {
       "title": "New College Grad - Embedded Software Engineer\nBoise, Idaho, United States of America\nPosted 2 days ago",
@@ -52,8 +47,13 @@
       "title": "Returned Material Authorization Engineer (Quality Engineer)\nBoise, Idaho, United States of America\nPosted 5 days ago",
       "url": "https://careers.micron.com/careers/job/41065045",
       "identifier": "Returned Material Authorization Engineer (Quality _icron.com/careers/job/41065045"
+    },
+    {
+      "title": "Reticle Manufacturing Process Engineer\nBoise, Idaho, United States of America\nPosted 5 days ago",
+      "url": "https://careers.micron.com/careers/job/41077337",
+      "identifier": "Reticle Manufacturing Process Engineer\nBoise, Idah_icron.com/careers/job/41077337"
     }
   ],
-  "job_count_text": "74",
-  "timestamp": "2026-03-31T15:24:03.141070"
+  "job_count_text": "73",
+  "timestamp": "2026-03-31T16:02:24.017873"
 }

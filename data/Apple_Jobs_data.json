@@ -4,6 +4,11 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Software Development Engineer in Test: Applied Networking",
+      "url": "https://jobs.apple.com/en-us/details/200654486-3543/software-development-engineer-in-test-applied-networking?team=SFTWR",
+      "identifier": "Software Development Engineer in Test: Applied Net_-applied-networking?team=SFTWR"
+    },
+    {
       "title": "Production Services Engineer - Apple Services Engineering",
       "url": "https://jobs.apple.com/en-us/details/200652311-3337/production-services-engineer-apple-services-engineering?team=SFTWR",
       "identifier": "Production Services Engineer - Apple Services Engi_ervices-engineering?team=SFTWR"
@@ -77,13 +82,8 @@
       "title": "Senior Software Engineer, App Store Data",
       "url": "https://jobs.apple.com/en-us/details/200632382-3337/senior-software-engineer-app-store-data?team=SFTWR",
       "identifier": "Senior Software Engineer, App Store Data_neer-app-store-data?team=SFTWR"
-    },
-    {
-      "title": "Software Develpment Engineer in Test (SDET), Creativity Apps",
-      "url": "https://jobs.apple.com/en-us/details/200654221-0836/software-develpment-engineer-in-test-sdet-creativity-apps?team=SFTWR",
-      "identifier": "Software Develpment Engineer in Test (SDET), Creat_det-creativity-apps?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-31T02:03:52.464437"
+  "timestamp": "2026-03-31T02:21:04.530022"
 }

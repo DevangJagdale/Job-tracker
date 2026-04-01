@@ -1,25 +1,30 @@
 {
   "page_title": "| Microsoft Careers",
   "url": "https://apply.careers.microsoft.com/careers?domain=microsoft.com&start=0&location=United+States&sort_by=timestamp&filter_include_remote=1&filter_profession=software+engineering%2Cresearch%252C%2520applied%252C%2520%2526%2520data%2520sciences",
-  "total_jobs": 7,
+  "total_jobs": 8,
   "jobs": [
+    {
+      "title": "Principal Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 6 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556620220?domain=microsoft.com",
+      "identifier": "Principal Software Engineer\nUnited States, Multipl_556620220?domain=microsoft.com"
+    },
     {
       "title": "Senior Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556620034?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Multiple L_556620034?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted an hour ago",
+      "title": "Senior Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556754360?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Multiple L_556754360?domain=microsoft.com"
     },
     {
-      "title": "Principal Applied Scientist\nUnited States, Washington, Redmond\nPosted an hour ago",
+      "title": "Principal Applied Scientist\nUnited States, Washington, Redmond\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556852465?domain=microsoft.com",
       "identifier": "Principal Applied Scientist\nUnited States, Washing_556852465?domain=microsoft.com"
     },
     {
-      "title": "HPC/AI Systems Architect\nUnited States, Multiple Locations, Multiple Locations\nPosted an hour ago",
+      "title": "HPC/AI Systems Architect\nUnited States, Multiple Locations, Multiple Locations\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556746204?domain=microsoft.com",
       "identifier": "HPC/AI Systems Architect\nUnited States, Multiple L_556746204?domain=microsoft.com"
     },
@@ -40,5 +45,5 @@
     }
   ],
   "job_count_text": "768",
-  "timestamp": "2026-04-01T19:26:25.535397"
+  "timestamp": "2026-04-01T19:43:33.451268"
 }

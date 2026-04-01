@@ -1,8 +1,18 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 19,
+  "total_jobs": 17,
   "jobs": [
+    {
+      "title": "Staff Engineer, App Store Analytics & Data Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200653318-0836/staff-engineer-app-store-analytics-data-engineering?team=SFTWR",
+      "identifier": "Staff Engineer, App Store Analytics & Data Enginee_cs-data-engineering?team=SFTWR"
+    },
+    {
+      "title": "Sr. Engineering Program Manager, Security, Apple Services Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200653931-3337/sr-engineering-program-manager-security-apple-services-engineering?team=SFTWR",
+      "identifier": "Sr. Engineering Program Manager, Security, Apple S_ervices-engineering?team=SFTWR"
+    },
     {
       "title": "Senior Software Engineer - ASE Data Platform",
       "url": "https://jobs.apple.com/en-us/details/200653279-3337/senior-software-engineer-ase-data-platform?team=SFTWR",
@@ -77,28 +87,8 @@
       "title": "Wireless Software Engineer, Wireless Technologies & Ecosystems",
       "url": "https://jobs.apple.com/en-us/details/200654877-0836/wireless-software-engineer-wireless-technologies-ecosystems?team=SFTWR",
       "identifier": "Wireless Software Engineer, Wireless Technologies _nologies-ecosystems?team=SFTWR"
-    },
-    {
-      "title": "Quality & Test Automation Engineer \u2013 Xcode",
-      "url": "https://jobs.apple.com/en-us/details/200654816-0836/quality-test-automation-engineer-xcode?team=SFTWR",
-      "identifier": "Quality & Test Automation Engineer \u2013 Xcode_tion-engineer-xcode?team=SFTWR"
-    },
-    {
-      "title": "Senior Software Engineer - Distributed Build Systems",
-      "url": "https://jobs.apple.com/en-us/details/200653994-0836/senior-software-engineer-distributed-build-systems?team=SFTWR",
-      "identifier": "Senior Software Engineer - Distributed Build Syste_buted-build-systems?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer - Distributed Build Systems",
-      "url": "https://jobs.apple.com/en-us/details/200653991-0836/software-engineer-distributed-build-systems?team=SFTWR",
-      "identifier": "Software Engineer - Distributed Build Systems_buted-build-systems?team=SFTWR"
-    },
-    {
-      "title": "Data Products & Metrics Foundation Lead - Wallet, Payments & Commerce",
-      "url": "https://jobs.apple.com/en-us/details/200654762-1435/data-products-metrics-foundation-lead-wallet-payments-commerce?team=SFTWR",
-      "identifier": "Data Products & Metrics Foundation Lead - Wallet, _t-payments-commerce?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-01T19:26:41.153782"
+  "timestamp": "2026-04-01T19:43:49.878794"
 }

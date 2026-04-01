@@ -1,8 +1,49 @@
 {
   "page_title": "Search CVS Health Jobs | Find Your Next Career Opportunity",
   "url": "https://jobs.cvshealth.com/us/en/search-results",
-  "total_jobs": 15229,
-  "jobs": [],
-  "job_count_text": "15229",
-  "timestamp": "2026-04-01T19:27:47.273640"
+  "total_jobs": 8,
+  "jobs": [
+    {
+      "title": "Senior Engineering Manager",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0847003/Senior-Engineering-Manager",
+      "identifier": "Senior Engineering Manager_003/Senior-Engineering-Manager"
+    },
+    {
+      "title": "Salesforce Devops Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0869573/Salesforce-Devops-Engineer",
+      "identifier": "Salesforce Devops Engineer_573/Salesforce-Devops-Engineer"
+    },
+    {
+      "title": "Salesforce Devops Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0872438/Salesforce-Devops-Engineer",
+      "identifier": "Salesforce Devops Engineer_438/Salesforce-Devops-Engineer"
+    },
+    {
+      "title": "Senior SAP ABAP AI Developer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0870709/Senior-SAP-ABAP-AI-Developer",
+      "identifier": "Senior SAP ABAP AI Developer_9/Senior-SAP-ABAP-AI-Developer"
+    },
+    {
+      "title": "Sr Analyst, Application Development",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0874411/Sr-Analyst-Application-Development",
+      "identifier": "Sr Analyst, Application Development_nalyst-Application-Development"
+    },
+    {
+      "title": "Senior Anaplan Architect-2",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0866351/Senior-Anaplan-Architect-2",
+      "identifier": "Senior Anaplan Architect-2_351/Senior-Anaplan-Architect-2"
+    },
+    {
+      "title": "Senior Manager - Enterprise Observability Strategy and Governance",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0851431/Senior-Manager-Enterprise-Observability-Strategy-and-Governance",
+      "identifier": "Senior Manager - Enterprise Observability Strategy_bility-Strategy-and-Governance"
+    },
+    {
+      "title": "Help Desk Support Specialist",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0834893/Help-Desk-Support-Specialist",
+      "identifier": "Help Desk Support Specialist_3/Help-Desk-Support-Specialist"
+    }
+  ],
+  "job_count_text": "45",
+  "timestamp": "2026-04-01T19:44:51.668485"
 }

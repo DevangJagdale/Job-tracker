@@ -1,8 +1,13 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 14,
+  "total_jobs": 13,
   "jobs": [
+    {
+      "title": "Machine Learning Engineer - Strategic Data Solutions",
+      "url": "https://jobs.apple.com/en-us/details/200650806-0157/machine-learning-engineer-strategic-data-solutions?team=SFTWR",
+      "identifier": "Machine Learning Engineer - Strategic Data Solutio_egic-data-solutions?team=SFTWR"
+    },
     {
       "title": "Sr. Ruby on Rails Engineer, ASE",
       "url": "https://jobs.apple.com/en-us/details/200654205-3337/sr-ruby-on-rails-engineer-ase?team=SFTWR",
@@ -62,18 +67,8 @@
       "title": "Quality Engineer - Mail & Calendar Infrastructure, Enterprise Technology Services",
       "url": "https://jobs.apple.com/en-us/details/200652929-0157/quality-engineer-mail-calendar-infrastructure-enterprise-technology-services?team=SFTWR",
       "identifier": "Quality Engineer - Mail & Calendar Infrastructure,_technology-services?team=SFTWR"
-    },
-    {
-      "title": "Kafka Site Reliability Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200654192-3337/kafka-site-reliability-engineer?team=SFTWR",
-      "identifier": "Kafka Site Reliability Engineer_eliability-engineer?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer (Java & Gen Ai), Sales Engineering",
-      "url": "https://jobs.apple.com/en-us/details/200622099-0157/software-engineer-java-gen-ai-sales-engineering?team=SFTWR",
-      "identifier": "Software Engineer (Java & Gen Ai), Sales Engineeri_i-sales-engineering?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-01T22:25:45.913657"
+  "timestamp": "2026-04-01T22:42:56.153169"
 }

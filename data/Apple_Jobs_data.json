@@ -1,7 +1,7 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 17,
+  "total_jobs": 13,
   "jobs": [
     {
       "title": "Software QA Engineer, Siri Speech",
@@ -67,28 +67,8 @@
       "title": "Data Scientist, Media Revenue and Subscriptions",
       "url": "https://jobs.apple.com/en-us/details/200654768-0670/data-scientist-media-revenue-and-subscriptions?team=SFTWR",
       "identifier": "Data Scientist, Media Revenue and Subscriptions_e-and-subscriptions?team=SFTWR"
-    },
-    {
-      "title": "Senior Product Data Scientist in Causal Inference and ML, App Store",
-      "url": "https://jobs.apple.com/en-us/details/200654450-0670/senior-product-data-scientist-in-causal-inference-and-ml-app-store?team=SFTWR",
-      "identifier": "Senior Product Data Scientist in Causal Inference _ce-and-ml-app-store?team=SFTWR"
-    },
-    {
-      "title": "Software Quality Manager, Audio - Apple Vision Pro",
-      "url": "https://jobs.apple.com/en-us/details/200654571-0365/software-quality-manager-audio-apple-vision-pro?team=SFTWR",
-      "identifier": "Software Quality Manager, Audio - Apple Vision Pro_io-apple-vision-pro?team=SFTWR"
-    },
-    {
-      "title": "Senior Software Engineer in Test, Evaluation",
-      "url": "https://jobs.apple.com/en-us/details/200654947-3337/senior-software-engineer-in-test-evaluation?team=SFTWR",
-      "identifier": "Senior Software Engineer in Test, Evaluation_-in-test-evaluation?team=SFTWR"
-    },
-    {
-      "title": "Machine Learning Engineer - Health AIML",
-      "url": "https://jobs.apple.com/en-us/details/200654670-0836/machine-learning-engineer-health-aiml?team=MLAI",
-      "identifier": "Machine Learning Engineer - Health AIML_engineer-health-aiml?team=MLAI"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-01T20:01:08.247624"
+  "timestamp": "2026-04-01T20:18:14.979945"
 }

@@ -1,8 +1,13 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 13,
+  "total_jobs": 12,
   "jobs": [
+    {
+      "title": "UI Designer - Music Creation Apps",
+      "url": "https://jobs.apple.com/en-us/details/200654800-0670/ui-designer-music-creation-apps?team=SFTWR",
+      "identifier": "UI Designer - Music Creation Apps_music-creation-apps?team=SFTWR"
+    },
     {
       "title": "Machine Learning Engineer - Strategic Data Solutions",
       "url": "https://jobs.apple.com/en-us/details/200650806-0157/machine-learning-engineer-strategic-data-solutions?team=SFTWR",
@@ -57,18 +62,8 @@
       "title": "3D Codec Algorithm Engineer, Vision Products Group",
       "url": "https://jobs.apple.com/en-us/details/200655180-3956/3d-codec-algorithm-engineer-vision-products-group?team=SFTWR",
       "identifier": "3D Codec Algorithm Engineer, Vision Products Group_sion-products-group?team=SFTWR"
-    },
-    {
-      "title": "Infrastructure Planning Manager",
-      "url": "https://jobs.apple.com/en-us/details/200653882-3956/infrastructure-planning-manager?team=SFTWR",
-      "identifier": "Infrastructure Planning Manager_re-planning-manager?team=SFTWR"
-    },
-    {
-      "title": "Quality Engineer - Mail & Calendar Infrastructure, Enterprise Technology Services",
-      "url": "https://jobs.apple.com/en-us/details/200652929-0157/quality-engineer-mail-calendar-infrastructure-enterprise-technology-services?team=SFTWR",
-      "identifier": "Quality Engineer - Mail & Calendar Infrastructure,_technology-services?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-01T23:00:04.772563"
+  "timestamp": "2026-04-01T23:17:09.596264"
 }

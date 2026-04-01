@@ -14,11 +14,6 @@
       "identifier": "Tax-Salt Lake City-Associate-Software Engineering\n_s://higher.gs.com/roles/167081"
     },
     {
-      "title": "AMD Public-Salt Lake City-Associate-Software Engineering\nSalt Lake City\u00b7United States\n\u00b7Associate",
-      "url": "https://higher.gs.com/roles/165597",
-      "identifier": "AMD Public-Salt Lake City-Associate-Software Engin_s://higher.gs.com/roles/165597"
-    },
-    {
       "title": "Asset & Wealth Management-Full Stack Software Engineer -Associate-Albany\nAlbany\u00b7United States\n\u00b7Associate",
       "url": "https://higher.gs.com/roles/160552",
       "identifier": "Asset & Wealth Management-Full Stack Software Engi_s://higher.gs.com/roles/160552"
@@ -102,8 +97,13 @@
       "title": "Asset & Wealth Management - Multi Asset Solutions (MAS) Digital Strats - Associate - New York\nNew York\u00b7United States\n\u00b7Associate",
       "url": "https://higher.gs.com/roles/164082",
       "identifier": "Asset & Wealth Management - Multi Asset Solutions _s://higher.gs.com/roles/164082"
+    },
+    {
+      "title": "Asset & Wealth Management-Front-End Developer -Associate-Dallas\nDallas\u00b7United States\n\u00b7Associate",
+      "url": "https://higher.gs.com/roles/167475",
+      "identifier": "Asset & Wealth Management-Front-End Developer -Ass_s://higher.gs.com/roles/167475"
     }
   ],
-  "job_count_text": "47",
-  "timestamp": "2026-04-01T22:59:13.192531"
+  "job_count_text": "46",
+  "timestamp": "2026-04-01T23:16:15.422052"
 }

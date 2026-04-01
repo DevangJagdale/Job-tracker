@@ -4,6 +4,11 @@
   "total_jobs": 15,
   "jobs": [
     {
+      "title": "Machine Learning Engineer \u2014 Trust and Safety (Account Trust)",
+      "url": "https://jobs.apple.com/en-us/details/200654799-0157/machine-learning-engineer-trust-and-safety-account-trust?team=SFTWR",
+      "identifier": "Machine Learning Engineer \u2014 Trust and Safety (Acco_afety-account-trust?team=SFTWR"
+    },
+    {
       "title": "Software Engineer - Trust & Safety Solutions Engineer",
       "url": "https://jobs.apple.com/en-us/details/200654963-0836/software-engineer-trust-safety-solutions-engineer?team=SFTWR",
       "identifier": "Software Engineer - Trust & Safety Solutions Engin_-solutions-engineer?team=SFTWR"
@@ -72,13 +77,8 @@
       "title": "Engineering Program Manager, Data Center Operations",
       "url": "https://jobs.apple.com/en-us/details/200636333-1336/engineering-program-manager-data-center-operations?team=SFTWR",
       "identifier": "Engineering Program Manager, Data Center Operation_a-center-operations?team=SFTWR"
-    },
-    {
-      "title": "Software Development Engineer - Test, Customer Systems",
-      "url": "https://jobs.apple.com/en-us/details/200651918-3956/software-development-engineer-test-customer-systems?team=SFTWR",
-      "identifier": "Software Development Engineer - Test, Customer Sys_st-customer-systems?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-01T00:12:31.285695"
+  "timestamp": "2026-04-01T00:29:33.432650"
 }

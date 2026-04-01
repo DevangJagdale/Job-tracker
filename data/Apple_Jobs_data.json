@@ -4,6 +4,16 @@
   "total_jobs": 17,
   "jobs": [
     {
+      "title": "Software QA Engineer, Siri Speech",
+      "url": "https://jobs.apple.com/en-us/details/200654955-0836/software-qa-engineer-siri-speech?team=SFTWR",
+      "identifier": "Software QA Engineer, Siri Speech_ngineer-siri-speech?team=SFTWR"
+    },
+    {
+      "title": "Tools and Automation Engineer - Trust and Safety",
+      "url": "https://jobs.apple.com/en-us/details/200655217-0836/tools-and-automation-engineer-trust-and-safety?team=SFTWR",
+      "identifier": "Tools and Automation Engineer - Trust and Safety_er-trust-and-safety?team=SFTWR"
+    },
+    {
       "title": "Staff Engineer, App Store Analytics & Data Engineering",
       "url": "https://jobs.apple.com/en-us/details/200653318-0836/staff-engineer-app-store-analytics-data-engineering?team=SFTWR",
       "identifier": "Staff Engineer, App Store Analytics & Data Enginee_cs-data-engineering?team=SFTWR"
@@ -77,18 +87,8 @@
       "title": "Machine Learning Engineer - Health AIML",
       "url": "https://jobs.apple.com/en-us/details/200654670-0836/machine-learning-engineer-health-aiml?team=MLAI",
       "identifier": "Machine Learning Engineer - Health AIML_engineer-health-aiml?team=MLAI"
-    },
-    {
-      "title": "FindMy Data Scientist",
-      "url": "https://jobs.apple.com/en-us/details/200654875-0836/findmy-data-scientist?team=SFTWR",
-      "identifier": "FindMy Data Scientist_ndmy-data-scientist?team=SFTWR"
-    },
-    {
-      "title": "Wireless Software Engineer, Wireless Technologies & Ecosystems",
-      "url": "https://jobs.apple.com/en-us/details/200654877-0836/wireless-software-engineer-wireless-technologies-ecosystems?team=SFTWR",
-      "identifier": "Wireless Software Engineer, Wireless Technologies _nologies-ecosystems?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-01T19:43:49.878794"
+  "timestamp": "2026-04-01T20:01:08.247624"
 }

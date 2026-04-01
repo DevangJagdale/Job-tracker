@@ -4,6 +4,11 @@
   "total_jobs": 15,
   "jobs": [
     {
+      "title": "Software Quality Manager, Audio - Apple Vision Pro",
+      "url": "https://jobs.apple.com/en-us/details/200654571-0365/software-quality-manager-audio-apple-vision-pro?team=SFTWR",
+      "identifier": "Software Quality Manager, Audio - Apple Vision Pro_io-apple-vision-pro?team=SFTWR"
+    },
+    {
       "title": "Senior Software Engineer in Test, Evaluation",
       "url": "https://jobs.apple.com/en-us/details/200654947-3337/senior-software-engineer-in-test-evaluation?team=SFTWR",
       "identifier": "Senior Software Engineer in Test, Evaluation_-in-test-evaluation?team=SFTWR"
@@ -72,13 +77,8 @@
       "title": "Spatial Computing Engineer, RealityKit, Vision Products Software",
       "url": "https://jobs.apple.com/en-us/details/200635456-3401/spatial-computing-engineer-realitykit-vision-products-software?team=SFTWR",
       "identifier": "Spatial Computing Engineer, RealityKit, Vision Pro_n-products-software?team=SFTWR"
-    },
-    {
-      "title": "User Experience - Quality Engineering Manager",
-      "url": "https://jobs.apple.com/en-us/details/200653562-0836/user-experience-quality-engineering-manager?team=SFTWR",
-      "identifier": "User Experience - Quality Engineering Manager_engineering-manager?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-31T23:38:20.596343"
+  "timestamp": "2026-03-31T23:55:26.715912"
 }

@@ -1,8 +1,33 @@
 {
   "page_title": "Search our Job Opportunities at Barclays",
   "url": "https://search.jobs.barclays/search-jobs/United%20States/13015/2/6252001/39x76/-98x5/50/2",
-  "total_jobs": 13,
+  "total_jobs": 14,
   "jobs": [
+    {
+      "title": "Laws, Rules, and Regulations Oversight Risk - AVP",
+      "url": "https://search.jobs.barclays/job/new-york/laws-rules-and-regulations-oversight-risk-avp/13015/93474483200",
+      "identifier": "Laws, Rules, and Regulations Oversight Risk - AVP_ght-risk-avp/13015/93474483200"
+    },
+    {
+      "title": "Prime Structuring, Client Returns AVP",
+      "url": "https://search.jobs.barclays/job/new-york/prime-structuring-client-returns-avp/13015/93474482624",
+      "identifier": "Prime Structuring, Client Returns AVP_-returns-avp/13015/93474482624"
+    },
+    {
+      "title": "Loyalty Marketing Manager",
+      "url": "https://search.jobs.barclays/job/wilmington/loyalty-marketing-manager/13015/93474477104",
+      "identifier": "Loyalty Marketing Manager_ting-manager/13015/93474477104"
+    },
+    {
+      "title": "Banking Finance Business Partner AVP",
+      "url": "https://search.jobs.barclays/job/new-york/banking-finance-business-partner-avp/13015/93474468448",
+      "identifier": "Banking Finance Business Partner AVP_-partner-avp/13015/93474468448"
+    },
+    {
+      "title": "US Basel Regulatory Capital Reporting VP",
+      "url": "https://search.jobs.barclays/job/whippany/us-basel-regulatory-capital-reporting-vp/13015/93462015440",
+      "identifier": "US Basel Regulatory Capital Reporting VP_reporting-vp/13015/93462015440"
+    },
     {
       "title": "Liquid Finance - IT Architect",
       "url": "https://search.jobs.barclays/job/new-york/liquid-finance-it-architect/13015/93462011088",
@@ -47,28 +72,8 @@
       "title": "Digital Acquisitions Lead",
       "url": "https://search.jobs.barclays/job/wilmington/digital-acquisitions-lead/13015/93398023712",
       "identifier": "Digital Acquisitions Lead_sitions-lead/13015/93398023712"
-    },
-    {
-      "title": "Director - IB Enterprise Architect",
-      "url": "https://search.jobs.barclays/job/whippany/director-ib-enterprise-architect/13015/93384862640",
-      "identifier": "Director - IB Enterprise Architect_se-architect/13015/93384862640"
-    },
-    {
-      "title": "TMT Corporate Banking VP",
-      "url": "https://search.jobs.barclays/job/menlo-park/tmt-corporate-banking-vp/13015/93384861984",
-      "identifier": "TMT Corporate Banking VP_e-banking-vp/13015/93384861984"
-    },
-    {
-      "title": "Client Implementation Manager",
-      "url": "https://search.jobs.barclays/job/whippany/client-implementation-manager/13015/93384859200",
-      "identifier": "Client Implementation Manager_tion-manager/13015/93384859200"
-    },
-    {
-      "title": "Principal Engineer - Engineering Automation Program",
-      "url": "https://search.jobs.barclays/job/whippany/principal-engineer-engineering-automation-program/13015/93286211488",
-      "identifier": "Principal Engineer - Engineering Automation Progra_tion-program/13015/93286211488"
     }
   ],
-  "job_count_text": "97",
-  "timestamp": "2026-04-01T23:33:38.917520"
+  "job_count_text": "103",
+  "timestamp": "2026-04-01T23:50:40.053576"
 }

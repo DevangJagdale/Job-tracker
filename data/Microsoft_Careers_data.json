@@ -4,12 +4,22 @@
   "total_jobs": 8,
   "jobs": [
     {
-      "title": "Software Engineer II - HR Employee Experiences Team\nUnited States, Washington, Redmond\nPosted 17 minutes ago",
+      "title": "Software Engineer\nUnited States, Washington, Redmond\nPosted 10 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556855685?domain=microsoft.com",
+      "identifier": "Software Engineer\nUnited States, Washington, Redmo_556855685?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 15 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556855683?domain=microsoft.com",
+      "identifier": "Senior Software Engineer\nUnited States, Washington_556855683?domain=microsoft.com"
+    },
+    {
+      "title": "Software Engineer II - HR Employee Experiences Team\nUnited States, Washington, Redmond\nPosted 34 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556849484?domain=microsoft.com",
       "identifier": "Software Engineer II - HR Employee Experiences Tea_556849484?domain=microsoft.com"
     },
     {
-      "title": "Principal Software Engineering Manager, Simulation Platform - CoreAI\nUnited States, Multiple Locations, Multiple Locations\nPosted 28 minutes ago",
+      "title": "Principal Software Engineering Manager, Simulation Platform - CoreAI\nUnited States, Multiple Locations, Multiple Locations\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556856010?domain=microsoft.com",
       "identifier": "Principal Software Engineering Manager, Simulation_556856010?domain=microsoft.com"
     },
@@ -24,26 +34,16 @@
       "identifier": "Senior Applied Scientist\nUnited States, Washington_556824823?domain=microsoft.com"
     },
     {
-      "title": "Principal Firmware Engineer\nUnited States, Washington, Redmond + 2 more\nPosted 2 hours ago",
+      "title": "Principal Firmware Engineer\nUnited States, Washington, Redmond + 2 more\nPosted 3 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556640289?domain=microsoft.com",
       "identifier": "Principal Firmware Engineer\nUnited States, Washing_556640289?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer - Azure Database\nUnited States, Multiple Locations, Multiple Locations\nPosted 2 hours ago",
+      "title": "Senior Software Engineer - Azure Database\nUnited States, Multiple Locations, Multiple Locations\nPosted 3 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556853161?domain=microsoft.com",
       "identifier": "Senior Software Engineer - Azure Database\nUnited S_556853161?domain=microsoft.com"
-    },
-    {
-      "title": "Software Engineer II - SAP Basis\nUnited States, Washington, Redmond\nPosted 3 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556760389?domain=microsoft.com",
-      "identifier": "Software Engineer II - SAP Basis\nUnited States, Wa_556760389?domain=microsoft.com"
-    },
-    {
-      "title": "Principal Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 3 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556620220?domain=microsoft.com",
-      "identifier": "Principal Software Engineer\nUnited States, Multipl_556620220?domain=microsoft.com"
     }
   ],
-  "job_count_text": "772",
-  "timestamp": "2026-04-01T22:42:39.604011"
+  "job_count_text": "774",
+  "timestamp": "2026-04-01T22:59:48.220898"
 }

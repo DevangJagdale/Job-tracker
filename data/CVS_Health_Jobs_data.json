@@ -9,6 +9,16 @@
       "identifier": "Senior Engineering Manager_003/Senior-Engineering-Manager"
     },
     {
+      "title": "Staff Software Development Engineer (Full Stack/Cloud)",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0815913/Staff-Software-Development-Engineer-Full-Stack-Cloud",
+      "identifier": "Staff Software Development Engineer (Full Stack/Cl_ment-Engineer-Full-Stack-Cloud"
+    },
+    {
+      "title": "Senior Manager - Enterprise Observability Strategy and Governance",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0851431/Senior-Manager-Enterprise-Observability-Strategy-and-Governance",
+      "identifier": "Senior Manager - Enterprise Observability Strategy_bility-Strategy-and-Governance"
+    },
+    {
       "title": "Salesforce Devops Engineer",
       "url": "https://jobs.cvshealth.com/us/en/job/R0869573/Salesforce-Devops-Engineer",
       "identifier": "Salesforce Devops Engineer_573/Salesforce-Devops-Engineer"
@@ -19,9 +29,9 @@
       "identifier": "Salesforce Devops Engineer_438/Salesforce-Devops-Engineer"
     },
     {
-      "title": "Sr Analyst, Application Development",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0874411/Sr-Analyst-Application-Development",
-      "identifier": "Sr Analyst, Application Development_nalyst-Application-Development"
+      "title": "Senior SAP ABAP AI Developer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0870709/Senior-SAP-ABAP-AI-Developer",
+      "identifier": "Senior SAP ABAP AI Developer_9/Senior-SAP-ABAP-AI-Developer"
     },
     {
       "title": "Senior Anaplan Architect-2",
@@ -29,21 +39,11 @@
       "identifier": "Senior Anaplan Architect-2_351/Senior-Anaplan-Architect-2"
     },
     {
-      "title": "Senior SAP ABAP AI Developer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0870709/Senior-SAP-ABAP-AI-Developer",
-      "identifier": "Senior SAP ABAP AI Developer_9/Senior-SAP-ABAP-AI-Developer"
-    },
-    {
-      "title": "Senior Manager - Enterprise Observability Strategy and Governance",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0851431/Senior-Manager-Enterprise-Observability-Strategy-and-Governance",
-      "identifier": "Senior Manager - Enterprise Observability Strategy_bility-Strategy-and-Governance"
-    },
-    {
       "title": "Senior Manager - Software Development Engineering (Connected PBM)",
       "url": "https://jobs.cvshealth.com/us/en/job/R0862601/Senior-Manager-Software-Development-Engineering-Connected-PBM",
       "identifier": "Senior Manager - Software Development Engineering _ment-Engineering-Connected-PBM"
     }
   ],
-  "job_count_text": "46",
-  "timestamp": "2026-04-01T22:09:46.307871"
+  "job_count_text": "48",
+  "timestamp": "2026-04-01T22:26:46.684221"
 }

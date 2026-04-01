@@ -1,8 +1,28 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 13,
+  "total_jobs": 14,
   "jobs": [
+    {
+      "title": "Sr. Ruby on Rails Engineer, ASE",
+      "url": "https://jobs.apple.com/en-us/details/200654205-3337/sr-ruby-on-rails-engineer-ase?team=SFTWR",
+      "identifier": "Sr. Ruby on Rails Engineer, ASE_-rails-engineer-ase?team=SFTWR"
+    },
+    {
+      "title": "Software Engineer - Traffic, Envoy",
+      "url": "https://jobs.apple.com/en-us/details/200655221-3337/software-engineer-traffic-envoy?team=SFTWR",
+      "identifier": "Software Engineer - Traffic, Envoy_ineer-traffic-envoy?team=SFTWR"
+    },
+    {
+      "title": "Senior Security Engineering Manager",
+      "url": "https://jobs.apple.com/en-us/details/200643802-3337/senior-security-engineering-manager?team=SFTWR",
+      "identifier": "Senior Security Engineering Manager_engineering-manager?team=SFTWR"
+    },
+    {
+      "title": "Senior Software Engineer - ASE Data Platform",
+      "url": "https://jobs.apple.com/en-us/details/200653279-3337/senior-software-engineer-ase-data-platform?team=SFTWR",
+      "identifier": "Senior Software Engineer - ASE Data Platform_r-ase-data-platform?team=SFTWR"
+    },
     {
       "title": "Senior ML Engineer, Robotics - Special Projects",
       "url": "https://jobs.apple.com/en-us/details/200654494-3760/senior-ml-engineer-robotics-special-projects?team=MLAI",
@@ -29,11 +49,6 @@
       "identifier": "Sr. Engineering Program Manager, Security, Apple S_ervices-engineering?team=SFTWR"
     },
     {
-      "title": "Senior Software Engineer - ASE Data Platform",
-      "url": "https://jobs.apple.com/en-us/details/200653279-3337/senior-software-engineer-ase-data-platform?team=SFTWR",
-      "identifier": "Senior Software Engineer - ASE Data Platform_r-ase-data-platform?team=SFTWR"
-    },
-    {
       "title": "3D Codec Algorithm Engineer, Vision Products Group",
       "url": "https://jobs.apple.com/en-us/details/200655180-3956/3d-codec-algorithm-engineer-vision-products-group?team=SFTWR",
       "identifier": "3D Codec Algorithm Engineer, Vision Products Group_sion-products-group?team=SFTWR"
@@ -57,18 +72,8 @@
       "title": "Software Engineer (Java & Gen Ai), Sales Engineering",
       "url": "https://jobs.apple.com/en-us/details/200622099-0157/software-engineer-java-gen-ai-sales-engineering?team=SFTWR",
       "identifier": "Software Engineer (Java & Gen Ai), Sales Engineeri_i-sales-engineering?team=SFTWR"
-    },
-    {
-      "title": "Machine Learning Engineer \u2014 Trust and Safety (Account Trust)",
-      "url": "https://jobs.apple.com/en-us/details/200654799-0157/machine-learning-engineer-trust-and-safety-account-trust?team=SFTWR",
-      "identifier": "Machine Learning Engineer \u2014 Trust and Safety (Acco_afety-account-trust?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer - Trust & Safety Solutions Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200654963-0836/software-engineer-trust-safety-solutions-engineer?team=SFTWR",
-      "identifier": "Software Engineer - Trust & Safety Solutions Engin_-solutions-engineer?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-01T20:52:26.694393"
+  "timestamp": "2026-04-01T21:09:36.147423"
 }

@@ -1,8 +1,18 @@
 {
   "page_title": "Search our Job Opportunities at Barclays",
   "url": "https://search.jobs.barclays/search-jobs/United%20States/13015/2/6252001/39x76/-98x5/50/2",
-  "total_jobs": 13,
+  "total_jobs": 15,
   "jobs": [
+    {
+      "title": "Americas Head of Subsidiary Coverage (Inbound), ICB Americas",
+      "url": "https://search.jobs.barclays/job/new-york/americas-head-of-subsidiary-coverage-inbound-icb-americas/13015/93437134656",
+      "identifier": "Americas Head of Subsidiary Coverage (Inbound), IC_icb-americas/13015/93437134656"
+    },
+    {
+      "title": "Financial Market Infrastructure & Broker Dealers - Director",
+      "url": "https://search.jobs.barclays/job/new-york/financial-market-infrastructure-and-broker-dealers-director/13015/93422770720",
+      "identifier": "Financial Market Infrastructure & Broker Dealers -_ers-director/13015/93422770720"
+    },
     {
       "title": "Enterprise Security Posture Management (ESPM) Lead",
       "url": "https://search.jobs.barclays/job/whippany/enterprise-security-posture-management-espm-lead/13015/93422765152",
@@ -69,6 +79,6 @@
       "identifier": "US Rates Derivatives Sales Assistant, AVP_ssistant-avp/13015/93273372032"
     }
   ],
-  "job_count_text": "97",
-  "timestamp": "2026-04-01T11:19:32.350816"
+  "job_count_text": "98",
+  "timestamp": "2026-04-01T11:36:31.706541"
 }

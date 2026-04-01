@@ -10,18 +10,13 @@
     },
     {
       "title": "Salesforce Devops Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0872438/Salesforce-Devops-Engineer",
-      "identifier": "Salesforce Devops Engineer_438/Salesforce-Devops-Engineer"
-    },
-    {
-      "title": "Salesforce Devops Engineer",
       "url": "https://jobs.cvshealth.com/us/en/job/R0869573/Salesforce-Devops-Engineer",
       "identifier": "Salesforce Devops Engineer_573/Salesforce-Devops-Engineer"
     },
     {
-      "title": "Field Technician",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0870653/Field-Technician",
-      "identifier": "Field Technician_/job/R0870653/Field-Technician"
+      "title": "Salesforce Devops Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0872438/Salesforce-Devops-Engineer",
+      "identifier": "Salesforce Devops Engineer_438/Salesforce-Devops-Engineer"
     },
     {
       "title": "Help Desk Support Specialist",
@@ -29,9 +24,14 @@
       "identifier": "Help Desk Support Specialist_3/Help-Desk-Support-Specialist"
     },
     {
-      "title": "Lead Director - Software Development Engineering",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0773293/Lead-Director-Software-Development-Engineering",
-      "identifier": "Lead Director - Software Development Engineering_ftware-Development-Engineering"
+      "title": "Field Technician",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0870653/Field-Technician",
+      "identifier": "Field Technician_/job/R0870653/Field-Technician"
+    },
+    {
+      "title": "Senior Manager - Software Engineering",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0832662/Senior-Manager-Software-Engineering",
+      "identifier": "Senior Manager - Software Engineering_r-Manager-Software-Engineering"
     },
     {
       "title": "Senior Manager - Software Development Engineering",
@@ -45,5 +45,5 @@
     }
   ],
   "job_count_text": "42",
-  "timestamp": "2026-04-01T16:53:22.548162"
+  "timestamp": "2026-04-01T17:10:28.479865"
 }

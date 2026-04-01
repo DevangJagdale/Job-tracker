@@ -4,6 +4,21 @@
   "total_jobs": 15,
   "jobs": [
     {
+      "title": "Software Engineer - Trust & Safety Solutions Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200654963-0836/software-engineer-trust-safety-solutions-engineer?team=SFTWR",
+      "identifier": "Software Engineer - Trust & Safety Solutions Engin_-solutions-engineer?team=SFTWR"
+    },
+    {
+      "title": "Data Scientist, Media Revenue and Subscriptions",
+      "url": "https://jobs.apple.com/en-us/details/200654768-0670/data-scientist-media-revenue-and-subscriptions?team=SFTWR",
+      "identifier": "Data Scientist, Media Revenue and Subscriptions_e-and-subscriptions?team=SFTWR"
+    },
+    {
+      "title": "Senior Product Data Scientist in Causal Inference and ML, App Store",
+      "url": "https://jobs.apple.com/en-us/details/200654450-0670/senior-product-data-scientist-in-causal-inference-and-ml-app-store?team=SFTWR",
+      "identifier": "Senior Product Data Scientist in Causal Inference _ce-and-ml-app-store?team=SFTWR"
+    },
+    {
       "title": "Software Quality Manager, Audio - Apple Vision Pro",
       "url": "https://jobs.apple.com/en-us/details/200654571-0365/software-quality-manager-audio-apple-vision-pro?team=SFTWR",
       "identifier": "Software Quality Manager, Audio - Apple Vision Pro_io-apple-vision-pro?team=SFTWR"
@@ -62,23 +77,8 @@
       "title": "Software Development Engineer - Test, Customer Systems",
       "url": "https://jobs.apple.com/en-us/details/200651918-3956/software-development-engineer-test-customer-systems?team=SFTWR",
       "identifier": "Software Development Engineer - Test, Customer Sys_st-customer-systems?team=SFTWR"
-    },
-    {
-      "title": "Data Engineer - AIML Evaluation",
-      "url": "https://jobs.apple.com/en-us/details/200653246-3337/data-engineer-aiml-evaluation?team=SFTWR",
-      "identifier": "Data Engineer - AIML Evaluation_eer-aiml-evaluation?team=SFTWR"
-    },
-    {
-      "title": "Product Manager, Apple Wallet",
-      "url": "https://jobs.apple.com/en-us/details/200654467-0836/product-manager-apple-wallet?team=SFTWR",
-      "identifier": "Product Manager, Apple Wallet_anager-apple-wallet?team=SFTWR"
-    },
-    {
-      "title": "Spatial Computing Engineer, RealityKit, Vision Products Software",
-      "url": "https://jobs.apple.com/en-us/details/200635456-3401/spatial-computing-engineer-realitykit-vision-products-software?team=SFTWR",
-      "identifier": "Spatial Computing Engineer, RealityKit, Vision Pro_n-products-software?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-31T23:55:26.715912"
+  "timestamp": "2026-04-01T00:12:31.285695"
 }

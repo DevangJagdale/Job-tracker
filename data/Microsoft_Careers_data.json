@@ -1,10 +1,10 @@
 {
   "page_title": "| Microsoft Careers",
   "url": "https://apply.careers.microsoft.com/careers?domain=microsoft.com&start=0&location=United+States&sort_by=timestamp&filter_include_remote=1&filter_profession=software+engineering%2Cresearch%252C%2520applied%252C%2520%2526%2520data%2520sciences",
-  "total_jobs": 8,
+  "total_jobs": 7,
   "jobs": [
     {
-      "title": "Senior Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 34 minutes ago",
+      "title": "Senior Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556620034?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Multiple L_556620034?domain=microsoft.com"
     },
@@ -34,16 +34,11 @@
       "identifier": "Senior Software Engineer, Workflow Innovation - Ha_556826708?domain=microsoft.com"
     },
     {
-      "title": "Data Scientist\nUnited States, Washington, Redmond + 3 more\nPosted an hour ago",
+      "title": "Data Scientist\nUnited States, Washington, Redmond + 3 more\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556851192?domain=microsoft.com",
       "identifier": "Data Scientist\nUnited States, Washington, Redmond _556851192?domain=microsoft.com"
-    },
-    {
-      "title": "Principal Software Engineering Manager\nUnited States, Washington, Redmond\nPosted 2 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556850582?domain=microsoft.com",
-      "identifier": "Principal Software Engineering Manager\nUnited Stat_556850582?domain=microsoft.com"
     }
   ],
-  "job_count_text": "767",
-  "timestamp": "2026-04-01T18:52:09.896686"
+  "job_count_text": "768",
+  "timestamp": "2026-04-01T19:09:15.404433"
 }

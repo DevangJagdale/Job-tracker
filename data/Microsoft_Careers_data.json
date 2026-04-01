@@ -4,17 +4,27 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Senior Software Engineer - Azure Storage\nUnited States, Multiple Locations, Multiple Locations\nPosted 21 minutes ago",
+      "title": "Senior Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 14 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556640175?domain=microsoft.com",
+      "identifier": "Senior Software Engineer\nUnited States, Multiple L_556640175?domain=microsoft.com"
+    },
+    {
+      "title": "Principal Applied Scientist\nUnited States, Washington, Redmond + 1 more\nPosted 17 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556638572?domain=microsoft.com",
+      "identifier": "Principal Applied Scientist\nUnited States, Washing_556638572?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Software Engineer - Azure Storage\nUnited States, Multiple Locations, Multiple Locations\nPosted 39 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556640659?domain=microsoft.com",
       "identifier": "Senior Software Engineer - Azure Storage\nUnited St_556640659?domain=microsoft.com"
     },
     {
-      "title": "Principal Software Engineer\nUnited States, California, Mountain View\nPosted 33 minutes ago",
+      "title": "Principal Software Engineer\nUnited States, California, Mountain View\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556853728?domain=microsoft.com",
       "identifier": "Principal Software Engineer\nUnited States, Califor_556853728?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer\nUnited States, California, Mountain View + 1 more\nPosted 35 minutes ago",
+      "title": "Senior Software Engineer\nUnited States, California, Mountain View + 1 more\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556654997?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, California_556654997?domain=microsoft.com"
     },
@@ -29,12 +39,12 @@
       "identifier": "Software Engineer II\nUnited States, Multiple Locat_556631868?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted an hour ago",
+      "title": "Senior Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556658226?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Multiple L_556658226?domain=microsoft.com"
     },
     {
-      "title": "Principal Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted an hour ago",
+      "title": "Principal Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556668358?domain=microsoft.com",
       "identifier": "Principal Software Engineer\nUnited States, Multipl_556668358?domain=microsoft.com"
     },
@@ -42,18 +52,8 @@
       "title": "Principal Software Engineering Manager\nUnited States, Washington, Redmond\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556813507?domain=microsoft.com",
       "identifier": "Principal Software Engineering Manager\nUnited Stat_556813507?domain=microsoft.com"
-    },
-    {
-      "title": "Principal Site Reliability Engineering Manager- CTJ- Secret (Cleared Environments)\nUnited States, Washington, Redmond\nPosted 2 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556827610?domain=microsoft.com",
-      "identifier": "Principal Site Reliability Engineering Manager- CT_556827610?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Product Manager - Azure Storage\nUnited States, Multiple Locations, Multiple Locations\nPosted 2 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556847390?domain=microsoft.com",
-      "identifier": "Senior Product Manager - Azure Storage\nUnited Stat_556847390?domain=microsoft.com"
     }
   ],
-  "job_count_text": "754",
-  "timestamp": "2026-04-01T16:34:56.965706"
+  "job_count_text": "756",
+  "timestamp": "2026-04-01T16:52:04.977985"
 }

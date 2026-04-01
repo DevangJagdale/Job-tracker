@@ -4,6 +4,11 @@
   "total_jobs": 13,
   "jobs": [
     {
+      "title": "Senior ML Engineer, Robotics - Special Projects",
+      "url": "https://jobs.apple.com/en-us/details/200654494-3760/senior-ml-engineer-robotics-special-projects?team=MLAI",
+      "identifier": "Senior ML Engineer, Robotics - Special Projects_ics-special-projects?team=MLAI"
+    },
+    {
       "title": "Software QA Engineer, Siri Speech",
       "url": "https://jobs.apple.com/en-us/details/200654955-0836/software-qa-engineer-siri-speech?team=SFTWR",
       "identifier": "Software QA Engineer, Siri Speech_ngineer-siri-speech?team=SFTWR"
@@ -62,13 +67,8 @@
       "title": "Software Engineer - Trust & Safety Solutions Engineer",
       "url": "https://jobs.apple.com/en-us/details/200654963-0836/software-engineer-trust-safety-solutions-engineer?team=SFTWR",
       "identifier": "Software Engineer - Trust & Safety Solutions Engin_-solutions-engineer?team=SFTWR"
-    },
-    {
-      "title": "Data Scientist, Media Revenue and Subscriptions",
-      "url": "https://jobs.apple.com/en-us/details/200654768-0670/data-scientist-media-revenue-and-subscriptions?team=SFTWR",
-      "identifier": "Data Scientist, Media Revenue and Subscriptions_e-and-subscriptions?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-01T20:18:14.979945"
+  "timestamp": "2026-04-01T20:35:21.116763"
 }

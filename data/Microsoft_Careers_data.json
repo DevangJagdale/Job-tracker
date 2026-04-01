@@ -4,32 +4,37 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Software Engineer II\nUnited States, Multiple Locations, Multiple Locations\nPosted 14 minutes ago",
+      "title": "Software Engineer\nUnited States, Washington, Redmond\nPosted 15 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556620699?domain=microsoft.com",
+      "identifier": "Software Engineer\nUnited States, Washington, Redmo_556620699?domain=microsoft.com"
+    },
+    {
+      "title": "Software Engineer II\nUnited States, Multiple Locations, Multiple Locations\nPosted 31 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556631868?domain=microsoft.com",
       "identifier": "Software Engineer II\nUnited States, Multiple Locat_556631868?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 25 minutes ago",
+      "title": "Senior Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 43 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556658226?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Multiple L_556658226?domain=microsoft.com"
     },
     {
-      "title": "Principal Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 28 minutes ago",
+      "title": "Principal Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556668358?domain=microsoft.com",
       "identifier": "Principal Software Engineer\nUnited States, Multipl_556668358?domain=microsoft.com"
     },
     {
-      "title": "Principal Software Engineering Manager\nUnited States, Washington, Redmond\nPosted 34 minutes ago",
+      "title": "Principal Software Engineering Manager\nUnited States, Washington, Redmond\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556813507?domain=microsoft.com",
       "identifier": "Principal Software Engineering Manager\nUnited Stat_556813507?domain=microsoft.com"
     },
     {
-      "title": "Principal Site Reliability Engineering Manager- CTJ- Secret (Cleared Environments)\nUnited States, Washington, Redmond\nPosted 42 minutes ago",
+      "title": "Principal Site Reliability Engineering Manager- CTJ- Secret (Cleared Environments)\nUnited States, Washington, Redmond\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556827610?domain=microsoft.com",
       "identifier": "Principal Site Reliability Engineering Manager- CT_556827610?domain=microsoft.com"
     },
     {
-      "title": "Senior Product Manager - Azure Storage\nUnited States, Multiple Locations, Multiple Locations\nPosted 41 minutes ago",
+      "title": "Senior Product Manager - Azure Storage\nUnited States, Multiple Locations, Multiple Locations\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556847390?domain=microsoft.com",
       "identifier": "Senior Product Manager - Azure Storage\nUnited Stat_556847390?domain=microsoft.com"
     },
@@ -44,16 +49,11 @@
       "identifier": "Software Engineer II & Senior Software Engineer\nUn_556640555?domain=microsoft.com"
     },
     {
-      "title": "Principal Software Engineer - Copilot Identity\nUnited States, Washington, Redmond + 2 more\nPosted an hour ago",
+      "title": "Principal Software Engineer - Copilot Identity\nUnited States, Washington, Redmond + 2 more\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556628288?domain=microsoft.com",
       "identifier": "Principal Software Engineer - Copilot Identity\nUni_556628288?domain=microsoft.com"
-    },
-    {
-      "title": "Principal Software Engineer - Copilot Security\nUnited States, Washington, Redmond + 2 more\nPosted 2 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556638497?domain=microsoft.com",
-      "identifier": "Principal Software Engineer - Copilot Security\nUni_556638497?domain=microsoft.com"
     }
   ],
-  "job_count_text": "753",
-  "timestamp": "2026-04-01T15:36:16.602967"
+  "job_count_text": "754",
+  "timestamp": "2026-04-01T15:53:20.659038"
 }

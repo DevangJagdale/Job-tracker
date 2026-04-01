@@ -4,11 +4,6 @@
   "total_jobs": 13,
   "jobs": [
     {
-      "title": "Senior Data Engineer",
-      "url": "https://search.jobs.barclays/job/whippany/senior-data-engineer/13015/93422766608",
-      "identifier": "Senior Data Engineer_ata-engineer/13015/93422766608"
-    },
-    {
       "title": "Enterprise Security Posture Management (ESPM) Lead",
       "url": "https://search.jobs.barclays/job/whippany/enterprise-security-posture-management-espm-lead/13015/93422765152",
       "identifier": "Enterprise Security Posture Management (ESPM) Lead_nt-espm-lead/13015/93422765152"
@@ -67,8 +62,13 @@
       "title": "Vice President Technology M&A Investment Banking",
       "url": "https://search.jobs.barclays/job/san-francisco/vice-president-technology-m-and-a-investment-banking/13015/93273374832",
       "identifier": "Vice President Technology M&A Investment Banking_ment-banking/13015/93273374832"
+    },
+    {
+      "title": "US Rates Derivatives Sales Assistant, AVP",
+      "url": "https://search.jobs.barclays/job/new-york/us-rates-derivatives-sales-assistant-avp/13015/93273372032",
+      "identifier": "US Rates Derivatives Sales Assistant, AVP_ssistant-avp/13015/93273372032"
     }
   ],
-  "job_count_text": "106",
-  "timestamp": "2026-04-01T05:28:58.545587"
+  "job_count_text": "97",
+  "timestamp": "2026-04-01T05:46:07.952304"
 }

@@ -4,6 +4,11 @@
   "total_jobs": 9,
   "jobs": [
     {
+      "title": "Applied Scientist\nUnited States, Washington, Redmond\nPosted 9 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556818099?domain=microsoft.com",
+      "identifier": "Applied Scientist\nUnited States, Washington, Redmo_556818099?domain=microsoft.com"
+    },
+    {
       "title": "Principal Software Engineer - Backend\nUnited States, Washington, Redmond\nPosted 4 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556823713?domain=microsoft.com",
       "identifier": "Principal Software Engineer - Backend\nUnited State_556823713?domain=microsoft.com"
@@ -19,12 +24,12 @@
       "identifier": "Software Engineer II - AI\nUnited States, Washingto_556753771?domain=microsoft.com"
     },
     {
-      "title": "Director, Data & Applied Sciences\nUnited States, Multiple Locations, Multiple Locations\nPosted 5 hours ago",
+      "title": "Director, Data & Applied Sciences\nUnited States, Multiple Locations, Multiple Locations\nPosted 6 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556853115?domain=microsoft.com",
       "identifier": "Director, Data & Applied Sciences\nUnited States, M_556853115?domain=microsoft.com"
     },
     {
-      "title": "Senior Firmware Engineer\nUnited States, Washington, Redmond + 8 more\nPosted 5 hours ago",
+      "title": "Senior Firmware Engineer\nUnited States, Washington, Redmond + 8 more\nPosted 6 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556621424?domain=microsoft.com",
       "identifier": "Senior Firmware Engineer\nUnited States, Washington_556621424?domain=microsoft.com"
     },
@@ -42,13 +47,8 @@
       "title": "Model Design Staff - Language Engineer\nUnited States, Washington, Redmond + 1 more\nPosted 6 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556753235?domain=microsoft.com",
       "identifier": "Model Design Staff - Language Engineer\nUnited Stat_556753235?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Software Engineer - CTJ - POLY\nUnited States, Virginia, Reston + 2 more\nPosted 6 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556852508?domain=microsoft.com",
-      "identifier": "Senior Software Engineer - CTJ - POLY\nUnited State_556852508?domain=microsoft.com"
     }
   ],
-  "job_count_text": "782",
-  "timestamp": "2026-04-01T02:30:56.912993"
+  "job_count_text": "783",
+  "timestamp": "2026-04-01T02:48:00.572655"
 }

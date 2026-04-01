@@ -1,8 +1,13 @@
 {
   "page_title": "Search our Job Opportunities at Barclays",
   "url": "https://search.jobs.barclays/search-jobs/United%20States/13015/2/6252001/39x76/-98x5/50/2",
-  "total_jobs": 15,
+  "total_jobs": 13,
   "jobs": [
+    {
+      "title": "Liquid Finance - IT Architect",
+      "url": "https://search.jobs.barclays/job/new-york/liquid-finance-it-architect/13015/93462011088",
+      "identifier": "Liquid Finance - IT Architect_it-architect/13015/93462011088"
+    },
     {
       "title": "Americas Head of Subsidiary Coverage (Inbound), ICB Americas",
       "url": "https://search.jobs.barclays/job/new-york/americas-head-of-subsidiary-coverage-inbound-icb-americas/13015/93437134656",
@@ -34,11 +39,6 @@
       "identifier": "Group Technology Strategy Lead_trategy-lead/13015/93398025680"
     },
     {
-      "title": "Macro BARX Client Services Analyst",
-      "url": "https://search.jobs.barclays/job/new-york/macro-barx-client-services-analyst/13015/93398024672",
-      "identifier": "Macro BARX Client Services Analyst_ices-analyst/13015/93398024672"
-    },
-    {
       "title": "Credit Acquisition Strategies \u2013 Vice President",
       "url": "https://search.jobs.barclays/job/wilmington/credit-acquisition-strategies-vice-president/13015/93398023904",
       "identifier": "Credit Acquisition Strategies \u2013 Vice President_ce-president/13015/93398023904"
@@ -67,18 +67,8 @@
       "title": "Principal Engineer - Engineering Automation Program",
       "url": "https://search.jobs.barclays/job/whippany/principal-engineer-engineering-automation-program/13015/93286211488",
       "identifier": "Principal Engineer - Engineering Automation Progra_tion-program/13015/93286211488"
-    },
-    {
-      "title": "Vice President Technology M&A Investment Banking",
-      "url": "https://search.jobs.barclays/job/san-francisco/vice-president-technology-m-and-a-investment-banking/13015/93273374832",
-      "identifier": "Vice President Technology M&A Investment Banking_ment-banking/13015/93273374832"
-    },
-    {
-      "title": "US Rates Derivatives Sales Assistant, AVP",
-      "url": "https://search.jobs.barclays/job/new-york/us-rates-derivatives-sales-assistant-avp/13015/93273372032",
-      "identifier": "US Rates Derivatives Sales Assistant, AVP_ssistant-avp/13015/93273372032"
     }
   ],
-  "job_count_text": "98",
-  "timestamp": "2026-04-01T17:26:03.412013"
+  "job_count_text": "97",
+  "timestamp": "2026-04-01T17:43:12.125377"
 }

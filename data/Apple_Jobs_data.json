@@ -4,6 +4,16 @@
   "total_jobs": 12,
   "jobs": [
     {
+      "title": "Optical Systems Integration Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200654988-0836/optical-systems-integration-engineer?team=SFTWR",
+      "identifier": "Optical Systems Integration Engineer_ntegration-engineer?team=SFTWR"
+    },
+    {
+      "title": "Software Engineer (SAP Application Engineer), IS&T Enterprise Systems",
+      "url": "https://jobs.apple.com/en-us/details/200637828-0240/software-engineer-sap-application-engineer-is-t-enterprise-systems?team=SFTWR",
+      "identifier": "Software Engineer (SAP Application Engineer), IS&T_-enterprise-systems?team=SFTWR"
+    },
+    {
       "title": "UI Designer - Music Creation Apps",
       "url": "https://jobs.apple.com/en-us/details/200654800-0670/ui-designer-music-creation-apps?team=SFTWR",
       "identifier": "UI Designer - Music Creation Apps_music-creation-apps?team=SFTWR"
@@ -52,18 +62,8 @@
       "title": "Staff Engineer, App Store Analytics & Data Engineering",
       "url": "https://jobs.apple.com/en-us/details/200653318-0836/staff-engineer-app-store-analytics-data-engineering?team=SFTWR",
       "identifier": "Staff Engineer, App Store Analytics & Data Enginee_cs-data-engineering?team=SFTWR"
-    },
-    {
-      "title": "Sr. Engineering Program Manager, Security, Apple Services Engineering",
-      "url": "https://jobs.apple.com/en-us/details/200653931-3337/sr-engineering-program-manager-security-apple-services-engineering?team=SFTWR",
-      "identifier": "Sr. Engineering Program Manager, Security, Apple S_ervices-engineering?team=SFTWR"
-    },
-    {
-      "title": "3D Codec Algorithm Engineer, Vision Products Group",
-      "url": "https://jobs.apple.com/en-us/details/200655180-3956/3d-codec-algorithm-engineer-vision-products-group?team=SFTWR",
-      "identifier": "3D Codec Algorithm Engineer, Vision Products Group_sion-products-group?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-02T02:24:35.270050"
+  "timestamp": "2026-04-02T02:41:48.173663"
 }

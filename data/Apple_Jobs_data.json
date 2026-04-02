@@ -4,6 +4,21 @@
   "total_jobs": 15,
   "jobs": [
     {
+      "title": "Staff Software Engineer (Apache Spark Poweruser / Committer)",
+      "url": "https://jobs.apple.com/en-us/details/200655487-3337/staff-software-engineer-apache-spark-poweruser-committer?team=SFTWR",
+      "identifier": "Staff Software Engineer (Apache Spark Poweruser / _poweruser-committer?team=SFTWR"
+    },
+    {
+      "title": "Software Engineering Manager, Apple Services Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200655491-0836/software-engineering-manager-apple-services-engineering?team=SFTWR",
+      "identifier": "Software Engineering Manager, Apple Services Engin_ervices-engineering?team=SFTWR"
+    },
+    {
+      "title": "Software Engineer (iOS & Gen AI), Sales Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200648085-3401/software-engineer-ios-gen-ai-sales-engineering?team=SFTWR",
+      "identifier": "Software Engineer (iOS & Gen AI), Sales Engineerin_i-sales-engineering?team=SFTWR"
+    },
+    {
       "title": "Triage Screener, Vision Products Software",
       "url": "https://jobs.apple.com/en-us/details/200650596-2605/triage-screener-vision-products-software?team=SFTWR",
       "identifier": "Triage Screener, Vision Products Software_n-products-software?team=SFTWR"
@@ -62,23 +77,8 @@
       "title": "Software Engineer - Traffic, Envoy",
       "url": "https://jobs.apple.com/en-us/details/200655221-3337/software-engineer-traffic-envoy?team=SFTWR",
       "identifier": "Software Engineer - Traffic, Envoy_ineer-traffic-envoy?team=SFTWR"
-    },
-    {
-      "title": "Senior Security Engineering Manager",
-      "url": "https://jobs.apple.com/en-us/details/200643802-3337/senior-security-engineering-manager?team=SFTWR",
-      "identifier": "Senior Security Engineering Manager_engineering-manager?team=SFTWR"
-    },
-    {
-      "title": "Senior Software Engineer - ASE Data Platform",
-      "url": "https://jobs.apple.com/en-us/details/200653279-3337/senior-software-engineer-ase-data-platform?team=SFTWR",
-      "identifier": "Senior Software Engineer - ASE Data Platform_r-ase-data-platform?team=SFTWR"
-    },
-    {
-      "title": "Senior ML Engineer, Robotics - Special Projects",
-      "url": "https://jobs.apple.com/en-us/details/200654494-3760/senior-ml-engineer-robotics-special-projects?team=MLAI",
-      "identifier": "Senior ML Engineer, Robotics - Special Projects_ics-special-projects?team=MLAI"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-02T18:06:54.750794"
+  "timestamp": "2026-04-02T18:24:06.014480"
 }

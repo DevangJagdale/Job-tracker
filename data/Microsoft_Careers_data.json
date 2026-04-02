@@ -4,17 +4,27 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Software Engineer\nUnited States, Washington, Redmond\nPosted 11 minutes ago",
+      "title": "Software Engineering IC3\nUnited States, Washington, Redmond\nPosted 7 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556842427?domain=microsoft.com",
+      "identifier": "Software Engineering IC3\nUnited States, Washington_556842427?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 9 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556847585?domain=microsoft.com",
+      "identifier": "Senior Software Engineer\nUnited States, Multiple L_556847585?domain=microsoft.com"
+    },
+    {
+      "title": "Software Engineer\nUnited States, Washington, Redmond\nPosted 28 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556855348?domain=microsoft.com",
       "identifier": "Software Engineer\nUnited States, Washington, Redmo_556855348?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer - Web Shared UX\nUnited States, Washington, Redmond\nPosted 32 minutes ago",
+      "title": "Senior Software Engineer - Web Shared UX\nUnited States, Washington, Redmond\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556852414?domain=microsoft.com",
       "identifier": "Senior Software Engineer - Web Shared UX\nUnited St_556852414?domain=microsoft.com"
     },
     {
-      "title": "Member of Technical Staff, Principal Engineering Manager\nUnited States, Washington, Redmond\nPosted 38 minutes ago",
+      "title": "Member of Technical Staff, Principal Engineering Manager\nUnited States, Washington, Redmond\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556856217?domain=microsoft.com",
       "identifier": "Member of Technical Staff, Principal Engineering M_556856217?domain=microsoft.com"
     },
@@ -42,18 +52,8 @@
       "title": "Senior Data Scientist\nUnited States, Multiple Locations, Multiple Locations + 8 more\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556833959?domain=microsoft.com",
       "identifier": "Senior Data Scientist\nUnited States, Multiple Loca_556833959?domain=microsoft.com"
-    },
-    {
-      "title": "Principal Software Engineer\nUnited States, Multiple Locations, Multiple Locations + 8 more\nPosted 2 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556833955?domain=microsoft.com",
-      "identifier": "Principal Software Engineer\nUnited States, Multipl_556833955?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Software Engineer - Azure Networking\nUnited States, Multiple Locations, Multiple Locations\nPosted 2 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556658397?domain=microsoft.com",
-      "identifier": "Senior Software Engineer - Azure Networking\nUnited_556658397?domain=microsoft.com"
     }
   ],
-  "job_count_text": "770",
-  "timestamp": "2026-04-02T16:57:46.127580"
+  "job_count_text": "771",
+  "timestamp": "2026-04-02T17:15:00.579945"
 }

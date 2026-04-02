@@ -1,8 +1,18 @@
 {
   "page_title": "| Microsoft Careers",
   "url": "https://apply.careers.microsoft.com/careers?domain=microsoft.com&start=0&location=United+States&sort_by=timestamp&filter_include_remote=1&filter_profession=software+engineering%2Cresearch%252C%2520applied%252C%2520%2526%2520data%2520sciences",
-  "total_jobs": 9,
+  "total_jobs": 10,
   "jobs": [
+    {
+      "title": "Senior Software Engineer - Web Shared UX\nUnited States, Washington, Redmond\nPosted 12 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556852414?domain=microsoft.com",
+      "identifier": "Senior Software Engineer - Web Shared UX\nUnited St_556852414?domain=microsoft.com"
+    },
+    {
+      "title": "Member of Technical Staff, Principal Engineering Manager\nUnited States, Washington, Redmond\nPosted 18 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556856217?domain=microsoft.com",
+      "identifier": "Member of Technical Staff, Principal Engineering M_556856217?domain=microsoft.com"
+    },
     {
       "title": "Senior Applied Scientist\nUnited States, California, Mountain View\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556853053?domain=microsoft.com",
@@ -39,16 +49,11 @@
       "identifier": "Senior Software Engineer - Azure Networking\nUnited_556658397?domain=microsoft.com"
     },
     {
-      "title": "Applied Scientist\nUnited States, Washington, Redmond\nPosted 4 hours ago",
+      "title": "Applied Scientist\nUnited States, Washington, Redmond\nPosted 5 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556638577?domain=microsoft.com",
       "identifier": "Applied Scientist\nUnited States, Washington, Redmo_556638577?domain=microsoft.com"
-    },
-    {
-      "title": "Software Engineering II\nUnited States, Washington, Redmond\nPosted 12 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556637106?domain=microsoft.com",
-      "identifier": "Software Engineering II\nUnited States, Washington,_556637106?domain=microsoft.com"
     }
   ],
-  "job_count_text": "769",
-  "timestamp": "2026-04-02T16:19:49.524420"
+  "job_count_text": "771",
+  "timestamp": "2026-04-02T16:37:30.228390"
 }

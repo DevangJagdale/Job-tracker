@@ -4,24 +4,19 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Change Management Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
-      "url": "https://careers.micron.com/careers/job/38368336",
-      "identifier": "Change Management Engineer\nBoise, Idaho, United St_icron.com/careers/job/38368336"
-    },
-    {
       "title": "US FE Expansion Planning Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/40986798",
       "identifier": "US FE Expansion Planning Engineer\nBoise, Idaho, Un_icron.com/careers/job/40986798"
     },
     {
+      "title": "Change Management Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/38368336",
+      "identifier": "Change Management Engineer\nBoise, Idaho, United St_icron.com/careers/job/38368336"
+    },
+    {
       "title": "Industrial Engineer, DPAG\nBoise, Idaho, United States of America\nPosted 2 days ago",
       "url": "https://careers.micron.com/careers/job/41159842",
       "identifier": "Industrial Engineer, DPAG\nBoise, Idaho, United Sta_icron.com/careers/job/41159842"
-    },
-    {
-      "title": "Semiconductor Process Photo Engineer\nBoise, Idaho, United States of America\nPosted 3 days ago",
-      "url": "https://careers.micron.com/careers/job/41170181",
-      "identifier": "Semiconductor Process Photo Engineer\nBoise, Idaho,_icron.com/careers/job/41170181"
     },
     {
       "title": "Design Characterization Engineer\nSan Jose, California, United States of America\nPosted 3 days ago",
@@ -39,21 +34,26 @@
       "identifier": "Semiconductor Design Engineer\nRichardson, Texas, U_icron.com/careers/job/41139930"
     },
     {
-      "title": "New College Grad - Silicon Planning Engineer\nBoise, Idaho, United States of America\nPosted 4 days ago",
-      "url": "https://careers.micron.com/careers/job/41138334",
-      "identifier": "New College Grad - Silicon Planning Engineer\nBoise_icron.com/careers/job/41138334"
-    },
-    {
       "title": "AI Solution Intake & Feasibility Analyst\nBoise, Idaho, United States of America\nPosted 4 days ago",
       "url": "https://careers.micron.com/careers/job/39315395",
       "identifier": "AI Solution Intake & Feasibility Analyst\nBoise, Id_icron.com/careers/job/39315395"
     },
     {
-      "title": "Systems Software Engineer\nFolsom, California, United States of America\nPosted 7 days ago",
-      "url": "https://careers.micron.com/careers/job/41062686",
-      "identifier": "Systems Software Engineer\nFolsom, California, Unit_icron.com/careers/job/41062686"
+      "title": "New College Grad - Silicon Planning Engineer\nBoise, Idaho, United States of America\nPosted 4 days ago",
+      "url": "https://careers.micron.com/careers/job/41138334",
+      "identifier": "New College Grad - Silicon Planning Engineer\nBoise_icron.com/careers/job/41138334"
+    },
+    {
+      "title": "New College Grad - Supply Chain Planner\nBoise, Idaho, United States of America\nPosted 7 days ago",
+      "url": "https://careers.micron.com/careers/job/41084880",
+      "identifier": "New College Grad - Supply Chain Planner\nBoise, Ida_icron.com/careers/job/41084880"
+    },
+    {
+      "title": "Product Manager\nBoise, Idaho, United States of America\nPosted 7 days ago",
+      "url": "https://careers.micron.com/careers/job/41063411",
+      "identifier": "Product Manager\nBoise, Idaho, United States of Ame_icron.com/careers/job/41063411"
     }
   ],
-  "job_count_text": "73",
-  "timestamp": "2026-04-02T22:39:08.794465"
+  "job_count_text": "72",
+  "timestamp": "2026-04-02T22:56:18.365005"
 }

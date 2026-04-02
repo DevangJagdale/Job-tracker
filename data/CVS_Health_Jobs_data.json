@@ -4,6 +4,21 @@
   "total_jobs": 8,
   "jobs": [
     {
+      "title": "Staff Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0866502/Staff-Software-Development-Engineer",
+      "identifier": "Staff Software Development Engineer_-Software-Development-Engineer"
+    },
+    {
+      "title": "Staff Solutions Engineer - Manhattan Active Warehouse Management",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0859681/Staff-Solutions-Engineer-Manhattan-Active-Warehouse-Management",
+      "identifier": "Staff Solutions Engineer - Manhattan Active Wareho_an-Active-Warehouse-Management"
+    },
+    {
+      "title": "Business Analyst - ServiceNow HRSD",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0840851/Business-Analyst-ServiceNow-HRSD",
+      "identifier": "Business Analyst - ServiceNow HRSD_siness-Analyst-ServiceNow-HRSD"
+    },
+    {
       "title": "Sr Analyst, Application Development",
       "url": "https://jobs.cvshealth.com/us/en/job/R0874411/Sr-Analyst-Application-Development",
       "identifier": "Sr Analyst, Application Development_nalyst-Application-Development"
@@ -27,23 +42,8 @@
       "title": "Field Technician",
       "url": "https://jobs.cvshealth.com/us/en/job/R0870653/Field-Technician",
       "identifier": "Field Technician_/job/R0870653/Field-Technician"
-    },
-    {
-      "title": "Help Desk Support Specialist",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0834893/Help-Desk-Support-Specialist",
-      "identifier": "Help Desk Support Specialist_3/Help-Desk-Support-Specialist"
-    },
-    {
-      "title": "Lead Director - Software Development Engineering",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0773293/Lead-Director-Software-Development-Engineering",
-      "identifier": "Lead Director - Software Development Engineering_ftware-Development-Engineering"
-    },
-    {
-      "title": "Senior Manager - Client Operations (IC)",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0857040/Senior-Manager-Client-Operations-IC",
-      "identifier": "Senior Manager - Client Operations (IC)_r-Manager-Client-Operations-IC"
     }
   ],
-  "job_count_text": "34",
-  "timestamp": "2026-04-02T14:07:03.149325"
+  "job_count_text": "36",
+  "timestamp": "2026-04-02T14:25:30.329655"
 }

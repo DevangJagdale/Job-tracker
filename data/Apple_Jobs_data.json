@@ -69,11 +69,6 @@
       "identifier": "Software Engineer (iOS & Gen AI), Sales Engineerin_i-sales-engineering?team=SFTWR"
     },
     {
-      "title": "Triage Screener, Vision Products Software",
-      "url": "https://jobs.apple.com/en-us/details/200650596-2605/triage-screener-vision-products-software?team=SFTWR",
-      "identifier": "Triage Screener, Vision Products Software_n-products-software?team=SFTWR"
-    },
-    {
       "title": "Senior Software Data Engineer",
       "url": "https://jobs.apple.com/en-us/details/200652474-3337/senior-software-data-engineer?team=SFTWR",
       "identifier": "Senior Software Data Engineer_tware-data-engineer?team=SFTWR"
@@ -92,8 +87,13 @@
       "title": "Engineering Project Manager (SAP Landscape Modernization), IS&T Enterprise Systems",
       "url": "https://jobs.apple.com/en-us/details/200653523-3401/engineering-project-manager-sap-landscape-modernization-is-t-enterprise-systems?team=SFTWR",
       "identifier": "Engineering Project Manager (SAP Landscape Moderni_-enterprise-systems?team=SFTWR"
+    },
+    {
+      "title": "Senior Backend Software Engineer (Golang)",
+      "url": "https://jobs.apple.com/en-us/details/200636450-0157/senior-backend-software-engineer-golang?team=SFTWR",
+      "identifier": "Senior Backend Software Engineer (Golang)_are-engineer-golang?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-02T21:27:33.070017"
+  "timestamp": "2026-04-02T21:44:40.583508"
 }

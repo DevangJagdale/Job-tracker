@@ -9,11 +9,6 @@
       "identifier": "Check Application Status_ims.com/jobs/login?loginOnly=1"
     },
     {
-      "title": "Sr. Data Engineer, Enterprise Data & Analytics",
-      "url": "https://careers.rivian.com/careers-home/jobs/27910?lang=en-us&previousLocale=en-US",
-      "identifier": "Sr. Data Engineer, Enterprise Data & Analytics_ang=en-us&previousLocale=en-US"
-    },
-    {
       "title": "Sr. Cybersecurity Engineer",
       "url": "https://careers.rivian.com/careers-home/jobs/28786?lang=en-us&previousLocale=en-US",
       "identifier": "Sr. Cybersecurity Engineer_ang=en-us&previousLocale=en-US"
@@ -57,8 +52,13 @@
       "title": "Staff Linux Engineer",
       "url": "https://careers.rivian.com/careers-home/jobs/27930?lang=en-us&previousLocale=en-US",
       "identifier": "Staff Linux Engineer_ang=en-us&previousLocale=en-US"
+    },
+    {
+      "title": "Senior Software Engineer, Supply Chain",
+      "url": "https://careers.rivian.com/careers-home/jobs/29156?lang=en-us&previousLocale=en-US",
+      "identifier": "Senior Software Engineer, Supply Chain_ang=en-us&previousLocale=en-US"
     }
   ],
-  "job_count_text": "35",
-  "timestamp": "2026-04-02T03:46:54.661307"
+  "job_count_text": "34",
+  "timestamp": "2026-04-02T04:04:04.600324"
 }

@@ -4,6 +4,11 @@
   "total_jobs": 13,
   "jobs": [
     {
+      "title": "Engineering Project Manager (SAP Landscape Modernization), IS&T Enterprise Systems",
+      "url": "https://jobs.apple.com/en-us/details/200653523-3401/engineering-project-manager-sap-landscape-modernization-is-t-enterprise-systems?team=SFTWR",
+      "identifier": "Engineering Project Manager (SAP Landscape Moderni_-enterprise-systems?team=SFTWR"
+    },
+    {
       "title": "Senior Backend Software Engineer (Golang)",
       "url": "https://jobs.apple.com/en-us/details/200636450-0157/senior-backend-software-engineer-golang?team=SFTWR",
       "identifier": "Senior Backend Software Engineer (Golang)_are-engineer-golang?team=SFTWR"
@@ -62,13 +67,8 @@
       "title": "Tools and Automation Engineer - Trust and Safety",
       "url": "https://jobs.apple.com/en-us/details/200655217-0836/tools-and-automation-engineer-trust-and-safety?team=SFTWR",
       "identifier": "Tools and Automation Engineer - Trust and Safety_er-trust-and-safety?team=SFTWR"
-    },
-    {
-      "title": "Staff Engineer, App Store Analytics & Data Engineering",
-      "url": "https://jobs.apple.com/en-us/details/200653318-0836/staff-engineer-app-store-analytics-data-engineering?team=SFTWR",
-      "identifier": "Staff Engineer, App Store Analytics & Data Enginee_cs-data-engineering?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-02T14:49:13.781978"
+  "timestamp": "2026-04-02T15:09:11.025443"
 }

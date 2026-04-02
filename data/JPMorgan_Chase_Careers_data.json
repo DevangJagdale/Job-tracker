@@ -69,11 +69,6 @@
       "identifier": "jpmc_210729736"
     },
     {
-      "title": "Data Science Senior Associate - Card Data & Analytics",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210730223/?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
-      "identifier": "jpmc_210730223"
-    },
-    {
       "title": "Machine Learning Scientist - Natural Language Processing (NLP) - Vice President - Machine Learning Center of Excellence",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210730505/?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
       "identifier": "jpmc_210730505"
@@ -127,8 +122,13 @@
       "title": "Lead Software Engineer-Agentic/Java",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210711813/?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
       "identifier": "jpmc_210711813"
+    },
+    {
+      "title": "Lead Software Engineer-Agentic/Java",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210711815/?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
+      "identifier": "jpmc_210711815"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-02T03:01:06.333530"
+  "timestamp": "2026-04-02T03:18:05.892563"
 }

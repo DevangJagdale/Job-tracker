@@ -4,6 +4,16 @@
   "total_jobs": 17,
   "jobs": [
     {
+      "title": "Engineering Manager - Compute Node Software",
+      "url": "https://jobs.apple.com/en-us/details/200653295-3337/engineering-manager-compute-node-software?team=SFTWR",
+      "identifier": "Engineering Manager - Compute Node Software_mpute-node-software?team=SFTWR"
+    },
+    {
+      "title": "Engineering Manager - Cloud Compute Software",
+      "url": "https://jobs.apple.com/en-us/details/200653299-0836/engineering-manager-cloud-compute-software?team=SFTWR",
+      "identifier": "Engineering Manager - Cloud Compute Software_ud-compute-software?team=SFTWR"
+    },
+    {
       "title": "Engineering Program Manager, Security Infrastructure, Apple Services Engineering",
       "url": "https://jobs.apple.com/en-us/details/200654127-3337/engineering-program-manager-security-infrastructure-apple-services-engineering?team=SFTWR",
       "identifier": "Engineering Program Manager, Security Infrastructu_ervices-engineering?team=SFTWR"
@@ -77,18 +87,8 @@
       "title": "Senior Backend Software Engineer (Golang)",
       "url": "https://jobs.apple.com/en-us/details/200636450-0157/senior-backend-software-engineer-golang?team=SFTWR",
       "identifier": "Senior Backend Software Engineer (Golang)_are-engineer-golang?team=SFTWR"
-    },
-    {
-      "title": "Optical Systems Integration Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200654988-0836/optical-systems-integration-engineer?team=SFTWR",
-      "identifier": "Optical Systems Integration Engineer_ntegration-engineer?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer (SAP Application Engineer), IS&T Enterprise Systems",
-      "url": "https://jobs.apple.com/en-us/details/200637828-0240/software-engineer-sap-application-engineer-is-t-enterprise-systems?team=SFTWR",
-      "identifier": "Software Engineer (SAP Application Engineer), IS&T_-enterprise-systems?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-02T20:36:10.883922"
+  "timestamp": "2026-04-02T20:53:15.518820"
 }

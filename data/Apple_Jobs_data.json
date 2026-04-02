@@ -1,8 +1,13 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 13,
+  "total_jobs": 12,
   "jobs": [
+    {
+      "title": "Principal Product Manager - Claris",
+      "url": "https://jobs.apple.com/en-us/details/200643356-3956/principal-product-manager-claris?team=SFTWR",
+      "identifier": "Principal Product Manager - Claris_duct-manager-claris?team=SFTWR"
+    },
     {
       "title": "Engineering Project Manager (SAP Landscape Modernization), IS&T Enterprise Systems",
       "url": "https://jobs.apple.com/en-us/details/200653523-3401/engineering-project-manager-sap-landscape-modernization-is-t-enterprise-systems?team=SFTWR",
@@ -57,18 +62,8 @@
       "title": "Senior ML Engineer, Robotics - Special Projects",
       "url": "https://jobs.apple.com/en-us/details/200654494-3760/senior-ml-engineer-robotics-special-projects?team=MLAI",
       "identifier": "Senior ML Engineer, Robotics - Special Projects_ics-special-projects?team=MLAI"
-    },
-    {
-      "title": "Software QA Engineer, Siri Speech",
-      "url": "https://jobs.apple.com/en-us/details/200654955-0836/software-qa-engineer-siri-speech?team=SFTWR",
-      "identifier": "Software QA Engineer, Siri Speech_ngineer-siri-speech?team=SFTWR"
-    },
-    {
-      "title": "Tools and Automation Engineer - Trust and Safety",
-      "url": "https://jobs.apple.com/en-us/details/200655217-0836/tools-and-automation-engineer-trust-and-safety?team=SFTWR",
-      "identifier": "Tools and Automation Engineer - Trust and Safety_er-trust-and-safety?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-02T16:01:09.173623"
+  "timestamp": "2026-04-02T16:20:05.300876"
 }

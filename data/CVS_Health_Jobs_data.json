@@ -4,6 +4,11 @@
   "total_jobs": 8,
   "jobs": [
     {
+      "title": "Senior Software Quality Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0860353/Senior-Software-Quality-Engineer",
+      "identifier": "Senior Software Quality Engineer_nior-Software-Quality-Engineer"
+    },
+    {
       "title": "Sr Analyst, Application Development",
       "url": "https://jobs.cvshealth.com/us/en/job/R0874411/Sr-Analyst-Application-Development",
       "identifier": "Sr Analyst, Application Development_nalyst-Application-Development"
@@ -14,19 +19,9 @@
       "identifier": "Senior Anaplan Architect-2_351/Senior-Anaplan-Architect-2"
     },
     {
-      "title": "Senior Software Quality Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0860353/Senior-Software-Quality-Engineer",
-      "identifier": "Senior Software Quality Engineer_nior-Software-Quality-Engineer"
-    },
-    {
       "title": "Junior Quality Engineer",
       "url": "https://jobs.cvshealth.com/us/en/job/R0814889/Junior-Quality-Engineer",
       "identifier": "Junior Quality Engineer_814889/Junior-Quality-Engineer"
-    },
-    {
-      "title": "Field Technician",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0870653/Field-Technician",
-      "identifier": "Field Technician_/job/R0870653/Field-Technician"
     },
     {
       "title": "Help Desk Support Specialist",
@@ -34,16 +29,21 @@
       "identifier": "Help Desk Support Specialist_3/Help-Desk-Support-Specialist"
     },
     {
+      "title": "Field Technician",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0870653/Field-Technician",
+      "identifier": "Field Technician_/job/R0870653/Field-Technician"
+    },
+    {
       "title": "Lead Director - Software Development Engineering",
       "url": "https://jobs.cvshealth.com/us/en/job/R0773293/Lead-Director-Software-Development-Engineering",
       "identifier": "Lead Director - Software Development Engineering_ftware-Development-Engineering"
     },
     {
-      "title": "Senior Manager - Client Operations (IC)",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0857040/Senior-Manager-Client-Operations-IC",
-      "identifier": "Senior Manager - Client Operations (IC)_r-Manager-Client-Operations-IC"
+      "title": "Senior Manager ACAS/Commercial Benefits Testing",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0871984/Senior-Manager-ACAS-Commercial-Benefits-Testing",
+      "identifier": "Senior Manager ACAS/Commercial Benefits Testing_AS-Commercial-Benefits-Testing"
     }
   ],
   "job_count_text": "34",
-  "timestamp": "2026-04-02T09:14:28.786866"
+  "timestamp": "2026-04-02T09:31:32.257417"
 }

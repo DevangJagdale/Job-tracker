@@ -1,7 +1,7 @@
 {
   "page_title": "Search our Job Opportunities at Barclays",
   "url": "https://search.jobs.barclays/search-jobs/United%20States/13015/2/6252001/39x76/-98x5/50/2",
-  "total_jobs": 14,
+  "total_jobs": 15,
   "jobs": [
     {
       "title": "Laws, Rules, and Regulations Oversight Risk - AVP",
@@ -22,6 +22,11 @@
       "title": "Banking Finance Business Partner AVP",
       "url": "https://search.jobs.barclays/job/new-york/banking-finance-business-partner-avp/13015/93474468448",
       "identifier": "Banking Finance Business Partner AVP_-partner-avp/13015/93474468448"
+    },
+    {
+      "title": "Technical Data Analyst, AVP",
+      "url": "https://search.jobs.barclays/job/whippany/technical-data-analyst-avp/13015/93462019120",
+      "identifier": "Technical Data Analyst, AVP_-analyst-avp/13015/93462019120"
     },
     {
       "title": "US Basel Regulatory Capital Reporting VP",
@@ -74,6 +79,6 @@
       "identifier": "Digital Acquisitions Lead_sitions-lead/13015/93398023712"
     }
   ],
-  "job_count_text": "103",
-  "timestamp": "2026-04-02T11:31:45.999495"
+  "job_count_text": "101",
+  "timestamp": "2026-04-02T11:48:50.545196"
 }

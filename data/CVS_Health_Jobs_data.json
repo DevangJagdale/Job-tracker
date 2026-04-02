@@ -4,34 +4,14 @@
   "total_jobs": 8,
   "jobs": [
     {
-      "title": "Senior Engineering Manager",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0847003/Senior-Engineering-Manager",
-      "identifier": "Senior Engineering Manager_003/Senior-Engineering-Manager"
+      "title": "Senior Anaplan Architect-2",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0866351/Senior-Anaplan-Architect-2",
+      "identifier": "Senior Anaplan Architect-2_351/Senior-Anaplan-Architect-2"
     },
     {
-      "title": "Salesforce Devops Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0869573/Salesforce-Devops-Engineer",
-      "identifier": "Salesforce Devops Engineer_573/Salesforce-Devops-Engineer"
-    },
-    {
-      "title": "Salesforce Devops Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0872438/Salesforce-Devops-Engineer",
-      "identifier": "Salesforce Devops Engineer_438/Salesforce-Devops-Engineer"
-    },
-    {
-      "title": "Senior Manager - Software Development Engineering (Connected PBM)",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0862601/Senior-Manager-Software-Development-Engineering-Connected-PBM",
-      "identifier": "Senior Manager - Software Development Engineering _ment-Engineering-Connected-PBM"
-    },
-    {
-      "title": "Staff Software Development Engineer (Full Stack/Cloud)",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0815913/Staff-Software-Development-Engineer-Full-Stack-Cloud",
-      "identifier": "Staff Software Development Engineer (Full Stack/Cl_ment-Engineer-Full-Stack-Cloud"
-    },
-    {
-      "title": "Senior Manager - Enterprise Observability Strategy and Governance",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0851431/Senior-Manager-Enterprise-Observability-Strategy-and-Governance",
-      "identifier": "Senior Manager - Enterprise Observability Strategy_bility-Strategy-and-Governance"
+      "title": "Junior Quality Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0814889/Junior-Quality-Engineer",
+      "identifier": "Junior Quality Engineer_814889/Junior-Quality-Engineer"
     },
     {
       "title": "Senior Software Quality Engineer",
@@ -39,11 +19,31 @@
       "identifier": "Senior Software Quality Engineer_nior-Software-Quality-Engineer"
     },
     {
-      "title": "Staff Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0783061/Staff-Software-Development-Engineer",
-      "identifier": "Staff Software Development Engineer_-Software-Development-Engineer"
+      "title": "Sr Analyst, Application Development",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0874411/Sr-Analyst-Application-Development",
+      "identifier": "Sr Analyst, Application Development_nalyst-Application-Development"
+    },
+    {
+      "title": "Help Desk Support Specialist",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0834893/Help-Desk-Support-Specialist",
+      "identifier": "Help Desk Support Specialist_3/Help-Desk-Support-Specialist"
+    },
+    {
+      "title": "Field Technician",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0870653/Field-Technician",
+      "identifier": "Field Technician_/job/R0870653/Field-Technician"
+    },
+    {
+      "title": "Lead Director - Software Development Engineering",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0773293/Lead-Director-Software-Development-Engineering",
+      "identifier": "Lead Director - Software Development Engineering_ftware-Development-Engineering"
+    },
+    {
+      "title": "Senior Manager ACAS/Commercial Benefits Testing",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0871984/Senior-Manager-ACAS-Commercial-Benefits-Testing",
+      "identifier": "Senior Manager ACAS/Commercial Benefits Testing_AS-Commercial-Benefits-Testing"
     }
   ],
-  "job_count_text": "47",
-  "timestamp": "2026-04-02T06:15:49.337250"
+  "job_count_text": "34",
+  "timestamp": "2026-04-02T06:32:58.630470"
 }

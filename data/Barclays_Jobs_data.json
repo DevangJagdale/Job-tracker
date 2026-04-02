@@ -4,6 +4,26 @@
   "total_jobs": 15,
   "jobs": [
     {
+      "title": "Senior Full Stack Engineer \u2013 AVP",
+      "url": "https://search.jobs.barclays/job/whippany/senior-full-stack-engineer-avp/13015/93499644032",
+      "identifier": "Senior Full Stack Engineer \u2013 AVP_engineer-avp/13015/93499644032"
+    },
+    {
+      "title": "Principal Full Stack Engineer - VP",
+      "url": "https://search.jobs.barclays/job/whippany/principal-full-stack-engineer-vp/13015/93499643984",
+      "identifier": "Principal Full Stack Engineer - VP_-engineer-vp/13015/93499643984"
+    },
+    {
+      "title": "Senior Data Engineer \u2013 VP",
+      "url": "https://search.jobs.barclays/job/new-york/senior-data-engineer-vp/13015/93499629920",
+      "identifier": "Senior Data Engineer \u2013 VP_-engineer-vp/13015/93499629920"
+    },
+    {
+      "title": "Senior Data Engineer \u2013 VP",
+      "url": "https://search.jobs.barclays/job/new-york/senior-data-engineer-vp/13015/93499629216",
+      "identifier": "Senior Data Engineer \u2013 VP_-engineer-vp/13015/93499629216"
+    },
+    {
       "title": "Laws, Rules, and Regulations Oversight Risk - AVP",
       "url": "https://search.jobs.barclays/job/new-york/laws-rules-and-regulations-oversight-risk-avp/13015/93474483200",
       "identifier": "Laws, Rules, and Regulations Oversight Risk - AVP_ght-risk-avp/13015/93474483200"
@@ -57,28 +77,8 @@
       "title": "Business Information Security Officer",
       "url": "https://search.jobs.barclays/job/whippany/business-information-security-officer/13015/93422761600",
       "identifier": "Business Information Security Officer_rity-officer/13015/93422761600"
-    },
-    {
-      "title": "Business Information Security Officer",
-      "url": "https://search.jobs.barclays/job/whippany/business-information-security-officer/13015/93422761552",
-      "identifier": "Business Information Security Officer_rity-officer/13015/93422761552"
-    },
-    {
-      "title": "Group Technology Strategy Lead",
-      "url": "https://search.jobs.barclays/job/new-york/group-technology-strategy-lead/13015/93398025680",
-      "identifier": "Group Technology Strategy Lead_trategy-lead/13015/93398025680"
-    },
-    {
-      "title": "Credit Acquisition Strategies \u2013 Vice President",
-      "url": "https://search.jobs.barclays/job/wilmington/credit-acquisition-strategies-vice-president/13015/93398023904",
-      "identifier": "Credit Acquisition Strategies \u2013 Vice President_ce-president/13015/93398023904"
-    },
-    {
-      "title": "Digital Acquisitions Lead",
-      "url": "https://search.jobs.barclays/job/wilmington/digital-acquisitions-lead/13015/93398023712",
-      "identifier": "Digital Acquisitions Lead_sitions-lead/13015/93398023712"
     }
   ],
-  "job_count_text": "101",
-  "timestamp": "2026-04-02T17:31:56.381346"
+  "job_count_text": "106",
+  "timestamp": "2026-04-02T17:49:08.800000"
 }

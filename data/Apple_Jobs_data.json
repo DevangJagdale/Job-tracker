@@ -4,6 +4,11 @@
   "total_jobs": 15,
   "jobs": [
     {
+      "title": "Sr. Software Engineering Manager, Intelligent System Experience",
+      "url": "https://jobs.apple.com/en-us/details/200652732-0836/sr-software-engineering-manager-intelligent-system-experience?team=SFTWR",
+      "identifier": "Sr. Software Engineering Manager, Intelligent Syst_t-system-experience?team=SFTWR"
+    },
+    {
       "title": "Staff Software Engineer (Apache Spark Poweruser / Committer)",
       "url": "https://jobs.apple.com/en-us/details/200655487-3337/staff-software-engineer-apache-spark-poweruser-committer?team=SFTWR",
       "identifier": "Staff Software Engineer (Apache Spark Poweruser / _poweruser-committer?team=SFTWR"
@@ -72,13 +77,8 @@
       "title": "Sr. Ruby on Rails Engineer, ASE",
       "url": "https://jobs.apple.com/en-us/details/200654205-3337/sr-ruby-on-rails-engineer-ase?team=SFTWR",
       "identifier": "Sr. Ruby on Rails Engineer, ASE_-rails-engineer-ase?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer - Traffic, Envoy",
-      "url": "https://jobs.apple.com/en-us/details/200655221-3337/software-engineer-traffic-envoy?team=SFTWR",
-      "identifier": "Software Engineer - Traffic, Envoy_ineer-traffic-envoy?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-02T18:24:06.014480"
+  "timestamp": "2026-04-02T18:41:18.932312"
 }

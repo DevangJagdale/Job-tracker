@@ -4,6 +4,11 @@
   "total_jobs": 15,
   "jobs": [
     {
+      "title": "Audio Quality Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200655292-3543/audio-quality-engineer?team=SFTWR",
+      "identifier": "Audio Quality Engineer_io-quality-engineer?team=SFTWR"
+    },
+    {
       "title": "Sr. Software Engineering Manager, Intelligent System Experience",
       "url": "https://jobs.apple.com/en-us/details/200652732-0836/sr-software-engineering-manager-intelligent-system-experience?team=SFTWR",
       "identifier": "Sr. Software Engineering Manager, Intelligent Syst_t-system-experience?team=SFTWR"
@@ -72,13 +77,8 @@
       "title": "Machine Learning Engineer - Strategic Data Solutions",
       "url": "https://jobs.apple.com/en-us/details/200650806-0157/machine-learning-engineer-strategic-data-solutions?team=SFTWR",
       "identifier": "Machine Learning Engineer - Strategic Data Solutio_egic-data-solutions?team=SFTWR"
-    },
-    {
-      "title": "Sr. Ruby on Rails Engineer, ASE",
-      "url": "https://jobs.apple.com/en-us/details/200654205-3337/sr-ruby-on-rails-engineer-ase?team=SFTWR",
-      "identifier": "Sr. Ruby on Rails Engineer, ASE_-rails-engineer-ase?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-02T19:16:11.626000"
+  "timestamp": "2026-04-02T19:36:13.803035"
 }

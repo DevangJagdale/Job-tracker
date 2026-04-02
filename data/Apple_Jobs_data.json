@@ -1,8 +1,18 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 17,
+  "total_jobs": 18,
   "jobs": [
+    {
+      "title": "Site Reliability Engineer, Enterprise Technology Services",
+      "url": "https://jobs.apple.com/en-us/details/200654823-3956/site-reliability-engineer-enterprise-technology-services?team=SFTWR",
+      "identifier": "Site Reliability Engineer, Enterprise Technology S_technology-services?team=SFTWR"
+    },
+    {
+      "title": "ML Data Program Manager",
+      "url": "https://jobs.apple.com/en-us/details/200621002-0836/ml-data-program-manager?team=SFTWR",
+      "identifier": "ML Data Program Manager_ata-program-manager?team=SFTWR"
+    },
     {
       "title": "Engineering Manager - Compute Node Software",
       "url": "https://jobs.apple.com/en-us/details/200653295-3337/engineering-manager-compute-node-software?team=SFTWR",
@@ -82,13 +92,8 @@
       "title": "Engineering Project Manager (SAP Landscape Modernization), IS&T Enterprise Systems",
       "url": "https://jobs.apple.com/en-us/details/200653523-3401/engineering-project-manager-sap-landscape-modernization-is-t-enterprise-systems?team=SFTWR",
       "identifier": "Engineering Project Manager (SAP Landscape Moderni_-enterprise-systems?team=SFTWR"
-    },
-    {
-      "title": "Senior Backend Software Engineer (Golang)",
-      "url": "https://jobs.apple.com/en-us/details/200636450-0157/senior-backend-software-engineer-golang?team=SFTWR",
-      "identifier": "Senior Backend Software Engineer (Golang)_are-engineer-golang?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-02T21:10:25.416357"
+  "timestamp": "2026-04-02T21:27:33.070017"
 }

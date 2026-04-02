@@ -4,6 +4,11 @@
   "total_jobs": 17,
   "jobs": [
     {
+      "title": "Engineering Program Manager, Security Infrastructure, Apple Services Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200654127-3337/engineering-program-manager-security-infrastructure-apple-services-engineering?team=SFTWR",
+      "identifier": "Engineering Program Manager, Security Infrastructu_ervices-engineering?team=SFTWR"
+    },
+    {
       "title": "Security Engineer - Deep Dive",
       "url": "https://jobs.apple.com/en-us/details/200654482-3337/security-engineer-deep-dive?team=SFTWR",
       "identifier": "Security Engineer - Deep Dive_-engineer-deep-dive?team=SFTWR"
@@ -82,13 +87,8 @@
       "title": "Software Engineer (SAP Application Engineer), IS&T Enterprise Systems",
       "url": "https://jobs.apple.com/en-us/details/200637828-0240/software-engineer-sap-application-engineer-is-t-enterprise-systems?team=SFTWR",
       "identifier": "Software Engineer (SAP Application Engineer), IS&T_-enterprise-systems?team=SFTWR"
-    },
-    {
-      "title": "UI Designer - Music Creation Apps",
-      "url": "https://jobs.apple.com/en-us/details/200654800-0670/ui-designer-music-creation-apps?team=SFTWR",
-      "identifier": "UI Designer - Music Creation Apps_music-creation-apps?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-02T20:01:17.051583"
+  "timestamp": "2026-04-02T20:18:28.999495"
 }

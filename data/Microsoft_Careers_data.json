@@ -4,17 +4,22 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Senior Applied AI Engineer\nUnited States, Washington, Redmond\nPosted 36 minutes ago",
+      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 27 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556744821?domain=microsoft.com",
+      "identifier": "Software Engineer II\nUnited States, Washington, Re_556744821?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Applied AI Engineer\nUnited States, Washington, Redmond\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556856283?domain=microsoft.com",
       "identifier": "Senior Applied AI Engineer\nUnited States, Washingt_556856283?domain=microsoft.com"
     },
     {
-      "title": "Software Engineer II\nUnited States, Multiple Locations, Multiple Locations\nPosted an hour ago",
+      "title": "Software Engineer II\nUnited States, Multiple Locations, Multiple Locations\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556619256?domain=microsoft.com",
       "identifier": "Software Engineer II\nUnited States, Multiple Locat_556619256?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer - Microsoft AI, Copilot\nUnited States, Washington, Redmond + 2 more\nPosted an hour ago",
+      "title": "Senior Software Engineer - Microsoft AI, Copilot\nUnited States, Washington, Redmond + 2 more\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556631021?domain=microsoft.com",
       "identifier": "Senior Software Engineer - Microsoft AI, Copilot\nU_556631021?domain=microsoft.com"
     },
@@ -29,7 +34,7 @@
       "identifier": "Senior Software Engineer\nUnited States, Multiple L_556847585?domain=microsoft.com"
     },
     {
-      "title": "Software Engineer\nUnited States, Washington, Redmond\nPosted 3 hours ago",
+      "title": "Software Engineer\nUnited States, Washington, Redmond\nPosted 4 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556855348?domain=microsoft.com",
       "identifier": "Software Engineer\nUnited States, Washington, Redmo_556855348?domain=microsoft.com"
     },
@@ -47,13 +52,8 @@
       "title": "Senior Applied Scientist\nUnited States, California, Mountain View\nPosted 5 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556853053?domain=microsoft.com",
       "identifier": "Senior Applied Scientist\nUnited States, California_556853053?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Software Engineer - Azure Storage\nUnited States, Washington, Redmond\nPosted 5 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556637615?domain=microsoft.com",
-      "identifier": "Senior Software Engineer - Azure Storage\nUnited St_556637615?domain=microsoft.com"
     }
   ],
   "job_count_text": "771",
-  "timestamp": "2026-04-02T20:01:01.328214"
+  "timestamp": "2026-04-02T20:18:12.577201"
 }

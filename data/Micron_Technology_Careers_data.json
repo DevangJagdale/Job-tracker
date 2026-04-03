@@ -4,14 +4,14 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Change Management Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
-      "url": "https://careers.micron.com/careers/job/38368336",
-      "identifier": "Change Management Engineer\nBoise, Idaho, United St_icron.com/careers/job/38368336"
-    },
-    {
       "title": "US FE Expansion Planning Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/40986798",
       "identifier": "US FE Expansion Planning Engineer\nBoise, Idaho, Un_icron.com/careers/job/40986798"
+    },
+    {
+      "title": "Change Management Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/38368336",
+      "identifier": "Change Management Engineer\nBoise, Idaho, United St_icron.com/careers/job/38368336"
     },
     {
       "title": "Industrial Engineer, DPAG\nBoise, Idaho, United States of America\nPosted 2 days ago",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "71",
-  "timestamp": "2026-04-03T00:21:45.430465"
+  "timestamp": "2026-04-03T00:38:48.561741"
 }

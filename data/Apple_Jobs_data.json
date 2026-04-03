@@ -4,6 +4,11 @@
   "total_jobs": 19,
   "jobs": [
     {
+      "title": "Senior Manager, Product \u2013 Commerce & Messaging Frameworks",
+      "url": "https://jobs.apple.com/en-us/details/200634772-0836/senior-manager-product-commerce-messaging-frameworks?team=SFTWR",
+      "identifier": "Senior Manager, Product \u2013 Commerce & Messaging Fra_essaging-frameworks?team=SFTWR"
+    },
+    {
       "title": "Software Engineer - Intelligent Engineering Workflows",
       "url": "https://jobs.apple.com/en-us/details/200655381-3543/software-engineer-intelligent-engineering-workflows?team=SFTWR",
       "identifier": "Software Engineer - Intelligent Engineering Workfl_gineering-workflows?team=SFTWR"
@@ -92,13 +97,8 @@
       "title": "Engineering Manager - Compute Node Software",
       "url": "https://jobs.apple.com/en-us/details/200653295-3337/engineering-manager-compute-node-software?team=SFTWR",
       "identifier": "Engineering Manager - Compute Node Software_mpute-node-software?team=SFTWR"
-    },
-    {
-      "title": "Engineering Manager - Cloud Compute Software",
-      "url": "https://jobs.apple.com/en-us/details/200653299-0836/engineering-manager-cloud-compute-software?team=SFTWR",
-      "identifier": "Engineering Manager - Cloud Compute Software_ud-compute-software?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-03T21:07:55.113429"
+  "timestamp": "2026-04-03T21:25:07.742680"
 }

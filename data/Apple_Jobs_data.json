@@ -4,6 +4,11 @@
   "total_jobs": 19,
   "jobs": [
     {
+      "title": "Engineering Project Manager, Employee Experience & Productivity",
+      "url": "https://jobs.apple.com/en-us/details/200655003-0670/engineering-project-manager-employee-experience-productivity?team=SFTWR",
+      "identifier": "Engineering Project Manager, Employee Experience &_rience-productivity?team=SFTWR"
+    },
+    {
       "title": "Machine Learning Engineer (MLOps), Evaluation",
       "url": "https://jobs.apple.com/en-us/details/200655674-0836/machine-learning-engineer-mlops-evaluation?team=SFTWR",
       "identifier": "Machine Learning Engineer (MLOps), Evaluation_er-mlops-evaluation?team=SFTWR"
@@ -92,13 +97,8 @@
       "title": "Senior Software Engineer",
       "url": "https://jobs.apple.com/en-us/details/200648306-3956/senior-software-engineer?team=SFTWR",
       "identifier": "Senior Software Engineer_r-software-engineer?team=SFTWR"
-    },
-    {
-      "title": "Principal Product Manager - Claris",
-      "url": "https://jobs.apple.com/en-us/details/200643356-3956/principal-product-manager-claris?team=SFTWR",
-      "identifier": "Principal Product Manager - Claris_duct-manager-claris?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-03T03:34:41.740741"
+  "timestamp": "2026-04-03T03:51:50.146461"
 }

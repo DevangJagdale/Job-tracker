@@ -4,6 +4,11 @@
   "total_jobs": 19,
   "jobs": [
     {
+      "title": "Engineering Program Manager, AI/ML, Apple Services Engineering (ASE)",
+      "url": "https://jobs.apple.com/en-us/details/200655731-0836/engineering-program-manager-ai-ml-apple-services-engineering-ase?team=SFTWR",
+      "identifier": "Engineering Program Manager, AI/ML, Apple Services_ces-engineering-ase?team=SFTWR"
+    },
+    {
       "title": "Senior ML Infrastructure Engineer",
       "url": "https://jobs.apple.com/en-us/details/200653827-0836/senior-ml-infrastructure-engineer?team=SFTWR",
       "identifier": "Senior ML Infrastructure Engineer_astructure-engineer?team=SFTWR"
@@ -92,13 +97,8 @@
       "title": "Software Engineer (iOS & Gen AI), Sales Engineering",
       "url": "https://jobs.apple.com/en-us/details/200648085-3401/software-engineer-ios-gen-ai-sales-engineering?team=SFTWR",
       "identifier": "Software Engineer (iOS & Gen AI), Sales Engineerin_i-sales-engineering?team=SFTWR"
-    },
-    {
-      "title": "Senior Software Data Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200652474-3337/senior-software-data-engineer?team=SFTWR",
-      "identifier": "Senior Software Data Engineer_tware-data-engineer?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-03T16:41:54.781832"
+  "timestamp": "2026-04-03T16:58:55.717808"
 }

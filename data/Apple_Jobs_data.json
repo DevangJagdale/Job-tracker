@@ -4,6 +4,11 @@
   "total_jobs": 19,
   "jobs": [
     {
+      "title": "Senior ML Infrastructure Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200653827-0836/senior-ml-infrastructure-engineer?team=SFTWR",
+      "identifier": "Senior ML Infrastructure Engineer_astructure-engineer?team=SFTWR"
+    },
+    {
       "title": "Engineering Project Manager, Employee Experience & Productivity",
       "url": "https://jobs.apple.com/en-us/details/200655003-0670/engineering-project-manager-employee-experience-productivity?team=SFTWR",
       "identifier": "Engineering Project Manager, Employee Experience &_rience-productivity?team=SFTWR"
@@ -92,13 +97,8 @@
       "title": "Senior Software Data Engineer",
       "url": "https://jobs.apple.com/en-us/details/200652474-3337/senior-software-data-engineer?team=SFTWR",
       "identifier": "Senior Software Data Engineer_tware-data-engineer?team=SFTWR"
-    },
-    {
-      "title": "Senior Software Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200648306-3956/senior-software-engineer?team=SFTWR",
-      "identifier": "Senior Software Engineer_r-software-engineer?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-03T15:50:46.780110"
+  "timestamp": "2026-04-03T16:07:47.902065"
 }

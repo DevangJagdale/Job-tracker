@@ -4,11 +4,6 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Change Management Engineer\nBoise, Idaho, United States of America\nPosted 2 days ago",
-      "url": "https://careers.micron.com/careers/job/38368336",
-      "identifier": "Change Management Engineer\nBoise, Idaho, United St_icron.com/careers/job/38368336"
-    },
-    {
       "title": "New College Grad - Process Engineer ID1\nBoise, Idaho, United States of America\nPosted 2 days ago",
       "url": "https://careers.micron.com/careers/job/40367274",
       "identifier": "New College Grad - Process Engineer ID1\nBoise, Ida_icron.com/careers/job/40367274"
@@ -17,6 +12,11 @@
       "title": "US FE Expansion Planning Engineer\nBoise, Idaho, United States of America\nPosted 2 days ago",
       "url": "https://careers.micron.com/careers/job/40986798",
       "identifier": "US FE Expansion Planning Engineer\nBoise, Idaho, Un_icron.com/careers/job/40986798"
+    },
+    {
+      "title": "Change Management Engineer\nBoise, Idaho, United States of America\nPosted 2 days ago",
+      "url": "https://careers.micron.com/careers/job/38368336",
+      "identifier": "Change Management Engineer\nBoise, Idaho, United St_icron.com/careers/job/38368336"
     },
     {
       "title": "Industrial Engineer, DPAG\nBoise, Idaho, United States of America\nPosted 3 days ago",
@@ -49,11 +49,11 @@
       "identifier": "New College Grad - Silicon Planning Engineer\nBoise_icron.com/careers/job/41138334"
     },
     {
-      "title": "Product Development Engineer\nBoise, Idaho, United States of America\nPosted 8 days ago",
-      "url": "https://careers.micron.com/careers/job/41065126",
-      "identifier": "Product Development Engineer\nBoise, Idaho, United _icron.com/careers/job/41065126"
+      "title": "Systems Software Engineer\nFolsom, California, United States of America\nPosted 8 days ago",
+      "url": "https://careers.micron.com/careers/job/41062686",
+      "identifier": "Systems Software Engineer\nFolsom, California, Unit_icron.com/careers/job/41062686"
     }
   ],
   "job_count_text": "68",
-  "timestamp": "2026-04-03T23:11:24.161163"
+  "timestamp": "2026-04-03T23:28:34.860894"
 }

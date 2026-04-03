@@ -1,7 +1,7 @@
 {
   "page_title": "Job Openings - Cisco Careers",
   "url": "https://careers.cisco.com/global/en/search-results?s=1",
-  "total_jobs": 9,
+  "total_jobs": 7,
   "jobs": [
     {
       "title": "UI/UX Designer I (Full Time) - United States",
@@ -24,11 +24,6 @@
       "identifier": "Strategy and Operations Manager MBA (Full Time) - _er-MBA-Full-Time-United-States"
     },
     {
-      "title": "ASIC Design Verfication Engineer II (Full Time) - United States",
-      "url": "https://careers.cisco.com/global/en/job/2002902/ASIC-Design-Verfication-Engineer-II-Full-Time-United-States",
-      "identifier": "ASIC Design Verfication Engineer II (Full Time) - _eer-II-Full-Time-United-States"
-    },
-    {
       "title": "Account Development Representative II (Full Time) United States",
       "url": "https://careers.cisco.com/global/en/job/2001887/Account-Development-Representative-II-Full-Time-United-States",
       "identifier": "Account Development Representative II (Full Time) _ive-II-Full-Time-United-States"
@@ -39,16 +34,11 @@
       "identifier": "Global Supply Chain RISE Rotational Program I (Ful_gram-I-Full-Time-United-States"
     },
     {
-      "title": "Data Science Analyst I (Full Time) - United States",
-      "url": "https://careers.cisco.com/global/en/job/2007519/Data-Science-Analyst-I-Full-Time-United-States",
-      "identifier": "Data Science Analyst I (Full Time) - United States_lyst-I-Full-Time-United-States"
-    },
-    {
       "title": "Sales Development Representative II (Full Time) United States (Virtual Demand Center) - United States",
       "url": "https://careers.cisco.com/global/en/job/2008662/Sales-Development-Representative-II-Full-Time-United-States-Virtual-Demand-Center-United-States",
       "identifier": "Sales Development Representative II (Full Time) Un_al-Demand-Center-United-States"
     }
   ],
-  "job_count_text": "9",
-  "timestamp": "2026-04-03T13:36:12.073543"
+  "job_count_text": "7",
+  "timestamp": "2026-04-03T13:53:11.856966"
 }

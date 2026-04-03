@@ -4,6 +4,16 @@
   "total_jobs": 19,
   "jobs": [
     {
+      "title": "Software Engineer - Intelligent Engineering Workflows",
+      "url": "https://jobs.apple.com/en-us/details/200655381-3543/software-engineer-intelligent-engineering-workflows?team=SFTWR",
+      "identifier": "Software Engineer - Intelligent Engineering Workfl_gineering-workflows?team=SFTWR"
+    },
+    {
+      "title": "SwiftUI Previews Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200655539-0836/swiftui-previews-engineer?team=SFTWR",
+      "identifier": "SwiftUI Previews Engineer_i-previews-engineer?team=SFTWR"
+    },
+    {
       "title": "App Store Data Scientist",
       "url": "https://jobs.apple.com/en-us/details/200654442-0836/app-store-data-scientist?team=SFTWR",
       "identifier": "App Store Data Scientist_tore-data-scientist?team=SFTWR"
@@ -87,18 +97,8 @@
       "title": "Engineering Manager - Cloud Compute Software",
       "url": "https://jobs.apple.com/en-us/details/200653299-0836/engineering-manager-cloud-compute-software?team=SFTWR",
       "identifier": "Engineering Manager - Cloud Compute Software_ud-compute-software?team=SFTWR"
-    },
-    {
-      "title": "Engineering Program Manager, Security Infrastructure, Apple Services Engineering",
-      "url": "https://jobs.apple.com/en-us/details/200654127-3337/engineering-program-manager-security-infrastructure-apple-services-engineering?team=SFTWR",
-      "identifier": "Engineering Program Manager, Security Infrastructu_ervices-engineering?team=SFTWR"
-    },
-    {
-      "title": "Security Engineer - Deep Dive",
-      "url": "https://jobs.apple.com/en-us/details/200654482-3337/security-engineer-deep-dive?team=SFTWR",
-      "identifier": "Security Engineer - Deep Dive_-engineer-deep-dive?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-03T20:50:44.387846"
+  "timestamp": "2026-04-03T21:07:55.113429"
 }

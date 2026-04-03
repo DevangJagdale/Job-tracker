@@ -4,17 +4,27 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 13 minutes ago",
+      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 14 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556849959?domain=microsoft.com",
+      "identifier": "Senior Software Engineer\nUnited States, Washington_556849959?domain=microsoft.com"
+    },
+    {
+      "title": "Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 14 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556621210?domain=microsoft.com",
+      "identifier": "Software Engineer\nUnited States, Multiple Location_556621210?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 30 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556753739?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Washington_556753739?domain=microsoft.com"
     },
     {
-      "title": "Principal Software Engineering Manager\nUnited States, Washington, Redmond + 2 more\nPosted 28 minutes ago",
+      "title": "Principal Software Engineering Manager\nUnited States, Washington, Redmond + 2 more\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556856334?domain=microsoft.com",
       "identifier": "Principal Software Engineering Manager\nUnited Stat_556856334?domain=microsoft.com"
     },
     {
-      "title": "Software Engineer, Sustainability\nUnited States, Washington, Redmond\nPosted 41 minutes ago",
+      "title": "Software Engineer, Sustainability\nUnited States, Washington, Redmond\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556847443?domain=microsoft.com",
       "identifier": "Software Engineer, Sustainability\nUnited States, W_556847443?domain=microsoft.com"
     },
@@ -39,21 +49,11 @@
       "identifier": "Principal Applied Scientist\nUnited States, Washing_556853169?domain=microsoft.com"
     },
     {
-      "title": "Software Engineer\nUnited States, Washington, Redmond\nPosted an hour ago",
+      "title": "Software Engineer\nUnited States, Washington, Redmond\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556746655?domain=microsoft.com",
       "identifier": "Software Engineer\nUnited States, Washington, Redmo_556746655?domain=microsoft.com"
-    },
-    {
-      "title": "Principal Software Engineer - Power BI\nUnited States, Washington, Redmond\nPosted 2 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556824908?domain=microsoft.com",
-      "identifier": "Principal Software Engineer - Power BI\nUnited Stat_556824908?domain=microsoft.com"
-    },
-    {
-      "title": "Applied Scientist: Microsoft AI - PhD Internship Opportunities - Redmond\nUnited States, Washington, Redmond + 1 more\nPosted 3 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556640991?domain=microsoft.com",
-      "identifier": "Applied Scientist: Microsoft AI - PhD Internship O_556640991?domain=microsoft.com"
     }
   ],
-  "job_count_text": "783",
-  "timestamp": "2026-04-03T20:50:27.612216"
+  "job_count_text": "785",
+  "timestamp": "2026-04-03T21:07:38.293616"
 }

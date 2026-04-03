@@ -1,22 +1,12 @@
 {
   "page_title": "Job Openings - Cisco Careers",
   "url": "https://careers.cisco.com/global/en/search-results?s=1",
-  "total_jobs": 10,
+  "total_jobs": 9,
   "jobs": [
-    {
-      "title": "Software Engineer Full Stack & Application Development I (Full Time) \u2013 United States",
-      "url": "https://careers.cisco.com/global/en/job/2000087/Software-Engineer-Full-Stack-Application-Development-I-Full-Time-United-States",
-      "identifier": "Software Engineer Full Stack & Application Develop_ment-I-Full-Time-United-States"
-    },
     {
       "title": "UI/UX Designer I (Full Time) - United States",
       "url": "https://careers.cisco.com/global/en/job/2009286/UI-UX-Designer-I-Full-Time-United-States",
       "identifier": "UI/UX Designer I (Full Time) - United States_gner-I-Full-Time-United-States"
-    },
-    {
-      "title": "Business Analyst I (Full Time) United States",
-      "url": "https://careers.cisco.com/global/en/job/2000125/Business-Analyst-I-Full-Time-United-States",
-      "identifier": "Business Analyst I (Full Time) United States_lyst-I-Full-Time-United-States"
     },
     {
       "title": "Corporate Strategy Manager MBA (Intern) - United States",
@@ -52,8 +42,13 @@
       "title": "Data Science Analyst I (Full Time) - United States",
       "url": "https://careers.cisco.com/global/en/job/2007519/Data-Science-Analyst-I-Full-Time-United-States",
       "identifier": "Data Science Analyst I (Full Time) - United States_lyst-I-Full-Time-United-States"
+    },
+    {
+      "title": "Sales Development Representative II (Full Time) United States (Virtual Demand Center) - United States",
+      "url": "https://careers.cisco.com/global/en/job/2008662/Sales-Development-Representative-II-Full-Time-United-States-Virtual-Demand-Center-United-States",
+      "identifier": "Sales Development Representative II (Full Time) Un_al-Demand-Center-United-States"
     }
   ],
-  "job_count_text": "11",
-  "timestamp": "2026-04-03T05:55:31.682697"
+  "job_count_text": "9",
+  "timestamp": "2026-04-03T06:12:40.311896"
 }

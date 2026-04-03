@@ -4,19 +4,9 @@
   "total_jobs": 8,
   "jobs": [
     {
-      "title": "Business Analyst - ServiceNow HRSD",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0840851/Business-Analyst-ServiceNow-HRSD",
-      "identifier": "Business Analyst - ServiceNow HRSD_siness-Analyst-ServiceNow-HRSD"
-    },
-    {
-      "title": "Staff Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0866502/Staff-Software-Development-Engineer",
-      "identifier": "Staff Software Development Engineer_-Software-Development-Engineer"
-    },
-    {
-      "title": "Staff Solutions Engineer - Manhattan Active Warehouse Management",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0859681/Staff-Solutions-Engineer-Manhattan-Active-Warehouse-Management",
-      "identifier": "Staff Solutions Engineer - Manhattan Active Wareho_an-Active-Warehouse-Management"
+      "title": "Associate Compute Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0833593/Associate-Compute-Engineer",
+      "identifier": "Associate Compute Engineer_593/Associate-Compute-Engineer"
     },
     {
       "title": "Executive Director, Systems Support",
@@ -24,14 +14,9 @@
       "identifier": "Executive Director, Systems Support_utive-Director-Systems-Support"
     },
     {
-      "title": "Associate Compute Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0833593/Associate-Compute-Engineer",
-      "identifier": "Associate Compute Engineer_593/Associate-Compute-Engineer"
-    },
-    {
-      "title": "Staff Software Development Engineer (Lead Backend - NestJs)",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0863219/Staff-Software-Development-Engineer-Lead-Backend-NestJs",
-      "identifier": "Staff Software Development Engineer (Lead Backend _t-Engineer-Lead-Backend-NestJs"
+      "title": "Sr Analyst, Application Development",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0874411/Sr-Analyst-Application-Development",
+      "identifier": "Sr Analyst, Application Development_nalyst-Application-Development"
     },
     {
       "title": "Senior Software Quality Engineer",
@@ -39,11 +24,26 @@
       "identifier": "Senior Software Quality Engineer_nior-Software-Quality-Engineer"
     },
     {
-      "title": "Sr Analyst, Application Development",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0874411/Sr-Analyst-Application-Development",
-      "identifier": "Sr Analyst, Application Development_nalyst-Application-Development"
+      "title": "Help Desk Support Specialist",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0834893/Help-Desk-Support-Specialist",
+      "identifier": "Help Desk Support Specialist_3/Help-Desk-Support-Specialist"
+    },
+    {
+      "title": "Lead Director - Software Development Engineering",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0773293/Lead-Director-Software-Development-Engineering",
+      "identifier": "Lead Director - Software Development Engineering_ftware-Development-Engineering"
+    },
+    {
+      "title": "Senior Manager - Client Operations (IC)",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0857040/Senior-Manager-Client-Operations-IC",
+      "identifier": "Senior Manager - Client Operations (IC)_r-Manager-Client-Operations-IC"
+    },
+    {
+      "title": "Senior Manager ACAS/Commercial Benefits Testing",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0871984/Senior-Manager-ACAS-Commercial-Benefits-Testing",
+      "identifier": "Senior Manager ACAS/Commercial Benefits Testing_AS-Commercial-Benefits-Testing"
     }
   ],
-  "job_count_text": "39",
-  "timestamp": "2026-04-03T05:54:47.283555"
+  "job_count_text": "31",
+  "timestamp": "2026-04-03T06:11:56.347020"
 }

@@ -4,6 +4,16 @@
   "total_jobs": 19,
   "jobs": [
     {
+      "title": "Software Development Engineer in Test, Sensing & Connectivity",
+      "url": "https://jobs.apple.com/en-us/details/200644140-0836/software-development-engineer-in-test-sensing-connectivity?team=SFTWR",
+      "identifier": "Software Development Engineer in Test, Sensing & C_ensing-connectivity?team=SFTWR"
+    },
+    {
+      "title": "Senior Marketing Data Scientist, Media Subscriptions",
+      "url": "https://jobs.apple.com/en-us/details/200607632-0670/senior-marketing-data-scientist-media-subscriptions?team=SFTWR",
+      "identifier": "Senior Marketing Data Scientist, Media Subscriptio_media-subscriptions?team=SFTWR"
+    },
+    {
       "title": "Machine Learning Compiler Engineer",
       "url": "https://jobs.apple.com/en-us/details/200655812-3956/machine-learning-compiler-engineer?team=SFTWR",
       "identifier": "Machine Learning Compiler Engineer_g-compiler-engineer?team=SFTWR"
@@ -87,18 +97,8 @@
       "title": "Software Engineering Program Manager (EPM) - Apple Vision Pro",
       "url": "https://jobs.apple.com/en-us/details/200654539-3956/software-engineering-program-manager-epm-apple-vision-pro?team=SFTWR",
       "identifier": "Software Engineering Program Manager (EPM) - Apple_pm-apple-vision-pro?team=SFTWR"
-    },
-    {
-      "title": "Site Reliability Engineer, Enterprise Technology Services",
-      "url": "https://jobs.apple.com/en-us/details/200654823-3956/site-reliability-engineer-enterprise-technology-services?team=SFTWR",
-      "identifier": "Site Reliability Engineer, Enterprise Technology S_technology-services?team=SFTWR"
-    },
-    {
-      "title": "ML Data Program Manager",
-      "url": "https://jobs.apple.com/en-us/details/200621002-0836/ml-data-program-manager?team=SFTWR",
-      "identifier": "ML Data Program Manager_ata-program-manager?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-03T21:42:20.682844"
+  "timestamp": "2026-04-03T21:59:31.459417"
 }

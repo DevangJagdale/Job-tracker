@@ -4,6 +4,16 @@
   "total_jobs": 19,
   "jobs": [
     {
+      "title": "Engineering Manager, App Insights, Services Data Science & Analytics",
+      "url": "https://jobs.apple.com/en-us/details/200655609-3401/engineering-manager-app-insights-services-data-science-analytics?team=SFTWR",
+      "identifier": "Engineering Manager, App Insights, Services Data S_a-science-analytics?team=SFTWR"
+    },
+    {
+      "title": "Embedded Software Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200655830-0157/embedded-software-engineer?team=SFTWR",
+      "identifier": "Embedded Software Engineer_d-software-engineer?team=SFTWR"
+    },
+    {
       "title": "Software Development Engineer in Test, Sensing & Connectivity",
       "url": "https://jobs.apple.com/en-us/details/200644140-0836/software-development-engineer-in-test-sensing-connectivity?team=SFTWR",
       "identifier": "Software Development Engineer in Test, Sensing & C_ensing-connectivity?team=SFTWR"
@@ -87,18 +97,8 @@
       "title": "Machine Learning Engineer (MLOps), Evaluation",
       "url": "https://jobs.apple.com/en-us/details/200655674-0836/machine-learning-engineer-mlops-evaluation?team=SFTWR",
       "identifier": "Machine Learning Engineer (MLOps), Evaluation_er-mlops-evaluation?team=SFTWR"
-    },
-    {
-      "title": "Senior iOS App Developer - Apple Maps",
-      "url": "https://jobs.apple.com/en-us/details/200649158-0670/senior-ios-app-developer-apple-maps?team=SFTWR",
-      "identifier": "Senior iOS App Developer - Apple Maps_eveloper-apple-maps?team=SFTWR"
-    },
-    {
-      "title": "Software Engineering Program Manager (EPM) - Apple Vision Pro",
-      "url": "https://jobs.apple.com/en-us/details/200654539-3956/software-engineering-program-manager-epm-apple-vision-pro?team=SFTWR",
-      "identifier": "Software Engineering Program Manager (EPM) - Apple_pm-apple-vision-pro?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-03T21:59:31.459417"
+  "timestamp": "2026-04-03T22:16:41.085813"
 }

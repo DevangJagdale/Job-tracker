@@ -1,8 +1,13 @@
 {
   "page_title": "| Microsoft Careers",
   "url": "https://apply.careers.microsoft.com/careers?domain=microsoft.com&start=0&location=United+States&sort_by=timestamp&filter_include_remote=1&filter_profession=software+engineering%2Cresearch%252C%2520applied%252C%2520%2526%2520data%2520sciences",
-  "total_jobs": 8,
+  "total_jobs": 9,
   "jobs": [
+    {
+      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 14 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556834430?domain=microsoft.com",
+      "identifier": "Software Engineer II\nUnited States, Washington, Re_556834430?domain=microsoft.com"
+    },
     {
       "title": "Software Engineer\nUnited States, Washington, Redmond\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556855348?domain=microsoft.com",
@@ -14,12 +19,12 @@
       "identifier": "Software Engineer II - CTJ - POLY\nUnited States, W_556856211?domain=microsoft.com"
     },
     {
-      "title": "Software Engineer II -CTJ - Poly\nUnited States, Multiple Locations, Multiple Locations + 2 more\nPosted an hour ago",
+      "title": "Software Engineer II -CTJ - Poly\nUnited States, Multiple Locations, Multiple Locations + 2 more\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556637088?domain=microsoft.com",
       "identifier": "Software Engineer II -CTJ - Poly\nUnited States, Mu_556637088?domain=microsoft.com"
     },
     {
-      "title": "Software Engineer II\nUnited States, Multiple Locations, Multiple Locations\nPosted an hour ago",
+      "title": "Software Engineer II\nUnited States, Multiple Locations, Multiple Locations\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556824194?domain=microsoft.com",
       "identifier": "Software Engineer II\nUnited States, Multiple Locat_556824194?domain=microsoft.com"
     },
@@ -44,6 +49,6 @@
       "identifier": "Software Engineer II\nUnited States, Washington, Re_556752426?domain=microsoft.com"
     }
   ],
-  "job_count_text": "777",
-  "timestamp": "2026-04-03T16:24:35.575149"
+  "job_count_text": "778",
+  "timestamp": "2026-04-03T16:41:38.693695"
 }

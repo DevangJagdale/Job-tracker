@@ -1,12 +1,17 @@
 {
   "page_title": "Job Openings - Cisco Careers",
   "url": "https://careers.cisco.com/global/en/search-results?s=1",
-  "total_jobs": 7,
+  "total_jobs": 8,
   "jobs": [
     {
       "title": "UI/UX Designer I (Full Time) - United States",
       "url": "https://careers.cisco.com/global/en/job/2009286/UI-UX-Designer-I-Full-Time-United-States",
       "identifier": "UI/UX Designer I (Full Time) - United States_gner-I-Full-Time-United-States"
+    },
+    {
+      "title": "Business Analyst I (Full Time) United States",
+      "url": "https://careers.cisco.com/global/en/job/2000125/Business-Analyst-I-Full-Time-United-States",
+      "identifier": "Business Analyst I (Full Time) United States_lyst-I-Full-Time-United-States"
     },
     {
       "title": "Corporate Strategy Manager MBA (Intern) - United States",
@@ -39,6 +44,6 @@
       "identifier": "Sales Development Representative II (Full Time) Un_al-Demand-Center-United-States"
     }
   ],
-  "job_count_text": "7",
-  "timestamp": "2026-04-03T13:53:11.856966"
+  "job_count_text": "8",
+  "timestamp": "2026-04-03T14:10:11.845552"
 }

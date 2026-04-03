@@ -4,6 +4,11 @@
   "total_jobs": 9,
   "jobs": [
     {
+      "title": "Member of Technical Staff - Data Scientist\nUnited States, Washington, Redmond + 1 more\nPosted 17 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556856218?domain=microsoft.com",
+      "identifier": "Member of Technical Staff - Data Scientist\nUnited _556856218?domain=microsoft.com"
+    },
+    {
       "title": "Software Engineering IC4\nUnited States, Washington, Redmond + 2 more\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556852768?domain=microsoft.com",
       "identifier": "Software Engineering IC4\nUnited States, Washington_556852768?domain=microsoft.com"
@@ -24,17 +29,12 @@
       "identifier": "Software Engineering IC4\nUnited States, Washington_556852468?domain=microsoft.com"
     },
     {
-      "title": "Member of Technical Staff - Data Scientist\nUnited States, Washington, Redmond + 1 more\nPosted an hour ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556856218?domain=microsoft.com",
-      "identifier": "Member of Technical Staff - Data Scientist\nUnited _556856218?domain=microsoft.com"
-    },
-    {
-      "title": "Software Engineering\nUnited States, Washington, Redmond\nPosted an hour ago",
+      "title": "Software Engineering\nUnited States, Washington, Redmond\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556856313?domain=microsoft.com",
       "identifier": "Software Engineering\nUnited States, Washington, Re_556856313?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer - C++\nUnited States, Washington, Redmond\nPosted an hour ago",
+      "title": "Senior Software Engineer - C++\nUnited States, Washington, Redmond\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556856298?domain=microsoft.com",
       "identifier": "Senior Software Engineer - C++\nUnited States, Wash_556856298?domain=microsoft.com"
     },
@@ -50,5 +50,5 @@
     }
   ],
   "job_count_text": "786",
-  "timestamp": "2026-04-02T23:44:03.783678"
+  "timestamp": "2026-04-03T00:01:06.613259"
 }

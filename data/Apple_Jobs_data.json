@@ -4,6 +4,11 @@
   "total_jobs": 19,
   "jobs": [
     {
+      "title": "Senior ML Infrastructure Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200653827-0836/senior-ml-infrastructure-engineer?team=SFTWR",
+      "identifier": "Senior ML Infrastructure Engineer_astructure-engineer?team=SFTWR"
+    },
+    {
       "title": "Quality Engineer - Heath Software",
       "url": "https://jobs.apple.com/en-us/details/200640109-3543/quality-engineer-heath-software?team=SFTWR",
       "identifier": "Quality Engineer - Heath Software_neer-heath-software?team=SFTWR"
@@ -17,11 +22,6 @@
       "title": "Engineering Program Manager, AI/ML, Apple Services Engineering (ASE)",
       "url": "https://jobs.apple.com/en-us/details/200655731-0836/engineering-program-manager-ai-ml-apple-services-engineering-ase?team=SFTWR",
       "identifier": "Engineering Program Manager, AI/ML, Apple Services_ces-engineering-ase?team=SFTWR"
-    },
-    {
-      "title": "Senior ML Infrastructure Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200653827-0836/senior-ml-infrastructure-engineer?team=SFTWR",
-      "identifier": "Senior ML Infrastructure Engineer_astructure-engineer?team=SFTWR"
     },
     {
       "title": "Engineering Project Manager, Employee Experience & Productivity",
@@ -100,5 +100,5 @@
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-03T17:50:25.277383"
+  "timestamp": "2026-04-03T18:07:26.844411"
 }

@@ -4,6 +4,11 @@
   "total_jobs": 25,
   "jobs": [
     {
+      "title": "Firmwide Online Tracking Director \u2013 Executive Director",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210732251/?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
+      "identifier": "jpmc_210732251"
+    },
+    {
       "title": "Data Scientist Associate - Payments",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210728426/?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
       "identifier": "jpmc_210728426"
@@ -79,7 +84,7 @@
       "identifier": "jpmc_210729163"
     },
     {
-      "title": "Lead Software Engineer",
+      "title": "Lead Software Engineer- DevOps/Kubernetes",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210730402/?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
       "identifier": "jpmc_210730402"
     },
@@ -122,13 +127,8 @@
       "title": "Principal Applied AI ML Engineer",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210711809/?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
       "identifier": "jpmc_210711809"
-    },
-    {
-      "title": "Applied AI/ML - Senior Associate",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210725237/?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
-      "identifier": "jpmc_210725237"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-03T17:52:25.259465"
+  "timestamp": "2026-04-03T18:09:25.935951"
 }

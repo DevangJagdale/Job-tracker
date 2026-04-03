@@ -1,8 +1,33 @@
 {
   "page_title": "Search our Job Opportunities at Barclays",
   "url": "https://search.jobs.barclays/search-jobs/United%20States/13015/2/6252001/39x76/-98x5/50/2",
-  "total_jobs": 9,
+  "total_jobs": 15,
   "jobs": [
+    {
+      "title": "US Investment Grade Strategy VP",
+      "url": "https://search.jobs.barclays/job/new-york/us-investment-grade-strategy-vp/13015/93512450416",
+      "identifier": "US Investment Grade Strategy VP_-strategy-vp/13015/93512450416"
+    },
+    {
+      "title": "VP-Transformation and Design Enablement",
+      "url": "https://search.jobs.barclays/job/whippany/vp-transformation-and-design-enablement/13015/93512447984",
+      "identifier": "VP-Transformation and Design Enablement_n-enablement/13015/93512447984"
+    },
+    {
+      "title": "Senior Project Manager - VP",
+      "url": "https://search.jobs.barclays/job/whippany/senior-project-manager-vp/13015/93512447840",
+      "identifier": "Senior Project Manager - VP_t-manager-vp/13015/93512447840"
+    },
+    {
+      "title": "AVP - Transformation and Design Enablement",
+      "url": "https://search.jobs.barclays/job/whippany/avp-transformation-and-design-enablement/13015/93512447808",
+      "identifier": "AVP - Transformation and Design Enablement_n-enablement/13015/93512447808"
+    },
+    {
+      "title": "Investment & Lending Portfolio Management Sector VP",
+      "url": "https://search.jobs.barclays/job/new-york/investment-and-lending-portfolio-management-sector-vp/13015/93512446208",
+      "identifier": "Investment & Lending Portfolio Management Sector V_nt-sector-vp/13015/93512446208"
+    },
     {
       "title": "Quality Assurance Analyst",
       "url": "https://search.jobs.barclays/job/whippany/quality-assurance-analyst/13015/93512437664",
@@ -47,8 +72,13 @@
       "title": "Banking Finance Business Partner AVP",
       "url": "https://search.jobs.barclays/job/new-york/banking-finance-business-partner-avp/13015/93474468448",
       "identifier": "Banking Finance Business Partner AVP_-partner-avp/13015/93474468448"
+    },
+    {
+      "title": "Technical Data Analyst, AVP",
+      "url": "https://search.jobs.barclays/job/whippany/technical-data-analyst-avp/13015/93462019120",
+      "identifier": "Technical Data Analyst, AVP_-analyst-avp/13015/93462019120"
     }
   ],
-  "job_count_text": "112",
-  "timestamp": "2026-04-03T17:32:48.500972"
+  "job_count_text": "113",
+  "timestamp": "2026-04-03T17:49:51.899797"
 }

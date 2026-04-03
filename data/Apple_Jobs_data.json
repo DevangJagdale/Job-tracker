@@ -4,6 +4,16 @@
   "total_jobs": 19,
   "jobs": [
     {
+      "title": "Quality Engineer - Heath Software",
+      "url": "https://jobs.apple.com/en-us/details/200640109-3543/quality-engineer-heath-software?team=SFTWR",
+      "identifier": "Quality Engineer - Heath Software_neer-heath-software?team=SFTWR"
+    },
+    {
+      "title": "Senior Software Engineer, Apple Cash",
+      "url": "https://jobs.apple.com/en-us/details/200644557-0836/senior-software-engineer-apple-cash?team=SFTWR",
+      "identifier": "Senior Software Engineer, Apple Cash_engineer-apple-cash?team=SFTWR"
+    },
+    {
       "title": "Engineering Program Manager, AI/ML, Apple Services Engineering (ASE)",
       "url": "https://jobs.apple.com/en-us/details/200655731-0836/engineering-program-manager-ai-ml-apple-services-engineering-ase?team=SFTWR",
       "identifier": "Engineering Program Manager, AI/ML, Apple Services_ces-engineering-ase?team=SFTWR"
@@ -87,18 +97,8 @@
       "title": "Staff Software Engineer (Apache Spark Poweruser / Committer)",
       "url": "https://jobs.apple.com/en-us/details/200655487-3337/staff-software-engineer-apache-spark-poweruser-committer?team=SFTWR",
       "identifier": "Staff Software Engineer (Apache Spark Poweruser / _poweruser-committer?team=SFTWR"
-    },
-    {
-      "title": "Software Engineering Manager, Apple Services Engineering",
-      "url": "https://jobs.apple.com/en-us/details/200655491-0836/software-engineering-manager-apple-services-engineering?team=SFTWR",
-      "identifier": "Software Engineering Manager, Apple Services Engin_ervices-engineering?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer (iOS & Gen AI), Sales Engineering",
-      "url": "https://jobs.apple.com/en-us/details/200648085-3401/software-engineer-ios-gen-ai-sales-engineering?team=SFTWR",
-      "identifier": "Software Engineer (iOS & Gen AI), Sales Engineerin_i-sales-engineering?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-03T17:33:20.980033"
+  "timestamp": "2026-04-03T17:50:25.277383"
 }

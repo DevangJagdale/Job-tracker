@@ -1,8 +1,18 @@
 {
   "page_title": "| Microsoft Careers",
   "url": "https://apply.careers.microsoft.com/careers?domain=microsoft.com&start=0&location=United+States&sort_by=timestamp&filter_include_remote=1&filter_profession=software+engineering%2Cresearch%252C%2520applied%252C%2520%2526%2520data%2520sciences",
-  "total_jobs": 9,
+  "total_jobs": 10,
   "jobs": [
+    {
+      "title": "Senior Software Engineer (Backend)\nUnited States, Washington, Redmond\nPosted 17 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556855623?domain=microsoft.com",
+      "identifier": "Senior Software Engineer (Backend)\nUnited States, _556855623?domain=microsoft.com"
+    },
+    {
+      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 22 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556657806?domain=microsoft.com",
+      "identifier": "Software Engineer II\nUnited States, Washington, Re_556657806?domain=microsoft.com"
+    },
     {
       "title": "Senior Machine Learning Engineer\nUnited States, Washington, Redmond\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556744864?domain=microsoft.com",
@@ -19,17 +29,17 @@
       "identifier": "Software Engineer\nUnited States, Washington, Redmo_556855348?domain=microsoft.com"
     },
     {
-      "title": "Software Engineer II - CTJ - POLY\nUnited States, Washington, Redmond + 3 more\nPosted 2 hours ago",
+      "title": "Software Engineer II - CTJ - POLY\nUnited States, Washington, Redmond + 3 more\nPosted 3 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556856211?domain=microsoft.com",
       "identifier": "Software Engineer II - CTJ - POLY\nUnited States, W_556856211?domain=microsoft.com"
     },
     {
-      "title": "Software Engineer II -CTJ - Poly\nUnited States, Multiple Locations, Multiple Locations + 2 more\nPosted 2 hours ago",
+      "title": "Software Engineer II -CTJ - Poly\nUnited States, Multiple Locations, Multiple Locations + 2 more\nPosted 3 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556637088?domain=microsoft.com",
       "identifier": "Software Engineer II -CTJ - Poly\nUnited States, Mu_556637088?domain=microsoft.com"
     },
     {
-      "title": "Software Engineer II\nUnited States, Multiple Locations, Multiple Locations\nPosted 2 hours ago",
+      "title": "Software Engineer II\nUnited States, Multiple Locations, Multiple Locations\nPosted 3 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556824194?domain=microsoft.com",
       "identifier": "Software Engineer II\nUnited States, Multiple Locat_556824194?domain=microsoft.com"
     },
@@ -39,16 +49,11 @@
       "identifier": "Principal Software Engineer\nUnited States, Multipl_556849991?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 3 hours ago",
+      "title": "Senior Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 4 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556847400?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Multiple L_556847400?domain=microsoft.com"
-    },
-    {
-      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 9 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556668592?domain=microsoft.com",
-      "identifier": "Software Engineer II\nUnited States, Washington, Re_556668592?domain=microsoft.com"
     }
   ],
-  "job_count_text": "779",
-  "timestamp": "2026-04-03T17:33:05.380366"
+  "job_count_text": "781",
+  "timestamp": "2026-04-03T17:50:09.199466"
 }

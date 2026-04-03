@@ -4,6 +4,11 @@
   "total_jobs": 19,
   "jobs": [
     {
+      "title": "Character Animator- Generative AI Experiences Software",
+      "url": "https://jobs.apple.com/en-us/details/200655784-0836/character-animator-generative-ai-experiences-software?team=SFTWR",
+      "identifier": "Character Animator- Generative AI Experiences Soft_xperiences-software?team=SFTWR"
+    },
+    {
       "title": "Software Engineer - Intelligent Engineering Workflows",
       "url": "https://jobs.apple.com/en-us/details/200655381-3543/software-engineer-intelligent-engineering-workflows?team=SFTWR",
       "identifier": "Software Engineer - Intelligent Engineering Workfl_gineering-workflows?team=SFTWR"
@@ -92,13 +97,8 @@
       "title": "Engineering Project Manager, Employee Experience & Productivity",
       "url": "https://jobs.apple.com/en-us/details/200655003-0670/engineering-project-manager-employee-experience-productivity?team=SFTWR",
       "identifier": "Engineering Project Manager, Employee Experience &_rience-productivity?team=SFTWR"
-    },
-    {
-      "title": "Machine Learning Engineer (MLOps), Evaluation",
-      "url": "https://jobs.apple.com/en-us/details/200655674-0836/machine-learning-engineer-mlops-evaluation?team=SFTWR",
-      "identifier": "Machine Learning Engineer (MLOps), Evaluation_er-mlops-evaluation?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-03T22:51:02.631396"
+  "timestamp": "2026-04-03T23:08:10.752325"
 }

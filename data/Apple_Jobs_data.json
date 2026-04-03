@@ -4,6 +4,11 @@
   "total_jobs": 19,
   "jobs": [
     {
+      "title": "Machine Learning Compiler Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200655812-3956/machine-learning-compiler-engineer?team=SFTWR",
+      "identifier": "Machine Learning Compiler Engineer_g-compiler-engineer?team=SFTWR"
+    },
+    {
       "title": "Senior Manager, Product \u2013 Commerce & Messaging Frameworks",
       "url": "https://jobs.apple.com/en-us/details/200634772-0836/senior-manager-product-commerce-messaging-frameworks?team=SFTWR",
       "identifier": "Senior Manager, Product \u2013 Commerce & Messaging Fra_essaging-frameworks?team=SFTWR"
@@ -92,13 +97,8 @@
       "title": "ML Data Program Manager",
       "url": "https://jobs.apple.com/en-us/details/200621002-0836/ml-data-program-manager?team=SFTWR",
       "identifier": "ML Data Program Manager_ata-program-manager?team=SFTWR"
-    },
-    {
-      "title": "Engineering Manager - Compute Node Software",
-      "url": "https://jobs.apple.com/en-us/details/200653295-3337/engineering-manager-compute-node-software?team=SFTWR",
-      "identifier": "Engineering Manager - Compute Node Software_mpute-node-software?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-03T21:25:07.742680"
+  "timestamp": "2026-04-03T21:42:20.682844"
 }

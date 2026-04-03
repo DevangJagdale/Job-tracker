@@ -1,8 +1,13 @@
 {
   "page_title": "Search our Job Opportunities at Barclays",
   "url": "https://search.jobs.barclays/search-jobs/United%20States/13015/2/6252001/39x76/-98x5/50/2",
-  "total_jobs": 8,
+  "total_jobs": 9,
   "jobs": [
+    {
+      "title": "Quality Assurance Analyst",
+      "url": "https://search.jobs.barclays/job/whippany/quality-assurance-analyst/13015/93512437664",
+      "identifier": "Quality Assurance Analyst_ance-analyst/13015/93512437664"
+    },
     {
       "title": "Senior Full Stack Engineer \u2013 AVP",
       "url": "https://search.jobs.barclays/job/whippany/senior-full-stack-engineer-avp/13015/93499644032",
@@ -44,6 +49,6 @@
       "identifier": "Banking Finance Business Partner AVP_-partner-avp/13015/93474468448"
     }
   ],
-  "job_count_text": "113",
-  "timestamp": "2026-04-03T11:26:46.698420"
+  "job_count_text": "112",
+  "timestamp": "2026-04-03T11:43:53.611681"
 }

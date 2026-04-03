@@ -4,6 +4,11 @@
   "total_jobs": 19,
   "jobs": [
     {
+      "title": "Tools & Automation Engineer, Wireless Technologies & Ecosystems",
+      "url": "https://jobs.apple.com/en-us/details/200655755-0836/tools-automation-engineer-wireless-technologies-ecosystems?team=SFTWR",
+      "identifier": "Tools & Automation Engineer, Wireless Technologies_nologies-ecosystems?team=SFTWR"
+    },
+    {
       "title": "Senior ML Infrastructure Engineer",
       "url": "https://jobs.apple.com/en-us/details/200653827-0836/senior-ml-infrastructure-engineer?team=SFTWR",
       "identifier": "Senior ML Infrastructure Engineer_astructure-engineer?team=SFTWR"
@@ -92,13 +97,8 @@
       "title": "Sr. Software Engineering Manager, Intelligent System Experience",
       "url": "https://jobs.apple.com/en-us/details/200652732-0836/sr-software-engineering-manager-intelligent-system-experience?team=SFTWR",
       "identifier": "Sr. Software Engineering Manager, Intelligent Syst_t-system-experience?team=SFTWR"
-    },
-    {
-      "title": "Staff Software Engineer (Apache Spark Poweruser / Committer)",
-      "url": "https://jobs.apple.com/en-us/details/200655487-3337/staff-software-engineer-apache-spark-poweruser-committer?team=SFTWR",
-      "identifier": "Staff Software Engineer (Apache Spark Poweruser / _poweruser-committer?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-03T18:16:08.260868"
+  "timestamp": "2026-04-03T18:33:22.315981"
 }

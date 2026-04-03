@@ -1,15 +1,25 @@
 {
   "page_title": "| Microsoft Careers",
   "url": "https://apply.careers.microsoft.com/careers?domain=microsoft.com&start=0&location=United+States&sort_by=timestamp&filter_include_remote=1&filter_profession=software+engineering%2Cresearch%252C%2520applied%252C%2520%2526%2520data%2520sciences",
-  "total_jobs": 9,
+  "total_jobs": 7,
   "jobs": [
+    {
+      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 11 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556668592?domain=microsoft.com",
+      "identifier": "Software Engineer II\nUnited States, Washington, Re_556668592?domain=microsoft.com"
+    },
+    {
+      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 14 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556752426?domain=microsoft.com",
+      "identifier": "Software Engineer II\nUnited States, Washington, Re_556752426?domain=microsoft.com"
+    },
     {
       "title": "Principal Software Engineering Manager\nUnited States, Washington, Redmond\nPosted 7 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556855408?domain=microsoft.com",
       "identifier": "Principal Software Engineering Manager\nUnited Stat_556855408?domain=microsoft.com"
     },
     {
-      "title": "Software Engineer II-People & Work Intelligence\nUnited States, Washington, Redmond\nPosted 7 hours ago",
+      "title": "Software Engineer II-People & Work Intelligence\nUnited States, Washington, Redmond\nPosted 8 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556749600?domain=microsoft.com",
       "identifier": "Software Engineer II-People & Work Intelligence\nUn_556749600?domain=microsoft.com"
     },
@@ -19,7 +29,7 @@
       "identifier": "Senior Software Engineer\nUnited States, Washington_556658255?domain=microsoft.com"
     },
     {
-      "title": "Member of Technical Staff, Full Stack - ML Efficiency & Observability - MAI Superintelligence Team\nUnited States, California, Mountain View + 1 more\nPosted 8 hours ago",
+      "title": "Member of Technical Staff, Full Stack - ML Efficiency & Observability - MAI Superintelligence Team\nUnited States, California, Mountain View + 1 more\nPosted 9 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556827351?domain=microsoft.com",
       "identifier": "Member of Technical Staff, Full Stack - ML Efficie_556827351?domain=microsoft.com"
     },
@@ -27,28 +37,8 @@
       "title": "Member of Technical Staff - Data Scientist\nUnited States, Washington, Redmond + 1 more\nPosted 9 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556856218?domain=microsoft.com",
       "identifier": "Member of Technical Staff - Data Scientist\nUnited _556856218?domain=microsoft.com"
-    },
-    {
-      "title": "Software Engineering IC4\nUnited States, Washington, Redmond + 2 more\nPosted 10 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556852768?domain=microsoft.com",
-      "identifier": "Software Engineering IC4\nUnited States, Washington_556852768?domain=microsoft.com"
-    },
-    {
-      "title": "Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 10 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556752815?domain=microsoft.com",
-      "identifier": "Software Engineer\nUnited States, Multiple Location_556752815?domain=microsoft.com"
-    },
-    {
-      "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted 10 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556852774?domain=microsoft.com",
-      "identifier": "Principal Software Engineer\nUnited States, Washing_556852774?domain=microsoft.com"
-    },
-    {
-      "title": "Software Engineering IC4\nUnited States, Washington, Redmond + 2 more\nPosted 10 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556852468?domain=microsoft.com",
-      "identifier": "Software Engineering IC4\nUnited States, Washington_556852468?domain=microsoft.com"
     }
   ],
-  "job_count_text": "777",
-  "timestamp": "2026-04-03T08:35:39.039255"
+  "job_count_text": "778",
+  "timestamp": "2026-04-03T08:52:48.620595"
 }

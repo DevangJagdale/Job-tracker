@@ -4,6 +4,11 @@
   "total_jobs": 10,
   "jobs": [
     {
+      "title": "US FE Expansion Planning Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/40986798",
+      "identifier": "US FE Expansion Planning Engineer\nBoise, Idaho, Un_icron.com/careers/job/40986798"
+    },
+    {
       "title": "Change Management Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/38368336",
       "identifier": "Change Management Engineer\nBoise, Idaho, United St_icron.com/careers/job/38368336"
@@ -12,11 +17,6 @@
       "title": "New College Grad - Process Engineer ID1\nBoise, Idaho, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/40367274",
       "identifier": "New College Grad - Process Engineer ID1\nBoise, Ida_icron.com/careers/job/40367274"
-    },
-    {
-      "title": "US FE Expansion Planning Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
-      "url": "https://careers.micron.com/careers/job/40986798",
-      "identifier": "US FE Expansion Planning Engineer\nBoise, Idaho, Un_icron.com/careers/job/40986798"
     },
     {
       "title": "Industrial Engineer, DPAG\nBoise, Idaho, United States of America\nPosted 2 days ago",
@@ -54,6 +54,6 @@
       "identifier": "Systems Software Engineer\nFolsom, California, Unit_icron.com/careers/job/41062686"
     }
   ],
-  "job_count_text": "71",
-  "timestamp": "2026-04-03T03:03:36.279624"
+  "job_count_text": "70",
+  "timestamp": "2026-04-03T03:20:44.516560"
 }

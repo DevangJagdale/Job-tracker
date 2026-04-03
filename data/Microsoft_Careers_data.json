@@ -1,30 +1,35 @@
 {
   "page_title": "| Microsoft Careers",
   "url": "https://apply.careers.microsoft.com/careers?domain=microsoft.com&start=0&location=United+States&sort_by=timestamp&filter_include_remote=1&filter_profession=software+engineering%2Cresearch%252C%2520applied%252C%2520%2526%2520data%2520sciences",
-  "total_jobs": 9,
+  "total_jobs": 10,
   "jobs": [
     {
-      "title": "Software Engineer, Sustainability\nUnited States, Washington, Redmond\nPosted 7 minutes ago",
+      "title": "Principal Software Engineering Manager\nUnited States, Washington, Redmond + 2 more\nPosted 11 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556856334?domain=microsoft.com",
+      "identifier": "Principal Software Engineering Manager\nUnited Stat_556856334?domain=microsoft.com"
+    },
+    {
+      "title": "Software Engineer, Sustainability\nUnited States, Washington, Redmond\nPosted 24 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556847443?domain=microsoft.com",
       "identifier": "Software Engineer, Sustainability\nUnited States, W_556847443?domain=microsoft.com"
     },
     {
-      "title": "Principal Data Scientist\nUnited States, Multiple Locations, Multiple Locations\nPosted 15 minutes ago",
+      "title": "Principal Data Scientist\nUnited States, Multiple Locations, Multiple Locations\nPosted 32 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556855363?domain=microsoft.com",
       "identifier": "Principal Data Scientist\nUnited States, Multiple L_556855363?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 19 minutes ago",
+      "title": "Senior Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 36 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556855362?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Multiple L_556855362?domain=microsoft.com"
     },
     {
-      "title": "Principal Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 23 minutes ago",
+      "title": "Principal Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 40 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556855360?domain=microsoft.com",
       "identifier": "Principal Software Engineer\nUnited States, Multipl_556855360?domain=microsoft.com"
     },
     {
-      "title": "Principal Applied Scientist\nUnited States, Washington, Redmond\nPosted 31 minutes ago",
+      "title": "Principal Applied Scientist\nUnited States, Washington, Redmond\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556853169?domain=microsoft.com",
       "identifier": "Principal Applied Scientist\nUnited States, Washing_556853169?domain=microsoft.com"
     },
@@ -34,21 +39,21 @@
       "identifier": "Software Engineer\nUnited States, Washington, Redmo_556746655?domain=microsoft.com"
     },
     {
-      "title": "Principal Software Engineer - Power BI\nUnited States, Washington, Redmond\nPosted an hour ago",
+      "title": "Principal Software Engineer - Power BI\nUnited States, Washington, Redmond\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556824908?domain=microsoft.com",
       "identifier": "Principal Software Engineer - Power BI\nUnited Stat_556824908?domain=microsoft.com"
+    },
+    {
+      "title": "Applied Scientist: Microsoft AI - PhD Internship Opportunities - Redmond\nUnited States, Washington, Redmond + 1 more\nPosted 2 hours ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556640991?domain=microsoft.com",
+      "identifier": "Applied Scientist: Microsoft AI - PhD Internship O_556640991?domain=microsoft.com"
     },
     {
       "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556753792?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Washington_556753792?domain=microsoft.com"
-    },
-    {
-      "title": "Member of Technical Staff - Fullstack Education Engineer\nUnited States, California, Mountain View\nPosted 2 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556640848?domain=microsoft.com",
-      "identifier": "Member of Technical Staff - Fullstack Education En_556640848?domain=microsoft.com"
     }
   ],
   "job_count_text": "784",
-  "timestamp": "2026-04-03T20:16:09.216158"
+  "timestamp": "2026-04-03T20:33:18.114304"
 }

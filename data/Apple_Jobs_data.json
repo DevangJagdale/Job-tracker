@@ -4,6 +4,26 @@
   "total_jobs": 19,
   "jobs": [
     {
+      "title": "App Store Data Scientist",
+      "url": "https://jobs.apple.com/en-us/details/200654442-0836/app-store-data-scientist?team=SFTWR",
+      "identifier": "App Store Data Scientist_tore-data-scientist?team=SFTWR"
+    },
+    {
+      "title": "QA Automation Engineer - Apple Neural Engine (ANE)",
+      "url": "https://jobs.apple.com/en-us/details/200655817-3956/qa-automation-engineer-apple-neural-engine-ane?team=SFTWR",
+      "identifier": "QA Automation Engineer - Apple Neural Engine (ANE)_e-neural-engine-ane?team=SFTWR"
+    },
+    {
+      "title": "Senior Product Manager, Commerce Data Foundations Platform",
+      "url": "https://jobs.apple.com/en-us/details/200634935-3337/senior-product-manager-commerce-data-foundations-platform?team=SFTWR",
+      "identifier": "Senior Product Manager, Commerce Data Foundations _oundations-platform?team=SFTWR"
+    },
+    {
+      "title": "Sr. Software Engineer - Front End - iCloud",
+      "url": "https://jobs.apple.com/en-us/details/200655825-0157/sr-software-engineer-front-end-icloud?team=SFTWR",
+      "identifier": "Sr. Software Engineer - Front End - iCloud_er-front-end-icloud?team=SFTWR"
+    },
+    {
       "title": "Tools & Automation Engineer, Wireless Technologies & Ecosystems",
       "url": "https://jobs.apple.com/en-us/details/200655755-0836/tools-automation-engineer-wireless-technologies-ecosystems?team=SFTWR",
       "identifier": "Tools & Automation Engineer, Wireless Technologies_nologies-ecosystems?team=SFTWR"
@@ -77,28 +97,8 @@
       "title": "Security Engineer - Deep Dive",
       "url": "https://jobs.apple.com/en-us/details/200654482-3337/security-engineer-deep-dive?team=SFTWR",
       "identifier": "Security Engineer - Deep Dive_-engineer-deep-dive?team=SFTWR"
-    },
-    {
-      "title": "Applied Scientist",
-      "url": "https://jobs.apple.com/en-us/details/200654431-0157/applied-scientist?team=MLAI",
-      "identifier": "Applied Scientist_57/applied-scientist?team=MLAI"
-    },
-    {
-      "title": "Applied Scientist",
-      "url": "https://jobs.apple.com/en-us/details/200654431-0670/applied-scientist?team=MLAI",
-      "identifier": "Applied Scientist_70/applied-scientist?team=MLAI"
-    },
-    {
-      "title": "Audio Quality Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200655292-3543/audio-quality-engineer?team=SFTWR",
-      "identifier": "Audio Quality Engineer_io-quality-engineer?team=SFTWR"
-    },
-    {
-      "title": "Sr. Software Engineering Manager, Intelligent System Experience",
-      "url": "https://jobs.apple.com/en-us/details/200652732-0836/sr-software-engineering-manager-intelligent-system-experience?team=SFTWR",
-      "identifier": "Sr. Software Engineering Manager, Intelligent Syst_t-system-experience?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-03T20:16:26.160884"
+  "timestamp": "2026-04-03T20:33:34.815293"
 }

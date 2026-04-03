@@ -4,11 +4,6 @@
   "total_jobs": 8,
   "jobs": [
     {
-      "title": "Business Analyst - ServiceNow HRSD",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0840851/Business-Analyst-ServiceNow-HRSD",
-      "identifier": "Business Analyst - ServiceNow HRSD_siness-Analyst-ServiceNow-HRSD"
-    },
-    {
       "title": "Staff Software Development Engineer",
       "url": "https://jobs.cvshealth.com/us/en/job/R0866502/Staff-Software-Development-Engineer",
       "identifier": "Staff Software Development Engineer_-Software-Development-Engineer"
@@ -19,9 +14,9 @@
       "identifier": "Staff Solutions Engineer - Manhattan Active Wareho_an-Active-Warehouse-Management"
     },
     {
-      "title": "Staff Software Development Engineer (Lead Backend - NestJs)",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0863219/Staff-Software-Development-Engineer-Lead-Backend-NestJs",
-      "identifier": "Staff Software Development Engineer (Lead Backend _t-Engineer-Lead-Backend-NestJs"
+      "title": "Business Analyst - ServiceNow HRSD",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0840851/Business-Analyst-ServiceNow-HRSD",
+      "identifier": "Business Analyst - ServiceNow HRSD_siness-Analyst-ServiceNow-HRSD"
     },
     {
       "title": "Executive Director, Systems Support",
@@ -29,21 +24,26 @@
       "identifier": "Executive Director, Systems Support_utive-Director-Systems-Support"
     },
     {
+      "title": "Staff Software Development Engineer (Lead Backend - NestJs)",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0863219/Staff-Software-Development-Engineer-Lead-Backend-NestJs",
+      "identifier": "Staff Software Development Engineer (Lead Backend _t-Engineer-Lead-Backend-NestJs"
+    },
+    {
       "title": "Associate Compute Engineer",
       "url": "https://jobs.cvshealth.com/us/en/job/R0833593/Associate-Compute-Engineer",
       "identifier": "Associate Compute Engineer_593/Associate-Compute-Engineer"
     },
     {
-      "title": "Senior Software Quality Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0860353/Senior-Software-Quality-Engineer",
-      "identifier": "Senior Software Quality Engineer_nior-Software-Quality-Engineer"
-    },
-    {
       "title": "Sr Analyst, Application Development",
       "url": "https://jobs.cvshealth.com/us/en/job/R0874411/Sr-Analyst-Application-Development",
       "identifier": "Sr Analyst, Application Development_nalyst-Application-Development"
+    },
+    {
+      "title": "Senior Anaplan Architect-2",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0866351/Senior-Anaplan-Architect-2",
+      "identifier": "Senior Anaplan Architect-2_351/Senior-Anaplan-Architect-2"
     }
   ],
   "job_count_text": "40",
-  "timestamp": "2026-04-03T00:02:23.881865"
+  "timestamp": "2026-04-03T00:19:34.281138"
 }

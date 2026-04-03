@@ -1,109 +1,14 @@
 {
   "page_title": "Salesforce Jobs | Salesforce Careers",
   "url": "https://careers.salesforce.com/en/jobs/?search=&country=United+States+of+America&team=Data&team=Enterprise+Technology+%26+Infrastructure&team=Software+Engineering&jobtype=New+Grads&pagesize=20#results",
-  "total_jobs": 20,
+  "total_jobs": 1,
   "jobs": [
     {
-      "title": "Lead, Account SE, ECS, Public Sector",
-      "url": "https://careers.salesforce.com/en/jobs/jr329351/lead-account-se-ecs-public-sector/",
-      "identifier": "Lead, Account SE, ECS, Public Sector_-account-se-ecs-public-sector/"
-    },
-    {
-      "title": "MDM Sales Specialist",
-      "url": "https://careers.salesforce.com/en/jobs/jr334736/mdm-sales-specialist/",
-      "identifier": "MDM Sales Specialist_jr334736/mdm-sales-specialist/"
-    },
-    {
-      "title": "Pre-Sales Lead Technical Architect, SMB",
-      "url": "https://careers.salesforce.com/en/jobs/jr328880/pre-sales-lead-technical-architect-smb/",
-      "identifier": "Pre-Sales Lead Technical Architect, SMB_-lead-technical-architect-smb/"
-    },
-    {
-      "title": "Business Development Representative",
-      "url": "https://careers.salesforce.com/en/jobs/jr333017/business-development-representative/",
-      "identifier": "Business Development Representative_ss-development-representative/"
-    },
-    {
-      "title": "Principal AI Architect",
-      "url": "https://careers.salesforce.com/en/jobs/jr331263/principal-ai-architect/",
-      "identifier": "Principal AI Architect_331263/principal-ai-architect/"
-    },
-    {
-      "title": "Senior Manager, Forward Deployed Engineering (Salesforce exp must)",
-      "url": "https://careers.salesforce.com/en/jobs/jr335076/senior-manager-forward-deployed-engineering-salesforce-exp-must/",
-      "identifier": "Senior Manager, Forward Deployed Engineering (Sale_gineering-salesforce-exp-must/"
-    },
-    {
-      "title": "Critical Customer Response Manager",
-      "url": "https://careers.salesforce.com/en/jobs/jr335750/critical-customer-response-manager/",
-      "identifier": "Critical Customer Response Manager_cal-customer-response-manager/"
-    },
-    {
-      "title": "Senior Product Manager - Data Platform",
-      "url": "https://careers.salesforce.com/en/jobs/jr326750/senior-product-manager-data-platform/",
-      "identifier": "Senior Product Manager - Data Platform_product-manager-data-platform/"
-    },
-    {
-      "title": "Software Engineering MTS- Tableau",
-      "url": "https://careers.salesforce.com/en/jobs/jr327532/software-engineering-mts-tableau/",
-      "identifier": "Software Engineering MTS- Tableau_tware-engineering-mts-tableau/"
-    },
-    {
-      "title": "Salesforce Project Manager - Japanese speaking",
-      "url": "https://careers.salesforce.com/en/jobs/jr336879/salesforce-project-manager-japanese-speaking/",
-      "identifier": "Salesforce Project Manager - Japanese speaking_ect-manager-japanese-speaking/"
-    },
-    {
-      "title": "Senior Technical Writer",
-      "url": "https://careers.salesforce.com/en/jobs/jr336886/senior-technical-writer/",
-      "identifier": "Senior Technical Writer_36886/senior-technical-writer/"
-    },
-    {
-      "title": "Forward Deployed Engineer Associate",
-      "url": "https://careers.salesforce.com/en/jobs/jr335055/forward-deployed-engineer-associate/",
-      "identifier": "Forward Deployed Engineer Associate_d-deployed-engineer-associate/"
-    },
-    {
-      "title": "Product Strategy Lead, Missionforce",
-      "url": "https://careers.salesforce.com/en/jobs/jr329656/product-strategy-lead-missionforce/",
-      "identifier": "Product Strategy Lead, Missionforce_ct-strategy-lead-missionforce/"
-    },
-    {
-      "title": "Manager, Forward Deployed Engineering (Salesforce exp must)",
-      "url": "https://careers.salesforce.com/en/jobs/jr335073/manager-forward-deployed-engineering-salesforce-exp-must/",
-      "identifier": "Manager, Forward Deployed Engineering (Salesforce _gineering-salesforce-exp-must/"
-    },
-    {
-      "title": "Product Forward Deployed Engineer",
-      "url": "https://careers.salesforce.com/en/jobs/jr335053/product-forward-deployed-engineer/",
-      "identifier": "Product Forward Deployed Engineer_uct-forward-deployed-engineer/"
-    },
-    {
-      "title": "Principal Data & AI Architect",
-      "url": "https://careers.salesforce.com/en/jobs/jr331275/principal-data-ai-architect/",
-      "identifier": "Principal Data & AI Architect_5/principal-data-ai-architect/"
-    },
-    {
-      "title": "Program Manager-Operations",
-      "url": "https://careers.salesforce.com/en/jobs/jr336404/program-manager-operations/",
-      "identifier": "Program Manager-Operations_04/program-manager-operations/"
-    },
-    {
-      "title": "Customer Success Manager - Informatica",
-      "url": "https://careers.salesforce.com/en/jobs/jr336600/customer-success-manager-informatica/",
-      "identifier": "Customer Success Manager - Informatica_r-success-manager-informatica/"
-    },
-    {
-      "title": "Digital Account Executive, Federal",
-      "url": "https://careers.salesforce.com/en/jobs/jr336742/digital-account-executive-federal/",
-      "identifier": "Digital Account Executive, Federal_tal-account-executive-federal/"
-    },
-    {
-      "title": "Product Manager Senior Specialist / Product Manager",
-      "url": "https://careers.salesforce.com/en/jobs/jr333150/product-manager-senior-specialist-product-manager/",
-      "identifier": "Product Manager Senior Specialist / Product Manage_or-specialist-product-manager/"
+      "title": "Software Engineering AMTS (College Grad)",
+      "url": "https://careers.salesforce.com/en/jobs/jr330400/software-engineering-amts-college-grad/",
+      "identifier": "Software Engineering AMTS (College Grad)_engineering-amts-college-grad/"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-03T12:46:47.175248"
+  "timestamp": "2026-04-03T13:03:49.969688"
 }

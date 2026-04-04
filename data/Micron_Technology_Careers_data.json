@@ -4,11 +4,6 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "New College Grad - Process Engineer ID1\nBoise, Idaho, United States of America\nPosted 2 days ago",
-      "url": "https://careers.micron.com/careers/job/40367274",
-      "identifier": "New College Grad - Process Engineer ID1\nBoise, Ida_icron.com/careers/job/40367274"
-    },
-    {
       "title": "US FE Expansion Planning Engineer\nBoise, Idaho, United States of America\nPosted 2 days ago",
       "url": "https://careers.micron.com/careers/job/40986798",
       "identifier": "US FE Expansion Planning Engineer\nBoise, Idaho, Un_icron.com/careers/job/40986798"
@@ -17,6 +12,11 @@
       "title": "Change Management Engineer\nBoise, Idaho, United States of America\nPosted 2 days ago",
       "url": "https://careers.micron.com/careers/job/38368336",
       "identifier": "Change Management Engineer\nBoise, Idaho, United St_icron.com/careers/job/38368336"
+    },
+    {
+      "title": "New College Grad - Process Engineer ID1\nBoise, Idaho, United States of America\nPosted 2 days ago",
+      "url": "https://careers.micron.com/careers/job/40367274",
+      "identifier": "New College Grad - Process Engineer ID1\nBoise, Ida_icron.com/careers/job/40367274"
     },
     {
       "title": "Industrial Engineer, DPAG\nBoise, Idaho, United States of America\nPosted 3 days ago",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "68",
-  "timestamp": "2026-04-04T10:23:04.440556"
+  "timestamp": "2026-04-04T10:40:19.268917"
 }

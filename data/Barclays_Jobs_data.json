@@ -1,13 +1,8 @@
 {
   "page_title": "Search our Job Opportunities at Barclays",
   "url": "https://search.jobs.barclays/search-jobs/United%20States/13015/2/6252001/39x76/-98x5/50/2",
-  "total_jobs": 16,
+  "total_jobs": 15,
   "jobs": [
-    {
-      "title": "Assistant VP, Fx Options Trader",
-      "url": "https://search.jobs.barclays/job/new-york/assistant-vp-fx-options-trader/13015/93512458880",
-      "identifier": "Assistant VP, Fx Options Trader_tions-trader/13015/93512458880"
-    },
     {
       "title": "US Investment Grade Strategy VP",
       "url": "https://search.jobs.barclays/job/new-york/us-investment-grade-strategy-vp/13015/93512450416",
@@ -64,11 +59,6 @@
       "identifier": "Laws, Rules, and Regulations Oversight Risk - AVP_ght-risk-avp/13015/93474483200"
     },
     {
-      "title": "Prime Structuring, Client Returns AVP",
-      "url": "https://search.jobs.barclays/job/new-york/prime-structuring-client-returns-avp/13015/93474482624",
-      "identifier": "Prime Structuring, Client Returns AVP_-returns-avp/13015/93474482624"
-    },
-    {
       "title": "Loyalty Marketing Manager",
       "url": "https://search.jobs.barclays/job/wilmington/loyalty-marketing-manager/13015/93474477104",
       "identifier": "Loyalty Marketing Manager_ting-manager/13015/93474477104"
@@ -82,8 +72,13 @@
       "title": "Technical Data Analyst, AVP",
       "url": "https://search.jobs.barclays/job/whippany/technical-data-analyst-avp/13015/93462019120",
       "identifier": "Technical Data Analyst, AVP_-analyst-avp/13015/93462019120"
+    },
+    {
+      "title": "US Basel Regulatory Capital Reporting VP",
+      "url": "https://search.jobs.barclays/job/whippany/us-basel-regulatory-capital-reporting-vp/13015/93462015440",
+      "identifier": "US Basel Regulatory Capital Reporting VP_reporting-vp/13015/93462015440"
     }
   ],
-  "job_count_text": "114",
-  "timestamp": "2026-04-04T05:24:36.820483"
+  "job_count_text": "111",
+  "timestamp": "2026-04-04T05:41:48.010098"
 }

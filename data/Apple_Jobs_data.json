@@ -4,6 +4,16 @@
   "total_jobs": 20,
   "jobs": [
     {
+      "title": "SW User Experience Automation QE",
+      "url": "https://jobs.apple.com/en-us/details/200655866-3543/sw-user-experience-automation-qe?team=SFTWR",
+      "identifier": "SW User Experience Automation QE_ience-automation-qe?team=SFTWR"
+    },
+    {
+      "title": "Engineering Program Manager, OS Build Train Management & Integration",
+      "url": "https://jobs.apple.com/en-us/details/200655873-3543/engineering-program-manager-os-build-train-management-integration?team=SFTWR",
+      "identifier": "Engineering Program Manager, OS Build Train Manage_agement-integration?team=SFTWR"
+    },
+    {
       "title": "Machine Learning Engineer \u2014 On-device Control and Optimization, Core OS",
       "url": "https://jobs.apple.com/en-us/details/200655892-3337/machine-learning-engineer-on-device-control-and-optimization-core-os?team=SFTWR",
       "identifier": "Machine Learning Engineer \u2014 On-device Control and _ptimization-core-os?team=SFTWR"
@@ -92,18 +102,8 @@
       "title": "Tools & Automation Engineer, Wireless Technologies & Ecosystems",
       "url": "https://jobs.apple.com/en-us/details/200655755-0836/tools-automation-engineer-wireless-technologies-ecosystems?team=SFTWR",
       "identifier": "Tools & Automation Engineer, Wireless Technologies_nologies-ecosystems?team=SFTWR"
-    },
-    {
-      "title": "Senior ML Infrastructure Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200653827-0836/senior-ml-infrastructure-engineer?team=SFTWR",
-      "identifier": "Senior ML Infrastructure Engineer_astructure-engineer?team=SFTWR"
-    },
-    {
-      "title": "Quality Engineer - Heath Software",
-      "url": "https://jobs.apple.com/en-us/details/200640109-3543/quality-engineer-heath-software?team=SFTWR",
-      "identifier": "Quality Engineer - Heath Software_neer-heath-software?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-04T00:41:57.317925"
+  "timestamp": "2026-04-04T00:59:09.600738"
 }

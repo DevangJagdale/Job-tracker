@@ -1,64 +1,14 @@
 {
   "page_title": "Salesforce Jobs | Salesforce Careers",
   "url": "https://careers.salesforce.com/en/jobs/?search=&country=United+States+of+America&team=Data&team=Enterprise+Technology+%26+Infrastructure&team=Software+Engineering&jobtype=New+Grads&pagesize=20#results",
-  "total_jobs": 11,
+  "total_jobs": 1,
   "jobs": [
     {
       "title": "Software Engineering AMTS (College Grad)",
       "url": "https://careers.salesforce.com/en/jobs/jr330400/software-engineering-amts-college-grad/",
       "identifier": "Software Engineering AMTS (College Grad)_engineering-amts-college-grad/"
-    },
-    {
-      "title": "LATAM Internship Program | Onboarding & Delivery [Mexico]",
-      "url": "https://careers.salesforce.com/en/jobs/jr332254/latam-internship-program-onboarding-delivery-mexico/",
-      "identifier": "LATAM Internship Program | Onboarding & Delivery [_am-onboarding-delivery-mexico/"
-    },
-    {
-      "title": "Sales Development Representative - Dutch Speaker",
-      "url": "https://careers.salesforce.com/en/jobs/jr335767/sales-development-representative-dutch-speaker/",
-      "identifier": "Sales Development Representative - Dutch Speaker_-representative-dutch-speaker/"
-    },
-    {
-      "title": "Internship- Sales or Solution Engineering Paths-Stockholm",
-      "url": "https://careers.salesforce.com/en/jobs/jr335096/internship-sales-or-solution-engineering-paths-stockholm/",
-      "identifier": "Internship- Sales or Solution Engineering Paths-St_n-engineering-paths-stockholm/"
-    },
-    {
-      "title": "Intern:Sales Programs-Business Operations (Milan| Sept 2026)",
-      "url": "https://careers.salesforce.com/en/jobs/jr336595/internsales-programs-business-operations-milan-sept-2026/",
-      "identifier": "Intern:Sales Programs-Business Operations (Milan| _ss-operations-milan-sept-2026/"
-    },
-    {
-      "title": "Intern: Tech Sales & Business Development (Milan | September 2026)",
-      "url": "https://careers.salesforce.com/en/jobs/jr336586/intern-tech-sales-business-development-milan-september-2026/",
-      "identifier": "Intern: Tech Sales & Business Development (Milan |_elopment-milan-september-2026/"
-    },
-    {
-      "title": "Internship- Sales or Solution Engineering Paths-Oslo",
-      "url": "https://careers.salesforce.com/en/jobs/jr335092/internship-sales-or-solution-engineering-paths-oslo/",
-      "identifier": "Internship- Sales or Solution Engineering Paths-Os_lution-engineering-paths-oslo/"
-    },
-    {
-      "title": "Summer 2026 Intern - Recruiting Optimization",
-      "url": "https://careers.salesforce.com/en/jobs/jr328032/summer-2026-intern-recruiting-optimization/",
-      "identifier": "Summer 2026 Intern - Recruiting Optimization_ntern-recruiting-optimization/"
-    },
-    {
-      "title": "Internship- Sales or Solution Engineering Paths-Espoo",
-      "url": "https://careers.salesforce.com/en/jobs/jr335117/internship-sales-or-solution-engineering-paths-espoo/",
-      "identifier": "Internship- Sales or Solution Engineering Paths-Es_ution-engineering-paths-espoo/"
-    },
-    {
-      "title": "Sales Development Representative, NGO and Public Sector - Nordic Market",
-      "url": "https://careers.salesforce.com/en/jobs/jr333530/sales-development-representative-ngo-and-public-sector-nordic-market/",
-      "identifier": "Sales Development Representative, NGO and Public S_d-public-sector-nordic-market/"
-    },
-    {
-      "title": "Internship- Sales or Solution Engineering Paths-Copenhagen",
-      "url": "https://careers.salesforce.com/en/jobs/jr335115/internship-sales-or-solution-engineering-paths-copenhagen/",
-      "identifier": "Internship- Sales or Solution Engineering Paths-Co_-engineering-paths-copenhagen/"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-04T13:38:09.843283"
+  "timestamp": "2026-04-04T13:55:08.810838"
 }

@@ -4,21 +4,6 @@
   "total_jobs": 8,
   "jobs": [
     {
-      "title": "Senior Analyst, Business Analysis",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0828286/Senior-Analyst-Business-Analysis",
-      "identifier": "Senior Analyst, Business Analysis_nior-Analyst-Business-Analysis"
-    },
-    {
-      "title": "Full Stack Associate Software Development Engineer (Java)",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0866170/Full-Stack-Associate-Software-Development-Engineer-Java",
-      "identifier": "Full Stack Associate Software Development Engineer_ware-Development-Engineer-Java"
-    },
-    {
-      "title": "Senior Software Development Engineer-Full Stack-AI",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0839133/Senior-Software-Development-Engineer-Full-Stack-AI",
-      "identifier": "Senior Software Development Engineer-Full Stack-AI_lopment-Engineer-Full-Stack-AI"
-    },
-    {
       "title": "Staff Software Development Engineer-Automation Engineer",
       "url": "https://jobs.cvshealth.com/us/en/job/R0862795/Staff-Software-Development-Engineer-Automation-Engineer",
       "identifier": "Staff Software Development Engineer-Automation Eng_t-Engineer-Automation-Engineer"
@@ -27,6 +12,21 @@
       "title": "Epic EHR Development Lead- Senior Manager-Software Development",
       "url": "https://jobs.cvshealth.com/us/en/job/R0869292/Epic-EHR-Development-Lead-Senior-Manager-Software-Development",
       "identifier": "Epic EHR Development Lead- Senior Manager-Software_r-Manager-Software-Development"
+    },
+    {
+      "title": "Senior Analyst, Business Analysis",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0828286/Senior-Analyst-Business-Analysis",
+      "identifier": "Senior Analyst, Business Analysis_nior-Analyst-Business-Analysis"
+    },
+    {
+      "title": "Senior Software Development Engineer-Full Stack-AI",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0839133/Senior-Software-Development-Engineer-Full-Stack-AI",
+      "identifier": "Senior Software Development Engineer-Full Stack-AI_lopment-Engineer-Full-Stack-AI"
+    },
+    {
+      "title": "Full Stack Associate Software Development Engineer (Java)",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0866170/Full-Stack-Associate-Software-Development-Engineer-Java",
+      "identifier": "Full Stack Associate Software Development Engineer_ware-Development-Engineer-Java"
     },
     {
       "title": "Senior Software Development Engineer",
@@ -39,11 +39,11 @@
       "identifier": "Epic EHR Development Lead-Senior Manager-Software _r-Manager-Software-Development"
     },
     {
-      "title": "Executive Director, Systems Support",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0876438/Executive-Director-Systems-Support",
-      "identifier": "Executive Director, Systems Support_utive-Director-Systems-Support"
+      "title": "Associate Compute Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0833593/Associate-Compute-Engineer",
+      "identifier": "Associate Compute Engineer_593/Associate-Compute-Engineer"
     }
   ],
   "job_count_text": "34",
-  "timestamp": "2026-04-04T15:53:32.521115"
+  "timestamp": "2026-04-04T16:10:25.985158"
 }

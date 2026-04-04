@@ -1,8 +1,59 @@
 {
   "page_title": "Job Openings - Cisco Careers",
   "url": "https://careers.cisco.com/global/en/search-results?s=1",
-  "total_jobs": 815,
-  "jobs": [],
-  "job_count_text": "815",
-  "timestamp": "2026-04-04T12:45:27.189781"
+  "total_jobs": 10,
+  "jobs": [
+    {
+      "title": "Field Sales Intern (United States)",
+      "url": "https://careers.cisco.com/global/en/job/2012189/Field-Sales-Intern-United-States",
+      "identifier": "Field Sales Intern (United States)_eld-Sales-Intern-United-States"
+    },
+    {
+      "title": "Software Engineer Data/AI/Intelligent Systems II (Full Time) \u2013 United States",
+      "url": "https://careers.cisco.com/global/en/job/2000137/Software-Engineer-Data-AI-Intelligent-Systems-II-Full-Time-United-States",
+      "identifier": "Software Engineer Data/AI/Intelligent Systems II (_ems-II-Full-Time-United-States"
+    },
+    {
+      "title": "Software Engineer Data/AI/Intelligent Systems I (Full Time) \u2013 United States",
+      "url": "https://careers.cisco.com/global/en/job/2000073/Software-Engineer-Data-AI-Intelligent-Systems-I-Full-Time-United-States",
+      "identifier": "Software Engineer Data/AI/Intelligent Systems I (F_tems-I-Full-Time-United-States"
+    },
+    {
+      "title": "Technical Sales Engineer Intern (United States)",
+      "url": "https://careers.cisco.com/global/en/job/2012190/Technical-Sales-Engineer-Intern-United-States",
+      "identifier": "Technical Sales Engineer Intern (United States)_-Engineer-Intern-United-States"
+    },
+    {
+      "title": "Software Engineer Full Stack & Application Development I (Full Time) \u2013 United States",
+      "url": "https://careers.cisco.com/global/en/job/2000087/Software-Engineer-Full-Stack-Application-Development-I-Full-Time-United-States",
+      "identifier": "Software Engineer Full Stack & Application Develop_ment-I-Full-Time-United-States"
+    },
+    {
+      "title": "UI/UX Designer I (Full Time) - United States",
+      "url": "https://careers.cisco.com/global/en/job/2009286/UI-UX-Designer-I-Full-Time-United-States",
+      "identifier": "UI/UX Designer I (Full Time) - United States_gner-I-Full-Time-United-States"
+    },
+    {
+      "title": "Corporate Strategy Manager MBA (Intern) - United States",
+      "url": "https://careers.cisco.com/global/en/job/2006310/Corporate-Strategy-Manager-MBA-Intern-United-States",
+      "identifier": "Corporate Strategy Manager MBA (Intern) - United S_nager-MBA-Intern-United-States"
+    },
+    {
+      "title": "Customer Experience Project Specialist I (Full-Time) - United States",
+      "url": "https://careers.cisco.com/global/en/job/2001576/Customer-Experience-Project-Specialist-I-Full-Time-United-States",
+      "identifier": "Customer Experience Project Specialist I (Full-Tim_list-I-Full-Time-United-States"
+    },
+    {
+      "title": "Strategy and Operations Manager MBA (Full Time) - United States",
+      "url": "https://careers.cisco.com/global/en/job/2011072/Strategy-and-Operations-Manager-MBA-Full-Time-United-States",
+      "identifier": "Strategy and Operations Manager MBA (Full Time) - _er-MBA-Full-Time-United-States"
+    },
+    {
+      "title": "Account Development Representative II (Full Time) United States",
+      "url": "https://careers.cisco.com/global/en/job/2001887/Account-Development-Representative-II-Full-Time-United-States",
+      "identifier": "Account Development Representative II (Full Time) _ive-II-Full-Time-United-States"
+    }
+  ],
+  "job_count_text": "12",
+  "timestamp": "2026-04-04T13:02:24.901109"
 }

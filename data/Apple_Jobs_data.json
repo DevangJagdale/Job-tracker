@@ -1,8 +1,13 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 19,
+  "total_jobs": 20,
   "jobs": [
+    {
+      "title": "Machine Learning Engineer \u2014 On-device Control and Optimization, Core OS",
+      "url": "https://jobs.apple.com/en-us/details/200655892-3337/machine-learning-engineer-on-device-control-and-optimization-core-os?team=SFTWR",
+      "identifier": "Machine Learning Engineer \u2014 On-device Control and _ptimization-core-os?team=SFTWR"
+    },
     {
       "title": "Hardware System Power Engineer - Apple Vision Pro",
       "url": "https://jobs.apple.com/en-us/details/200655686-3749/hardware-system-power-engineer-apple-vision-pro?team=SFTWR",
@@ -100,5 +105,5 @@
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-04T00:24:43.359867"
+  "timestamp": "2026-04-04T00:41:57.317925"
 }

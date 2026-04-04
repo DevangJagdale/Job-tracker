@@ -14,14 +14,14 @@
       "identifier": "Software Engineer Data/AI/Intelligent Systems II (_ems-II-Full-Time-United-States"
     },
     {
-      "title": "Technical Sales Engineer Intern (United States)",
-      "url": "https://careers.cisco.com/global/en/job/2012190/Technical-Sales-Engineer-Intern-United-States",
-      "identifier": "Technical Sales Engineer Intern (United States)_-Engineer-Intern-United-States"
-    },
-    {
       "title": "Software Engineer Data/AI/Intelligent Systems I (Full Time) \u2013 United States",
       "url": "https://careers.cisco.com/global/en/job/2000073/Software-Engineer-Data-AI-Intelligent-Systems-I-Full-Time-United-States",
       "identifier": "Software Engineer Data/AI/Intelligent Systems I (F_tems-I-Full-Time-United-States"
+    },
+    {
+      "title": "Technical Sales Engineer Intern (United States)",
+      "url": "https://careers.cisco.com/global/en/job/2012190/Technical-Sales-Engineer-Intern-United-States",
+      "identifier": "Technical Sales Engineer Intern (United States)_-Engineer-Intern-United-States"
     },
     {
       "title": "Software Engineer Full Stack & Application Development I (Full Time) \u2013 United States",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "12",
-  "timestamp": "2026-04-04T06:20:42.893687"
+  "timestamp": "2026-04-04T06:37:55.227753"
 }

@@ -4,6 +4,11 @@
   "total_jobs": 20,
   "jobs": [
     {
+      "title": "Realtime Media Triage Engineer, Audio & Media Technologies",
+      "url": "https://jobs.apple.com/en-us/details/200655704-3543/realtime-media-triage-engineer-audio-media-technologies?team=SFTWR",
+      "identifier": "Realtime Media Triage Engineer, Audio & Media Tech_-media-technologies?team=SFTWR"
+    },
+    {
       "title": "Software Engineer (Python) - Supply Chain Integration",
       "url": "https://jobs.apple.com/en-us/details/200655753-3956/software-engineer-python-supply-chain-integration?team=SFTWR",
       "identifier": "Software Engineer (Python) - Supply Chain Integrat_y-chain-integration?team=SFTWR"
@@ -97,13 +102,8 @@
       "title": "App Store Data Scientist",
       "url": "https://jobs.apple.com/en-us/details/200654442-0836/app-store-data-scientist?team=SFTWR",
       "identifier": "App Store Data Scientist_tore-data-scientist?team=SFTWR"
-    },
-    {
-      "title": "QA Automation Engineer - Apple Neural Engine (ANE)",
-      "url": "https://jobs.apple.com/en-us/details/200655817-3956/qa-automation-engineer-apple-neural-engine-ane?team=SFTWR",
-      "identifier": "QA Automation Engineer - Apple Neural Engine (ANE)_e-neural-engine-ane?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-04T12:09:41.212200"
+  "timestamp": "2026-04-04T12:26:38.084098"
 }

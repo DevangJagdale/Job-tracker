@@ -4,9 +4,9 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "New College Grad - Process Engineer ID1\nBoise, Idaho, United States of America\nPosted 4 days ago",
-      "url": "https://careers.micron.com/careers/job/40367274",
-      "identifier": "New College Grad - Process Engineer ID1\nBoise, Ida_icron.com/careers/job/40367274"
+      "title": "Change Management Engineer\nBoise, Idaho, United States of America\nPosted 4 days ago",
+      "url": "https://careers.micron.com/careers/job/38368336",
+      "identifier": "Change Management Engineer\nBoise, Idaho, United St_icron.com/careers/job/38368336"
     },
     {
       "title": "US FE Expansion Planning Engineer\nBoise, Idaho, United States of America\nPosted 4 days ago",
@@ -14,14 +14,19 @@
       "identifier": "US FE Expansion Planning Engineer\nBoise, Idaho, Un_icron.com/careers/job/40986798"
     },
     {
-      "title": "Change Management Engineer\nBoise, Idaho, United States of America\nPosted 4 days ago",
-      "url": "https://careers.micron.com/careers/job/38368336",
-      "identifier": "Change Management Engineer\nBoise, Idaho, United St_icron.com/careers/job/38368336"
+      "title": "New College Grad - Process Engineer ID1\nBoise, Idaho, United States of America\nPosted 4 days ago",
+      "url": "https://careers.micron.com/careers/job/40367274",
+      "identifier": "New College Grad - Process Engineer ID1\nBoise, Ida_icron.com/careers/job/40367274"
     },
     {
       "title": "Industrial Engineer, DPAG\nBoise, Idaho, United States of America\nPosted 5 days ago",
       "url": "https://careers.micron.com/careers/job/41159842",
       "identifier": "Industrial Engineer, DPAG\nBoise, Idaho, United Sta_icron.com/careers/job/41159842"
+    },
+    {
+      "title": "Design Characterization Engineer\nSan Jose, California, United States of America\nPosted 6 days ago",
+      "url": "https://careers.micron.com/careers/job/41139984",
+      "identifier": "Design Characterization Engineer\nSan Jose, Califor_icron.com/careers/job/41139984"
     },
     {
       "title": "Semiconductor Design Engineer\nRichardson, Texas, United States of America\nPosted 6 days ago",
@@ -32,11 +37,6 @@
       "title": "Product Development Engineer\nBoise, Idaho, United States of America\nPosted 6 days ago",
       "url": "https://careers.micron.com/careers/job/41153769",
       "identifier": "Product Development Engineer\nBoise, Idaho, United _icron.com/careers/job/41153769"
-    },
-    {
-      "title": "Design Characterization Engineer\nSan Jose, California, United States of America\nPosted 6 days ago",
-      "url": "https://careers.micron.com/careers/job/41139984",
-      "identifier": "Design Characterization Engineer\nSan Jose, Califor_icron.com/careers/job/41139984"
     },
     {
       "title": "New College Grad - Silicon Planning Engineer\nBoise, Idaho, United States of America\nPosted 7 days ago",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "68",
-  "timestamp": "2026-04-05T21:30:30.289454"
+  "timestamp": "2026-04-05T21:47:38.107002"
 }

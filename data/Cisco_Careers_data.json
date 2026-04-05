@@ -4,6 +4,11 @@
   "total_jobs": 10,
   "jobs": [
     {
+      "title": "Strategy and Operations Manager MBA (Full Time) - United States",
+      "url": "https://careers.cisco.com/global/en/job/2011072/Strategy-and-Operations-Manager-MBA-Full-Time-United-States",
+      "identifier": "Strategy and Operations Manager MBA (Full Time) - _er-MBA-Full-Time-United-States"
+    },
+    {
       "title": "Field Sales Intern (United States)",
       "url": "https://careers.cisco.com/global/en/job/2012189/Field-Sales-Intern-United-States",
       "identifier": "Field Sales Intern (United States)_eld-Sales-Intern-United-States"
@@ -14,14 +19,14 @@
       "identifier": "Software Engineer Data/AI/Intelligent Systems II (_ems-II-Full-Time-United-States"
     },
     {
-      "title": "Software Engineer Data/AI/Intelligent Systems I (Full Time) \u2013 United States",
-      "url": "https://careers.cisco.com/global/en/job/2000073/Software-Engineer-Data-AI-Intelligent-Systems-I-Full-Time-United-States",
-      "identifier": "Software Engineer Data/AI/Intelligent Systems I (F_tems-I-Full-Time-United-States"
-    },
-    {
       "title": "Technical Sales Engineer Intern (United States)",
       "url": "https://careers.cisco.com/global/en/job/2012190/Technical-Sales-Engineer-Intern-United-States",
       "identifier": "Technical Sales Engineer Intern (United States)_-Engineer-Intern-United-States"
+    },
+    {
+      "title": "Software Engineer Data/AI/Intelligent Systems I (Full Time) \u2013 United States",
+      "url": "https://careers.cisco.com/global/en/job/2000073/Software-Engineer-Data-AI-Intelligent-Systems-I-Full-Time-United-States",
+      "identifier": "Software Engineer Data/AI/Intelligent Systems I (F_tems-I-Full-Time-United-States"
     },
     {
       "title": "UI/UX Designer I (Full Time) - United States",
@@ -39,11 +44,6 @@
       "identifier": "Customer Experience Project Specialist I (Full-Tim_list-I-Full-Time-United-States"
     },
     {
-      "title": "Strategy and Operations Manager MBA (Full Time) - United States",
-      "url": "https://careers.cisco.com/global/en/job/2011072/Strategy-and-Operations-Manager-MBA-Full-Time-United-States",
-      "identifier": "Strategy and Operations Manager MBA (Full Time) - _er-MBA-Full-Time-United-States"
-    },
-    {
       "title": "Account Development Representative II (Full Time) United States",
       "url": "https://careers.cisco.com/global/en/job/2001887/Account-Development-Representative-II-Full-Time-United-States",
       "identifier": "Account Development Representative II (Full Time) _ive-II-Full-Time-United-States"
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "11",
-  "timestamp": "2026-04-05T07:20:43.549172"
+  "timestamp": "2026-04-05T07:37:56.605893"
 }

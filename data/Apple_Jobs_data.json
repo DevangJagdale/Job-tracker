@@ -4,6 +4,11 @@
   "total_jobs": 17,
   "jobs": [
     {
+      "title": "App Developer - Maps App Guidance Team",
+      "url": "https://jobs.apple.com/en-us/details/200649018-0670/app-developer-maps-app-guidance-team?team=SFTWR",
+      "identifier": "App Developer - Maps App Guidance Team_s-app-guidance-team?team=SFTWR"
+    },
+    {
       "title": "SW Engineering Program Manager, Intelligent System Experience",
       "url": "https://jobs.apple.com/en-us/details/200656131-0836/sw-engineering-program-manager-intelligent-system-experience?team=SFTWR",
       "identifier": "SW Engineering Program Manager, Intelligent System_t-system-experience?team=SFTWR"
@@ -82,13 +87,8 @@
       "title": "Full-Stack RoR Engineer, Retail & Marcom Engineering",
       "url": "https://jobs.apple.com/en-us/details/200631160-3956/full-stack-ror-engineer-retail-marcom-engineering?team=SFTWR",
       "identifier": "Full-Stack RoR Engineer, Retail & Marcom Engineeri_-marcom-engineering?team=SFTWR"
-    },
-    {
-      "title": "Realtime Media Triage Engineer, Audio & Media Technologies",
-      "url": "https://jobs.apple.com/en-us/details/200655704-3543/realtime-media-triage-engineer-audio-media-technologies?team=SFTWR",
-      "identifier": "Realtime Media Triage Engineer, Audio & Media Tech_-media-technologies?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-06T22:48:27.228880"
+  "timestamp": "2026-04-06T23:05:39.579976"
 }

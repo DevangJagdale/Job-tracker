@@ -1,8 +1,14 @@
 {
-  "page_title": "Service unavailable",
-  "url": "https://careers.salesforce.com/en/jobs/?search=&country=United+States+of+America&team=Data&team=Enterprise+Technology+%26+Infrastructure&team=Software+Engineering&jobtype=New+Grads&pagesize=20&afd_azwaf_tok=eyJraWQiOiI0MjRBQjc0OUU3QzQxMzE0M0I2NUQ1QTJGMEJGMTRCM0NEOEUyNzU4NkY4RUQ5QjI3NjIwMEMyRTc4RjBCOTlBIiwiYWxnIjoiUlMyNTYifQ.eyJhdWQiOiJjYXJlZXJzLnNhbGVzZm9yY2UuY29tIiwiZXhwIjoxNzc1NDk5OTc5LCJpYXQiOjE3NzU0OTk5NjksImlzcyI6InRpZXIxLTViY2JiYzU5NDQtcWRudGciLCJzdWIiOiIyMC41MS4xOTguMTkyIiwiZGF0YSI6eyJ0eXBlIjoiaXNzdWVkIiwicmVmIjoiMjAyNjA0MDZUMTgyNjA5Wi0xNWJjYmJjNTk0NHFkbnRnaEMxSUFEd21tZzAwMDAwMDBjNTAwMDAwMDAwMDRodWEiLCJiIjoiMm5TTWhsb0NBNHVpTWFld2hFTHZRY21RNGJOM0FGamFpTTlFOTJXZUlCRSIsImgiOiJrVmpEem42dXFZM2lSZVFvMWFNanNxY0FWbERXUHZZTEtyLU1QdHFrM0VFIn19.VuM0xhStNPAobO5G9v9hnDIW_cAeDn8rI9hBOkCdzkAtWkys6G0TUQ-5FXLOmBSMksKphvzaij-K0nu2ynhfle2XqzmQhiJeNXhQ9KHMxSNmMOREQLcz00p24s_ePdOz0NzQqzB9uzAwVo-i26ZhphZSNoXEszhTh_9EB_NkV2zufEzVUDOJm2GXt8uaXYQH3LKivJ691SqIvAVDAnWKk7G_CN2BBpdfPn7XPWKwzR5IDQ90Cces1wYP7rLWdoiSWd2-k14VMpFp96cMkliJv_LeilvXZf7nfHzfnumDDDydgAojHhZT7_4DesZTCzKPJ5c_xhyF4m9xofFEwCeqjA.WF3obl2IDtqgvMFRqVdYkD5s#results",
-  "total_jobs": 0,
-  "jobs": [],
+  "page_title": "Salesforce Jobs | Salesforce Careers",
+  "url": "https://careers.salesforce.com/en/jobs/?search=&country=United+States+of+America&team=Data&team=Enterprise+Technology+%26+Infrastructure&team=Software+Engineering&jobtype=New+Grads&pagesize=20#results",
+  "total_jobs": 1,
+  "jobs": [
+    {
+      "title": "Software Engineering AMTS (College Grad)",
+      "url": "https://careers.salesforce.com/en/jobs/jr330400/software-engineering-amts-college-grad/",
+      "identifier": "Software Engineering AMTS (College Grad)_engineering-amts-college-grad/"
+    }
+  ],
   "job_count_text": "",
-  "timestamp": "2026-04-06T18:26:22.573576"
+  "timestamp": "2026-04-06T18:34:05.784882"
 }

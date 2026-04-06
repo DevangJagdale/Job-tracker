@@ -4,17 +4,17 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Senior Data Scientist\nUnited States, Multiple Locations, Multiple Locations + 2 more\nPosted 14 minutes ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556641469?domain=microsoft.com",
-      "identifier": "Senior Data Scientist\nUnited States, Multiple Loca_556641469?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 13 minutes ago",
+      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 31 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556803414?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Washington_556803414?domain=microsoft.com"
     },
     {
-      "title": "Senior Machine Learning Engineer\nUnited States, Washington, Redmond\nPosted 42 minutes ago",
+      "title": "Senior Data Scientist\nUnited States, Multiple Locations, Multiple Locations + 2 more\nPosted 32 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556641469?domain=microsoft.com",
+      "identifier": "Senior Data Scientist\nUnited States, Multiple Loca_556641469?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Machine Learning Engineer\nUnited States, Washington, Redmond\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556649655?domain=microsoft.com",
       "identifier": "Senior Machine Learning Engineer\nUnited States, Wa_556649655?domain=microsoft.com"
     },
@@ -29,7 +29,7 @@
       "identifier": "Senior Software Engineer - AI Infrastructure (Sche_556628782?domain=microsoft.com"
     },
     {
-      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted an hour ago",
+      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556855317?domain=microsoft.com",
       "identifier": "Software Engineer II\nUnited States, Washington, Re_556855317?domain=microsoft.com"
     },
@@ -54,6 +54,6 @@
       "identifier": "Principal Software Engineer\nUnited States, Washing_556658313?domain=microsoft.com"
     }
   ],
-  "job_count_text": "734",
-  "timestamp": "2026-04-06T18:47:30.334104"
+  "job_count_text": "733",
+  "timestamp": "2026-04-06T19:04:47.448077"
 }

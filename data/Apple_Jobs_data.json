@@ -4,6 +4,11 @@
   "total_jobs": 19,
   "jobs": [
     {
+      "title": "Software Engineer \u2014 LLM Systems, Generative AI Infrastructure & Agentic Platforms",
+      "url": "https://jobs.apple.com/en-us/details/200649842-0836/software-engineer-llm-systems-generative-ai-infrastructure-agentic-platforms?team=MLAI",
+      "identifier": "Software Engineer \u2014 LLM Systems, Generative AI Inf_re-agentic-platforms?team=MLAI"
+    },
+    {
       "title": "Software Engineer (Functional), Supply Chain Integration",
       "url": "https://jobs.apple.com/en-us/details/200655634-0157/software-engineer-functional-supply-chain-integration?team=SFTWR",
       "identifier": "Software Engineer (Functional), Supply Chain Integ_y-chain-integration?team=SFTWR"
@@ -92,13 +97,8 @@
       "title": "Character Animator- Generative AI Experiences Software",
       "url": "https://jobs.apple.com/en-us/details/200655784-0836/character-animator-generative-ai-experiences-software?team=SFTWR",
       "identifier": "Character Animator- Generative AI Experiences Soft_xperiences-software?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer - Intelligent Engineering Workflows",
-      "url": "https://jobs.apple.com/en-us/details/200655381-3543/software-engineer-intelligent-engineering-workflows?team=SFTWR",
-      "identifier": "Software Engineer - Intelligent Engineering Workfl_gineering-workflows?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-06T18:05:40.893842"
+  "timestamp": "2026-04-06T18:22:48.264800"
 }

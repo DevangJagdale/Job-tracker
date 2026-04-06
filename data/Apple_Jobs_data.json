@@ -4,6 +4,11 @@
   "total_jobs": 19,
   "jobs": [
     {
+      "title": "Software Development Engineer - Test ICT4, Graphics, Games & ML",
+      "url": "https://jobs.apple.com/en-us/details/200655610/software-development-engineer-test-ict4-graphics-games-ml?team=SFTWR",
+      "identifier": "Software Development Engineer - Test ICT4, Graphic_4-graphics-games-ml?team=SFTWR"
+    },
+    {
       "title": "iOS Engineer- Apple Cloud Products ASE",
       "url": "https://jobs.apple.com/en-us/details/200655833-0157/ios-engineer-apple-cloud-products-ase?team=SFTWR",
       "identifier": "iOS Engineer- Apple Cloud Products ASE_-cloud-products-ase?team=SFTWR"
@@ -92,13 +97,8 @@
       "title": "Wi-Fi Firmware Development Engineer, Wireless Technologies & Ecosystems",
       "url": "https://jobs.apple.com/en-us/details/200655757-0836/wi-fi-firmware-development-engineer-wireless-technologies-ecosystems?team=SFTWR",
       "identifier": "Wi-Fi Firmware Development Engineer, Wireless Tech_nologies-ecosystems?team=SFTWR"
-    },
-    {
-      "title": "Sr. Machine Learning Engineer, Vision Products Group",
-      "url": "https://jobs.apple.com/en-us/details/200655809-3956/sr-machine-learning-engineer-vision-products-group?team=MLAI",
-      "identifier": "Sr. Machine Learning Engineer, Vision Products Gro_ision-products-group?team=MLAI"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-06T18:30:32.610916"
+  "timestamp": "2026-04-06T18:47:47.115421"
 }

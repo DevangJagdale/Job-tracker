@@ -4,6 +4,11 @@
   "total_jobs": 19,
   "jobs": [
     {
+      "title": "Senior Software Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200635756-3543/senior-software-engineer?team=SFTWR",
+      "identifier": "Senior Software Engineer_r-software-engineer?team=SFTWR"
+    },
+    {
       "title": "Senior Software Engineer, Security Enablement Team ASE",
       "url": "https://jobs.apple.com/en-us/details/200656113-3337/senior-software-engineer-security-enablement-team-ase?team=SFTWR",
       "identifier": "Senior Software Engineer, Security Enablement Team_enablement-team-ase?team=SFTWR"
@@ -92,13 +97,8 @@
       "title": "SW User Experience Automation QE",
       "url": "https://jobs.apple.com/en-us/details/200655866-3543/sw-user-experience-automation-qe?team=SFTWR",
       "identifier": "SW User Experience Automation QE_ience-automation-qe?team=SFTWR"
-    },
-    {
-      "title": "Engineering Program Manager, OS Build Train Management & Integration",
-      "url": "https://jobs.apple.com/en-us/details/200655873-3543/engineering-program-manager-os-build-train-management-integration?team=SFTWR",
-      "identifier": "Engineering Program Manager, OS Build Train Manage_agement-integration?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-06T22:14:09.128995"
+  "timestamp": "2026-04-06T22:31:19.445601"
 }

@@ -4,6 +4,11 @@
   "total_jobs": 19,
   "jobs": [
     {
+      "title": "ML Engineer- Agentic Systems Evaluation",
+      "url": "https://jobs.apple.com/en-us/details/200656115-0836/ml-engineer-agentic-systems-evaluation?team=SFTWR",
+      "identifier": "ML Engineer- Agentic Systems Evaluation_-systems-evaluation?team=SFTWR"
+    },
+    {
       "title": "Senior Lab Engineer - Device Services Infrastructure",
       "url": "https://jobs.apple.com/en-us/details/200633459-3760/senior-lab-engineer-device-services-infrastructure?team=SFTWR",
       "identifier": "Senior Lab Engineer - Device Services Infrastructu_ices-infrastructure?team=SFTWR"
@@ -92,13 +97,8 @@
       "title": "Machine Learning Engineer \u2014 On-device Control and Optimization, Core OS",
       "url": "https://jobs.apple.com/en-us/details/200655892-3337/machine-learning-engineer-on-device-control-and-optimization-core-os?team=SFTWR",
       "identifier": "Machine Learning Engineer \u2014 On-device Control and _ptimization-core-os?team=SFTWR"
-    },
-    {
-      "title": "Hardware System Power Engineer - Apple Vision Pro",
-      "url": "https://jobs.apple.com/en-us/details/200655686-3749/hardware-system-power-engineer-apple-vision-pro?team=SFTWR",
-      "identifier": "Hardware System Power Engineer - Apple Vision Pro_er-apple-vision-pro?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-06T21:22:39.797552"
+  "timestamp": "2026-04-06T21:39:50.660690"
 }

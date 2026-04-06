@@ -4,6 +4,11 @@
   "total_jobs": 20,
   "jobs": [
     {
+      "title": "Full-Stack RoR Engineer, Retail & Marcom Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200631160-3956/full-stack-ror-engineer-retail-marcom-engineering?team=SFTWR",
+      "identifier": "Full-Stack RoR Engineer, Retail & Marcom Engineeri_-marcom-engineering?team=SFTWR"
+    },
+    {
       "title": "Realtime Media Triage Engineer, Audio & Media Technologies",
       "url": "https://jobs.apple.com/en-us/details/200655704-3543/realtime-media-triage-engineer-audio-media-technologies?team=SFTWR",
       "identifier": "Realtime Media Triage Engineer, Audio & Media Tech_-media-technologies?team=SFTWR"
@@ -97,13 +102,8 @@
       "title": "SwiftUI Previews Engineer",
       "url": "https://jobs.apple.com/en-us/details/200655539-0836/swiftui-previews-engineer?team=SFTWR",
       "identifier": "SwiftUI Previews Engineer_i-previews-engineer?team=SFTWR"
-    },
-    {
-      "title": "App Store Data Scientist",
-      "url": "https://jobs.apple.com/en-us/details/200654442-0836/app-store-data-scientist?team=SFTWR",
-      "identifier": "App Store Data Scientist_tore-data-scientist?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-06T04:08:27.007646"
+  "timestamp": "2026-04-06T04:25:30.720772"
 }

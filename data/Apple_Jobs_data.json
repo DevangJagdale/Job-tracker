@@ -1,8 +1,18 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 19,
+  "total_jobs": 17,
   "jobs": [
+    {
+      "title": "SW Engineering Program Manager, Intelligent System Experience",
+      "url": "https://jobs.apple.com/en-us/details/200656131-0836/sw-engineering-program-manager-intelligent-system-experience?team=SFTWR",
+      "identifier": "SW Engineering Program Manager, Intelligent System_t-system-experience?team=SFTWR"
+    },
+    {
+      "title": "Software Engineer, Infrastructure Services",
+      "url": "https://jobs.apple.com/en-us/details/200648325-0157/software-engineer-infrastructure-services?team=SFTWR",
+      "identifier": "Software Engineer, Infrastructure Services_astructure-services?team=SFTWR"
+    },
     {
       "title": "Senior Software Engineer",
       "url": "https://jobs.apple.com/en-us/details/200635756-3543/senior-software-engineer?team=SFTWR",
@@ -77,28 +87,8 @@
       "title": "Realtime Media Triage Engineer, Audio & Media Technologies",
       "url": "https://jobs.apple.com/en-us/details/200655704-3543/realtime-media-triage-engineer-audio-media-technologies?team=SFTWR",
       "identifier": "Realtime Media Triage Engineer, Audio & Media Tech_-media-technologies?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer (Python) - Supply Chain Integration",
-      "url": "https://jobs.apple.com/en-us/details/200655753-3956/software-engineer-python-supply-chain-integration?team=SFTWR",
-      "identifier": "Software Engineer (Python) - Supply Chain Integrat_y-chain-integration?team=SFTWR"
-    },
-    {
-      "title": "Infrastructure Planning Manager",
-      "url": "https://jobs.apple.com/en-us/details/200655840-3956/infrastructure-planning-manager?team=SFTWR",
-      "identifier": "Infrastructure Planning Manager_re-planning-manager?team=SFTWR"
-    },
-    {
-      "title": "Software Engineering Manager, Release Engineering & QA",
-      "url": "https://jobs.apple.com/en-us/details/200655872-0157/software-engineering-manager-release-engineering-qa?team=SFTWR",
-      "identifier": "Software Engineering Manager, Release Engineering _ease-engineering-qa?team=SFTWR"
-    },
-    {
-      "title": "SW User Experience Automation QE",
-      "url": "https://jobs.apple.com/en-us/details/200655866-3543/sw-user-experience-automation-qe?team=SFTWR",
-      "identifier": "SW User Experience Automation QE_ience-automation-qe?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-06T22:31:19.445601"
+  "timestamp": "2026-04-06T22:48:27.228880"
 }

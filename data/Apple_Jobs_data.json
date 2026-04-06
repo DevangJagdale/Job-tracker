@@ -4,6 +4,11 @@
   "total_jobs": 19,
   "jobs": [
     {
+      "title": "Senior Software Engineer, Security Enablement Team ASE",
+      "url": "https://jobs.apple.com/en-us/details/200656113-3337/senior-software-engineer-security-enablement-team-ase?team=SFTWR",
+      "identifier": "Senior Software Engineer, Security Enablement Team_enablement-team-ase?team=SFTWR"
+    },
+    {
       "title": "ML Engineer- Agentic Systems Evaluation",
       "url": "https://jobs.apple.com/en-us/details/200656115-0836/ml-engineer-agentic-systems-evaluation?team=SFTWR",
       "identifier": "ML Engineer- Agentic Systems Evaluation_-systems-evaluation?team=SFTWR"
@@ -92,13 +97,8 @@
       "title": "Engineering Program Manager, OS Build Train Management & Integration",
       "url": "https://jobs.apple.com/en-us/details/200655873-3543/engineering-program-manager-os-build-train-management-integration?team=SFTWR",
       "identifier": "Engineering Program Manager, OS Build Train Manage_agement-integration?team=SFTWR"
-    },
-    {
-      "title": "Machine Learning Engineer \u2014 On-device Control and Optimization, Core OS",
-      "url": "https://jobs.apple.com/en-us/details/200655892-3337/machine-learning-engineer-on-device-control-and-optimization-core-os?team=SFTWR",
-      "identifier": "Machine Learning Engineer \u2014 On-device Control and _ptimization-core-os?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-06T21:39:50.660690"
+  "timestamp": "2026-04-06T21:56:59.039354"
 }

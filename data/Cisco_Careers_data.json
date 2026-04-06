@@ -4,6 +4,11 @@
   "total_jobs": 10,
   "jobs": [
     {
+      "title": "Product Management Specialist II (Full Time) - United States",
+      "url": "https://careers.cisco.com/global/en/job/2004282/Product-Management-Specialist-II-Full-Time-United-States",
+      "identifier": "Product Management Specialist II (Full Time) - Uni_ist-II-Full-Time-United-States"
+    },
+    {
       "title": "Software Engineer Data/AI/Intelligent Systems II (Full Time) \u2013 United States",
       "url": "https://careers.cisco.com/global/en/job/2000137/Software-Engineer-Data-AI-Intelligent-Systems-II-Full-Time-United-States",
       "identifier": "Software Engineer Data/AI/Intelligent Systems II (_ems-II-Full-Time-United-States"
@@ -47,13 +52,8 @@
       "title": "Account Development Representative II (Full Time) United States",
       "url": "https://careers.cisco.com/global/en/job/2001887/Account-Development-Representative-II-Full-Time-United-States",
       "identifier": "Account Development Representative II (Full Time) _ive-II-Full-Time-United-States"
-    },
-    {
-      "title": "Global Supply Chain RISE Rotational Program I (Full Time) - United States",
-      "url": "https://careers.cisco.com/global/en/job/2011309/Global-Supply-Chain-RISE-Rotational-Program-I-Full-Time-United-States",
-      "identifier": "Global Supply Chain RISE Rotational Program I (Ful_gram-I-Full-Time-United-States"
     }
   ],
-  "job_count_text": "11",
-  "timestamp": "2026-04-06T15:50:31.345480"
+  "job_count_text": "12",
+  "timestamp": "2026-04-06T16:07:42.354571"
 }

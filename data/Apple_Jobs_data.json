@@ -4,6 +4,11 @@
   "total_jobs": 19,
   "jobs": [
     {
+      "title": "Software Engineer (Functional), Supply Chain Integration",
+      "url": "https://jobs.apple.com/en-us/details/200655634-0157/software-engineer-functional-supply-chain-integration?team=SFTWR",
+      "identifier": "Software Engineer (Functional), Supply Chain Integ_y-chain-integration?team=SFTWR"
+    },
+    {
       "title": "Data Science Manager - System Analytics & Intelligence",
       "url": "https://jobs.apple.com/en-us/details/200655853-0836/data-science-manager-system-analytics-intelligence?team=SFTWR",
       "identifier": "Data Science Manager - System Analytics & Intellig_lytics-intelligence?team=SFTWR"
@@ -92,13 +97,8 @@
       "title": "Software Engineer - Intelligent Engineering Workflows",
       "url": "https://jobs.apple.com/en-us/details/200655381-3543/software-engineer-intelligent-engineering-workflows?team=SFTWR",
       "identifier": "Software Engineer - Intelligent Engineering Workfl_gineering-workflows?team=SFTWR"
-    },
-    {
-      "title": "Engineering Manager, App Insights, Services Data Science & Analytics",
-      "url": "https://jobs.apple.com/en-us/details/200655609-3401/engineering-manager-app-insights-services-data-science-analytics?team=SFTWR",
-      "identifier": "Engineering Manager, App Insights, Services Data S_a-science-analytics?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-06T17:31:26.878966"
+  "timestamp": "2026-04-06T17:48:32.126827"
 }

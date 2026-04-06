@@ -4,24 +4,34 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 13 minutes ago",
+      "title": "Senior Software Engineer - AI Infrastructure (Scheduler) - CoreAI\nUnited States, Washington, Redmond\nPosted 11 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556628782?domain=microsoft.com",
+      "identifier": "Senior Software Engineer - AI Infrastructure (Sche_556628782?domain=microsoft.com"
+    },
+    {
+      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 10 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556851544?domain=microsoft.com",
+      "identifier": "Software Engineer II\nUnited States, Washington, Re_556851544?domain=microsoft.com"
+    },
+    {
+      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 30 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556855317?domain=microsoft.com",
       "identifier": "Software Engineer II\nUnited States, Washington, Re_556855317?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer - Azure Virtual Desktop\nUnited States, Multiple Locations, Multiple Locations + 1 more\nPosted 28 minutes ago",
+      "title": "Senior Software Engineer - Azure Virtual Desktop\nUnited States, Multiple Locations, Multiple Locations + 1 more\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556620490?domain=microsoft.com",
       "identifier": "Senior Software Engineer - Azure Virtual Desktop\nU_556620490?domain=microsoft.com"
     },
     {
-      "title": "Principal Software Engineer - CTJ - Poly\nUnited States, Washington, Redmond + 1 more\nPosted 28 minutes ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556851134?domain=microsoft.com",
-      "identifier": "Principal Software Engineer - CTJ - Poly\nUnited St_556851134?domain=microsoft.com"
-    },
-    {
-      "title": "Software Engineer II - CTJ - Poly\nUnited States, Washington, Redmond + 1 more\nPosted 30 minutes ago",
+      "title": "Software Engineer II - CTJ - Poly\nUnited States, Washington, Redmond + 1 more\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556748996?domain=microsoft.com",
       "identifier": "Software Engineer II - CTJ - Poly\nUnited States, W_556748996?domain=microsoft.com"
+    },
+    {
+      "title": "Principal Software Engineer - CTJ - Poly\nUnited States, Washington, Redmond + 1 more\nPosted an hour ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556851134?domain=microsoft.com",
+      "identifier": "Principal Software Engineer - CTJ - Poly\nUnited St_556851134?domain=microsoft.com"
     },
     {
       "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted an hour ago",
@@ -34,26 +44,16 @@
       "identifier": "Senior Software Engineer - M365 Copilot App\nUnited_556856440?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer - Azure Storage\nUnited States, Multiple Locations, Multiple Locations\nPosted an hour ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556855993?domain=microsoft.com",
-      "identifier": "Senior Software Engineer - Azure Storage\nUnited St_556855993?domain=microsoft.com"
-    },
-    {
       "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556852821?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Washington_556852821?domain=microsoft.com"
     },
     {
-      "title": "Software Engineering II - CTJ - Poly\nUnited States, Washington, Redmond + 3 more\nPosted an hour ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556856214?domain=microsoft.com",
-      "identifier": "Software Engineering II - CTJ - Poly\nUnited States_556856214?domain=microsoft.com"
-    },
-    {
-      "title": "Principal Software Engineering Architect\nUnited States, Multiple Locations, Multiple Locations\nPosted an hour ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556847406?domain=microsoft.com",
-      "identifier": "Principal Software Engineering Architect\nUnited St_556847406?domain=microsoft.com"
+      "title": "Senior Software Engineer - Azure Storage\nUnited States, Multiple Locations, Multiple Locations\nPosted an hour ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556855993?domain=microsoft.com",
+      "identifier": "Senior Software Engineer - Azure Storage\nUnited St_556855993?domain=microsoft.com"
     }
   ],
-  "job_count_text": "733",
-  "timestamp": "2026-04-06T17:31:10.484853"
+  "job_count_text": "734",
+  "timestamp": "2026-04-06T17:48:15.926840"
 }

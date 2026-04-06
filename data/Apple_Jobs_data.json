@@ -4,6 +4,11 @@
   "total_jobs": 19,
   "jobs": [
     {
+      "title": "Data Science Manager - System Analytics & Intelligence",
+      "url": "https://jobs.apple.com/en-us/details/200655853-0836/data-science-manager-system-analytics-intelligence?team=SFTWR",
+      "identifier": "Data Science Manager - System Analytics & Intellig_lytics-intelligence?team=SFTWR"
+    },
+    {
       "title": "Senior Product Manager, Commerce Data Foundations Platform",
       "url": "https://jobs.apple.com/en-us/details/200656023-0836/senior-product-manager-commerce-data-foundations-platform?team=OPMFG",
       "identifier": "Senior Product Manager, Commerce Data Foundations _oundations-platform?team=OPMFG"
@@ -92,13 +97,8 @@
       "title": "Engineering Manager, App Insights, Services Data Science & Analytics",
       "url": "https://jobs.apple.com/en-us/details/200655609-3401/engineering-manager-app-insights-services-data-science-analytics?team=SFTWR",
       "identifier": "Engineering Manager, App Insights, Services Data S_a-science-analytics?team=SFTWR"
-    },
-    {
-      "title": "Embedded Software Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200655830-0157/embedded-software-engineer?team=SFTWR",
-      "identifier": "Embedded Software Engineer_d-software-engineer?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-06T16:57:13.130760"
+  "timestamp": "2026-04-06T17:14:20.888273"
 }

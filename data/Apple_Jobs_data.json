@@ -1,8 +1,18 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 20,
+  "total_jobs": 19,
   "jobs": [
+    {
+      "title": "Senior Site Reliability Engineer - ASE / iCloud",
+      "url": "https://jobs.apple.com/en-us/details/200655692-0836/senior-site-reliability-engineer-ase-icloud?team=SFTWR",
+      "identifier": "Senior Site Reliability Engineer - ASE / iCloud_engineer-ase-icloud?team=SFTWR"
+    },
+    {
+      "title": "Senior Software Quality & Validation Engineer - Enterprise Services",
+      "url": "https://jobs.apple.com/en-us/details/200643409-0157/senior-software-quality-validation-engineer-enterprise-services?team=SFTWR",
+      "identifier": "Senior Software Quality & Validation Engineer - En_enterprise-services?team=SFTWR"
+    },
     {
       "title": "Full-Stack RoR Engineer, Retail & Marcom Engineering",
       "url": "https://jobs.apple.com/en-us/details/200631160-3956/full-stack-ror-engineer-retail-marcom-engineering?team=SFTWR",
@@ -87,23 +97,8 @@
       "title": "Senior Marketing Data Scientist, Media Subscriptions",
       "url": "https://jobs.apple.com/en-us/details/200607632-0670/senior-marketing-data-scientist-media-subscriptions?team=SFTWR",
       "identifier": "Senior Marketing Data Scientist, Media Subscriptio_media-subscriptions?team=SFTWR"
-    },
-    {
-      "title": "Machine Learning Compiler Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200655812-3956/machine-learning-compiler-engineer?team=SFTWR",
-      "identifier": "Machine Learning Compiler Engineer_g-compiler-engineer?team=SFTWR"
-    },
-    {
-      "title": "Senior Manager, Product \u2013 Commerce & Messaging Frameworks",
-      "url": "https://jobs.apple.com/en-us/details/200634772-0836/senior-manager-product-commerce-messaging-frameworks?team=SFTWR",
-      "identifier": "Senior Manager, Product \u2013 Commerce & Messaging Fra_essaging-frameworks?team=SFTWR"
-    },
-    {
-      "title": "SwiftUI Previews Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200655539-0836/swiftui-previews-engineer?team=SFTWR",
-      "identifier": "SwiftUI Previews Engineer_i-previews-engineer?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-06T15:14:38.515991"
+  "timestamp": "2026-04-06T15:31:42.491200"
 }

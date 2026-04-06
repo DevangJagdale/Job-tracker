@@ -4,17 +4,27 @@
   "total_jobs": 9,
   "jobs": [
     {
-      "title": "ML Engineer\nUnited States, Washington, Redmond\nPosted 11 minutes ago",
+      "title": "Senior Data Engineer\nUnited States, Washington, Redmond\nPosted 12 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556654953?domain=microsoft.com",
+      "identifier": "Senior Data Engineer\nUnited States, Washington, Re_556654953?domain=microsoft.com"
+    },
+    {
+      "title": "Principal AI Architect\nUnited States, Multiple Locations, Multiple Locations\nPosted 16 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556749593?domain=microsoft.com",
+      "identifier": "Principal AI Architect\nUnited States, Multiple Loc_556749593?domain=microsoft.com"
+    },
+    {
+      "title": "ML Engineer\nUnited States, Washington, Redmond\nPosted 28 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556826672?domain=microsoft.com",
       "identifier": "ML Engineer\nUnited States, Washington, Redmond\nPos_556826672?domain=microsoft.com"
     },
     {
-      "title": "Software Engineer\nUnited States, Multiple Locations, Multiple Locations + 8 more\nPosted 12 minutes ago",
+      "title": "Software Engineer\nUnited States, Multiple Locations, Multiple Locations + 8 more\nPosted 29 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556855340?domain=microsoft.com",
       "identifier": "Software Engineer\nUnited States, Multiple Location_556855340?domain=microsoft.com"
     },
     {
-      "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted 40 minutes ago",
+      "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556638169?domain=microsoft.com",
       "identifier": "Principal Software Engineer\nUnited States, Washing_556638169?domain=microsoft.com"
     },
@@ -37,18 +47,8 @@
       "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556851544?domain=microsoft.com",
       "identifier": "Software Engineer II\nUnited States, Washington, Re_556851544?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Software Engineer - AI Infrastructure (Scheduler) - CoreAI\nUnited States, Washington, Redmond\nPosted 2 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556628782?domain=microsoft.com",
-      "identifier": "Senior Software Engineer - AI Infrastructure (Sche_556628782?domain=microsoft.com"
-    },
-    {
-      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 2 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556855317?domain=microsoft.com",
-      "identifier": "Software Engineer II\nUnited States, Washington, Re_556855317?domain=microsoft.com"
     }
   ],
-  "job_count_text": "735",
-  "timestamp": "2026-04-06T19:39:17.068313"
+  "job_count_text": "736",
+  "timestamp": "2026-04-06T19:56:25.046846"
 }

@@ -4,6 +4,11 @@
   "total_jobs": 8,
   "jobs": [
     {
+      "title": "Principal Software Development Engineer - Flutter",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0767053/Principal-Software-Development-Engineer-Flutter",
+      "identifier": "Principal Software Development Engineer - Flutter_e-Development-Engineer-Flutter"
+    },
+    {
       "title": "Senior Analyst, Business Analysis",
       "url": "https://jobs.cvshealth.com/us/en/job/R0828286/Senior-Analyst-Business-Analysis",
       "identifier": "Senior Analyst, Business Analysis_nior-Analyst-Business-Analysis"
@@ -24,26 +29,21 @@
       "identifier": "Manager Network Engineer_73116/Manager-Network-Engineer"
     },
     {
-      "title": "Associate Compute Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0833593/Associate-Compute-Engineer",
-      "identifier": "Associate Compute Engineer_593/Associate-Compute-Engineer"
-    },
-    {
       "title": "Executive Director, Systems Support",
       "url": "https://jobs.cvshealth.com/us/en/job/R0876438/Executive-Director-Systems-Support",
       "identifier": "Executive Director, Systems Support_utive-Director-Systems-Support"
     },
     {
+      "title": "Associate Compute Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0833593/Associate-Compute-Engineer",
+      "identifier": "Associate Compute Engineer_593/Associate-Compute-Engineer"
+    },
+    {
       "title": "Sr Analyst, Application Development",
       "url": "https://jobs.cvshealth.com/us/en/job/R0874411/Sr-Analyst-Application-Development",
       "identifier": "Sr Analyst, Application Development_nalyst-Application-Development"
-    },
-    {
-      "title": "Help Desk Support Specialist",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0834893/Help-Desk-Support-Specialist",
-      "identifier": "Help Desk Support Specialist_3/Help-Desk-Support-Specialist"
     }
   ],
-  "job_count_text": "28",
-  "timestamp": "2026-04-06T14:07:14.458594"
+  "job_count_text": "29",
+  "timestamp": "2026-04-06T14:24:21.709069"
 }

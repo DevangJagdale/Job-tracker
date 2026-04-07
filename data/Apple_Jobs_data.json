@@ -4,6 +4,11 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Tools & Automation Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200655893-3543/tools-automation-engineer?team=SFTWR",
+      "identifier": "Tools & Automation Engineer_automation-engineer?team=SFTWR"
+    },
+    {
       "title": "Cloud Infrastructure Engineer, Audio Software Integration",
       "url": "https://jobs.apple.com/en-us/details/200654008-0836/cloud-infrastructure-engineer-audio-software-integration?team=SFTWR",
       "identifier": "Cloud Infrastructure Engineer, Audio Software Inte_oftware-integration?team=SFTWR"
@@ -77,13 +82,8 @@
       "title": "Machine Learning Software Engineer for Location and Spatial Awareness , Sensing & Connectivity",
       "url": "https://jobs.apple.com/en-us/details/200656105-0836/machine-learning-software-engineer-for-location-and-spatial-awareness-sensing-connectivity?team=SFTWR",
       "identifier": "Machine Learning Software Engineer for Location an_ensing-connectivity?team=SFTWR"
-    },
-    {
-      "title": "Salesforce Technical Architect, Sales Engineering",
-      "url": "https://jobs.apple.com/en-us/details/200654967-3956/salesforce-technical-architect-sales-engineering?team=SFTWR",
-      "identifier": "Salesforce Technical Architect, Sales Engineering_t-sales-engineering?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-07T21:45:51.084539"
+  "timestamp": "2026-04-07T22:02:55.968157"
 }

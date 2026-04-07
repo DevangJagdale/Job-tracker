@@ -4,6 +4,11 @@
   "total_jobs": 20,
   "jobs": [
     {
+      "title": "AMD Public-Salt Lake City-Associate-Software Engineering\nSalt Lake City\u00b7United States\n\u00b7Associate",
+      "url": "https://higher.gs.com/roles/165919",
+      "identifier": "AMD Public-Salt Lake City-Associate-Software Engin_s://higher.gs.com/roles/165919"
+    },
+    {
       "title": "Asset & Wealth Management - Software Engineer - Analyst - New York\nNew York\u00b7United States\n\u00b7Analyst",
       "url": "https://higher.gs.com/roles/166075",
       "identifier": "Asset & Wealth Management - Software Engineer - An_s://higher.gs.com/roles/166075"
@@ -97,13 +102,8 @@
       "title": "Asset & Wealth Management-Front End (UI) Developer-Associate-Dallas\nDallas\u00b7United States\n\u00b7Associate",
       "url": "https://higher.gs.com/roles/161872",
       "identifier": "Asset & Wealth Management-Front End (UI) Developer_s://higher.gs.com/roles/161872"
-    },
-    {
-      "title": "AWM, Marcus by Goldman Sachs, Pricing & Analytics (Modeling) Associate, Richardson, TX\nRichardson\u00b7United States\n\u00b7Associate",
-      "url": "https://higher.gs.com/roles/136065",
-      "identifier": "AWM, Marcus by Goldman Sachs, Pricing & Analytics _s://higher.gs.com/roles/136065"
     }
   ],
-  "job_count_text": "46",
-  "timestamp": "2026-04-07T21:45:01.279298"
+  "job_count_text": "47",
+  "timestamp": "2026-04-07T22:02:06.253244"
 }

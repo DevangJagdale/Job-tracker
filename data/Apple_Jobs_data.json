@@ -4,9 +4,9 @@
   "total_jobs": 16,
   "jobs": [
     {
-      "title": "Sr. Software Engineer, App Store Engineering",
-      "url": "https://jobs.apple.com/en-us/details/200654970-3337/sr-software-engineer-app-store-engineering?team=SFTWR",
-      "identifier": "Sr. Software Engineer, App Store Engineering_p-store-engineering?team=SFTWR"
+      "title": "Software Engineer, App Store Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200654970-3337/software-engineer-app-store-engineering?team=SFTWR",
+      "identifier": "Software Engineer, App Store Engineering_p-store-engineering?team=SFTWR"
     },
     {
       "title": "Tools & Automation Engineer",
@@ -85,5 +85,5 @@
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-07T22:45:08.085562"
+  "timestamp": "2026-04-07T23:02:14.318109"
 }

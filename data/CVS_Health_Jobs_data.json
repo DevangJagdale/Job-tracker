@@ -24,14 +24,14 @@
       "identifier": "Software Development Engineer_/Software-Development-Engineer"
     },
     {
-      "title": "Software Development Engineer - SRE, Retail & Pharmacy",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0743450/Software-Development-Engineer-SRE-Retail-Pharmacy",
-      "identifier": "Software Development Engineer - SRE, Retail & Phar_t-Engineer-SRE-Retail-Pharmacy"
-    },
-    {
       "title": "Senior Engineering Manager",
       "url": "https://jobs.cvshealth.com/us/en/job/R0877251/Senior-Engineering-Manager",
       "identifier": "Senior Engineering Manager_251/Senior-Engineering-Manager"
+    },
+    {
+      "title": "Software Development Engineer - SRE, Retail & Pharmacy",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0743450/Software-Development-Engineer-SRE-Retail-Pharmacy",
+      "identifier": "Software Development Engineer - SRE, Retail & Phar_t-Engineer-SRE-Retail-Pharmacy"
     },
     {
       "title": "Senior Manager - Scrum Master",
@@ -45,5 +45,5 @@
     }
   ],
   "job_count_text": "32",
-  "timestamp": "2026-04-07T15:21:56.443623"
+  "timestamp": "2026-04-07T15:39:07.318089"
 }

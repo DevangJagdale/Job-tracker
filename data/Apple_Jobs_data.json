@@ -4,6 +4,11 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Sr. Software Engineer, App Store Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200654970-3337/sr-software-engineer-app-store-engineering?team=SFTWR",
+      "identifier": "Sr. Software Engineer, App Store Engineering_p-store-engineering?team=SFTWR"
+    },
+    {
       "title": "Tools & Automation Engineer",
       "url": "https://jobs.apple.com/en-us/details/200655893-3543/tools-automation-engineer?team=SFTWR",
       "identifier": "Tools & Automation Engineer_automation-engineer?team=SFTWR"
@@ -77,13 +82,8 @@
       "title": "Engineering Program Manager, Central Quality, Apple Services Engineering",
       "url": "https://jobs.apple.com/en-us/details/200656318-0836/engineering-program-manager-central-quality-apple-services-engineering?team=SFTWR",
       "identifier": "Engineering Program Manager, Central Quality, Appl_ervices-engineering?team=SFTWR"
-    },
-    {
-      "title": "Machine Learning Software Engineer for Location and Spatial Awareness , Sensing & Connectivity",
-      "url": "https://jobs.apple.com/en-us/details/200656105-0836/machine-learning-software-engineer-for-location-and-spatial-awareness-sensing-connectivity?team=SFTWR",
-      "identifier": "Machine Learning Software Engineer for Location an_ensing-connectivity?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-07T22:10:27.048015"
+  "timestamp": "2026-04-07T22:27:33.537538"
 }

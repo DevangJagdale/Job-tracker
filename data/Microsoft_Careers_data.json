@@ -4,7 +4,12 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Principal Software Engineer\nUnited States, California, Mountain View\nPosted 8 minutes ago",
+      "title": "Senior Software Engineer -Azure Kubernetes Service\nUnited States, Multiple Locations, Multiple Locations\nPosted 20 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556650749?domain=microsoft.com",
+      "identifier": "Senior Software Engineer -Azure Kubernetes Service_556650749?domain=microsoft.com"
+    },
+    {
+      "title": "Principal Software Engineer\nUnited States, California, Mountain View\nPosted 26 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556619480?domain=microsoft.com",
       "identifier": "Principal Software Engineer\nUnited States, Califor_556619480?domain=microsoft.com"
     },
@@ -14,7 +19,7 @@
       "identifier": "Senior AI Engineer\nUnited States, Washington, Redm_556855357?domain=microsoft.com"
     },
     {
-      "title": "Senior Data Engineer\nUnited States, Washington, Redmond\nPosted 14 hours ago",
+      "title": "Senior Data Engineer\nUnited States, Washington, Redmond\nPosted 15 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556856278?domain=microsoft.com",
       "identifier": "Senior Data Engineer\nUnited States, Washington, Re_556856278?domain=microsoft.com"
     },
@@ -24,36 +29,31 @@
       "identifier": "Principal Software Engineer- AI\nUnited States, Was_556856515?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 15 hours ago",
+      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 16 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556639567?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Washington_556639567?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer - CoreAI\nUnited States, Washington, Redmond\nPosted 15 hours ago",
+      "title": "Senior Software Engineer - CoreAI\nUnited States, Washington, Redmond\nPosted 16 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556620361?domain=microsoft.com",
       "identifier": "Senior Software Engineer - CoreAI\nUnited States, W_556620361?domain=microsoft.com"
     },
     {
-      "title": "Software Engineer II - CoreAI\nUnited States, Washington, Redmond\nPosted 15 hours ago",
+      "title": "Software Engineer II - CoreAI\nUnited States, Washington, Redmond\nPosted 16 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556638528?domain=microsoft.com",
       "identifier": "Software Engineer II - CoreAI\nUnited States, Washi_556638528?domain=microsoft.com"
     },
     {
-      "title": "Software Engineer II - CoreAI\nUnited States, Washington, Redmond\nPosted 15 hours ago",
+      "title": "Software Engineer II - CoreAI\nUnited States, Washington, Redmond\nPosted 16 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556657543?domain=microsoft.com",
       "identifier": "Software Engineer II - CoreAI\nUnited States, Washi_556657543?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer - CoreAI\nUnited States, Washington, Redmond\nPosted 15 hours ago",
+      "title": "Senior Software Engineer - CoreAI\nUnited States, Washington, Redmond\nPosted 16 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556778473?domain=microsoft.com",
       "identifier": "Senior Software Engineer - CoreAI\nUnited States, W_556778473?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Software Engineer - GitHub Copilot - CoreAI\nUnited States, Washington, Redmond\nPosted 16 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556855730?domain=microsoft.com",
-      "identifier": "Senior Software Engineer - GitHub Copilot - CoreAI_556855730?domain=microsoft.com"
     }
   ],
-  "job_count_text": "713",
-  "timestamp": "2026-04-07T14:25:35.565670"
+  "job_count_text": "714",
+  "timestamp": "2026-04-07T14:42:55.358339"
 }

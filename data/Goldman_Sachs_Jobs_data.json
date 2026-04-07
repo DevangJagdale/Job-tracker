@@ -4,6 +4,11 @@
   "total_jobs": 20,
   "jobs": [
     {
+      "title": "Asset & Wealth Management-Software Engineering-Associate-Richardson\nRichardson\u00b7United States\n\u00b7Associate",
+      "url": "https://higher.gs.com/roles/164031",
+      "identifier": "Asset & Wealth Management-Software Engineering-Ass_s://higher.gs.com/roles/164031"
+    },
+    {
       "title": "AMD Public-Salt Lake City-Associate-Software Engineering\nSalt Lake City\u00b7United States\n\u00b7Associate",
       "url": "https://higher.gs.com/roles/165919",
       "identifier": "AMD Public-Salt Lake City-Associate-Software Engin_s://higher.gs.com/roles/165919"
@@ -97,13 +102,8 @@
       "title": "Data Engineering - Market Data Engineering - Software Engineer - Associate - Dallas\nDallas\u00b7United States\n\u00b7Associate",
       "url": "https://higher.gs.com/roles/152750",
       "identifier": "Data Engineering - Market Data Engineering - Softw_s://higher.gs.com/roles/152750"
-    },
-    {
-      "title": "Asset & Wealth Management-Front End (UI) Developer-Associate-Dallas\nDallas\u00b7United States\n\u00b7Associate",
-      "url": "https://higher.gs.com/roles/161872",
-      "identifier": "Asset & Wealth Management-Front End (UI) Developer_s://higher.gs.com/roles/161872"
     }
   ],
-  "job_count_text": "47",
-  "timestamp": "2026-04-07T22:02:06.253244"
+  "job_count_text": "48",
+  "timestamp": "2026-04-07T22:09:36.757306"
 }

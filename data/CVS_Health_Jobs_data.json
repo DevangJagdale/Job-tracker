@@ -5,18 +5,13 @@
   "jobs": [
     {
       "title": "Senior Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0870086/Senior-Software-Development-Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0858920/Senior-Software-Development-Engineer",
       "identifier": "Senior Software Development Engineer_-Software-Development-Engineer"
     },
     {
-      "title": "Lead Director - Digital Engineering",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0872948/Lead-Director-Digital-Engineering",
-      "identifier": "Lead Director - Digital Engineering_d-Director-Digital-Engineering"
-    },
-    {
-      "title": "Lead Director \u2013 Clinical Systems",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0874702/Lead-Director-Clinical-Systems",
-      "identifier": "Lead Director \u2013 Clinical Systems_Lead-Director-Clinical-Systems"
+      "title": "Software Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0812482/Software-Engineer",
+      "identifier": "Software Engineer_job/R0812482/Software-Engineer"
     },
     {
       "title": "Lead Director - HR Technology",
@@ -29,21 +24,26 @@
       "identifier": "Staff Software Development Engineer_-Software-Development-Engineer"
     },
     {
-      "title": "Software Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0812482/Software-Engineer",
-      "identifier": "Software Engineer_job/R0812482/Software-Engineer"
-    },
-    {
       "title": "Principal Software Development Engineer - Flutter",
       "url": "https://jobs.cvshealth.com/us/en/job/R0767053/Principal-Software-Development-Engineer-Flutter",
       "identifier": "Principal Software Development Engineer - Flutter_e-Development-Engineer-Flutter"
     },
     {
+      "title": "Lead Director - Digital Engineering",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0872948/Lead-Director-Digital-Engineering",
+      "identifier": "Lead Director - Digital Engineering_d-Director-Digital-Engineering"
+    },
+    {
       "title": "Senior Manager - Scrum Master",
       "url": "https://jobs.cvshealth.com/us/en/job/R0876146/Senior-Manager-Scrum-Master",
       "identifier": "Senior Manager - Scrum Master_46/Senior-Manager-Scrum-Master"
+    },
+    {
+      "title": "Lead Director \u2013 Clinical Systems",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0874702/Lead-Director-Clinical-Systems",
+      "identifier": "Lead Director \u2013 Clinical Systems_Lead-Director-Clinical-Systems"
     }
   ],
   "job_count_text": "37",
-  "timestamp": "2026-04-07T02:40:06.481954"
+  "timestamp": "2026-04-07T02:57:13.232262"
 }

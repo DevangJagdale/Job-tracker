@@ -4,11 +4,6 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Yield Analysis Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
-      "url": "https://careers.micron.com/careers/job/41215046",
-      "identifier": "Yield Analysis Engineer\nBoise, Idaho, United State_icron.com/careers/job/41215046"
-    },
-    {
       "title": "Engineer - Operations Improvement\nBoise, Idaho, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/30540997",
       "identifier": "Engineer - Operations Improvement\nBoise, Idaho, Un_icron.com/careers/job/30540997"
@@ -39,6 +34,11 @@
       "identifier": "US Expansion Layout Engineer\nBoise, Idaho, United _icron.com/careers/job/41229761"
     },
     {
+      "title": "Yield Analysis Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/41215046",
+      "identifier": "Yield Analysis Engineer\nBoise, Idaho, United State_icron.com/careers/job/41215046"
+    },
+    {
       "title": "New College Grad - Process Engineer ID1\nBoise, Idaho, United States of America\nPosted 5 days ago",
       "url": "https://careers.micron.com/careers/job/40367274",
       "identifier": "New College Grad - Process Engineer ID1\nBoise, Ida_icron.com/careers/job/40367274"
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "69",
-  "timestamp": "2026-04-07T02:59:26.443522"
+  "timestamp": "2026-04-07T03:16:40.158142"
 }

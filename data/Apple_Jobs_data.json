@@ -4,6 +4,11 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Sr. Java Engineer - Media Platforms",
+      "url": "https://jobs.apple.com/en-us/details/200655322-3337/sr-java-engineer-media-platforms?team=SFTWR",
+      "identifier": "Sr. Java Engineer - Media Platforms_eer-media-platforms?team=SFTWR"
+    },
+    {
       "title": "ML Safety Engineer, ASE",
       "url": "https://jobs.apple.com/en-us/details/200636183-3577/ml-safety-engineer-ase?team=SFTWR",
       "identifier": "ML Safety Engineer, ASE_safety-engineer-ase?team=SFTWR"
@@ -77,13 +82,8 @@
       "title": "Staff iOS & macOS Software Engineer, Screen Time",
       "url": "https://jobs.apple.com/en-us/details/200656112-0836/staff-ios-macos-software-engineer-screen-time?team=SFTWR",
       "identifier": "Staff iOS & macOS Software Engineer, Screen Time_ngineer-screen-time?team=SFTWR"
-    },
-    {
-      "title": "Software Engineering Program Manager, Core OS Performance",
-      "url": "https://jobs.apple.com/en-us/details/200655118-0836/software-engineering-program-manager-core-os-performance?team=SFTWR",
-      "identifier": "Software Engineering Program Manager, Core OS Perf_core-os-performance?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-07T20:20:30.124974"
+  "timestamp": "2026-04-07T20:37:33.071098"
 }

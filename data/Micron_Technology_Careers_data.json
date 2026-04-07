@@ -4,14 +4,9 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Staff GenAI Engineer - AMS Design and Optimization\nSan Jose, California, United States of America\nPosted 18 hours ago",
+      "title": "Staff GenAI Engineer - AMS Design and Optimization\nSan Jose, California, United States of America\nPosted 19 hours ago",
       "url": "https://careers.micron.com/careers/job/39464751",
       "identifier": "Staff GenAI Engineer - AMS Design and Optimization_icron.com/careers/job/39464751"
-    },
-    {
-      "title": "Semiconductor Process Engineer - Photo\nBoise, Idaho, United States of America\nPosted 2 days ago",
-      "url": "https://careers.micron.com/careers/job/41194594",
-      "identifier": "Semiconductor Process Engineer - Photo\nBoise, Idah_icron.com/careers/job/41194594"
     },
     {
       "title": "Engineer - Operations Improvement\nBoise, Idaho, United States of America\nPosted 2 days ago",
@@ -32,6 +27,11 @@
       "title": "Yield Analysis Engineer\nBoise, Idaho, United States of America\nPosted 2 days ago",
       "url": "https://careers.micron.com/careers/job/41215046",
       "identifier": "Yield Analysis Engineer\nBoise, Idaho, United State_icron.com/careers/job/41215046"
+    },
+    {
+      "title": "Semiconductor Process Engineer - Photo\nBoise, Idaho, United States of America\nPosted 2 days ago",
+      "url": "https://careers.micron.com/careers/job/41194594",
+      "identifier": "Semiconductor Process Engineer - Photo\nBoise, Idah_icron.com/careers/job/41194594"
     },
     {
       "title": "US Expansion Layout Engineer\nBoise, Idaho, United States of America\nPosted 2 days ago",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "70",
-  "timestamp": "2026-04-07T18:23:59.856759"
+  "timestamp": "2026-04-07T18:41:04.446209"
 }

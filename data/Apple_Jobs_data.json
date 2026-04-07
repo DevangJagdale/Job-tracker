@@ -4,6 +4,11 @@
   "total_jobs": 18,
   "jobs": [
     {
+      "title": "Machine Learning Software Engineer for Location and Spatial Awareness , Sensing & Connectivity",
+      "url": "https://jobs.apple.com/en-us/details/200656105-0836/machine-learning-software-engineer-for-location-and-spatial-awareness-sensing-connectivity?team=SFTWR",
+      "identifier": "Machine Learning Software Engineer for Location an_ensing-connectivity?team=SFTWR"
+    },
+    {
       "title": "Salesforce Technical Architect, Sales Engineering",
       "url": "https://jobs.apple.com/en-us/details/200654967-3956/salesforce-technical-architect-sales-engineering?team=SFTWR",
       "identifier": "Salesforce Technical Architect, Sales Engineering_t-sales-engineering?team=SFTWR"
@@ -87,13 +92,8 @@
       "title": "Senior Product Manager, Commerce Data Foundations Platform",
       "url": "https://jobs.apple.com/en-us/details/200656023-0836/senior-product-manager-commerce-data-foundations-platform?team=OPMFG",
       "identifier": "Senior Product Manager, Commerce Data Foundations _oundations-platform?team=OPMFG"
-    },
-    {
-      "title": "Apple Games App Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200620427-0836/apple-games-app-engineer?team=SFTWR",
-      "identifier": "Apple Games App Engineer_-games-app-engineer?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-07T16:37:35.580235"
+  "timestamp": "2026-04-07T16:54:39.334077"
 }

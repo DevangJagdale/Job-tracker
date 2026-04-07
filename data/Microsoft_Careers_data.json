@@ -4,6 +4,11 @@
   "total_jobs": 9,
   "jobs": [
     {
+      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 19 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556749885?domain=microsoft.com",
+      "identifier": "Senior Software Engineer\nUnited States, Washington_556749885?domain=microsoft.com"
+    },
+    {
       "title": "Principal Software Engineer, CoreAI FIT Agentic Systems\nUnited States, Washington, Redmond + 1 more\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556856497?domain=microsoft.com",
       "identifier": "Principal Software Engineer, CoreAI FIT Agentic Sy_556856497?domain=microsoft.com"
@@ -42,13 +47,8 @@
       "title": "Software Engineer II - CoreAI\nUnited States, Washington, Redmond\nPosted 17 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556657543?domain=microsoft.com",
       "identifier": "Software Engineer II - CoreAI\nUnited States, Washi_556657543?domain=microsoft.com"
-    },
-    {
-      "title": "Software Engineer II - CoreAI\nUnited States, Washington, Redmond\nPosted 17 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556638528?domain=microsoft.com",
-      "identifier": "Software Engineer II - CoreAI\nUnited States, Washi_556638528?domain=microsoft.com"
     }
   ],
-  "job_count_text": "716",
-  "timestamp": "2026-04-07T15:55:01.950790"
+  "job_count_text": "717",
+  "timestamp": "2026-04-07T16:12:15.776920"
 }

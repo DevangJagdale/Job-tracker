@@ -4,16 +4,6 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Technical Consulting Engineer/Technical Support",
-      "url": "https://careers.cisco.com/global/en/job/2012235/Technical-Consulting-Engineer-Technical-Support",
-      "identifier": "Technical Consulting Engineer/Technical Support_ing-Engineer-Technical-Support"
-    },
-    {
-      "title": "Software Development Test Engineer",
-      "url": "https://careers.cisco.com/global/en/job/2008813/Software-Development-Test-Engineer",
-      "identifier": "Software Development Test Engineer_ware-Development-Test-Engineer"
-    },
-    {
       "title": "Product Management Specialist II (Full Time) - United States",
       "url": "https://careers.cisco.com/global/en/job/2004282/Product-Management-Specialist-II-Full-Time-United-States",
       "identifier": "Product Management Specialist II (Full Time) - Uni_ist-II-Full-Time-United-States"
@@ -27,11 +17,6 @@
       "title": "Software Engineer Embedded/Network Systems I (Full Time) - United States",
       "url": "https://careers.cisco.com/global/en/job/2000081/Software-Engineer-Embedded-Network-Systems-I-Full-Time-United-States",
       "identifier": "Software Engineer Embedded/Network Systems I (Full_tems-I-Full-Time-United-States"
-    },
-    {
-      "title": "Software Engineer (AI/Data Engineering)",
-      "url": "https://careers.cisco.com/global/en/job/2011631/Software-Engineer-AI-Data-Engineering",
-      "identifier": "Software Engineer (AI/Data Engineering)_e-Engineer-AI-Data-Engineering"
     },
     {
       "title": "Software Engineer Full Stack & Application Development I (Full Time) \u2013 United States",
@@ -52,8 +37,23 @@
       "title": "Software Engineer Embedded/Network Systems II (Full Time) - United States",
       "url": "https://careers.cisco.com/global/en/job/2000131/Software-Engineer-Embedded-Network-Systems-II-Full-Time-United-States",
       "identifier": "Software Engineer Embedded/Network Systems II (Ful_ems-II-Full-Time-United-States"
+    },
+    {
+      "title": "Software Engineer Data/AI/Intelligent Systems I (Full Time) \u2013 United States",
+      "url": "https://careers.cisco.com/global/en/job/2000073/Software-Engineer-Data-AI-Intelligent-Systems-I-Full-Time-United-States",
+      "identifier": "Software Engineer Data/AI/Intelligent Systems I (F_tems-I-Full-Time-United-States"
+    },
+    {
+      "title": "Sales Development Representative Outbound Sales II (Full Time) - United States",
+      "url": "https://careers.cisco.com/global/en/job/2003091/Sales-Development-Representative-Outbound-Sales-II-Full-Time-United-States",
+      "identifier": "Sales Development Representative Outbound Sales II_les-II-Full-Time-United-States"
+    },
+    {
+      "title": "Technical Sales Engineer Intern (United States)",
+      "url": "https://careers.cisco.com/global/en/job/2012190/Technical-Sales-Engineer-Intern-United-States",
+      "identifier": "Technical Sales Engineer Intern (United States)_-Engineer-Intern-United-States"
     }
   ],
-  "job_count_text": "59",
-  "timestamp": "2026-04-07T13:36:00.457631"
+  "job_count_text": "18",
+  "timestamp": "2026-04-07T13:53:11.764927"
 }

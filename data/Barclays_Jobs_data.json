@@ -4,6 +4,21 @@
   "total_jobs": 15,
   "jobs": [
     {
+      "title": "Internal Audit - Financial Crime AVP",
+      "url": "https://search.jobs.barclays/job/wilmington/internal-audit-financial-crime-avp/13015/93686859072",
+      "identifier": "Internal Audit - Financial Crime AVP_al-crime-avp/13015/93686859072"
+    },
+    {
+      "title": "USCB Strategic Investments Process Analyst - AVP",
+      "url": "https://search.jobs.barclays/job/whippany/uscb-strategic-investments-process-analyst-avp/13015/93686856832",
+      "identifier": "USCB Strategic Investments Process Analyst - AVP_-analyst-avp/13015/93686856832"
+    },
+    {
+      "title": "Co-Head of Payments & Cash Management Sales",
+      "url": "https://search.jobs.barclays/job/new-york/co-head-of-payments-and-cash-management-sales/13015/93675237792",
+      "identifier": "Co-Head of Payments & Cash Management Sales_gement-sales/13015/93675237792"
+    },
+    {
       "title": "AVP, Cloud Automation and Virtualization",
       "url": "https://search.jobs.barclays/job/whippany/avp-cloud-automation-and-virtualization/13015/93649094320",
       "identifier": "AVP, Cloud Automation and Virtualization_rtualization/13015/93649094320"
@@ -62,23 +77,8 @@
       "title": "Senior Data Engineer \u2013 VP",
       "url": "https://search.jobs.barclays/job/new-york/senior-data-engineer-vp/13015/93499629216",
       "identifier": "Senior Data Engineer \u2013 VP_-engineer-vp/13015/93499629216"
-    },
-    {
-      "title": "Laws, Rules, and Regulations Oversight Risk - AVP",
-      "url": "https://search.jobs.barclays/job/new-york/laws-rules-and-regulations-oversight-risk-avp/13015/93474483200",
-      "identifier": "Laws, Rules, and Regulations Oversight Risk - AVP_ght-risk-avp/13015/93474483200"
-    },
-    {
-      "title": "Loyalty Marketing Manager",
-      "url": "https://search.jobs.barclays/job/wilmington/loyalty-marketing-manager/13015/93474477104",
-      "identifier": "Loyalty Marketing Manager_ting-manager/13015/93474477104"
-    },
-    {
-      "title": "Banking Finance Business Partner AVP",
-      "url": "https://search.jobs.barclays/job/new-york/banking-finance-business-partner-avp/13015/93474468448",
-      "identifier": "Banking Finance Business Partner AVP_-partner-avp/13015/93474468448"
     }
   ],
-  "job_count_text": "103",
-  "timestamp": "2026-04-07T17:28:32.418210"
+  "job_count_text": "110",
+  "timestamp": "2026-04-07T17:45:36.916003"
 }

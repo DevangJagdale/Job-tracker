@@ -4,6 +4,11 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Staff Software Engineer, Information Systems & Technology",
+      "url": "https://jobs.apple.com/en-us/details/200620191-0157/staff-software-engineer-information-systems-technology?team=SFTWR",
+      "identifier": "Staff Software Engineer, Information Systems & Tec_-systems-technology?team=SFTWR"
+    },
+    {
       "title": "Staff Software Engineer",
       "url": "https://jobs.apple.com/en-us/details/200633181-0836/staff-software-engineer?team=SFTWR",
       "identifier": "Staff Software Engineer_f-software-engineer?team=SFTWR"
@@ -77,13 +82,8 @@
       "title": "Software Engineer, Infrastructure Services",
       "url": "https://jobs.apple.com/en-us/details/200648325-0157/software-engineer-infrastructure-services?team=SFTWR",
       "identifier": "Software Engineer, Infrastructure Services_astructure-services?team=SFTWR"
-    },
-    {
-      "title": "Senior Software Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200635756-3543/senior-software-engineer?team=SFTWR",
-      "identifier": "Senior Software Engineer_r-software-engineer?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-07T17:29:04.785520"
+  "timestamp": "2026-04-07T17:46:10.077010"
 }

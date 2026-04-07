@@ -4,8 +4,18 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Engineering Project Manager, Empoyee Experience & Productivity",
+      "url": "https://jobs.apple.com/en-us/details/200652941-0670/engineering-project-manager-empoyee-experience-productivity?team=SFTWR",
+      "identifier": "Engineering Project Manager, Empoyee Experience & _rience-productivity?team=SFTWR"
+    },
+    {
+      "title": "Sr. Software Engineer, Information Systems & Technology",
+      "url": "https://jobs.apple.com/en-us/details/200620199-0157/sr-software-engineer-information-systems-technology?team=SFTWR",
+      "identifier": "Sr. Software Engineer, Information Systems & Techn_-systems-technology?team=SFTWR"
+    },
+    {
       "title": "Staff Software Engineer, Information Systems & Technology",
-      "url": "https://jobs.apple.com/en-us/details/200620191-0157/staff-software-engineer-information-systems-technology?team=SFTWR",
+      "url": "https://jobs.apple.com/en-us/details/200620184-0836/staff-software-engineer-information-systems-technology?team=SFTWR",
       "identifier": "Staff Software Engineer, Information Systems & Tec_-systems-technology?team=SFTWR"
     },
     {
@@ -37,11 +47,6 @@
       "title": "Engineering Program Manager, Central Quality, Apple Services Engineering",
       "url": "https://jobs.apple.com/en-us/details/200656318-0836/engineering-program-manager-central-quality-apple-services-engineering?team=SFTWR",
       "identifier": "Engineering Program Manager, Central Quality, Appl_ervices-engineering?team=SFTWR"
-    },
-    {
-      "title": "Sr. Software Engineer, Information Systems & Technology",
-      "url": "https://jobs.apple.com/en-us/details/200620195-0836/sr-software-engineer-information-systems-technology?team=SFTWR",
-      "identifier": "Sr. Software Engineer, Information Systems & Techn_-systems-technology?team=SFTWR"
     },
     {
       "title": "Machine Learning Software Engineer for Location and Spatial Awareness , Sensing & Connectivity",
@@ -77,13 +82,8 @@
       "title": "SW Engineering Program Manager, Intelligent System Experience",
       "url": "https://jobs.apple.com/en-us/details/200656131-0836/sw-engineering-program-manager-intelligent-system-experience?team=SFTWR",
       "identifier": "SW Engineering Program Manager, Intelligent System_t-system-experience?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer, Infrastructure Services",
-      "url": "https://jobs.apple.com/en-us/details/200648325-0157/software-engineer-infrastructure-services?team=SFTWR",
-      "identifier": "Software Engineer, Infrastructure Services_astructure-services?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-07T17:46:10.077010"
+  "timestamp": "2026-04-07T18:03:20.456899"
 }

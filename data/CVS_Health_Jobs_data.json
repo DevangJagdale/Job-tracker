@@ -4,34 +4,9 @@
   "total_jobs": 8,
   "jobs": [
     {
-      "title": "Senior Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0858920/Senior-Software-Development-Engineer",
-      "identifier": "Senior Software Development Engineer_-Software-Development-Engineer"
-    },
-    {
-      "title": "Software Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0812482/Software-Engineer",
-      "identifier": "Software Engineer_job/R0812482/Software-Engineer"
-    },
-    {
-      "title": "Lead Director - HR Technology",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0878545/Lead-Director-HR-Technology",
-      "identifier": "Lead Director - HR Technology_45/Lead-Director-HR-Technology"
-    },
-    {
-      "title": "Staff Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0871728/Staff-Software-Development-Engineer",
-      "identifier": "Staff Software Development Engineer_-Software-Development-Engineer"
-    },
-    {
-      "title": "Principal Software Development Engineer - Flutter",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0767053/Principal-Software-Development-Engineer-Flutter",
-      "identifier": "Principal Software Development Engineer - Flutter_e-Development-Engineer-Flutter"
-    },
-    {
-      "title": "Lead Director - Digital Engineering",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0872948/Lead-Director-Digital-Engineering",
-      "identifier": "Lead Director - Digital Engineering_d-Director-Digital-Engineering"
+      "title": "Service Desk Specialist II",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0851267/Service-Desk-Specialist-II",
+      "identifier": "Service Desk Specialist II_267/Service-Desk-Specialist-II"
     },
     {
       "title": "Senior Manager - Scrum Master",
@@ -39,11 +14,36 @@
       "identifier": "Senior Manager - Scrum Master_46/Senior-Manager-Scrum-Master"
     },
     {
-      "title": "Lead Director \u2013 Clinical Systems",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0874702/Lead-Director-Clinical-Systems",
-      "identifier": "Lead Director \u2013 Clinical Systems_Lead-Director-Clinical-Systems"
+      "title": "Epic EHR Development Lead-Senior Manager-Software Development",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0869290/Epic-EHR-Development-Lead-Senior-Manager-Software-Development",
+      "identifier": "Epic EHR Development Lead-Senior Manager-Software _r-Manager-Software-Development"
+    },
+    {
+      "title": "Epic EHR Development Lead- Senior Manager-Software Development",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0869292/Epic-EHR-Development-Lead-Senior-Manager-Software-Development",
+      "identifier": "Epic EHR Development Lead- Senior Manager-Software_r-Manager-Software-Development"
+    },
+    {
+      "title": "Manager Network Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0873116/Manager-Network-Engineer",
+      "identifier": "Manager Network Engineer_73116/Manager-Network-Engineer"
+    },
+    {
+      "title": "Associate Compute Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0833593/Associate-Compute-Engineer",
+      "identifier": "Associate Compute Engineer_593/Associate-Compute-Engineer"
+    },
+    {
+      "title": "Executive Director, Systems Support",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0876438/Executive-Director-Systems-Support",
+      "identifier": "Executive Director, Systems Support_utive-Director-Systems-Support"
+    },
+    {
+      "title": "Lead Director \u2013 Software Development Engineering (AI & Automation)",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0843277/Lead-Director-Software-Development-Engineering-AI-Automation",
+      "identifier": "Lead Director \u2013 Software Development Engineering (_ment-Engineering-AI-Automation"
     }
   ],
-  "job_count_text": "37",
-  "timestamp": "2026-04-07T05:33:20.078123"
+  "job_count_text": "27",
+  "timestamp": "2026-04-07T11:17:28.272857"
 }

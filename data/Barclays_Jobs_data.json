@@ -1,12 +1,32 @@
 {
   "page_title": "Search our Job Opportunities at Barclays",
   "url": "https://search.jobs.barclays/search-jobs/United%20States/13015/2/6252001/39x76/-98x5/50/2",
-  "total_jobs": 12,
+  "total_jobs": 15,
   "jobs": [
+    {
+      "title": "AVP, Cloud Automation and Virtualization",
+      "url": "https://search.jobs.barclays/job/whippany/avp-cloud-automation-and-virtualization/13015/93649094320",
+      "identifier": "AVP, Cloud Automation and Virtualization_rtualization/13015/93649094320"
+    },
+    {
+      "title": "Markets Liquid Financing Platform - AVP",
+      "url": "https://search.jobs.barclays/job/new-york/markets-liquid-financing-platform-avp/13015/93649094304",
+      "identifier": "Markets Liquid Financing Platform - AVP_platform-avp/13015/93649094304"
+    },
+    {
+      "title": "Assistant VP, TDS Senior Developer",
+      "url": "https://search.jobs.barclays/job/whippany/assistant-vp-tds-senior-developer/13015/93649094256",
+      "identifier": "Assistant VP, TDS Senior Developer_or-developer/13015/93649094256"
+    },
     {
       "title": "Assistant VP, Fx Options Trader",
       "url": "https://search.jobs.barclays/job/new-york/assistant-vp-fx-options-trader/13015/93512458880",
       "identifier": "Assistant VP, Fx Options Trader_tions-trader/13015/93512458880"
+    },
+    {
+      "title": "US Investment Grade Strategy VP",
+      "url": "https://search.jobs.barclays/job/new-york/us-investment-grade-strategy-vp/13015/93512450416",
+      "identifier": "US Investment Grade Strategy VP_-strategy-vp/13015/93512450416"
     },
     {
       "title": "VP-Transformation and Design Enablement",
@@ -57,13 +77,8 @@
       "title": "Banking Finance Business Partner AVP",
       "url": "https://search.jobs.barclays/job/new-york/banking-finance-business-partner-avp/13015/93474468448",
       "identifier": "Banking Finance Business Partner AVP_-partner-avp/13015/93474468448"
-    },
-    {
-      "title": "Technical Data Analyst, AVP",
-      "url": "https://search.jobs.barclays/job/whippany/technical-data-analyst-avp/13015/93462019120",
-      "identifier": "Technical Data Analyst, AVP_-analyst-avp/13015/93462019120"
     }
   ],
-  "job_count_text": "102",
-  "timestamp": "2026-04-07T11:33:08.599973"
+  "job_count_text": "103",
+  "timestamp": "2026-04-07T11:50:18.994451"
 }

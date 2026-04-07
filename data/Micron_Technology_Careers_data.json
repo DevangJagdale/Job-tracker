@@ -4,11 +4,6 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Semiconductor Process Engineer - Photo\nBoise, Idaho, United States of America\nPosted a day ago",
-      "url": "https://careers.micron.com/careers/job/41194594",
-      "identifier": "Semiconductor Process Engineer - Photo\nBoise, Idah_icron.com/careers/job/41194594"
-    },
-    {
       "title": "US Expansion Layout Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/41229761",
       "identifier": "US Expansion Layout Engineer\nBoise, Idaho, United _icron.com/careers/job/41229761"
@@ -24,11 +19,6 @@
       "identifier": "New College Grad - Product Development Failure Ana_icron.com/careers/job/41215049"
     },
     {
-      "title": "Engineer - Operations Improvement\nBoise, Idaho, United States of America\nPosted a day ago",
-      "url": "https://careers.micron.com/careers/job/40899085",
-      "identifier": "Engineer - Operations Improvement\nBoise, Idaho, Un_icron.com/careers/job/40899085"
-    },
-    {
       "title": "US FE Expansion Planning Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/40986798",
       "identifier": "US FE Expansion Planning Engineer\nBoise, Idaho, Un_icron.com/careers/job/40986798"
@@ -37,6 +27,16 @@
       "title": "Engineer - Operations Improvement\nBoise, Idaho, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/30540997",
       "identifier": "Engineer - Operations Improvement\nBoise, Idaho, Un_icron.com/careers/job/30540997"
+    },
+    {
+      "title": "Semiconductor Process Engineer - Photo\nBoise, Idaho, United States of America\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/41194594",
+      "identifier": "Semiconductor Process Engineer - Photo\nBoise, Idah_icron.com/careers/job/41194594"
+    },
+    {
+      "title": "Engineer - Operations Improvement\nBoise, Idaho, United States of America\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/40899085",
+      "identifier": "Engineer - Operations Improvement\nBoise, Idaho, Un_icron.com/careers/job/40899085"
     },
     {
       "title": "Change Management Engineer\nBoise, Idaho, United States of America\nPosted 5 days ago",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "69",
-  "timestamp": "2026-04-07T11:36:55.101780"
+  "timestamp": "2026-04-07T11:54:08.535173"
 }

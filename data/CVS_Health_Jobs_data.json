@@ -4,6 +4,11 @@
   "total_jobs": 8,
   "jobs": [
     {
+      "title": "Service Desk Specialist II",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0851267/Service-Desk-Specialist-II",
+      "identifier": "Service Desk Specialist II_267/Service-Desk-Specialist-II"
+    },
+    {
       "title": "Software Packaging Coordinator",
       "url": "https://jobs.cvshealth.com/us/en/job/R0862116/Software-Packaging-Coordinator",
       "identifier": "Software Packaging Coordinator_Software-Packaging-Coordinator"
@@ -19,31 +24,26 @@
       "identifier": "Software Development Engineer_/Software-Development-Engineer"
     },
     {
-      "title": "Senior Manager - Software Development Engineering (myPBM)",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0822486/Senior-Manager-Software-Development-Engineering-myPBM",
-      "identifier": "Senior Manager - Software Development Engineering _-Development-Engineering-myPBM"
-    },
-    {
-      "title": "Service Desk Specialist II",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0851267/Service-Desk-Specialist-II",
-      "identifier": "Service Desk Specialist II_267/Service-Desk-Specialist-II"
-    },
-    {
       "title": "Senior Engineering Manager",
       "url": "https://jobs.cvshealth.com/us/en/job/R0877251/Senior-Engineering-Manager",
       "identifier": "Senior Engineering Manager_251/Senior-Engineering-Manager"
     },
     {
-      "title": "Software Development Engineer - SRE, Retail & Pharmacy",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0743450/Software-Development-Engineer-SRE-Retail-Pharmacy",
-      "identifier": "Software Development Engineer - SRE, Retail & Phar_t-Engineer-SRE-Retail-Pharmacy"
+      "title": "Senior Manager - Software Development Engineering (myPBM)",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0822486/Senior-Manager-Software-Development-Engineering-myPBM",
+      "identifier": "Senior Manager - Software Development Engineering _-Development-Engineering-myPBM"
     },
     {
       "title": "Senior Analyst, Business Analysis",
       "url": "https://jobs.cvshealth.com/us/en/job/R0877444/Senior-Analyst-Business-Analysis",
       "identifier": "Senior Analyst, Business Analysis_nior-Analyst-Business-Analysis"
+    },
+    {
+      "title": "Senior Software Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0860253/Senior-Software-Engineer",
+      "identifier": "Senior Software Engineer_60253/Senior-Software-Engineer"
     }
   ],
   "job_count_text": "40",
-  "timestamp": "2026-04-07T19:30:04.233883"
+  "timestamp": "2026-04-07T19:47:13.095869"
 }

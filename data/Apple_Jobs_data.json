@@ -4,6 +4,16 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "ML Safety Engineer, ASE",
+      "url": "https://jobs.apple.com/en-us/details/200636183-3577/ml-safety-engineer-ase?team=SFTWR",
+      "identifier": "ML Safety Engineer, ASE_safety-engineer-ase?team=SFTWR"
+    },
+    {
+      "title": "Software Development Engineer - Test, ASE Media Platform Quality - Apple Services Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200656090-3337/software-development-engineer-test-ase-media-platform-quality-apple-services-engineering?team=SFTWR",
+      "identifier": "Software Development Engineer - Test, ASE Media Pl_ervices-engineering?team=SFTWR"
+    },
+    {
       "title": "Product Manager, Apple Services Commerce",
       "url": "https://jobs.apple.com/en-us/details/200656138-0836/product-manager-apple-services-commerce?team=OPMFG",
       "identifier": "Product Manager, Apple Services Commerce_e-services-commerce?team=OPMFG"
@@ -72,18 +82,8 @@
       "title": "Software Engineering Program Manager, Core OS Performance",
       "url": "https://jobs.apple.com/en-us/details/200655118-0836/software-engineering-program-manager-core-os-performance?team=SFTWR",
       "identifier": "Software Engineering Program Manager, Core OS Perf_core-os-performance?team=SFTWR"
-    },
-    {
-      "title": "Product Design Producer, Apple Maps",
-      "url": "https://jobs.apple.com/en-us/details/200644540-0836/product-design-producer-apple-maps?team=SFTWR",
-      "identifier": "Product Design Producer, Apple Maps_producer-apple-maps?team=SFTWR"
-    },
-    {
-      "title": "App Developer - Maps App Guidance Team",
-      "url": "https://jobs.apple.com/en-us/details/200649018-0670/app-developer-maps-app-guidance-team?team=SFTWR",
-      "identifier": "App Developer - Maps App Guidance Team_s-app-guidance-team?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-07T19:29:03.993693"
+  "timestamp": "2026-04-07T19:46:11.075756"
 }

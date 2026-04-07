@@ -1,8 +1,33 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 17,
+  "total_jobs": 16,
   "jobs": [
+    {
+      "title": "Staff Software Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200633181-0836/staff-software-engineer?team=SFTWR",
+      "identifier": "Staff Software Engineer_f-software-engineer?team=SFTWR"
+    },
+    {
+      "title": "Embedded System Software Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200645485-3543/embedded-system-software-engineer?team=SFTWR",
+      "identifier": "Embedded System Software Engineer_m-software-engineer?team=SFTWR"
+    },
+    {
+      "title": "Technical Partner Engineer - Apple Home, Wireless Technologies & Ecosystems",
+      "url": "https://jobs.apple.com/en-us/details/200655596-3543/technical-partner-engineer-apple-home-wireless-technologies-ecosystems?team=SFTWR",
+      "identifier": "Technical Partner Engineer - Apple Home, Wireless _nologies-ecosystems?team=SFTWR"
+    },
+    {
+      "title": "Cellular Layer1 Control Software Development Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200656120-3543/cellular-layer1-control-software-development-engineer?team=SFTWR",
+      "identifier": "Cellular Layer1 Control Software Development Engin_evelopment-engineer?team=SFTWR"
+    },
+    {
+      "title": "Software QA Engineer, Watch Software",
+      "url": "https://jobs.apple.com/en-us/details/200653144-0836/software-qa-engineer-watch-software?team=SFTWR",
+      "identifier": "Software QA Engineer, Watch Software_neer-watch-software?team=SFTWR"
+    },
     {
       "title": "Engineering Program Manager, Central Quality, Apple Services Engineering",
       "url": "https://jobs.apple.com/en-us/details/200656318-0836/engineering-program-manager-central-quality-apple-services-engineering?team=SFTWR",
@@ -57,38 +82,8 @@
       "title": "Senior Software Engineer",
       "url": "https://jobs.apple.com/en-us/details/200635756-3543/senior-software-engineer?team=SFTWR",
       "identifier": "Senior Software Engineer_r-software-engineer?team=SFTWR"
-    },
-    {
-      "title": "Senior Software Engineer, Security Enablement Team ASE",
-      "url": "https://jobs.apple.com/en-us/details/200656113-3337/senior-software-engineer-security-enablement-team-ase?team=SFTWR",
-      "identifier": "Senior Software Engineer, Security Enablement Team_enablement-team-ase?team=SFTWR"
-    },
-    {
-      "title": "ML Engineer- Agentic Systems Evaluation",
-      "url": "https://jobs.apple.com/en-us/details/200656115-0836/ml-engineer-agentic-systems-evaluation?team=SFTWR",
-      "identifier": "ML Engineer- Agentic Systems Evaluation_-systems-evaluation?team=SFTWR"
-    },
-    {
-      "title": "Senior Lab Engineer - Device Services Infrastructure",
-      "url": "https://jobs.apple.com/en-us/details/200633459-3760/senior-lab-engineer-device-services-infrastructure?team=SFTWR",
-      "identifier": "Senior Lab Engineer - Device Services Infrastructu_ices-infrastructure?team=SFTWR"
-    },
-    {
-      "title": "Software Development Engineer - Test ICT4, Graphics, Games & ML",
-      "url": "https://jobs.apple.com/en-us/details/200655610/software-development-engineer-test-ict4-graphics-games-ml?team=SFTWR",
-      "identifier": "Software Development Engineer - Test ICT4, Graphic_4-graphics-games-ml?team=SFTWR"
-    },
-    {
-      "title": "iOS Engineer- Apple Cloud Products ASE",
-      "url": "https://jobs.apple.com/en-us/details/200655833-0157/ios-engineer-apple-cloud-products-ase?team=SFTWR",
-      "identifier": "iOS Engineer- Apple Cloud Products ASE_-cloud-products-ase?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer \u2014 LLM Systems, Generative AI Infrastructure & Agentic Platforms",
-      "url": "https://jobs.apple.com/en-us/details/200649842-0836/software-engineer-llm-systems-generative-ai-infrastructure-agentic-platforms?team=MLAI",
-      "identifier": "Software Engineer \u2014 LLM Systems, Generative AI Inf_re-agentic-platforms?team=MLAI"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-07T17:12:01.311802"
+  "timestamp": "2026-04-07T17:29:04.785520"
 }

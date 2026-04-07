@@ -4,6 +4,11 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Product Manager, Apple Services Commerce",
+      "url": "https://jobs.apple.com/en-us/details/200656138-0836/product-manager-apple-services-commerce?team=OPMFG",
+      "identifier": "Product Manager, Apple Services Commerce_e-services-commerce?team=OPMFG"
+    },
+    {
       "title": "Engineering Project Manager, Empoyee Experience & Productivity",
       "url": "https://jobs.apple.com/en-us/details/200652941-0670/engineering-project-manager-empoyee-experience-productivity?team=SFTWR",
       "identifier": "Engineering Project Manager, Empoyee Experience & _rience-productivity?team=SFTWR"
@@ -77,13 +82,8 @@
       "title": "App Developer - Maps App Guidance Team",
       "url": "https://jobs.apple.com/en-us/details/200649018-0670/app-developer-maps-app-guidance-team?team=SFTWR",
       "identifier": "App Developer - Maps App Guidance Team_s-app-guidance-team?team=SFTWR"
-    },
-    {
-      "title": "SW Engineering Program Manager, Intelligent System Experience",
-      "url": "https://jobs.apple.com/en-us/details/200656131-0836/sw-engineering-program-manager-intelligent-system-experience?team=SFTWR",
-      "identifier": "SW Engineering Program Manager, Intelligent System_t-system-experience?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-07T19:12:01.311188"
+  "timestamp": "2026-04-07T19:29:03.993693"
 }

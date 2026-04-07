@@ -9,14 +9,14 @@
       "identifier": "Check Application Status_ims.com/jobs/login?loginOnly=1"
     },
     {
-      "title": "Cloud Engineering Intern",
-      "url": "https://careers.rivian.com/careers-home/jobs/30258?lang=en-us&previousLocale=en-US",
-      "identifier": "Cloud Engineering Intern_ang=en-us&previousLocale=en-US"
-    },
-    {
       "title": "Sr. Cybersecurity Engineer",
       "url": "https://careers.rivian.com/careers-home/jobs/28786?lang=en-us&previousLocale=en-US",
       "identifier": "Sr. Cybersecurity Engineer_ang=en-us&previousLocale=en-US"
+    },
+    {
+      "title": "Cloud Engineering Intern",
+      "url": "https://careers.rivian.com/careers-home/jobs/30258?lang=en-us&previousLocale=en-US",
+      "identifier": "Cloud Engineering Intern_ang=en-us&previousLocale=en-US"
     },
     {
       "title": "Staff IT Solutions Engineer, Collaboration Platforms",
@@ -44,6 +44,11 @@
       "identifier": "Staff Embedded Software Engineer - Vehicle Access _ang=en-us&previousLocale=en-US"
     },
     {
+      "title": "Software Engineering Intern, Commercial Tech Sales",
+      "url": "https://careers.rivian.com/careers-home/jobs/30266?lang=en-us&previousLocale=en-US",
+      "identifier": "Software Engineering Intern, Commercial Tech Sales_ang=en-us&previousLocale=en-US"
+    },
+    {
       "title": "Sr. AI Engineer, Enterprise Applied AI",
       "url": "https://careers.rivian.com/careers-home/jobs/26639?lang=en-us&previousLocale=en-US",
       "identifier": "Sr. AI Engineer, Enterprise Applied AI_ang=en-us&previousLocale=en-US"
@@ -52,13 +57,8 @@
       "title": "Sr. Staff Product Manager, Enterprise Data",
       "url": "https://careers.rivian.com/careers-home/jobs/23691?lang=en-us&previousLocale=en-US",
       "identifier": "Sr. Staff Product Manager, Enterprise Data_ang=en-us&previousLocale=en-US"
-    },
-    {
-      "title": "Staff Linux Engineer",
-      "url": "https://careers.rivian.com/careers-home/jobs/27930?lang=en-us&previousLocale=en-US",
-      "identifier": "Staff Linux Engineer_ang=en-us&previousLocale=en-US"
     }
   ],
-  "job_count_text": "39",
-  "timestamp": "2026-04-07T21:34:45.411447"
+  "job_count_text": "44",
+  "timestamp": "2026-04-07T21:51:49.679029"
 }

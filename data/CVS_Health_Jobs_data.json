@@ -4,6 +4,36 @@
   "total_jobs": 8,
   "jobs": [
     {
+      "title": "Senior Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0795945/Senior-Software-Development-Engineer",
+      "identifier": "Senior Software Development Engineer_-Software-Development-Engineer"
+    },
+    {
+      "title": "Staff Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0869905/Staff-Software-Development-Engineer",
+      "identifier": "Staff Software Development Engineer_-Software-Development-Engineer"
+    },
+    {
+      "title": "Senior Software Development Engineer (Mainframe - COBOL)",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0705401/Senior-Software-Development-Engineer-Mainframe-COBOL",
+      "identifier": "Senior Software Development Engineer (Mainframe - _pment-Engineer-Mainframe-COBOL"
+    },
+    {
+      "title": "Senior QA Analyst (Clinical UM/CM Platforms)",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0865717/Senior-QA-Analyst-Clinical-UM-CM-Platforms",
+      "identifier": "Senior QA Analyst (Clinical UM/CM Platforms)_alyst-Clinical-UM-CM-Platforms"
+    },
+    {
+      "title": "Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0875932/Software-Development-Engineer",
+      "identifier": "Software Development Engineer_/Software-Development-Engineer"
+    },
+    {
+      "title": "Service Desk Specialist II",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0851267/Service-Desk-Specialist-II",
+      "identifier": "Service Desk Specialist II_267/Service-Desk-Specialist-II"
+    },
+    {
       "title": "Software Packaging Coordinator",
       "url": "https://jobs.cvshealth.com/us/en/job/R0862116/Software-Packaging-Coordinator",
       "identifier": "Software Packaging Coordinator_Software-Packaging-Coordinator"
@@ -12,38 +42,8 @@
       "title": "Mac Software Packaging Automation Engineer",
       "url": "https://jobs.cvshealth.com/us/en/job/R0862115/Mac-Software-Packaging-Automation-Engineer",
       "identifier": "Mac Software Packaging Automation Engineer_-Packaging-Automation-Engineer"
-    },
-    {
-      "title": "Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0846164/Software-Development-Engineer",
-      "identifier": "Software Development Engineer_/Software-Development-Engineer"
-    },
-    {
-      "title": "Senior Manager - Software Development Engineering (myPBM)",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0822486/Senior-Manager-Software-Development-Engineering-myPBM",
-      "identifier": "Senior Manager - Software Development Engineering _-Development-Engineering-myPBM"
-    },
-    {
-      "title": "Service Desk Specialist II",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0851267/Service-Desk-Specialist-II",
-      "identifier": "Service Desk Specialist II_267/Service-Desk-Specialist-II"
-    },
-    {
-      "title": "Senior Engineering Manager",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0877251/Senior-Engineering-Manager",
-      "identifier": "Senior Engineering Manager_251/Senior-Engineering-Manager"
-    },
-    {
-      "title": "Senior Analyst, Business Analysis",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0877444/Senior-Analyst-Business-Analysis",
-      "identifier": "Senior Analyst, Business Analysis_nior-Analyst-Business-Analysis"
-    },
-    {
-      "title": "Senior Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0795945/Senior-Software-Development-Engineer",
-      "identifier": "Senior Software Development Engineer_-Software-Development-Engineer"
     }
   ],
   "job_count_text": "41",
-  "timestamp": "2026-04-07T23:20:19.168490"
+  "timestamp": "2026-04-07T23:37:23.167746"
 }

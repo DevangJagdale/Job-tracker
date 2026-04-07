@@ -1,8 +1,18 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 18,
+  "total_jobs": 17,
   "jobs": [
+    {
+      "title": "Engineering Program Manager, Central Quality, Apple Services Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200656318-0836/engineering-program-manager-central-quality-apple-services-engineering?team=SFTWR",
+      "identifier": "Engineering Program Manager, Central Quality, Appl_ervices-engineering?team=SFTWR"
+    },
+    {
+      "title": "Sr. Software Engineer, Information Systems & Technology",
+      "url": "https://jobs.apple.com/en-us/details/200620195-0836/sr-software-engineer-information-systems-technology?team=SFTWR",
+      "identifier": "Sr. Software Engineer, Information Systems & Techn_-systems-technology?team=SFTWR"
+    },
     {
       "title": "Machine Learning Software Engineer for Location and Spatial Awareness , Sensing & Connectivity",
       "url": "https://jobs.apple.com/en-us/details/200656105-0836/machine-learning-software-engineer-for-location-and-spatial-awareness-sensing-connectivity?team=SFTWR",
@@ -77,23 +87,8 @@
       "title": "Software Engineer \u2014 LLM Systems, Generative AI Infrastructure & Agentic Platforms",
       "url": "https://jobs.apple.com/en-us/details/200649842-0836/software-engineer-llm-systems-generative-ai-infrastructure-agentic-platforms?team=MLAI",
       "identifier": "Software Engineer \u2014 LLM Systems, Generative AI Inf_re-agentic-platforms?team=MLAI"
-    },
-    {
-      "title": "Software Engineer (Functional), Supply Chain Integration",
-      "url": "https://jobs.apple.com/en-us/details/200655634-0157/software-engineer-functional-supply-chain-integration?team=SFTWR",
-      "identifier": "Software Engineer (Functional), Supply Chain Integ_y-chain-integration?team=SFTWR"
-    },
-    {
-      "title": "Data Science Manager - System Analytics & Intelligence",
-      "url": "https://jobs.apple.com/en-us/details/200655853-0836/data-science-manager-system-analytics-intelligence?team=SFTWR",
-      "identifier": "Data Science Manager - System Analytics & Intellig_lytics-intelligence?team=SFTWR"
-    },
-    {
-      "title": "Senior Product Manager, Commerce Data Foundations Platform",
-      "url": "https://jobs.apple.com/en-us/details/200656023-0836/senior-product-manager-commerce-data-foundations-platform?team=OPMFG",
-      "identifier": "Senior Product Manager, Commerce Data Foundations _oundations-platform?team=OPMFG"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-07T16:54:39.334077"
+  "timestamp": "2026-04-07T17:12:01.311802"
 }

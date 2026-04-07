@@ -4,11 +4,6 @@
   "total_jobs": 8,
   "jobs": [
     {
-      "title": "Service Desk Specialist II",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0851267/Service-Desk-Specialist-II",
-      "identifier": "Service Desk Specialist II_267/Service-Desk-Specialist-II"
-    },
-    {
       "title": "Software Packaging Coordinator",
       "url": "https://jobs.cvshealth.com/us/en/job/R0862116/Software-Packaging-Coordinator",
       "identifier": "Software Packaging Coordinator_Software-Packaging-Coordinator"
@@ -24,14 +19,19 @@
       "identifier": "Software Development Engineer_/Software-Development-Engineer"
     },
     {
-      "title": "Senior Engineering Manager",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0877251/Senior-Engineering-Manager",
-      "identifier": "Senior Engineering Manager_251/Senior-Engineering-Manager"
-    },
-    {
       "title": "Senior Manager - Software Development Engineering (myPBM)",
       "url": "https://jobs.cvshealth.com/us/en/job/R0822486/Senior-Manager-Software-Development-Engineering-myPBM",
       "identifier": "Senior Manager - Software Development Engineering _-Development-Engineering-myPBM"
+    },
+    {
+      "title": "Service Desk Specialist II",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0851267/Service-Desk-Specialist-II",
+      "identifier": "Service Desk Specialist II_267/Service-Desk-Specialist-II"
+    },
+    {
+      "title": "Senior Engineering Manager",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0877251/Senior-Engineering-Manager",
+      "identifier": "Senior Engineering Manager_251/Senior-Engineering-Manager"
     },
     {
       "title": "Senior Analyst, Business Analysis",
@@ -39,11 +39,11 @@
       "identifier": "Senior Analyst, Business Analysis_nior-Analyst-Business-Analysis"
     },
     {
-      "title": "Senior Software Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0860253/Senior-Software-Engineer",
-      "identifier": "Senior Software Engineer_60253/Senior-Software-Engineer"
+      "title": "Senior Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0795945/Senior-Software-Development-Engineer",
+      "identifier": "Senior Software Development Engineer_-Software-Development-Engineer"
     }
   ],
   "job_count_text": "41",
-  "timestamp": "2026-04-07T23:03:15.940418"
+  "timestamp": "2026-04-07T23:20:19.168490"
 }

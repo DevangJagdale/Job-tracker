@@ -4,6 +4,11 @@
   "total_jobs": 18,
   "jobs": [
     {
+      "title": "Salesforce Technical Architect, Sales Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200654967-3956/salesforce-technical-architect-sales-engineering?team=SFTWR",
+      "identifier": "Salesforce Technical Architect, Sales Engineering_t-sales-engineering?team=SFTWR"
+    },
+    {
       "title": "Staff iOS & macOS Software Engineer, Screen Time",
       "url": "https://jobs.apple.com/en-us/details/200656112-0836/staff-ios-macos-software-engineer-screen-time?team=SFTWR",
       "identifier": "Staff iOS & macOS Software Engineer, Screen Time_ngineer-screen-time?team=SFTWR"
@@ -87,13 +92,8 @@
       "title": "Apple Games App Engineer",
       "url": "https://jobs.apple.com/en-us/details/200620427-0836/apple-games-app-engineer?team=SFTWR",
       "identifier": "Apple Games App Engineer_-games-app-engineer?team=SFTWR"
-    },
-    {
-      "title": "Senior Site Reliability Engineer - ASE / iCloud",
-      "url": "https://jobs.apple.com/en-us/details/200655692-0836/senior-site-reliability-engineer-ase-icloud?team=SFTWR",
-      "identifier": "Senior Site Reliability Engineer - ASE / iCloud_engineer-ase-icloud?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-07T01:30:32.528617"
+  "timestamp": "2026-04-07T01:47:49.686302"
 }

@@ -4,6 +4,11 @@
   "total_jobs": 10,
   "jobs": [
     {
+      "title": "Software Engineer (AI/Data Engineering)",
+      "url": "https://careers.cisco.com/global/en/job/2011631/Software-Engineer-AI-Data-Engineering",
+      "identifier": "Software Engineer (AI/Data Engineering)_e-Engineer-AI-Data-Engineering"
+    },
+    {
       "title": "Software Engineer Front-End II (Full-Time) United States",
       "url": "https://careers.cisco.com/global/en/job/2010725/Software-Engineer-Front-End-II-Full-Time-United-States",
       "identifier": "Software Engineer Front-End II (Full-Time) United _End-II-Full-Time-United-States"
@@ -12,6 +17,16 @@
       "title": "Software Engineer Front-End I (Full-Time) United States",
       "url": "https://careers.cisco.com/global/en/job/2010724/Software-Engineer-Front-End-I-Full-Time-United-States",
       "identifier": "Software Engineer Front-End I (Full-Time) United S_-End-I-Full-Time-United-States"
+    },
+    {
+      "title": "Software Development Test Engineer",
+      "url": "https://careers.cisco.com/global/en/job/2008813/Software-Development-Test-Engineer",
+      "identifier": "Software Development Test Engineer_ware-Development-Test-Engineer"
+    },
+    {
+      "title": "Technical Consulting Engineer/Technical Support",
+      "url": "https://careers.cisco.com/global/en/job/2012235/Technical-Consulting-Engineer-Technical-Support",
+      "identifier": "Technical Consulting Engineer/Technical Support_ing-Engineer-Technical-Support"
     },
     {
       "title": "Software Engineer Full Stack & Application Development II (Full Time) \u2013 United States",
@@ -24,36 +39,21 @@
       "identifier": "Field Sales Intern (United States)_eld-Sales-Intern-United-States"
     },
     {
-      "title": "Software QA Engineer II (Full Time) \u2013 United States",
-      "url": "https://careers.cisco.com/global/en/job/2002838/Software-QA-Engineer-II-Full-Time-United-States",
-      "identifier": "Software QA Engineer II (Full Time) \u2013 United State_eer-II-Full-Time-United-States"
-    },
-    {
       "title": "Software Engineer Embedded/Network Systems I (Full Time) - United States",
       "url": "https://careers.cisco.com/global/en/job/2000081/Software-Engineer-Embedded-Network-Systems-I-Full-Time-United-States",
       "identifier": "Software Engineer Embedded/Network Systems I (Full_tems-I-Full-Time-United-States"
     },
     {
+      "title": "Software QA Engineer II (Full Time) \u2013 United States",
+      "url": "https://careers.cisco.com/global/en/job/2002838/Software-QA-Engineer-II-Full-Time-United-States",
+      "identifier": "Software QA Engineer II (Full Time) \u2013 United State_eer-II-Full-Time-United-States"
+    },
+    {
       "title": "Software Engineer Full Stack & Application Development I (Full Time) \u2013 United States",
       "url": "https://careers.cisco.com/global/en/job/2000087/Software-Engineer-Full-Stack-Application-Development-I-Full-Time-United-States",
       "identifier": "Software Engineer Full Stack & Application Develop_ment-I-Full-Time-United-States"
-    },
-    {
-      "title": "Product Management Specialist II (Full Time) - United States",
-      "url": "https://careers.cisco.com/global/en/job/2004282/Product-Management-Specialist-II-Full-Time-United-States",
-      "identifier": "Product Management Specialist II (Full Time) - Uni_ist-II-Full-Time-United-States"
-    },
-    {
-      "title": "Software Engineer Embedded/Network Systems II (Full Time) - United States",
-      "url": "https://careers.cisco.com/global/en/job/2000131/Software-Engineer-Embedded-Network-Systems-II-Full-Time-United-States",
-      "identifier": "Software Engineer Embedded/Network Systems II (Ful_ems-II-Full-Time-United-States"
-    },
-    {
-      "title": "Software Engineer Data/AI/Intelligent Systems II (Full Time) \u2013 United States",
-      "url": "https://careers.cisco.com/global/en/job/2000137/Software-Engineer-Data-AI-Intelligent-Systems-II-Full-Time-United-States",
-      "identifier": "Software Engineer Data/AI/Intelligent Systems II (_ems-II-Full-Time-United-States"
     }
   ],
-  "job_count_text": "21",
-  "timestamp": "2026-04-08T08:36:51.312221"
+  "job_count_text": "62",
+  "timestamp": "2026-04-08T08:53:59.421314"
 }

@@ -4,6 +4,11 @@
   "total_jobs": 18,
   "jobs": [
     {
+      "title": "Machine Learning Manager, FM Runtime",
+      "url": "https://jobs.apple.com/en-us/details/200656437-3760/machine-learning-manager-fm-runtime?team=MLAI",
+      "identifier": "Machine Learning Manager, FM Runtime_g-manager-fm-runtime?team=MLAI"
+    },
+    {
       "title": "Software Engineer, Watch Software",
       "url": "https://jobs.apple.com/en-us/details/200656321-0836/software-engineer-watch-software?team=SFTWR",
       "identifier": "Software Engineer, Watch Software_neer-watch-software?team=SFTWR"
@@ -87,13 +92,8 @@
       "title": "Software QA Engineer, Watch Software",
       "url": "https://jobs.apple.com/en-us/details/200653144-0836/software-qa-engineer-watch-software?team=SFTWR",
       "identifier": "Software QA Engineer, Watch Software_neer-watch-software?team=SFTWR"
-    },
-    {
-      "title": "Engineering Program Manager, Central Quality, Apple Services Engineering",
-      "url": "https://jobs.apple.com/en-us/details/200656318-0836/engineering-program-manager-central-quality-apple-services-engineering?team=SFTWR",
-      "identifier": "Engineering Program Manager, Central Quality, Appl_ervices-engineering?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-08T15:08:30.115282"
+  "timestamp": "2026-04-08T15:25:46.164989"
 }

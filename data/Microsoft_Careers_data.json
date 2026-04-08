@@ -4,17 +4,27 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Senior Applied Scientist\nUnited States, Washington, Redmond\nPosted 18 minutes ago",
+      "title": "Senior Software Engineer - Excel Agent Team\nUnited States, Washington, Redmond\nPosted 21 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556856342?domain=microsoft.com",
+      "identifier": "Senior Software Engineer - Excel Agent Team\nUnited_556856342?domain=microsoft.com"
+    },
+    {
+      "title": "Software Engineer II - Azure Resource Graph\nUnited States, Multiple Locations, Multiple Locations\nPosted 22 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556847405?domain=microsoft.com",
+      "identifier": "Software Engineer II - Azure Resource Graph\nUnited_556847405?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Applied Scientist\nUnited States, Washington, Redmond\nPosted 35 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556814642?domain=microsoft.com",
       "identifier": "Senior Applied Scientist\nUnited States, Washington_556814642?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 26 minutes ago",
+      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 43 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556856809?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Washington_556856809?domain=microsoft.com"
     },
     {
-      "title": "Dynamics 365 Senior Software Engineer\nUnited States, Washington, Redmond + 1 more\nPosted 31 minutes ago",
+      "title": "Dynamics 365 Senior Software Engineer\nUnited States, Washington, Redmond + 1 more\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556755016?domain=microsoft.com",
       "identifier": "Dynamics 365 Senior Software Engineer\nUnited State_556755016?domain=microsoft.com"
     },
@@ -29,7 +39,7 @@
       "identifier": "Software Engineer II\nUnited States, Washington, Re_556754083?domain=microsoft.com"
     },
     {
-      "title": "Software Engineer - CTJ - Poly\nUnited States, Washington, Redmond\nPosted an hour ago",
+      "title": "Software Engineer - CTJ - Poly\nUnited States, Washington, Redmond\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556856206?domain=microsoft.com",
       "identifier": "Software Engineer - CTJ - Poly\nUnited States, Wash_556856206?domain=microsoft.com"
     },
@@ -42,18 +52,8 @@
       "title": "Principal Software Engineering Manager\nUnited States, Multiple Locations, Multiple Locations\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556856899?domain=microsoft.com",
       "identifier": "Principal Software Engineering Manager\nUnited Stat_556856899?domain=microsoft.com"
-    },
-    {
-      "title": "Software Engineer II - CTJ - POLY\nUnited States, Virginia, Reston + 2 more\nPosted 2 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556850843?domain=microsoft.com",
-      "identifier": "Software Engineer II - CTJ - POLY\nUnited States, V_556850843?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Software Engineer\nUnited States, Washington, Redmond + 2 more\nPosted 2 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556814353?domain=microsoft.com",
-      "identifier": "Senior Software Engineer\nUnited States, Washington_556814353?domain=microsoft.com"
     }
   ],
-  "job_count_text": "734",
-  "timestamp": "2026-04-08T21:51:13.486754"
+  "job_count_text": "735",
+  "timestamp": "2026-04-08T22:08:19.355581"
 }

@@ -4,6 +4,16 @@
   "total_jobs": 14,
   "jobs": [
     {
+      "title": "Software Integrity Engineer, Sensing & Connectivity",
+      "url": "https://jobs.apple.com/en-us/details/200656129-0836/software-integrity-engineer-sensing-connectivity?team=SFTWR",
+      "identifier": "Software Integrity Engineer, Sensing & Connectivit_ensing-connectivity?team=SFTWR"
+    },
+    {
+      "title": "Software Engineer, App Store Engineering R&D",
+      "url": "https://jobs.apple.com/en-us/details/200654966-3337/software-engineer-app-store-engineering-r-d?team=SFTWR",
+      "identifier": "Software Engineer, App Store Engineering R&D_ore-engineering-r-d?team=SFTWR"
+    },
+    {
       "title": "Phone/FaceTime Experience Software Engineer",
       "url": "https://jobs.apple.com/en-us/details/200656751-3401/phone-facetime-experience-software-engineer?team=SFTWR",
       "identifier": "Phone/FaceTime Experience Software Engineer_e-software-engineer?team=SFTWR"
@@ -62,18 +72,8 @@
       "title": "Engineering Project Manager (SAP), IS&T Enterprise Systems",
       "url": "https://jobs.apple.com/en-us/details/200651802-0157/engineering-project-manager-sap-is-t-enterprise-systems?team=SFTWR",
       "identifier": "Engineering Project Manager (SAP), IS&T Enterprise_-enterprise-systems?team=SFTWR"
-    },
-    {
-      "title": "Acoustics DSP Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200656667-1756/acoustics-dsp-engineer?team=SFTWR",
-      "identifier": "Acoustics DSP Engineer_ustics-dsp-engineer?team=SFTWR"
-    },
-    {
-      "title": "Cellular Software Performance Engineer, Wireless Technologies & Ecosystems",
-      "url": "https://jobs.apple.com/en-us/details/200656676-3543/cellular-software-performance-engineer-wireless-technologies-ecosystems?team=SFTWR",
-      "identifier": "Cellular Software Performance Engineer, Wireless T_nologies-ecosystems?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-08T21:51:30.195577"
+  "timestamp": "2026-04-08T22:08:36.078078"
 }

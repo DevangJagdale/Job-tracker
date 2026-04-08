@@ -4,22 +4,37 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 16 minutes ago",
+      "title": "Software Engineer\nUnited States, Washington, Redmond\nPosted 5 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556750313?domain=microsoft.com",
+      "identifier": "Software Engineer\nUnited States, Washington, Redmo_556750313?domain=microsoft.com"
+    },
+    {
+      "title": "Software Engineer\nUnited States, Washington, Redmond\nPosted 16 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556856046?domain=microsoft.com",
+      "identifier": "Software Engineer\nUnited States, Washington, Redmo_556856046?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 20 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556855325?domain=microsoft.com",
+      "identifier": "Senior Software Engineer\nUnited States, Washington_556855325?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 33 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556855692?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Washington_556855692?domain=microsoft.com"
     },
     {
-      "title": "Principal Software Engineer - Performance\nUnited States, California, Mountain View\nPosted 20 minutes ago",
+      "title": "Principal Software Engineer - Performance\nUnited States, California, Mountain View\nPosted 37 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556828256?domain=microsoft.com",
       "identifier": "Principal Software Engineer - Performance\nUnited S_556828256?domain=microsoft.com"
     },
     {
-      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 41 minutes ago",
+      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556815539?domain=microsoft.com",
       "identifier": "Software Engineer II\nUnited States, Washington, Re_556815539?domain=microsoft.com"
     },
     {
-      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 43 minutes ago",
+      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556815625?domain=microsoft.com",
       "identifier": "Software Engineer II\nUnited States, Washington, Re_556815625?domain=microsoft.com"
     },
@@ -37,23 +52,8 @@
       "title": "Senior Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 4 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556852742?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Multiple L_556852742?domain=microsoft.com"
-    },
-    {
-      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 15 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556623413?domain=microsoft.com",
-      "identifier": "Software Engineer II\nUnited States, Washington, Re_556623413?domain=microsoft.com"
-    },
-    {
-      "title": "Principal Applied Scientist\nUnited States, Washington, Redmond\nPosted 16 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556751203?domain=microsoft.com",
-      "identifier": "Principal Applied Scientist\nUnited States, Washing_556751203?domain=microsoft.com"
-    },
-    {
-      "title": "Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 19 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556620143?domain=microsoft.com",
-      "identifier": "Software Engineer\nUnited States, Multiple Location_556620143?domain=microsoft.com"
     }
   ],
-  "job_count_text": "720",
-  "timestamp": "2026-04-08T16:51:38.515946"
+  "job_count_text": "723",
+  "timestamp": "2026-04-08T17:08:47.098304"
 }

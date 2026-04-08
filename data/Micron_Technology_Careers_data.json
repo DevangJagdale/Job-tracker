@@ -4,19 +4,14 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "New College Grad - Semiconductor Product Engineer\nManassas, Virginia, United States of America\nPosted a day ago",
-      "url": "https://careers.micron.com/careers/job/41246204",
-      "identifier": "New College Grad - Semiconductor Product Engineer\n_icron.com/careers/job/41246204"
-    },
-    {
       "title": "Staff GenAI Engineer - AMS Design and Optimization\nSan Jose, California, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/39464751",
       "identifier": "Staff GenAI Engineer - AMS Design and Optimization_icron.com/careers/job/39464751"
     },
     {
-      "title": "US Expansion Layout Engineer\nBoise, Idaho, United States of America\nPosted 2 days ago",
-      "url": "https://careers.micron.com/careers/job/41229761",
-      "identifier": "US Expansion Layout Engineer\nBoise, Idaho, United _icron.com/careers/job/41229761"
+      "title": "New College Grad - Semiconductor Product Engineer\nManassas, Virginia, United States of America\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/41246204",
+      "identifier": "New College Grad - Semiconductor Product Engineer\n_icron.com/careers/job/41246204"
     },
     {
       "title": "Engineer - Operations Improvement\nBoise, Idaho, United States of America\nPosted 2 days ago",
@@ -44,6 +39,11 @@
       "identifier": "Semiconductor Process Engineer - Photo\nBoise, Idah_icron.com/careers/job/41194594"
     },
     {
+      "title": "US Expansion Layout Engineer\nBoise, Idaho, United States of America\nPosted 2 days ago",
+      "url": "https://careers.micron.com/careers/job/41229761",
+      "identifier": "US Expansion Layout Engineer\nBoise, Idaho, United _icron.com/careers/job/41229761"
+    },
+    {
       "title": "New College Grad - Process Engineer ID1\nBoise, Idaho, United States of America\nPosted 6 days ago",
       "url": "https://careers.micron.com/careers/job/40367274",
       "identifier": "New College Grad - Process Engineer ID1\nBoise, Ida_icron.com/careers/job/40367274"
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "70",
-  "timestamp": "2026-04-08T03:46:38.972005"
+  "timestamp": "2026-04-08T04:03:47.447888"
 }

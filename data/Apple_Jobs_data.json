@@ -4,6 +4,11 @@
   "total_jobs": 14,
   "jobs": [
     {
+      "title": "Senior Software Engineer, Platform Engineering, Services Data Science & Analytics",
+      "url": "https://jobs.apple.com/en-us/details/200656699-0157/senior-software-engineer-platform-engineering-services-data-science-analytics?team=SFTWR",
+      "identifier": "Senior Software Engineer, Platform Engineering, Se_a-science-analytics?team=SFTWR"
+    },
+    {
       "title": "Software Quality Automation Engineer - Apple Services Engineering",
       "url": "https://jobs.apple.com/en-us/details/200656371-3337/software-quality-automation-engineer-apple-services-engineering?team=SFTWR",
       "identifier": "Software Quality Automation Engineer - Apple Servi_ervices-engineering?team=SFTWR"
@@ -67,13 +72,8 @@
       "title": "Software Engineer, Watch Software",
       "url": "https://jobs.apple.com/en-us/details/200656321-0836/software-engineer-watch-software?team=SFTWR",
       "identifier": "Software Engineer, Watch Software_neer-watch-software?team=SFTWR"
-    },
-    {
-      "title": "Machine Learning Video Codec Algorithm Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200656320-0836/machine-learning-video-codec-algorithm-engineer?team=MLAI",
-      "identifier": "Machine Learning Video Codec Algorithm Engineer_c-algorithm-engineer?team=MLAI"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-08T20:01:02.261711"
+  "timestamp": "2026-04-08T20:18:16.428553"
 }

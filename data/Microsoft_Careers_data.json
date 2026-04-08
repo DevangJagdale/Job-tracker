@@ -4,7 +4,7 @@
   "total_jobs": 9,
   "jobs": [
     {
-      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 4 hours ago",
+      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 5 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556623413?domain=microsoft.com",
       "identifier": "Software Engineer II\nUnited States, Washington, Re_556623413?domain=microsoft.com"
     },
@@ -12,6 +12,11 @@
       "title": "Principal Applied Scientist\nUnited States, Washington, Redmond\nPosted 5 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556751203?domain=microsoft.com",
       "identifier": "Principal Applied Scientist\nUnited States, Washing_556751203?domain=microsoft.com"
+    },
+    {
+      "title": "Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 8 hours ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556620143?domain=microsoft.com",
+      "identifier": "Software Engineer\nUnited States, Multiple Location_556620143?domain=microsoft.com"
     },
     {
       "title": "Senior Software Engineer - Network Engineer\nUnited States, Washington, Redmond\nPosted 8 hours ago",
@@ -42,13 +47,8 @@
       "title": "Senior Software Engineer - Surface Post-Launch Engineering\nUnited States, Washington, Redmond\nPosted 10 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556819794?domain=microsoft.com",
       "identifier": "Senior Software Engineer - Surface Post-Launch Eng_556819794?domain=microsoft.com"
-    },
-    {
-      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 10 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556769470?domain=microsoft.com",
-      "identifier": "Software Engineer II\nUnited States, Washington, Re_556769470?domain=microsoft.com"
     }
   ],
-  "job_count_text": "723",
-  "timestamp": "2026-04-08T06:00:25.975808"
+  "job_count_text": "724",
+  "timestamp": "2026-04-08T06:17:35.368916"
 }

@@ -4,7 +4,12 @@
   "total_jobs": 9,
   "jobs": [
     {
-      "title": "Senior Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 28 minutes ago",
+      "title": "Software Engineer 2\nUnited States, Washington, Redmond\nPosted 6 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556749568?domain=microsoft.com",
+      "identifier": "Software Engineer 2\nUnited States, Washington, Red_556749568?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556852742?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Multiple L_556852742?domain=microsoft.com"
     },
@@ -19,22 +24,22 @@
       "identifier": "Principal Applied Scientist\nUnited States, Washing_556751203?domain=microsoft.com"
     },
     {
-      "title": "Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 15 hours ago",
+      "title": "Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 16 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556620143?domain=microsoft.com",
       "identifier": "Software Engineer\nUnited States, Multiple Location_556620143?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer - Network Engineer\nUnited States, Washington, Redmond\nPosted 15 hours ago",
+      "title": "Senior Software Engineer - Network Engineer\nUnited States, Washington, Redmond\nPosted 16 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556855901?domain=microsoft.com",
       "identifier": "Senior Software Engineer - Network Engineer\nUnited_556855901?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer, CoreAI Workload Engines\nUnited States, Washington, Redmond + 1 more\nPosted 16 hours ago",
+      "title": "Senior Software Engineer, CoreAI Workload Engines\nUnited States, Washington, Redmond + 1 more\nPosted 17 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556857255?domain=microsoft.com",
       "identifier": "Senior Software Engineer, CoreAI Workload Engines\n_556857255?domain=microsoft.com"
     },
     {
-      "title": "Principal Software Engineer, CoreAI Workload Engines\nUnited States, Washington, Redmond + 1 more\nPosted 16 hours ago",
+      "title": "Principal Software Engineer, CoreAI Workload Engines\nUnited States, Washington, Redmond + 1 more\nPosted 17 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556857254?domain=microsoft.com",
       "identifier": "Principal Software Engineer, CoreAI Workload Engin_556857254?domain=microsoft.com"
     },
@@ -42,13 +47,8 @@
       "title": "Principal Applied Science Manager\nUnited States, California, Mountain View + 2 more\nPosted 17 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556853756?domain=microsoft.com",
       "identifier": "Principal Applied Science Manager\nUnited States, C_556853756?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Software Engineer - Backend\nUnited States, Washington, Redmond\nPosted 17 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556856441?domain=microsoft.com",
-      "identifier": "Senior Software Engineer - Backend\nUnited States, _556856441?domain=microsoft.com"
     }
   ],
-  "job_count_text": "719",
-  "timestamp": "2026-04-08T13:34:18.516378"
+  "job_count_text": "720",
+  "timestamp": "2026-04-08T13:51:36.249844"
 }

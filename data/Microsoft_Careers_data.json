@@ -4,12 +4,17 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Software Engineer\nUnited States, Washington, Redmond\nPosted 32 minutes ago",
+      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 8 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556657502?domain=microsoft.com",
+      "identifier": "Software Engineer II\nUnited States, Washington, Re_556657502?domain=microsoft.com"
+    },
+    {
+      "title": "Software Engineer\nUnited States, Washington, Redmond\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556749516?domain=microsoft.com",
       "identifier": "Software Engineer\nUnited States, Washington, Redmo_556749516?domain=microsoft.com"
     },
     {
-      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 35 minutes ago",
+      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556856333?domain=microsoft.com",
       "identifier": "Software Engineer II\nUnited States, Washington, Re_556856333?domain=microsoft.com"
     },
@@ -29,12 +34,12 @@
       "identifier": "Senior Software Engineer\nUnited States, Washington_556855325?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted an hour ago",
+      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556855692?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Washington_556855692?domain=microsoft.com"
     },
     {
-      "title": "Principal Software Engineer - Performance\nUnited States, California, Mountain View\nPosted an hour ago",
+      "title": "Principal Software Engineer - Performance\nUnited States, California, Mountain View\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556828256?domain=microsoft.com",
       "identifier": "Principal Software Engineer - Performance\nUnited S_556828256?domain=microsoft.com"
     },
@@ -47,13 +52,8 @@
       "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556815625?domain=microsoft.com",
       "identifier": "Software Engineer II\nUnited States, Washington, Re_556815625?domain=microsoft.com"
-    },
-    {
-      "title": "Data Engineer\nUnited States, Washington, Redmond\nPosted 2 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556710078?domain=microsoft.com",
-      "identifier": "Data Engineer\nUnited States, Washington, Redmond\nP_556710078?domain=microsoft.com"
     }
   ],
   "job_count_text": "724",
-  "timestamp": "2026-04-08T18:00:23.308474"
+  "timestamp": "2026-04-08T18:17:35.578194"
 }

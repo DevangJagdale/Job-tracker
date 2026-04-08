@@ -4,6 +4,11 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Software Engineer, Watch Software",
+      "url": "https://jobs.apple.com/en-us/details/200656321-0836/software-engineer-watch-software?team=SFTWR",
+      "identifier": "Software Engineer, Watch Software_neer-watch-software?team=SFTWR"
+    },
+    {
       "title": "Machine Learning Video Codec Algorithm Engineer",
       "url": "https://jobs.apple.com/en-us/details/200656320-0836/machine-learning-video-codec-algorithm-engineer?team=MLAI",
       "identifier": "Machine Learning Video Codec Algorithm Engineer_c-algorithm-engineer?team=MLAI"
@@ -77,13 +82,8 @@
       "title": "Technical Partner Engineer - Apple Home, Wireless Technologies & Ecosystems",
       "url": "https://jobs.apple.com/en-us/details/200655596-3543/technical-partner-engineer-apple-home-wireless-technologies-ecosystems?team=SFTWR",
       "identifier": "Technical Partner Engineer - Apple Home, Wireless _nologies-ecosystems?team=SFTWR"
-    },
-    {
-      "title": "Cellular Layer1 Control Software Development Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200656120-3543/cellular-layer1-control-software-development-engineer?team=SFTWR",
-      "identifier": "Cellular Layer1 Control Software Development Engin_evelopment-engineer?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-08T02:44:19.898514"
+  "timestamp": "2026-04-08T03:01:24.090710"
 }

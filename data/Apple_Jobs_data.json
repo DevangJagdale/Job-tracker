@@ -4,6 +4,11 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Sr. Software Engineer, Creativity Apps",
+      "url": "https://jobs.apple.com/en-us/details/200646358-0670/sr-software-engineer-creativity-apps?team=SFTWR",
+      "identifier": "Sr. Software Engineer, Creativity Apps_eer-creativity-apps?team=SFTWR"
+    },
+    {
       "title": "Software Engineer, App Store Engineering",
       "url": "https://jobs.apple.com/en-us/details/200654970-3337/software-engineer-app-store-engineering?team=SFTWR",
       "identifier": "Software Engineer, App Store Engineering_p-store-engineering?team=SFTWR"
@@ -77,13 +82,8 @@
       "title": "Software QA Engineer, Watch Software",
       "url": "https://jobs.apple.com/en-us/details/200653144-0836/software-qa-engineer-watch-software?team=SFTWR",
       "identifier": "Software QA Engineer, Watch Software_neer-watch-software?team=SFTWR"
-    },
-    {
-      "title": "Engineering Program Manager, Central Quality, Apple Services Engineering",
-      "url": "https://jobs.apple.com/en-us/details/200656318-0836/engineering-program-manager-central-quality-apple-services-engineering?team=SFTWR",
-      "identifier": "Engineering Program Manager, Central Quality, Appl_ervices-engineering?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-08T00:44:45.177653"
+  "timestamp": "2026-04-08T01:01:49.781570"
 }

@@ -4,17 +4,17 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Software Engineer\nUnited States, Washington, Redmond\nPosted 14 minutes ago",
+      "title": "Software Engineer\nUnited States, Washington, Redmond\nPosted 32 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556749516?domain=microsoft.com",
       "identifier": "Software Engineer\nUnited States, Washington, Redmo_556749516?domain=microsoft.com"
     },
     {
-      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 18 minutes ago",
+      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 35 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556856333?domain=microsoft.com",
       "identifier": "Software Engineer II\nUnited States, Washington, Re_556856333?domain=microsoft.com"
     },
     {
-      "title": "Software Engineer\nUnited States, Washington, Redmond\nPosted 39 minutes ago",
+      "title": "Software Engineer\nUnited States, Washington, Redmond\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556750313?domain=microsoft.com",
       "identifier": "Software Engineer\nUnited States, Washington, Redmo_556750313?domain=microsoft.com"
     },
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "724",
-  "timestamp": "2026-04-08T17:43:08.812890"
+  "timestamp": "2026-04-08T18:00:23.308474"
 }

@@ -1,7 +1,7 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 16,
+  "total_jobs": 18,
   "jobs": [
     {
       "title": "Software Engineer, Watch Software",
@@ -12,11 +12,6 @@
       "title": "Machine Learning Video Codec Algorithm Engineer",
       "url": "https://jobs.apple.com/en-us/details/200656320-0836/machine-learning-video-codec-algorithm-engineer?team=MLAI",
       "identifier": "Machine Learning Video Codec Algorithm Engineer_c-algorithm-engineer?team=MLAI"
-    },
-    {
-      "title": "Sr. Software Engineer, Creativity Apps",
-      "url": "https://jobs.apple.com/en-us/details/200646358-0670/sr-software-engineer-creativity-apps?team=SFTWR",
-      "identifier": "Sr. Software Engineer, Creativity Apps_eer-creativity-apps?team=SFTWR"
     },
     {
       "title": "Software Engineer, App Store Engineering",
@@ -82,8 +77,23 @@
       "title": "Technical Partner Engineer - Apple Home, Wireless Technologies & Ecosystems",
       "url": "https://jobs.apple.com/en-us/details/200655596-3543/technical-partner-engineer-apple-home-wireless-technologies-ecosystems?team=SFTWR",
       "identifier": "Technical Partner Engineer - Apple Home, Wireless _nologies-ecosystems?team=SFTWR"
+    },
+    {
+      "title": "Cellular Layer1 Control Software Development Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200656120-3543/cellular-layer1-control-software-development-engineer?team=SFTWR",
+      "identifier": "Cellular Layer1 Control Software Development Engin_evelopment-engineer?team=SFTWR"
+    },
+    {
+      "title": "Software QA Engineer, Watch Software",
+      "url": "https://jobs.apple.com/en-us/details/200653144-0836/software-qa-engineer-watch-software?team=SFTWR",
+      "identifier": "Software QA Engineer, Watch Software_neer-watch-software?team=SFTWR"
+    },
+    {
+      "title": "Engineering Program Manager, Central Quality, Apple Services Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200656318-0836/engineering-program-manager-central-quality-apple-services-engineering?team=SFTWR",
+      "identifier": "Engineering Program Manager, Central Quality, Appl_ervices-engineering?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-08T11:34:07.098428"
+  "timestamp": "2026-04-08T11:51:17.860866"
 }

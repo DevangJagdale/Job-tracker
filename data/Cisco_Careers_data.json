@@ -34,14 +34,14 @@
       "identifier": "Field Sales Intern (United States)_eld-Sales-Intern-United-States"
     },
     {
-      "title": "Software Engineer Embedded/Network Systems I (Full Time) - United States",
-      "url": "https://careers.cisco.com/global/en/job/2000081/Software-Engineer-Embedded-Network-Systems-I-Full-Time-United-States",
-      "identifier": "Software Engineer Embedded/Network Systems I (Full_tems-I-Full-Time-United-States"
-    },
-    {
       "title": "Software QA Engineer II (Full Time) \u2013 United States",
       "url": "https://careers.cisco.com/global/en/job/2002838/Software-QA-Engineer-II-Full-Time-United-States",
       "identifier": "Software QA Engineer II (Full Time) \u2013 United State_eer-II-Full-Time-United-States"
+    },
+    {
+      "title": "Software Engineer Embedded/Network Systems I (Full Time) - United States",
+      "url": "https://careers.cisco.com/global/en/job/2000081/Software-Engineer-Embedded-Network-Systems-I-Full-Time-United-States",
+      "identifier": "Software Engineer Embedded/Network Systems I (Full_tems-I-Full-Time-United-States"
     },
     {
       "title": "Product Management Specialist II (Full Time) - United States",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "23",
-  "timestamp": "2026-04-08T19:11:13.528106"
+  "timestamp": "2026-04-08T19:28:27.120500"
 }

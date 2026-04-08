@@ -4,6 +4,16 @@
   "total_jobs": 18,
   "jobs": [
     {
+      "title": "Acoustics DSP Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200656667-1756/acoustics-dsp-engineer?team=SFTWR",
+      "identifier": "Acoustics DSP Engineer_ustics-dsp-engineer?team=SFTWR"
+    },
+    {
+      "title": "Cellular Software Performance Engineer, Wireless Technologies & Ecosystems",
+      "url": "https://jobs.apple.com/en-us/details/200656676-3543/cellular-software-performance-engineer-wireless-technologies-ecosystems?team=SFTWR",
+      "identifier": "Cellular Software Performance Engineer, Wireless T_nologies-ecosystems?team=SFTWR"
+    },
+    {
       "title": "Software Engineer",
       "url": "https://jobs.apple.com/en-us/details/200653272-3337/software-engineer?team=SFTWR",
       "identifier": "Software Engineer_7/software-engineer?team=SFTWR"
@@ -82,18 +92,8 @@
       "title": "Embedded System Software Engineer",
       "url": "https://jobs.apple.com/en-us/details/200645485-3543/embedded-system-software-engineer?team=SFTWR",
       "identifier": "Embedded System Software Engineer_m-software-engineer?team=SFTWR"
-    },
-    {
-      "title": "Technical Partner Engineer - Apple Home, Wireless Technologies & Ecosystems",
-      "url": "https://jobs.apple.com/en-us/details/200655596-3543/technical-partner-engineer-apple-home-wireless-technologies-ecosystems?team=SFTWR",
-      "identifier": "Technical Partner Engineer - Apple Home, Wireless _nologies-ecosystems?team=SFTWR"
-    },
-    {
-      "title": "Cellular Layer1 Control Software Development Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200656120-3543/cellular-layer1-control-software-development-engineer?team=SFTWR",
-      "identifier": "Cellular Layer1 Control Software Development Engin_evelopment-engineer?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-08T17:09:03.710959"
+  "timestamp": "2026-04-08T17:26:15.510972"
 }

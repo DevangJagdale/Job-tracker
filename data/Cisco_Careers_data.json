@@ -4,6 +4,16 @@
   "total_jobs": 10,
   "jobs": [
     {
+      "title": "Software Engineer II (Full Time) \u2013 Devices Technology Group \u2013 United States",
+      "url": "https://careers.cisco.com/global/en/job/2011259/Software-Engineer-II-Full-Time-Devices-Technology-Group-United-States",
+      "identifier": "Software Engineer II (Full Time) \u2013 Devices Technol_Technology-Group-United-States"
+    },
+    {
+      "title": "Software Engineer I (Full Time) \u2013 Devices Technology Group \u2013 United States",
+      "url": "https://careers.cisco.com/global/en/job/2011256/Software-Engineer-I-Full-Time-Devices-Technology-Group-United-States",
+      "identifier": "Software Engineer I (Full Time) \u2013 Devices Technolo_Technology-Group-United-States"
+    },
+    {
       "title": "Software Engineer Front-End II (Full-Time) United States",
       "url": "https://careers.cisco.com/global/en/job/2010725/Software-Engineer-Front-End-II-Full-Time-United-States",
       "identifier": "Software Engineer Front-End II (Full-Time) United _End-II-Full-Time-United-States"
@@ -42,18 +52,8 @@
       "title": "Product Management Specialist II (Full Time) - United States",
       "url": "https://careers.cisco.com/global/en/job/2004282/Product-Management-Specialist-II-Full-Time-United-States",
       "identifier": "Product Management Specialist II (Full Time) - Uni_ist-II-Full-Time-United-States"
-    },
-    {
-      "title": "Software Engineer Embedded/Network Systems II (Full Time) - United States",
-      "url": "https://careers.cisco.com/global/en/job/2000131/Software-Engineer-Embedded-Network-Systems-II-Full-Time-United-States",
-      "identifier": "Software Engineer Embedded/Network Systems II (Ful_ems-II-Full-Time-United-States"
-    },
-    {
-      "title": "Software Engineer Data/AI/Intelligent Systems II (Full Time) \u2013 United States",
-      "url": "https://careers.cisco.com/global/en/job/2000137/Software-Engineer-Data-AI-Intelligent-Systems-II-Full-Time-United-States",
-      "identifier": "Software Engineer Data/AI/Intelligent Systems II (_ems-II-Full-Time-United-States"
     }
   ],
-  "job_count_text": "21",
-  "timestamp": "2026-04-08T15:27:32.537757"
+  "job_count_text": "23",
+  "timestamp": "2026-04-08T15:44:42.191843"
 }

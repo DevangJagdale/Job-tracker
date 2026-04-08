@@ -4,6 +4,11 @@
   "total_jobs": 15,
   "jobs": [
     {
+      "title": "AR/VR Software Development Engineer, Vision Products Software",
+      "url": "https://jobs.apple.com/en-us/details/200641948-0365/ar-vr-software-development-engineer-vision-products-software?team=SFTWR",
+      "identifier": "AR/VR Software Development Engineer, Vision Produc_n-products-software?team=SFTWR"
+    },
+    {
       "title": "Software Engineer (Distributed System)",
       "url": "https://jobs.apple.com/en-us/details/200634779-3760/software-engineer-distributed-system?team=MLAI",
       "identifier": "Software Engineer (Distributed System)_r-distributed-system?team=MLAI"
@@ -72,13 +77,8 @@
       "title": "ML Safety Engineer, ASE",
       "url": "https://jobs.apple.com/en-us/details/200636183-3577/ml-safety-engineer-ase?team=SFTWR",
       "identifier": "ML Safety Engineer, ASE_safety-engineer-ase?team=SFTWR"
-    },
-    {
-      "title": "Product Manager, Apple Services Commerce",
-      "url": "https://jobs.apple.com/en-us/details/200656138-0836/product-manager-apple-services-commerce?team=OPMFG",
-      "identifier": "Product Manager, Apple Services Commerce_e-services-commerce?team=OPMFG"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-08T18:52:16.956053"
+  "timestamp": "2026-04-08T19:09:26.905206"
 }

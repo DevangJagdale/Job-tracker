@@ -1,14 +1,109 @@
 {
   "page_title": "Salesforce Jobs | Salesforce Careers",
   "url": "https://careers.salesforce.com/en/jobs/?search=&country=United+States+of+America&team=Data&team=Enterprise+Technology+%26+Infrastructure&team=Software+Engineering&jobtype=New+Grads&pagesize=20#results",
-  "total_jobs": 1,
+  "total_jobs": 20,
   "jobs": [
     {
-      "title": "Software Engineering AMTS (College Grad)",
-      "url": "https://careers.salesforce.com/en/jobs/jr330400/software-engineering-amts-college-grad/",
-      "identifier": "Software Engineering AMTS (College Grad)_engineering-amts-college-grad/"
+      "title": "Lead, Account SE, ECS, Public Sector",
+      "url": "https://careers.salesforce.com/en/jobs/jr329351/lead-account-se-ecs-public-sector/",
+      "identifier": "Lead, Account SE, ECS, Public Sector_-account-se-ecs-public-sector/"
+    },
+    {
+      "title": "MDM Sales Specialist",
+      "url": "https://careers.salesforce.com/en/jobs/jr334736/mdm-sales-specialist/",
+      "identifier": "MDM Sales Specialist_jr334736/mdm-sales-specialist/"
+    },
+    {
+      "title": "Named Account Executive - Central Government",
+      "url": "https://careers.salesforce.com/en/jobs/jr336411/named-account-executive-central-government/",
+      "identifier": "Named Account Executive - Central Government_-executive-central-government/"
+    },
+    {
+      "title": "Salesforce Developer",
+      "url": "https://careers.salesforce.com/en/jobs/jr336706/salesforce-developer/",
+      "identifier": "Salesforce Developer_jr336706/salesforce-developer/"
+    },
+    {
+      "title": "Legal Technology Operations Senior Analyst",
+      "url": "https://careers.salesforce.com/en/jobs/jr331806/legal-technology-operations-senior-analyst/",
+      "identifier": "Legal Technology Operations Senior Analyst_ogy-operations-senior-analyst/"
+    },
+    {
+      "title": "Solution Engineering - Manager/Sr Manager, Director, Senior Director",
+      "url": "https://careers.salesforce.com/en/jobs/jr318261/solution-engineering-managersr-manager-director-senior-director/",
+      "identifier": "Solution Engineering - Manager/Sr Manager, Directo_ager-director-senior-director/"
+    },
+    {
+      "title": "Named Account Executive ( Collectivit\u00e9s Territoriales)",
+      "url": "https://careers.salesforce.com/en/jobs/jr336432/named-account-executive-collectivites-territoriales/",
+      "identifier": "Named Account Executive ( Collectivit\u00e9s Territoria_e-collectivites-territoriales/"
+    },
+    {
+      "title": "Senior Success Guide - Informatica - Portuguese & English",
+      "url": "https://careers.salesforce.com/en/jobs/jr335125/senior-success-guide-informatica-portuguese-english/",
+      "identifier": "Senior Success Guide - Informatica - Portuguese & _nformatica-portuguese-english/"
+    },
+    {
+      "title": "Success Guide/Senior Success Guide - Core Clouds (Sales, Service, Experience)",
+      "url": "https://careers.salesforce.com/en/jobs/jr331831/success-guidesenior-success-guide-core-clouds-sales-service-experience/",
+      "identifier": "Success Guide/Senior Success Guide - Core Clouds (_ouds-sales-service-experience/"
+    },
+    {
+      "title": "Senior Software Engineer",
+      "url": "https://careers.salesforce.com/en/jobs/jr336667/senior-software-engineer/",
+      "identifier": "Senior Software Engineer_6667/senior-software-engineer/"
+    },
+    {
+      "title": "Technical Support Engineer",
+      "url": "https://careers.salesforce.com/en/jobs/jr336509/technical-support-engineer/",
+      "identifier": "Technical Support Engineer_09/technical-support-engineer/"
+    },
+    {
+      "title": "Senior Executive Assistant to SVP & GM, ASEAN",
+      "url": "https://careers.salesforce.com/en/jobs/jr336985/senior-executive-assistant-to-svp-gm-asean/",
+      "identifier": "Senior Executive Assistant to SVP & GM, ASEAN_ive-assistant-to-svp-gm-asean/"
+    },
+    {
+      "title": "Reseller Account Executive 6",
+      "url": "https://careers.salesforce.com/en/jobs/jr337174/reseller-account-executive-6/",
+      "identifier": "Reseller Account Executive 6_/reseller-account-executive-6/"
+    },
+    {
+      "title": "Lead, ECS Solution Engineer, Data/Integration, Public Sector",
+      "url": "https://careers.salesforce.com/en/jobs/jr334653/lead-ecs-solution-engineer-dataintegration-public-sector/",
+      "identifier": "Lead, ECS Solution Engineer, Data/Integration, Pub_dataintegration-public-sector/"
+    },
+    {
+      "title": "Principal, Analytics SE",
+      "url": "https://careers.salesforce.com/en/jobs/jr336111/principal-analytics-se/",
+      "identifier": "Principal, Analytics SE_336111/principal-analytics-se/"
+    },
+    {
+      "title": "Named Account Executive",
+      "url": "https://careers.salesforce.com/en/jobs/jr336342/named-account-executive/",
+      "identifier": "Named Account Executive_36342/named-account-executive/"
+    },
+    {
+      "title": "Corporate Counsel - Commercial Legal",
+      "url": "https://careers.salesforce.com/en/jobs/jr336160/corporate-counsel-commercial-legal/",
+      "identifier": "Corporate Counsel - Commercial Legal_rate-counsel-commercial-legal/"
+    },
+    {
+      "title": "Lead, Specialist SE - Slack",
+      "url": "https://careers.salesforce.com/en/jobs/jr336616/lead-specialist-se-slack/",
+      "identifier": "Lead, Specialist SE - Slack_6616/lead-specialist-se-slack/"
+    },
+    {
+      "title": "Account Executive, ECS, Department of War",
+      "url": "https://careers.salesforce.com/en/jobs/jr337026/account-executive-ecs-department-of-war/",
+      "identifier": "Account Executive, ECS, Department of War_ecutive-ecs-department-of-war/"
+    },
+    {
+      "title": "Sales Strategy Senior Manager / Director",
+      "url": "https://careers.salesforce.com/en/jobs/jr336393/sales-strategy-senior-manager-director/",
+      "identifier": "Sales Strategy Senior Manager / Director_ategy-senior-manager-director/"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-08T01:05:16.906316"
+  "timestamp": "2026-04-08T01:22:25.782170"
 }

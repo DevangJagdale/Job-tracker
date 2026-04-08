@@ -4,6 +4,11 @@
   "total_jobs": 9,
   "jobs": [
     {
+      "title": "Data Engineer\nUnited States, Washington, Redmond\nPosted 18 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556710078?domain=microsoft.com",
+      "identifier": "Data Engineer\nUnited States, Washington, Redmond\nP_556710078?domain=microsoft.com"
+    },
+    {
       "title": "Software Engineer 2\nUnited States, Washington, Redmond\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556749568?domain=microsoft.com",
       "identifier": "Software Engineer 2\nUnited States, Washington, Red_556749568?domain=microsoft.com"
@@ -19,7 +24,7 @@
       "identifier": "Software Engineer II\nUnited States, Washington, Re_556623413?domain=microsoft.com"
     },
     {
-      "title": "Principal Applied Scientist\nUnited States, Washington, Redmond\nPosted 14 hours ago",
+      "title": "Principal Applied Scientist\nUnited States, Washington, Redmond\nPosted 15 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556751203?domain=microsoft.com",
       "identifier": "Principal Applied Scientist\nUnited States, Washing_556751203?domain=microsoft.com"
     },
@@ -34,7 +39,7 @@
       "identifier": "Senior Software Engineer - Network Engineer\nUnited_556855901?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer, CoreAI Workload Engines\nUnited States, Washington, Redmond + 1 more\nPosted 18 hours ago",
+      "title": "Senior Software Engineer, CoreAI Workload Engines\nUnited States, Washington, Redmond + 1 more\nPosted 19 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556857255?domain=microsoft.com",
       "identifier": "Senior Software Engineer, CoreAI Workload Engines\n_556857255?domain=microsoft.com"
     },
@@ -42,13 +47,8 @@
       "title": "Principal Software Engineer, CoreAI Workload Engines\nUnited States, Washington, Redmond + 1 more\nPosted 19 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556857254?domain=microsoft.com",
       "identifier": "Principal Software Engineer, CoreAI Workload Engin_556857254?domain=microsoft.com"
-    },
-    {
-      "title": "Principal Applied Science Manager\nUnited States, California, Mountain View + 2 more\nPosted 19 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556853756?domain=microsoft.com",
-      "identifier": "Principal Applied Science Manager\nUnited States, C_556853756?domain=microsoft.com"
     }
   ],
-  "job_count_text": "718",
-  "timestamp": "2026-04-08T15:42:41.032014"
+  "job_count_text": "719",
+  "timestamp": "2026-04-08T15:59:55.611659"
 }

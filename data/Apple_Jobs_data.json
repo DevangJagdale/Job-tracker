@@ -4,6 +4,11 @@
   "total_jobs": 18,
   "jobs": [
     {
+      "title": "Software Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200653272-3337/software-engineer?team=SFTWR",
+      "identifier": "Software Engineer_7/software-engineer?team=SFTWR"
+    },
+    {
       "title": "Machine Learning Manager, FM Runtime",
       "url": "https://jobs.apple.com/en-us/details/200656437-3760/machine-learning-manager-fm-runtime?team=MLAI",
       "identifier": "Machine Learning Manager, FM Runtime_g-manager-fm-runtime?team=MLAI"
@@ -87,13 +92,8 @@
       "title": "Cellular Layer1 Control Software Development Engineer",
       "url": "https://jobs.apple.com/en-us/details/200656120-3543/cellular-layer1-control-software-development-engineer?team=SFTWR",
       "identifier": "Cellular Layer1 Control Software Development Engin_evelopment-engineer?team=SFTWR"
-    },
-    {
-      "title": "Software QA Engineer, Watch Software",
-      "url": "https://jobs.apple.com/en-us/details/200653144-0836/software-qa-engineer-watch-software?team=SFTWR",
-      "identifier": "Software QA Engineer, Watch Software_neer-watch-software?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-08T16:00:12.282911"
+  "timestamp": "2026-04-08T16:17:27.194099"
 }

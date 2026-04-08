@@ -1,17 +1,12 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 15,
+  "total_jobs": 14,
   "jobs": [
     {
       "title": "Software Development Engineer in Test - Retail Engineering",
       "url": "https://jobs.apple.com/en-us/details/200655205-0157/software-development-engineer-in-test-retail-engineering?team=SFTWR",
       "identifier": "Software Development Engineer in Test - Retail Eng_-retail-engineering?team=SFTWR"
-    },
-    {
-      "title": "Software Integrity Engineer, Sensing & Connectivity",
-      "url": "https://jobs.apple.com/en-us/details/200656129-0836/software-integrity-engineer-sensing-connectivity?team=SFTWR",
-      "identifier": "Software Integrity Engineer, Sensing & Connectivit_ensing-connectivity?team=SFTWR"
     },
     {
       "title": "Software Engineer, App Store Engineering R&D",
@@ -80,5 +75,5 @@
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-08T22:42:43.983267"
+  "timestamp": "2026-04-08T22:59:55.573066"
 }

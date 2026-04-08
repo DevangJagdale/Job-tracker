@@ -4,6 +4,11 @@
   "total_jobs": 14,
   "jobs": [
     {
+      "title": "Asset Data Analyst, Infrastructure Services",
+      "url": "https://jobs.apple.com/en-us/details/200656698-2903/asset-data-analyst-infrastructure-services?team=SFTWR",
+      "identifier": "Asset Data Analyst, Infrastructure Services_astructure-services?team=SFTWR"
+    },
+    {
       "title": "Senior Software Engineer, Platform Engineering, Services Data Science & Analytics",
       "url": "https://jobs.apple.com/en-us/details/200656699-0157/senior-software-engineer-platform-engineering-services-data-science-analytics?team=SFTWR",
       "identifier": "Senior Software Engineer, Platform Engineering, Se_a-science-analytics?team=SFTWR"
@@ -67,13 +72,8 @@
       "title": "Machine Learning Manager, FM Runtime",
       "url": "https://jobs.apple.com/en-us/details/200656437-3760/machine-learning-manager-fm-runtime?team=MLAI",
       "identifier": "Machine Learning Manager, FM Runtime_g-manager-fm-runtime?team=MLAI"
-    },
-    {
-      "title": "Software Engineer, Watch Software",
-      "url": "https://jobs.apple.com/en-us/details/200656321-0836/software-engineer-watch-software?team=SFTWR",
-      "identifier": "Software Engineer, Watch Software_neer-watch-software?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-08T20:43:11.354366"
+  "timestamp": "2026-04-08T21:00:16.902548"
 }

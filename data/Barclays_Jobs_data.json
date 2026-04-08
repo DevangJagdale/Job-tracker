@@ -1,13 +1,8 @@
 {
   "page_title": "Search our Job Opportunities at Barclays",
   "url": "https://search.jobs.barclays/search-jobs/United%20States/13015/2/6252001/39x76/-98x5/50/2",
-  "total_jobs": 15,
+  "total_jobs": 14,
   "jobs": [
-    {
-      "title": "Data Science & Strategic Insights \u2013 Fixed Income Financing",
-      "url": "https://search.jobs.barclays/job/new-york/data-science-and-strategic-insights-fixed-income-financing/13015/93700010608",
-      "identifier": "Data Science & Strategic Insights \u2013 Fixed Income F_me-financing/13015/93700010608"
-    },
     {
       "title": "Production Support Engineer \u2013 BA4",
       "url": "https://search.jobs.barclays/job/whippany/production-support-engineer-ba4/13015/93700006576",
@@ -27,6 +22,11 @@
       "title": "USCB Strategic Investments Process Analyst - AVP",
       "url": "https://search.jobs.barclays/job/whippany/uscb-strategic-investments-process-analyst-avp/13015/93686856832",
       "identifier": "USCB Strategic Investments Process Analyst - AVP_-analyst-avp/13015/93686856832"
+    },
+    {
+      "title": "Director, Sector Head of Cash Management Sales",
+      "url": "https://search.jobs.barclays/job/new-york/director-sector-head-of-cash-management-sales/13015/93675237792",
+      "identifier": "Director, Sector Head of Cash Management Sales_gement-sales/13015/93675237792"
     },
     {
       "title": "AVP, Cloud Automation and Virtualization",
@@ -59,11 +59,6 @@
       "identifier": "VP-Transformation and Design Enablement_n-enablement/13015/93512447984"
     },
     {
-      "title": "Senior Project Manager - VP",
-      "url": "https://search.jobs.barclays/job/whippany/senior-project-manager-vp/13015/93512447840",
-      "identifier": "Senior Project Manager - VP_t-manager-vp/13015/93512447840"
-    },
-    {
       "title": "AVP - Transformation and Design Enablement",
       "url": "https://search.jobs.barclays/job/whippany/avp-transformation-and-design-enablement/13015/93512447808",
       "identifier": "AVP - Transformation and Design Enablement_n-enablement/13015/93512447808"
@@ -80,5 +75,5 @@
     }
   ],
   "job_count_text": "109",
-  "timestamp": "2026-04-08T23:16:29.283012"
+  "timestamp": "2026-04-08T23:33:34.713400"
 }

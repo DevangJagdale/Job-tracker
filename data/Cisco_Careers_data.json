@@ -4,11 +4,6 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Software Engineer Full Stack & Application Development II (Full Time) \u2013 United States",
-      "url": "https://careers.cisco.com/global/en/job/2000127/Software-Engineer-Full-Stack-Application-Development-II-Full-Time-United-States",
-      "identifier": "Software Engineer Full Stack & Application Develop_ent-II-Full-Time-United-States"
-    },
-    {
       "title": "Software Engineer Front-End II (Full-Time) United States",
       "url": "https://careers.cisco.com/global/en/job/2010725/Software-Engineer-Front-End-II-Full-Time-United-States",
       "identifier": "Software Engineer Front-End II (Full-Time) United _End-II-Full-Time-United-States"
@@ -17,6 +12,11 @@
       "title": "Software Engineer Front-End I (Full-Time) United States",
       "url": "https://careers.cisco.com/global/en/job/2010724/Software-Engineer-Front-End-I-Full-Time-United-States",
       "identifier": "Software Engineer Front-End I (Full-Time) United S_-End-I-Full-Time-United-States"
+    },
+    {
+      "title": "Software Engineer Full Stack & Application Development II (Full Time) \u2013 United States",
+      "url": "https://careers.cisco.com/global/en/job/2000127/Software-Engineer-Full-Stack-Application-Development-II-Full-Time-United-States",
+      "identifier": "Software Engineer Full Stack & Application Develop_ent-II-Full-Time-United-States"
     },
     {
       "title": "Field Sales Intern (United States)",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "21",
-  "timestamp": "2026-04-08T02:29:02.545278"
+  "timestamp": "2026-04-08T02:46:04.657258"
 }

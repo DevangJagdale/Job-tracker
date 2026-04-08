@@ -4,6 +4,11 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Machine Learning Video Codec Algorithm Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200656320-0836/machine-learning-video-codec-algorithm-engineer?team=MLAI",
+      "identifier": "Machine Learning Video Codec Algorithm Engineer_c-algorithm-engineer?team=MLAI"
+    },
+    {
       "title": "Sr. Software Engineer, Creativity Apps",
       "url": "https://jobs.apple.com/en-us/details/200646358-0670/sr-software-engineer-creativity-apps?team=SFTWR",
       "identifier": "Sr. Software Engineer, Creativity Apps_eer-creativity-apps?team=SFTWR"
@@ -77,13 +82,8 @@
       "title": "Cellular Layer1 Control Software Development Engineer",
       "url": "https://jobs.apple.com/en-us/details/200656120-3543/cellular-layer1-control-software-development-engineer?team=SFTWR",
       "identifier": "Cellular Layer1 Control Software Development Engin_evelopment-engineer?team=SFTWR"
-    },
-    {
-      "title": "Software QA Engineer, Watch Software",
-      "url": "https://jobs.apple.com/en-us/details/200653144-0836/software-qa-engineer-watch-software?team=SFTWR",
-      "identifier": "Software QA Engineer, Watch Software_neer-watch-software?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-08T02:27:17.638988"
+  "timestamp": "2026-04-08T02:44:19.898514"
 }

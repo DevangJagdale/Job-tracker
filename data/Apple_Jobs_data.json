@@ -1,8 +1,13 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 14,
+  "total_jobs": 15,
   "jobs": [
+    {
+      "title": "Software Image Quality Engineer - Creativity Apps",
+      "url": "https://jobs.apple.com/en-us/details/200645394-0836/software-image-quality-engineer-creativity-apps?team=SFTWR",
+      "identifier": "Software Image Quality Engineer - Creativity Apps_eer-creativity-apps?team=SFTWR"
+    },
     {
       "title": "Engineering Program Manager, Siri",
       "url": "https://jobs.apple.com/en-us/details/200656788-0836/engineering-program-manager-siri?team=SFTWR",
@@ -27,11 +32,6 @@
       "title": "Senior Product Data Scientist in Causal Inference and ML, App Store",
       "url": "https://jobs.apple.com/en-us/details/200654450-0670/senior-product-data-scientist-in-causal-inference-and-ml-app-store?team=SFTWR",
       "identifier": "Senior Product Data Scientist in Causal Inference _ce-and-ml-app-store?team=SFTWR"
-    },
-    {
-      "title": "Video Content Machine Learning Lead",
-      "url": "https://jobs.apple.com/en-us/details/200656393-0670/video-content-machine-learning-lead?team=SFTWR",
-      "identifier": "Video Content Machine Learning Lead_chine-learning-lead?team=SFTWR"
     },
     {
       "title": "Senior Product Manager, Employee Experience & Productivity",
@@ -72,8 +72,13 @@
       "title": "Senior Software Engineer, Cloud Platforms",
       "url": "https://jobs.apple.com/en-us/details/200655198-0157/senior-software-engineer-cloud-platforms?team=SFTWR",
       "identifier": "Senior Software Engineer, Cloud Platforms_eer-cloud-platforms?team=SFTWR"
+    },
+    {
+      "title": "Asset Data Analyst, Infrastructure Services",
+      "url": "https://jobs.apple.com/en-us/details/200656698-2903/asset-data-analyst-infrastructure-services?team=SFTWR",
+      "identifier": "Asset Data Analyst, Infrastructure Services_astructure-services?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-09T15:57:00.349391"
+  "timestamp": "2026-04-09T16:14:41.722575"
 }

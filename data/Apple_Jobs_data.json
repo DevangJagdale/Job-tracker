@@ -4,6 +4,21 @@
   "total_jobs": 14,
   "jobs": [
     {
+      "title": "Facilities Chief Engineer, Data Center Operations",
+      "url": "https://jobs.apple.com/en-us/details/200642894-1902/facilities-chief-engineer-data-center-operations?team=SFTWR",
+      "identifier": "Facilities Chief Engineer, Data Center Operations_a-center-operations?team=SFTWR"
+    },
+    {
+      "title": "Senior Software Engineer, Apple Services Engineering - Commerce",
+      "url": "https://jobs.apple.com/en-us/details/200656755-0836/senior-software-engineer-apple-services-engineering-commerce?team=SFTWR",
+      "identifier": "Senior Software Engineer, Apple Services Engineeri_ngineering-commerce?team=SFTWR"
+    },
+    {
+      "title": "Senior Engineering Manager, Apple Data Platform",
+      "url": "https://jobs.apple.com/en-us/details/200656390-0836/senior-engineering-manager-apple-data-platform?team=SFTWR",
+      "identifier": "Senior Engineering Manager, Apple Data Platform_apple-data-platform?team=SFTWR"
+    },
+    {
       "title": "Backend Software Engineer (Golang)",
       "url": "https://jobs.apple.com/en-us/details/200656749-0157/backend-software-engineer-golang?team=SFTWR",
       "identifier": "Backend Software Engineer (Golang)_are-engineer-golang?team=SFTWR"
@@ -57,23 +72,8 @@
       "title": "Senior Software Engineer in Test, Evaluation",
       "url": "https://jobs.apple.com/en-us/details/200654947-3337/senior-software-engineer-in-test-evaluation?team=SFTWR",
       "identifier": "Senior Software Engineer in Test, Evaluation_-in-test-evaluation?team=SFTWR"
-    },
-    {
-      "title": "Acoustics DSP Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200656667-1756/acoustics-dsp-engineer?team=SFTWR",
-      "identifier": "Acoustics DSP Engineer_ustics-dsp-engineer?team=SFTWR"
-    },
-    {
-      "title": "Software Development Engineer in Test - Retail Engineering",
-      "url": "https://jobs.apple.com/en-us/details/200655205-0157/software-development-engineer-in-test-retail-engineering?team=SFTWR",
-      "identifier": "Software Development Engineer in Test - Retail Eng_-retail-engineering?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer, App Store Engineering R&D",
-      "url": "https://jobs.apple.com/en-us/details/200654966-3337/software-engineer-app-store-engineering-r-d?team=SFTWR",
-      "identifier": "Software Engineer, App Store Engineering R&D_ore-engineering-r-d?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-09T17:08:08.086401"
+  "timestamp": "2026-04-09T17:25:12.891556"
 }

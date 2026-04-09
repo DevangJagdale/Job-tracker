@@ -1,8 +1,18 @@
 {
   "page_title": "Search our Job Opportunities at Barclays",
   "url": "https://search.jobs.barclays/search-jobs/United%20States/13015/2/6252001/39x76/-98x5/50/2",
-  "total_jobs": 14,
+  "total_jobs": 16,
   "jobs": [
+    {
+      "title": "Voice Solutions Delivery Engineer - AVP",
+      "url": "https://search.jobs.barclays/job/whippany/voice-solutions-delivery-engineer-avp/13015/93738670960",
+      "identifier": "Voice Solutions Delivery Engineer - AVP_engineer-avp/13015/93738670960"
+    },
+    {
+      "title": "Director, Head of TMT Coverage - International Corporate Banking Americas",
+      "url": "https://search.jobs.barclays/job/new-york/director-head-of-tmt-coverage-international-corporate-banking-americas/13015/93738666320",
+      "identifier": "Director, Head of TMT Coverage - International Cor_ing-americas/13015/93738666320"
+    },
     {
       "title": "Production Support Engineer \u2013 BA4",
       "url": "https://search.jobs.barclays/job/whippany/production-support-engineer-ba4/13015/93700006576",
@@ -74,6 +84,6 @@
       "identifier": "Principal Full Stack Engineer - VP_-engineer-vp/13015/93499643984"
     }
   ],
-  "job_count_text": "109",
-  "timestamp": "2026-04-09T11:28:53.028987"
+  "job_count_text": "108",
+  "timestamp": "2026-04-09T11:45:57.957428"
 }

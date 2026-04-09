@@ -4,9 +4,24 @@
   "total_jobs": 17,
   "jobs": [
     {
+      "title": "Sr Program Manager, Commerce Program Management - Partners, Apple Services Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200656992-2459/sr-program-manager-commerce-program-management-partners-apple-services-engineering?team=SFTWR",
+      "identifier": "Sr Program Manager, Commerce Program Management - _ervices-engineering?team=SFTWR"
+    },
+    {
+      "title": "Engineering Program Manager- Customer Systems",
+      "url": "https://jobs.apple.com/en-us/details/200655982-3956/engineering-program-manager-customer-systems?team=SFTWR",
+      "identifier": "Engineering Program Manager- Customer Systems_er-customer-systems?team=SFTWR"
+    },
+    {
       "title": "Senior Content Curator, Apple Creator Studio (Product, Design & Marketing)",
       "url": "https://jobs.apple.com/en-us/details/200652761-0670/senior-content-curator-apple-creator-studio-product-design-marketing?team=SFTWR",
       "identifier": "Senior Content Curator, Apple Creator Studio (Prod_ct-design-marketing?team=SFTWR"
+    },
+    {
+      "title": "Software Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200641174-3956/software-engineer?team=SFTWR",
+      "identifier": "Software Engineer_6/software-engineer?team=SFTWR"
     },
     {
       "title": "Support Engineer, G&A Solutions Engineering (GSE)",
@@ -72,23 +87,8 @@
       "title": "Software OS Developer Engineer",
       "url": "https://jobs.apple.com/en-us/details/200656765-0836/software-os-developer-engineer?team=SFTWR",
       "identifier": "Software OS Developer Engineer_-developer-engineer?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer, ML platform and Infrastructure",
-      "url": "https://jobs.apple.com/en-us/details/200656768-0240/software-engineer-ml-platform-and-infrastructure?team=SFTWR",
-      "identifier": "Software Engineer, ML platform and Infrastructure_-and-infrastructure?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer, Creativity Apps",
-      "url": "https://jobs.apple.com/en-us/details/200656613-3673/software-engineer-creativity-apps?team=SFTWR",
-      "identifier": "Software Engineer, Creativity Apps_eer-creativity-apps?team=SFTWR"
-    },
-    {
-      "title": "Senior Product Data Scientist in Causal Inference and ML, App Store",
-      "url": "https://jobs.apple.com/en-us/details/200654450-0670/senior-product-data-scientist-in-causal-inference-and-ml-app-store?team=SFTWR",
-      "identifier": "Senior Product Data Scientist in Causal Inference _ce-and-ml-app-store?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-09T22:26:53.270643"
+  "timestamp": "2026-04-09T22:43:59.950610"
 }

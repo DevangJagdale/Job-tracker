@@ -4,6 +4,11 @@
   "total_jobs": 14,
   "jobs": [
     {
+      "title": "Senior Product Data Scientist in Causal Inference and ML, App Store",
+      "url": "https://jobs.apple.com/en-us/details/200654450-0670/senior-product-data-scientist-in-causal-inference-and-ml-app-store?team=SFTWR",
+      "identifier": "Senior Product Data Scientist in Causal Inference _ce-and-ml-app-store?team=SFTWR"
+    },
+    {
       "title": "Video Content Machine Learning Lead",
       "url": "https://jobs.apple.com/en-us/details/200656393-0670/video-content-machine-learning-lead?team=SFTWR",
       "identifier": "Video Content Machine Learning Lead_chine-learning-lead?team=SFTWR"
@@ -67,13 +72,8 @@
       "title": "Sr. Software Engineering Manager, Pricing-Subscriptions & Infrastructure",
       "url": "https://jobs.apple.com/en-us/details/200656675-3337/sr-software-engineering-manager-pricing-subscriptions-infrastructure?team=SFTWR",
       "identifier": "Sr. Software Engineering Manager, Pricing-Subscrip_ions-infrastructure?team=SFTWR"
-    },
-    {
-      "title": "SW Development Engineer - Front End Frameworks",
-      "url": "https://jobs.apple.com/en-us/details/200656666-3337/sw-development-engineer-front-end-frameworks?team=SFTWR",
-      "identifier": "SW Development Engineer - Front End Frameworks_ront-end-frameworks?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-09T03:40:35.548516"
+  "timestamp": "2026-04-09T03:57:38.724414"
 }

@@ -4,12 +4,27 @@
   "total_jobs": 10,
   "jobs": [
     {
+      "title": "Principal AI Software Architect\nUnited States, Washington, Redmond + 1 more\nPosted 10 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556856516?domain=microsoft.com",
+      "identifier": "Principal AI Software Architect\nUnited States, Was_556856516?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 23 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556631075?domain=microsoft.com",
+      "identifier": "Senior Software Engineer\nUnited States, Washington_556631075?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Applied Scientist\nUnited States, Washington, Redmond + 1 more\nPosted 24 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556856959?domain=microsoft.com",
+      "identifier": "Senior Applied Scientist\nUnited States, Washington_556856959?domain=microsoft.com"
+    },
+    {
       "title": "Principal Data Scientist\nUnited States, Multiple Locations, Multiple Locations + 8 more\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556849580?domain=microsoft.com",
       "identifier": "Principal Data Scientist\nUnited States, Multiple L_556849580?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted an hour ago",
+      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556751708?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Washington_556751708?domain=microsoft.com"
     },
@@ -34,26 +49,11 @@
       "identifier": "Principal Site Reliability Engineer\nUnited States,_556823642?domain=microsoft.com"
     },
     {
-      "title": "Principal Data Scientist\nUnited States, Washington, Redmond\nPosted 4 hours ago",
+      "title": "Principal Data Scientist\nUnited States, Washington, Redmond\nPosted 5 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556837639?domain=microsoft.com",
       "identifier": "Principal Data Scientist\nUnited States, Washington_556837639?domain=microsoft.com"
-    },
-    {
-      "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted 5 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556852825?domain=microsoft.com",
-      "identifier": "Principal Software Engineer\nUnited States, Washing_556852825?domain=microsoft.com"
-    },
-    {
-      "title": "Software Engineer\nUnited States, Washington, Redmond\nPosted 15 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556856539?domain=microsoft.com",
-      "identifier": "Software Engineer\nUnited States, Washington, Redmo_556856539?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Software Engineer - Excel Agent Team\nUnited States, Washington, Redmond\nPosted 20 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556856342?domain=microsoft.com",
-      "identifier": "Senior Software Engineer - Excel Agent Team\nUnited_556856342?domain=microsoft.com"
     }
   ],
-  "job_count_text": "720",
-  "timestamp": "2026-04-09T18:41:13.248555"
+  "job_count_text": "722",
+  "timestamp": "2026-04-09T18:58:24.763934"
 }

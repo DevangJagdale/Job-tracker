@@ -4,14 +4,14 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Process Engineer, Photomask Inspection\nBoise, Idaho, United States of America\nPosted a day ago",
-      "url": "https://careers.micron.com/careers/job/39281420",
-      "identifier": "Process Engineer, Photomask Inspection\nBoise, Idah_icron.com/careers/job/39281420"
-    },
-    {
       "title": "Process Integration Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/41272260",
       "identifier": "Process Integration Engineer\nBoise, Idaho, United _icron.com/careers/job/41272260"
+    },
+    {
+      "title": "Process Engineer, Photomask Inspection\nBoise, Idaho, United States of America\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/39281420",
+      "identifier": "Process Engineer, Photomask Inspection\nBoise, Idah_icron.com/careers/job/39281420"
     },
     {
       "title": "Staff GenAI Engineer - AMS Design and Optimization\nSan Jose, California, United States of America\nPosted 2 days ago",
@@ -40,8 +40,8 @@
     },
     {
       "title": "Engineer - Operations Improvement\nBoise, Idaho, United States of America\nPosted 3 days ago",
-      "url": "https://careers.micron.com/careers/job/40899085",
-      "identifier": "Engineer - Operations Improvement\nBoise, Idaho, Un_icron.com/careers/job/40899085"
+      "url": "https://careers.micron.com/careers/job/30540997",
+      "identifier": "Engineer - Operations Improvement\nBoise, Idaho, Un_icron.com/careers/job/30540997"
     },
     {
       "title": "US FE Expansion Planning Engineer\nBoise, Idaho, United States of America\nPosted 3 days ago",
@@ -50,10 +50,10 @@
     },
     {
       "title": "Engineer - Operations Improvement\nBoise, Idaho, United States of America\nPosted 3 days ago",
-      "url": "https://careers.micron.com/careers/job/30540997",
-      "identifier": "Engineer - Operations Improvement\nBoise, Idaho, Un_icron.com/careers/job/30540997"
+      "url": "https://careers.micron.com/careers/job/40899085",
+      "identifier": "Engineer - Operations Improvement\nBoise, Idaho, Un_icron.com/careers/job/40899085"
     }
   ],
   "job_count_text": "70",
-  "timestamp": "2026-04-09T03:09:29.800881"
+  "timestamp": "2026-04-09T03:26:43.273426"
 }

@@ -4,6 +4,11 @@
   "total_jobs": 14,
   "jobs": [
     {
+      "title": "Engineering Program Manager, Siri",
+      "url": "https://jobs.apple.com/en-us/details/200656788-0836/engineering-program-manager-siri?team=SFTWR",
+      "identifier": "Engineering Program Manager, Siri_rogram-manager-siri?team=SFTWR"
+    },
+    {
       "title": "Software OS Developer Engineer",
       "url": "https://jobs.apple.com/en-us/details/200656765-0836/software-os-developer-engineer?team=SFTWR",
       "identifier": "Software OS Developer Engineer_-developer-engineer?team=SFTWR"
@@ -67,13 +72,8 @@
       "title": "Senior Software Engineer, Cloud Platforms",
       "url": "https://jobs.apple.com/en-us/details/200655198-0157/senior-software-engineer-cloud-platforms?team=SFTWR",
       "identifier": "Senior Software Engineer, Cloud Platforms_eer-cloud-platforms?team=SFTWR"
-    },
-    {
-      "title": "Asset Data Analyst, Infrastructure Services",
-      "url": "https://jobs.apple.com/en-us/details/200656698-2903/asset-data-analyst-infrastructure-services?team=SFTWR",
-      "identifier": "Asset Data Analyst, Infrastructure Services_astructure-services?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-09T14:47:17.936514"
+  "timestamp": "2026-04-09T15:04:19.937545"
 }

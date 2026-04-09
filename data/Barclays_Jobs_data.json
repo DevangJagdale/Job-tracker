@@ -4,6 +4,16 @@
   "total_jobs": 13,
   "jobs": [
     {
+      "title": "Securitized Products CRE Attorney",
+      "url": "https://search.jobs.barclays/job/new-york/securitized-products-cre-attorney/13015/93764357328",
+      "identifier": "Securitized Products CRE Attorney_cre-attorney/13015/93764357328"
+    },
+    {
+      "title": "Legal Hold Specialist",
+      "url": "https://search.jobs.barclays/job/whippany/legal-hold-specialist/13015/93764357312",
+      "identifier": "Legal Hold Specialist_d-specialist/13015/93764357312"
+    },
+    {
       "title": "Strategy and Cross Banking Compliance - VP",
       "url": "https://search.jobs.barclays/job/new-york/strategy-and-cross-banking-compliance-vp/13015/93764335184",
       "identifier": "Strategy and Cross Banking Compliance - VP_ompliance-vp/13015/93764335184"
@@ -57,18 +67,8 @@
       "title": "Assistant VP, Fx Options Trader",
       "url": "https://search.jobs.barclays/job/new-york/assistant-vp-fx-options-trader/13015/93512458880",
       "identifier": "Assistant VP, Fx Options Trader_tions-trader/13015/93512458880"
-    },
-    {
-      "title": "US Investment Grade Strategy VP",
-      "url": "https://search.jobs.barclays/job/new-york/us-investment-grade-strategy-vp/13015/93512450416",
-      "identifier": "US Investment Grade Strategy VP_-strategy-vp/13015/93512450416"
-    },
-    {
-      "title": "AVP - Transformation and Design Enablement",
-      "url": "https://search.jobs.barclays/job/whippany/avp-transformation-and-design-enablement/13015/93512447808",
-      "identifier": "AVP - Transformation and Design Enablement_n-enablement/13015/93512447808"
     }
   ],
-  "job_count_text": "106",
-  "timestamp": "2026-04-09T23:17:38.545658"
+  "job_count_text": "109",
+  "timestamp": "2026-04-09T23:34:44.100935"
 }

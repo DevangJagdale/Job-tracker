@@ -1,8 +1,13 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 16,
+  "total_jobs": 17,
   "jobs": [
+    {
+      "title": "Senior Content Curator, Apple Creator Studio (Product, Design & Marketing)",
+      "url": "https://jobs.apple.com/en-us/details/200652761-0670/senior-content-curator-apple-creator-studio-product-design-marketing?team=SFTWR",
+      "identifier": "Senior Content Curator, Apple Creator Studio (Prod_ct-design-marketing?team=SFTWR"
+    },
     {
       "title": "Support Engineer, G&A Solutions Engineering (GSE)",
       "url": "https://jobs.apple.com/en-us/details/200656753-3956/support-engineer-g-a-solutions-engineering-gse?team=SFTWR",
@@ -85,5 +90,5 @@
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-09T22:09:42.015106"
+  "timestamp": "2026-04-09T22:26:53.270643"
 }

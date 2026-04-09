@@ -1,8 +1,18 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 15,
+  "total_jobs": 16,
   "jobs": [
+    {
+      "title": "Senior Web Platform Engineer - Apple Services Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200656930-3337/senior-web-platform-engineer-apple-services-engineering?team=SFTWR",
+      "identifier": "Senior Web Platform Engineer - Apple Services Engi_ervices-engineering?team=SFTWR"
+    },
+    {
+      "title": "Software Engineering Manager, Calls Security",
+      "url": "https://jobs.apple.com/en-us/details/200656964-3543/software-engineering-manager-calls-security?team=SFTWR",
+      "identifier": "Software Engineering Manager, Calls Security_ager-calls-security?team=SFTWR"
+    },
     {
       "title": "Support Engineer, G&A Solutions Engineering (GSE)",
       "url": "https://jobs.apple.com/en-us/details/200656753-3956/support-engineer-g-a-solutions-engineering-gse?team=SFTWR",
@@ -72,13 +82,8 @@
       "title": "Senior Product Data Scientist in Causal Inference and ML, App Store",
       "url": "https://jobs.apple.com/en-us/details/200654450-0670/senior-product-data-scientist-in-causal-inference-and-ml-app-store?team=SFTWR",
       "identifier": "Senior Product Data Scientist in Causal Inference _ce-and-ml-app-store?team=SFTWR"
-    },
-    {
-      "title": "Senior Product Manager, Employee Experience & Productivity",
-      "url": "https://jobs.apple.com/en-us/details/200656063-3956/senior-product-manager-employee-experience-productivity?team=SFTWR",
-      "identifier": "Senior Product Manager, Employee Experience & Prod_rience-productivity?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-09T20:26:47.957109"
+  "timestamp": "2026-04-09T20:43:59.219044"
 }

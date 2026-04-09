@@ -4,19 +4,19 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Semiconductor Design Engineer\nRichardson, Texas, United States of America\nPosted 18 hours ago",
-      "url": "https://careers.micron.com/careers/job/41139930",
-      "identifier": "Semiconductor Design Engineer\nRichardson, Texas, U_icron.com/careers/job/41139930"
-    },
-    {
-      "title": "Semiconductor Process Engineer, Metrology\nBoise, Idaho, United States of America\nPosted 18 hours ago",
+      "title": "Semiconductor Process Engineer, Metrology\nBoise, Idaho, United States of America\nPosted 19 hours ago",
       "url": "https://careers.micron.com/careers/job/39196650",
       "identifier": "Semiconductor Process Engineer, Metrology\nBoise, I_icron.com/careers/job/39196650"
     },
     {
-      "title": "HVM Area Manufacturing Engineer - Dry Etch\nBoise, Idaho, United States of America\nPosted 18 hours ago",
+      "title": "HVM Area Manufacturing Engineer - Dry Etch\nBoise, Idaho, United States of America\nPosted 19 hours ago",
       "url": "https://careers.micron.com/careers/job/41248138",
       "identifier": "HVM Area Manufacturing Engineer - Dry Etch\nBoise, _icron.com/careers/job/41248138"
+    },
+    {
+      "title": "Semiconductor Design Engineer\nRichardson, Texas, United States of America\nPosted 19 hours ago",
+      "url": "https://careers.micron.com/careers/job/41139930",
+      "identifier": "Semiconductor Design Engineer\nRichardson, Texas, U_icron.com/careers/job/41139930"
     },
     {
       "title": "Process Engineer, Photomask Inspection\nBoise, Idaho, United States of America\nPosted 2 days ago",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "71",
-  "timestamp": "2026-04-09T18:19:43.244804"
+  "timestamp": "2026-04-09T18:36:51.552103"
 }

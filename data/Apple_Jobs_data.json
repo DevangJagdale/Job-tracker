@@ -4,6 +4,11 @@
   "total_jobs": 15,
   "jobs": [
     {
+      "title": "Sr. Data Visualization Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200653308-3337/sr-data-visualization-engineer?team=SFTWR",
+      "identifier": "Sr. Data Visualization Engineer_ualization-engineer?team=SFTWR"
+    },
+    {
       "title": "Senior Software Engineer, SDLC Analytics",
       "url": "https://jobs.apple.com/en-us/details/200650958-0836/senior-software-engineer-sdlc-analytics?team=SFTWR",
       "identifier": "Senior Software Engineer, SDLC Analytics_neer-sdlc-analytics?team=SFTWR"
@@ -72,13 +77,8 @@
       "title": "CI Systems Engineer - AI Failure Analysis",
       "url": "https://jobs.apple.com/en-us/details/200639936-0836/ci-systems-engineer-ai-failure-analysis?team=SFTWR",
       "identifier": "CI Systems Engineer - AI Failure Analysis_ai-failure-analysis?team=SFTWR"
-    },
-    {
-      "title": "Senior Software Engineer in Test, Evaluation",
-      "url": "https://jobs.apple.com/en-us/details/200654947-3337/senior-software-engineer-in-test-evaluation?team=SFTWR",
-      "identifier": "Senior Software Engineer in Test, Evaluation_-in-test-evaluation?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-09T18:16:34.282090"
+  "timestamp": "2026-04-09T18:33:37.962150"
 }

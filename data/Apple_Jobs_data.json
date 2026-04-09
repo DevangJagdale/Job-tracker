@@ -1,8 +1,18 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 15,
+  "total_jobs": 14,
   "jobs": [
+    {
+      "title": "Backend Software Engineer (Golang)",
+      "url": "https://jobs.apple.com/en-us/details/200656749-0157/backend-software-engineer-golang?team=SFTWR",
+      "identifier": "Backend Software Engineer (Golang)_are-engineer-golang?team=SFTWR"
+    },
+    {
+      "title": "Server-Side Software Engineer \u2013 ASE Enterprise",
+      "url": "https://jobs.apple.com/en-us/details/200656381-3337/server-side-software-engineer-ase-enterprise?team=SFTWR",
+      "identifier": "Server-Side Software Engineer \u2013 ASE Enterprise_neer-ase-enterprise?team=SFTWR"
+    },
     {
       "title": "Software Image Quality Engineer - Creativity Apps",
       "url": "https://jobs.apple.com/en-us/details/200645394-0836/software-image-quality-engineer-creativity-apps?team=SFTWR",
@@ -62,23 +72,8 @@
       "title": "Software Engineer, App Store Engineering R&D",
       "url": "https://jobs.apple.com/en-us/details/200654966-3337/software-engineer-app-store-engineering-r-d?team=SFTWR",
       "identifier": "Software Engineer, App Store Engineering R&D_ore-engineering-r-d?team=SFTWR"
-    },
-    {
-      "title": "Phone/FaceTime Experience Software Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200656751-3401/phone-facetime-experience-software-engineer?team=SFTWR",
-      "identifier": "Phone/FaceTime Experience Software Engineer_e-software-engineer?team=SFTWR"
-    },
-    {
-      "title": "Senior Software Engineer, Cloud Platforms",
-      "url": "https://jobs.apple.com/en-us/details/200655198-0157/senior-software-engineer-cloud-platforms?team=SFTWR",
-      "identifier": "Senior Software Engineer, Cloud Platforms_eer-cloud-platforms?team=SFTWR"
-    },
-    {
-      "title": "Asset Data Analyst, Infrastructure Services",
-      "url": "https://jobs.apple.com/en-us/details/200656698-2903/asset-data-analyst-infrastructure-services?team=SFTWR",
-      "identifier": "Asset Data Analyst, Infrastructure Services_astructure-services?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-09T16:14:41.722575"
+  "timestamp": "2026-04-09T16:34:01.107033"
 }

@@ -4,12 +4,22 @@
   "total_jobs": 10,
   "jobs": [
     {
+      "title": "Data and Applied Scientist\nUnited States, Washington, Redmond + 4 more\nPosted 12 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556856845?domain=microsoft.com",
+      "identifier": "Data and Applied Scientist\nUnited States, Washingt_556856845?domain=microsoft.com"
+    },
+    {
+      "title": "Applied Scientist II and Senior Applied Scientist\nUnited States, Washington, Redmond\nPosted 16 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556826534?domain=microsoft.com",
+      "identifier": "Applied Scientist II and Senior Applied Scientist\n_556826534?domain=microsoft.com"
+    },
+    {
       "title": "Principal Site Reliability Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556823642?domain=microsoft.com",
       "identifier": "Principal Site Reliability Engineer\nUnited States,_556823642?domain=microsoft.com"
     },
     {
-      "title": "Principal Data Scientist\nUnited States, Washington, Redmond\nPosted an hour ago",
+      "title": "Principal Data Scientist\nUnited States, Washington, Redmond\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556837639?domain=microsoft.com",
       "identifier": "Principal Data Scientist\nUnited States, Washington_556837639?domain=microsoft.com"
     },
@@ -39,21 +49,11 @@
       "identifier": "Senior Applied Scientist\nUnited States, Washington_556814642?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 18 hours ago",
+      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 19 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556856809?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Washington_556856809?domain=microsoft.com"
-    },
-    {
-      "title": "Dynamics 365 Senior Software Engineer\nUnited States, Washington, Redmond + 1 more\nPosted 18 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556755016?domain=microsoft.com",
-      "identifier": "Dynamics 365 Senior Software Engineer\nUnited State_556755016?domain=microsoft.com"
-    },
-    {
-      "title": "Principal Applied Scientist\nUnited States, Washington, Redmond + 1 more\nPosted 19 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556824053?domain=microsoft.com",
-      "identifier": "Principal Applied Scientist\nUnited States, Washing_556824053?domain=microsoft.com"
     }
   ],
-  "job_count_text": "718",
-  "timestamp": "2026-04-09T15:39:36.009590"
+  "job_count_text": "720",
+  "timestamp": "2026-04-09T15:56:44.155779"
 }

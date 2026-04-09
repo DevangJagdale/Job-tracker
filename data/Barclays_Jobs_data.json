@@ -1,8 +1,13 @@
 {
   "page_title": "Search our Job Opportunities at Barclays",
   "url": "https://search.jobs.barclays/search-jobs/United%20States/13015/2/6252001/39x76/-98x5/50/2",
-  "total_jobs": 16,
+  "total_jobs": 13,
   "jobs": [
+    {
+      "title": "Strategy and Cross Banking Compliance - VP",
+      "url": "https://search.jobs.barclays/job/new-york/strategy-and-cross-banking-compliance-vp/13015/93764335184",
+      "identifier": "Strategy and Cross Banking Compliance - VP_ompliance-vp/13015/93764335184"
+    },
     {
       "title": "Voice Solutions Delivery Engineer - AVP",
       "url": "https://search.jobs.barclays/job/whippany/voice-solutions-delivery-engineer-avp/13015/93738670960",
@@ -17,11 +22,6 @@
       "title": "Production Support Engineer \u2013 BA4",
       "url": "https://search.jobs.barclays/job/whippany/production-support-engineer-ba4/13015/93700006576",
       "identifier": "Production Support Engineer \u2013 BA4_engineer-ba4/13015/93700006576"
-    },
-    {
-      "title": "Investment Banking Analyst, Technology",
-      "url": "https://search.jobs.barclays/job/san-francisco/investment-banking-analyst-technology/13015/93686862720",
-      "identifier": "Investment Banking Analyst, Technology_t-technology/13015/93686862720"
     },
     {
       "title": "Internal Audit - Financial Crime AVP",
@@ -64,26 +64,11 @@
       "identifier": "US Investment Grade Strategy VP_-strategy-vp/13015/93512450416"
     },
     {
-      "title": "VP-Transformation and Design Enablement",
-      "url": "https://search.jobs.barclays/job/whippany/vp-transformation-and-design-enablement/13015/93512447984",
-      "identifier": "VP-Transformation and Design Enablement_n-enablement/13015/93512447984"
-    },
-    {
       "title": "AVP - Transformation and Design Enablement",
       "url": "https://search.jobs.barclays/job/whippany/avp-transformation-and-design-enablement/13015/93512447808",
       "identifier": "AVP - Transformation and Design Enablement_n-enablement/13015/93512447808"
-    },
-    {
-      "title": "Investment & Lending Portfolio Management Sector VP",
-      "url": "https://search.jobs.barclays/job/new-york/investment-and-lending-portfolio-management-sector-vp/13015/93512446208",
-      "identifier": "Investment & Lending Portfolio Management Sector V_nt-sector-vp/13015/93512446208"
-    },
-    {
-      "title": "Principal Full Stack Engineer - VP",
-      "url": "https://search.jobs.barclays/job/whippany/principal-full-stack-engineer-vp/13015/93499643984",
-      "identifier": "Principal Full Stack Engineer - VP_-engineer-vp/13015/93499643984"
     }
   ],
-  "job_count_text": "108",
-  "timestamp": "2026-04-09T17:24:40.235186"
+  "job_count_text": "106",
+  "timestamp": "2026-04-09T17:41:44.927193"
 }

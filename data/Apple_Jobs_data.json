@@ -4,6 +4,11 @@
   "total_jobs": 14,
   "jobs": [
     {
+      "title": "Senior Product Manager, Employee Experience & Productivity",
+      "url": "https://jobs.apple.com/en-us/details/200656063-3956/senior-product-manager-employee-experience-productivity?team=SFTWR",
+      "identifier": "Senior Product Manager, Employee Experience & Prod_rience-productivity?team=SFTWR"
+    },
+    {
       "title": "CI Systems Engineer - AI Failure Analysis",
       "url": "https://jobs.apple.com/en-us/details/200639936-0836/ci-systems-engineer-ai-failure-analysis?team=SFTWR",
       "identifier": "CI Systems Engineer - AI Failure Analysis_ai-failure-analysis?team=SFTWR"
@@ -67,13 +72,8 @@
       "title": "AIML - Sr Machine Learning Engineer - Data and ML Innovation",
       "url": "https://jobs.apple.com/en-us/details/200613134-0836/aiml-sr-machine-learning-engineer-data-and-ml-innovation?team=MLAI",
       "identifier": "AIML - Sr Machine Learning Engineer - Data and ML _ta-and-ml-innovation?team=MLAI"
-    },
-    {
-      "title": "AR/VR Software Development Engineer, Vision Products Software",
-      "url": "https://jobs.apple.com/en-us/details/200641948-0365/ar-vr-software-development-engineer-vision-products-software?team=SFTWR",
-      "identifier": "AR/VR Software Development Engineer, Vision Produc_n-products-software?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-08T23:51:13.866486"
+  "timestamp": "2026-04-09T00:08:15.690015"
 }

@@ -4,9 +4,24 @@
   "total_jobs": 8,
   "jobs": [
     {
-      "title": "AS/400 Application Developer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0768768/AS-400-Application-Developer",
-      "identifier": "AS/400 Application Developer_8/AS-400-Application-Developer"
+      "title": "Senior Manager - Scrum Master",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0876146/Senior-Manager-Scrum-Master",
+      "identifier": "Senior Manager - Scrum Master_46/Senior-Manager-Scrum-Master"
+    },
+    {
+      "title": "Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0859802/Software-Development-Engineer",
+      "identifier": "Software Development Engineer_/Software-Development-Engineer"
+    },
+    {
+      "title": "Staff Development Engineer - Fulfillment",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0748010/Staff-Development-Engineer-Fulfillment",
+      "identifier": "Staff Development Engineer - Fulfillment_velopment-Engineer-Fulfillment"
+    },
+    {
+      "title": "Staff Software Development Engineer \u2013 Fulfillment",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0710893/Staff-Software-Development-Engineer-Fulfillment",
+      "identifier": "Staff Software Development Engineer \u2013 Fulfillment_velopment-Engineer-Fulfillment"
     },
     {
       "title": "Senior Engineering Manager",
@@ -14,24 +29,9 @@
       "identifier": "Senior Engineering Manager_003/Senior-Engineering-Manager"
     },
     {
-      "title": "Senior Front End Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0805983/Senior-Front-End-Engineer",
-      "identifier": "Senior Front End Engineer_5983/Senior-Front-End-Engineer"
-    },
-    {
-      "title": "Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0875932/Software-Development-Engineer",
-      "identifier": "Software Development Engineer_/Software-Development-Engineer"
-    },
-    {
-      "title": "Senior Engineering Manager",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0877327/Senior-Engineering-Manager",
-      "identifier": "Senior Engineering Manager_327/Senior-Engineering-Manager"
-    },
-    {
-      "title": "Senior Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0875943/Senior-Software-Development-Engineer",
-      "identifier": "Senior Software Development Engineer_-Software-Development-Engineer"
+      "title": "Staff Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0821040/Staff-Software-Development-Engineer",
+      "identifier": "Staff Software Development Engineer_-Software-Development-Engineer"
     },
     {
       "title": "Lead Director, Frictionless Provider Experience (FPX)",
@@ -39,11 +39,11 @@
       "identifier": "Lead Director, Frictionless Provider Experience (F_onless-Provider-Experience-FPX"
     },
     {
-      "title": "Associate Compute Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0833593/Associate-Compute-Engineer",
-      "identifier": "Associate Compute Engineer_593/Associate-Compute-Engineer"
+      "title": "Lead Director - Digital Engineering",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0872948/Lead-Director-Digital-Engineering",
+      "identifier": "Lead Director - Digital Engineering_d-Director-Digital-Engineering"
     }
   ],
   "job_count_text": "72",
-  "timestamp": "2026-04-09T10:04:50.554813"
+  "timestamp": "2026-04-09T10:22:00.254193"
 }

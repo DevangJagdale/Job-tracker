@@ -4,11 +4,6 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Software Engineer (AI/Data Engineering)",
-      "url": "https://careers.cisco.com/global/en/job/2011631/Software-Engineer-AI-Data-Engineering",
-      "identifier": "Software Engineer (AI/Data Engineering)_e-Engineer-AI-Data-Engineering"
-    },
-    {
       "title": "Software Engineer II (Full Time) \u2013 Devices Technology Group \u2013 United States",
       "url": "https://careers.cisco.com/global/en/job/2011259/Software-Engineer-II-Full-Time-Devices-Technology-Group-United-States",
       "identifier": "Software Engineer II (Full Time) \u2013 Devices Technol_Technology-Group-United-States"
@@ -24,19 +19,9 @@
       "identifier": "Software Engineer Full Stack & Application Develop_ent-II-Full-Time-United-States"
     },
     {
-      "title": "Technical Consulting Engineer/Technical Support",
-      "url": "https://careers.cisco.com/global/en/job/2012235/Technical-Consulting-Engineer-Technical-Support",
-      "identifier": "Technical Consulting Engineer/Technical Support_ing-Engineer-Technical-Support"
-    },
-    {
       "title": "Software Engineer Front-End I (Full-Time) United States",
       "url": "https://careers.cisco.com/global/en/job/2010724/Software-Engineer-Front-End-I-Full-Time-United-States",
       "identifier": "Software Engineer Front-End I (Full-Time) United S_-End-I-Full-Time-United-States"
-    },
-    {
-      "title": "Software Development Test Engineer",
-      "url": "https://careers.cisco.com/global/en/job/2008813/Software-Development-Test-Engineer",
-      "identifier": "Software Development Test Engineer_ware-Development-Test-Engineer"
     },
     {
       "title": "Software Engineer Front-End II (Full-Time) United States",
@@ -52,8 +37,23 @@
       "title": "Software QA Engineer II (Full Time) \u2013 United States",
       "url": "https://careers.cisco.com/global/en/job/2002838/Software-QA-Engineer-II-Full-Time-United-States",
       "identifier": "Software QA Engineer II (Full Time) \u2013 United State_eer-II-Full-Time-United-States"
+    },
+    {
+      "title": "Software Engineer Embedded/Network Systems I (Full Time) - United States",
+      "url": "https://careers.cisco.com/global/en/job/2000081/Software-Engineer-Embedded-Network-Systems-I-Full-Time-United-States",
+      "identifier": "Software Engineer Embedded/Network Systems I (Full_tems-I-Full-Time-United-States"
+    },
+    {
+      "title": "Software Engineer Full Stack & Application Development I (Full Time) \u2013 United States",
+      "url": "https://careers.cisco.com/global/en/job/2000087/Software-Engineer-Full-Stack-Application-Development-I-Full-Time-United-States",
+      "identifier": "Software Engineer Full Stack & Application Develop_ment-I-Full-Time-United-States"
+    },
+    {
+      "title": "Product Management Specialist II (Full Time) - United States",
+      "url": "https://careers.cisco.com/global/en/job/2004282/Product-Management-Specialist-II-Full-Time-United-States",
+      "identifier": "Product Management Specialist II (Full Time) - Uni_ist-II-Full-Time-United-States"
     }
   ],
-  "job_count_text": "63",
-  "timestamp": "2026-04-09T09:48:28.113623"
+  "job_count_text": "23",
+  "timestamp": "2026-04-09T10:05:34.461447"
 }

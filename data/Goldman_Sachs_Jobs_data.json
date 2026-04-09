@@ -4,6 +4,11 @@
   "total_jobs": 20,
   "jobs": [
     {
+      "title": "Asset & Wealth Management - Software Engineer - Analyst - New York\nNew York\u00b7United States\n\u00b7Analyst",
+      "url": "https://higher.gs.com/roles/166075",
+      "identifier": "Asset & Wealth Management - Software Engineer - An_s://higher.gs.com/roles/166075"
+    },
+    {
       "title": "AI/ML Engineer, Global Banking & Markets, Investment Banking\nDallas\u00b7United States\n\u00b7Associate",
       "url": "https://higher.gs.com/roles/161628",
       "identifier": "AI/ML Engineer, Global Banking & Markets, Investme_s://higher.gs.com/roles/161628"
@@ -22,11 +27,6 @@
       "title": "AMD Public-Salt Lake City-Associate-Software Engineering\nSalt Lake City\u00b7United States\n\u00b7Associate",
       "url": "https://higher.gs.com/roles/165919",
       "identifier": "AMD Public-Salt Lake City-Associate-Software Engin_s://higher.gs.com/roles/165919"
-    },
-    {
-      "title": "Asset & Wealth Management - Software Engineer - Analyst - New York\nNew York\u00b7United States\n\u00b7Analyst",
-      "url": "https://higher.gs.com/roles/166075",
-      "identifier": "Asset & Wealth Management - Software Engineer - An_s://higher.gs.com/roles/166075"
     },
     {
       "title": "Asset & Wealth Management - Software Engineer - Associate - Dallas\nDallas\u00b7United States\n\u00b7Associate",
@@ -105,5 +105,5 @@
     }
   ],
   "job_count_text": "45",
-  "timestamp": "2026-04-09T16:50:12.730080"
+  "timestamp": "2026-04-09T17:07:17.778716"
 }

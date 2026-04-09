@@ -4,6 +4,11 @@
   "total_jobs": 15,
   "jobs": [
     {
+      "title": "Support Engineer, G&A Solutions Engineering (GSE)",
+      "url": "https://jobs.apple.com/en-us/details/200656753-3956/support-engineer-g-a-solutions-engineering-gse?team=SFTWR",
+      "identifier": "Support Engineer, G&A Solutions Engineering (GSE)_ons-engineering-gse?team=SFTWR"
+    },
+    {
       "title": "Sr. Data Visualization Engineer",
       "url": "https://jobs.apple.com/en-us/details/200653308-3337/sr-data-visualization-engineer?team=SFTWR",
       "identifier": "Sr. Data Visualization Engineer_ualization-engineer?team=SFTWR"
@@ -72,13 +77,8 @@
       "title": "Senior Product Manager, Employee Experience & Productivity",
       "url": "https://jobs.apple.com/en-us/details/200656063-3956/senior-product-manager-employee-experience-productivity?team=SFTWR",
       "identifier": "Senior Product Manager, Employee Experience & Prod_rience-productivity?team=SFTWR"
-    },
-    {
-      "title": "CI Systems Engineer - AI Failure Analysis",
-      "url": "https://jobs.apple.com/en-us/details/200639936-0836/ci-systems-engineer-ai-failure-analysis?team=SFTWR",
-      "identifier": "CI Systems Engineer - AI Failure Analysis_ai-failure-analysis?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-09T19:50:10.632948"
+  "timestamp": "2026-04-09T20:09:33.667057"
 }

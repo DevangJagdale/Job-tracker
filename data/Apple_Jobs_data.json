@@ -4,6 +4,16 @@
   "total_jobs": 18,
   "jobs": [
     {
+      "title": "Wireless Bluetooth QA Engineer, Wireless Technologies & Ecosystems",
+      "url": "https://jobs.apple.com/en-us/details/200657201-3543/wireless-bluetooth-qa-engineer-wireless-technologies-ecosystems?team=SFTWR",
+      "identifier": "Wireless Bluetooth QA Engineer, Wireless Technolog_nologies-ecosystems?team=SFTWR"
+    },
+    {
+      "title": "Software Engineer, Wireless Technologies & Ecosystems",
+      "url": "https://jobs.apple.com/en-us/details/200656988-3337/software-engineer-wireless-technologies-ecosystems?team=SFTWR",
+      "identifier": "Software Engineer, Wireless Technologies & Ecosyst_nologies-ecosystems?team=SFTWR"
+    },
+    {
       "title": "Database Systems SRE, ASE Cassandra SRE",
       "url": "https://jobs.apple.com/en-us/details/200657006-3337/database-systems-sre-ase-cassandra-sre?team=SFTWR",
       "identifier": "Database Systems SRE, ASE Cassandra SRE_e-ase-cassandra-sre?team=SFTWR"
@@ -82,18 +92,8 @@
       "title": "Senior Software Engineer, Apple Services Engineering - Commerce",
       "url": "https://jobs.apple.com/en-us/details/200656755-0836/senior-software-engineer-apple-services-engineering-commerce?team=SFTWR",
       "identifier": "Senior Software Engineer, Apple Services Engineeri_ngineering-commerce?team=SFTWR"
-    },
-    {
-      "title": "Senior Engineering Manager, Apple Data Platform",
-      "url": "https://jobs.apple.com/en-us/details/200656390-0836/senior-engineering-manager-apple-data-platform?team=SFTWR",
-      "identifier": "Senior Engineering Manager, Apple Data Platform_apple-data-platform?team=SFTWR"
-    },
-    {
-      "title": "Backend Software Engineer (Golang)",
-      "url": "https://jobs.apple.com/en-us/details/200656749-0157/backend-software-engineer-golang?team=SFTWR",
-      "identifier": "Backend Software Engineer (Golang)_are-engineer-golang?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-10T16:00:00.497876"
+  "timestamp": "2026-04-10T16:17:02.045458"
 }

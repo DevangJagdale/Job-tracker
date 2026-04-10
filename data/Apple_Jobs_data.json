@@ -4,6 +4,11 @@
   "total_jobs": 18,
   "jobs": [
     {
+      "title": "Engineering Program Manager - ASE / Products & Platform",
+      "url": "https://jobs.apple.com/en-us/details/200651227-0836/engineering-program-manager-ase-products-platform?team=SFTWR",
+      "identifier": "Engineering Program Manager - ASE / Products & Pla_e-products-platform?team=SFTWR"
+    },
+    {
       "title": "Site Reliability Engineer - Kafka",
       "url": "https://jobs.apple.com/en-us/details/200654188-3337/site-reliability-engineer-kafka?team=SFTWR",
       "identifier": "Site Reliability Engineer - Kafka_lity-engineer-kafka?team=SFTWR"
@@ -87,13 +92,8 @@
       "title": "Senior Software Engineer, SDLC Analytics",
       "url": "https://jobs.apple.com/en-us/details/200650958-0836/senior-software-engineer-sdlc-analytics?team=SFTWR",
       "identifier": "Senior Software Engineer, SDLC Analytics_neer-sdlc-analytics?team=SFTWR"
-    },
-    {
-      "title": "Facilities Chief Engineer, Data Center Operations",
-      "url": "https://jobs.apple.com/en-us/details/200642894-1902/facilities-chief-engineer-data-center-operations?team=SFTWR",
-      "identifier": "Facilities Chief Engineer, Data Center Operations_a-center-operations?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-10T16:58:42.320428"
+  "timestamp": "2026-04-10T17:15:49.307962"
 }

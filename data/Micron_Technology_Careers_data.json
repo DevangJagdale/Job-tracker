@@ -4,11 +4,6 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Semiconductor Process Engineer, Metrology\nBoise, Idaho, United States of America\nPosted 2 days ago",
-      "url": "https://careers.micron.com/careers/job/39196650",
-      "identifier": "Semiconductor Process Engineer, Metrology\nBoise, I_icron.com/careers/job/39196650"
-    },
-    {
       "title": "HVM Area Manufacturing Engineer - Dry Etch\nBoise, Idaho, United States of America\nPosted 2 days ago",
       "url": "https://careers.micron.com/careers/job/41248138",
       "identifier": "HVM Area Manufacturing Engineer - Dry Etch\nBoise, _icron.com/careers/job/41248138"
@@ -34,6 +29,11 @@
       "identifier": "HVM Area Manufacturing Engineer - Diffusion/Implan_icron.com/careers/job/41381271"
     },
     {
+      "title": "Semiconductor Process Engineer, Metrology\nBoise, Idaho, United States of America\nPosted 2 days ago",
+      "url": "https://careers.micron.com/careers/job/39196650",
+      "identifier": "Semiconductor Process Engineer, Metrology\nBoise, I_icron.com/careers/job/39196650"
+    },
+    {
       "title": "Process Engineer, Photomask Inspection\nBoise, Idaho, United States of America\nPosted 3 days ago",
       "url": "https://careers.micron.com/careers/job/39281420",
       "identifier": "Process Engineer, Photomask Inspection\nBoise, Idah_icron.com/careers/job/39281420"
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "72",
-  "timestamp": "2026-04-10T16:20:13.334555"
+  "timestamp": "2026-04-10T16:37:15.612698"
 }

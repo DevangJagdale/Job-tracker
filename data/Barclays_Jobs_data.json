@@ -1,8 +1,13 @@
 {
   "page_title": "Search our Job Opportunities at Barclays",
   "url": "https://search.jobs.barclays/search-jobs/United%20States/13015/2/6252001/39x76/-98x5/50/2",
-  "total_jobs": 16,
+  "total_jobs": 15,
   "jobs": [
+    {
+      "title": "Global Expense Manager",
+      "url": "https://search.jobs.barclays/job/new-york/global-expense-manager/13015/93804622112",
+      "identifier": "Global Expense Manager_ense-manager/13015/93804622112"
+    },
     {
       "title": "Securitized Products - Esoteric Origination VP",
       "url": "https://search.jobs.barclays/job/new-york/securitized-products-esoteric-origination-vp/13015/93779283440",
@@ -72,18 +77,8 @@
       "title": "Markets Liquid Financing Platform - AVP",
       "url": "https://search.jobs.barclays/job/new-york/markets-liquid-financing-platform-avp/13015/93649094304",
       "identifier": "Markets Liquid Financing Platform - AVP_platform-avp/13015/93649094304"
-    },
-    {
-      "title": "Assistant VP, TDS Senior Developer",
-      "url": "https://search.jobs.barclays/job/whippany/assistant-vp-tds-senior-developer/13015/93649094256",
-      "identifier": "Assistant VP, TDS Senior Developer_or-developer/13015/93649094256"
-    },
-    {
-      "title": "Assistant VP, Fx Options Trader",
-      "url": "https://search.jobs.barclays/job/new-york/assistant-vp-fx-options-trader/13015/93512458880",
-      "identifier": "Assistant VP, Fx Options Trader_tions-trader/13015/93512458880"
     }
   ],
-  "job_count_text": "100",
-  "timestamp": "2026-04-10T17:32:22.330279"
+  "job_count_text": "99",
+  "timestamp": "2026-04-10T17:49:31.688193"
 }

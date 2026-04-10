@@ -1,8 +1,23 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 16,
+  "total_jobs": 17,
   "jobs": [
+    {
+      "title": "Maps Operations Program Lead",
+      "url": "https://jobs.apple.com/en-us/details/200657310-0836/maps-operations-program-lead?team=SFTWR",
+      "identifier": "Maps Operations Program Lead_ations-program-lead?team=SFTWR"
+    },
+    {
+      "title": "3D Game Artist - Platform Architecture",
+      "url": "https://jobs.apple.com/en-us/details/200657312-3760/3d-game-artist-platform-architecture?team=SFTWR",
+      "identifier": "3D Game Artist - Platform Architecture_atform-architecture?team=SFTWR"
+    },
+    {
+      "title": "Wireless Software Engineer, Wireless Technologies & Ecosystems",
+      "url": "https://jobs.apple.com/en-us/details/200656391-3543/wireless-software-engineer-wireless-technologies-ecosystems?team=SFTWR",
+      "identifier": "Wireless Software Engineer, Wireless Technologies _nologies-ecosystems?team=SFTWR"
+    },
     {
       "title": "Software Developer in Test, Find My",
       "url": "https://jobs.apple.com/en-us/details/200657304-0836/software-developer-in-test-find-my?team=SFTWR",
@@ -72,18 +87,8 @@
       "title": "Senior Content Curator, Apple Creator Studio (Product, Design & Marketing)",
       "url": "https://jobs.apple.com/en-us/details/200652761-0670/senior-content-curator-apple-creator-studio-product-design-marketing?team=SFTWR",
       "identifier": "Senior Content Curator, Apple Creator Studio (Prod_ct-design-marketing?team=SFTWR"
-    },
-    {
-      "title": "Senior Web Platform Engineer - Apple Services Engineering",
-      "url": "https://jobs.apple.com/en-us/details/200656930-3337/senior-web-platform-engineer-apple-services-engineering?team=SFTWR",
-      "identifier": "Senior Web Platform Engineer - Apple Services Engi_ervices-engineering?team=SFTWR"
-    },
-    {
-      "title": "Sr Program Manager, Commerce Program Management - Partners, Apple Services Engineering",
-      "url": "https://jobs.apple.com/en-us/details/200656992-2459/sr-program-manager-commerce-program-management-partners-apple-services-engineering?team=SFTWR",
-      "identifier": "Sr Program Manager, Commerce Program Management - _ervices-engineering?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-10T19:49:46.676565"
+  "timestamp": "2026-04-10T20:06:59.120032"
 }

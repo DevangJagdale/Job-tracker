@@ -4,6 +4,11 @@
   "total_jobs": 17,
   "jobs": [
     {
+      "title": "Senior Software Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200655383-3337/senior-software-engineer?team=SFTWR",
+      "identifier": "Senior Software Engineer_r-software-engineer?team=SFTWR"
+    },
+    {
       "title": "Quality Automation Engineer, Rights & Pricing- Partner Onboarding Business",
       "url": "https://jobs.apple.com/en-us/details/200656089-0836/quality-automation-engineer-rights-pricing-partner-onboarding-business?team=SFTWR",
       "identifier": "Quality Automation Engineer, Rights & Pricing- Par_onboarding-business?team=SFTWR"
@@ -82,13 +87,8 @@
       "title": "Software Image Quality Engineer - Creativity Apps",
       "url": "https://jobs.apple.com/en-us/details/200645394-0836/software-image-quality-engineer-creativity-apps?team=SFTWR",
       "identifier": "Software Image Quality Engineer - Creativity Apps_eer-creativity-apps?team=SFTWR"
-    },
-    {
-      "title": "Engineering Program Manager, Siri",
-      "url": "https://jobs.apple.com/en-us/details/200656788-0836/engineering-program-manager-siri?team=SFTWR",
-      "identifier": "Engineering Program Manager, Siri_rogram-manager-siri?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-10T13:26:10.157511"
+  "timestamp": "2026-04-10T13:43:16.120338"
 }

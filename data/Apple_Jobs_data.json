@@ -4,6 +4,11 @@
   "total_jobs": 18,
   "jobs": [
     {
+      "title": "Embedded Software Development Engineer, Vision Products Group",
+      "url": "https://jobs.apple.com/en-us/details/200657093-0365/embedded-software-development-engineer-vision-products-group?team=SFTWR",
+      "identifier": "Embedded Software Development Engineer, Vision Pro_sion-products-group?team=SFTWR"
+    },
+    {
       "title": "Sr. Embedded Software Development Engineer, Vision Products",
       "url": "https://jobs.apple.com/en-us/details/200657098-0365/sr-embedded-software-development-engineer-vision-products?team=SFTWR",
       "identifier": "Sr. Embedded Software Development Engineer, Vision_eer-vision-products?team=SFTWR"
@@ -87,13 +92,8 @@
       "title": "Software Engineering Manager, Calls Security",
       "url": "https://jobs.apple.com/en-us/details/200656964-3543/software-engineering-manager-calls-security?team=SFTWR",
       "identifier": "Software Engineering Manager, Calls Security_ager-calls-security?team=SFTWR"
-    },
-    {
-      "title": "Sr. Data Visualization Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200653308-3337/sr-data-visualization-engineer?team=SFTWR",
-      "identifier": "Sr. Data Visualization Engineer_ualization-engineer?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-10T17:50:04.447078"
+  "timestamp": "2026-04-10T18:07:08.376425"
 }

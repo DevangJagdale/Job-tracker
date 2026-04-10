@@ -4,34 +4,9 @@
   "total_jobs": 8,
   "jobs": [
     {
-      "title": "Manager, Quality Assurance",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0871619/Manager-Quality-Assurance",
-      "identifier": "Manager, Quality Assurance_1619/Manager-Quality-Assurance"
-    },
-    {
-      "title": "Lead Director, Frictionless Provider Experience (FPX)",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0861079/Lead-Director-Frictionless-Provider-Experience-FPX",
-      "identifier": "Lead Director, Frictionless Provider Experience (F_onless-Provider-Experience-FPX"
-    },
-    {
-      "title": "Associate Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0880977/Associate-Software-Development-Engineer",
-      "identifier": "Associate Software Development Engineer_-Software-Development-Engineer"
-    },
-    {
-      "title": "Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0880988/Software-Development-Engineer",
-      "identifier": "Software Development Engineer_/Software-Development-Engineer"
-    },
-    {
-      "title": "Reporting Analyst",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0840632/Reporting-Analyst",
-      "identifier": "Reporting Analyst_job/R0840632/Reporting-Analyst"
-    },
-    {
-      "title": "Lead Director - Software Technology Vendor Management",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0818639/Lead-Director-Software-Technology-Vendor-Management",
-      "identifier": "Lead Director - Software Technology Vendor Managem_e-Technology-Vendor-Management"
+      "title": "Senior Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0795945/Senior-Software-Development-Engineer",
+      "identifier": "Senior Software Development Engineer_-Software-Development-Engineer"
     },
     {
       "title": "Manager - Software Technology Vendor Management",
@@ -39,11 +14,36 @@
       "identifier": "Manager - Software Technology Vendor Management_e-Technology-Vendor-Management"
     },
     {
-      "title": "Business Analyst",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0872189/Business-Analyst",
-      "identifier": "Business Analyst_/job/R0872189/Business-Analyst"
+      "title": "Staff Software Development Engineer (Lead Backend - NestJs)",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0863219/Staff-Software-Development-Engineer-Lead-Backend-NestJs",
+      "identifier": "Staff Software Development Engineer (Lead Backend _t-Engineer-Lead-Backend-NestJs"
+    },
+    {
+      "title": "Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0875932/Software-Development-Engineer",
+      "identifier": "Software Development Engineer_/Software-Development-Engineer"
+    },
+    {
+      "title": "Senior Manager - Software Engineering (Health100 Platform)",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0863062/Senior-Manager-Software-Engineering-Health100-Platform",
+      "identifier": "Senior Manager - Software Engineering (Health100 P_Engineering-Health100-Platform"
+    },
+    {
+      "title": "Staff Software Development Engineer (Mainframe/COBOL)",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0854742/Staff-Software-Development-Engineer-Mainframe-COBOL",
+      "identifier": "Staff Software Development Engineer (Mainframe/COB_pment-Engineer-Mainframe-COBOL"
+    },
+    {
+      "title": "Reporting Analyst",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0840632/Reporting-Analyst",
+      "identifier": "Reporting Analyst_job/R0840632/Reporting-Analyst"
+    },
+    {
+      "title": "Staff Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0846991/Staff-Software-Development-Engineer",
+      "identifier": "Staff Software Development Engineer_-Software-Development-Engineer"
     }
   ],
-  "job_count_text": "35",
-  "timestamp": "2026-04-10T10:11:37.180980"
+  "job_count_text": "75",
+  "timestamp": "2026-04-10T10:28:49.559331"
 }

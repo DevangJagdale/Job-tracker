@@ -1,8 +1,23 @@
 {
   "page_title": "Search our Job Opportunities at Barclays",
   "url": "https://search.jobs.barclays/search-jobs/United%20States/13015/2/6252001/39x76/-98x5/50/2",
-  "total_jobs": 13,
+  "total_jobs": 16,
   "jobs": [
+    {
+      "title": "Securitized Products - Esoteric Origination VP",
+      "url": "https://search.jobs.barclays/job/new-york/securitized-products-esoteric-origination-vp/13015/93779283440",
+      "identifier": "Securitized Products - Esoteric Origination VP_igination-vp/13015/93779283440"
+    },
+    {
+      "title": "Airlines Field Engagement Manager",
+      "url": "https://search.jobs.barclays/job/texas-city/airlines-field-engagement-manager/13015/93779281056",
+      "identifier": "Airlines Field Engagement Manager_ment-manager/13015/93779281056"
+    },
+    {
+      "title": "AVP, Developer",
+      "url": "https://search.jobs.barclays/job/new-york/avp-developer/13015/93764360304",
+      "identifier": "AVP, Developer_vp-developer/13015/93764360304"
+    },
     {
       "title": "Securitized Products CRE Attorney",
       "url": "https://search.jobs.barclays/job/new-york/securitized-products-cre-attorney/13015/93764357328",
@@ -69,6 +84,6 @@
       "identifier": "Assistant VP, Fx Options Trader_tions-trader/13015/93512458880"
     }
   ],
-  "job_count_text": "101",
-  "timestamp": "2026-04-10T11:26:17.484532"
+  "job_count_text": "100",
+  "timestamp": "2026-04-10T11:43:20.672029"
 }

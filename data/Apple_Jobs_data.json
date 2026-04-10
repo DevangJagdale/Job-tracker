@@ -4,6 +4,11 @@
   "total_jobs": 17,
   "jobs": [
     {
+      "title": "Machine Learning Engineer - Large Language Models & Generative AI Inference",
+      "url": "https://jobs.apple.com/en-us/details/200655756-0836/machine-learning-engineer-large-language-models-generative-ai-inference?team=MLAI",
+      "identifier": "Machine Learning Engineer - Large Language Models _erative-ai-inference?team=MLAI"
+    },
+    {
       "title": "Camera Software Frameworks Engineer",
       "url": "https://jobs.apple.com/en-us/details/200657326-0836/camera-software-frameworks-engineer?team=SFTWR",
       "identifier": "Camera Software Frameworks Engineer_frameworks-engineer?team=SFTWR"
@@ -82,13 +87,8 @@
       "title": "Engineering Project Manager, Enterprise Technology Services",
       "url": "https://jobs.apple.com/en-us/details/200653536-3956/engineering-project-manager-enterprise-technology-services?team=SFTWR",
       "identifier": "Engineering Project Manager, Enterprise Technology_technology-services?team=SFTWR"
-    },
-    {
-      "title": "Quality Automation Engineer, Rights & Pricing- Partner Onboarding Business",
-      "url": "https://jobs.apple.com/en-us/details/200656089-0836/quality-automation-engineer-rights-pricing-partner-onboarding-business?team=SFTWR",
-      "identifier": "Quality Automation Engineer, Rights & Pricing- Par_onboarding-business?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-10T20:58:26.784897"
+  "timestamp": "2026-04-10T21:15:35.476322"
 }

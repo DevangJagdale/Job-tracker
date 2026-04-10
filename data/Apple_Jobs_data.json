@@ -1,8 +1,13 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 18,
+  "total_jobs": 17,
   "jobs": [
+    {
+      "title": "Software Integrity Engineer, Video Apps",
+      "url": "https://jobs.apple.com/en-us/details/200651765-0670/software-integrity-engineer-video-apps?team=SFTWR",
+      "identifier": "Software Integrity Engineer, Video Apps_engineer-video-apps?team=SFTWR"
+    },
     {
       "title": "Embedded Software Development Engineer, Vision Products Group",
       "url": "https://jobs.apple.com/en-us/details/200657093-0365/embedded-software-development-engineer-vision-products-group?team=SFTWR",
@@ -82,18 +87,8 @@
       "title": "Software Engineer",
       "url": "https://jobs.apple.com/en-us/details/200641174-3956/software-engineer?team=SFTWR",
       "identifier": "Software Engineer_6/software-engineer?team=SFTWR"
-    },
-    {
-      "title": "Support Engineer, G&A Solutions Engineering (GSE)",
-      "url": "https://jobs.apple.com/en-us/details/200656753-3956/support-engineer-g-a-solutions-engineering-gse?team=SFTWR",
-      "identifier": "Support Engineer, G&A Solutions Engineering (GSE)_ons-engineering-gse?team=SFTWR"
-    },
-    {
-      "title": "Software Engineering Manager, Calls Security",
-      "url": "https://jobs.apple.com/en-us/details/200656964-3543/software-engineering-manager-calls-security?team=SFTWR",
-      "identifier": "Software Engineering Manager, Calls Security_ager-calls-security?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-10T19:15:30.728213"
+  "timestamp": "2026-04-10T19:32:39.837106"
 }

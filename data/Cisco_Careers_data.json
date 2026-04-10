@@ -34,14 +34,14 @@
       "identifier": "Software Engineer Embedded/Network Systems I (Full_tems-I-Full-Time-United-States"
     },
     {
-      "title": "Product Management Specialist II (Full Time) - United States",
-      "url": "https://careers.cisco.com/global/en/job/2004282/Product-Management-Specialist-II-Full-Time-United-States",
-      "identifier": "Product Management Specialist II (Full Time) - Uni_ist-II-Full-Time-United-States"
-    },
-    {
       "title": "Software Engineer Full Stack & Application Development I (Full Time) \u2013 United States",
       "url": "https://careers.cisco.com/global/en/job/2000087/Software-Engineer-Full-Stack-Application-Development-I-Full-Time-United-States",
       "identifier": "Software Engineer Full Stack & Application Develop_ment-I-Full-Time-United-States"
+    },
+    {
+      "title": "Product Management Specialist II (Full Time) - United States",
+      "url": "https://careers.cisco.com/global/en/job/2004282/Product-Management-Specialist-II-Full-Time-United-States",
+      "identifier": "Product Management Specialist II (Full Time) - Uni_ist-II-Full-Time-United-States"
     },
     {
       "title": "Software Engineer Embedded/Network Systems II (Full Time) - United States",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "18",
-  "timestamp": "2026-04-10T08:46:45.667283"
+  "timestamp": "2026-04-10T09:03:58.683835"
 }

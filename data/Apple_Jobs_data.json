@@ -4,6 +4,11 @@
   "total_jobs": 18,
   "jobs": [
     {
+      "title": "Technology and Metrology Engineering Program Manager - Display",
+      "url": "https://jobs.apple.com/en-us/details/200647177-0836/technology-and-metrology-engineering-program-manager-display?team=SFTWR",
+      "identifier": "Technology and Metrology Engineering Program Manag_ram-manager-display?team=SFTWR"
+    },
+    {
       "title": "Sr Software Engineering Manager, AIML Data Operations",
       "url": "https://jobs.apple.com/en-us/details/200646828-0836/sr-software-engineering-manager-aiml-data-operations?team=SFTWR",
       "identifier": "Sr Software Engineering Manager, AIML Data Operati_iml-data-operations?team=SFTWR"
@@ -87,13 +92,8 @@
       "title": "Software Engineer (UX Design), AI & Data Platforms (AiDP)",
       "url": "https://jobs.apple.com/en-us/details/200656002-3956/software-engineer-ux-design-ai-data-platforms-aidp?team=SFTWR",
       "identifier": "Software Engineer (UX Design), AI & Data Platforms_data-platforms-aidp?team=SFTWR"
-    },
-    {
-      "title": "Engineering Project Manager, Enterprise Technology Services",
-      "url": "https://jobs.apple.com/en-us/details/200653536-3956/engineering-project-manager-enterprise-technology-services?team=SFTWR",
-      "identifier": "Engineering Project Manager, Enterprise Technology_technology-services?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-10T21:32:42.266440"
+  "timestamp": "2026-04-10T21:49:51.537919"
 }

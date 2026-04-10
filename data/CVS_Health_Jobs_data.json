@@ -4,6 +4,11 @@
   "total_jobs": 8,
   "jobs": [
     {
+      "title": "Senior Analyst, Business Analysis",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0877444/Senior-Analyst-Business-Analysis",
+      "identifier": "Senior Analyst, Business Analysis_nior-Analyst-Business-Analysis"
+    },
+    {
       "title": "Business Analyst - ServiceNow HRSD",
       "url": "https://jobs.cvshealth.com/us/en/job/R0840851/Business-Analyst-ServiceNow-HRSD",
       "identifier": "Business Analyst - ServiceNow HRSD_siness-Analyst-ServiceNow-HRSD"
@@ -37,13 +42,8 @@
       "title": "Senior Engineering Manager",
       "url": "https://jobs.cvshealth.com/us/en/job/R0847003/Senior-Engineering-Manager",
       "identifier": "Senior Engineering Manager_003/Senior-Engineering-Manager"
-    },
-    {
-      "title": "Senior Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0871164/Senior-Software-Development-Engineer",
-      "identifier": "Senior Software Development Engineer_-Software-Development-Engineer"
     }
   ],
   "job_count_text": "75",
-  "timestamp": "2026-04-10T12:53:02.889019"
+  "timestamp": "2026-04-10T13:10:07.884573"
 }

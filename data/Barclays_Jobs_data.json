@@ -1,8 +1,13 @@
 {
   "page_title": "Search our Job Opportunities at Barclays",
   "url": "https://search.jobs.barclays/search-jobs/United%20States/13015/2/6252001/39x76/-98x5/50/2",
-  "total_jobs": 15,
+  "total_jobs": 12,
   "jobs": [
+    {
+      "title": "Head of US Technology Command Centre",
+      "url": "https://search.jobs.barclays/job/whippany/head-of-us-technology-command-centre/13015/93804622144",
+      "identifier": "Head of US Technology Command Centre_mmand-centre/13015/93804622144"
+    },
     {
       "title": "Global Expense Manager",
       "url": "https://search.jobs.barclays/job/new-york/global-expense-manager/13015/93804622112",
@@ -57,28 +62,8 @@
       "title": "Internal Audit - Financial Crime AVP",
       "url": "https://search.jobs.barclays/job/wilmington/internal-audit-financial-crime-avp/13015/93686859072",
       "identifier": "Internal Audit - Financial Crime AVP_al-crime-avp/13015/93686859072"
-    },
-    {
-      "title": "USCB Strategic Investments Process Analyst - AVP",
-      "url": "https://search.jobs.barclays/job/whippany/uscb-strategic-investments-process-analyst-avp/13015/93686856832",
-      "identifier": "USCB Strategic Investments Process Analyst - AVP_-analyst-avp/13015/93686856832"
-    },
-    {
-      "title": "Director, Sector Head of Cash Management Sales",
-      "url": "https://search.jobs.barclays/job/new-york/director-sector-head-of-cash-management-sales/13015/93675237792",
-      "identifier": "Director, Sector Head of Cash Management Sales_gement-sales/13015/93675237792"
-    },
-    {
-      "title": "AVP, Cloud Automation and Virtualization",
-      "url": "https://search.jobs.barclays/job/whippany/avp-cloud-automation-and-virtualization/13015/93649094320",
-      "identifier": "AVP, Cloud Automation and Virtualization_rtualization/13015/93649094320"
-    },
-    {
-      "title": "Markets Liquid Financing Platform - AVP",
-      "url": "https://search.jobs.barclays/job/new-york/markets-liquid-financing-platform-avp/13015/93649094304",
-      "identifier": "Markets Liquid Financing Platform - AVP_platform-avp/13015/93649094304"
     }
   ],
-  "job_count_text": "99",
-  "timestamp": "2026-04-10T23:22:16.556274"
+  "job_count_text": "106",
+  "timestamp": "2026-04-10T23:39:19.155101"
 }

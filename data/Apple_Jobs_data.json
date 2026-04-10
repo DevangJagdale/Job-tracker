@@ -4,6 +4,11 @@
   "total_jobs": 17,
   "jobs": [
     {
+      "title": "Engineering Project Manager, Enterprise Technology Services",
+      "url": "https://jobs.apple.com/en-us/details/200653536-3956/engineering-project-manager-enterprise-technology-services?team=SFTWR",
+      "identifier": "Engineering Project Manager, Enterprise Technology_technology-services?team=SFTWR"
+    },
+    {
       "title": "Senior Software Engineer",
       "url": "https://jobs.apple.com/en-us/details/200655383-3337/senior-software-engineer?team=SFTWR",
       "identifier": "Senior Software Engineer_r-software-engineer?team=SFTWR"
@@ -82,13 +87,8 @@
       "title": "Server-Side Software Engineer \u2013 ASE Enterprise",
       "url": "https://jobs.apple.com/en-us/details/200656381-3337/server-side-software-engineer-ase-enterprise?team=SFTWR",
       "identifier": "Server-Side Software Engineer \u2013 ASE Enterprise_neer-ase-enterprise?team=SFTWR"
-    },
-    {
-      "title": "Software Image Quality Engineer - Creativity Apps",
-      "url": "https://jobs.apple.com/en-us/details/200645394-0836/software-image-quality-engineer-creativity-apps?team=SFTWR",
-      "identifier": "Software Image Quality Engineer - Creativity Apps_eer-creativity-apps?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-10T14:51:36.190985"
+  "timestamp": "2026-04-10T15:08:47.153695"
 }

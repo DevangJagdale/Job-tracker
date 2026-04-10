@@ -1,14 +1,109 @@
 {
   "page_title": "Salesforce Jobs | Salesforce Careers",
   "url": "https://careers.salesforce.com/en/jobs/?search=&country=United+States+of+America&team=Data&team=Enterprise+Technology+%26+Infrastructure&team=Software+Engineering&jobtype=New+Grads&pagesize=20#results",
-  "total_jobs": 1,
+  "total_jobs": 20,
   "jobs": [
     {
-      "title": "Software Engineering AMTS (College Grad)",
-      "url": "https://careers.salesforce.com/en/jobs/jr330400/software-engineering-amts-college-grad/",
-      "identifier": "Software Engineering AMTS (College Grad)_engineering-amts-college-grad/"
+      "title": "Lead, Account SE, ECS, Public Sector",
+      "url": "https://careers.salesforce.com/en/jobs/jr329351/lead-account-se-ecs-public-sector/",
+      "identifier": "Lead, Account SE, ECS, Public Sector_-account-se-ecs-public-sector/"
+    },
+    {
+      "title": "Senior Account Executive - Informatica",
+      "url": "https://careers.salesforce.com/en/jobs/jr336389/senior-account-executive-informatica/",
+      "identifier": "Senior Account Executive - Informatica_account-executive-informatica/"
+    },
+    {
+      "title": "Salesoforce Architct (Technical Architect)",
+      "url": "https://careers.salesforce.com/en/jobs/jr336714/salesoforce-architct-technical-architect/",
+      "identifier": "Salesoforce Architct (Technical Architect)_-architct-technical-architect/"
+    },
+    {
+      "title": "Senior Manager, User Experience",
+      "url": "https://careers.salesforce.com/en/jobs/jr336887/senior-manager-user-experience/",
+      "identifier": "Senior Manager, User Experience_enior-manager-user-experience/"
+    },
+    {
+      "title": "Technical Support Engineer",
+      "url": "https://careers.salesforce.com/en/jobs/jr335157/technical-support-engineer/",
+      "identifier": "Technical Support Engineer_57/technical-support-engineer/"
+    },
+    {
+      "title": "ECS Account Executive",
+      "url": "https://careers.salesforce.com/en/jobs/jr330633/ecs-account-executive/",
+      "identifier": "ECS Account Executive_r330633/ecs-account-executive/"
+    },
+    {
+      "title": "Software Engineering LMTS- ML Engineer",
+      "url": "https://careers.salesforce.com/en/jobs/jr332815/software-engineering-lmts-ml-engineer/",
+      "identifier": "Software Engineering LMTS- ML Engineer_-engineering-lmts-ml-engineer/"
+    },
+    {
+      "title": "Data Analytics, Senior Analyst (Tableau exp mandatory)",
+      "url": "https://careers.salesforce.com/en/jobs/jr335903/data-analytics-senior-analyst-tableau-exp-mandatory/",
+      "identifier": "Data Analytics, Senior Analyst (Tableau exp mandat_analyst-tableau-exp-mandatory/"
+    },
+    {
+      "title": "Executive Assistant",
+      "url": "https://careers.salesforce.com/en/jobs/jr334768/executive-assistant/",
+      "identifier": "Executive Assistant_/jr334768/executive-assistant/"
+    },
+    {
+      "title": "Senior Account Solution Engineer",
+      "url": "https://careers.salesforce.com/en/jobs/jr337296/senior-account-solution-engineer/",
+      "identifier": "Senior Account Solution Engineer_ior-account-solution-engineer/"
+    },
+    {
+      "title": "Senior Technical Writer",
+      "url": "https://careers.salesforce.com/en/jobs/jr336886/senior-technical-writer/",
+      "identifier": "Senior Technical Writer_36886/senior-technical-writer/"
+    },
+    {
+      "title": "Software Engineering AMTS",
+      "url": "https://careers.salesforce.com/en/jobs/jr334858/software-engineering-amts/",
+      "identifier": "Software Engineering AMTS_858/software-engineering-amts/"
+    },
+    {
+      "title": "Customer Success Area Lead",
+      "url": "https://careers.salesforce.com/en/jobs/jr330554/customer-success-area-lead/",
+      "identifier": "Customer Success Area Lead_54/customer-success-area-lead/"
+    },
+    {
+      "title": "Customer Success Manager",
+      "url": "https://careers.salesforce.com/en/jobs/jr336133/customer-success-manager/",
+      "identifier": "Customer Success Manager_6133/customer-success-manager/"
+    },
+    {
+      "title": "Sr. Talent Attraction Partner",
+      "url": "https://careers.salesforce.com/en/jobs/jr323948/sr-talent-attraction-partner/",
+      "identifier": "Sr. Talent Attraction Partner_/sr-talent-attraction-partner/"
+    },
+    {
+      "title": "Customer Success Manager - Informatica",
+      "url": "https://careers.salesforce.com/en/jobs/jr336600/customer-success-manager-informatica/",
+      "identifier": "Customer Success Manager - Informatica_r-success-manager-informatica/"
+    },
+    {
+      "title": "Senior Manager, Capacity Planning - Human & AI(Operations & Integration)",
+      "url": "https://careers.salesforce.com/en/jobs/jr336961/senior-manager-capacity-planning-human-ai-operations-integration/",
+      "identifier": "Senior Manager, Capacity Planning - Human & AI(Ope_man-ai-operations-integration/"
+    },
+    {
+      "title": "LMTS Machine Learning Engineer",
+      "url": "https://careers.salesforce.com/en/jobs/jr335917/lmts-machine-learning-engineer/",
+      "identifier": "LMTS Machine Learning Engineer_mts-machine-learning-engineer/"
+    },
+    {
+      "title": "Salesforce Success Architect - Data cloud",
+      "url": "https://careers.salesforce.com/en/jobs/jr337238/salesforce-success-architect-data-cloud/",
+      "identifier": "Salesforce Success Architect - Data cloud_-success-architect-data-cloud/"
+    },
+    {
+      "title": "Account Executive - Outsource Service Providers",
+      "url": "https://careers.salesforce.com/en/jobs/jr337866/account-executive-outsource-service-providers/",
+      "identifier": "Account Executive - Outsource Service Providers_e-outsource-service-providers/"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-10T10:48:27.249492"
+  "timestamp": "2026-04-10T11:05:32.788539"
 }

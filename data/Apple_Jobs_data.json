@@ -1,8 +1,18 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 17,
+  "total_jobs": 16,
   "jobs": [
+    {
+      "title": "Software Developer in Test, Find My",
+      "url": "https://jobs.apple.com/en-us/details/200657304-0836/software-developer-in-test-find-my?team=SFTWR",
+      "identifier": "Software Developer in Test, Find My_per-in-test-find-my?team=SFTWR"
+    },
+    {
+      "title": "Senior Software Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200656816-0157/senior-software-engineer?team=SFTWR",
+      "identifier": "Senior Software Engineer_r-software-engineer?team=SFTWR"
+    },
     {
       "title": "Software Integrity Engineer, Video Apps",
       "url": "https://jobs.apple.com/en-us/details/200651765-0670/software-integrity-engineer-video-apps?team=SFTWR",
@@ -54,11 +64,6 @@
       "identifier": "Engineering Project Manager, Enterprise Technology_technology-services?team=SFTWR"
     },
     {
-      "title": "Senior Software Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200655383-3337/senior-software-engineer?team=SFTWR",
-      "identifier": "Senior Software Engineer_r-software-engineer?team=SFTWR"
-    },
-    {
       "title": "Quality Automation Engineer, Rights & Pricing- Partner Onboarding Business",
       "url": "https://jobs.apple.com/en-us/details/200656089-0836/quality-automation-engineer-rights-pricing-partner-onboarding-business?team=SFTWR",
       "identifier": "Quality Automation Engineer, Rights & Pricing- Par_onboarding-business?team=SFTWR"
@@ -77,18 +82,8 @@
       "title": "Sr Program Manager, Commerce Program Management - Partners, Apple Services Engineering",
       "url": "https://jobs.apple.com/en-us/details/200656992-2459/sr-program-manager-commerce-program-management-partners-apple-services-engineering?team=SFTWR",
       "identifier": "Sr Program Manager, Commerce Program Management - _ervices-engineering?team=SFTWR"
-    },
-    {
-      "title": "Engineering Program Manager- Customer Systems",
-      "url": "https://jobs.apple.com/en-us/details/200655982-3956/engineering-program-manager-customer-systems?team=SFTWR",
-      "identifier": "Engineering Program Manager- Customer Systems_er-customer-systems?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200641174-3956/software-engineer?team=SFTWR",
-      "identifier": "Software Engineer_6/software-engineer?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-10T19:32:39.837106"
+  "timestamp": "2026-04-10T19:49:46.676565"
 }

@@ -4,6 +4,11 @@
   "total_jobs": 17,
   "jobs": [
     {
+      "title": "Camera Software Frameworks Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200657326-0836/camera-software-frameworks-engineer?team=SFTWR",
+      "identifier": "Camera Software Frameworks Engineer_frameworks-engineer?team=SFTWR"
+    },
+    {
       "title": "Maps Operations Program Lead",
       "url": "https://jobs.apple.com/en-us/details/200657310-0836/maps-operations-program-lead?team=SFTWR",
       "identifier": "Maps Operations Program Lead_ations-program-lead?team=SFTWR"
@@ -82,13 +87,8 @@
       "title": "Quality Automation Engineer, Rights & Pricing- Partner Onboarding Business",
       "url": "https://jobs.apple.com/en-us/details/200656089-0836/quality-automation-engineer-rights-pricing-partner-onboarding-business?team=SFTWR",
       "identifier": "Quality Automation Engineer, Rights & Pricing- Par_onboarding-business?team=SFTWR"
-    },
-    {
-      "title": "Senior Content Curator, Apple Creator Studio (Product, Design & Marketing)",
-      "url": "https://jobs.apple.com/en-us/details/200652761-0670/senior-content-curator-apple-creator-studio-product-design-marketing?team=SFTWR",
-      "identifier": "Senior Content Curator, Apple Creator Studio (Prod_ct-design-marketing?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-10T20:41:20.650393"
+  "timestamp": "2026-04-10T20:58:26.784897"
 }

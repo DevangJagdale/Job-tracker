@@ -4,6 +4,11 @@
   "total_jobs": 18,
   "jobs": [
     {
+      "title": "Senior Media Applications Engineer, Media, Graphics & Compute Technologies",
+      "url": "https://jobs.apple.com/en-us/details/200613553-0836/senior-media-applications-engineer-media-graphics-compute-technologies?team=SFTWR",
+      "identifier": "Senior Media Applications Engineer, Media, Graphic_ompute-technologies?team=SFTWR"
+    },
+    {
       "title": "Camera Software Frameworks Engineer",
       "url": "https://jobs.apple.com/en-us/details/200657326-0836/camera-software-frameworks-engineer?team=SFTWR",
       "identifier": "Camera Software Frameworks Engineer_frameworks-engineer?team=SFTWR"
@@ -87,13 +92,8 @@
       "title": "Database Systems SRE, ASE Cassandra SRE",
       "url": "https://jobs.apple.com/en-us/details/200657006-3337/database-systems-sre-ase-cassandra-sre?team=SFTWR",
       "identifier": "Database Systems SRE, ASE Cassandra SRE_e-ase-cassandra-sre?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer (UX Design), AI & Data Platforms (AiDP)",
-      "url": "https://jobs.apple.com/en-us/details/200656002-3956/software-engineer-ux-design-ai-data-platforms-aidp?team=SFTWR",
-      "identifier": "Software Engineer (UX Design), AI & Data Platforms_data-platforms-aidp?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-10T22:24:04.128664"
+  "timestamp": "2026-04-10T22:31:41.024408"
 }

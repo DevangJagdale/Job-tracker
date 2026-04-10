@@ -4,11 +4,6 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Process Integration Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
-      "url": "https://careers.micron.com/careers/job/41272260",
-      "identifier": "Process Integration Engineer\nBoise, Idaho, United _icron.com/careers/job/41272260"
-    },
-    {
       "title": "HVM Area Manufacturing Engineer - Dry Etch\nBoise, Idaho, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/41248138",
       "identifier": "HVM Area Manufacturing Engineer - Dry Etch\nBoise, _icron.com/careers/job/41248138"
@@ -29,6 +24,11 @@
       "identifier": "Semiconductor Design Engineer\nRichardson, Texas, U_icron.com/careers/job/41139930"
     },
     {
+      "title": "Process Integration Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/41272260",
+      "identifier": "Process Integration Engineer\nBoise, Idaho, United _icron.com/careers/job/41272260"
+    },
+    {
       "title": "HVM Area Manufacturing Engineer - Diffusion/Implant\nBoise, Idaho, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/41381271",
       "identifier": "HVM Area Manufacturing Engineer - Diffusion/Implan_icron.com/careers/job/41381271"
@@ -39,21 +39,21 @@
       "identifier": "Process Engineer, Photomask Inspection\nBoise, Idah_icron.com/careers/job/39281420"
     },
     {
-      "title": "Staff GenAI Engineer - AMS Design and Optimization\nSan Jose, California, United States of America\nPosted 3 days ago",
-      "url": "https://careers.micron.com/careers/job/39464751",
-      "identifier": "Staff GenAI Engineer - AMS Design and Optimization_icron.com/careers/job/39464751"
-    },
-    {
       "title": "New College Grad - Semiconductor Product Engineer\nManassas, Virginia, United States of America\nPosted 3 days ago",
       "url": "https://careers.micron.com/careers/job/41246204",
       "identifier": "New College Grad - Semiconductor Product Engineer\n_icron.com/careers/job/41246204"
     },
     {
-      "title": "Semiconductor Process Engineer - Photo\nBoise, Idaho, United States of America\nPosted 4 days ago",
-      "url": "https://careers.micron.com/careers/job/41194594",
-      "identifier": "Semiconductor Process Engineer - Photo\nBoise, Idah_icron.com/careers/job/41194594"
+      "title": "Staff GenAI Engineer - AMS Design and Optimization\nSan Jose, California, United States of America\nPosted 3 days ago",
+      "url": "https://careers.micron.com/careers/job/39464751",
+      "identifier": "Staff GenAI Engineer - AMS Design and Optimization_icron.com/careers/job/39464751"
+    },
+    {
+      "title": "Engineer - Operations Improvement\nBoise, Idaho, United States of America\nPosted 4 days ago",
+      "url": "https://careers.micron.com/careers/job/40899085",
+      "identifier": "Engineer - Operations Improvement\nBoise, Idaho, Un_icron.com/careers/job/40899085"
     }
   ],
   "job_count_text": "73",
-  "timestamp": "2026-04-10T08:31:08.564165"
+  "timestamp": "2026-04-10T08:48:15.119098"
 }

@@ -24,19 +24,9 @@
       "identifier": "Software Engineer Front-End I (Full-Time) United S_-End-I-Full-Time-United-States"
     },
     {
-      "title": "Software Engineer Front-End II (Full-Time) United States",
-      "url": "https://careers.cisco.com/global/en/job/2010725/Software-Engineer-Front-End-II-Full-Time-United-States",
-      "identifier": "Software Engineer Front-End II (Full-Time) United _End-II-Full-Time-United-States"
-    },
-    {
       "title": "Field Sales Intern (United States)",
       "url": "https://careers.cisco.com/global/en/job/2012189/Field-Sales-Intern-United-States",
       "identifier": "Field Sales Intern (United States)_eld-Sales-Intern-United-States"
-    },
-    {
-      "title": "Software QA Engineer II (Full Time) \u2013 United States",
-      "url": "https://careers.cisco.com/global/en/job/2002838/Software-QA-Engineer-II-Full-Time-United-States",
-      "identifier": "Software QA Engineer II (Full Time) \u2013 United State_eer-II-Full-Time-United-States"
     },
     {
       "title": "Software Engineer Embedded/Network Systems I (Full Time) - United States",
@@ -52,8 +42,18 @@
       "title": "Product Management Specialist II (Full Time) - United States",
       "url": "https://careers.cisco.com/global/en/job/2004282/Product-Management-Specialist-II-Full-Time-United-States",
       "identifier": "Product Management Specialist II (Full Time) - Uni_ist-II-Full-Time-United-States"
+    },
+    {
+      "title": "Software Engineer Embedded/Network Systems II (Full Time) - United States",
+      "url": "https://careers.cisco.com/global/en/job/2000131/Software-Engineer-Embedded-Network-Systems-II-Full-Time-United-States",
+      "identifier": "Software Engineer Embedded/Network Systems II (Ful_ems-II-Full-Time-United-States"
+    },
+    {
+      "title": "Sales Development Representative Outbound Sales II (Full Time) - United States",
+      "url": "https://careers.cisco.com/global/en/job/2003091/Sales-Development-Representative-Outbound-Sales-II-Full-Time-United-States",
+      "identifier": "Sales Development Representative Outbound Sales II_les-II-Full-Time-United-States"
     }
   ],
-  "job_count_text": "21",
-  "timestamp": "2026-04-10T05:55:37.727144"
+  "job_count_text": "18",
+  "timestamp": "2026-04-10T06:12:45.843735"
 }

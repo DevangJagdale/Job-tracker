@@ -4,6 +4,11 @@
   "total_jobs": 17,
   "jobs": [
     {
+      "title": "QA Tools/Automation Engineer (AI-Driven Quality Engineering)",
+      "url": "https://jobs.apple.com/en-us/details/200656089-0836/qa-tools-automation-engineer-ai-driven-quality-engineering?team=SFTWR",
+      "identifier": "QA Tools/Automation Engineer (AI-Driven Quality En_quality-engineering?team=SFTWR"
+    },
+    {
       "title": "Senior Content Curator, Apple Creator Studio (Product, Design & Marketing)",
       "url": "https://jobs.apple.com/en-us/details/200652761-0670/senior-content-curator-apple-creator-studio-product-design-marketing?team=SFTWR",
       "identifier": "Senior Content Curator, Apple Creator Studio (Prod_ct-design-marketing?team=SFTWR"
@@ -82,13 +87,8 @@
       "title": "Engineering Program Manager, Siri",
       "url": "https://jobs.apple.com/en-us/details/200656788-0836/engineering-program-manager-siri?team=SFTWR",
       "identifier": "Engineering Program Manager, Siri_rogram-manager-siri?team=SFTWR"
-    },
-    {
-      "title": "Software OS Developer Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200656765-0836/software-os-developer-engineer?team=SFTWR",
-      "identifier": "Software OS Developer Engineer_-developer-engineer?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-10T02:17:48.216364"
+  "timestamp": "2026-04-10T02:35:02.004957"
 }

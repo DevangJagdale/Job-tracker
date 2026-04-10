@@ -4,6 +4,11 @@
   "total_jobs": 10,
   "jobs": [
     {
+      "title": "Senior Software Engineer\nUnited States, Washington, Redmond + 3 more\nPosted 15 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556668321?domain=microsoft.com",
+      "identifier": "Senior Software Engineer\nUnited States, Washington_556668321?domain=microsoft.com"
+    },
+    {
       "title": "Software Engineer\nUnited States, California, Mountain View\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556858038?domain=microsoft.com",
       "identifier": "Software Engineer\nUnited States, California, Mount_556858038?domain=microsoft.com"
@@ -14,12 +19,12 @@
       "identifier": "Senior Software Engineer\nUnited States, Washington_556769530?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted an hour ago",
+      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556857307?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Washington_556857307?domain=microsoft.com"
     },
     {
-      "title": "Network Automation Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted an hour ago",
+      "title": "Network Automation Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556847549?domain=microsoft.com",
       "identifier": "Network Automation Engineer\nUnited States, Multipl_556847549?domain=microsoft.com"
     },
@@ -47,13 +52,8 @@
       "title": "Senior Software Engineer - AI Frameworks\nUnited States, Washington, Redmond + 1 more\nPosted 4 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556857279?domain=microsoft.com",
       "identifier": "Senior Software Engineer - AI Frameworks\nUnited St_556857279?domain=microsoft.com"
-    },
-    {
-      "title": "Cloud Network Engineer\nUnited States, Washington, Redmond\nPosted 4 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556761694?domain=microsoft.com",
-      "identifier": "Cloud Network Engineer\nUnited States, Washington, _556761694?domain=microsoft.com"
     }
   ],
-  "job_count_text": "730",
-  "timestamp": "2026-04-10T22:06:40.676047"
+  "job_count_text": "731",
+  "timestamp": "2026-04-10T22:23:47.830228"
 }

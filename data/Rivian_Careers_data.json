@@ -29,14 +29,14 @@
       "identifier": "Senior iOS Engineer - Trip Planner Mobile_ang=en-us&previousLocale=en-US"
     },
     {
-      "title": "Senior Full Stack Software Engineer, Communications Platform",
-      "url": "https://careers.rivian.com/careers-home/jobs/30142?lang=en-us&previousLocale=en-US",
-      "identifier": "Senior Full Stack Software Engineer, Communication_ang=en-us&previousLocale=en-US"
-    },
-    {
       "title": "Sr. IT Wireless Network Engineer",
       "url": "https://careers.rivian.com/careers-home/jobs/24321?lang=en-us&previousLocale=en-US",
       "identifier": "Sr. IT Wireless Network Engineer_ang=en-us&previousLocale=en-US"
+    },
+    {
+      "title": "Senior Full Stack Software Engineer, Communications Platform",
+      "url": "https://careers.rivian.com/careers-home/jobs/30142?lang=en-us&previousLocale=en-US",
+      "identifier": "Senior Full Stack Software Engineer, Communication_ang=en-us&previousLocale=en-US"
     },
     {
       "title": "Staff Embedded Software Engineer - Vehicle Access Systems",
@@ -60,5 +60,5 @@
     }
   ],
   "job_count_text": "48",
-  "timestamp": "2026-04-11T02:02:05.666943"
+  "timestamp": "2026-04-11T02:19:05.456439"
 }

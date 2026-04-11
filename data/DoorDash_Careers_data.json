@@ -1,24 +1,14 @@
 {
   "page_title": "Job Search - DoorDash",
   "url": "https://careersatdoordash.com/job-search/?intern=0&function=Software%20Engineering%7CIT%20Support%7C&keyword=&location=Los%20Angeles&spage=1",
-  "total_jobs": 3,
+  "total_jobs": 1,
   "jobs": [
     {
       "title": "Senior Staff Engineer, Developer Platform",
       "url": "https://careersatdoordash.com/jobs/senior-staff-engineer-developer-platform/7429741",
       "identifier": "Senior Staff Engineer, Developer Platform_eer-developer-platform/7429741"
-    },
-    {
-      "title": "Engineering Manager, Backend Frameworks",
-      "url": "https://careersatdoordash.com/jobs/engineering-manager-backend-frameworks/7259738",
-      "identifier": "Engineering Manager, Backend Frameworks_ger-backend-frameworks/7259738"
-    },
-    {
-      "title": "Senior Staff Software Engineer - Delivery Experience",
-      "url": "https://careersatdoordash.com/jobs/senior-staff-software-engineer---delivery-experience/7195865",
-      "identifier": "Senior Staff Software Engineer - Delivery Experien_---delivery-experience/7195865"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-11T14:14:03.096236"
+  "timestamp": "2026-04-11T14:31:09.784109"
 }

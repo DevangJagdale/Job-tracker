@@ -4,19 +4,14 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Contract TA Operations Specialist \u2013 Events, Candidate Experience & Reporting\nSan Jose, California, United States of America + 2 more\nPosted 2 days ago",
-      "url": "https://careers.micron.com/careers/job/41381353",
-      "identifier": "Contract TA Operations Specialist \u2013 Events, Candid_icron.com/careers/job/41381353"
-    },
-    {
       "title": "Engineer, FE CENTRAL QA ID1\nBoise, Idaho, United States of America\nPosted 2 days ago",
       "url": "https://careers.micron.com/careers/job/39259267",
       "identifier": "Engineer, FE CENTRAL QA ID1\nBoise, Idaho, United S_icron.com/careers/job/39259267"
     },
     {
-      "title": "Product Engineer, Embedded DEG\nManassas, Virginia, United States of America\nPosted 3 days ago",
-      "url": "https://careers.micron.com/careers/job/41286459",
-      "identifier": "Product Engineer, Embedded DEG\nManassas, Virginia,_icron.com/careers/job/41286459"
+      "title": "Contract TA Operations Specialist \u2013 Events, Candidate Experience & Reporting\nSan Jose, California, United States of America + 2 more\nPosted 2 days ago",
+      "url": "https://careers.micron.com/careers/job/41381353",
+      "identifier": "Contract TA Operations Specialist \u2013 Events, Candid_icron.com/careers/job/41381353"
     },
     {
       "title": "Semiconductor Design Engineer\nRichardson, Texas, United States of America\nPosted 3 days ago",
@@ -44,6 +39,11 @@
       "identifier": "Semiconductor Process Engineer, Metrology\nBoise, I_icron.com/careers/job/39196650"
     },
     {
+      "title": "Product Engineer, Embedded DEG\nManassas, Virginia, United States of America\nPosted 3 days ago",
+      "url": "https://careers.micron.com/careers/job/41286459",
+      "identifier": "Product Engineer, Embedded DEG\nManassas, Virginia,_icron.com/careers/job/41286459"
+    },
+    {
       "title": "Process Engineer, Photomask Inspection\nBoise, Idaho, United States of America\nPosted 4 days ago",
       "url": "https://careers.micron.com/careers/job/39281420",
       "identifier": "Process Engineer, Photomask Inspection\nBoise, Idah_icron.com/careers/job/39281420"
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "74",
-  "timestamp": "2026-04-11T20:58:38.788886"
+  "timestamp": "2026-04-11T21:15:40.704169"
 }

@@ -1,109 +1,14 @@
 {
   "page_title": "Salesforce Jobs | Salesforce Careers",
   "url": "https://careers.salesforce.com/en/jobs/?search=&country=United+States+of+America&team=Data&team=Enterprise+Technology+%26+Infrastructure&team=Software+Engineering&jobtype=New+Grads&pagesize=20#results",
-  "total_jobs": 20,
+  "total_jobs": 1,
   "jobs": [
     {
-      "title": "Lead, Account SE, ECS, Public Sector",
-      "url": "https://careers.salesforce.com/en/jobs/jr329351/lead-account-se-ecs-public-sector/",
-      "identifier": "Lead, Account SE, ECS, Public Sector_-account-se-ecs-public-sector/"
-    },
-    {
-      "title": "Senior Account Executive - Informatica",
-      "url": "https://careers.salesforce.com/en/jobs/jr336389/senior-account-executive-informatica/",
-      "identifier": "Senior Account Executive - Informatica_account-executive-informatica/"
-    },
-    {
-      "title": "Salesforce Architect (Technical Architect)",
-      "url": "https://careers.salesforce.com/en/jobs/jr336714/salesforce-architect-technical-architect/",
-      "identifier": "Salesforce Architect (Technical Architect)_architect-technical-architect/"
-    },
-    {
-      "title": "Account Executive, ESMB - Thailand Market",
-      "url": "https://careers.salesforce.com/en/jobs/jr337718/account-executive-esmb-thailand-market/",
-      "identifier": "Account Executive, ESMB - Thailand Market_xecutive-esmb-thailand-market/"
-    },
-    {
-      "title": "Senior Success Guide - Data Cloud/ Agentforce - Italian Speaking",
-      "url": "https://careers.salesforce.com/en/jobs/jr327834/senior-success-guide-data-cloud-agentforce-italian-speaking/",
-      "identifier": "Senior Success Guide - Data Cloud/ Agentforce - It_d-agentforce-italian-speaking/"
-    },
-    {
-      "title": "Technical Support Engineer - German Speaking",
-      "url": "https://careers.salesforce.com/en/jobs/jr333526/technical-support-engineer-german-speaking/",
-      "identifier": "Technical Support Engineer - German Speaking_port-engineer-german-speaking/"
-    },
-    {
-      "title": "Reseller Account Executive 6",
-      "url": "https://careers.salesforce.com/en/jobs/jr338089/reseller-account-executive-6/",
-      "identifier": "Reseller Account Executive 6_/reseller-account-executive-6/"
-    },
-    {
-      "title": "Senior Manager - User Experience Design",
-      "url": "https://careers.salesforce.com/en/jobs/jr336887/senior-manager-user-experience-design/",
-      "identifier": "Senior Manager - User Experience Design_anager-user-experience-design/"
-    },
-    {
-      "title": "Senior Director, Performance Analytics",
-      "url": "https://careers.salesforce.com/en/jobs/jr337793/senior-director-performance-analytics/",
-      "identifier": "Senior Director, Performance Analytics_irector-performance-analytics/"
-    },
-    {
-      "title": "Technical Support Engineer",
-      "url": "https://careers.salesforce.com/en/jobs/jr335157/technical-support-engineer/",
-      "identifier": "Technical Support Engineer_57/technical-support-engineer/"
-    },
-    {
-      "title": "ECS Account Executive",
-      "url": "https://careers.salesforce.com/en/jobs/jr330633/ecs-account-executive/",
-      "identifier": "ECS Account Executive_r330633/ecs-account-executive/"
-    },
-    {
-      "title": "Informatica Cloud Account Executive, MDM (Public Sector)",
-      "url": "https://careers.salesforce.com/en/jobs/jr337558/informatica-cloud-account-executive-mdm-public-sector/",
-      "identifier": "Informatica Cloud Account Executive, MDM (Public S_t-executive-mdm-public-sector/"
-    },
-    {
-      "title": "Data Analytics, Senior Analyst (Tableau exp mandatory)",
-      "url": "https://careers.salesforce.com/en/jobs/jr335903/data-analytics-senior-analyst-tableau-exp-mandatory/",
-      "identifier": "Data Analytics, Senior Analyst (Tableau exp mandat_analyst-tableau-exp-mandatory/"
-    },
-    {
-      "title": "Regional Sales Director - KSA",
-      "url": "https://careers.salesforce.com/en/jobs/jr338035/regional-sales-director-ksa/",
-      "identifier": "Regional Sales Director - KSA_5/regional-sales-director-ksa/"
-    },
-    {
-      "title": "Lead Account Solution Engineer",
-      "url": "https://careers.salesforce.com/en/jobs/jr336789/lead-account-solution-engineer/",
-      "identifier": "Lead Account Solution Engineer_ead-account-solution-engineer/"
-    },
-    {
-      "title": "ESMB Account Executive - Mediterranean Markets - Greek speaker",
-      "url": "https://careers.salesforce.com/en/jobs/jr329437/esmb-account-executive-mediterranean-markets-greek-speaker/",
-      "identifier": "ESMB Account Executive - Mediterranean Markets - G_rranean-markets-greek-speaker/"
-    },
-    {
-      "title": "Agentforce Success Architect",
-      "url": "https://careers.salesforce.com/en/jobs/jr336652/agentforce-success-architect/",
-      "identifier": "Agentforce Success Architect_/agentforce-success-architect/"
-    },
-    {
-      "title": "Executive Assistant",
-      "url": "https://careers.salesforce.com/en/jobs/jr334768/executive-assistant/",
-      "identifier": "Executive Assistant_/jr334768/executive-assistant/"
-    },
-    {
-      "title": "Senior Success Guide - French Speaker",
-      "url": "https://careers.salesforce.com/en/jobs/jr326136/senior-success-guide-french-speaker/",
-      "identifier": "Senior Success Guide - French Speaker_-success-guide-french-speaker/"
-    },
-    {
-      "title": "Senior Success Guide - German Speaker",
-      "url": "https://careers.salesforce.com/en/jobs/jr326137/senior-success-guide-german-speaker/",
-      "identifier": "Senior Success Guide - German Speaker_-success-guide-german-speaker/"
+      "title": "Software Engineering AMTS (College Grad)",
+      "url": "https://careers.salesforce.com/en/jobs/jr330400/software-engineering-amts-college-grad/",
+      "identifier": "Software Engineering AMTS (College Grad)_engineering-amts-college-grad/"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-11T15:10:37.067859"
+  "timestamp": "2026-04-11T15:27:40.397441"
 }

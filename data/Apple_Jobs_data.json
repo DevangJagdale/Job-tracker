@@ -1,8 +1,18 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 17,
+  "total_jobs": 16,
   "jobs": [
+    {
+      "title": "Machine Learning Engineer, Apple Services Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200656136-0836/machine-learning-engineer-apple-services-engineering?team=SFTWR",
+      "identifier": "Machine Learning Engineer, Apple Services Engineer_ervices-engineering?team=SFTWR"
+    },
+    {
+      "title": "Video Content Data Scientist",
+      "url": "https://jobs.apple.com/en-us/details/200656393-0670/video-content-data-scientist?team=SFTWR",
+      "identifier": "Video Content Data Scientist_tent-data-scientist?team=SFTWR"
+    },
     {
       "title": "Frameworks Engineer",
       "url": "https://jobs.apple.com/en-us/details/200657209-0836/frameworks-engineer?team=SFTWR",
@@ -72,23 +82,8 @@
       "title": "Embedded Software Development Engineer, Vision Products Group",
       "url": "https://jobs.apple.com/en-us/details/200657093-0365/embedded-software-development-engineer-vision-products-group?team=SFTWR",
       "identifier": "Embedded Software Development Engineer, Vision Pro_sion-products-group?team=SFTWR"
-    },
-    {
-      "title": "Sr. Embedded Software Development Engineer, Vision Products",
-      "url": "https://jobs.apple.com/en-us/details/200657098-0365/sr-embedded-software-development-engineer-vision-products?team=SFTWR",
-      "identifier": "Sr. Embedded Software Development Engineer, Vision_eer-vision-products?team=SFTWR"
-    },
-    {
-      "title": "Engineering Program Manager - ASE / Products & Platform",
-      "url": "https://jobs.apple.com/en-us/details/200651227-0836/engineering-program-manager-ase-products-platform?team=SFTWR",
-      "identifier": "Engineering Program Manager - ASE / Products & Pla_e-products-platform?team=SFTWR"
-    },
-    {
-      "title": "Site Reliability Engineer - Kafka",
-      "url": "https://jobs.apple.com/en-us/details/200654188-3337/site-reliability-engineer-kafka?team=SFTWR",
-      "identifier": "Site Reliability Engineer - Kafka_lity-engineer-kafka?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-11T00:47:58.808462"
+  "timestamp": "2026-04-11T01:05:01.233634"
 }

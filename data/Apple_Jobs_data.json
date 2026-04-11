@@ -4,6 +4,11 @@
   "total_jobs": 17,
   "jobs": [
     {
+      "title": "Machine Learning Engineer, Apple Services Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200656136-3337/machine-learning-engineer-apple-services-engineering?team=SFTWR",
+      "identifier": "Machine Learning Engineer, Apple Services Engineer_ervices-engineering?team=SFTWR"
+    },
+    {
       "title": "iOS Home Application Engineer, Wireless Technologies & Ecosystems",
       "url": "https://jobs.apple.com/en-us/details/200657297-3725/ios-home-application-engineer-wireless-technologies-ecosystems?team=SFTWR",
       "identifier": "iOS Home Application Engineer, Wireless Technologi_nologies-ecosystems?team=SFTWR"
@@ -12,11 +17,6 @@
       "title": "Full-Stack Software Engineer - Device Telemetry",
       "url": "https://jobs.apple.com/en-us/details/200657383-3543/full-stack-software-engineer-device-telemetry?team=SFTWR",
       "identifier": "Full-Stack Software Engineer - Device Telemetry_er-device-telemetry?team=SFTWR"
-    },
-    {
-      "title": "Machine Learning Engineer, Apple Services Engineering",
-      "url": "https://jobs.apple.com/en-us/details/200656136-0836/machine-learning-engineer-apple-services-engineering?team=SFTWR",
-      "identifier": "Machine Learning Engineer, Apple Services Engineer_ervices-engineering?team=SFTWR"
     },
     {
       "title": "Video Content Data Scientist",
@@ -90,5 +90,5 @@
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-11T01:39:04.990720"
+  "timestamp": "2026-04-11T01:56:08.586697"
 }

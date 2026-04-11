@@ -4,6 +4,11 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Full-Stack Software Engineer - Device Telemetry",
+      "url": "https://jobs.apple.com/en-us/details/200657383-3543/full-stack-software-engineer-device-telemetry?team=SFTWR",
+      "identifier": "Full-Stack Software Engineer - Device Telemetry_er-device-telemetry?team=SFTWR"
+    },
+    {
       "title": "Machine Learning Engineer, Apple Services Engineering",
       "url": "https://jobs.apple.com/en-us/details/200656136-0836/machine-learning-engineer-apple-services-engineering?team=SFTWR",
       "identifier": "Machine Learning Engineer, Apple Services Engineer_ervices-engineering?team=SFTWR"
@@ -77,13 +82,8 @@
       "title": "Software Integrity Engineer, Video Apps",
       "url": "https://jobs.apple.com/en-us/details/200651765-0670/software-integrity-engineer-video-apps?team=SFTWR",
       "identifier": "Software Integrity Engineer, Video Apps_engineer-video-apps?team=SFTWR"
-    },
-    {
-      "title": "Embedded Software Development Engineer, Vision Products Group",
-      "url": "https://jobs.apple.com/en-us/details/200657093-0365/embedded-software-development-engineer-vision-products-group?team=SFTWR",
-      "identifier": "Embedded Software Development Engineer, Vision Pro_sion-products-group?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-11T01:05:01.233634"
+  "timestamp": "2026-04-11T01:22:02.512517"
 }

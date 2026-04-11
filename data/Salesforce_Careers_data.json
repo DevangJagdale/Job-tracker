@@ -1,99 +1,14 @@
 {
   "page_title": "Salesforce Jobs | Salesforce Careers",
   "url": "https://careers.salesforce.com/en/jobs/?search=&country=United+States+of+America&team=Data&team=Enterprise+Technology+%26+Infrastructure&team=Software+Engineering&jobtype=New+Grads&pagesize=20#results",
-  "total_jobs": 18,
+  "total_jobs": 1,
   "jobs": [
     {
-      "title": "Customer Success Area Lead",
-      "url": "https://careers.salesforce.com/en/jobs/jr330554/customer-success-area-lead/",
-      "identifier": "Customer Success Area Lead_54/customer-success-area-lead/"
-    },
-    {
-      "title": "Account Solution Engineer, Informatica",
-      "url": "https://careers.salesforce.com/en/jobs/jr336543/account-solution-engineer-informatica/",
-      "identifier": "Account Solution Engineer, Informatica_solution-engineer-informatica/"
-    },
-    {
-      "title": "Senior Executive Assistant to SVP & GM, ASEAN",
-      "url": "https://careers.salesforce.com/en/jobs/jr336985/senior-executive-assistant-to-svp-gm-asean/",
-      "identifier": "Senior Executive Assistant to SVP & GM, ASEAN_ive-assistant-to-svp-gm-asean/"
-    },
-    {
-      "title": "Senior Account Solution Engineer, Mid-Market - Singapore",
-      "url": "https://careers.salesforce.com/en/jobs/jr328670/senior-account-solution-engineer-mid-market-singapore/",
-      "identifier": "Senior Account Solution Engineer, Mid-Market - Sin_engineer-mid-market-singapore/"
-    },
-    {
-      "title": "Technical Architect - Public Sector",
-      "url": "https://careers.salesforce.com/en/jobs/jr328370/technical-architect-public-sector/",
-      "identifier": "Technical Architect - Public Sector_nical-architect-public-sector/"
-    },
-    {
-      "title": "Senior Account Solution Engineer, SMB - Singapore & Vietnam Market",
-      "url": "https://careers.salesforce.com/en/jobs/jr328352/senior-account-solution-engineer-smb-singapore-vietnam-market/",
-      "identifier": "Senior Account Solution Engineer, SMB - Singapore _-smb-singapore-vietnam-market/"
-    },
-    {
-      "title": "Digital 360 Solutions Engineer - Vietnam Market",
-      "url": "https://careers.salesforce.com/en/jobs/jr330846/digital-360-solutions-engineer-vietnam-market/",
-      "identifier": "Digital 360 Solutions Engineer - Vietnam Market_tions-engineer-vietnam-market/"
-    },
-    {
-      "title": "Customer Success Director",
-      "url": "https://careers.salesforce.com/en/jobs/jr324090/customer-success-director/",
-      "identifier": "Customer Success Director_090/customer-success-director/"
-    },
-    {
-      "title": "Customer Success Manager",
-      "url": "https://careers.salesforce.com/en/jobs/jr335085/customer-success-manager/",
-      "identifier": "Customer Success Manager_5085/customer-success-manager/"
-    },
-    {
-      "title": "Account Executive - ESMB, RoAsia",
-      "url": "https://careers.salesforce.com/en/jobs/jr335021/account-executive-esmb-roasia/",
-      "identifier": "Account Executive - ESMB, RoAsia_account-executive-esmb-roasia/"
-    },
-    {
-      "title": "Signature Success Sales Executive",
-      "url": "https://careers.salesforce.com/en/jobs/jr330643/signature-success-sales-executive/",
-      "identifier": "Signature Success Sales Executive_ature-success-sales-executive/"
-    },
-    {
-      "title": "Customer Success Manager - Tableau",
-      "url": "https://careers.salesforce.com/en/jobs/jr334044/customer-success-manager-tableau/",
-      "identifier": "Customer Success Manager - Tableau_tomer-success-manager-tableau/"
-    },
-    {
-      "title": "Tableau Specialist",
-      "url": "https://careers.salesforce.com/en/jobs/jr333862/tableau-specialist/",
-      "identifier": "Tableau Specialist_s/jr333862/tableau-specialist/"
-    },
-    {
-      "title": "Named Account Executive, Malaysia",
-      "url": "https://careers.salesforce.com/en/jobs/jr331968/named-account-executive-malaysia/",
-      "identifier": "Named Account Executive, Malaysia_ed-account-executive-malaysia/"
-    },
-    {
-      "title": "Prime Named Account Executive, Informatica - Vietnam",
-      "url": "https://careers.salesforce.com/en/jobs/jr328406/prime-named-account-executive-informatica-vietnam/",
-      "identifier": "Prime Named Account Executive, Informatica - Vietn_executive-informatica-vietnam/"
-    },
-    {
-      "title": "Principal Data and AI Architect",
-      "url": "https://careers.salesforce.com/en/jobs/jr331279/principal-data-and-ai-architect/",
-      "identifier": "Principal Data and AI Architect_incipal-data-and-ai-architect/"
-    },
-    {
-      "title": "Named Account Executive - Public Sector, Singapore",
-      "url": "https://careers.salesforce.com/en/jobs/jr331752/named-account-executive-public-sector-singapore/",
-      "identifier": "Named Account Executive - Public Sector, Singapore_utive-public-sector-singapore/"
-    },
-    {
-      "title": "Enterprise Corporate Sales Account Executive - Singapore",
-      "url": "https://careers.salesforce.com/en/jobs/jr331755/enterprise-corporate-sales-account-executive-singapore/",
-      "identifier": "Enterprise Corporate Sales Account Executive - Sin_s-account-executive-singapore/"
+      "title": "Software Engineering AMTS (College Grad)",
+      "url": "https://careers.salesforce.com/en/jobs/jr330400/software-engineering-amts-college-grad/",
+      "identifier": "Software Engineering AMTS (College Grad)_engineering-amts-college-grad/"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-11T13:03:13.101786"
+  "timestamp": "2026-04-11T13:20:21.350161"
 }

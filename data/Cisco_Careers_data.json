@@ -1,7 +1,7 @@
 {
   "page_title": "Job Openings - Cisco Careers",
   "url": "https://careers.cisco.com/global/en/search-results?s=1",
-  "total_jobs": 10,
+  "total_jobs": 9,
   "jobs": [
     {
       "title": "Software Engineer Front-End I (Full-Time) United States",
@@ -24,11 +24,6 @@
       "identifier": "Technical Sales Engineer Intern (United States)_-Engineer-Intern-United-States"
     },
     {
-      "title": "Strategy and Operations Manager MBA (Full Time) - United States",
-      "url": "https://careers.cisco.com/global/en/job/2011072/Strategy-and-Operations-Manager-MBA-Full-Time-United-States",
-      "identifier": "Strategy and Operations Manager MBA (Full Time) - _er-MBA-Full-Time-United-States"
-    },
-    {
       "title": "UI/UX Designer I (Full Time) - United States",
       "url": "https://careers.cisco.com/global/en/job/2009286/UI-UX-Designer-I-Full-Time-United-States",
       "identifier": "UI/UX Designer I (Full Time) - United States_gner-I-Full-Time-United-States"
@@ -39,11 +34,6 @@
       "identifier": "Business Analyst I (Full Time) United States_lyst-I-Full-Time-United-States"
     },
     {
-      "title": "Corporate Strategy Manager MBA (Intern) - United States",
-      "url": "https://careers.cisco.com/global/en/job/2006310/Corporate-Strategy-Manager-MBA-Intern-United-States",
-      "identifier": "Corporate Strategy Manager MBA (Intern) - United S_nager-MBA-Intern-United-States"
-    },
-    {
       "title": "Customer Experience Project Specialist I (Full-Time) - United States",
       "url": "https://careers.cisco.com/global/en/job/2001576/Customer-Experience-Project-Specialist-I-Full-Time-United-States",
       "identifier": "Customer Experience Project Specialist I (Full-Tim_list-I-Full-Time-United-States"
@@ -52,8 +42,13 @@
       "title": "Global Supply Chain RISE Rotational Program I (Full Time) - United States",
       "url": "https://careers.cisco.com/global/en/job/2011309/Global-Supply-Chain-RISE-Rotational-Program-I-Full-Time-United-States",
       "identifier": "Global Supply Chain RISE Rotational Program I (Ful_gram-I-Full-Time-United-States"
+    },
+    {
+      "title": "Sales Development Representative II (Full Time) United States (Virtual Demand Center) - United States",
+      "url": "https://careers.cisco.com/global/en/job/2008662/Sales-Development-Representative-II-Full-Time-United-States-Virtual-Demand-Center-United-States",
+      "identifier": "Sales Development Representative II (Full Time) Un_al-Demand-Center-United-States"
     }
   ],
-  "job_count_text": "11",
-  "timestamp": "2026-04-12T17:50:04.668539"
+  "job_count_text": "9",
+  "timestamp": "2026-04-12T18:07:15.742335"
 }

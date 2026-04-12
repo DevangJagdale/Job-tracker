@@ -24,11 +24,6 @@
       "identifier": "Product Engineer, Embedded DEG\nManassas, Virginia,_icron.com/careers/job/41286459"
     },
     {
-      "title": "Semiconductor Design Engineer\nRichardson, Texas, United States of America\nPosted 3 days ago",
-      "url": "https://careers.micron.com/careers/job/41139930",
-      "identifier": "Semiconductor Design Engineer\nRichardson, Texas, U_icron.com/careers/job/41139930"
-    },
-    {
       "title": "Semiconductor Process Engineer, Metrology\nBoise, Idaho, United States of America\nPosted 3 days ago",
       "url": "https://careers.micron.com/careers/job/39196650",
       "identifier": "Semiconductor Process Engineer, Metrology\nBoise, I_icron.com/careers/job/39196650"
@@ -37,6 +32,11 @@
       "title": "HVM Area Manufacturing Engineer - Diffusion/Implant\nBoise, Idaho, United States of America\nPosted 3 days ago",
       "url": "https://careers.micron.com/careers/job/41381271",
       "identifier": "HVM Area Manufacturing Engineer - Diffusion/Implan_icron.com/careers/job/41381271"
+    },
+    {
+      "title": "Semiconductor Design Engineer\nRichardson, Texas, United States of America\nPosted 3 days ago",
+      "url": "https://careers.micron.com/careers/job/41139930",
+      "identifier": "Semiconductor Design Engineer\nRichardson, Texas, U_icron.com/careers/job/41139930"
     },
     {
       "title": "Process Integration Engineer\nBoise, Idaho, United States of America\nPosted 3 days ago",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "74",
-  "timestamp": "2026-04-12T03:56:43.537593"
+  "timestamp": "2026-04-12T04:13:47.721321"
 }

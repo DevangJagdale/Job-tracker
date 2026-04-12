@@ -14,14 +14,14 @@
       "identifier": "Sr. Cybersecurity Engineer_ang=en-us&previousLocale=en-US"
     },
     {
-      "title": "Cloud Engineering Intern",
-      "url": "https://careers.rivian.com/careers-home/jobs/30258?lang=en-us&previousLocale=en-US",
-      "identifier": "Cloud Engineering Intern_ang=en-us&previousLocale=en-US"
-    },
-    {
       "title": "Staff IT Solutions Engineer, Collaboration Platforms",
       "url": "https://careers.rivian.com/careers-home/jobs/28983?lang=en-us&previousLocale=en-US",
       "identifier": "Staff IT Solutions Engineer, Collaboration Platfor_ang=en-us&previousLocale=en-US"
+    },
+    {
+      "title": "Cloud Engineering Intern",
+      "url": "https://careers.rivian.com/careers-home/jobs/30258?lang=en-us&previousLocale=en-US",
+      "identifier": "Cloud Engineering Intern_ang=en-us&previousLocale=en-US"
     },
     {
       "title": "Senior iOS Engineer - Trip Planner Mobile",
@@ -60,5 +60,5 @@
     }
   ],
   "job_count_text": "48",
-  "timestamp": "2026-04-12T10:56:36.328134"
+  "timestamp": "2026-04-12T11:13:38.643200"
 }

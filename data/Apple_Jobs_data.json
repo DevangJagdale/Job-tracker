@@ -1,8 +1,13 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 18,
+  "total_jobs": 17,
   "jobs": [
+    {
+      "title": "Staff Data Engineer - Experimentation",
+      "url": "https://jobs.apple.com/en-us/details/200618200-2621/staff-data-engineer-experimentation?team=SFTWR",
+      "identifier": "Staff Data Engineer - Experimentation_eer-experimentation?team=SFTWR"
+    },
     {
       "title": "Software Engineer (Full Stack), eBusiness Services",
       "url": "https://jobs.apple.com/en-us/details/200655517-0157/software-engineer-full-stack-ebusiness-services?team=SFTWR",
@@ -82,18 +87,8 @@
       "title": "Wireless Software Engineer, Wireless Technologies & Ecosystems",
       "url": "https://jobs.apple.com/en-us/details/200656391-3543/wireless-software-engineer-wireless-technologies-ecosystems?team=SFTWR",
       "identifier": "Wireless Software Engineer, Wireless Technologies _nologies-ecosystems?team=SFTWR"
-    },
-    {
-      "title": "Software Developer in Test, Find My",
-      "url": "https://jobs.apple.com/en-us/details/200657304-0836/software-developer-in-test-find-my?team=SFTWR",
-      "identifier": "Software Developer in Test, Find My_per-in-test-find-my?team=SFTWR"
-    },
-    {
-      "title": "Senior Software Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200656816-0157/senior-software-engineer?team=SFTWR",
-      "identifier": "Senior Software Engineer_r-software-engineer?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-13T12:51:49.508765"
+  "timestamp": "2026-04-13T13:08:57.187142"
 }

@@ -4,6 +4,16 @@
   "total_jobs": 20,
   "jobs": [
     {
+      "title": "AMD Public-Dallas-Associate-Software Engineering\nDallas\u00b7United States\n\u00b7Associate",
+      "url": "https://higher.gs.com/roles/166621",
+      "identifier": "AMD Public-Dallas-Associate-Software Engineering\nD_s://higher.gs.com/roles/166621"
+    },
+    {
+      "title": "AMD Public-Salt Lake City-Associate-Software Engineering\nSalt Lake City\u00b7United States\n\u00b7Associate",
+      "url": "https://higher.gs.com/roles/165919",
+      "identifier": "AMD Public-Salt Lake City-Associate-Software Engin_s://higher.gs.com/roles/165919"
+    },
+    {
       "title": "Software Engineer, Global Banking & Markets, Investment Banking\nDallas\u00b7United States\n\u00b7Associate",
       "url": "https://higher.gs.com/roles/161630",
       "identifier": "Software Engineer, Global Banking & Markets, Inves_s://higher.gs.com/roles/161630"
@@ -29,11 +39,6 @@
       "identifier": "Asset & Wealth Management - Front End Developer - _s://higher.gs.com/roles/167760"
     },
     {
-      "title": "AMD Public-Dallas-Associate-Software Engineering\nDallas\u00b7United States\n\u00b7Associate",
-      "url": "https://higher.gs.com/roles/166621",
-      "identifier": "AMD Public-Dallas-Associate-Software Engineering\nD_s://higher.gs.com/roles/166621"
-    },
-    {
       "title": "Asset & Wealth Management - Software Engineer - Analyst - New York\nNew York\u00b7United States\n\u00b7Analyst",
       "url": "https://higher.gs.com/roles/166075",
       "identifier": "Asset & Wealth Management - Software Engineer - An_s://higher.gs.com/roles/166075"
@@ -52,11 +57,6 @@
       "title": "Asset & Wealth Management-Software Engineering-Associate-Richardson\nRichardson\u00b7United States\n\u00b7Associate",
       "url": "https://higher.gs.com/roles/164031",
       "identifier": "Asset & Wealth Management-Software Engineering-Ass_s://higher.gs.com/roles/164031"
-    },
-    {
-      "title": "AMD Public-Salt Lake City-Associate-Software Engineering\nSalt Lake City\u00b7United States\n\u00b7Associate",
-      "url": "https://higher.gs.com/roles/165919",
-      "identifier": "AMD Public-Salt Lake City-Associate-Software Engin_s://higher.gs.com/roles/165919"
     },
     {
       "title": "Asset & Wealth Management - Software Engineer - Associate - Dallas\nDallas\u00b7United States\n\u00b7Associate",
@@ -105,5 +105,5 @@
     }
   ],
   "job_count_text": "48",
-  "timestamp": "2026-04-13T08:44:32.934091"
+  "timestamp": "2026-04-13T09:01:33.452340"
 }

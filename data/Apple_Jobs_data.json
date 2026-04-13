@@ -4,6 +4,11 @@
   "total_jobs": 15,
   "jobs": [
     {
+      "title": "Data Engineer, App Insights Engineering, Services Data Science & Analytics",
+      "url": "https://jobs.apple.com/en-us/details/200657274-0157/data-engineer-app-insights-engineering-services-data-science-analytics?team=MLAI",
+      "identifier": "Data Engineer, App Insights Engineering, Services _ta-science-analytics?team=MLAI"
+    },
+    {
       "title": "Software Development Engineer, Apps & Frameworks",
       "url": "https://jobs.apple.com/en-us/details/200657655-0836/software-development-engineer-apps-frameworks?team=SFTWR",
       "identifier": "Software Development Engineer, Apps & Frameworks_eer-apps-frameworks?team=SFTWR"
@@ -32,11 +37,6 @@
       "title": "Cellular Software Performance Engineer, Wireless Technologies & Ecosystems",
       "url": "https://jobs.apple.com/en-us/details/200656961-3956/cellular-software-performance-engineer-wireless-technologies-ecosystems?team=SFTWR",
       "identifier": "Cellular Software Performance Engineer, Wireless T_nologies-ecosystems?team=SFTWR"
-    },
-    {
-      "title": "Data Engineer, App Insights Engineering, Services Data Science & Analytics",
-      "url": "https://jobs.apple.com/en-us/details/200657274-0157/data-engineer-app-insights-engineering-services-data-science-analytics?team=MLAI",
-      "identifier": "Data Engineer, App Insights Engineering, Services _ta-science-analytics?team=MLAI"
     },
     {
       "title": "WebKit Test Integrity Engineer",
@@ -80,5 +80,5 @@
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-13T23:05:13.609556"
+  "timestamp": "2026-04-13T23:22:19.814078"
 }

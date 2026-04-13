@@ -1,8 +1,33 @@
 {
   "page_title": "Search our Job Opportunities at Barclays",
   "url": "https://search.jobs.barclays/search-jobs/United%20States/13015/2/6252001/39x76/-98x5/50/2",
-  "total_jobs": 16,
+  "total_jobs": 13,
   "jobs": [
+    {
+      "title": "Director, Workplace and Collaboration Technology New York",
+      "url": "https://search.jobs.barclays/job/new-york/director-workplace-and-collaboration-technology-new-york/13015/93918194112",
+      "identifier": "Director, Workplace and Collaboration Technology N_ogy-new-york/13015/93918194112"
+    },
+    {
+      "title": "Personal Assistant & Administration",
+      "url": "https://search.jobs.barclays/job/new-york/personal-assistant-and-administration/13015/93918193056",
+      "identifier": "Personal Assistant & Administration_ministration/13015/93918193056"
+    },
+    {
+      "title": "Technology Delivery Manager - VP",
+      "url": "https://search.jobs.barclays/job/new-york/technology-delivery-manager-vp/13015/93918192048",
+      "identifier": "Technology Delivery Manager - VP_y-manager-vp/13015/93918192048"
+    },
+    {
+      "title": "Senior Business Analyst - AVP",
+      "url": "https://search.jobs.barclays/job/whippany/senior-business-analyst-avp/13015/93918158640",
+      "identifier": "Senior Business Analyst - AVP_-analyst-avp/13015/93918158640"
+    },
+    {
+      "title": "Business Analyst \u2013 BA4",
+      "url": "https://search.jobs.barclays/job/whippany/business-analyst-ba4/13015/93918158592",
+      "identifier": "Business Analyst \u2013 BA4_-analyst-ba4/13015/93918158592"
+    },
     {
       "title": "Quantitative Investment Strategies, AVP",
       "url": "https://search.jobs.barclays/job/new-york/quantitative-investment-strategies-avp/13015/93816660352",
@@ -42,48 +67,8 @@
       "title": "Airlines Field Engagement Manager",
       "url": "https://search.jobs.barclays/job/texas-city/airlines-field-engagement-manager/13015/93779281056",
       "identifier": "Airlines Field Engagement Manager_ment-manager/13015/93779281056"
-    },
-    {
-      "title": "AVP, Developer",
-      "url": "https://search.jobs.barclays/job/new-york/avp-developer/13015/93764360304",
-      "identifier": "AVP, Developer_vp-developer/13015/93764360304"
-    },
-    {
-      "title": "Securitized Products CRE Attorney",
-      "url": "https://search.jobs.barclays/job/new-york/securitized-products-cre-attorney/13015/93764357328",
-      "identifier": "Securitized Products CRE Attorney_cre-attorney/13015/93764357328"
-    },
-    {
-      "title": "Legal Hold Specialist",
-      "url": "https://search.jobs.barclays/job/whippany/legal-hold-specialist/13015/93764357312",
-      "identifier": "Legal Hold Specialist_d-specialist/13015/93764357312"
-    },
-    {
-      "title": "Strategy and Cross Banking Compliance - VP",
-      "url": "https://search.jobs.barclays/job/new-york/strategy-and-cross-banking-compliance-vp/13015/93764335184",
-      "identifier": "Strategy and Cross Banking Compliance - VP_ompliance-vp/13015/93764335184"
-    },
-    {
-      "title": "Voice Solutions Delivery Engineer - AVP",
-      "url": "https://search.jobs.barclays/job/whippany/voice-solutions-delivery-engineer-avp/13015/93738670960",
-      "identifier": "Voice Solutions Delivery Engineer - AVP_engineer-avp/13015/93738670960"
-    },
-    {
-      "title": "Director, Head of TMT Coverage - International Corporate Banking Americas",
-      "url": "https://search.jobs.barclays/job/new-york/director-head-of-tmt-coverage-international-corporate-banking-americas/13015/93738666320",
-      "identifier": "Director, Head of TMT Coverage - International Cor_ing-americas/13015/93738666320"
-    },
-    {
-      "title": "Production Support Engineer \u2013 BA4",
-      "url": "https://search.jobs.barclays/job/whippany/production-support-engineer-ba4/13015/93700006576",
-      "identifier": "Production Support Engineer \u2013 BA4_engineer-ba4/13015/93700006576"
-    },
-    {
-      "title": "Internal Audit - Financial Crime AVP",
-      "url": "https://search.jobs.barclays/job/wilmington/internal-audit-financial-crime-avp/13015/93686859072",
-      "identifier": "Internal Audit - Financial Crime AVP_al-crime-avp/13015/93686859072"
     }
   ],
-  "job_count_text": "100",
-  "timestamp": "2026-04-13T17:32:49.894105"
+  "job_count_text": "111",
+  "timestamp": "2026-04-13T17:49:52.639850"
 }

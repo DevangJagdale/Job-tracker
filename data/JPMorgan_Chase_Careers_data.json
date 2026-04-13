@@ -24,9 +24,24 @@
       "identifier": "jpmc_210733790"
     },
     {
+      "title": "Applied AI ML-Vice President",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210734942/?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
+      "identifier": "jpmc_210734942"
+    },
+    {
+      "title": "Applied AI ML-Executive Director",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210735396/?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
+      "identifier": "jpmc_210735396"
+    },
+    {
       "title": "Software Engineer II- Test Automation",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210694766/?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
       "identifier": "jpmc_210694766"
+    },
+    {
+      "title": "Manager of Software Engineering (Java/AWS)",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210712718/?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
+      "identifier": "jpmc_210712718"
     },
     {
       "title": "Python Engineer, Senior Associate",
@@ -112,23 +127,8 @@
       "title": "Applied AI ML Engineer-Senior Associate",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210733857/?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
       "identifier": "jpmc_210733857"
-    },
-    {
-      "title": "Business Modeling Team - Quant Modeling Lead",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210734280/?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
-      "identifier": "jpmc_210734280"
-    },
-    {
-      "title": "Lead Software Engineer - Java Full Stack",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210693053/?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
-      "identifier": "jpmc_210693053"
-    },
-    {
-      "title": "Lead Software Engineer - Artifactory/Kuberns/Java/Springboot/AWS",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210702515/?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
-      "identifier": "jpmc_210702515"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-13T17:35:23.228994"
+  "timestamp": "2026-04-13T17:52:25.785086"
 }

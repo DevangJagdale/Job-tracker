@@ -1,33 +1,8 @@
 {
   "page_title": "Job Openings - Cisco Careers",
   "url": "https://careers.cisco.com/global/en/search-results?s=1",
-  "total_jobs": 10,
+  "total_jobs": 8,
   "jobs": [
-    {
-      "title": "Software Engineer - Development",
-      "url": "https://careers.cisco.com/global/en/job/2008714/Software-Engineer-Development",
-      "identifier": "Software Engineer - Development_/Software-Engineer-Development"
-    },
-    {
-      "title": "Software Engineer",
-      "url": "https://careers.cisco.com/global/en/job/2006629/Software-Engineer",
-      "identifier": "Software Engineer_/job/2006629/Software-Engineer"
-    },
-    {
-      "title": "Software Development Test Engineer",
-      "url": "https://careers.cisco.com/global/en/job/2008813/Software-Development-Test-Engineer",
-      "identifier": "Software Development Test Engineer_ware-Development-Test-Engineer"
-    },
-    {
-      "title": "Software Engineer (AI/Data Engineering)",
-      "url": "https://careers.cisco.com/global/en/job/2011631/Software-Engineer-AI-Data-Engineering",
-      "identifier": "Software Engineer (AI/Data Engineering)_e-Engineer-AI-Data-Engineering"
-    },
-    {
-      "title": "Technical Consulting Engineer/Technical Support",
-      "url": "https://careers.cisco.com/global/en/job/2012235/Technical-Consulting-Engineer-Technical-Support",
-      "identifier": "Technical Consulting Engineer/Technical Support_ing-Engineer-Technical-Support"
-    },
     {
       "title": "Field Sales Intern (United States)",
       "url": "https://careers.cisco.com/global/en/job/2012189/Field-Sales-Intern-United-States",
@@ -49,11 +24,26 @@
       "identifier": "UI/UX Designer I (Full Time) - United States_gner-I-Full-Time-United-States"
     },
     {
-      "title": "Technical Marketing Engineer",
-      "url": "https://careers.cisco.com/global/en/job/2011421/Technical-Marketing-Engineer",
-      "identifier": "Technical Marketing Engineer_1/Technical-Marketing-Engineer"
+      "title": "Business Analyst I (Full Time) United States",
+      "url": "https://careers.cisco.com/global/en/job/2000125/Business-Analyst-I-Full-Time-United-States",
+      "identifier": "Business Analyst I (Full Time) United States_lyst-I-Full-Time-United-States"
+    },
+    {
+      "title": "Customer Experience Project Specialist I (Full-Time) - United States",
+      "url": "https://careers.cisco.com/global/en/job/2001576/Customer-Experience-Project-Specialist-I-Full-Time-United-States",
+      "identifier": "Customer Experience Project Specialist I (Full-Tim_list-I-Full-Time-United-States"
+    },
+    {
+      "title": "Global Supply Chain RISE Rotational Program I (Full Time) - United States",
+      "url": "https://careers.cisco.com/global/en/job/2011309/Global-Supply-Chain-RISE-Rotational-Program-I-Full-Time-United-States",
+      "identifier": "Global Supply Chain RISE Rotational Program I (Ful_gram-I-Full-Time-United-States"
+    },
+    {
+      "title": "Sales Development Representative II (Full Time) United States (Virtual Demand Center) - United States",
+      "url": "https://careers.cisco.com/global/en/job/2008662/Sales-Development-Representative-II-Full-Time-United-States-Virtual-Demand-Center-United-States",
+      "identifier": "Sales Development Representative II (Full Time) Un_al-Demand-Center-United-States"
     }
   ],
-  "job_count_text": "46",
-  "timestamp": "2026-04-13T13:27:48.986760"
+  "job_count_text": "8",
+  "timestamp": "2026-04-13T13:44:58.312741"
 }

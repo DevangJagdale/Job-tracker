@@ -1,49 +1,34 @@
 {
   "page_title": "Search CVS Health Jobs | Find Your Next Career Opportunity",
   "url": "https://jobs.cvshealth.com/us/en/search-results",
-  "total_jobs": 8,
+  "total_jobs": 5,
   "jobs": [
     {
-      "title": "Senior Product Manager \u2013 Payor Analytics",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0845822/Senior-Product-Manager-Payor-Analytics",
-      "identifier": "Senior Product Manager \u2013 Payor Analytics_roduct-Manager-Payor-Analytics"
+      "title": "Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0881142/Software-Development-Engineer",
+      "identifier": "Software Development Engineer_/Software-Development-Engineer"
     },
     {
-      "title": "Senior Manager Software Development Engineering",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0875238/Senior-Manager-Software-Development-Engineering",
-      "identifier": "Senior Manager Software Development Engineering_ftware-Development-Engineering"
+      "title": "Associate Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0881131/Associate-Software-Development-Engineer",
+      "identifier": "Associate Software Development Engineer_-Software-Development-Engineer"
     },
     {
-      "title": "Senior Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0877668/Senior-Software-Development-Engineer",
-      "identifier": "Senior Software Development Engineer_-Software-Development-Engineer"
+      "title": "Field Service Technician Castle Rock/Aurora/Highlands Ranch CO",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0825872/Field-Service-Technician-Castle-Rock-Aurora-Highlands-Ranch-CO",
+      "identifier": "Field Service Technician Castle Rock/Aurora/Highla_Rock-Aurora-Highlands-Ranch-CO"
     },
     {
-      "title": "RPA Support Lead",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0880690/RPA-Support-Lead",
-      "identifier": "RPA Support Lead_/job/R0880690/RPA-Support-Lead"
+      "title": "Lead Director - Frictionless Provider Experience",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0861079/Lead-Director-Frictionless-Provider-Experience",
+      "identifier": "Lead Director - Frictionless Provider Experience_ictionless-Provider-Experience"
     },
     {
-      "title": "Lead Data Scientist - Agentic AI - Patient Safety",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0820452/Lead-Data-Scientist-Agentic-AI-Patient-Safety",
-      "identifier": "Lead Data Scientist - Agentic AI - Patient Safety_tist-Agentic-AI-Patient-Safety"
-    },
-    {
-      "title": "Staff Software Development Engineer (IBMi/AS400)",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0874917/Staff-Software-Development-Engineer-IBMi-AS400",
-      "identifier": "Staff Software Development Engineer (IBMi/AS400)_evelopment-Engineer-IBMi-AS400"
-    },
-    {
-      "title": "Mgr, Claims Technical Analyst (Medicaid Intake Operations)",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0846807/Mgr-Claims-Technical-Analyst-Medicaid-Intake-Operations",
-      "identifier": "Mgr, Claims Technical Analyst (Medicaid Intake Ope_yst-Medicaid-Intake-Operations"
-    },
-    {
-      "title": "Senior Secrets Management Engineer - Akeyless",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0881583/Senior-Secrets-Management-Engineer-Akeyless",
-      "identifier": "Senior Secrets Management Engineer - Akeyless_s-Management-Engineer-Akeyless"
+      "title": "Epic Ambulatory Support Analyst",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0882401/Epic-Ambulatory-Support-Analyst",
+      "identifier": "Epic Ambulatory Support Analyst_pic-Ambulatory-Support-Analyst"
     }
   ],
-  "job_count_text": "217",
-  "timestamp": "2026-04-13T09:37:32.747438"
+  "job_count_text": "38",
+  "timestamp": "2026-04-13T09:54:33.300851"
 }

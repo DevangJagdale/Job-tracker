@@ -1,34 +1,49 @@
 {
   "page_title": "Search CVS Health Jobs | Find Your Next Career Opportunity",
   "url": "https://jobs.cvshealth.com/us/en/search-results",
-  "total_jobs": 5,
+  "total_jobs": 8,
   "jobs": [
     {
-      "title": "Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0881142/Software-Development-Engineer",
-      "identifier": "Software Development Engineer_/Software-Development-Engineer"
+      "title": "Senior Integration - Site Reliability Engineer (SRE)",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0834201/Senior-Integration-Site-Reliability-Engineer-SRE",
+      "identifier": "Senior Integration - Site Reliability Engineer (SR_-Site-Reliability-Engineer-SRE"
+    },
+    {
+      "title": "Senior Front End Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0805983/Senior-Front-End-Engineer",
+      "identifier": "Senior Front End Engineer_5983/Senior-Front-End-Engineer"
+    },
+    {
+      "title": "Senior Engineering Manager",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0877251/Senior-Engineering-Manager",
+      "identifier": "Senior Engineering Manager_251/Senior-Engineering-Manager"
+    },
+    {
+      "title": "Technical Support Representative",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0864462/Technical-Support-Representative",
+      "identifier": "Technical Support Representative_chnical-Support-Representative"
     },
     {
       "title": "Associate Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0881131/Associate-Software-Development-Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0883983/Associate-Software-Development-Engineer",
       "identifier": "Associate Software Development Engineer_-Software-Development-Engineer"
     },
     {
-      "title": "Field Service Technician Castle Rock/Aurora/Highlands Ranch CO",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0825872/Field-Service-Technician-Castle-Rock-Aurora-Highlands-Ranch-CO",
-      "identifier": "Field Service Technician Castle Rock/Aurora/Highla_Rock-Aurora-Highlands-Ranch-CO"
+      "title": "Director of Automation Engineering - Pharmacy Products",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0878872/Director-of-Automation-Engineering-Pharmacy-Products",
+      "identifier": "Director of Automation Engineering - Pharmacy Prod_-Engineering-Pharmacy-Products"
     },
     {
-      "title": "Lead Director - Frictionless Provider Experience",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0861079/Lead-Director-Frictionless-Provider-Experience",
-      "identifier": "Lead Director - Frictionless Provider Experience_ictionless-Provider-Experience"
+      "title": "Senior Engineering Manager",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0877327/Senior-Engineering-Manager",
+      "identifier": "Senior Engineering Manager_327/Senior-Engineering-Manager"
     },
     {
-      "title": "Epic Ambulatory Support Analyst",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0882401/Epic-Ambulatory-Support-Analyst",
-      "identifier": "Epic Ambulatory Support Analyst_pic-Ambulatory-Support-Analyst"
+      "title": "Principal Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0762980/Principal-Software-Development-Engineer",
+      "identifier": "Principal Software Development Engineer_-Software-Development-Engineer"
     }
   ],
-  "job_count_text": "38",
-  "timestamp": "2026-04-13T17:17:23.279525"
+  "job_count_text": "49",
+  "timestamp": "2026-04-13T17:34:22.861301"
 }

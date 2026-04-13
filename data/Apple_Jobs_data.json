@@ -1,8 +1,18 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 15,
+  "total_jobs": 16,
   "jobs": [
+    {
+      "title": "Sr. iOS Software Engineer, Apple Books",
+      "url": "https://jobs.apple.com/en-us/details/200657046-0836/sr-ios-software-engineer-apple-books?team=SFTWR",
+      "identifier": "Sr. iOS Software Engineer, Apple Books_ngineer-apple-books?team=SFTWR"
+    },
+    {
+      "title": "Sr Full-stack Software Engineer, AIML Data Operations",
+      "url": "https://jobs.apple.com/en-us/details/200657341-0836/sr-full-stack-software-engineer-aiml-data-operations?team=SFTWR",
+      "identifier": "Sr Full-stack Software Engineer, AIML Data Operati_iml-data-operations?team=SFTWR"
+    },
     {
       "title": "Software Engineer (Data Solutions), AI & Data Platforms (AiDP)",
       "url": "https://jobs.apple.com/en-us/details/200639135-0157/software-engineer-data-solutions-ai-data-platforms-aidp?team=SFTWR",
@@ -72,13 +82,8 @@
       "title": "Frameworks Engineer",
       "url": "https://jobs.apple.com/en-us/details/200657209-0836/frameworks-engineer?team=SFTWR",
       "identifier": "Frameworks Engineer_frameworks-engineer?team=SFTWR"
-    },
-    {
-      "title": "Engineering Project Manager, Shared Frameworks, Apps",
-      "url": "https://jobs.apple.com/en-us/details/200656973-0836/engineering-project-manager-shared-frameworks-apps?team=SFTWR",
-      "identifier": "Engineering Project Manager, Shared Frameworks, Ap_red-frameworks-apps?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-13T17:16:21.993839"
+  "timestamp": "2026-04-13T17:33:21.987939"
 }

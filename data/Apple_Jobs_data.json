@@ -4,6 +4,21 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Storage Site Reliability Engineer - Apple Service Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200657371-3337/storage-site-reliability-engineer-apple-service-engineering?team=SFTWR",
+      "identifier": "Storage Site Reliability Engineer - Apple Service _service-engineering?team=SFTWR"
+    },
+    {
+      "title": "Senior Data Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200657115-3337/senior-data-engineer?team=SFTWR",
+      "identifier": "Senior Data Engineer_enior-data-engineer?team=SFTWR"
+    },
+    {
+      "title": "Software Engineering Manager",
+      "url": "https://jobs.apple.com/en-us/details/200657101-0836/software-engineering-manager?team=SFTWR",
+      "identifier": "Software Engineering Manager_engineering-manager?team=SFTWR"
+    },
+    {
       "title": "Trust & Safety Data Lake Software Engineer",
       "url": "https://jobs.apple.com/en-us/details/200656145-3337/trust-safety-data-lake-software-engineer?team=SFTWR",
       "identifier": "Trust & Safety Data Lake Software Engineer_e-software-engineer?team=SFTWR"
@@ -67,23 +82,8 @@
       "title": "Camera Software Frameworks Engineer",
       "url": "https://jobs.apple.com/en-us/details/200657326-0836/camera-software-frameworks-engineer?team=SFTWR",
       "identifier": "Camera Software Frameworks Engineer_frameworks-engineer?team=SFTWR"
-    },
-    {
-      "title": "Technology and Metrology Engineering Program Manager - Display",
-      "url": "https://jobs.apple.com/en-us/details/200647177-0836/technology-and-metrology-engineering-program-manager-display?team=SFTWR",
-      "identifier": "Technology and Metrology Engineering Program Manag_ram-manager-display?team=SFTWR"
-    },
-    {
-      "title": "Sr Software Engineering Manager, AIML Data Operations",
-      "url": "https://jobs.apple.com/en-us/details/200646828-0836/sr-software-engineering-manager-aiml-data-operations?team=SFTWR",
-      "identifier": "Sr Software Engineering Manager, AIML Data Operati_iml-data-operations?team=SFTWR"
-    },
-    {
-      "title": "Machine Learning Engineer - Large Language Models & Generative AI Inference",
-      "url": "https://jobs.apple.com/en-us/details/200655756-0836/machine-learning-engineer-large-language-models-generative-ai-inference?team=MLAI",
-      "identifier": "Machine Learning Engineer - Large Language Models _erative-ai-inference?team=MLAI"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-13T16:51:45.192913"
+  "timestamp": "2026-04-13T16:59:19.575513"
 }

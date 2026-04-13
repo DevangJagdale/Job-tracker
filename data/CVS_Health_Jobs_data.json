@@ -5,18 +5,8 @@
   "jobs": [
     {
       "title": "Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0881142/Software-Development-Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0880835/Software-Development-Engineer",
       "identifier": "Software Development Engineer_/Software-Development-Engineer"
-    },
-    {
-      "title": "Associate Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0881131/Associate-Software-Development-Engineer",
-      "identifier": "Associate Software Development Engineer_-Software-Development-Engineer"
-    },
-    {
-      "title": "Field Service Technician Castle Rock/Aurora/Highlands Ranch CO",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0825872/Field-Service-Technician-Castle-Rock-Aurora-Highlands-Ranch-CO",
-      "identifier": "Field Service Technician Castle Rock/Aurora/Highla_Rock-Aurora-Highlands-Ranch-CO"
     },
     {
       "title": "Lead Director - Frictionless Provider Experience",
@@ -27,8 +17,18 @@
       "title": "Epic Ambulatory Support Analyst",
       "url": "https://jobs.cvshealth.com/us/en/job/R0882401/Epic-Ambulatory-Support-Analyst",
       "identifier": "Epic Ambulatory Support Analyst_pic-Ambulatory-Support-Analyst"
+    },
+    {
+      "title": "Associate Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0882169/Associate-Software-Development-Engineer",
+      "identifier": "Associate Software Development Engineer_-Software-Development-Engineer"
+    },
+    {
+      "title": "Senior Analyst, Business Analysis",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0877444/Senior-Analyst-Business-Analysis",
+      "identifier": "Senior Analyst, Business Analysis_nior-Analyst-Business-Analysis"
     }
   ],
   "job_count_text": "38",
-  "timestamp": "2026-04-13T08:29:20.091151"
+  "timestamp": "2026-04-13T08:46:22.883583"
 }

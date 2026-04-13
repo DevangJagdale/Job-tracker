@@ -1,8 +1,18 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 15,
+  "total_jobs": 14,
   "jobs": [
+    {
+      "title": "Maps Operations Program Lead",
+      "url": "https://jobs.apple.com/en-us/details/200657310-0157/maps-operations-program-lead?team=SFTWR",
+      "identifier": "Maps Operations Program Lead_ations-program-lead?team=SFTWR"
+    },
+    {
+      "title": "Bluetooth Software Engineer, Wireless Technologies & Ecosystems",
+      "url": "https://jobs.apple.com/en-us/details/200657556-0836/bluetooth-software-engineer-wireless-technologies-ecosystems?team=SFTWR",
+      "identifier": "Bluetooth Software Engineer, Wireless Technologies_nologies-ecosystems?team=SFTWR"
+    },
     {
       "title": "Game Engineer, Platform Architecture",
       "url": "https://jobs.apple.com/en-us/details/200657551-0157/game-engineer-platform-architecture?team=SFTWR",
@@ -62,23 +72,8 @@
       "title": "Software Engineer, Trusted Execution (Security Systems)",
       "url": "https://jobs.apple.com/en-us/details/200657451-0836/software-engineer-trusted-execution-security-systems?team=SFTWR",
       "identifier": "Software Engineer, Trusted Execution (Security Sys_on-security-systems?team=SFTWR"
-    },
-    {
-      "title": "Machine Learning Engineer, Apple Services Engineering",
-      "url": "https://jobs.apple.com/en-us/details/200656136-3337/machine-learning-engineer-apple-services-engineering?team=SFTWR",
-      "identifier": "Machine Learning Engineer, Apple Services Engineer_ervices-engineering?team=SFTWR"
-    },
-    {
-      "title": "iOS Home Application Engineer, Wireless Technologies & Ecosystems",
-      "url": "https://jobs.apple.com/en-us/details/200657297-3725/ios-home-application-engineer-wireless-technologies-ecosystems?team=SFTWR",
-      "identifier": "iOS Home Application Engineer, Wireless Technologi_nologies-ecosystems?team=SFTWR"
-    },
-    {
-      "title": "Full-Stack Software Engineer - Device Telemetry",
-      "url": "https://jobs.apple.com/en-us/details/200657383-3543/full-stack-software-engineer-device-telemetry?team=SFTWR",
-      "identifier": "Full-Stack Software Engineer - Device Telemetry_er-device-telemetry?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-13T18:07:24.789378"
+  "timestamp": "2026-04-13T18:24:28.329077"
 }

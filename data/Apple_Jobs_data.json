@@ -4,6 +4,11 @@
   "total_jobs": 15,
   "jobs": [
     {
+      "title": "Health AIML - Distinguished Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200657654-0836/health-aiml-distinguished-engineer?team=MLAI",
+      "identifier": "Health AIML - Distinguished Engineer_stinguished-engineer?team=MLAI"
+    },
+    {
       "title": "Cellular Software Performance Engineer, Wireless Technologies & Ecosystems",
       "url": "https://jobs.apple.com/en-us/details/200656961-3956/cellular-software-performance-engineer-wireless-technologies-ecosystems?team=SFTWR",
       "identifier": "Cellular Software Performance Engineer, Wireless T_nologies-ecosystems?team=SFTWR"
@@ -72,13 +77,8 @@
       "title": "Software Engineer (Data Solutions), AI & Data Platforms (AiDP)",
       "url": "https://jobs.apple.com/en-us/details/200639135-0157/software-engineer-data-solutions-ai-data-platforms-aidp?team=SFTWR",
       "identifier": "Software Engineer (Data Solutions), AI & Data Plat_data-platforms-aidp?team=SFTWR"
-    },
-    {
-      "title": "Storage Site Reliability Engineer - Apple Service Engineering",
-      "url": "https://jobs.apple.com/en-us/details/200657371-3337/storage-site-reliability-engineer-apple-service-engineering?team=SFTWR",
-      "identifier": "Storage Site Reliability Engineer - Apple Service _service-engineering?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-13T21:49:13.112306"
+  "timestamp": "2026-04-13T22:06:11.195629"
 }

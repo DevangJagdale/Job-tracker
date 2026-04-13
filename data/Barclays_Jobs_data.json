@@ -1,8 +1,23 @@
 {
   "page_title": "Search our Job Opportunities at Barclays",
   "url": "https://search.jobs.barclays/search-jobs/United%20States/13015/2/6252001/39x76/-98x5/50/2",
-  "total_jobs": 13,
+  "total_jobs": 16,
   "jobs": [
+    {
+      "title": "Quantitative Investment Strategies, AVP",
+      "url": "https://search.jobs.barclays/job/new-york/quantitative-investment-strategies-avp/13015/93816660352",
+      "identifier": "Quantitative Investment Strategies, AVP_rategies-avp/13015/93816660352"
+    },
+    {
+      "title": "Data Scientist AVP",
+      "url": "https://search.jobs.barclays/job/new-york/data-scientist-avp/13015/93816660336",
+      "identifier": "Data Scientist AVP_cientist-avp/13015/93816660336"
+    },
+    {
+      "title": "Payments Platform Operations Manager",
+      "url": "https://search.jobs.barclays/job/whippany/payments-platform-operations-manager/13015/93816655296",
+      "identifier": "Payments Platform Operations Manager_ions-manager/13015/93816655296"
+    },
     {
       "title": "Senior Product Manager - VP",
       "url": "https://search.jobs.barclays/job/whippany/senior-product-manager-vp/13015/93816641072",
@@ -69,6 +84,6 @@
       "identifier": "Internal Audit - Financial Crime AVP_al-crime-avp/13015/93686859072"
     }
   ],
-  "job_count_text": "101",
-  "timestamp": "2026-04-13T11:25:43.882193"
+  "job_count_text": "100",
+  "timestamp": "2026-04-13T11:42:54.116687"
 }

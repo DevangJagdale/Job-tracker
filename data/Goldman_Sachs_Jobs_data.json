@@ -4,11 +4,6 @@
   "total_jobs": 20,
   "jobs": [
     {
-      "title": "Software Engineer, Global Banking & Markets, Investment Banking\nDallas\u00b7United States\n\u00b7Associate",
-      "url": "https://higher.gs.com/roles/161630",
-      "identifier": "Software Engineer, Global Banking & Markets, Inves_s://higher.gs.com/roles/161630"
-    },
-    {
       "title": "Asset & Wealth Management - Software Engineer - Associate - New York\nNew York\u00b7United States\n\u00b7Associate",
       "url": "https://higher.gs.com/roles/165511",
       "identifier": "Asset & Wealth Management - Software Engineer - As_s://higher.gs.com/roles/165511"
@@ -102,8 +97,13 @@
       "title": "Asset & Wealth Management - Software Engineer - Associate - Dallas\nDallas\u00b7United States\n\u00b7Associate",
       "url": "https://higher.gs.com/roles/160564",
       "identifier": "Asset & Wealth Management - Software Engineer - As_s://higher.gs.com/roles/160564"
+    },
+    {
+      "title": "Asset & Wealth Management- Full Stack Software Engineer -Associate-Dallas\nDallas\u00b7United States\n\u00b7Associate",
+      "url": "https://higher.gs.com/roles/160538",
+      "identifier": "Asset & Wealth Management- Full Stack Software Eng_s://higher.gs.com/roles/160538"
     }
   ],
-  "job_count_text": "48",
-  "timestamp": "2026-04-13T05:46:32.208002"
+  "job_count_text": "47",
+  "timestamp": "2026-04-13T05:54:14.728602"
 }

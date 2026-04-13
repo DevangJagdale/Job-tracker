@@ -4,6 +4,11 @@
   "total_jobs": 18,
   "jobs": [
     {
+      "title": "Software Engineer (Full Stack), eBusiness Services",
+      "url": "https://jobs.apple.com/en-us/details/200655517-0157/software-engineer-full-stack-ebusiness-services?team=SFTWR",
+      "identifier": "Software Engineer (Full Stack), eBusiness Services_-ebusiness-services?team=SFTWR"
+    },
+    {
       "title": "Software Engineer, Trusted Execution (Security Systems)",
       "url": "https://jobs.apple.com/en-us/details/200657451-0836/software-engineer-trusted-execution-security-systems?team=SFTWR",
       "identifier": "Software Engineer, Trusted Execution (Security Sys_on-security-systems?team=SFTWR"
@@ -87,13 +92,8 @@
       "title": "Senior Software Engineer",
       "url": "https://jobs.apple.com/en-us/details/200656816-0157/senior-software-engineer?team=SFTWR",
       "identifier": "Senior Software Engineer_r-software-engineer?team=SFTWR"
-    },
-    {
-      "title": "Software Integrity Engineer, Video Apps",
-      "url": "https://jobs.apple.com/en-us/details/200651765-0670/software-integrity-engineer-video-apps?team=SFTWR",
-      "identifier": "Software Integrity Engineer, Video Apps_engineer-video-apps?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-13T02:56:08.209919"
+  "timestamp": "2026-04-13T03:13:15.420860"
 }

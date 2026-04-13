@@ -24,11 +24,6 @@
       "identifier": "Cloud Engineering Intern_ang=en-us&previousLocale=en-US"
     },
     {
-      "title": "Senior iOS Engineer - Trip Planner Mobile",
-      "url": "https://careers.rivian.com/careers-home/jobs/26589?lang=en-us&previousLocale=en-US",
-      "identifier": "Senior iOS Engineer - Trip Planner Mobile_ang=en-us&previousLocale=en-US"
-    },
-    {
       "title": "Sr. IT Wireless Network Engineer",
       "url": "https://careers.rivian.com/careers-home/jobs/24321?lang=en-us&previousLocale=en-US",
       "identifier": "Sr. IT Wireless Network Engineer_ang=en-us&previousLocale=en-US"
@@ -49,6 +44,11 @@
       "identifier": "Sr. AI Engineer, Enterprise Applied AI_ang=en-us&previousLocale=en-US"
     },
     {
+      "title": "Senior Android Engineer - Trip Planner Firmware",
+      "url": "https://careers.rivian.com/careers-home/jobs/26761?lang=en-us&previousLocale=en-US",
+      "identifier": "Senior Android Engineer - Trip Planner Firmware_ang=en-us&previousLocale=en-US"
+    },
+    {
       "title": "Software Engineering Intern, Commercial Tech Sales",
       "url": "https://careers.rivian.com/careers-home/jobs/30266?lang=en-us&previousLocale=en-US",
       "identifier": "Software Engineering Intern, Commercial Tech Sales_ang=en-us&previousLocale=en-US"
@@ -59,6 +59,6 @@
       "identifier": "Sr. Staff Product Manager, Enterprise Data_ang=en-us&previousLocale=en-US"
     }
   ],
-  "job_count_text": "48",
-  "timestamp": "2026-04-13T11:24:40.227399"
+  "job_count_text": "47",
+  "timestamp": "2026-04-13T11:32:18.743337"
 }

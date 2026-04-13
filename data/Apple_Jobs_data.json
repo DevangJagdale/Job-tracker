@@ -4,6 +4,16 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "WebKit Test Integrity Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200643136-3543/webkit-test-integrity-engineer?team=SFTWR",
+      "identifier": "WebKit Test Integrity Engineer_-integrity-engineer?team=SFTWR"
+    },
+    {
+      "title": "Software Engineer, Accessibility",
+      "url": "https://jobs.apple.com/en-us/details/200657564-0836/software-engineer-accessibility?team=SFTWR",
+      "identifier": "Software Engineer, Accessibility_ineer-accessibility?team=SFTWR"
+    },
+    {
       "title": "On-Device Machine Learning Engineer",
       "url": "https://jobs.apple.com/en-us/details/200657024-3956/on-device-machine-learning-engineer?team=MLAI",
       "identifier": "On-Device Machine Learning Engineer_ne-learning-engineer?team=MLAI"
@@ -17,11 +27,6 @@
       "title": "Senior Engineering Program Manager - ASE Commerce",
       "url": "https://jobs.apple.com/en-us/details/200657529-3337/senior-engineering-program-manager-ase-commerce?team=SFTWR",
       "identifier": "Senior Engineering Program Manager - ASE Commerce_anager-ase-commerce?team=SFTWR"
-    },
-    {
-      "title": "Accessibility Software Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200657564-0836/accessibility-software-engineer?team=SFTWR",
-      "identifier": "Accessibility Software Engineer_y-software-engineer?team=SFTWR"
     },
     {
       "title": "QA Automation Engineer - Apple Neural Engine (ANE)",
@@ -77,13 +82,8 @@
       "title": "Trust & Safety Data Lake Software Engineer",
       "url": "https://jobs.apple.com/en-us/details/200656145-3337/trust-safety-data-lake-software-engineer?team=SFTWR",
       "identifier": "Trust & Safety Data Lake Software Engineer_e-software-engineer?team=SFTWR"
-    },
-    {
-      "title": "Engineering Program Manager - Foundation Modeling Data",
-      "url": "https://jobs.apple.com/en-us/details/200657051-1242/engineering-program-manager-foundation-modeling-data?team=SFTWR",
-      "identifier": "Engineering Program Manager - Foundation Modeling _ation-modeling-data?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-13T20:41:00.131891"
+  "timestamp": "2026-04-13T20:58:00.864815"
 }

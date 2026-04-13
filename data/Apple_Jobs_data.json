@@ -4,6 +4,11 @@
   "total_jobs": 15,
   "jobs": [
     {
+      "title": "Senior Engineering Program Manager - ASE Commerce",
+      "url": "https://jobs.apple.com/en-us/details/200657529-3337/senior-engineering-program-manager-ase-commerce?team=SFTWR",
+      "identifier": "Senior Engineering Program Manager - ASE Commerce_anager-ase-commerce?team=SFTWR"
+    },
+    {
       "title": "Health AIML - Distinguished Engineer",
       "url": "https://jobs.apple.com/en-us/details/200657654-0836/health-aiml-distinguished-engineer?team=MLAI",
       "identifier": "Health AIML - Distinguished Engineer_stinguished-engineer?team=MLAI"
@@ -37,11 +42,6 @@
       "title": "Maps Operations Program Lead",
       "url": "https://jobs.apple.com/en-us/details/200657310-0157/maps-operations-program-lead?team=SFTWR",
       "identifier": "Maps Operations Program Lead_ations-program-lead?team=SFTWR"
-    },
-    {
-      "title": "Senior Engineering Program Manager - ASE Commerce",
-      "url": "https://jobs.apple.com/en-us/details/200657529-3337/senior-engineering-program-manager-ase-commerce?team=SFTWR",
-      "identifier": "Senior Engineering Program Manager - ASE Commerce_anager-ase-commerce?team=SFTWR"
     },
     {
       "title": "QA Automation Engineer - Apple Neural Engine (ANE)",
@@ -80,5 +80,5 @@
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-13T22:06:11.195629"
+  "timestamp": "2026-04-13T22:23:14.158132"
 }

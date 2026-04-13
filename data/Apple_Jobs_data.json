@@ -4,6 +4,11 @@
   "total_jobs": 14,
   "jobs": [
     {
+      "title": "Engineering Program Manager, AI and Data Platform, Apple Services Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200651225-3337/engineering-program-manager-ai-and-data-platform-apple-services-engineering?team=SFTWR",
+      "identifier": "Engineering Program Manager, AI and Data Platform,_ervices-engineering?team=SFTWR"
+    },
+    {
       "title": "Maps Operations Program Lead",
       "url": "https://jobs.apple.com/en-us/details/200657310-0157/maps-operations-program-lead?team=SFTWR",
       "identifier": "Maps Operations Program Lead_ations-program-lead?team=SFTWR"
@@ -67,13 +72,8 @@
       "title": "Software Engineer (Full Stack), eBusiness Services",
       "url": "https://jobs.apple.com/en-us/details/200655517-0157/software-engineer-full-stack-ebusiness-services?team=SFTWR",
       "identifier": "Software Engineer (Full Stack), eBusiness Services_-ebusiness-services?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer, Trusted Execution (Security Systems)",
-      "url": "https://jobs.apple.com/en-us/details/200657451-0836/software-engineer-trusted-execution-security-systems?team=SFTWR",
-      "identifier": "Software Engineer, Trusted Execution (Security Sys_on-security-systems?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-13T18:24:28.329077"
+  "timestamp": "2026-04-13T18:41:30.319405"
 }

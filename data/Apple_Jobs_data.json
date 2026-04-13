@@ -1,12 +1,17 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 15,
+  "total_jobs": 14,
   "jobs": [
     {
       "title": "Data Engineer, App Insights Engineering, Services Data Science & Analytics",
       "url": "https://jobs.apple.com/en-us/details/200657274-0157/data-engineer-app-insights-engineering-services-data-science-analytics?team=MLAI",
       "identifier": "Data Engineer, App Insights Engineering, Services _ta-science-analytics?team=MLAI"
+    },
+    {
+      "title": "Sr. Machine Learning Infrastructure Engineer, Creator Studio",
+      "url": "https://jobs.apple.com/en-us/details/200647930-0670/sr-machine-learning-infrastructure-engineer-creator-studio?team=SFTWR",
+      "identifier": "Sr. Machine Learning Infrastructure Engineer, Crea_neer-creator-studio?team=SFTWR"
     },
     {
       "title": "Software Development Engineer, Apps & Frameworks",
@@ -67,18 +72,8 @@
       "title": "Engineering Program Manager, AI and Data Platform, Apple Services Engineering",
       "url": "https://jobs.apple.com/en-us/details/200651225-3337/engineering-program-manager-ai-and-data-platform-apple-services-engineering?team=SFTWR",
       "identifier": "Engineering Program Manager, AI and Data Platform,_ervices-engineering?team=SFTWR"
-    },
-    {
-      "title": "Bluetooth Software Engineer, Wireless Technologies & Ecosystems",
-      "url": "https://jobs.apple.com/en-us/details/200657556-0836/bluetooth-software-engineer-wireless-technologies-ecosystems?team=SFTWR",
-      "identifier": "Bluetooth Software Engineer, Wireless Technologies_nologies-ecosystems?team=SFTWR"
-    },
-    {
-      "title": "Game Engineer, Platform Architecture",
-      "url": "https://jobs.apple.com/en-us/details/200657551-0157/game-engineer-platform-architecture?team=SFTWR",
-      "identifier": "Game Engineer, Platform Architecture_atform-architecture?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-13T23:22:19.814078"
+  "timestamp": "2026-04-13T23:39:33.817075"
 }

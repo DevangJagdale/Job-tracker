@@ -1,12 +1,22 @@
 {
   "page_title": "Search our Job Opportunities at Barclays",
   "url": "https://search.jobs.barclays/search-jobs/United%20States/13015/2/6252001/39x76/-98x5/50/2",
-  "total_jobs": 13,
+  "total_jobs": 10,
   "jobs": [
     {
-      "title": "Director, Workplace and Collaboration Technology New York",
-      "url": "https://search.jobs.barclays/job/new-york/director-workplace-and-collaboration-technology-new-york/13015/93918194112",
-      "identifier": "Director, Workplace and Collaboration Technology N_ogy-new-york/13015/93918194112"
+      "title": "Equities Valuations Software Engineer",
+      "url": "https://search.jobs.barclays/job/whippany/equities-valuations-software-engineer/13015/93930537072",
+      "identifier": "Equities Valuations Software Engineer_are-engineer/13015/93930537072"
+    },
+    {
+      "title": "AVP, CCAR Process Oversight and Control",
+      "url": "https://search.jobs.barclays/job/new-york/avp-ccar-process-oversight-and-control/13015/93918198080",
+      "identifier": "AVP, CCAR Process Oversight and Control_-and-control/13015/93918198080"
+    },
+    {
+      "title": "Director, FinTech / Financial Institutions Coverage, International Corporate Banking Americas",
+      "url": "https://search.jobs.barclays/job/new-york/director-fintech-financial-institutions-coverage-international-corporate-banking-americas/13015/93918195072",
+      "identifier": "Director, FinTech / Financial Institutions Coverag_ing-americas/13015/93918195072"
     },
     {
       "title": "Personal Assistant & Administration",
@@ -14,19 +24,9 @@
       "identifier": "Personal Assistant & Administration_ministration/13015/93918193056"
     },
     {
-      "title": "Technology Delivery Manager - VP",
-      "url": "https://search.jobs.barclays/job/new-york/technology-delivery-manager-vp/13015/93918192048",
-      "identifier": "Technology Delivery Manager - VP_y-manager-vp/13015/93918192048"
-    },
-    {
       "title": "Senior Business Analyst - AVP",
       "url": "https://search.jobs.barclays/job/whippany/senior-business-analyst-avp/13015/93918158640",
       "identifier": "Senior Business Analyst - AVP_-analyst-avp/13015/93918158640"
-    },
-    {
-      "title": "Business Analyst \u2013 BA4",
-      "url": "https://search.jobs.barclays/job/whippany/business-analyst-ba4/13015/93918158592",
-      "identifier": "Business Analyst \u2013 BA4_-analyst-ba4/13015/93918158592"
     },
     {
       "title": "Quantitative Investment Strategies, AVP",
@@ -52,23 +52,8 @@
       "title": "Head of US Technology Command Centre",
       "url": "https://search.jobs.barclays/job/whippany/head-of-us-technology-command-centre/13015/93804622144",
       "identifier": "Head of US Technology Command Centre_mmand-centre/13015/93804622144"
-    },
-    {
-      "title": "Global Expense Manager",
-      "url": "https://search.jobs.barclays/job/new-york/global-expense-manager/13015/93804622112",
-      "identifier": "Global Expense Manager_ense-manager/13015/93804622112"
-    },
-    {
-      "title": "Securitized Products - Esoteric Origination VP",
-      "url": "https://search.jobs.barclays/job/new-york/securitized-products-esoteric-origination-vp/13015/93779283440",
-      "identifier": "Securitized Products - Esoteric Origination VP_igination-vp/13015/93779283440"
-    },
-    {
-      "title": "Airlines Field Engagement Manager",
-      "url": "https://search.jobs.barclays/job/texas-city/airlines-field-engagement-manager/13015/93779281056",
-      "identifier": "Airlines Field Engagement Manager_ment-manager/13015/93779281056"
     }
   ],
-  "job_count_text": "111",
-  "timestamp": "2026-04-13T23:21:47.000459"
+  "job_count_text": "115",
+  "timestamp": "2026-04-13T23:39:00.001713"
 }

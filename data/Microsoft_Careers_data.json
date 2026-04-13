@@ -4,7 +4,17 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Software Engineer - Full Stack\nUnited States, Washington, Redmond\nPosted 34 minutes ago",
+      "title": "Senior Applied Scientist (Bing Places)\nUnited States, Washington, Redmond\nPosted 12 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556856829?domain=microsoft.com",
+      "identifier": "Senior Applied Scientist (Bing Places)\nUnited Stat_556856829?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Site Reliability Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 21 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556754197?domain=microsoft.com",
+      "identifier": "Senior Site Reliability Engineer\nUnited States, Mu_556754197?domain=microsoft.com"
+    },
+    {
+      "title": "Software Engineer - Full Stack\nUnited States, Washington, Redmond\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556850645?domain=microsoft.com",
       "identifier": "Software Engineer - Full Stack\nUnited States, Wash_556850645?domain=microsoft.com"
     },
@@ -42,18 +52,8 @@
       "title": "Machine Learning Software Engineer\nUnited States, New York, New York + 2 more\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556628052?domain=microsoft.com",
       "identifier": "Machine Learning Software Engineer\nUnited States, _556628052?domain=microsoft.com"
-    },
-    {
-      "title": "Member of Technical Staff - Data Engineer\nUnited States, New York, New York + 2 more\nPosted 2 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556630984?domain=microsoft.com",
-      "identifier": "Member of Technical Staff - Data Engineer\nUnited S_556630984?domain=microsoft.com"
-    },
-    {
-      "title": "Machine Learning Engineering Manager - AI Insights\nUnited States, New York, New York + 2 more\nPosted 2 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556627662?domain=microsoft.com",
-      "identifier": "Machine Learning Engineering Manager - AI Insights_556627662?domain=microsoft.com"
     }
   ],
-  "job_count_text": "689",
-  "timestamp": "2026-04-13T23:22:04.138892"
+  "job_count_text": "691",
+  "timestamp": "2026-04-13T23:39:17.541923"
 }

@@ -4,42 +4,47 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Senior Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 15 minutes ago",
+      "title": "Software Engineer - Full Stack\nUnited States, Washington, Redmond\nPosted 17 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556850645?domain=microsoft.com",
+      "identifier": "Software Engineer - Full Stack\nUnited States, Wash_556850645?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 32 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556847391?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Multiple L_556847391?domain=microsoft.com"
     },
     {
-      "title": "Principal Data Scientist\nUnited States, Washington, Redmond + 1 more\nPosted an hour ago",
+      "title": "Principal Data Scientist\nUnited States, Washington, Redmond + 1 more\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556755023?domain=microsoft.com",
       "identifier": "Principal Data Scientist\nUnited States, Washington_556755023?domain=microsoft.com"
     },
     {
-      "title": "Member of Technical Staff - Principal Data Infrastructure Engineer\nUnited States, Washington, Redmond\nPosted an hour ago",
+      "title": "Member of Technical Staff - Principal Data Infrastructure Engineer\nUnited States, Washington, Redmond\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556638811?domain=microsoft.com",
       "identifier": "Member of Technical Staff - Principal Data Infrast_556638811?domain=microsoft.com"
     },
     {
-      "title": "Member of Technical Staff - Software Engineer & Machine Learning\nUnited States, New York, New York + 2 more\nPosted an hour ago",
+      "title": "Member of Technical Staff - Software Engineer & Machine Learning\nUnited States, New York, New York + 2 more\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556639457?domain=microsoft.com",
       "identifier": "Member of Technical Staff - Software Engineer & Ma_556639457?domain=microsoft.com"
     },
     {
-      "title": "Senior Applied Scientist\nUnited States, Washington, Redmond\nPosted an hour ago",
+      "title": "Senior Applied Scientist\nUnited States, Washington, Redmond\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556851873?domain=microsoft.com",
       "identifier": "Senior Applied Scientist\nUnited States, Washington_556851873?domain=microsoft.com"
     },
     {
-      "title": "Principal Machine Learning Engineer\nUnited States, New York, New York + 2 more\nPosted an hour ago",
+      "title": "Principal Machine Learning Engineer\nUnited States, New York, New York + 2 more\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556628060?domain=microsoft.com",
       "identifier": "Principal Machine Learning Engineer\nUnited States,_556628060?domain=microsoft.com"
     },
     {
-      "title": "Machine Learning Software Engineer\nUnited States, New York, New York + 2 more\nPosted an hour ago",
+      "title": "Machine Learning Software Engineer\nUnited States, New York, New York + 2 more\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556628052?domain=microsoft.com",
       "identifier": "Machine Learning Software Engineer\nUnited States, _556628052?domain=microsoft.com"
     },
     {
-      "title": "Member of Technical Staff - Data Engineer\nUnited States, New York, New York + 2 more\nPosted an hour ago",
+      "title": "Member of Technical Staff - Data Engineer\nUnited States, New York, New York + 2 more\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556630984?domain=microsoft.com",
       "identifier": "Member of Technical Staff - Data Engineer\nUnited S_556630984?domain=microsoft.com"
     },
@@ -47,13 +52,8 @@
       "title": "Machine Learning Engineering Manager - AI Insights\nUnited States, New York, New York + 2 more\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556627662?domain=microsoft.com",
       "identifier": "Machine Learning Engineering Manager - AI Insights_556627662?domain=microsoft.com"
-    },
-    {
-      "title": "Applied Scientist II (Bing Places)\nUnited States, Washington, Redmond + 1 more\nPosted 3 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556858338?domain=microsoft.com",
-      "identifier": "Applied Scientist II (Bing Places)\nUnited States, _556858338?domain=microsoft.com"
     }
   ],
-  "job_count_text": "688",
-  "timestamp": "2026-04-13T22:47:41.614454"
+  "job_count_text": "689",
+  "timestamp": "2026-04-13T23:04:56.530396"
 }

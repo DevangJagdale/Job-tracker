@@ -1,8 +1,18 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 14,
+  "total_jobs": 15,
   "jobs": [
+    {
+      "title": "Software Development Engineer, Apps & Frameworks",
+      "url": "https://jobs.apple.com/en-us/details/200657655-0836/software-development-engineer-apps-frameworks?team=SFTWR",
+      "identifier": "Software Development Engineer, Apps & Frameworks_eer-apps-frameworks?team=SFTWR"
+    },
+    {
+      "title": "Site Reliability Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200654194-3337/site-reliability-engineer?team=SFTWR",
+      "identifier": "Site Reliability Engineer_eliability-engineer?team=SFTWR"
+    },
     {
       "title": "Wireless Systems Performance Engineer, Wireless Technologies & Ecosystems",
       "url": "https://jobs.apple.com/en-us/details/200657388-3543/wireless-systems-performance-engineer-wireless-technologies-ecosystems?team=SFTWR",
@@ -67,13 +77,8 @@
       "title": "Game Engineer, Platform Architecture",
       "url": "https://jobs.apple.com/en-us/details/200657551-0157/game-engineer-platform-architecture?team=SFTWR",
       "identifier": "Game Engineer, Platform Architecture_atform-architecture?team=SFTWR"
-    },
-    {
-      "title": "Sr. iOS Software Engineer, Apple Books",
-      "url": "https://jobs.apple.com/en-us/details/200657046-0836/sr-ios-software-engineer-apple-books?team=SFTWR",
-      "identifier": "Sr. iOS Software Engineer, Apple Books_ngineer-apple-books?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-13T22:47:57.487005"
+  "timestamp": "2026-04-13T23:05:13.609556"
 }

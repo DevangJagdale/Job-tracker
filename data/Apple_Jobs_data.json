@@ -1,8 +1,18 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 16,
+  "total_jobs": 15,
   "jobs": [
+    {
+      "title": "Cellular Software Performance Engineer, Wireless Technologies & Ecosystems",
+      "url": "https://jobs.apple.com/en-us/details/200656961-3956/cellular-software-performance-engineer-wireless-technologies-ecosystems?team=SFTWR",
+      "identifier": "Cellular Software Performance Engineer, Wireless T_nologies-ecosystems?team=SFTWR"
+    },
+    {
+      "title": "Data Engineer, App Insights Engineering, Services Data Science & Analytics",
+      "url": "https://jobs.apple.com/en-us/details/200657274-0157/data-engineer-app-insights-engineering-services-data-science-analytics?team=MLAI",
+      "identifier": "Data Engineer, App Insights Engineering, Services _ta-science-analytics?team=MLAI"
+    },
     {
       "title": "WebKit Test Integrity Engineer",
       "url": "https://jobs.apple.com/en-us/details/200643136-3543/webkit-test-integrity-engineer?team=SFTWR",
@@ -67,23 +77,8 @@
       "title": "Storage Site Reliability Engineer - Apple Service Engineering",
       "url": "https://jobs.apple.com/en-us/details/200657371-3337/storage-site-reliability-engineer-apple-service-engineering?team=SFTWR",
       "identifier": "Storage Site Reliability Engineer - Apple Service _service-engineering?team=SFTWR"
-    },
-    {
-      "title": "Senior Data Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200657115-3337/senior-data-engineer?team=SFTWR",
-      "identifier": "Senior Data Engineer_enior-data-engineer?team=SFTWR"
-    },
-    {
-      "title": "Software Engineering Manager",
-      "url": "https://jobs.apple.com/en-us/details/200657101-0836/software-engineering-manager?team=SFTWR",
-      "identifier": "Software Engineering Manager_engineering-manager?team=SFTWR"
-    },
-    {
-      "title": "Trust & Safety Data Lake Software Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200656145-3337/trust-safety-data-lake-software-engineer?team=SFTWR",
-      "identifier": "Trust & Safety Data Lake Software Engineer_e-software-engineer?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-13T21:15:05.777348"
+  "timestamp": "2026-04-13T21:32:11.663469"
 }

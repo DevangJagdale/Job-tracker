@@ -1,109 +1,14 @@
 {
   "page_title": "Salesforce Jobs | Salesforce Careers",
   "url": "https://careers.salesforce.com/en/jobs/?search=&country=United+States+of+America&team=Data&team=Enterprise+Technology+%26+Infrastructure&team=Software+Engineering&jobtype=New+Grads&pagesize=20#results",
-  "total_jobs": 20,
+  "total_jobs": 1,
   "jobs": [
     {
-      "title": "Services Sales Solutions Senior Director",
-      "url": "https://careers.salesforce.com/en/jobs/jr333852/services-sales-solutions-senior-director/",
-      "identifier": "Services Sales Solutions Senior Director_les-solutions-senior-director/"
-    },
-    {
-      "title": "Technical Architect (Pre-Sales) - All Levels",
-      "url": "https://careers.salesforce.com/en/jobs/jr321042/technical-architect-pre-sales-all-levels/",
-      "identifier": "Technical Architect (Pre-Sales) - All Levels_rchitect-pre-sales-all-levels/"
-    },
-    {
-      "title": "Product Forward Deployed Engineer, ITSM (Senior/Lead/Principal)",
-      "url": "https://careers.salesforce.com/en/jobs/jr337937/product-forward-deployed-engineer-itsm-seniorleadprincipal/",
-      "identifier": "Product Forward Deployed Engineer, ITSM (Senior/Le_neer-itsm-seniorleadprincipal/"
-    },
-    {
-      "title": "Account Director, K-12 Education",
-      "url": "https://careers.salesforce.com/en/jobs/jr336901/account-director-k-12-education/",
-      "identifier": "Account Director, K-12 Education_count-director-k-12-education/"
-    },
-    {
-      "title": "Product Forward Deployed Engineer, Agentforce Contact Center (Senior/Lead/Principal)",
-      "url": "https://careers.salesforce.com/en/jobs/jr337939/product-forward-deployed-engineer-agentforce-contact-center-seniorleadprincipal/",
-      "identifier": "Product Forward Deployed Engineer, Agentforce Cont_ct-center-seniorleadprincipal/"
-    },
-    {
-      "title": "Partner Technical Architect - Agentforce",
-      "url": "https://careers.salesforce.com/en/jobs/jr328759/partner-technical-architect-agentforce/",
-      "identifier": "Partner Technical Architect - Agentforce_echnical-architect-agentforce/"
-    },
-    {
-      "title": "Sr. Director, Technical Architect (Partner Success)",
-      "url": "https://careers.salesforce.com/en/jobs/jr332360/sr-director-technical-architect-partner-success/",
-      "identifier": "Sr. Director, Technical Architect (Partner Success_cal-architect-partner-success/"
-    },
-    {
-      "title": "Manager/Senior Manager - Data Foundation",
-      "url": "https://careers.salesforce.com/en/jobs/jr336917/managersenior-manager-data-foundation/",
-      "identifier": "Manager/Senior Manager - Data Foundation_enior-manager-data-foundation/"
-    },
-    {
-      "title": "Lead, Specialist SE",
-      "url": "https://careers.salesforce.com/en/jobs/jr337492/lead-specialist-se/",
-      "identifier": "Lead, Specialist SE_s/jr337492/lead-specialist-se/"
-    },
-    {
-      "title": "Director / Sr. Director, Business Value Consultant",
-      "url": "https://careers.salesforce.com/en/jobs/jr336363/director-sr-director-business-value-consultant/",
-      "identifier": "Director / Sr. Director, Business Value Consultant_tor-business-value-consultant/"
-    },
-    {
-      "title": "Business Value Services Lead",
-      "url": "https://careers.salesforce.com/en/jobs/jr330124/business-value-services-lead/",
-      "identifier": "Business Value Services Lead_/business-value-services-lead/"
-    },
-    {
-      "title": "Customer Success Manager - Core (Public Sector/Federal Civilian)",
-      "url": "https://careers.salesforce.com/en/jobs/jr337930/customer-success-manager-core-public-sectorfederal-civilian/",
-      "identifier": "Customer Success Manager - Core (Public Sector/Fed_public-sectorfederal-civilian/"
-    },
-    {
-      "title": "Principal, Account SE - State & Local Government",
-      "url": "https://careers.salesforce.com/en/jobs/jr336782/principal-account-se-state-local-government/",
-      "identifier": "Principal, Account SE - State & Local Government_unt-se-state-local-government/"
-    },
-    {
-      "title": "Lead, Specialist SE",
-      "url": "https://careers.salesforce.com/en/jobs/jr336889/lead-specialist-se/",
-      "identifier": "Lead, Specialist SE_s/jr336889/lead-specialist-se/"
-    },
-    {
-      "title": "Sr. Enterprise Architect, Agentforce Supply Chain",
-      "url": "https://careers.salesforce.com/en/jobs/jr321038/sr-enterprise-architect-agentforce-supply-chain/",
-      "identifier": "Sr. Enterprise Architect, Agentforce Supply Chain_itect-agentforce-supply-chain/"
-    },
-    {
-      "title": "Marketing Cloud Account Executive, DOT and Dept of Education",
-      "url": "https://careers.salesforce.com/en/jobs/jr336742/marketing-cloud-account-executive-dot-and-dept-of-education/",
-      "identifier": "Marketing Cloud Account Executive, DOT and Dept of_ive-dot-and-dept-of-education/"
-    },
-    {
-      "title": "Named Account Executive, Enterprise: Non-Profit",
-      "url": "https://careers.salesforce.com/en/jobs/jr323638/named-account-executive-enterprise-non-profit/",
-      "identifier": "Named Account Executive, Enterprise: Non-Profit_ecutive-enterprise-non-profit/"
-    },
-    {
-      "title": "Senior Manager, Systems Engineering",
-      "url": "https://careers.salesforce.com/en/jobs/jr327887/senior-manager-systems-engineering/",
-      "identifier": "Senior Manager, Systems Engineering_r-manager-systems-engineering/"
-    },
-    {
-      "title": "Partner Strategy & Operations, Senior Manager",
-      "url": "https://careers.salesforce.com/en/jobs/jr337170/partner-strategy-operations-senior-manager/",
-      "identifier": "Partner Strategy & Operations, Senior Manager_egy-operations-senior-manager/"
-    },
-    {
-      "title": "Principal Security Engineer, SaaS Security Posture Management (SSPM)",
-      "url": "https://careers.salesforce.com/en/jobs/jr335011/principal-security-engineer-saas-security-posture-management-sspm/",
-      "identifier": "Principal Security Engineer, SaaS Security Posture_urity-posture-management-sspm/"
+      "title": "Software Engineering AMTS (College Grad)",
+      "url": "https://careers.salesforce.com/en/jobs/jr330400/software-engineering-amts-college-grad/",
+      "identifier": "Software Engineering AMTS (College Grad)_engineering-amts-college-grad/"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-13T21:18:26.758029"
+  "timestamp": "2026-04-13T21:35:33.244188"
 }

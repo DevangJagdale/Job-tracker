@@ -4,7 +4,22 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Applied Scientist II (Bing Places)\nUnited States, Washington, Redmond + 1 more\nPosted an hour ago",
+      "title": "Machine Learning Software Engineer\nUnited States, New York, New York + 2 more\nPosted 12 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556628052?domain=microsoft.com",
+      "identifier": "Machine Learning Software Engineer\nUnited States, _556628052?domain=microsoft.com"
+    },
+    {
+      "title": "Member of Technical Staff - Data Engineer\nUnited States, New York, New York + 2 more\nPosted 14 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556630984?domain=microsoft.com",
+      "identifier": "Member of Technical Staff - Data Engineer\nUnited S_556630984?domain=microsoft.com"
+    },
+    {
+      "title": "Machine Learning Engineering Manager - AI Insights\nUnited States, New York, New York + 2 more\nPosted 18 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556627662?domain=microsoft.com",
+      "identifier": "Machine Learning Engineering Manager - AI Insights_556627662?domain=microsoft.com"
+    },
+    {
+      "title": "Applied Scientist II (Bing Places)\nUnited States, Washington, Redmond + 1 more\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556858338?domain=microsoft.com",
       "identifier": "Applied Scientist II (Bing Places)\nUnited States, _556858338?domain=microsoft.com"
     },
@@ -19,12 +34,12 @@
       "identifier": "Software Engineer II - Office Product Group Collab_556620334?domain=microsoft.com"
     },
     {
-      "title": "Principal Software Engineer\nUnited States, California, Mountain View + 1 more\nPosted 4 hours ago",
+      "title": "Principal Software Engineer\nUnited States, California, Mountain View + 1 more\nPosted 5 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556630574?domain=microsoft.com",
       "identifier": "Principal Software Engineer\nUnited States, Califor_556630574?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineering\nUnited States, California, Mountain View + 1 more\nPosted 4 hours ago",
+      "title": "Senior Software Engineering\nUnited States, California, Mountain View + 1 more\nPosted 5 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556638360?domain=microsoft.com",
       "identifier": "Senior Software Engineering\nUnited States, Califor_556638360?domain=microsoft.com"
     },
@@ -37,23 +52,8 @@
       "title": "Senior Software Engineer - CTJ - TS/SCI\nUnited States, Virginia, Reston + 1 more\nPosted 5 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556851565?domain=microsoft.com",
       "identifier": "Senior Software Engineer - CTJ - TS/SCI\nUnited Sta_556851565?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 6 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556847387?domain=microsoft.com",
-      "identifier": "Senior Software Engineer\nUnited States, Multiple L_556847387?domain=microsoft.com"
-    },
-    {
-      "title": "Software Engineer II\nUnited States, Multiple Locations, Multiple Locations\nPosted a day ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556753584?domain=microsoft.com",
-      "identifier": "Software Engineer II\nUnited States, Multiple Locat_556753584?domain=microsoft.com"
-    },
-    {
-      "title": "Member of Technical Staff - Data Scientist\nUnited States, Washington, Redmond + 1 more\nPosted 3 days ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556856218?domain=microsoft.com",
-      "identifier": "Member of Technical Staff - Data Scientist\nUnited _556856218?domain=microsoft.com"
     }
   ],
-  "job_count_text": "681",
-  "timestamp": "2026-04-13T21:14:49.989111"
+  "job_count_text": "684",
+  "timestamp": "2026-04-13T21:31:55.217966"
 }

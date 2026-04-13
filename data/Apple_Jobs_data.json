@@ -4,6 +4,11 @@
   "total_jobs": 14,
   "jobs": [
     {
+      "title": "QA Automation Engineer - Apple Neural Engine (ANE)",
+      "url": "https://jobs.apple.com/en-us/details/200655817-3956/qa-automation-engineer-apple-neural-engine-ane?team=SFTWR",
+      "identifier": "QA Automation Engineer - Apple Neural Engine (ANE)_e-neural-engine-ane?team=SFTWR"
+    },
+    {
       "title": "Engineering Program Manager, AI and Data Platform, Apple Services Engineering",
       "url": "https://jobs.apple.com/en-us/details/200651225-3337/engineering-program-manager-ai-and-data-platform-apple-services-engineering?team=SFTWR",
       "identifier": "Engineering Program Manager, AI and Data Platform,_ervices-engineering?team=SFTWR"
@@ -67,13 +72,8 @@
       "title": "Staff Data Engineer - Experimentation",
       "url": "https://jobs.apple.com/en-us/details/200618200-2621/staff-data-engineer-experimentation?team=SFTWR",
       "identifier": "Staff Data Engineer - Experimentation_eer-experimentation?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer (Full Stack), eBusiness Services",
-      "url": "https://jobs.apple.com/en-us/details/200655517-0157/software-engineer-full-stack-ebusiness-services?team=SFTWR",
-      "identifier": "Software Engineer (Full Stack), eBusiness Services_-ebusiness-services?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-13T18:41:30.319405"
+  "timestamp": "2026-04-13T18:58:35.997030"
 }

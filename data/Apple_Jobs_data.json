@@ -4,6 +4,16 @@
   "total_jobs": 15,
   "jobs": [
     {
+      "title": "Maps Operations Program Lead",
+      "url": "https://jobs.apple.com/en-us/details/200657310-0157/maps-operations-program-lead?team=SFTWR",
+      "identifier": "Maps Operations Program Lead_ations-program-lead?team=SFTWR"
+    },
+    {
+      "title": "Senior Engineering Program Manager - ASE Commerce",
+      "url": "https://jobs.apple.com/en-us/details/200657529-3337/senior-engineering-program-manager-ase-commerce?team=SFTWR",
+      "identifier": "Senior Engineering Program Manager - ASE Commerce_anager-ase-commerce?team=SFTWR"
+    },
+    {
       "title": "Accessibility Software Engineer",
       "url": "https://jobs.apple.com/en-us/details/200657564-0836/accessibility-software-engineer?team=SFTWR",
       "identifier": "Accessibility Software Engineer_y-software-engineer?team=SFTWR"
@@ -17,11 +27,6 @@
       "title": "Engineering Program Manager, AI and Data Platform, Apple Services Engineering",
       "url": "https://jobs.apple.com/en-us/details/200651225-3337/engineering-program-manager-ai-and-data-platform-apple-services-engineering?team=SFTWR",
       "identifier": "Engineering Program Manager, AI and Data Platform,_ervices-engineering?team=SFTWR"
-    },
-    {
-      "title": "Maps Operations Program Lead",
-      "url": "https://jobs.apple.com/en-us/details/200657310-0157/maps-operations-program-lead?team=SFTWR",
-      "identifier": "Maps Operations Program Lead_ations-program-lead?team=SFTWR"
     },
     {
       "title": "Bluetooth Software Engineer, Wireless Technologies & Ecosystems",
@@ -72,13 +77,8 @@
       "title": "Engineering Program Manager - Foundation Modeling Data",
       "url": "https://jobs.apple.com/en-us/details/200657051-1242/engineering-program-manager-foundation-modeling-data?team=SFTWR",
       "identifier": "Engineering Program Manager - Foundation Modeling _ation-modeling-data?team=SFTWR"
-    },
-    {
-      "title": "Staff Data Engineer - Experimentation",
-      "url": "https://jobs.apple.com/en-us/details/200618200-2621/staff-data-engineer-experimentation?team=SFTWR",
-      "identifier": "Staff Data Engineer - Experimentation_eer-experimentation?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-13T19:32:40.291860"
+  "timestamp": "2026-04-13T19:49:42.540512"
 }

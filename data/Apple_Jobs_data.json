@@ -4,6 +4,11 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Software Engineer, Watch Software",
+      "url": "https://jobs.apple.com/en-us/details/200597869-0365/software-engineer-watch-software?team=SFTWR",
+      "identifier": "Software Engineer, Watch Software_neer-watch-software?team=SFTWR"
+    },
+    {
       "title": "Software Development Engineer, Vision Products Group",
       "url": "https://jobs.apple.com/en-us/details/200657307-3956/software-development-engineer-vision-products-group?team=SFTWR",
       "identifier": "Software Development Engineer, Vision Products Gro_sion-products-group?team=SFTWR"
@@ -49,11 +54,6 @@
       "identifier": "Tools and Automation Engineer, Watch Software_neer-watch-software?team=SFTWR"
     },
     {
-      "title": "Software Engineer, Watch Software",
-      "url": "https://jobs.apple.com/en-us/details/200597869-0365/software-engineer-watch-software?team=SFTWR",
-      "identifier": "Software Engineer, Watch Software_neer-watch-software?team=SFTWR"
-    },
-    {
       "title": "Cellular Power Optimization Software Engineer, Wireless Technologies & Ecosystems",
       "url": "https://jobs.apple.com/en-us/details/200657658-3543/cellular-power-optimization-software-engineer-wireless-technologies-ecosystems?team=SFTWR",
       "identifier": "Cellular Power Optimization Software Engineer, Wir_nologies-ecosystems?team=SFTWR"
@@ -85,5 +85,5 @@
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-14T17:31:58.198318"
+  "timestamp": "2026-04-14T17:49:09.442359"
 }

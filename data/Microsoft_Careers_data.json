@@ -4,12 +4,17 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Senior Software Engineer\nUnited States, California, Mountain View\nPosted 4 minutes ago",
+      "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted 8 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556855952?domain=microsoft.com",
+      "identifier": "Principal Software Engineer\nUnited States, Washing_556855952?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Software Engineer\nUnited States, California, Mountain View\nPosted 21 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556639472?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, California_556639472?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer\nUnited States, Georgia, Atlanta\nPosted 42 minutes ago",
+      "title": "Senior Software Engineer\nUnited States, Georgia, Atlanta\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556858230?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Georgia, A_556858230?domain=microsoft.com"
     },
@@ -47,13 +52,8 @@
       "title": "Senior Data Privacy & Governance Engineer\nUnited States, California, Mountain View + 1 more\nPosted 13 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556650813?domain=microsoft.com",
       "identifier": "Senior Data Privacy & Governance Engineer\nUnited S_556650813?domain=microsoft.com"
-    },
-    {
-      "title": "Member of Technical Staff -Platform Engineering Manager\nUnited States, California, Mountain View\nPosted 14 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556858399?domain=microsoft.com",
-      "identifier": "Member of Technical Staff -Platform Engineering Ma_556858399?domain=microsoft.com"
     }
   ],
-  "job_count_text": "678",
-  "timestamp": "2026-04-14T17:31:42.092987"
+  "job_count_text": "679",
+  "timestamp": "2026-04-14T17:48:53.356272"
 }

@@ -4,19 +4,14 @@
   "total_jobs": 8,
   "jobs": [
     {
-      "title": "Associate Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0883983/Associate-Software-Development-Engineer",
-      "identifier": "Associate Software Development Engineer_-Software-Development-Engineer"
-    },
-    {
-      "title": "Senior Software Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0816592/Senior-Software-Engineer",
-      "identifier": "Senior Software Engineer_16592/Senior-Software-Engineer"
-    },
-    {
       "title": "Senior Integration - Site Reliability Engineer (SRE)",
       "url": "https://jobs.cvshealth.com/us/en/job/R0834201/Senior-Integration-Site-Reliability-Engineer-SRE",
       "identifier": "Senior Integration - Site Reliability Engineer (SR_-Site-Reliability-Engineer-SRE"
+    },
+    {
+      "title": "Senior Front End Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0805983/Senior-Front-End-Engineer",
+      "identifier": "Senior Front End Engineer_5983/Senior-Front-End-Engineer"
     },
     {
       "title": "Senior Engineering Manager",
@@ -24,26 +19,31 @@
       "identifier": "Senior Engineering Manager_251/Senior-Engineering-Manager"
     },
     {
-      "title": "Principal Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0762980/Principal-Software-Development-Engineer",
-      "identifier": "Principal Software Development Engineer_-Software-Development-Engineer"
-    },
-    {
       "title": "Technical Support Representative",
       "url": "https://jobs.cvshealth.com/us/en/job/R0864462/Technical-Support-Representative",
       "identifier": "Technical Support Representative_chnical-Support-Representative"
     },
     {
-      "title": "Senior Engineering Manager",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0847003/Senior-Engineering-Manager",
-      "identifier": "Senior Engineering Manager_003/Senior-Engineering-Manager"
+      "title": "Associate Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0883983/Associate-Software-Development-Engineer",
+      "identifier": "Associate Software Development Engineer_-Software-Development-Engineer"
     },
     {
       "title": "Director of Automation Engineering - Pharmacy Products",
       "url": "https://jobs.cvshealth.com/us/en/job/R0878872/Director-of-Automation-Engineering-Pharmacy-Products",
       "identifier": "Director of Automation Engineering - Pharmacy Prod_-Engineering-Pharmacy-Products"
+    },
+    {
+      "title": "Senior Engineering Manager",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0877327/Senior-Engineering-Manager",
+      "identifier": "Senior Engineering Manager_327/Senior-Engineering-Manager"
+    },
+    {
+      "title": "Principal Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0762980/Principal-Software-Development-Engineer",
+      "identifier": "Principal Software Development Engineer_-Software-Development-Engineer"
     }
   ],
   "job_count_text": "55",
-  "timestamp": "2026-04-14T00:32:16.701194"
+  "timestamp": "2026-04-14T00:49:25.341028"
 }

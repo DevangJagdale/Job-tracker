@@ -4,6 +4,16 @@
   "total_jobs": 15,
   "jobs": [
     {
+      "title": "Software Development Engineer, Test, Graphics, Games & ML",
+      "url": "https://jobs.apple.com/en-us/details/200657619-0836/software-development-engineer-test-graphics-games-ml?team=SFTWR",
+      "identifier": "Software Development Engineer, Test, Graphics, Gam_t-graphics-games-ml?team=SFTWR"
+    },
+    {
+      "title": "UX Design Manager, Developer Experience & Operations",
+      "url": "https://jobs.apple.com/en-us/details/200657724-0836/ux-design-manager-developer-experience-operations?team=SFTWR",
+      "identifier": "UX Design Manager, Developer Experience & Operatio_perience-operations?team=SFTWR"
+    },
+    {
       "title": "Graphics Software Engineer",
       "url": "https://jobs.apple.com/en-us/details/200657664-0157/graphics-software-engineer?team=SFTWR",
       "identifier": "Graphics Software Engineer_s-software-engineer?team=SFTWR"
@@ -67,18 +77,8 @@
       "title": "Wireless Systems Performance Engineer, Wireless Technologies & Ecosystems",
       "url": "https://jobs.apple.com/en-us/details/200657388-3543/wireless-systems-performance-engineer-wireless-technologies-ecosystems?team=SFTWR",
       "identifier": "Wireless Systems Performance Engineer, Wireless Te_nologies-ecosystems?team=SFTWR"
-    },
-    {
-      "title": "Senior Engineering Program Manager - ASE Commerce",
-      "url": "https://jobs.apple.com/en-us/details/200657529-3337/senior-engineering-program-manager-ase-commerce?team=SFTWR",
-      "identifier": "Senior Engineering Program Manager - ASE Commerce_anager-ase-commerce?team=SFTWR"
-    },
-    {
-      "title": "Health AIML - Distinguished Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200657654-0836/health-aiml-distinguished-engineer?team=MLAI",
-      "identifier": "Health AIML - Distinguished Engineer_stinguished-engineer?team=MLAI"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-14T15:31:53.897449"
+  "timestamp": "2026-04-14T15:49:03.975781"
 }

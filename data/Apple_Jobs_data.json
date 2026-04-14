@@ -4,6 +4,11 @@
   "total_jobs": 17,
   "jobs": [
     {
+      "title": "Software Development Engineer, Vision Products Group",
+      "url": "https://jobs.apple.com/en-us/details/200657307-3956/software-development-engineer-vision-products-group?team=SFTWR",
+      "identifier": "Software Development Engineer, Vision Products Gro_sion-products-group?team=SFTWR"
+    },
+    {
       "title": "Engineering Program Manager, Cloud Compute, Apple Services Engineering",
       "url": "https://jobs.apple.com/en-us/details/200657818-3337/engineering-program-manager-cloud-compute-apple-services-engineering?team=SFTWR",
       "identifier": "Engineering Program Manager, Cloud Compute, Apple _ervices-engineering?team=SFTWR"
@@ -12,11 +17,6 @@
       "title": "Software Engineer, Watch Software",
       "url": "https://jobs.apple.com/en-us/details/200597869-0365/software-engineer-watch-software?team=SFTWR",
       "identifier": "Software Engineer, Watch Software_neer-watch-software?team=SFTWR"
-    },
-    {
-      "title": "Software Development Engineer, Vision Products Group",
-      "url": "https://jobs.apple.com/en-us/details/200657307-3956/software-development-engineer-vision-products-group?team=SFTWR",
-      "identifier": "Software Development Engineer, Vision Products Gro_sion-products-group?team=SFTWR"
     },
     {
       "title": "Senior Engineering Project Manager, Employee Experience & Productivity",
@@ -90,5 +90,5 @@
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-14T18:06:25.004858"
+  "timestamp": "2026-04-14T18:23:35.886845"
 }

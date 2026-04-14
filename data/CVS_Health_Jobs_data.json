@@ -1,7 +1,7 @@
 {
   "page_title": "Search CVS Health Jobs | Find Your Next Career Opportunity",
   "url": "https://jobs.cvshealth.com/us/en/search-results",
-  "total_jobs": 8,
+  "total_jobs": 7,
   "jobs": [
     {
       "title": "Sr Software Development Engineer",
@@ -19,6 +19,11 @@
       "identifier": "Executive Director, Digital Engineering- Aetna Mem_ineering-Aetna-Member-Services"
     },
     {
+      "title": "AS/400 Application Developer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0768768/AS-400-Application-Developer",
+      "identifier": "AS/400 Application Developer_8/AS-400-Application-Developer"
+    },
+    {
       "title": "Software Development Engineer",
       "url": "https://jobs.cvshealth.com/us/en/job/R0879070/Software-Development-Engineer",
       "identifier": "Software Development Engineer_/Software-Development-Engineer"
@@ -32,18 +37,8 @@
       "title": "Senior Android Engineer",
       "url": "https://jobs.cvshealth.com/us/en/job/R0833386/Senior-Android-Engineer",
       "identifier": "Senior Android Engineer_833386/Senior-Android-Engineer"
-    },
-    {
-      "title": "Senior Analyst - Digital Customer Experience Optimization",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0869970/Senior-Analyst-Digital-Customer-Experience-Optimization",
-      "identifier": "Senior Analyst - Digital Customer Experience Optim_stomer-Experience-Optimization"
-    },
-    {
-      "title": "Senior Engineering Manager",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0847003/Senior-Engineering-Manager",
-      "identifier": "Senior Engineering Manager_003/Senior-Engineering-Manager"
     }
   ],
-  "job_count_text": "52",
-  "timestamp": "2026-04-14T18:07:27.162168"
+  "job_count_text": "54",
+  "timestamp": "2026-04-14T18:24:38.351180"
 }

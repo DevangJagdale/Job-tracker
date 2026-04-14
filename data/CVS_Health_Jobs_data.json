@@ -4,6 +4,11 @@
   "total_jobs": 8,
   "jobs": [
     {
+      "title": "Sr Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0861595/Sr-Software-Development-Engineer",
+      "identifier": "Sr Software Development Engineer_-Software-Development-Engineer"
+    },
+    {
       "title": "Senior Software Development Engineer",
       "url": "https://jobs.cvshealth.com/us/en/job/R0859898/Senior-Software-Development-Engineer",
       "identifier": "Senior Software Development Engineer_-Software-Development-Engineer"
@@ -14,9 +19,9 @@
       "identifier": "Executive Director, Digital Engineering- Aetna Mem_ineering-Aetna-Member-Services"
     },
     {
-      "title": "Sr Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0861581/Sr-Software-Development-Engineer",
-      "identifier": "Sr Software Development Engineer_-Software-Development-Engineer"
+      "title": "AS/400 Application Developer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0768768/AS-400-Application-Developer",
+      "identifier": "AS/400 Application Developer_8/AS-400-Application-Developer"
     },
     {
       "title": "Senior Scrum Master",
@@ -24,26 +29,21 @@
       "identifier": "Senior Scrum Master_b/R0877857/Senior-Scrum-Master"
     },
     {
-      "title": "AS/400 Application Developer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0768768/AS-400-Application-Developer",
-      "identifier": "AS/400 Application Developer_8/AS-400-Application-Developer"
-    },
-    {
-      "title": "Associate Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0883983/Associate-Software-Development-Engineer",
-      "identifier": "Associate Software Development Engineer_-Software-Development-Engineer"
-    },
-    {
-      "title": "Technical Support Representative",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0864462/Technical-Support-Representative",
-      "identifier": "Technical Support Representative_chnical-Support-Representative"
-    },
-    {
       "title": "Software Development Engineer",
       "url": "https://jobs.cvshealth.com/us/en/job/R0879070/Software-Development-Engineer",
       "identifier": "Software Development Engineer_/Software-Development-Engineer"
+    },
+    {
+      "title": "Senior Analyst, Tech Infrastructure",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0818406/Senior-Analyst-Tech-Infrastructure",
+      "identifier": "Senior Analyst, Tech Infrastructure_or-Analyst-Tech-Infrastructure"
+    },
+    {
+      "title": "Senior Android Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0833386/Senior-Android-Engineer",
+      "identifier": "Senior Android Engineer_833386/Senior-Android-Engineer"
     }
   ],
   "job_count_text": "53",
-  "timestamp": "2026-04-14T21:58:46.524442"
+  "timestamp": "2026-04-14T22:15:53.020022"
 }

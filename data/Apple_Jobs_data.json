@@ -4,6 +4,16 @@
   "total_jobs": 17,
   "jobs": [
     {
+      "title": "Engineering Program Manager, Software Program Tools",
+      "url": "https://jobs.apple.com/en-us/details/200657985-0836/engineering-program-manager-software-program-tools?team=SFTWR",
+      "identifier": "Engineering Program Manager, Software Program Tool_tware-program-tools?team=SFTWR"
+    },
+    {
+      "title": "Sr. Full-Stack Engineer, App Store",
+      "url": "https://jobs.apple.com/en-us/details/200653191-3337/sr-full-stack-engineer-app-store?team=SFTWR",
+      "identifier": "Sr. Full-Stack Engineer, App Store_-engineer-app-store?team=SFTWR"
+    },
+    {
       "title": "Product Design Producer - Wallets, Payments and Commerce",
       "url": "https://jobs.apple.com/en-us/details/200656985-0836/product-design-producer-wallets-payments-and-commerce?team=SFTWR",
       "identifier": "Product Design Producer - Wallets, Payments and Co_yments-and-commerce?team=SFTWR"
@@ -77,18 +87,8 @@
       "title": "Engineering Program Manager, AppleCare",
       "url": "https://jobs.apple.com/en-us/details/200646219-3401/engineering-program-manager-applecare?team=SFTWR",
       "identifier": "Engineering Program Manager, AppleCare_m-manager-applecare?team=SFTWR"
-    },
-    {
-      "title": "Security Architect",
-      "url": "https://jobs.apple.com/en-us/details/200655124-3337/security-architect?team=SFTWR",
-      "identifier": "Security Architect_/security-architect?team=SFTWR"
-    },
-    {
-      "title": "Tools and Automation Engineer, Watch Software",
-      "url": "https://jobs.apple.com/en-us/details/200625860-3543/tools-and-automation-engineer-watch-software?team=SFTWR",
-      "identifier": "Tools and Automation Engineer, Watch Software_neer-watch-software?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-14T22:49:07.368278"
+  "timestamp": "2026-04-14T23:06:17.118709"
 }

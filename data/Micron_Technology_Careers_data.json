@@ -4,6 +4,11 @@
   "total_jobs": 10,
   "jobs": [
     {
+      "title": "Silicon System AI Engineer\nSan Jose, California, United States of America\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/41043973",
+      "identifier": "Silicon System AI Engineer\nSan Jose, California, U_icron.com/careers/job/41043973"
+    },
+    {
       "title": "New College Grad - Semiconductor Design Engineer, DRAM Products Group\nBoise, Idaho, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/39756043",
       "identifier": "New College Grad - Semiconductor Design Engineer, _icron.com/careers/job/39756043"
@@ -17,11 +22,6 @@
       "title": "Engineer-II, Firmware and Product Test Engineering\nLongmont, Colorado, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/40876529",
       "identifier": "Engineer-II, Firmware and Product Test Engineering_icron.com/careers/job/40876529"
-    },
-    {
-      "title": "Silicon System AI Engineer\nSan Jose, California, United States of America\nPosted a day ago",
-      "url": "https://careers.micron.com/careers/job/41043973",
-      "identifier": "Silicon System AI Engineer\nSan Jose, California, U_icron.com/careers/job/41043973"
     },
     {
       "title": "Engineer, FE CENTRAL QA ID1\nBoise, Idaho, United States of America\nPosted 4 days ago",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "77",
-  "timestamp": "2026-04-14T02:34:25.523460"
+  "timestamp": "2026-04-14T02:51:32.321454"
 }

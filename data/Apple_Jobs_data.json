@@ -4,6 +4,16 @@
   "total_jobs": 14,
   "jobs": [
     {
+      "title": "Software QA Automation Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200646752-0836/software-qa-automation-engineer?team=SFTWR",
+      "identifier": "Software QA Automation Engineer_automation-engineer?team=SFTWR"
+    },
+    {
+      "title": "QA Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200601272-0836/qa-engineer?team=SFTWR",
+      "identifier": "QA Engineer_72-0836/qa-engineer?team=SFTWR"
+    },
+    {
       "title": "Data Engineer, App Insights Engineering, Services Data Science & Analytics",
       "url": "https://jobs.apple.com/en-us/details/200657274-0157/data-engineer-app-insights-engineering-services-data-science-analytics?team=MLAI",
       "identifier": "Data Engineer, App Insights Engineering, Services _ta-science-analytics?team=MLAI"
@@ -62,18 +72,8 @@
       "title": "Maps Operations Program Lead",
       "url": "https://jobs.apple.com/en-us/details/200657310-0157/maps-operations-program-lead?team=SFTWR",
       "identifier": "Maps Operations Program Lead_ations-program-lead?team=SFTWR"
-    },
-    {
-      "title": "QA Automation Engineer - Apple Neural Engine (ANE)",
-      "url": "https://jobs.apple.com/en-us/details/200655817-3956/qa-automation-engineer-apple-neural-engine-ane?team=SFTWR",
-      "identifier": "QA Automation Engineer - Apple Neural Engine (ANE)_e-neural-engine-ane?team=SFTWR"
-    },
-    {
-      "title": "Engineering Program Manager, AI and Data Platform, Apple Services Engineering",
-      "url": "https://jobs.apple.com/en-us/details/200651225-3337/engineering-program-manager-ai-and-data-platform-apple-services-engineering?team=SFTWR",
-      "identifier": "Engineering Program Manager, AI and Data Platform,_ervices-engineering?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-13T23:56:42.809847"
+  "timestamp": "2026-04-14T00:14:08.573488"
 }

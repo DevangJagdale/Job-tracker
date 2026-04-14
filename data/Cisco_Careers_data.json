@@ -1,7 +1,7 @@
 {
   "page_title": "Job Openings - Cisco Careers",
   "url": "https://careers.cisco.com/global/en/search-results?s=1",
-  "total_jobs": 10,
+  "total_jobs": 9,
   "jobs": [
     {
       "title": "Splunk Business Development Representative",
@@ -17,11 +17,6 @@
       "title": "Field Sales Intern (United States)",
       "url": "https://careers.cisco.com/global/en/job/2012189/Field-Sales-Intern-United-States",
       "identifier": "Field Sales Intern (United States)_eld-Sales-Intern-United-States"
-    },
-    {
-      "title": "Product Management Specialist II (Full Time) - United States",
-      "url": "https://careers.cisco.com/global/en/job/2004282/Product-Management-Specialist-II-Full-Time-United-States",
-      "identifier": "Product Management Specialist II (Full Time) - Uni_ist-II-Full-Time-United-States"
     },
     {
       "title": "Technical Sales Engineer Intern (United States)",
@@ -54,6 +49,6 @@
       "identifier": "Sales Development Representative II (Full Time) Un_al-Demand-Center-United-States"
     }
   ],
-  "job_count_text": "10",
-  "timestamp": "2026-04-14T14:48:58.933169"
+  "job_count_text": "9",
+  "timestamp": "2026-04-14T15:06:08.218673"
 }

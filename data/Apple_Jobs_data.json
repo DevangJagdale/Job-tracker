@@ -4,6 +4,11 @@
   "total_jobs": 17,
   "jobs": [
     {
+      "title": "Sr. Ruby on Rails Engineer, ASE",
+      "url": "https://jobs.apple.com/en-us/details/200654205-3337/sr-ruby-on-rails-engineer-ase?team=SFTWR",
+      "identifier": "Sr. Ruby on Rails Engineer, ASE_-rails-engineer-ase?team=SFTWR"
+    },
+    {
       "title": "Electrical Engineer, Data Center Operations",
       "url": "https://jobs.apple.com/en-us/details/200657286-1124/electrical-engineer-data-center-operations?team=SFTWR",
       "identifier": "Electrical Engineer, Data Center Operations_a-center-operations?team=SFTWR"
@@ -42,11 +47,6 @@
       "title": "Software Engineer, Cloud Network",
       "url": "https://jobs.apple.com/en-us/details/200596993-3956/software-engineer-cloud-network?team=SFTWR",
       "identifier": "Software Engineer, Cloud Network_ineer-cloud-network?team=SFTWR"
-    },
-    {
-      "title": "Software Development Engineer, Test, Graphics, Games & ML",
-      "url": "https://jobs.apple.com/en-us/details/200657619-0836/software-development-engineer-test-graphics-games-ml?team=SFTWR",
-      "identifier": "Software Development Engineer, Test, Graphics, Gam_t-graphics-games-ml?team=SFTWR"
     },
     {
       "title": "UX Design Manager, Developer Experience & Operations",
@@ -90,5 +90,5 @@
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-14T19:32:07.572455"
+  "timestamp": "2026-04-14T19:49:24.452358"
 }

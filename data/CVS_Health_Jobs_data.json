@@ -24,11 +24,6 @@
       "identifier": "AS/400 Application Developer_8/AS-400-Application-Developer"
     },
     {
-      "title": "Staff Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0783061/Staff-Software-Development-Engineer",
-      "identifier": "Staff Software Development Engineer_-Software-Development-Engineer"
-    },
-    {
       "title": "Software Development Engineer",
       "url": "https://jobs.cvshealth.com/us/en/job/R0879070/Software-Development-Engineer",
       "identifier": "Software Development Engineer_/Software-Development-Engineer"
@@ -37,8 +32,13 @@
       "title": "Senior Analyst, Tech Infrastructure",
       "url": "https://jobs.cvshealth.com/us/en/job/R0818406/Senior-Analyst-Tech-Infrastructure",
       "identifier": "Senior Analyst, Tech Infrastructure_or-Analyst-Tech-Infrastructure"
+    },
+    {
+      "title": "Senior Android Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0833386/Senior-Android-Engineer",
+      "identifier": "Senior Android Engineer_833386/Senior-Android-Engineer"
     }
   ],
-  "job_count_text": "56",
-  "timestamp": "2026-04-14T19:33:09.181446"
+  "job_count_text": "55",
+  "timestamp": "2026-04-14T19:50:26.301762"
 }

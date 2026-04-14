@@ -1,8 +1,33 @@
 {
   "page_title": "Search our Job Opportunities at Barclays",
   "url": "https://search.jobs.barclays/search-jobs/United%20States/13015/2/6252001/39x76/-98x5/50/2",
-  "total_jobs": 10,
+  "total_jobs": 16,
   "jobs": [
+    {
+      "title": "Principal Engineer - Director",
+      "url": "https://search.jobs.barclays/job/whippany/principal-engineer-director/13015/93944352240",
+      "identifier": "Principal Engineer - Director_eer-director/13015/93944352240"
+    },
+    {
+      "title": "Quantitative Analyst AVP",
+      "url": "https://search.jobs.barclays/job/new-york/quantitative-analyst-avp/13015/93930551808",
+      "identifier": "Quantitative Analyst AVP_-analyst-avp/13015/93930551808"
+    },
+    {
+      "title": "Acquisitions and Divestitures, AVP",
+      "url": "https://search.jobs.barclays/job/houston/acquisitions-and-divestitures-avp/13015/93930547904",
+      "identifier": "Acquisitions and Divestitures, AVP_stitures-avp/13015/93930547904"
+    },
+    {
+      "title": "US Rates Short Term Sales AVP",
+      "url": "https://search.jobs.barclays/job/new-york/us-rates-short-term-sales-avp/13015/93930541136",
+      "identifier": "US Rates Short Term Sales AVP_rm-sales-avp/13015/93930541136"
+    },
+    {
+      "title": "Securitized Product Project Manager",
+      "url": "https://search.jobs.barclays/job/whippany/securitized-product-project-manager/13015/93930540112",
+      "identifier": "Securitized Product Project Manager_ject-manager/13015/93930540112"
+    },
     {
       "title": "Equities Valuations Software Engineer",
       "url": "https://search.jobs.barclays/job/whippany/equities-valuations-software-engineer/13015/93930537072",
@@ -14,9 +39,19 @@
       "identifier": "AVP, CCAR Process Oversight and Control_-and-control/13015/93918198080"
     },
     {
+      "title": "Director, Rich Media, Workplace and Collaboration Technology New York",
+      "url": "https://search.jobs.barclays/job/new-york/director-rich-media-workplace-and-collaboration-technology-new-york/13015/93918195088",
+      "identifier": "Director, Rich Media, Workplace and Collaboration _ogy-new-york/13015/93918195088"
+    },
+    {
       "title": "Director, FinTech / Financial Institutions Coverage, International Corporate Banking Americas",
       "url": "https://search.jobs.barclays/job/new-york/director-fintech-financial-institutions-coverage-international-corporate-banking-americas/13015/93918195072",
       "identifier": "Director, FinTech / Financial Institutions Coverag_ing-americas/13015/93918195072"
+    },
+    {
+      "title": "Director, Workplace and Collaboration Technology New York",
+      "url": "https://search.jobs.barclays/job/new-york/director-workplace-and-collaboration-technology-new-york/13015/93918194112",
+      "identifier": "Director, Workplace and Collaboration Technology N_ogy-new-york/13015/93918194112"
     },
     {
       "title": "Personal Assistant & Administration",
@@ -47,13 +82,8 @@
       "title": "Senior Product Manager - VP",
       "url": "https://search.jobs.barclays/job/whippany/senior-product-manager-vp/13015/93816641072",
       "identifier": "Senior Product Manager - VP_t-manager-vp/13015/93816641072"
-    },
-    {
-      "title": "Head of US Technology Command Centre",
-      "url": "https://search.jobs.barclays/job/whippany/head-of-us-technology-command-centre/13015/93804622144",
-      "identifier": "Head of US Technology Command Centre_mmand-centre/13015/93804622144"
     }
   ],
   "job_count_text": "111",
-  "timestamp": "2026-04-14T11:35:23.064493"
+  "timestamp": "2026-04-14T11:52:32.897243"
 }

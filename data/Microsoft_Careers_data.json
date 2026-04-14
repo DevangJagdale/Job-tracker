@@ -1,25 +1,35 @@
 {
   "page_title": "| Microsoft Careers",
   "url": "https://apply.careers.microsoft.com/careers?domain=microsoft.com&start=0&location=United+States&sort_by=timestamp&filter_include_remote=1&filter_profession=software+engineering%2Cresearch%252C%2520applied%252C%2520%2526%2520data%2520sciences",
-  "total_jobs": 10,
+  "total_jobs": 9,
   "jobs": [
     {
-      "title": "Principal Software Engineer - Entra ID Security\nUnited States, Washington, Redmond\nPosted 16 minutes ago",
+      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 18 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556803492?domain=microsoft.com",
+      "identifier": "Senior Software Engineer\nUnited States, Washington_556803492?domain=microsoft.com"
+    },
+    {
+      "title": "Principal Software Engineer, CoreAI\nUnited States, Washington, Redmond\nPosted 17 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556653547?domain=microsoft.com",
+      "identifier": "Principal Software Engineer, CoreAI\nUnited States,_556653547?domain=microsoft.com"
+    },
+    {
+      "title": "Principal Software Engineer - Entra ID Security\nUnited States, Washington, Redmond\nPosted 34 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556802675?domain=microsoft.com",
       "identifier": "Principal Software Engineer - Entra ID Security\nUn_556802675?domain=microsoft.com"
     },
     {
-      "title": "Software Engineering\nUnited States, Washington, Redmond\nPosted 33 minutes ago",
+      "title": "Software Engineering\nUnited States, Washington, Redmond\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556802479?domain=microsoft.com",
       "identifier": "Software Engineering\nUnited States, Washington, Re_556802479?domain=microsoft.com"
     },
     {
-      "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted 38 minutes ago",
+      "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556755306?domain=microsoft.com",
       "identifier": "Principal Software Engineer\nUnited States, Washing_556755306?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 41 minutes ago",
+      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556755296?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Washington_556755296?domain=microsoft.com"
     },
@@ -37,23 +47,8 @@
       "title": "Senior Software Engineer\nUnited States, California, Mountain View\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556639472?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, California_556639472?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Software Engineer\nUnited States, Georgia, Atlanta\nPosted 2 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556858230?domain=microsoft.com",
-      "identifier": "Senior Software Engineer\nUnited States, Georgia, A_556858230?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Software Engineer-AI Infra\nUnited States, California, Mountain View + 1 more\nPosted 2 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556857528?domain=microsoft.com",
-      "identifier": "Senior Software Engineer-AI Infra\nUnited States, C_556857528?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Software Engineer\nUnited States, Multiple Locations, Multiple Locations + 2 more\nPosted 2 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556813982?domain=microsoft.com",
-      "identifier": "Senior Software Engineer\nUnited States, Multiple L_556813982?domain=microsoft.com"
     }
   ],
-  "job_count_text": "682",
-  "timestamp": "2026-04-14T18:40:28.336464"
+  "job_count_text": "684",
+  "timestamp": "2026-04-14T18:57:36.584605"
 }

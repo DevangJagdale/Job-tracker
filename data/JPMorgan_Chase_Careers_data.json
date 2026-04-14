@@ -9,19 +9,9 @@
       "identifier": "jpmc_210734618"
     },
     {
-      "title": "Finance Quant Model Developer, Senior Associate",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210724352/?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
-      "identifier": "jpmc_210724352"
-    },
-    {
       "title": "Applied AI ML, Senior Associate - Sales Science",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210734045/?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
       "identifier": "jpmc_210734045"
-    },
-    {
-      "title": "Finance Quant Model Developer, Senior Associate",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210734296/?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
-      "identifier": "jpmc_210734296"
     },
     {
       "title": "Risk Management - Quant Modeling Lead - Vice President",
@@ -84,6 +74,16 @@
       "identifier": "jpmc_210726751"
     },
     {
+      "title": "Java/AWS Lead Software Engineer",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210728631/?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
+      "identifier": "jpmc_210728631"
+    },
+    {
+      "title": "Software Engineer III- Python API / Agentic Development",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210728645/?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
+      "identifier": "jpmc_210728645"
+    },
+    {
       "title": "Software Engineer III - Monday.com Platform (Fullstack ReactJS, Java, Python, AWS)",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210731495/?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
       "identifier": "jpmc_210731495"
@@ -130,5 +130,5 @@
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-14T18:42:45.642956"
+  "timestamp": "2026-04-14T18:59:52.963699"
 }

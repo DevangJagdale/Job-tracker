@@ -4,6 +4,11 @@
   "total_jobs": 17,
   "jobs": [
     {
+      "title": "Applied ML, Software Engineer - Sensing & Connectivity",
+      "url": "https://jobs.apple.com/en-us/details/200657880-0836/applied-ml-software-engineer-sensing-connectivity?team=SFTWR",
+      "identifier": "Applied ML, Software Engineer - Sensing & Connecti_ensing-connectivity?team=SFTWR"
+    },
+    {
       "title": "Software Development Engineer, Vision Products Group",
       "url": "https://jobs.apple.com/en-us/details/200657307-3956/software-development-engineer-vision-products-group?team=SFTWR",
       "identifier": "Software Development Engineer, Vision Products Gro_sion-products-group?team=SFTWR"
@@ -82,13 +87,8 @@
       "title": "Sr. Machine Learning Infrastructure Engineer, Creator Studio",
       "url": "https://jobs.apple.com/en-us/details/200647930-0670/sr-machine-learning-infrastructure-engineer-creator-studio?team=SFTWR",
       "identifier": "Sr. Machine Learning Infrastructure Engineer, Crea_neer-creator-studio?team=SFTWR"
-    },
-    {
-      "title": "Software Development Engineer, Apps & Frameworks",
-      "url": "https://jobs.apple.com/en-us/details/200657655-0836/software-development-engineer-apps-frameworks?team=SFTWR",
-      "identifier": "Software Development Engineer, Apps & Frameworks_eer-apps-frameworks?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-14T18:40:44.443970"
+  "timestamp": "2026-04-14T18:57:52.654952"
 }

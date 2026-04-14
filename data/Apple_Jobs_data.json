@@ -4,6 +4,11 @@
   "total_jobs": 17,
   "jobs": [
     {
+      "title": "Senior Software Developer in Test - Embedded Sensors QE, Core OS",
+      "url": "https://jobs.apple.com/en-us/details/200657721-0836/senior-software-developer-in-test-embedded-sensors-qe-core-os?team=SFTWR",
+      "identifier": "Senior Software Developer in Test - Embedded Senso_-sensors-qe-core-os?team=SFTWR"
+    },
+    {
       "title": "Sr. Ruby on Rails Engineer, ASE",
       "url": "https://jobs.apple.com/en-us/details/200654205-3337/sr-ruby-on-rails-engineer-ase?team=SFTWR",
       "identifier": "Sr. Ruby on Rails Engineer, ASE_-rails-engineer-ase?team=SFTWR"
@@ -82,13 +87,8 @@
       "title": "Software QA Automation Engineer",
       "url": "https://jobs.apple.com/en-us/details/200646752-0836/software-qa-automation-engineer?team=SFTWR",
       "identifier": "Software QA Automation Engineer_automation-engineer?team=SFTWR"
-    },
-    {
-      "title": "QA Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200601272-0836/qa-engineer?team=SFTWR",
-      "identifier": "QA Engineer_72-0836/qa-engineer?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-14T20:24:15.681873"
+  "timestamp": "2026-04-14T20:41:21.132221"
 }

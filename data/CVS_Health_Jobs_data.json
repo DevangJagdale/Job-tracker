@@ -4,11 +4,6 @@
   "total_jobs": 8,
   "jobs": [
     {
-      "title": "Sr Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0861581/Sr-Software-Development-Engineer",
-      "identifier": "Sr Software Development Engineer_-Software-Development-Engineer"
-    },
-    {
       "title": "Senior Software Development Engineer",
       "url": "https://jobs.cvshealth.com/us/en/job/R0859898/Senior-Software-Development-Engineer",
       "identifier": "Senior Software Development Engineer_-Software-Development-Engineer"
@@ -17,6 +12,11 @@
       "title": "Executive Director, Digital Engineering- Aetna Member Services",
       "url": "https://jobs.cvshealth.com/us/en/job/R0873213/Executive-Director-Digital-Engineering-Aetna-Member-Services",
       "identifier": "Executive Director, Digital Engineering- Aetna Mem_ineering-Aetna-Member-Services"
+    },
+    {
+      "title": "Sr Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0861581/Sr-Software-Development-Engineer",
+      "identifier": "Sr Software Development Engineer_-Software-Development-Engineer"
     },
     {
       "title": "Associate Software Development Engineer",
@@ -44,6 +44,6 @@
       "identifier": "Epic Cogito Administrator_1727/Epic-Cogito-Administrator"
     }
   ],
-  "job_count_text": "51",
-  "timestamp": "2026-04-14T17:15:52.884270"
+  "job_count_text": "52",
+  "timestamp": "2026-04-14T17:33:00.397173"
 }

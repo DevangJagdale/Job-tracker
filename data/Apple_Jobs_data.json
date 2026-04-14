@@ -4,6 +4,11 @@
   "total_jobs": 13,
   "jobs": [
     {
+      "title": "Security Architect",
+      "url": "https://jobs.apple.com/en-us/details/200655124-3337/security-architect?team=SFTWR",
+      "identifier": "Security Architect_/security-architect?team=SFTWR"
+    },
+    {
       "title": "Tools and Automation Engineer, Watch Software",
       "url": "https://jobs.apple.com/en-us/details/200625860-3543/tools-and-automation-engineer-watch-software?team=SFTWR",
       "identifier": "Tools and Automation Engineer, Watch Software_neer-watch-software?team=SFTWR"
@@ -62,13 +67,8 @@
       "title": "Health AIML - Distinguished Engineer",
       "url": "https://jobs.apple.com/en-us/details/200657654-0836/health-aiml-distinguished-engineer?team=MLAI",
       "identifier": "Health AIML - Distinguished Engineer_stinguished-engineer?team=MLAI"
-    },
-    {
-      "title": "Cellular Software Performance Engineer, Wireless Technologies & Ecosystems",
-      "url": "https://jobs.apple.com/en-us/details/200656961-3956/cellular-software-performance-engineer-wireless-technologies-ecosystems?team=SFTWR",
-      "identifier": "Cellular Software Performance Engineer, Wireless T_nologies-ecosystems?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-14T03:05:25.700625"
+  "timestamp": "2026-04-14T03:22:35.576282"
 }

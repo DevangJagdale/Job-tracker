@@ -4,6 +4,11 @@
   "total_jobs": 10,
   "jobs": [
     {
+      "title": "Site Reliability Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 17 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556619927?domain=microsoft.com",
+      "identifier": "Site Reliability Engineer\nUnited States, Multiple _556619927?domain=microsoft.com"
+    },
+    {
       "title": "Principal Software Engineering Manager, CoreAI\nUnited States, Washington, Redmond\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556858887?domain=microsoft.com",
       "identifier": "Principal Software Engineering Manager, CoreAI\nUni_556858887?domain=microsoft.com"
@@ -24,7 +29,7 @@
       "identifier": "Senior Site Reliability Engineer\nUnited States, Mu_556754197?domain=microsoft.com"
     },
     {
-      "title": "Software Engineer - Full Stack\nUnited States, Washington, Redmond\nPosted 3 hours ago",
+      "title": "Software Engineer - Full Stack\nUnited States, Washington, Redmond\nPosted 4 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556850645?domain=microsoft.com",
       "identifier": "Software Engineer - Full Stack\nUnited States, Wash_556850645?domain=microsoft.com"
     },
@@ -47,13 +52,8 @@
       "title": "Senior Applied Scientist\nUnited States, Washington, Redmond\nPosted 5 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556851873?domain=microsoft.com",
       "identifier": "Senior Applied Scientist\nUnited States, Washington_556851873?domain=microsoft.com"
-    },
-    {
-      "title": "Member of Technical Staff - Principal Data Infrastructure Engineer\nUnited States, Washington, Redmond\nPosted 5 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556638811?domain=microsoft.com",
-      "identifier": "Member of Technical Staff - Principal Data Infrast_556638811?domain=microsoft.com"
     }
   ],
-  "job_count_text": "692",
-  "timestamp": "2026-04-14T02:13:52.813167"
+  "job_count_text": "693",
+  "timestamp": "2026-04-14T02:30:57.947508"
 }

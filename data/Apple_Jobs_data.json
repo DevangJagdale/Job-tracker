@@ -1,8 +1,23 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 14,
+  "total_jobs": 13,
   "jobs": [
+    {
+      "title": "Tools and Automation Engineer, Watch Software",
+      "url": "https://jobs.apple.com/en-us/details/200625860-3543/tools-and-automation-engineer-watch-software?team=SFTWR",
+      "identifier": "Tools and Automation Engineer, Watch Software_neer-watch-software?team=SFTWR"
+    },
+    {
+      "title": "Software Engineer, Watch Software",
+      "url": "https://jobs.apple.com/en-us/details/200597869-0365/software-engineer-watch-software?team=SFTWR",
+      "identifier": "Software Engineer, Watch Software_neer-watch-software?team=SFTWR"
+    },
+    {
+      "title": "Cellular Power Optimization Software Engineer, Wireless Technologies & Ecosystems",
+      "url": "https://jobs.apple.com/en-us/details/200657658-3543/cellular-power-optimization-software-engineer-wireless-technologies-ecosystems?team=SFTWR",
+      "identifier": "Cellular Power Optimization Software Engineer, Wir_nologies-ecosystems?team=SFTWR"
+    },
     {
       "title": "Software QA Automation Engineer",
       "url": "https://jobs.apple.com/en-us/details/200646752-0836/software-qa-automation-engineer?team=SFTWR",
@@ -52,28 +67,8 @@
       "title": "Cellular Software Performance Engineer, Wireless Technologies & Ecosystems",
       "url": "https://jobs.apple.com/en-us/details/200656961-3956/cellular-software-performance-engineer-wireless-technologies-ecosystems?team=SFTWR",
       "identifier": "Cellular Software Performance Engineer, Wireless T_nologies-ecosystems?team=SFTWR"
-    },
-    {
-      "title": "WebKit Test Integrity Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200643136-3543/webkit-test-integrity-engineer?team=SFTWR",
-      "identifier": "WebKit Test Integrity Engineer_-integrity-engineer?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer, Accessibility",
-      "url": "https://jobs.apple.com/en-us/details/200657564-0836/software-engineer-accessibility?team=SFTWR",
-      "identifier": "Software Engineer, Accessibility_ineer-accessibility?team=SFTWR"
-    },
-    {
-      "title": "On-Device Machine Learning Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200657024-3956/on-device-machine-learning-engineer?team=MLAI",
-      "identifier": "On-Device Machine Learning Engineer_ne-learning-engineer?team=MLAI"
-    },
-    {
-      "title": "Maps Operations Program Lead",
-      "url": "https://jobs.apple.com/en-us/details/200657310-0157/maps-operations-program-lead?team=SFTWR",
-      "identifier": "Maps Operations Program Lead_ations-program-lead?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-14T02:14:08.475617"
+  "timestamp": "2026-04-14T02:31:14.314828"
 }

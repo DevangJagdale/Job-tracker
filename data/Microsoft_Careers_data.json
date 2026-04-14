@@ -1,8 +1,18 @@
 {
   "page_title": "| Microsoft Careers",
   "url": "https://apply.careers.microsoft.com/careers?domain=microsoft.com&start=0&location=United+States&sort_by=timestamp&filter_include_remote=1&filter_profession=software+engineering%2Cresearch%252C%2520applied%252C%2520%2526%2520data%2520sciences",
-  "total_jobs": 8,
+  "total_jobs": 9,
   "jobs": [
+    {
+      "title": "Senior Software Engineer - Backend\nUnited States, Washington, Redmond\nPosted 9 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556850647?domain=microsoft.com",
+      "identifier": "Senior Software Engineer - Backend\nUnited States, _556850647?domain=microsoft.com"
+    },
+    {
+      "title": "AI Software Engineer II\nUnited States, Washington, Redmond\nPosted 24 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556752733?domain=microsoft.com",
+      "identifier": "AI Software Engineer II\nUnited States, Washington,_556752733?domain=microsoft.com"
+    },
     {
       "title": "Senior Site Reliability Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556619564?domain=microsoft.com",
@@ -14,7 +24,7 @@
       "identifier": "Senior Applied Scientist\nUnited States, Washington_556858349?domain=microsoft.com"
     },
     {
-      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted an hour ago",
+      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556858341?domain=microsoft.com",
       "identifier": "Software Engineer II\nUnited States, Washington, Re_556858341?domain=microsoft.com"
     },
@@ -37,13 +47,8 @@
       "title": "Senior Software Engineer - GitHub Copilot - CoreAI\nUnited States, Washington, Redmond\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556855730?domain=microsoft.com",
       "identifier": "Senior Software Engineer - GitHub Copilot - CoreAI_556855730?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Software Engineer - CoreAI\nUnited States, Washington, Redmond\nPosted 2 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556778473?domain=microsoft.com",
-      "identifier": "Senior Software Engineer - CoreAI\nUnited States, W_556778473?domain=microsoft.com"
     }
   ],
-  "job_count_text": "693",
-  "timestamp": "2026-04-14T21:05:52.752481"
+  "job_count_text": "695",
+  "timestamp": "2026-04-14T21:23:01.527326"
 }

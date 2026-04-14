@@ -4,6 +4,11 @@
   "total_jobs": 17,
   "jobs": [
     {
+      "title": "Product Design Producer - Wallets, Payments and Commerce",
+      "url": "https://jobs.apple.com/en-us/details/200656985-0836/product-design-producer-wallets-payments-and-commerce?team=SFTWR",
+      "identifier": "Product Design Producer - Wallets, Payments and Co_yments-and-commerce?team=SFTWR"
+    },
+    {
       "title": "Software Engineer - Embedded Debug Tools, Core OS",
       "url": "https://jobs.apple.com/en-us/details/200653198-0836/software-engineer-embedded-debug-tools-core-os?team=SFTWR",
       "identifier": "Software Engineer - Embedded Debug Tools, Core OS_debug-tools-core-os?team=SFTWR"
@@ -82,13 +87,8 @@
       "title": "Tools and Automation Engineer, Watch Software",
       "url": "https://jobs.apple.com/en-us/details/200625860-3543/tools-and-automation-engineer-watch-software?team=SFTWR",
       "identifier": "Tools and Automation Engineer, Watch Software_neer-watch-software?team=SFTWR"
-    },
-    {
-      "title": "Cellular Power Optimization Software Engineer, Wireless Technologies & Ecosystems",
-      "url": "https://jobs.apple.com/en-us/details/200657658-3543/cellular-power-optimization-software-engineer-wireless-technologies-ecosystems?team=SFTWR",
-      "identifier": "Cellular Power Optimization Software Engineer, Wir_nologies-ecosystems?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-14T21:40:29.622457"
+  "timestamp": "2026-04-14T21:57:45.551288"
 }

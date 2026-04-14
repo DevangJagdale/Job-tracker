@@ -4,11 +4,6 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Silicon System AI Engineer\nSan Jose, California, United States of America\nPosted a day ago",
-      "url": "https://careers.micron.com/careers/job/41043973",
-      "identifier": "Silicon System AI Engineer\nSan Jose, California, U_icron.com/careers/job/41043973"
-    },
-    {
       "title": "New College Grad - Semiconductor Design Engineer, DRAM Products Group\nBoise, Idaho, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/39756043",
       "identifier": "New College Grad - Semiconductor Design Engineer, _icron.com/careers/job/39756043"
@@ -24,6 +19,16 @@
       "identifier": "New College Grad - Semiconductor Verification Desi_icron.com/careers/job/40033242"
     },
     {
+      "title": "Silicon System AI Engineer\nSan Jose, California, United States of America\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/41043973",
+      "identifier": "Silicon System AI Engineer\nSan Jose, California, U_icron.com/careers/job/41043973"
+    },
+    {
+      "title": "Contract TA Operations Specialist \u2013 Events, Candidate Experience & Reporting\nSan Jose, California, United States of America + 2 more\nPosted 4 days ago",
+      "url": "https://careers.micron.com/careers/job/41381353",
+      "identifier": "Contract TA Operations Specialist \u2013 Events, Candid_icron.com/careers/job/41381353"
+    },
+    {
       "title": "Engineer, FE CENTRAL QA ID1\nBoise, Idaho, United States of America\nPosted 4 days ago",
       "url": "https://careers.micron.com/careers/job/39259267",
       "identifier": "Engineer, FE CENTRAL QA ID1\nBoise, Idaho, United S_icron.com/careers/job/39259267"
@@ -32,11 +37,6 @@
       "title": "Process Integration Engineer | APTD\nBoise, Idaho, United States of America\nPosted 4 days ago",
       "url": "https://careers.micron.com/careers/job/41288080",
       "identifier": "Process Integration Engineer | APTD\nBoise, Idaho, _icron.com/careers/job/41288080"
-    },
-    {
-      "title": "Contract TA Operations Specialist \u2013 Events, Candidate Experience & Reporting\nSan Jose, California, United States of America + 2 more\nPosted 4 days ago",
-      "url": "https://careers.micron.com/careers/job/41381353",
-      "identifier": "Contract TA Operations Specialist \u2013 Events, Candid_icron.com/careers/job/41381353"
     },
     {
       "title": "Semiconductor Process Engineer, Metrology\nBoise, Idaho, United States of America\nPosted 5 days ago",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "77",
-  "timestamp": "2026-04-14T03:43:02.741442"
+  "timestamp": "2026-04-14T04:00:10.082145"
 }

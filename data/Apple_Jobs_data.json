@@ -1,8 +1,18 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 17,
+  "total_jobs": 13,
   "jobs": [
+    {
+      "title": "Data Center Mechanical Engineer, Infrastructure Services",
+      "url": "https://jobs.apple.com/en-us/details/200652269-1025/data-center-mechanical-engineer-infrastructure-services?team=SFTWR",
+      "identifier": "Data Center Mechanical Engineer, Infrastructure Se_astructure-services?team=SFTWR"
+    },
+    {
+      "title": "UX Design Manager, Developer Experience Design",
+      "url": "https://jobs.apple.com/en-us/details/200657724-0836/ux-design-manager-developer-experience-design?team=SFTWR",
+      "identifier": "UX Design Manager, Developer Experience Design_r-experience-design?team=SFTWR"
+    },
     {
       "title": "Engineering Program Manager, Software Program Tools",
       "url": "https://jobs.apple.com/en-us/details/200657985-0836/engineering-program-manager-software-program-tools?team=SFTWR",
@@ -57,38 +67,8 @@
       "title": "Engineering Program Manager, Cloud Compute, Apple Services Engineering",
       "url": "https://jobs.apple.com/en-us/details/200657818-3337/engineering-program-manager-cloud-compute-apple-services-engineering?team=SFTWR",
       "identifier": "Engineering Program Manager, Cloud Compute, Apple _ervices-engineering?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer, Watch Software",
-      "url": "https://jobs.apple.com/en-us/details/200597869-0365/software-engineer-watch-software?team=SFTWR",
-      "identifier": "Software Engineer, Watch Software_neer-watch-software?team=SFTWR"
-    },
-    {
-      "title": "Senior Engineering Project Manager, Employee Experience & Productivity",
-      "url": "https://jobs.apple.com/en-us/details/200655003-0670/senior-engineering-project-manager-employee-experience-productivity?team=SFTWR",
-      "identifier": "Senior Engineering Project Manager, Employee Exper_rience-productivity?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer, Cloud Network",
-      "url": "https://jobs.apple.com/en-us/details/200596993-3956/software-engineer-cloud-network?team=SFTWR",
-      "identifier": "Software Engineer, Cloud Network_ineer-cloud-network?team=SFTWR"
-    },
-    {
-      "title": "UX Design Manager, Developer Experience & Operations",
-      "url": "https://jobs.apple.com/en-us/details/200657724-0836/ux-design-manager-developer-experience-operations?team=SFTWR",
-      "identifier": "UX Design Manager, Developer Experience & Operatio_perience-operations?team=SFTWR"
-    },
-    {
-      "title": "Graphics Software Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200657664-0157/graphics-software-engineer?team=SFTWR",
-      "identifier": "Graphics Software Engineer_s-software-engineer?team=SFTWR"
-    },
-    {
-      "title": "Engineering Program Manager, AppleCare",
-      "url": "https://jobs.apple.com/en-us/details/200646219-3401/engineering-program-manager-applecare?team=SFTWR",
-      "identifier": "Engineering Program Manager, AppleCare_m-manager-applecare?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-14T23:06:17.118709"
+  "timestamp": "2026-04-14T23:23:28.267762"
 }

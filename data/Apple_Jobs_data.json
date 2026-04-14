@@ -1,8 +1,23 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 15,
+  "total_jobs": 16,
   "jobs": [
+    {
+      "title": "Software Engineering Program Manager - watchOS",
+      "url": "https://jobs.apple.com/en-us/details/200656146-0836/software-engineering-program-manager-watchos?team=SFTWR",
+      "identifier": "Software Engineering Program Manager - watchOS_ram-manager-watchos?team=SFTWR"
+    },
+    {
+      "title": "Senior Engineering Project Manager, Employee Experience & Productivity",
+      "url": "https://jobs.apple.com/en-us/details/200655003-0670/senior-engineering-project-manager-employee-experience-productivity?team=SFTWR",
+      "identifier": "Senior Engineering Project Manager, Employee Exper_rience-productivity?team=SFTWR"
+    },
+    {
+      "title": "Software Engineer, Cloud Network",
+      "url": "https://jobs.apple.com/en-us/details/200596993-3956/software-engineer-cloud-network?team=SFTWR",
+      "identifier": "Software Engineer, Cloud Network_ineer-cloud-network?team=SFTWR"
+    },
     {
       "title": "Software Development Engineer, Test, Graphics, Games & ML",
       "url": "https://jobs.apple.com/en-us/details/200657619-0836/software-development-engineer-test-graphics-games-ml?team=SFTWR",
@@ -67,18 +82,8 @@
       "title": "Software Development Engineer, Apps & Frameworks",
       "url": "https://jobs.apple.com/en-us/details/200657655-0836/software-development-engineer-apps-frameworks?team=SFTWR",
       "identifier": "Software Development Engineer, Apps & Frameworks_eer-apps-frameworks?team=SFTWR"
-    },
-    {
-      "title": "Site Reliability Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200654194-3337/site-reliability-engineer?team=SFTWR",
-      "identifier": "Site Reliability Engineer_eliability-engineer?team=SFTWR"
-    },
-    {
-      "title": "Wireless Systems Performance Engineer, Wireless Technologies & Ecosystems",
-      "url": "https://jobs.apple.com/en-us/details/200657388-3543/wireless-systems-performance-engineer-wireless-technologies-ecosystems?team=SFTWR",
-      "identifier": "Wireless Systems Performance Engineer, Wireless Te_nologies-ecosystems?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-14T16:23:21.081780"
+  "timestamp": "2026-04-14T16:40:27.860881"
 }

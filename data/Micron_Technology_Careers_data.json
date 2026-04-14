@@ -4,16 +4,6 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "New College Grad - Semiconductor Design Engineer, DRAM Products Group\nBoise, Idaho, United States of America\nPosted a day ago",
-      "url": "https://careers.micron.com/careers/job/39756043",
-      "identifier": "New College Grad - Semiconductor Design Engineer, _icron.com/careers/job/39756043"
-    },
-    {
-      "title": "New College Grad - Semiconductor Verification Design Engineer, DRAM Products Group\nBoise, Idaho, United States of America\nPosted a day ago",
-      "url": "https://careers.micron.com/careers/job/40033242",
-      "identifier": "New College Grad - Semiconductor Verification Desi_icron.com/careers/job/40033242"
-    },
-    {
       "title": "Engineer-II, Firmware and Product Test Engineering\nLongmont, Colorado, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/40876529",
       "identifier": "Engineer-II, Firmware and Product Test Engineering_icron.com/careers/job/40876529"
@@ -22,6 +12,16 @@
       "title": "Silicon System AI Engineer\nSan Jose, California, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/41043973",
       "identifier": "Silicon System AI Engineer\nSan Jose, California, U_icron.com/careers/job/41043973"
+    },
+    {
+      "title": "New College Grad - Semiconductor Design Engineer, DRAM Products Group\nBoise, Idaho, United States of America\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/39756043",
+      "identifier": "New College Grad - Semiconductor Design Engineer, _icron.com/careers/job/39756043"
+    },
+    {
+      "title": "New College Grad - Semiconductor Verification Design Engineer, DRAM Products Group\nBoise, Idaho, United States of America\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/40033242",
+      "identifier": "New College Grad - Semiconductor Verification Desi_icron.com/careers/job/40033242"
     },
     {
       "title": "Engineer, FE CENTRAL QA ID1\nBoise, Idaho, United States of America\nPosted 4 days ago",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "77",
-  "timestamp": "2026-04-14T01:08:44.652169"
+  "timestamp": "2026-04-14T01:25:54.468303"
 }

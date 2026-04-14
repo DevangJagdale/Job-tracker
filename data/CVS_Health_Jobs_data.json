@@ -1,7 +1,7 @@
 {
   "page_title": "Search CVS Health Jobs | Find Your Next Career Opportunity",
   "url": "https://jobs.cvshealth.com/us/en/search-results",
-  "total_jobs": 7,
+  "total_jobs": 8,
   "jobs": [
     {
       "title": "Sr Software Development Engineer",
@@ -24,6 +24,11 @@
       "identifier": "AS/400 Application Developer_8/AS-400-Application-Developer"
     },
     {
+      "title": "Senior Scrum Master",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0877857/Senior-Scrum-Master",
+      "identifier": "Senior Scrum Master_b/R0877857/Senior-Scrum-Master"
+    },
+    {
       "title": "Software Development Engineer",
       "url": "https://jobs.cvshealth.com/us/en/job/R0879070/Software-Development-Engineer",
       "identifier": "Software Development Engineer_/Software-Development-Engineer"
@@ -39,6 +44,6 @@
       "identifier": "Senior Android Engineer_833386/Senior-Android-Engineer"
     }
   ],
-  "job_count_text": "55",
-  "timestamp": "2026-04-14T20:50:00.973229"
+  "job_count_text": "53",
+  "timestamp": "2026-04-14T21:07:09.385218"
 }

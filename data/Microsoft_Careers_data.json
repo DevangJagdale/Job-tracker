@@ -4,7 +4,12 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Senior Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 19 minutes ago",
+      "title": "Senior Software Engineer - Xbox Video\nUnited States, Multiple Locations, Multiple Locations\nPosted 18 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556856808?domain=microsoft.com",
+      "identifier": "Senior Software Engineer - Xbox Video\nUnited State_556856808?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 37 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556620649?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Multiple L_556620649?domain=microsoft.com"
     },
@@ -24,7 +29,7 @@
       "identifier": "Senior Data Privacy & Governance Engineer\nUnited S_556650813?domain=microsoft.com"
     },
     {
-      "title": "Member of Technical Staff -Platform Engineering Manager\nUnited States, California, Mountain View\nPosted 12 hours ago",
+      "title": "Member of Technical Staff -Platform Engineering Manager\nUnited States, California, Mountain View\nPosted 13 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556858399?domain=microsoft.com",
       "identifier": "Member of Technical Staff -Platform Engineering Ma_556858399?domain=microsoft.com"
     },
@@ -44,16 +49,11 @@
       "identifier": "Software Engineer II-Foundry Agent Platform Team\nU_556855373?domain=microsoft.com"
     },
     {
-      "title": "Senior Applied Scientist (Bing Places)\nUnited States, Washington, Redmond\nPosted 16 hours ago",
+      "title": "Senior Applied Scientist (Bing Places)\nUnited States, Washington, Redmond\nPosted 17 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556856829?domain=microsoft.com",
       "identifier": "Senior Applied Scientist (Bing Places)\nUnited Stat_556856829?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Site Reliability Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 17 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556754197?domain=microsoft.com",
-      "identifier": "Senior Site Reliability Engineer\nUnited States, Mu_556754197?domain=microsoft.com"
     }
   ],
-  "job_count_text": "673",
-  "timestamp": "2026-04-14T15:48:47.890621"
+  "job_count_text": "674",
+  "timestamp": "2026-04-14T16:05:57.862772"
 }

@@ -4,6 +4,11 @@
   "total_jobs": 17,
   "jobs": [
     {
+      "title": "Operations Critical Facilities Supervisor, Data Center Operations",
+      "url": "https://jobs.apple.com/en-us/details/200657375-2903/operations-critical-facilities-supervisor-data-center-operations?team=SFTWR",
+      "identifier": "Operations Critical Facilities Supervisor, Data Ce_a-center-operations?team=SFTWR"
+    },
+    {
       "title": "Applied ML, Software Engineer - Sensing & Connectivity",
       "url": "https://jobs.apple.com/en-us/details/200657880-0836/applied-ml-software-engineer-sensing-connectivity?team=SFTWR",
       "identifier": "Applied ML, Software Engineer - Sensing & Connecti_ensing-connectivity?team=SFTWR"
@@ -82,13 +87,8 @@
       "title": "Data Engineer, App Insights Engineering, Services Data Science & Analytics",
       "url": "https://jobs.apple.com/en-us/details/200657274-0157/data-engineer-app-insights-engineering-services-data-science-analytics?team=MLAI",
       "identifier": "Data Engineer, App Insights Engineering, Services _ta-science-analytics?team=MLAI"
-    },
-    {
-      "title": "Sr. Machine Learning Infrastructure Engineer, Creator Studio",
-      "url": "https://jobs.apple.com/en-us/details/200647930-0670/sr-machine-learning-infrastructure-engineer-creator-studio?team=SFTWR",
-      "identifier": "Sr. Machine Learning Infrastructure Engineer, Crea_neer-creator-studio?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-14T18:57:52.654952"
+  "timestamp": "2026-04-14T19:14:59.469662"
 }

@@ -1,8 +1,18 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 13,
+  "total_jobs": 15,
   "jobs": [
+    {
+      "title": "Machine Learning Engineer, Sensing & Connectivity",
+      "url": "https://jobs.apple.com/en-us/details/200658189-0836/machine-learning-engineer-sensing-connectivity?team=SFTWR",
+      "identifier": "Machine Learning Engineer, Sensing & Connectivity_ensing-connectivity?team=SFTWR"
+    },
+    {
+      "title": "Core Wi-Fi Embedded Software Engineer, Wireless Technologies & Ecosystems",
+      "url": "https://jobs.apple.com/en-us/details/200657812-3543/core-wi-fi-embedded-software-engineer-wireless-technologies-ecosystems?team=SFTWR",
+      "identifier": "Core Wi-Fi Embedded Software Engineer, Wireless Te_nologies-ecosystems?team=SFTWR"
+    },
     {
       "title": "Americas Business Process Re-Engineering Data Engineer",
       "url": "https://jobs.apple.com/en-us/details/200655798-0157/americas-business-process-re-engineering-data-engineer?team=OPMFG",
@@ -70,5 +80,5 @@
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-15T18:41:22.651949"
+  "timestamp": "2026-04-15T18:58:33.459238"
 }

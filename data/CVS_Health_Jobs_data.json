@@ -4,9 +4,24 @@
   "total_jobs": 8,
   "jobs": [
     {
+      "title": "Software Packaging Coordinator",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0862116/Software-Packaging-Coordinator",
+      "identifier": "Software Packaging Coordinator_Software-Packaging-Coordinator"
+    },
+    {
+      "title": "Scrum Master",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0877881/Scrum-Master",
+      "identifier": "Scrum Master_s/en/job/R0877881/Scrum-Master"
+    },
+    {
       "title": "Senior Scrum Master",
       "url": "https://jobs.cvshealth.com/us/en/job/R0877857/Senior-Scrum-Master",
       "identifier": "Senior Scrum Master_b/R0877857/Senior-Scrum-Master"
+    },
+    {
+      "title": "Mac Software Packaging Automation Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0862115/Mac-Software-Packaging-Automation-Engineer",
+      "identifier": "Mac Software Packaging Automation Engineer_-Packaging-Automation-Engineer"
     },
     {
       "title": "Senior Manager, Quality Assurance",
@@ -19,31 +34,16 @@
       "identifier": "Senior Manager-Epic EHR Development Lead (Software_ment-Lead-Software-Development"
     },
     {
-      "title": "Mac Software Packaging Automation Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0862115/Mac-Software-Packaging-Automation-Engineer",
-      "identifier": "Mac Software Packaging Automation Engineer_-Packaging-Automation-Engineer"
-    },
-    {
-      "title": "Software Packaging Coordinator",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0862116/Software-Packaging-Coordinator",
-      "identifier": "Software Packaging Coordinator_Software-Packaging-Coordinator"
-    },
-    {
-      "title": "Scrum Master",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0877881/Scrum-Master",
-      "identifier": "Scrum Master_s/en/job/R0877881/Scrum-Master"
-    },
-    {
-      "title": "Associate Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0883983/Associate-Software-Development-Engineer",
-      "identifier": "Associate Software Development Engineer_-Software-Development-Engineer"
-    },
-    {
       "title": "Software Development Engineer",
       "url": "https://jobs.cvshealth.com/us/en/job/R0879070/Software-Development-Engineer",
       "identifier": "Software Development Engineer_/Software-Development-Engineer"
+    },
+    {
+      "title": "Senior Analyst, Tech Infrastructure",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0818406/Senior-Analyst-Tech-Infrastructure",
+      "identifier": "Senior Analyst, Tech Infrastructure_or-Analyst-Tech-Infrastructure"
     }
   ],
   "job_count_text": "43",
-  "timestamp": "2026-04-15T14:25:20.681492"
+  "timestamp": "2026-04-15T14:42:29.066534"
 }

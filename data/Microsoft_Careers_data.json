@@ -1,15 +1,20 @@
 {
   "page_title": "| Microsoft Careers",
   "url": "https://apply.careers.microsoft.com/careers?domain=microsoft.com&start=0&location=United+States&sort_by=timestamp&filter_include_remote=1&filter_profession=software+engineering%2Cresearch%252C%2520applied%252C%2520%2526%2520data%2520sciences",
-  "total_jobs": 7,
+  "total_jobs": 8,
   "jobs": [
     {
-      "title": "Senior Software Engineer - Backend\nUnited States, Washington, Redmond\nPosted 8 minutes ago",
+      "title": "Senior Software Engineer\nUnited States, Washington, Redmond + 3 more\nPosted 19 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556858328?domain=microsoft.com",
+      "identifier": "Senior Software Engineer\nUnited States, Washington_556858328?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Software Engineer - Backend\nUnited States, Washington, Redmond\nPosted 25 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556856441?domain=microsoft.com",
       "identifier": "Senior Software Engineer - Backend\nUnited States, _556856441?domain=microsoft.com"
     },
     {
-      "title": "Member of Technical Staff, Applied AI Engineer\nUnited States, California, Mountain View + 1 more\nPosted 21 minutes ago",
+      "title": "Member of Technical Staff, Applied AI Engineer\nUnited States, California, Mountain View + 1 more\nPosted 38 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556769429?domain=microsoft.com",
       "identifier": "Member of Technical Staff, Applied AI Engineer\nUni_556769429?domain=microsoft.com"
     },
@@ -34,11 +39,11 @@
       "identifier": "Senior Software Engineer - Backend\nUnited States, _556850647?domain=microsoft.com"
     },
     {
-      "title": "AI Software Engineer II\nUnited States, Washington, Redmond\nPosted 17 hours ago",
+      "title": "AI Software Engineer II\nUnited States, Washington, Redmond\nPosted 18 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556752733?domain=microsoft.com",
       "identifier": "AI Software Engineer II\nUnited States, Washington,_556752733?domain=microsoft.com"
     }
   ],
-  "job_count_text": "682",
-  "timestamp": "2026-04-15T14:24:03.871330"
+  "job_count_text": "683",
+  "timestamp": "2026-04-15T14:41:11.194549"
 }

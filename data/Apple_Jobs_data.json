@@ -4,6 +4,36 @@
   "total_jobs": 13,
   "jobs": [
     {
+      "title": "Machine Learning Engineer, Photos",
+      "url": "https://jobs.apple.com/en-us/details/200658136-0836/machine-learning-engineer-photos?team=SFTWR",
+      "identifier": "Machine Learning Engineer, Photos_ing-engineer-photos?team=SFTWR"
+    },
+    {
+      "title": "Software Application Support Engineer, Retail Engineering Ops & Support (GSE)",
+      "url": "https://jobs.apple.com/en-us/details/200657016-0157/software-application-support-engineer-retail-engineering-ops-support-gse?team=SFTWR",
+      "identifier": "Software Application Support Engineer, Retail Engi_ing-ops-support-gse?team=SFTWR"
+    },
+    {
+      "title": "Security Engineer, G&A Solutions Engineering (GSE)",
+      "url": "https://jobs.apple.com/en-us/details/200656786-0157/security-engineer-g-a-solutions-engineering-gse?team=SFTWR",
+      "identifier": "Security Engineer, G&A Solutions Engineering (GSE)_ons-engineering-gse?team=SFTWR"
+    },
+    {
+      "title": "Software Engineer (Enablon), G&A Solutions Engineering (GSE)",
+      "url": "https://jobs.apple.com/en-us/details/200657731-0157/software-engineer-enablon-g-a-solutions-engineering-gse?team=SFTWR",
+      "identifier": "Software Engineer (Enablon), G&A Solutions Enginee_ons-engineering-gse?team=SFTWR"
+    },
+    {
+      "title": "Aesthetics Engineer, Look Development",
+      "url": "https://jobs.apple.com/en-us/details/200657877-0836/aesthetics-engineer-look-development?team=SFTWR",
+      "identifier": "Aesthetics Engineer, Look Development_er-look-development?team=SFTWR"
+    },
+    {
+      "title": "Technical Writer",
+      "url": "https://jobs.apple.com/en-us/details/200657704-3401/technical-writer?team=SFTWR",
+      "identifier": "Technical Writer_01/technical-writer?team=SFTWR"
+    },
+    {
       "title": "Finance Data Scientist - Enablement",
       "url": "https://jobs.apple.com/en-us/details/200646258-0157/finance-data-scientist-enablement?team=SFTWR",
       "identifier": "Finance Data Scientist - Enablement_cientist-enablement?team=SFTWR"
@@ -37,38 +67,8 @@
       "title": "Engineering Program Manager, Software Program Tools",
       "url": "https://jobs.apple.com/en-us/details/200657985-0836/engineering-program-manager-software-program-tools?team=SFTWR",
       "identifier": "Engineering Program Manager, Software Program Tool_tware-program-tools?team=SFTWR"
-    },
-    {
-      "title": "Sr. Full-Stack Engineer, App Store",
-      "url": "https://jobs.apple.com/en-us/details/200653191-3337/sr-full-stack-engineer-app-store?team=SFTWR",
-      "identifier": "Sr. Full-Stack Engineer, App Store_-engineer-app-store?team=SFTWR"
-    },
-    {
-      "title": "Product Design Producer - Wallets, Payments and Commerce",
-      "url": "https://jobs.apple.com/en-us/details/200656985-0836/product-design-producer-wallets-payments-and-commerce?team=SFTWR",
-      "identifier": "Product Design Producer - Wallets, Payments and Co_yments-and-commerce?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer - Embedded Debug Tools, Core OS",
-      "url": "https://jobs.apple.com/en-us/details/200653198-0836/software-engineer-embedded-debug-tools-core-os?team=SFTWR",
-      "identifier": "Software Engineer - Embedded Debug Tools, Core OS_debug-tools-core-os?team=SFTWR"
-    },
-    {
-      "title": "Senior Software Developer in Test - Embedded Sensors QE, Core OS",
-      "url": "https://jobs.apple.com/en-us/details/200657721-0836/senior-software-developer-in-test-embedded-sensors-qe-core-os?team=SFTWR",
-      "identifier": "Senior Software Developer in Test - Embedded Senso_-sensors-qe-core-os?team=SFTWR"
-    },
-    {
-      "title": "Sr. Ruby on Rails Engineer, ASE",
-      "url": "https://jobs.apple.com/en-us/details/200654205-3337/sr-ruby-on-rails-engineer-ase?team=SFTWR",
-      "identifier": "Sr. Ruby on Rails Engineer, ASE_-rails-engineer-ase?team=SFTWR"
-    },
-    {
-      "title": "Electrical Engineer, Data Center Operations",
-      "url": "https://jobs.apple.com/en-us/details/200657286-1124/electrical-engineer-data-center-operations?team=SFTWR",
-      "identifier": "Electrical Engineer, Data Center Operations_a-center-operations?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-15T16:24:33.296075"
+  "timestamp": "2026-04-15T16:41:37.213790"
 }

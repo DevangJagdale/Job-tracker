@@ -4,6 +4,11 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "CAD Engineer - New College Grad 2026",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/CAD-Engineer---New-College-Grad-2026_JR2013740-1?locationCountry=bc33aa3152ec42d4995f4791a106ed09&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&workerSubType=ab40a98049581037a3ada55b087049b7",
+      "identifier": "CAD Engineer - New College Grad 2026_40a98049581037a3ada55b087049b7"
+    },
+    {
       "title": "Compiler Verification Engineer, Compute Performance \u2013 GPU- New College Grad 2026",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/Compiler-Verification-Engineer--Compute-Performance---GPU--New-College-Grad-2026_JR2016459?locationCountry=bc33aa3152ec42d4995f4791a106ed09&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&workerSubType=ab40a98049581037a3ada55b087049b7",
       "identifier": "Compiler Verification Engineer, Compute Performanc_40a98049581037a3ada55b087049b7"
@@ -77,13 +82,8 @@
       "title": "Signal and Power Integrity Engineer - New College Grad 2026",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/Signal-and-Power-Integrity-Engineer---New-College-Grad-2026_JR2015067?locationCountry=bc33aa3152ec42d4995f4791a106ed09&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&workerSubType=ab40a98049581037a3ada55b087049b7",
       "identifier": "Signal and Power Integrity Engineer - New College _40a98049581037a3ada55b087049b7"
-    },
-    {
-      "title": "Senior Systems Software Engineer - New College Grad 2026",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-OR-Hillsboro/Senior-Systems-Software-Engineer---New-College-Grad-2026_JR2015144-1?locationCountry=bc33aa3152ec42d4995f4791a106ed09&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&workerSubType=ab40a98049581037a3ada55b087049b7",
-      "identifier": "Senior Systems Software Engineer - New College Gra_40a98049581037a3ada55b087049b7"
     }
   ],
-  "job_count_text": "51",
-  "timestamp": "2026-04-15T13:55:06.463795"
+  "job_count_text": "52",
+  "timestamp": "2026-04-15T14:12:11.981893"
 }

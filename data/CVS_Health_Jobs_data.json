@@ -4,24 +4,9 @@
   "total_jobs": 8,
   "jobs": [
     {
-      "title": "Senior Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0859898/Senior-Software-Development-Engineer",
-      "identifier": "Senior Software Development Engineer_-Software-Development-Engineer"
-    },
-    {
       "title": "Executive Director, Digital Engineering- Aetna Member Services",
       "url": "https://jobs.cvshealth.com/us/en/job/R0873213/Executive-Director-Digital-Engineering-Aetna-Member-Services",
       "identifier": "Executive Director, Digital Engineering- Aetna Mem_ineering-Aetna-Member-Services"
-    },
-    {
-      "title": "Senior Scrum Master",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0877857/Senior-Scrum-Master",
-      "identifier": "Senior Scrum Master_b/R0877857/Senior-Scrum-Master"
-    },
-    {
-      "title": "Sr Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0861581/Sr-Software-Development-Engineer",
-      "identifier": "Sr Software Development Engineer_-Software-Development-Engineer"
     },
     {
       "title": "AS/400 Application Developer",
@@ -29,9 +14,19 @@
       "identifier": "AS/400 Application Developer_8/AS-400-Application-Developer"
     },
     {
-      "title": "Scrum Master",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0877881/Scrum-Master",
-      "identifier": "Scrum Master_s/en/job/R0877881/Scrum-Master"
+      "title": "Mac Software Packaging Automation Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0862115/Mac-Software-Packaging-Automation-Engineer",
+      "identifier": "Mac Software Packaging Automation Engineer_-Packaging-Automation-Engineer"
+    },
+    {
+      "title": "Sr Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0861581/Sr-Software-Development-Engineer",
+      "identifier": "Sr Software Development Engineer_-Software-Development-Engineer"
+    },
+    {
+      "title": "Software Packaging Coordinator",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0862116/Software-Packaging-Coordinator",
+      "identifier": "Software Packaging Coordinator_Software-Packaging-Coordinator"
     },
     {
       "title": "Manager - Scrum Master",
@@ -39,11 +34,16 @@
       "identifier": "Manager - Scrum Master_/R0882552/Manager-Scrum-Master"
     },
     {
-      "title": "Mac Software Packaging Automation Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0862115/Mac-Software-Packaging-Automation-Engineer",
-      "identifier": "Mac Software Packaging Automation Engineer_-Packaging-Automation-Engineer"
+      "title": "Scrum Master",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0877881/Scrum-Master",
+      "identifier": "Scrum Master_s/en/job/R0877881/Scrum-Master"
+    },
+    {
+      "title": "Senior Manager, Quality Assurance",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0833306/Senior-Manager-Quality-Assurance",
+      "identifier": "Senior Manager, Quality Assurance_nior-Manager-Quality-Assurance"
     }
   ],
-  "job_count_text": "54",
-  "timestamp": "2026-04-15T12:34:33.919162"
+  "job_count_text": "48",
+  "timestamp": "2026-04-15T12:51:44.648125"
 }

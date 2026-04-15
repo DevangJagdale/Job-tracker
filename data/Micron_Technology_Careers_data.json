@@ -4,19 +4,14 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "New College Grad - Semiconductor Design Engineer, DRAM Products Group\nBoise, Idaho, United States of America\nPosted 2 days ago",
-      "url": "https://careers.micron.com/careers/job/39756043",
-      "identifier": "New College Grad - Semiconductor Design Engineer, _icron.com/careers/job/39756043"
-    },
-    {
       "title": "New College Grad - Design Engineer\nSan Jose, California, United States of America\nPosted 2 days ago",
       "url": "https://careers.micron.com/careers/job/41439437",
       "identifier": "New College Grad - Design Engineer\nSan Jose, Calif_icron.com/careers/job/41439437"
     },
     {
-      "title": "Engineer-II, Firmware and Product Test Engineering\nLongmont, Colorado, United States of America\nPosted 3 days ago",
-      "url": "https://careers.micron.com/careers/job/40876529",
-      "identifier": "Engineer-II, Firmware and Product Test Engineering_icron.com/careers/job/40876529"
+      "title": "New College Grad - Semiconductor Design Engineer, DRAM Products Group\nBoise, Idaho, United States of America\nPosted 2 days ago",
+      "url": "https://careers.micron.com/careers/job/39756043",
+      "identifier": "New College Grad - Semiconductor Design Engineer, _icron.com/careers/job/39756043"
     },
     {
       "title": "New College Grad - Semiconductor Verification Design Engineer, DRAM Products Group\nBoise, Idaho, United States of America\nPosted 3 days ago",
@@ -27,6 +22,11 @@
       "title": "Silicon System AI Engineer\nSan Jose, California, United States of America\nPosted 3 days ago",
       "url": "https://careers.micron.com/careers/job/41043973",
       "identifier": "Silicon System AI Engineer\nSan Jose, California, U_icron.com/careers/job/41043973"
+    },
+    {
+      "title": "Engineer-II, Firmware and Product Test Engineering\nLongmont, Colorado, United States of America\nPosted 3 days ago",
+      "url": "https://careers.micron.com/careers/job/40876529",
+      "identifier": "Engineer-II, Firmware and Product Test Engineering_icron.com/careers/job/40876529"
     },
     {
       "title": "Contract TA Operations Specialist \u2013 Events, Candidate Experience & Reporting\nSan Jose, California, United States of America + 2 more\nPosted 6 days ago",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "76",
-  "timestamp": "2026-04-15T12:36:47.295991"
+  "timestamp": "2026-04-15T12:53:57.821721"
 }

@@ -1,17 +1,12 @@
 {
   "page_title": "Job Openings - Cisco Careers",
   "url": "https://careers.cisco.com/global/en/search-results?s=1",
-  "total_jobs": 9,
+  "total_jobs": 8,
   "jobs": [
     {
       "title": "Splunk Business Development Representative",
       "url": "https://careers.cisco.com/global/en/job/2003745/Splunk-Business-Development-Representative",
       "identifier": "Splunk Business Development Representative_ess-Development-Representative"
-    },
-    {
-      "title": "Software Engineer Data/AI/Intelligent Systems I (Full Time) \u2013 United States",
-      "url": "https://careers.cisco.com/global/en/job/2000073/Software-Engineer-Data-AI-Intelligent-Systems-I-Full-Time-United-States",
-      "identifier": "Software Engineer Data/AI/Intelligent Systems I (F_tems-I-Full-Time-United-States"
     },
     {
       "title": "Field Sales Intern (United States)",
@@ -49,6 +44,6 @@
       "identifier": "Sales Development Representative II (Full Time) Un_al-Demand-Center-United-States"
     }
   ],
-  "job_count_text": "9",
-  "timestamp": "2026-04-15T07:18:26.946325"
+  "job_count_text": "8",
+  "timestamp": "2026-04-15T07:35:29.827123"
 }

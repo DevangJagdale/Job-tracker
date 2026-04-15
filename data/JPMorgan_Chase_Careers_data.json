@@ -59,11 +59,6 @@
       "identifier": "jpmc_210736413"
     },
     {
-      "title": "Lead Software Engineer- Core",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210684576/?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
-      "identifier": "jpmc_210684576"
-    },
-    {
       "title": "Software Engineer III - AWS Glue",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210693054/?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
       "identifier": "jpmc_210693054"
@@ -127,8 +122,13 @@
       "title": "Software Engineer III - Monday.com Platform (Fullstack ReactJS, Java, Python, AWS)",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210731495/?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
       "identifier": "jpmc_210731495"
+    },
+    {
+      "title": "Software Engineer III - Python, AWS, GenAI",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210732116/?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
+      "identifier": "jpmc_210732116"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-15T11:26:43.315800"
+  "timestamp": "2026-04-15T11:43:55.688000"
 }

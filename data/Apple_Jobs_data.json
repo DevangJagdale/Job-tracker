@@ -1,8 +1,13 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 16,
+  "total_jobs": 15,
   "jobs": [
+    {
+      "title": "Software Development Engineer in Test (SDET), Video Apps",
+      "url": "https://jobs.apple.com/en-us/details/200658200-0670/software-development-engineer-in-test-sdet-video-apps?team=SFTWR",
+      "identifier": "Software Development Engineer in Test (SDET), Vide_est-sdet-video-apps?team=SFTWR"
+    },
     {
       "title": "Privacy QA Engineer, User Privacy",
       "url": "https://jobs.apple.com/en-us/details/200658192-3543/privacy-qa-engineer-user-privacy?team=SFTWR",
@@ -72,18 +77,8 @@
       "title": "Infrastructure Software Engineer",
       "url": "https://jobs.apple.com/en-us/details/200622831-0836/infrastructure-software-engineer?team=SFTWR",
       "identifier": "Infrastructure Software Engineer_e-software-engineer?team=SFTWR"
-    },
-    {
-      "title": "AIML - Sr Machine Learning Engineer, Evaluation",
-      "url": "https://jobs.apple.com/en-us/details/200637203-0836/aiml-sr-machine-learning-engineer-evaluation?team=MLAI",
-      "identifier": "AIML - Sr Machine Learning Engineer, Evaluation_-engineer-evaluation?team=MLAI"
-    },
-    {
-      "title": "Data Center Mechanical Engineer, Infrastructure Services",
-      "url": "https://jobs.apple.com/en-us/details/200652269-1025/data-center-mechanical-engineer-infrastructure-services?team=SFTWR",
-      "identifier": "Data Center Mechanical Engineer, Infrastructure Se_astructure-services?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-15T20:50:19.511315"
+  "timestamp": "2026-04-15T21:07:36.219558"
 }

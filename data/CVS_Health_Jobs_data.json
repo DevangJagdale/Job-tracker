@@ -4,26 +4,6 @@
   "total_jobs": 8,
   "jobs": [
     {
-      "title": "Executive Director, Digital Engineering- Aetna Member Services",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0873213/Executive-Director-Digital-Engineering-Aetna-Member-Services",
-      "identifier": "Executive Director, Digital Engineering- Aetna Mem_ineering-Aetna-Member-Services"
-    },
-    {
-      "title": "AS/400 Application Developer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0768768/AS-400-Application-Developer",
-      "identifier": "AS/400 Application Developer_8/AS-400-Application-Developer"
-    },
-    {
-      "title": "Mac Software Packaging Automation Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0862115/Mac-Software-Packaging-Automation-Engineer",
-      "identifier": "Mac Software Packaging Automation Engineer_-Packaging-Automation-Engineer"
-    },
-    {
-      "title": "Sr Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0861581/Sr-Software-Development-Engineer",
-      "identifier": "Sr Software Development Engineer_-Software-Development-Engineer"
-    },
-    {
       "title": "Software Packaging Coordinator",
       "url": "https://jobs.cvshealth.com/us/en/job/R0862116/Software-Packaging-Coordinator",
       "identifier": "Software Packaging Coordinator_Software-Packaging-Coordinator"
@@ -39,11 +19,31 @@
       "identifier": "Scrum Master_s/en/job/R0877881/Scrum-Master"
     },
     {
+      "title": "Senior Scrum Master",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0877857/Senior-Scrum-Master",
+      "identifier": "Senior Scrum Master_b/R0877857/Senior-Scrum-Master"
+    },
+    {
+      "title": "Mac Software Packaging Automation Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0862115/Mac-Software-Packaging-Automation-Engineer",
+      "identifier": "Mac Software Packaging Automation Engineer_-Packaging-Automation-Engineer"
+    },
+    {
       "title": "Senior Manager, Quality Assurance",
       "url": "https://jobs.cvshealth.com/us/en/job/R0833306/Senior-Manager-Quality-Assurance",
       "identifier": "Senior Manager, Quality Assurance_nior-Manager-Quality-Assurance"
+    },
+    {
+      "title": "Senior Manager-Epic EHR Development Lead (Software Development)",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0869290/Senior-Manager-Epic-EHR-Development-Lead-Software-Development",
+      "identifier": "Senior Manager-Epic EHR Development Lead (Software_ment-Lead-Software-Development"
+    },
+    {
+      "title": "Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0879070/Software-Development-Engineer",
+      "identifier": "Software Development Engineer_/Software-Development-Engineer"
     }
   ],
-  "job_count_text": "48",
-  "timestamp": "2026-04-15T12:51:44.648125"
+  "job_count_text": "44",
+  "timestamp": "2026-04-15T13:08:58.438956"
 }

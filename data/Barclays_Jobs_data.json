@@ -1,7 +1,7 @@
 {
   "page_title": "Search our Job Opportunities at Barclays",
   "url": "https://search.jobs.barclays/search-jobs/United%20States/13015/2/6252001/39x76/-98x5/50/2",
-  "total_jobs": 15,
+  "total_jobs": 12,
   "jobs": [
     {
       "title": "Senior Data Engineer \u2013 AVP",
@@ -34,11 +34,6 @@
       "identifier": "Institutional Equity Sales, AVP_ty-sales-avp/13015/93955737952"
     },
     {
-      "title": "Release Train Engineer",
-      "url": "https://search.jobs.barclays/job/whippany/release-train-engineer/13015/93955735568",
-      "identifier": "Release Train Engineer_ain-engineer/13015/93955735568"
-    },
-    {
       "title": "Principal Engineer - Director",
       "url": "https://search.jobs.barclays/job/whippany/principal-engineer-director/13015/93944352240",
       "identifier": "Principal Engineer - Director_eer-director/13015/93944352240"
@@ -67,18 +62,8 @@
       "title": "Equities Valuations Software Engineer",
       "url": "https://search.jobs.barclays/job/whippany/equities-valuations-software-engineer/13015/93930537072",
       "identifier": "Equities Valuations Software Engineer_are-engineer/13015/93930537072"
-    },
-    {
-      "title": "AVP, CCAR Process Oversight and Control",
-      "url": "https://search.jobs.barclays/job/new-york/avp-ccar-process-oversight-and-control/13015/93918198080",
-      "identifier": "AVP, CCAR Process Oversight and Control_-and-control/13015/93918198080"
-    },
-    {
-      "title": "Director, Rich Media, Workplace and Collaboration Technology New York",
-      "url": "https://search.jobs.barclays/job/new-york/director-rich-media-workplace-and-collaboration-technology-new-york/13015/93918195088",
-      "identifier": "Director, Rich Media, Workplace and Collaboration _ogy-new-york/13015/93918195088"
     }
   ],
   "job_count_text": "120",
-  "timestamp": "2026-04-15T23:25:26.092546"
+  "timestamp": "2026-04-15T23:42:46.664855"
 }

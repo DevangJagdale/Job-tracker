@@ -4,6 +4,11 @@
   "total_jobs": 8,
   "jobs": [
     {
+      "title": "Sr Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0861595/Sr-Software-Development-Engineer",
+      "identifier": "Sr Software Development Engineer_-Software-Development-Engineer"
+    },
+    {
       "title": "Senior Software Development Engineer",
       "url": "https://jobs.cvshealth.com/us/en/job/R0859898/Senior-Software-Development-Engineer",
       "identifier": "Senior Software Development Engineer_-Software-Development-Engineer"
@@ -14,24 +19,9 @@
       "identifier": "Executive Director, Digital Engineering- Aetna Mem_ineering-Aetna-Member-Services"
     },
     {
-      "title": "Senior Scrum Master",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0877857/Senior-Scrum-Master",
-      "identifier": "Senior Scrum Master_b/R0877857/Senior-Scrum-Master"
-    },
-    {
-      "title": "Sr Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0861581/Sr-Software-Development-Engineer",
-      "identifier": "Sr Software Development Engineer_-Software-Development-Engineer"
-    },
-    {
       "title": "AS/400 Application Developer",
       "url": "https://jobs.cvshealth.com/us/en/job/R0768768/AS-400-Application-Developer",
       "identifier": "AS/400 Application Developer_8/AS-400-Application-Developer"
-    },
-    {
-      "title": "Scrum Master",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0877881/Scrum-Master",
-      "identifier": "Scrum Master_s/en/job/R0877881/Scrum-Master"
     },
     {
       "title": "Manager - Scrum Master",
@@ -42,8 +32,18 @@
       "title": "Mac Software Packaging Automation Engineer",
       "url": "https://jobs.cvshealth.com/us/en/job/R0862115/Mac-Software-Packaging-Automation-Engineer",
       "identifier": "Mac Software Packaging Automation Engineer_-Packaging-Automation-Engineer"
+    },
+    {
+      "title": "Senior Scrum Master",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0877857/Senior-Scrum-Master",
+      "identifier": "Senior Scrum Master_b/R0877857/Senior-Scrum-Master"
+    },
+    {
+      "title": "Scrum Master",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0877881/Scrum-Master",
+      "identifier": "Scrum Master_s/en/job/R0877881/Scrum-Master"
     }
   ],
   "job_count_text": "54",
-  "timestamp": "2026-04-15T05:01:13.856788"
+  "timestamp": "2026-04-15T05:18:17.027090"
 }

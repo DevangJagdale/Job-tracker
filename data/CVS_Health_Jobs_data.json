@@ -9,11 +9,6 @@
       "identifier": "Software Packaging Coordinator_Software-Packaging-Coordinator"
     },
     {
-      "title": "Manager - Scrum Master",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0882552/Manager-Scrum-Master",
-      "identifier": "Manager - Scrum Master_/R0882552/Manager-Scrum-Master"
-    },
-    {
       "title": "Scrum Master",
       "url": "https://jobs.cvshealth.com/us/en/job/R0877881/Scrum-Master",
       "identifier": "Scrum Master_s/en/job/R0877881/Scrum-Master"
@@ -42,8 +37,13 @@
       "title": "Software Development Engineer",
       "url": "https://jobs.cvshealth.com/us/en/job/R0879070/Software-Development-Engineer",
       "identifier": "Software Development Engineer_/Software-Development-Engineer"
+    },
+    {
+      "title": "Senior Analyst, Tech Infrastructure",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0818406/Senior-Analyst-Tech-Infrastructure",
+      "identifier": "Senior Analyst, Tech Infrastructure_or-Analyst-Tech-Infrastructure"
     }
   ],
-  "job_count_text": "44",
-  "timestamp": "2026-04-15T13:33:58.473926"
+  "job_count_text": "43",
+  "timestamp": "2026-04-15T13:51:07.416764"
 }

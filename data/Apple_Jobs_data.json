@@ -1,8 +1,13 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 15,
+  "total_jobs": 14,
   "jobs": [
+    {
+      "title": "Screening & Integration Engineer, Watch Software",
+      "url": "https://jobs.apple.com/en-us/details/200657244-0836/screening-integration-engineer-watch-software?team=SFTWR",
+      "identifier": "Screening & Integration Engineer, Watch Software_neer-watch-software?team=SFTWR"
+    },
     {
       "title": "Software Development Engineer in Test (SDET), Video Apps",
       "url": "https://jobs.apple.com/en-us/details/200658200-0670/software-development-engineer-in-test-sdet-video-apps?team=SFTWR",
@@ -67,18 +72,8 @@
       "title": "Finance Data Scientist - Enablement",
       "url": "https://jobs.apple.com/en-us/details/200646258-0157/finance-data-scientist-enablement?team=SFTWR",
       "identifier": "Finance Data Scientist - Enablement_cientist-enablement?team=SFTWR"
-    },
-    {
-      "title": "Engineering Project Manager (SAP), IS&T Enterprise Systems",
-      "url": "https://jobs.apple.com/en-us/details/200656402-0157/engineering-project-manager-sap-is-t-enterprise-systems?team=SFTWR",
-      "identifier": "Engineering Project Manager (SAP), IS&T Enterprise_-enterprise-systems?team=SFTWR"
-    },
-    {
-      "title": "Infrastructure Software Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200622831-0836/infrastructure-software-engineer?team=SFTWR",
-      "identifier": "Infrastructure Software Engineer_e-software-engineer?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-15T22:16:51.488475"
+  "timestamp": "2026-04-15T22:34:09.743531"
 }

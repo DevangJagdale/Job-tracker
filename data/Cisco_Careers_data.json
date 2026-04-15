@@ -1,7 +1,7 @@
 {
   "page_title": "Job Openings - Cisco Careers",
   "url": "https://careers.cisco.com/global/en/search-results?s=1",
-  "total_jobs": 8,
+  "total_jobs": 7,
   "jobs": [
     {
       "title": "Sales Development Representative Outbound Sales II (Full Time) - United States",
@@ -17,11 +17,6 @@
       "title": "Field Sales Intern (United States)",
       "url": "https://careers.cisco.com/global/en/job/2012189/Field-Sales-Intern-United-States",
       "identifier": "Field Sales Intern (United States)_eld-Sales-Intern-United-States"
-    },
-    {
-      "title": "Technical Sales Engineer Intern (United States)",
-      "url": "https://careers.cisco.com/global/en/job/2012190/Technical-Sales-Engineer-Intern-United-States",
-      "identifier": "Technical Sales Engineer Intern (United States)_-Engineer-Intern-United-States"
     },
     {
       "title": "UI/UX Designer I (Full Time) - United States",
@@ -44,6 +39,6 @@
       "identifier": "Sales Development Representative II (Full Time) Un_al-Demand-Center-United-States"
     }
   ],
-  "job_count_text": "8",
-  "timestamp": "2026-04-15T22:18:38.585649"
+  "job_count_text": "7",
+  "timestamp": "2026-04-15T22:35:55.722818"
 }

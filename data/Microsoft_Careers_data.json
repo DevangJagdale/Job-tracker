@@ -4,6 +4,11 @@
   "total_jobs": 7,
   "jobs": [
     {
+      "title": "Machine Learning Scientist II\nUnited States, Washington, Redmond\nPosted 5 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556642949?domain=microsoft.com",
+      "identifier": "Machine Learning Scientist II\nUnited States, Washi_556642949?domain=microsoft.com"
+    },
+    {
       "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted 11 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556859047?domain=microsoft.com",
       "identifier": "Principal Software Engineer\nUnited States, Washing_556859047?domain=microsoft.com"
@@ -32,13 +37,8 @@
       "title": "Senior Applied Scientist\nUnited States, Washington, Redmond + 1 more\nPosted 17 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556858349?domain=microsoft.com",
       "identifier": "Senior Applied Scientist\nUnited States, Washington_556858349?domain=microsoft.com"
-    },
-    {
-      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 17 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556858341?domain=microsoft.com",
-      "identifier": "Software Engineer II\nUnited States, Washington, Re_556858341?domain=microsoft.com"
     }
   ],
-  "job_count_text": "680",
-  "timestamp": "2026-04-15T13:07:39.727987"
+  "job_count_text": "681",
+  "timestamp": "2026-04-15T13:24:57.008516"
 }

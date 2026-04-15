@@ -4,7 +4,12 @@
   "total_jobs": 8,
   "jobs": [
     {
-      "title": "Software Engineering - CTJ - Poly\nUnited States, Virginia, Reston + 1 more\nPosted 34 minutes ago",
+      "title": "Cloud Network Engineer\nUnited States, Washington, Redmond\nPosted 15 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556761694?domain=microsoft.com",
+      "identifier": "Cloud Network Engineer\nUnited States, Washington, _556761694?domain=microsoft.com"
+    },
+    {
+      "title": "Software Engineering - CTJ - Poly\nUnited States, Virginia, Reston + 1 more\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556639387?domain=microsoft.com",
       "identifier": "Software Engineering - CTJ - Poly\nUnited States, V_556639387?domain=microsoft.com"
     },
@@ -37,13 +42,8 @@
       "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted 15 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556859047?domain=microsoft.com",
       "identifier": "Principal Software Engineer\nUnited States, Washing_556859047?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Applied Scientist\nUnited States, Washington, Redmond\nPosted 19 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556858842?domain=microsoft.com",
-      "identifier": "Senior Applied Scientist\nUnited States, Washington_556858842?domain=microsoft.com"
     }
   ],
-  "job_count_text": "684",
-  "timestamp": "2026-04-15T17:15:34.928136"
+  "job_count_text": "685",
+  "timestamp": "2026-04-15T17:32:41.225646"
 }

@@ -1,7 +1,7 @@
 {
   "page_title": "Job Openings - Cisco Careers",
   "url": "https://careers.cisco.com/global/en/search-results?s=1",
-  "total_jobs": 9,
+  "total_jobs": 8,
   "jobs": [
     {
       "title": "Sales Development Representative Outbound Sales II (Full Time) - United States",
@@ -29,11 +29,6 @@
       "identifier": "UI/UX Designer I (Full Time) - United States_gner-I-Full-Time-United-States"
     },
     {
-      "title": "Business Analyst I (Full Time) United States",
-      "url": "https://careers.cisco.com/global/en/job/2000125/Business-Analyst-I-Full-Time-United-States",
-      "identifier": "Business Analyst I (Full Time) United States_lyst-I-Full-Time-United-States"
-    },
-    {
       "title": "Customer Experience Project Specialist I (Full-Time) - United States",
       "url": "https://careers.cisco.com/global/en/job/2001576/Customer-Experience-Project-Specialist-I-Full-Time-United-States",
       "identifier": "Customer Experience Project Specialist I (Full-Tim_list-I-Full-Time-United-States"
@@ -49,6 +44,6 @@
       "identifier": "Sales Development Representative II (Full Time) Un_al-Demand-Center-United-States"
     }
   ],
-  "job_count_text": "9",
-  "timestamp": "2026-04-15T17:17:36.327289"
+  "job_count_text": "8",
+  "timestamp": "2026-04-15T17:34:42.668690"
 }

@@ -4,14 +4,14 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "ENGINEER-METROLOGY PROCESS\nBoise, Idaho, United States of America\nPosted a day ago",
-      "url": "https://careers.micron.com/careers/job/41440791",
-      "identifier": "ENGINEER-METROLOGY PROCESS\nBoise, Idaho, United St_icron.com/careers/job/41440791"
-    },
-    {
       "title": "Verification Methodology Engineer \u2013 DRAM Design\nBoise, Idaho, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/41441282",
       "identifier": "Verification Methodology Engineer \u2013 DRAM Design\nBo_icron.com/careers/job/41441282"
+    },
+    {
+      "title": "ENGINEER-METROLOGY PROCESS\nBoise, Idaho, United States of America\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/41440791",
+      "identifier": "ENGINEER-METROLOGY PROCESS\nBoise, Idaho, United St_icron.com/careers/job/41440791"
     },
     {
       "title": "New College Grad - Design Engineer\nSan Jose, California, United States of America\nPosted 2 days ago",
@@ -24,11 +24,6 @@
       "identifier": "New College Grad - Semiconductor Design Engineer, _icron.com/careers/job/39756043"
     },
     {
-      "title": "Engineer-II, Firmware and Product Test Engineering\nLongmont, Colorado, United States of America\nPosted 3 days ago",
-      "url": "https://careers.micron.com/careers/job/40876529",
-      "identifier": "Engineer-II, Firmware and Product Test Engineering_icron.com/careers/job/40876529"
-    },
-    {
       "title": "Silicon System AI Engineer\nSan Jose, California, United States of America\nPosted 3 days ago",
       "url": "https://careers.micron.com/careers/job/41043973",
       "identifier": "Silicon System AI Engineer\nSan Jose, California, U_icron.com/careers/job/41043973"
@@ -37,6 +32,11 @@
       "title": "New College Grad - Semiconductor Verification Design Engineer, DRAM Products Group\nBoise, Idaho, United States of America\nPosted 3 days ago",
       "url": "https://careers.micron.com/careers/job/40033242",
       "identifier": "New College Grad - Semiconductor Verification Desi_icron.com/careers/job/40033242"
+    },
+    {
+      "title": "Engineer-II, Firmware and Product Test Engineering\nLongmont, Colorado, United States of America\nPosted 3 days ago",
+      "url": "https://careers.micron.com/careers/job/40876529",
+      "identifier": "Engineer-II, Firmware and Product Test Engineering_icron.com/careers/job/40876529"
     },
     {
       "title": "Contract TA Operations Specialist \u2013 Events, Candidate Experience & Reporting\nSan Jose, California, United States of America + 2 more\nPosted 6 days ago",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "77",
-  "timestamp": "2026-04-15T22:37:25.898012"
+  "timestamp": "2026-04-15T22:54:41.368715"
 }

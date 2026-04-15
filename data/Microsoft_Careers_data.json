@@ -4,6 +4,11 @@
   "total_jobs": 7,
   "jobs": [
     {
+      "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted 6 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556859047?domain=microsoft.com",
+      "identifier": "Principal Software Engineer\nUnited States, Washing_556859047?domain=microsoft.com"
+    },
+    {
       "title": "Senior Applied Scientist\nUnited States, Washington, Redmond\nPosted 4 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556858842?domain=microsoft.com",
       "identifier": "Senior Applied Scientist\nUnited States, Washington_556858842?domain=microsoft.com"
@@ -14,7 +19,7 @@
       "identifier": "Senior Software Engineer - Backend\nUnited States, _556850647?domain=microsoft.com"
     },
     {
-      "title": "AI Software Engineer II\nUnited States, Washington, Redmond\nPosted 5 hours ago",
+      "title": "AI Software Engineer II\nUnited States, Washington, Redmond\nPosted 6 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556752733?domain=microsoft.com",
       "identifier": "AI Software Engineer II\nUnited States, Washington,_556752733?domain=microsoft.com"
     },
@@ -24,7 +29,7 @@
       "identifier": "Senior Site Reliability Engineer\nUnited States, Mu_556619564?domain=microsoft.com"
     },
     {
-      "title": "Senior Applied Scientist\nUnited States, Washington, Redmond + 1 more\nPosted 6 hours ago",
+      "title": "Senior Applied Scientist\nUnited States, Washington, Redmond + 1 more\nPosted 7 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556858349?domain=microsoft.com",
       "identifier": "Senior Applied Scientist\nUnited States, Washington_556858349?domain=microsoft.com"
     },
@@ -32,13 +37,8 @@
       "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 7 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556858341?domain=microsoft.com",
       "identifier": "Software Engineer II\nUnited States, Washington, Re_556858341?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Software Engineer - CoreAI\nUnited States, Washington, Redmond\nPosted 7 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556620361?domain=microsoft.com",
-      "identifier": "Senior Software Engineer - CoreAI\nUnited States, W_556620361?domain=microsoft.com"
     }
   ],
-  "job_count_text": "695",
-  "timestamp": "2026-04-15T02:24:28.232933"
+  "job_count_text": "696",
+  "timestamp": "2026-04-15T02:41:30.868566"
 }

@@ -1,8 +1,13 @@
 {
   "page_title": "Job Openings - Cisco Careers",
   "url": "https://careers.cisco.com/global/en/search-results?s=1",
-  "total_jobs": 8,
+  "total_jobs": 9,
   "jobs": [
+    {
+      "title": "Sales Development Representative Outbound Sales II (Full Time) - United States",
+      "url": "https://careers.cisco.com/global/en/job/2003091/Sales-Development-Representative-Outbound-Sales-II-Full-Time-United-States",
+      "identifier": "Sales Development Representative Outbound Sales II_les-II-Full-Time-United-States"
+    },
     {
       "title": "Splunk Business Development Representative",
       "url": "https://careers.cisco.com/global/en/job/2003745/Splunk-Business-Development-Representative",
@@ -44,6 +49,6 @@
       "identifier": "Sales Development Representative II (Full Time) Un_al-Demand-Center-United-States"
     }
   ],
-  "job_count_text": "8",
-  "timestamp": "2026-04-15T17:00:27.308474"
+  "job_count_text": "9",
+  "timestamp": "2026-04-15T17:17:36.327289"
 }

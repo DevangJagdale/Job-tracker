@@ -4,6 +4,16 @@
   "total_jobs": 13,
   "jobs": [
     {
+      "title": "Americas Business Process Re-Engineering Data Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200655798-0157/americas-business-process-re-engineering-data-engineer?team=OPMFG",
+      "identifier": "Americas Business Process Re-Engineering Data Engi_ering-data-engineer?team=OPMFG"
+    },
+    {
+      "title": "Software Engineer, Frameworks/Data, Sensing & Connectivity",
+      "url": "https://jobs.apple.com/en-us/details/200630500-0836/software-engineer-frameworks-data-sensing-connectivity?team=SFTWR",
+      "identifier": "Software Engineer, Frameworks/Data, Sensing & Conn_ensing-connectivity?team=SFTWR"
+    },
+    {
       "title": "Machine Learning Engineer, Photos",
       "url": "https://jobs.apple.com/en-us/details/200658136-0836/machine-learning-engineer-photos?team=SFTWR",
       "identifier": "Machine Learning Engineer, Photos_ing-engineer-photos?team=SFTWR"
@@ -57,18 +67,8 @@
       "title": "Data Center Mechanical Engineer, Infrastructure Services",
       "url": "https://jobs.apple.com/en-us/details/200652269-1025/data-center-mechanical-engineer-infrastructure-services?team=SFTWR",
       "identifier": "Data Center Mechanical Engineer, Infrastructure Se_astructure-services?team=SFTWR"
-    },
-    {
-      "title": "UX Design Manager, Developer Experience Design",
-      "url": "https://jobs.apple.com/en-us/details/200657724-0836/ux-design-manager-developer-experience-design?team=SFTWR",
-      "identifier": "UX Design Manager, Developer Experience Design_r-experience-design?team=SFTWR"
-    },
-    {
-      "title": "Engineering Program Manager, Software Program Tools",
-      "url": "https://jobs.apple.com/en-us/details/200657985-0836/engineering-program-manager-software-program-tools?team=SFTWR",
-      "identifier": "Engineering Program Manager, Software Program Tool_tware-program-tools?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-15T16:41:37.213790"
+  "timestamp": "2026-04-15T16:58:42.064022"
 }

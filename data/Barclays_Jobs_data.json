@@ -1,8 +1,18 @@
 {
   "page_title": "Search our Job Opportunities at Barclays",
   "url": "https://search.jobs.barclays/search-jobs/United%20States/13015/2/6252001/39x76/-98x5/50/2",
-  "total_jobs": 16,
+  "total_jobs": 15,
   "jobs": [
+    {
+      "title": "Senior Data Engineer \u2013 AVP",
+      "url": "https://search.jobs.barclays/job/whippany/senior-data-engineer-avp/13015/93993353584",
+      "identifier": "Senior Data Engineer \u2013 AVP_engineer-avp/13015/93993353584"
+    },
+    {
+      "title": "Trade Floor End User Support Technician",
+      "url": "https://search.jobs.barclays/job/new-york/trade-floor-end-user-support-technician/13015/93993351024",
+      "identifier": "Trade Floor End User Support Technician_t-technician/13015/93993351024"
+    },
     {
       "title": "AVP, Quantitative Modeler",
       "url": "https://search.jobs.barclays/job/wilmington/avp-quantitative-modeler/13015/93968056624",
@@ -67,23 +77,8 @@
       "title": "Director, Rich Media, Workplace and Collaboration Technology New York",
       "url": "https://search.jobs.barclays/job/new-york/director-rich-media-workplace-and-collaboration-technology-new-york/13015/93918195088",
       "identifier": "Director, Rich Media, Workplace and Collaboration _ogy-new-york/13015/93918195088"
-    },
-    {
-      "title": "Director, FinTech / Financial Institutions Coverage, International Corporate Banking Americas",
-      "url": "https://search.jobs.barclays/job/new-york/director-fintech-financial-institutions-coverage-international-corporate-banking-americas/13015/93918195072",
-      "identifier": "Director, FinTech / Financial Institutions Coverag_ing-americas/13015/93918195072"
-    },
-    {
-      "title": "Director, Workplace and Collaboration Technology New York",
-      "url": "https://search.jobs.barclays/job/new-york/director-workplace-and-collaboration-technology-new-york/13015/93918194112",
-      "identifier": "Director, Workplace and Collaboration Technology N_ogy-new-york/13015/93918194112"
-    },
-    {
-      "title": "Senior Business Analyst - AVP",
-      "url": "https://search.jobs.barclays/job/whippany/senior-business-analyst-avp/13015/93918158640",
-      "identifier": "Senior Business Analyst - AVP_-analyst-avp/13015/93918158640"
     }
   ],
-  "job_count_text": "117",
-  "timestamp": "2026-04-15T17:32:24.732998"
+  "job_count_text": "120",
+  "timestamp": "2026-04-15T17:49:31.501769"
 }

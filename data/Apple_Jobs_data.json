@@ -4,6 +4,11 @@
   "total_jobs": 13,
   "jobs": [
     {
+      "title": "AIML - Sr Machine Learning Engineer, Evaluation",
+      "url": "https://jobs.apple.com/en-us/details/200637203-0836/aiml-sr-machine-learning-engineer-evaluation?team=MLAI",
+      "identifier": "AIML - Sr Machine Learning Engineer, Evaluation_-engineer-evaluation?team=MLAI"
+    },
+    {
       "title": "Data Center Mechanical Engineer, Infrastructure Services",
       "url": "https://jobs.apple.com/en-us/details/200652269-1025/data-center-mechanical-engineer-infrastructure-services?team=SFTWR",
       "identifier": "Data Center Mechanical Engineer, Infrastructure Se_astructure-services?team=SFTWR"
@@ -62,13 +67,8 @@
       "title": "Software Development Engineer, Vision Products Group",
       "url": "https://jobs.apple.com/en-us/details/200657307-3956/software-development-engineer-vision-products-group?team=SFTWR",
       "identifier": "Software Development Engineer, Vision Products Gro_sion-products-group?team=SFTWR"
-    },
-    {
-      "title": "Engineering Program Manager, Cloud Compute, Apple Services Engineering",
-      "url": "https://jobs.apple.com/en-us/details/200657818-3337/engineering-program-manager-cloud-compute-apple-services-engineering?team=SFTWR",
-      "identifier": "Engineering Program Manager, Cloud Compute, Apple _ervices-engineering?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-15T01:06:17.571204"
+  "timestamp": "2026-04-15T01:23:25.691918"
 }

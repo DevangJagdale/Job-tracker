@@ -1,14 +1,104 @@
 {
   "page_title": "Salesforce Jobs | Salesforce Careers",
   "url": "https://careers.salesforce.com/en/jobs/?search=&country=United+States+of+America&team=Data&team=Enterprise+Technology+%26+Infrastructure&team=Software+Engineering&jobtype=New+Grads&pagesize=20#results",
-  "total_jobs": 1,
+  "total_jobs": 19,
   "jobs": [
     {
-      "title": "Software Engineering AMTS (College Grad)",
-      "url": "https://careers.salesforce.com/en/jobs/jr330400/software-engineering-amts-college-grad/",
-      "identifier": "Software Engineering AMTS (College Grad)_engineering-amts-college-grad/"
+      "title": "Prime Territory Commercial - Account Executive - MuleSoft - Amsterdam",
+      "url": "https://careers.salesforce.com/en/jobs/jr338364/prime-territory-commercial-account-executive-mulesoft-amsterdam/",
+      "identifier": "Prime Territory Commercial - Account Executive - M_-executive-mulesoft-amsterdam/"
+    },
+    {
+      "title": "LATAM Internship Program - Experience Design (UX/UI) \u2013 AI & Salesforce",
+      "url": "https://careers.salesforce.com/en/jobs/jr334968/latam-internship-program-experience-design-uxui-ai-salesforce/",
+      "identifier": "LATAM Internship Program - Experience Design (UX/U_nce-design-uxui-ai-salesforce/"
+    },
+    {
+      "title": "LATAM Internship Program - Project Management Internship \u2013 AI & Salesforce",
+      "url": "https://careers.salesforce.com/en/jobs/jr334969/latam-internship-program-project-management-internship-ai-salesforce/",
+      "identifier": "LATAM Internship Program - Project Management Inte_ment-internship-ai-salesforce/"
+    },
+    {
+      "title": "Summer 2026 Intern - Product Marketing",
+      "url": "https://careers.salesforce.com/en/jobs/jr329752/summer-2026-intern-product-marketing/",
+      "identifier": "Summer 2026 Intern - Product Marketing_2026-intern-product-marketing/"
+    },
+    {
+      "title": "Technical Support Engineer - GVC Cloud (US Citizen Only)",
+      "url": "https://careers.salesforce.com/en/jobs/jr336509/technical-support-engineer-gvc-cloud-us-citizen-only/",
+      "identifier": "Technical Support Engineer - GVC Cloud (US Citizen_eer-gvc-cloud-us-citizen-only/"
+    },
+    {
+      "title": "Agentic Customer Success Director",
+      "url": "https://careers.salesforce.com/en/jobs/jr338105/agentic-customer-success-director/",
+      "identifier": "Agentic Customer Success Director_tic-customer-success-director/"
+    },
+    {
+      "title": "Product Marketing Senior Specialist\uff08\u30a2\u30b7\u30b9\u30bf\u30f3\u30c8\u8077\uff09\u3010\u969c\u5bb3\u8005\u63a1\u7528\u3011",
+      "url": "https://careers.salesforce.com/en/jobs/jr336387/product-marketing-senior-specialist-%E3%82%A2%E3%82%B7%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%88%E8%81%B7-%E9%9A%9C%E5%AE%B3%E8%80%85%E6%8E%A1%E7%94%A8/",
+      "identifier": "Product Marketing Senior Specialist\uff08\u30a2\u30b7\u30b9\u30bf\u30f3\u30c8\u8077\uff09\u3010\u969c\u5bb3\u8005\u63a1\u7528_B3%E8%80%85%E6%8E%A1%E7%94%A8/"
+    },
+    {
+      "title": "Talent Attraction Partner",
+      "url": "https://careers.salesforce.com/en/jobs/jr338269/talent-attraction-partner/",
+      "identifier": "Talent Attraction Partner_269/talent-attraction-partner/"
+    },
+    {
+      "title": "Account Partner - \u95a2\u897f\u30a8\u30ea\u30a2\u30fb\u81ea\u52d5\u8eca\u696d\u754c\u62c5\u5f53",
+      "url": "https://careers.salesforce.com/en/jobs/jr336992/account-partner-%E9%96%A2%E8%A5%BF%E3%82%A8%E3%83%AA%E3%82%A2-%E8%87%AA%E5%8B%95%E8%BB%8A%E6%A5%AD%E7%95%8C%E6%8B%85%E5%BD%93/",
+      "identifier": "Account Partner - \u95a2\u897f\u30a8\u30ea\u30a2\u30fb\u81ea\u52d5\u8eca\u696d\u754c\u62c5\u5f53_AD%E7%95%8C%E6%8B%85%E5%BD%93/"
+    },
+    {
+      "title": "Executive Assistant (Chief of Staff)",
+      "url": "https://careers.salesforce.com/en/jobs/jr331231/executive-assistant-chief-of-staff/",
+      "identifier": "Executive Assistant (Chief of Staff)_tive-assistant-chief-of-staff/"
+    },
+    {
+      "title": "Enterprise Account Executive - Mulesoft - Amsterdam",
+      "url": "https://careers.salesforce.com/en/jobs/jr338365/enterprise-account-executive-mulesoft-amsterdam/",
+      "identifier": "Enterprise Account Executive - Mulesoft - Amsterda_-executive-mulesoft-amsterdam/"
+    },
+    {
+      "title": "Senior Analyst, Sales Strategy & Operations",
+      "url": "https://careers.salesforce.com/en/jobs/jr336293/senior-analyst-sales-strategy-operations/",
+      "identifier": "Senior Analyst, Sales Strategy & Operations_yst-sales-strategy-operations/"
+    },
+    {
+      "title": "Product Owner - Sales & Customer Success",
+      "url": "https://careers.salesforce.com/en/jobs/jr336135/product-owner-sales-customer-success/",
+      "identifier": "Product Owner - Sales & Customer Success_-owner-sales-customer-success/"
+    },
+    {
+      "title": "Salesforce Agentforce Senior Manager",
+      "url": "https://careers.salesforce.com/en/jobs/jr335076/salesforce-agentforce-senior-manager/",
+      "identifier": "Salesforce Agentforce Senior Manager_rce-agentforce-senior-manager/"
+    },
+    {
+      "title": "Principal Security Architect",
+      "url": "https://careers.salesforce.com/en/jobs/jr336132/principal-security-architect/",
+      "identifier": "Principal Security Architect_/principal-security-architect/"
+    },
+    {
+      "title": "Senior Product Manager /Director - Adoption, Missionforce",
+      "url": "https://careers.salesforce.com/en/jobs/jr332381/senior-product-manager-director-adoption-missionforce/",
+      "identifier": "Senior Product Manager /Director - Adoption, Missi_irector-adoption-missionforce/"
+    },
+    {
+      "title": "Account Solution Engineer",
+      "url": "https://careers.salesforce.com/en/jobs/jr338046/account-solution-engineer/",
+      "identifier": "Account Solution Engineer_046/account-solution-engineer/"
+    },
+    {
+      "title": "Account Partner - \u91d1\u878d\u4fdd\u967a\u696d\u754c\u62c5\u5f53",
+      "url": "https://careers.salesforce.com/en/jobs/jr331758/account-partner-%E9%87%91%E8%9E%8D%E4%BF%9D%E9%99%BA%E6%A5%AD%E7%95%8C%E6%8B%85%E5%BD%93/",
+      "identifier": "Account Partner - \u91d1\u878d\u4fdd\u967a\u696d\u754c\u62c5\u5f53_AD%E7%95%8C%E6%8B%85%E5%BD%93/"
+    },
+    {
+      "title": "Manager, Sales Programs",
+      "url": "https://careers.salesforce.com/en/jobs/jr336045/manager-sales-programs/",
+      "identifier": "Manager, Sales Programs_336045/manager-sales-programs/"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-15T01:09:46.503099"
+  "timestamp": "2026-04-15T01:26:54.268665"
 }

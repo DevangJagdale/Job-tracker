@@ -4,6 +4,11 @@
   "total_jobs": 19,
   "jobs": [
     {
+      "title": "Linux Kernel Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200658399-3337/linux-kernel-engineer?team=SFTWR",
+      "identifier": "Linux Kernel Engineer_nux-kernel-engineer?team=SFTWR"
+    },
+    {
       "title": "Computer Vision Engineer, Camera and Photos",
       "url": "https://jobs.apple.com/en-us/details/200658419-0836/computer-vision-engineer-camera-and-photos?team=SFTWR",
       "identifier": "Computer Vision Engineer, Camera and Photos_r-camera-and-photos?team=SFTWR"
@@ -92,13 +97,8 @@
       "title": "Project Manager, Hardware Deployment, Employee Experience & Productivity",
       "url": "https://jobs.apple.com/en-us/details/200652965-0670/project-manager-hardware-deployment-employee-experience-productivity?team=SFTWR",
       "identifier": "Project Manager, Hardware Deployment, Employee Exp_rience-productivity?team=SFTWR"
-    },
-    {
-      "title": "Engineering Program Manager, AI/ML, Apple Services Engineering (ASE)",
-      "url": "https://jobs.apple.com/en-us/details/200655731-0836/engineering-program-manager-ai-ml-apple-services-engineering-ase?team=SFTWR",
-      "identifier": "Engineering Program Manager, AI/ML, Apple Services_ces-engineering-ase?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-16T23:28:54.397499"
+  "timestamp": "2026-04-16T23:45:51.997057"
 }

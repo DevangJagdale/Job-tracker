@@ -4,6 +4,11 @@
   "total_jobs": 14,
   "jobs": [
     {
+      "title": "AI/ML - Senior OS Software Engineer, Evaluation",
+      "url": "https://jobs.apple.com/en-us/details/200658427-0836/ai-ml-senior-os-software-engineer-evaluation?team=SFTWR",
+      "identifier": "AI/ML - Senior OS Software Engineer, Evaluation_engineer-evaluation?team=SFTWR"
+    },
+    {
       "title": "Senior Applied Scientist - AI Evaluation & Quality Systems",
       "url": "https://jobs.apple.com/en-us/details/200653317-3337/senior-applied-scientist-ai-evaluation-quality-systems?team=MLAI",
       "identifier": "Senior Applied Scientist - AI Evaluation & Quality_tion-quality-systems?team=MLAI"
@@ -67,13 +72,8 @@
       "title": "Sr. Software Engineer - Data, Siri Speech",
       "url": "https://jobs.apple.com/en-us/details/200651524-1242/sr-software-engineer-data-siri-speech?team=SFTWR",
       "identifier": "Sr. Software Engineer - Data, Siri Speech_er-data-siri-speech?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer, Siri Runtime Systems and Interaction",
-      "url": "https://jobs.apple.com/en-us/details/200617928-0836/software-engineer-siri-runtime-systems-and-interaction?team=SFTWR",
-      "identifier": "Software Engineer, Siri Runtime Systems and Intera_ems-and-interaction?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-16T19:05:40.794852"
+  "timestamp": "2026-04-16T19:22:44.439361"
 }

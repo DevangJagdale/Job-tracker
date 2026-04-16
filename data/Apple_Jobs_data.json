@@ -1,8 +1,13 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 20,
+  "total_jobs": 19,
   "jobs": [
+    {
+      "title": "PMO Operations Manager, SAP Landscape Modernization",
+      "url": "https://jobs.apple.com/en-us/details/200658047-0157/pmo-operations-manager-sap-landscape-modernization?team=SFTWR",
+      "identifier": "PMO Operations Manager, SAP Landscape Modernizatio_scape-modernization?team=SFTWR"
+    },
     {
       "title": "Clinical Analyst",
       "url": "https://jobs.apple.com/en-us/details/200658440-0157/clinical-analyst?team=SFTWR",
@@ -92,18 +97,8 @@
       "title": "AI/ML - Senior OS Software Engineer, Evaluation",
       "url": "https://jobs.apple.com/en-us/details/200658427-0836/ai-ml-senior-os-software-engineer-evaluation?team=SFTWR",
       "identifier": "AI/ML - Senior OS Software Engineer, Evaluation_engineer-evaluation?team=SFTWR"
-    },
-    {
-      "title": "Senior Applied Scientist - AI Evaluation & Quality Systems",
-      "url": "https://jobs.apple.com/en-us/details/200653317-3337/senior-applied-scientist-ai-evaluation-quality-systems?team=MLAI",
-      "identifier": "Senior Applied Scientist - AI Evaluation & Quality_tion-quality-systems?team=MLAI"
-    },
-    {
-      "title": "Software Engineer, Apple Ads",
-      "url": "https://jobs.apple.com/en-us/details/200604200-0157/software-engineer-apple-ads?team=SFTWR",
-      "identifier": "Software Engineer, Apple Ads_-engineer-apple-ads?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-16T22:30:13.671979"
+  "timestamp": "2026-04-16T22:38:02.041799"
 }

@@ -4,6 +4,16 @@
   "total_jobs": 15,
   "jobs": [
     {
+      "title": "Production Support Engineer, Employee Experience & Productivity",
+      "url": "https://jobs.apple.com/en-us/details/200652952-0670/production-support-engineer-employee-experience-productivity?team=SFTWR",
+      "identifier": "Production Support Engineer, Employee Experience &_rience-productivity?team=SFTWR"
+    },
+    {
+      "title": "Technical Project Manager, Hardware Deployment, Employee Experience & Productivity",
+      "url": "https://jobs.apple.com/en-us/details/200652965-0670/technical-project-manager-hardware-deployment-employee-experience-productivity?team=SFTWR",
+      "identifier": "Technical Project Manager, Hardware Deployment, Em_rience-productivity?team=SFTWR"
+    },
+    {
       "title": "Machine Learning Engineer, Apple Services Engineering",
       "url": "https://jobs.apple.com/en-us/details/200651732-3337/machine-learning-engineer-apple-services-engineering?team=MLAI",
       "identifier": "Machine Learning Engineer, Apple Services Engineer_services-engineering?team=MLAI"
@@ -67,18 +77,8 @@
       "title": "Software Application Support Engineer, Retail Engineering Ops & Support (GSE)",
       "url": "https://jobs.apple.com/en-us/details/200657016-0157/software-application-support-engineer-retail-engineering-ops-support-gse?team=SFTWR",
       "identifier": "Software Application Support Engineer, Retail Engi_ing-ops-support-gse?team=SFTWR"
-    },
-    {
-      "title": "Security Engineer, G&A Solutions Engineering (GSE)",
-      "url": "https://jobs.apple.com/en-us/details/200656786-0157/security-engineer-g-a-solutions-engineering-gse?team=SFTWR",
-      "identifier": "Security Engineer, G&A Solutions Engineering (GSE)_ons-engineering-gse?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer (Enablon), G&A Solutions Engineering (GSE)",
-      "url": "https://jobs.apple.com/en-us/details/200657731-0157/software-engineer-enablon-g-a-solutions-engineering-gse?team=SFTWR",
-      "identifier": "Software Engineer (Enablon), G&A Solutions Enginee_ons-engineering-gse?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-16T00:17:57.723168"
+  "timestamp": "2026-04-16T00:35:13.415963"
 }

@@ -1,8 +1,23 @@
 {
   "page_title": "Search our Job Opportunities at Barclays",
   "url": "https://search.jobs.barclays/search-jobs/United%20States/13015/2/6252001/39x76/-98x5/50/2",
-  "total_jobs": 12,
+  "total_jobs": 15,
   "jobs": [
+    {
+      "title": "ICB Coverage - Inbound Associate Banker",
+      "url": "https://search.jobs.barclays/job/new-york/icb-coverage-inbound-associate-banker/13015/94006058048",
+      "identifier": "ICB Coverage - Inbound Associate Banker_ciate-banker/13015/94006058048"
+    },
+    {
+      "title": "Quant, Macro Rates Flow VP",
+      "url": "https://search.jobs.barclays/job/new-york/quant-macro-rates-flow-vp/13015/94006050352",
+      "identifier": "Quant, Macro Rates Flow VP_ates-flow-vp/13015/94006050352"
+    },
+    {
+      "title": "Senior Data Engineer - AVP",
+      "url": "https://search.jobs.barclays/job/whippany/senior-data-engineer-avp/13015/93993363456",
+      "identifier": "Senior Data Engineer - AVP_engineer-avp/13015/93993363456"
+    },
     {
       "title": "Senior Data Engineer \u2013 AVP",
       "url": "https://search.jobs.barclays/job/whippany/senior-data-engineer-avp/13015/93993353584",
@@ -64,6 +79,6 @@
       "identifier": "Equities Valuations Software Engineer_are-engineer/13015/93930537072"
     }
   ],
-  "job_count_text": "120",
-  "timestamp": "2026-04-16T11:20:40.495758"
+  "job_count_text": "119",
+  "timestamp": "2026-04-16T11:37:41.880469"
 }

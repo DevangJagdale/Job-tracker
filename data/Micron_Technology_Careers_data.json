@@ -4,11 +4,6 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "ENGINEER-METROLOGY PROCESS\nBoise, Idaho, United States of America\nPosted 2 days ago",
-      "url": "https://careers.micron.com/careers/job/41440791",
-      "identifier": "ENGINEER-METROLOGY PROCESS\nBoise, Idaho, United St_icron.com/careers/job/41440791"
-    },
-    {
       "title": "Verification Methodology Engineer \u2013 DRAM Design\nBoise, Idaho, United States of America\nPosted 2 days ago",
       "url": "https://careers.micron.com/careers/job/41441282",
       "identifier": "Verification Methodology Engineer \u2013 DRAM Design\nBo_icron.com/careers/job/41441282"
@@ -19,9 +14,9 @@
       "identifier": "Thin Film Process Development Engineer\nBoise, Idah_icron.com/careers/job/40777989"
     },
     {
-      "title": "New College Grad - Semiconductor Design Engineer, DRAM Products Group\nBoise, Idaho, United States of America\nPosted 3 days ago",
-      "url": "https://careers.micron.com/careers/job/39756043",
-      "identifier": "New College Grad - Semiconductor Design Engineer, _icron.com/careers/job/39756043"
+      "title": "ENGINEER-METROLOGY PROCESS\nBoise, Idaho, United States of America\nPosted 2 days ago",
+      "url": "https://careers.micron.com/careers/job/41440791",
+      "identifier": "ENGINEER-METROLOGY PROCESS\nBoise, Idaho, United St_icron.com/careers/job/41440791"
     },
     {
       "title": "New College Grad - Design Engineer\nSan Jose, California, United States of America\nPosted 3 days ago",
@@ -29,19 +24,24 @@
       "identifier": "New College Grad - Design Engineer\nSan Jose, Calif_icron.com/careers/job/41439437"
     },
     {
+      "title": "New College Grad - Semiconductor Design Engineer, DRAM Products Group\nBoise, Idaho, United States of America\nPosted 3 days ago",
+      "url": "https://careers.micron.com/careers/job/39756043",
+      "identifier": "New College Grad - Semiconductor Design Engineer, _icron.com/careers/job/39756043"
+    },
+    {
       "title": "Silicon System AI Engineer\nSan Jose, California, United States of America\nPosted 4 days ago",
       "url": "https://careers.micron.com/careers/job/41043973",
       "identifier": "Silicon System AI Engineer\nSan Jose, California, U_icron.com/careers/job/41043973"
     },
     {
-      "title": "New College Grad - Semiconductor Verification Design Engineer, DRAM Products Group\nBoise, Idaho, United States of America\nPosted 4 days ago",
-      "url": "https://careers.micron.com/careers/job/40033242",
-      "identifier": "New College Grad - Semiconductor Verification Desi_icron.com/careers/job/40033242"
-    },
-    {
       "title": "Engineer-II, Firmware and Product Test Engineering\nLongmont, Colorado, United States of America\nPosted 4 days ago",
       "url": "https://careers.micron.com/careers/job/40876529",
       "identifier": "Engineer-II, Firmware and Product Test Engineering_icron.com/careers/job/40876529"
+    },
+    {
+      "title": "New College Grad - Semiconductor Verification Design Engineer, DRAM Products Group\nBoise, Idaho, United States of America\nPosted 4 days ago",
+      "url": "https://careers.micron.com/careers/job/40033242",
+      "identifier": "New College Grad - Semiconductor Verification Desi_icron.com/careers/job/40033242"
     },
     {
       "title": "Engineer, FE CENTRAL QA ID1\nBoise, Idaho, United States of America\nPosted 7 days ago",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "77",
-  "timestamp": "2026-04-16T12:58:44.110191"
+  "timestamp": "2026-04-16T13:16:06.475000"
 }

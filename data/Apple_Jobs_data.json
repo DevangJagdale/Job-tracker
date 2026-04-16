@@ -1,8 +1,13 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 14,
+  "total_jobs": 13,
   "jobs": [
+    {
+      "title": "Software Engineer, Apple Ads",
+      "url": "https://jobs.apple.com/en-us/details/200604200-0157/software-engineer-apple-ads?team=SFTWR",
+      "identifier": "Software Engineer, Apple Ads_-engineer-apple-ads?team=SFTWR"
+    },
     {
       "title": "Machine Learning Manager, Siri Speech",
       "url": "https://jobs.apple.com/en-us/details/200646880-0836/machine-learning-manager-siri-speech?team=SFTWR",
@@ -62,18 +67,8 @@
       "title": "Software Engineer, Siri Runtime Systems and Interaction",
       "url": "https://jobs.apple.com/en-us/details/200617928-0836/software-engineer-siri-runtime-systems-and-interaction?team=SFTWR",
       "identifier": "Software Engineer, Siri Runtime Systems and Intera_ems-and-interaction?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer, Siri Attention and Invocation",
-      "url": "https://jobs.apple.com/en-us/details/200635420-0836/software-engineer-siri-attention-and-invocation?team=SFTWR",
-      "identifier": "Software Engineer, Siri Attention and Invocation_tion-and-invocation?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer, Siri Attention And Invocation",
-      "url": "https://jobs.apple.com/en-us/details/200631430-0836/software-engineer-siri-attention-and-invocation?team=SFTWR",
-      "identifier": "Software Engineer, Siri Attention And Invocation_tion-and-invocation?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-16T17:57:28.800639"
+  "timestamp": "2026-04-16T18:14:32.680924"
 }

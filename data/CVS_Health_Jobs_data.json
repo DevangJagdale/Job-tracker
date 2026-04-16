@@ -4,24 +4,9 @@
   "total_jobs": 8,
   "jobs": [
     {
-      "title": "Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0843852/Software-Development-Engineer",
-      "identifier": "Software Development Engineer_/Software-Development-Engineer"
-    },
-    {
-      "title": "Field Technician",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0870653/Field-Technician",
-      "identifier": "Field Technician_/job/R0870653/Field-Technician"
-    },
-    {
-      "title": "Conversational AI Engineering Lead Director",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0817616/Conversational-AI-Engineering-Lead-Director",
-      "identifier": "Conversational AI Engineering Lead Director_l-AI-Engineering-Lead-Director"
-    },
-    {
-      "title": "Senior Scrum Master",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0877857/Senior-Scrum-Master",
-      "identifier": "Senior Scrum Master_b/R0877857/Senior-Scrum-Master"
+      "title": "Staff Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0835190/Staff-Software-Development-Engineer",
+      "identifier": "Staff Software Development Engineer_-Software-Development-Engineer"
     },
     {
       "title": "Lead Director - Software Engineering (Health100 Platform)",
@@ -29,14 +14,29 @@
       "identifier": "Lead Director - Software Engineering (Health100 Pl_Engineering-Health100-Platform"
     },
     {
-      "title": "Staff Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0835190/Staff-Software-Development-Engineer",
-      "identifier": "Staff Software Development Engineer_-Software-Development-Engineer"
+      "title": "Field Technician",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0870653/Field-Technician",
+      "identifier": "Field Technician_/job/R0870653/Field-Technician"
+    },
+    {
+      "title": "Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0843852/Software-Development-Engineer",
+      "identifier": "Software Development Engineer_/Software-Development-Engineer"
+    },
+    {
+      "title": "Conversational AI Engineering Lead Director",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0817616/Conversational-AI-Engineering-Lead-Director",
+      "identifier": "Conversational AI Engineering Lead Director_l-AI-Engineering-Lead-Director"
     },
     {
       "title": "Manager, Application Development",
       "url": "https://jobs.cvshealth.com/us/en/job/R0841409/Manager-Application-Development",
       "identifier": "Manager, Application Development_anager-Application-Development"
+    },
+    {
+      "title": "Senior Scrum Master",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0877857/Senior-Scrum-Master",
+      "identifier": "Senior Scrum Master_b/R0877857/Senior-Scrum-Master"
     },
     {
       "title": "Staff Software Engineer - Java",
@@ -45,5 +45,5 @@
     }
   ],
   "job_count_text": "58",
-  "timestamp": "2026-04-16T21:40:09.502843"
+  "timestamp": "2026-04-16T21:57:09.050717"
 }

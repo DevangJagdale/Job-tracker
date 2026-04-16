@@ -1,8 +1,18 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 14,
+  "total_jobs": 15,
   "jobs": [
+    {
+      "title": "Senior Software Engineer, Apple Services Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200658409-3337/senior-software-engineer-apple-services-engineering?team=SFTWR",
+      "identifier": "Senior Software Engineer, Apple Services Engineeri_ervices-engineering?team=SFTWR"
+    },
+    {
+      "title": "Senior platform engineer",
+      "url": "https://jobs.apple.com/en-us/details/200658428-3337/senior-platform-engineer?team=SFTWR",
+      "identifier": "Senior platform engineer_r-platform-engineer?team=SFTWR"
+    },
     {
       "title": "AI/ML - Senior OS Software Engineer, Evaluation",
       "url": "https://jobs.apple.com/en-us/details/200658427-0836/ai-ml-senior-os-software-engineer-evaluation?team=SFTWR",
@@ -67,13 +77,8 @@
       "title": "Software Triage Engineer, Siri Runtime Systems and Interaction",
       "url": "https://jobs.apple.com/en-us/details/200635408-0836/software-triage-engineer-siri-runtime-systems-and-interaction?team=SFTWR",
       "identifier": "Software Triage Engineer, Siri Runtime Systems and_ems-and-interaction?team=SFTWR"
-    },
-    {
-      "title": "Sr. Software Engineer - Data, Siri Speech",
-      "url": "https://jobs.apple.com/en-us/details/200651524-1242/sr-software-engineer-data-siri-speech?team=SFTWR",
-      "identifier": "Sr. Software Engineer - Data, Siri Speech_er-data-siri-speech?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-16T19:39:47.199745"
+  "timestamp": "2026-04-16T19:56:48.740575"
 }

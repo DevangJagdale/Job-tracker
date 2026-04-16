@@ -4,14 +4,14 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Semiconductor Process Engineer, Metrology\nBoise, Idaho, United States of America\nPosted 21 hours ago",
-      "url": "https://careers.micron.com/careers/job/39196650",
-      "identifier": "Semiconductor Process Engineer, Metrology\nBoise, I_icron.com/careers/job/39196650"
-    },
-    {
       "title": "Process Integration Engineer | APTD\nBoise, Idaho, United States of America\nPosted 21 hours ago",
       "url": "https://careers.micron.com/careers/job/41288080",
       "identifier": "Process Integration Engineer | APTD\nBoise, Idaho, _icron.com/careers/job/41288080"
+    },
+    {
+      "title": "Semiconductor Process Engineer, Metrology\nBoise, Idaho, United States of America\nPosted 21 hours ago",
+      "url": "https://careers.micron.com/careers/job/39196650",
+      "identifier": "Semiconductor Process Engineer, Metrology\nBoise, I_icron.com/careers/job/39196650"
     },
     {
       "title": "Verification Methodology Engineer \u2013 DRAM Design\nBoise, Idaho, United States of America\nPosted 2 days ago",
@@ -29,14 +29,14 @@
       "identifier": "Thin Film Process Development Engineer\nBoise, Idah_icron.com/careers/job/40777989"
     },
     {
-      "title": "New College Grad - Design Engineer\nSan Jose, California, United States of America\nPosted 3 days ago",
-      "url": "https://careers.micron.com/careers/job/41439437",
-      "identifier": "New College Grad - Design Engineer\nSan Jose, Calif_icron.com/careers/job/41439437"
-    },
-    {
       "title": "New College Grad - Semiconductor Design Engineer, DRAM Products Group\nBoise, Idaho, United States of America\nPosted 3 days ago",
       "url": "https://careers.micron.com/careers/job/39756043",
       "identifier": "New College Grad - Semiconductor Design Engineer, _icron.com/careers/job/39756043"
+    },
+    {
+      "title": "New College Grad - Design Engineer\nSan Jose, California, United States of America\nPosted 3 days ago",
+      "url": "https://careers.micron.com/careers/job/41439437",
+      "identifier": "New College Grad - Design Engineer\nSan Jose, Calif_icron.com/careers/job/41439437"
     },
     {
       "title": "Silicon System AI Engineer\nSan Jose, California, United States of America\nPosted 4 days ago",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "76",
-  "timestamp": "2026-04-16T21:08:08.747736"
+  "timestamp": "2026-04-16T21:25:08.054061"
 }

@@ -1,7 +1,7 @@
 {
   "page_title": "Job Openings - Cisco Careers",
   "url": "https://careers.cisco.com/global/en/search-results?s=1",
-  "total_jobs": 7,
+  "total_jobs": 6,
   "jobs": [
     {
       "title": "Sales Development Representative Outbound Sales II (Full Time) - United States",
@@ -12,11 +12,6 @@
       "title": "Splunk Business Development Representative",
       "url": "https://careers.cisco.com/global/en/job/2003745/Splunk-Business-Development-Representative",
       "identifier": "Splunk Business Development Representative_ess-Development-Representative"
-    },
-    {
-      "title": "Field Sales Intern (United States)",
-      "url": "https://careers.cisco.com/global/en/job/2012189/Field-Sales-Intern-United-States",
-      "identifier": "Field Sales Intern (United States)_eld-Sales-Intern-United-States"
     },
     {
       "title": "UI/UX Designer I (Full Time) - United States",
@@ -39,6 +34,6 @@
       "identifier": "Sales Development Representative II (Full Time) Un_al-Demand-Center-United-States"
     }
   ],
-  "job_count_text": "7",
-  "timestamp": "2026-04-16T16:25:19.315740"
+  "job_count_text": "6",
+  "timestamp": "2026-04-16T16:42:50.126664"
 }

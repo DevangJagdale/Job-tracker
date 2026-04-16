@@ -4,29 +4,9 @@
   "total_jobs": 8,
   "jobs": [
     {
-      "title": "Manager - Business Analysis (IC)",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0880802/Manager-Business-Analysis-IC",
-      "identifier": "Manager - Business Analysis (IC)_2/Manager-Business-Analysis-IC"
-    },
-    {
-      "title": "Quality Engineer - IBMi",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0880639/Quality-Engineer-IBMi",
-      "identifier": "Quality Engineer - IBMi_R0880639/Quality-Engineer-IBMi"
-    },
-    {
-      "title": "Software Packaging Coordinator",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0862116/Software-Packaging-Coordinator",
-      "identifier": "Software Packaging Coordinator_Software-Packaging-Coordinator"
-    },
-    {
-      "title": "Mac Software Packaging Automation Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0862115/Mac-Software-Packaging-Automation-Engineer",
-      "identifier": "Mac Software Packaging Automation Engineer_-Packaging-Automation-Engineer"
-    },
-    {
-      "title": "Senior Manager, Quality Assurance",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0833306/Senior-Manager-Quality-Assurance",
-      "identifier": "Senior Manager, Quality Assurance_nior-Manager-Quality-Assurance"
+      "title": "Epic Cogito Administrator",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0871727/Epic-Cogito-Administrator",
+      "identifier": "Epic Cogito Administrator_1727/Epic-Cogito-Administrator"
     },
     {
       "title": "Senior Manager-Epic EHR Development Lead (Software Development)",
@@ -34,16 +14,36 @@
       "identifier": "Senior Manager-Epic EHR Development Lead (Software_ment-Lead-Software-Development"
     },
     {
-      "title": "Principal Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0762980/Principal-Software-Development-Engineer",
-      "identifier": "Principal Software Development Engineer_-Software-Development-Engineer"
+      "title": "Manager - Software Technology Vendor Management",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0818678/Manager-Software-Technology-Vendor-Management",
+      "identifier": "Manager - Software Technology Vendor Management_e-Technology-Vendor-Management"
     },
     {
-      "title": "Epic Cogito Administrator",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0871727/Epic-Cogito-Administrator",
-      "identifier": "Epic Cogito Administrator_1727/Epic-Cogito-Administrator"
+      "title": "Lead Director - Software Technology Vendor Management",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0818639/Lead-Director-Software-Technology-Vendor-Management",
+      "identifier": "Lead Director - Software Technology Vendor Managem_e-Technology-Vendor-Management"
+    },
+    {
+      "title": "Senior Manager - Scrum Master",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0876146/Senior-Manager-Scrum-Master",
+      "identifier": "Senior Manager - Scrum Master_46/Senior-Manager-Scrum-Master"
+    },
+    {
+      "title": "Lead Director - Frictionless Provider Experience",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0861079/Lead-Director-Frictionless-Provider-Experience",
+      "identifier": "Lead Director - Frictionless Provider Experience_ictionless-Provider-Experience"
+    },
+    {
+      "title": "Chief of Staff - Caremark Digital Technology",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0773238/Chief-of-Staff-Caremark-Digital-Technology",
+      "identifier": "Chief of Staff - Caremark Digital Technology_ff-Caremark-Digital-Technology"
+    },
+    {
+      "title": "Manager Network Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0873116/Manager-Network-Engineer",
+      "identifier": "Manager Network Engineer_73116/Manager-Network-Engineer"
     }
   ],
-  "job_count_text": "36",
-  "timestamp": "2026-04-16T15:32:35.532730"
+  "job_count_text": "234",
+  "timestamp": "2026-04-16T15:49:50.197131"
 }

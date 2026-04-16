@@ -1,7 +1,7 @@
 {
   "page_title": "Search our Job Opportunities at Barclays",
   "url": "https://search.jobs.barclays/search-jobs/United%20States/13015/2/6252001/39x76/-98x5/50/2",
-  "total_jobs": 15,
+  "total_jobs": 14,
   "jobs": [
     {
       "title": "ICB Coverage - Inbound Associate Banker",
@@ -12,16 +12,6 @@
       "title": "Quant, Macro Rates Flow VP",
       "url": "https://search.jobs.barclays/job/new-york/quant-macro-rates-flow-vp/13015/94006050352",
       "identifier": "Quant, Macro Rates Flow VP_ates-flow-vp/13015/94006050352"
-    },
-    {
-      "title": "Senior Data Engineer - AVP",
-      "url": "https://search.jobs.barclays/job/whippany/senior-data-engineer-avp/13015/93993363456",
-      "identifier": "Senior Data Engineer - AVP_engineer-avp/13015/93993363456"
-    },
-    {
-      "title": "Senior Data Engineer \u2013 AVP",
-      "url": "https://search.jobs.barclays/job/whippany/senior-data-engineer-avp/13015/93993353584",
-      "identifier": "Senior Data Engineer \u2013 AVP_engineer-avp/13015/93993353584"
     },
     {
       "title": "Trade Floor End User Support Technician",
@@ -64,21 +54,26 @@
       "identifier": "Acquisitions and Divestitures, AVP_stitures-avp/13015/93930547904"
     },
     {
-      "title": "US Rates Short Term Sales AVP",
-      "url": "https://search.jobs.barclays/job/new-york/us-rates-short-term-sales-avp/13015/93930541136",
-      "identifier": "US Rates Short Term Sales AVP_rm-sales-avp/13015/93930541136"
-    },
-    {
       "title": "Securitized Product Project Manager",
       "url": "https://search.jobs.barclays/job/whippany/securitized-product-project-manager/13015/93930540112",
       "identifier": "Securitized Product Project Manager_ject-manager/13015/93930540112"
     },
     {
-      "title": "Equities Valuations Software Engineer",
-      "url": "https://search.jobs.barclays/job/whippany/equities-valuations-software-engineer/13015/93930537072",
-      "identifier": "Equities Valuations Software Engineer_are-engineer/13015/93930537072"
+      "title": "AVP, CCAR Process Oversight and Control",
+      "url": "https://search.jobs.barclays/job/new-york/avp-ccar-process-oversight-and-control/13015/93918198080",
+      "identifier": "AVP, CCAR Process Oversight and Control_-and-control/13015/93918198080"
+    },
+    {
+      "title": "Director, Rich Media, Workplace and Collaboration Technology New York",
+      "url": "https://search.jobs.barclays/job/new-york/director-rich-media-workplace-and-collaboration-technology-new-york/13015/93918195088",
+      "identifier": "Director, Rich Media, Workplace and Collaboration _ogy-new-york/13015/93918195088"
+    },
+    {
+      "title": "Director, FinTech / Financial Institutions Coverage, International Corporate Banking Americas",
+      "url": "https://search.jobs.barclays/job/new-york/director-fintech-financial-institutions-coverage-international-corporate-banking-americas/13015/93918195072",
+      "identifier": "Director, FinTech / Financial Institutions Coverag_ing-americas/13015/93918195072"
     }
   ],
-  "job_count_text": "119",
-  "timestamp": "2026-04-16T17:22:52.160928"
+  "job_count_text": "113",
+  "timestamp": "2026-04-16T17:39:54.440561"
 }

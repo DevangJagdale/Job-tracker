@@ -4,6 +4,16 @@
   "total_jobs": 19,
   "jobs": [
     {
+      "title": "Computer Vision Engineer, Camera and Photos",
+      "url": "https://jobs.apple.com/en-us/details/200658419-0836/computer-vision-engineer-camera-and-photos?team=SFTWR",
+      "identifier": "Computer Vision Engineer, Camera and Photos_r-camera-and-photos?team=SFTWR"
+    },
+    {
+      "title": "Software Engineer (GenAI Evaluations), AI & Data Platforms (AiDP)",
+      "url": "https://jobs.apple.com/en-us/details/200653820-3956/software-engineer-genai-evaluations-ai-data-platforms-aidp?team=SFTWR",
+      "identifier": "Software Engineer (GenAI Evaluations), AI & Data P_data-platforms-aidp?team=SFTWR"
+    },
+    {
       "title": "Software Engineer- iOS Engineer - SpringBoard Multitasking - System Experience",
       "url": "https://jobs.apple.com/en-us/details/200654462-0836/software-engineer-ios-engineer-springboard-multitasking-system-experience?team=SFTWR",
       "identifier": "Software Engineer- iOS Engineer - SpringBoard Mult_g-system-experience?team=SFTWR"
@@ -87,18 +97,8 @@
       "title": "Engineering Program Manager, AI/ML, Apple Services Engineering (ASE)",
       "url": "https://jobs.apple.com/en-us/details/200655731-0836/engineering-program-manager-ai-ml-apple-services-engineering-ase?team=SFTWR",
       "identifier": "Engineering Program Manager, AI/ML, Apple Services_ces-engineering-ase?team=SFTWR"
-    },
-    {
-      "title": "Senior Software Engineer, Apple Services Engineering",
-      "url": "https://jobs.apple.com/en-us/details/200658409-3337/senior-software-engineer-apple-services-engineering?team=SFTWR",
-      "identifier": "Senior Software Engineer, Apple Services Engineeri_ervices-engineering?team=SFTWR"
-    },
-    {
-      "title": "Senior platform engineer",
-      "url": "https://jobs.apple.com/en-us/details/200658428-3337/senior-platform-engineer?team=SFTWR",
-      "identifier": "Senior platform engineer_r-platform-engineer?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-16T23:11:56.970287"
+  "timestamp": "2026-04-16T23:28:54.397499"
 }

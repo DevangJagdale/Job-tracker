@@ -4,13 +4,8 @@
   "total_jobs": 8,
   "jobs": [
     {
-      "title": "Senior Epic Analyst",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0887915/Senior-Epic-Analyst",
-      "identifier": "Senior Epic Analyst_b/R0887915/Senior-Epic-Analyst"
-    },
-    {
       "title": "Senior Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0870724/Senior-Software-Development-Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0835045/Senior-Software-Development-Engineer",
       "identifier": "Senior Software Development Engineer_-Software-Development-Engineer"
     },
     {
@@ -19,14 +14,19 @@
       "identifier": "Principal Software Engineer (Health100 Platform)_re-Engineer-Health100-Platform"
     },
     {
-      "title": "Senior Software Engineering Manager",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0884073/Senior-Software-Engineering-Manager",
-      "identifier": "Senior Software Engineering Manager_r-Software-Engineering-Manager"
+      "title": "Senior Epic Analyst",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0887915/Senior-Epic-Analyst",
+      "identifier": "Senior Epic Analyst_b/R0887915/Senior-Epic-Analyst"
     },
     {
-      "title": "Manager - Business Analysis (IC)",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0880802/Manager-Business-Analysis-IC",
-      "identifier": "Manager - Business Analysis (IC)_2/Manager-Business-Analysis-IC"
+      "title": "Staff Software Development Engineer (Cloud & AI)",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0884876/Staff-Software-Development-Engineer-Cloud-AI",
+      "identifier": "Staff Software Development Engineer (Cloud & AI)_-Development-Engineer-Cloud-AI"
+    },
+    {
+      "title": "Staff Software Engineer - Java Cloud (Health100 Platform)",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0860975/Staff-Software-Engineer-Java-Cloud-Health100-Platform",
+      "identifier": "Staff Software Engineer - Java Cloud (Health100 Pl_-Java-Cloud-Health100-Platform"
     },
     {
       "title": "Senior Manager- Software Development Engineering",
@@ -39,11 +39,11 @@
       "identifier": "Staff Software Engineer - Java_5/Staff-Software-Engineer-Java"
     },
     {
-      "title": "Staff Software Engineer - Java Cloud (Health100 Platform)",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0860975/Staff-Software-Engineer-Java-Cloud-Health100-Platform",
-      "identifier": "Staff Software Engineer - Java Cloud (Health100 Pl_-Java-Cloud-Health100-Platform"
+      "title": "Manager - Business Analysis (IC)",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0880802/Manager-Business-Analysis-IC",
+      "identifier": "Manager - Business Analysis (IC)_2/Manager-Business-Analysis-IC"
     }
   ],
   "job_count_text": "56",
-  "timestamp": "2026-04-16T04:59:47.943973"
+  "timestamp": "2026-04-16T05:16:47.691882"
 }

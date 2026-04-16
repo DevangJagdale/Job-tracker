@@ -4,7 +4,7 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted an hour ago",
+      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556858023?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Washington_556858023?domain=microsoft.com"
     },
@@ -24,12 +24,12 @@
       "identifier": "Principal Software Engineer\nUnited States, Multipl_556768653?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer - Windows Debugging\nUnited States, Washington, Redmond\nPosted 8 hours ago",
+      "title": "Senior Software Engineer - Windows Debugging\nUnited States, Washington, Redmond\nPosted 9 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556653252?domain=microsoft.com",
       "identifier": "Senior Software Engineer - Windows Debugging\nUnite_556653252?domain=microsoft.com"
     },
     {
-      "title": "Software Engineering II (Backend)\nUnited States, Washington, Redmond\nPosted 8 hours ago",
+      "title": "Software Engineering II (Backend)\nUnited States, Washington, Redmond\nPosted 9 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556859304?domain=microsoft.com",
       "identifier": "Software Engineering II (Backend)\nUnited States, W_556859304?domain=microsoft.com"
     },
@@ -54,6 +54,6 @@
       "identifier": "Senior Software Engineer\nUnited States, Washington_556857637?domain=microsoft.com"
     }
   ],
-  "job_count_text": "665",
-  "timestamp": "2026-04-16T04:58:31.802907"
+  "job_count_text": "660",
+  "timestamp": "2026-04-16T05:15:31.219942"
 }

@@ -4,6 +4,11 @@
   "total_jobs": 13,
   "jobs": [
     {
+      "title": "Engineering Program Manager - SWE Systems",
+      "url": "https://jobs.apple.com/en-us/details/200641933-0836/engineering-program-manager-swe-systems?team=SFTWR",
+      "identifier": "Engineering Program Manager - SWE Systems_manager-swe-systems?team=SFTWR"
+    },
+    {
       "title": "Senior Software Engineer - Siri Runtime Platform",
       "url": "https://jobs.apple.com/en-us/details/200635677-0836/senior-software-engineer-siri-runtime-platform?team=SFTWR",
       "identifier": "Senior Software Engineer - Siri Runtime Platform_ri-runtime-platform?team=SFTWR"
@@ -62,13 +67,8 @@
       "title": "Sr. ML Infrastructure Engineer, Siri Runtime Systems and Interaction",
       "url": "https://jobs.apple.com/en-us/details/200608424-3337/sr-ml-infrastructure-engineer-siri-runtime-systems-and-interaction?team=SFTWR",
       "identifier": "Sr. ML Infrastructure Engineer, Siri Runtime Syste_ems-and-interaction?team=SFTWR"
-    },
-    {
-      "title": "Machine Learning Engineer, Siri Attention & Invocation",
-      "url": "https://jobs.apple.com/en-us/details/200627828-0836/machine-learning-engineer-siri-attention-invocation?team=SFTWR",
-      "identifier": "Machine Learning Engineer, Siri Attention & Invoca_ttention-invocation?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-16T16:58:26.147472"
+  "timestamp": "2026-04-16T17:06:21.643091"
 }

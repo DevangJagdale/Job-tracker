@@ -4,7 +4,7 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Principal Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 40 minutes ago",
+      "title": "Principal Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556768653?domain=microsoft.com",
       "identifier": "Principal Software Engineer\nUnited States, Multipl_556768653?domain=microsoft.com"
     },
@@ -19,7 +19,7 @@
       "identifier": "Software Engineering II (Backend)\nUnited States, W_556859304?domain=microsoft.com"
     },
     {
-      "title": "Principal Software Engineer - Data, Personalization - Microsoft AI\nUnited States, Washington, Redmond + 2 more\nPosted 3 hours ago",
+      "title": "Principal Software Engineer - Data, Personalization - Microsoft AI\nUnited States, Washington, Redmond + 2 more\nPosted 4 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556643347?domain=microsoft.com",
       "identifier": "Principal Software Engineer - Data, Personalizatio_556643347?domain=microsoft.com"
     },
@@ -34,17 +34,17 @@
       "identifier": "Software Engineer\nUnited States, Multiple Location_556859143?domain=microsoft.com"
     },
     {
-      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 5 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556761675?domain=microsoft.com",
-      "identifier": "Software Engineer II\nUnited States, Washington, Re_556761675?domain=microsoft.com"
-    },
-    {
       "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 5 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556857637?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Washington_556857637?domain=microsoft.com"
     },
     {
-      "title": "Cloud Network Engineer\nUnited States, Washington, Redmond\nPosted 6 hours ago",
+      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 5 hours ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556761675?domain=microsoft.com",
+      "identifier": "Software Engineer II\nUnited States, Washington, Re_556761675?domain=microsoft.com"
+    },
+    {
+      "title": "Cloud Network Engineer\nUnited States, Washington, Redmond\nPosted 7 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556761694?domain=microsoft.com",
       "identifier": "Cloud Network Engineer\nUnited States, Washington, _556761694?domain=microsoft.com"
     },
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "681",
-  "timestamp": "2026-04-15T23:43:04.000853"
+  "timestamp": "2026-04-16T00:00:20.351979"
 }

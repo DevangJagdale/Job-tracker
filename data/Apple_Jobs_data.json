@@ -1,8 +1,23 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 14,
+  "total_jobs": 15,
   "jobs": [
+    {
+      "title": "ML Data Operations Lead, Wallet, Payment & Commerce",
+      "url": "https://jobs.apple.com/en-us/details/200657848-0157/ml-data-operations-lead-wallet-payment-commerce?team=SFTWR",
+      "identifier": "ML Data Operations Lead, Wallet, Payment & Commerc_et-payment-commerce?team=SFTWR"
+    },
+    {
+      "title": "App Store Marketing Data Scientist",
+      "url": "https://jobs.apple.com/en-us/details/200657889-0670/app-store-marketing-data-scientist?team=OPMFG",
+      "identifier": "App Store Marketing Data Scientist_ting-data-scientist?team=OPMFG"
+    },
+    {
+      "title": "Software Engineer (GenAI Evaluations), AI & Data Platforms (AiDP)",
+      "url": "https://jobs.apple.com/en-us/details/200585184-0157/software-engineer-genai-evaluations-ai-data-platforms-aidp?team=SFTWR",
+      "identifier": "Software Engineer (GenAI Evaluations), AI & Data P_data-platforms-aidp?team=SFTWR"
+    },
     {
       "title": "Screening & Integration Engineer, Watch Software",
       "url": "https://jobs.apple.com/en-us/details/200657244-0836/screening-integration-engineer-watch-software?team=SFTWR",
@@ -62,18 +77,8 @@
       "title": "Aesthetics Engineer, Look Development",
       "url": "https://jobs.apple.com/en-us/details/200657877-0836/aesthetics-engineer-look-development?team=SFTWR",
       "identifier": "Aesthetics Engineer, Look Development_er-look-development?team=SFTWR"
-    },
-    {
-      "title": "Technical Writer",
-      "url": "https://jobs.apple.com/en-us/details/200657704-3401/technical-writer?team=SFTWR",
-      "identifier": "Technical Writer_01/technical-writer?team=SFTWR"
-    },
-    {
-      "title": "Finance Data Scientist - Enablement",
-      "url": "https://jobs.apple.com/en-us/details/200646258-0157/finance-data-scientist-enablement?team=SFTWR",
-      "identifier": "Finance Data Scientist - Enablement_cientist-enablement?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-15T23:43:20.157043"
+  "timestamp": "2026-04-16T00:00:36.623930"
 }

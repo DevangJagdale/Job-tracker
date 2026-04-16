@@ -4,7 +4,12 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 3 hours ago",
+      "title": "Software Engineering - CTJ - Poly\nUnited States, Washington, Redmond + 2 more\nPosted 22 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556858723?domain=microsoft.com",
+      "identifier": "Software Engineering - CTJ - Poly\nUnited States, W_556858723?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 4 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556858023?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Washington_556858023?domain=microsoft.com"
     },
@@ -44,16 +49,11 @@
       "identifier": "Principal Software Engineer-Fullstack-CoreAI\nUnite_556753780?domain=microsoft.com"
     },
     {
-      "title": "Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 11 hours ago",
+      "title": "Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 12 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556859143?domain=microsoft.com",
       "identifier": "Software Engineer\nUnited States, Multiple Location_556859143?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 12 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556857637?domain=microsoft.com",
-      "identifier": "Senior Software Engineer\nUnited States, Washington_556857637?domain=microsoft.com"
     }
   ],
-  "job_count_text": "658",
-  "timestamp": "2026-04-16T07:05:17.249997"
+  "job_count_text": "652",
+  "timestamp": "2026-04-16T07:22:18.460784"
 }

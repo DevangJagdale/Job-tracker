@@ -4,6 +4,11 @@
   "total_jobs": 19,
   "jobs": [
     {
+      "title": "Software Engineer- iOS Engineer - SpringBoard Multitasking - System Experience",
+      "url": "https://jobs.apple.com/en-us/details/200654462-0836/software-engineer-ios-engineer-springboard-multitasking-system-experience?team=SFTWR",
+      "identifier": "Software Engineer- iOS Engineer - SpringBoard Mult_g-system-experience?team=SFTWR"
+    },
+    {
       "title": "PMO Operations Manager, SAP Landscape Modernization",
       "url": "https://jobs.apple.com/en-us/details/200658047-0157/pmo-operations-manager-sap-landscape-modernization?team=SFTWR",
       "identifier": "PMO Operations Manager, SAP Landscape Modernizatio_scape-modernization?team=SFTWR"
@@ -92,13 +97,8 @@
       "title": "Senior platform engineer",
       "url": "https://jobs.apple.com/en-us/details/200658428-3337/senior-platform-engineer?team=SFTWR",
       "identifier": "Senior platform engineer_r-platform-engineer?team=SFTWR"
-    },
-    {
-      "title": "AI/ML - Senior OS Software Engineer, Evaluation",
-      "url": "https://jobs.apple.com/en-us/details/200658427-0836/ai-ml-senior-os-software-engineer-evaluation?team=SFTWR",
-      "identifier": "AI/ML - Senior OS Software Engineer, Evaluation_engineer-evaluation?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-16T22:55:02.268953"
+  "timestamp": "2026-04-16T23:11:56.970287"
 }

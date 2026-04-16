@@ -4,12 +4,17 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Software Engineer - Backend\nUnited States, Washington, Redmond\nPosted 16 minutes ago",
+      "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted 9 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556629309?domain=microsoft.com",
+      "identifier": "Principal Software Engineer\nUnited States, Washing_556629309?domain=microsoft.com"
+    },
+    {
+      "title": "Software Engineer - Backend\nUnited States, Washington, Redmond\nPosted 33 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556857483?domain=microsoft.com",
       "identifier": "Software Engineer - Backend\nUnited States, Washing_556857483?domain=microsoft.com"
     },
     {
-      "title": "Principal Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 4 hours ago",
+      "title": "Principal Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 5 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556768653?domain=microsoft.com",
       "identifier": "Principal Software Engineer\nUnited States, Multipl_556768653?domain=microsoft.com"
     },
@@ -29,12 +34,12 @@
       "identifier": "Principal Software Engineer - Data, Personalizatio_556643347?domain=microsoft.com"
     },
     {
-      "title": "Principal Software Engineer-Fullstack-CoreAI\nUnited States, Washington, Redmond\nPosted 7 hours ago",
+      "title": "Principal Software Engineer-Fullstack-CoreAI\nUnited States, Washington, Redmond\nPosted 8 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556753780?domain=microsoft.com",
       "identifier": "Principal Software Engineer-Fullstack-CoreAI\nUnite_556753780?domain=microsoft.com"
     },
     {
-      "title": "Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 7 hours ago",
+      "title": "Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 8 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556859143?domain=microsoft.com",
       "identifier": "Software Engineer\nUnited States, Multiple Location_556859143?domain=microsoft.com"
     },
@@ -47,13 +52,8 @@
       "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 8 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556761675?domain=microsoft.com",
       "identifier": "Software Engineer II\nUnited States, Washington, Re_556761675?domain=microsoft.com"
-    },
-    {
-      "title": "Cloud Network Engineer\nUnited States, Washington, Redmond\nPosted 10 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556761694?domain=microsoft.com",
-      "identifier": "Cloud Network Engineer\nUnited States, Washington, _556761694?domain=microsoft.com"
     }
   ],
-  "job_count_text": "682",
-  "timestamp": "2026-04-16T03:15:57.033907"
+  "job_count_text": "683",
+  "timestamp": "2026-04-16T03:33:18.694945"
 }

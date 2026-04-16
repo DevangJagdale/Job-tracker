@@ -4,6 +4,11 @@
   "total_jobs": 15,
   "jobs": [
     {
+      "title": "Engineering Program Manager, AI/ML, Apple Services Engineering (ASE)",
+      "url": "https://jobs.apple.com/en-us/details/200655731-0836/engineering-program-manager-ai-ml-apple-services-engineering-ase?team=SFTWR",
+      "identifier": "Engineering Program Manager, AI/ML, Apple Services_ces-engineering-ase?team=SFTWR"
+    },
+    {
       "title": "Senior Software Engineer, Apple Services Engineering",
       "url": "https://jobs.apple.com/en-us/details/200658409-3337/senior-software-engineer-apple-services-engineering?team=SFTWR",
       "identifier": "Senior Software Engineer, Apple Services Engineeri_ervices-engineering?team=SFTWR"
@@ -37,11 +42,6 @@
       "title": "Sr. Tools and Automation Engineer, Siri Speech",
       "url": "https://jobs.apple.com/en-us/details/200635695-0836/sr-tools-and-automation-engineer-siri-speech?team=SFTWR",
       "identifier": "Sr. Tools and Automation Engineer, Siri Speech_ngineer-siri-speech?team=SFTWR"
-    },
-    {
-      "title": "Engineering Program Manager, AI/ML, Apple Services Engineering (ASE)",
-      "url": "https://jobs.apple.com/en-us/details/200655731-0836/engineering-program-manager-ai-ml-apple-services-engineering-ase?team=SFTWR",
-      "identifier": "Engineering Program Manager, AI/ML, Apple Services_ces-engineering-ase?team=SFTWR"
     },
     {
       "title": "Sr. Software Reliability & Stability Quality Engineer, Siri Speech",
@@ -80,5 +80,5 @@
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-16T19:56:48.740575"
+  "timestamp": "2026-04-16T20:13:58.925285"
 }

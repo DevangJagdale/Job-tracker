@@ -4,12 +4,22 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Principal Software Engineer - Azure Dev Ops Infrastructure\nUnited States, North Carolina, Raleigh + 2 more\nPosted 12 minutes ago",
+      "title": "Principal Applied Scientist\nUnited States, Washington, Redmond + 1 more\nPosted 11 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556642414?domain=microsoft.com",
+      "identifier": "Principal Applied Scientist\nUnited States, Washing_556642414?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 16 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556750009?domain=microsoft.com",
+      "identifier": "Senior Software Engineer\nUnited States, Washington_556750009?domain=microsoft.com"
+    },
+    {
+      "title": "Principal Software Engineer - Azure Dev Ops Infrastructure\nUnited States, North Carolina, Raleigh + 2 more\nPosted 30 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556847600?domain=microsoft.com",
       "identifier": "Principal Software Engineer - Azure Dev Ops Infras_556847600?domain=microsoft.com"
     },
     {
-      "title": "Principal AI Software Architect\nUnited States, Washington, Redmond + 1 more\nPosted 27 minutes ago",
+      "title": "Principal AI Software Architect\nUnited States, Washington, Redmond + 1 more\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556856516?domain=microsoft.com",
       "identifier": "Principal AI Software Architect\nUnited States, Was_556856516?domain=microsoft.com"
     },
@@ -19,7 +29,7 @@
       "identifier": "Senior Software Engineer-AI Infra\nUnited States, C_556857528?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer (Backend)\nUnited States, Washington, Redmond + 2 more\nPosted an hour ago",
+      "title": "Senior Software Engineer (Backend)\nUnited States, Washington, Redmond + 2 more\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556856282?domain=microsoft.com",
       "identifier": "Senior Software Engineer (Backend)\nUnited States, _556856282?domain=microsoft.com"
     },
@@ -42,18 +52,8 @@
       "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 12 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556858023?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Washington_556858023?domain=microsoft.com"
-    },
-    {
-      "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted 12 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556629309?domain=microsoft.com",
-      "identifier": "Principal Software Engineer\nUnited States, Washing_556629309?domain=microsoft.com"
-    },
-    {
-      "title": "Software Engineer - Backend\nUnited States, Washington, Redmond\nPosted 13 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556857483?domain=microsoft.com",
-      "identifier": "Software Engineer - Backend\nUnited States, Washing_556857483?domain=microsoft.com"
     }
   ],
-  "job_count_text": "651",
-  "timestamp": "2026-04-16T15:48:31.530403"
+  "job_count_text": "652",
+  "timestamp": "2026-04-16T16:05:53.926683"
 }

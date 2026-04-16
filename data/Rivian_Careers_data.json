@@ -1,7 +1,7 @@
 {
   "page_title": "Rivian Automotive",
   "url": "https://careers.rivian.com/careers-home/jobs?page=1&categories=Information%20Technology%7CSoftware%20Engineering%7CTest%20and%20Development",
-  "total_jobs": 11,
+  "total_jobs": 10,
   "jobs": [
     {
       "title": "Check Application Status",
@@ -17,6 +17,11 @@
       "title": "Staff IT Solutions Engineer, Collaboration Platforms",
       "url": "https://careers.rivian.com/careers-home/jobs/28983?lang=en-us&previousLocale=en-US",
       "identifier": "Staff IT Solutions Engineer, Collaboration Platfor_ang=en-us&previousLocale=en-US"
+    },
+    {
+      "title": "Sr. Site Coordinator, Autonomy Systems Validation",
+      "url": "https://careers.rivian.com/careers-home/jobs/30550?lang=en-us&previousLocale=en-US",
+      "identifier": "Sr. Site Coordinator, Autonomy Systems Validation_ang=en-us&previousLocale=en-US"
     },
     {
       "title": "Cloud Engineering Intern",
@@ -47,18 +52,8 @@
       "title": "Senior Android Engineer - Trip Planner Firmware",
       "url": "https://careers.rivian.com/careers-home/jobs/26761?lang=en-us&previousLocale=en-US",
       "identifier": "Senior Android Engineer - Trip Planner Firmware_ang=en-us&previousLocale=en-US"
-    },
-    {
-      "title": "Software Engineering Intern, Commercial Tech Sales",
-      "url": "https://careers.rivian.com/careers-home/jobs/30266?lang=en-us&previousLocale=en-US",
-      "identifier": "Software Engineering Intern, Commercial Tech Sales_ang=en-us&previousLocale=en-US"
-    },
-    {
-      "title": "Sr. Staff Product Manager, Enterprise Data",
-      "url": "https://careers.rivian.com/careers-home/jobs/23691?lang=en-us&previousLocale=en-US",
-      "identifier": "Sr. Staff Product Manager, Enterprise Data_ang=en-us&previousLocale=en-US"
     }
   ],
-  "job_count_text": "46",
-  "timestamp": "2026-04-16T19:28:40.192479"
+  "job_count_text": "49",
+  "timestamp": "2026-04-16T19:45:41.084739"
 }

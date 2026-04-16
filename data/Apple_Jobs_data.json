@@ -4,6 +4,11 @@
   "total_jobs": 15,
   "jobs": [
     {
+      "title": "Site Reliability Engineer \u2014 Human Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200658196-0836/site-reliability-engineer-human-engineering?team=SFTWR",
+      "identifier": "Site Reliability Engineer \u2014 Human Engineering_r-human-engineering?team=SFTWR"
+    },
+    {
       "title": "Production Support Engineer, Employee Experience & Productivity",
       "url": "https://jobs.apple.com/en-us/details/200652952-0670/production-support-engineer-employee-experience-productivity?team=SFTWR",
       "identifier": "Production Support Engineer, Employee Experience &_rience-productivity?team=SFTWR"
@@ -72,13 +77,8 @@
       "title": "Machine Learning Engineer, Photos",
       "url": "https://jobs.apple.com/en-us/details/200658136-0836/machine-learning-engineer-photos?team=SFTWR",
       "identifier": "Machine Learning Engineer, Photos_ing-engineer-photos?team=SFTWR"
-    },
-    {
-      "title": "Software Application Support Engineer, Retail Engineering Ops & Support (GSE)",
-      "url": "https://jobs.apple.com/en-us/details/200657016-0157/software-application-support-engineer-retail-engineering-ops-support-gse?team=SFTWR",
-      "identifier": "Software Application Support Engineer, Retail Engi_ing-ops-support-gse?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-16T01:34:01.633756"
+  "timestamp": "2026-04-16T01:50:59.966201"
 }

@@ -4,6 +4,11 @@
   "total_jobs": 15,
   "jobs": [
     {
+      "title": "Machine Learning Engineer, Apple Services Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200651732-3337/machine-learning-engineer-apple-services-engineering?team=MLAI",
+      "identifier": "Machine Learning Engineer, Apple Services Engineer_services-engineering?team=MLAI"
+    },
+    {
       "title": "ML Data Operations Lead, Wallet, Payment & Commerce",
       "url": "https://jobs.apple.com/en-us/details/200657848-0157/ml-data-operations-lead-wallet-payment-commerce?team=SFTWR",
       "identifier": "ML Data Operations Lead, Wallet, Payment & Commerc_et-payment-commerce?team=SFTWR"
@@ -72,13 +77,8 @@
       "title": "Software Engineer (Enablon), G&A Solutions Engineering (GSE)",
       "url": "https://jobs.apple.com/en-us/details/200657731-0157/software-engineer-enablon-g-a-solutions-engineering-gse?team=SFTWR",
       "identifier": "Software Engineer (Enablon), G&A Solutions Enginee_ons-engineering-gse?team=SFTWR"
-    },
-    {
-      "title": "Aesthetics Engineer, Look Development",
-      "url": "https://jobs.apple.com/en-us/details/200657877-0836/aesthetics-engineer-look-development?team=SFTWR",
-      "identifier": "Aesthetics Engineer, Look Development_er-look-development?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-16T00:00:36.623930"
+  "timestamp": "2026-04-16T00:17:57.723168"
 }

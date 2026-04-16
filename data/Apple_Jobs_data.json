@@ -4,6 +4,26 @@
   "total_jobs": 17,
   "jobs": [
     {
+      "title": "Engineering Program Manager, Sensing & Connectivity",
+      "url": "https://jobs.apple.com/en-us/details/200628440-0836/engineering-program-manager-sensing-connectivity?team=SFTWR",
+      "identifier": "Engineering Program Manager, Sensing & Connectivit_ensing-connectivity?team=SFTWR"
+    },
+    {
+      "title": "Site Reliability Engineer, Enterprise Technology Services",
+      "url": "https://jobs.apple.com/en-us/details/200656683-3956/site-reliability-engineer-enterprise-technology-services?team=SFTWR",
+      "identifier": "Site Reliability Engineer, Enterprise Technology S_technology-services?team=SFTWR"
+    },
+    {
+      "title": "Engineering Program Manager, SWE Factory",
+      "url": "https://jobs.apple.com/en-us/details/200642910-0836/engineering-program-manager-swe-factory?team=SFTWR",
+      "identifier": "Engineering Program Manager, SWE Factory_manager-swe-factory?team=SFTWR"
+    },
+    {
+      "title": "Engineering Program Manager, Intelligent System Experience",
+      "url": "https://jobs.apple.com/en-us/details/200656131-0836/engineering-program-manager-intelligent-system-experience?team=SFTWR",
+      "identifier": "Engineering Program Manager, Intelligent System Ex_t-system-experience?team=SFTWR"
+    },
+    {
       "title": "Senior Manager of Quality Assurance, AIML Data Operations",
       "url": "https://jobs.apple.com/en-us/details/200625639-0836/senior-manager-of-quality-assurance-aiml-data-operations?team=SFTWR",
       "identifier": "Senior Manager of Quality Assurance, AIML Data Ope_iml-data-operations?team=SFTWR"
@@ -67,28 +87,8 @@
       "title": "Sr. Software Reliability & Stability Quality Engineer, Siri Speech",
       "url": "https://jobs.apple.com/en-us/details/200623092-3401/sr-software-reliability-stability-quality-engineer-siri-speech?team=SFTWR",
       "identifier": "Sr. Software Reliability & Stability Quality Engin_ngineer-siri-speech?team=SFTWR"
-    },
-    {
-      "title": "Sr. Machine Learning Engineer, Siri Speech",
-      "url": "https://jobs.apple.com/en-us/details/200641206-0836/sr-machine-learning-engineer-siri-speech?team=SFTWR",
-      "identifier": "Sr. Machine Learning Engineer, Siri Speech_ngineer-siri-speech?team=SFTWR"
-    },
-    {
-      "title": "Sr. Machine Learning Engineer, ASR Infrastructure and Tools, Siri Speech",
-      "url": "https://jobs.apple.com/en-us/details/200628190-1242/sr-machine-learning-engineer-asr-infrastructure-and-tools-siri-speech?team=SFTWR",
-      "identifier": "Sr. Machine Learning Engineer, ASR Infrastructure _d-tools-siri-speech?team=SFTWR"
-    },
-    {
-      "title": "Engineering Program Manager - SWE Systems",
-      "url": "https://jobs.apple.com/en-us/details/200641933-0836/engineering-program-manager-swe-systems?team=SFTWR",
-      "identifier": "Engineering Program Manager - SWE Systems_manager-swe-systems?team=SFTWR"
-    },
-    {
-      "title": "Senior Software Engineer - Siri Runtime Platform",
-      "url": "https://jobs.apple.com/en-us/details/200635677-0836/senior-software-engineer-siri-runtime-platform?team=SFTWR",
-      "identifier": "Senior Software Engineer - Siri Runtime Platform_ri-runtime-platform?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-16T21:22:03.837593"
+  "timestamp": "2026-04-16T21:39:08.109008"
 }

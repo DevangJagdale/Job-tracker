@@ -1,59 +1,14 @@
 {
   "page_title": "Rivian Automotive",
   "url": "https://careers.rivian.com/careers-home/jobs?page=1&categories=Information%20Technology%7CSoftware%20Engineering%7CTest%20and%20Development",
-  "total_jobs": 10,
+  "total_jobs": 1,
   "jobs": [
     {
       "title": "Check Application Status",
       "url": "https://us-careers-rivian.icims.com/jobs/login?loginOnly=1",
       "identifier": "Check Application Status_ims.com/jobs/login?loginOnly=1"
-    },
-    {
-      "title": "Sr. Cybersecurity Engineer",
-      "url": "https://careers.rivian.com/careers-home/jobs/28786?lang=en-us&previousLocale=en-US",
-      "identifier": "Sr. Cybersecurity Engineer_ang=en-us&previousLocale=en-US"
-    },
-    {
-      "title": "Staff IT Solutions Engineer, Collaboration Platforms",
-      "url": "https://careers.rivian.com/careers-home/jobs/28983?lang=en-us&previousLocale=en-US",
-      "identifier": "Staff IT Solutions Engineer, Collaboration Platfor_ang=en-us&previousLocale=en-US"
-    },
-    {
-      "title": "Cloud Engineering Intern",
-      "url": "https://careers.rivian.com/careers-home/jobs/30258?lang=en-us&previousLocale=en-US",
-      "identifier": "Cloud Engineering Intern_ang=en-us&previousLocale=en-US"
-    },
-    {
-      "title": "Sr. Site Coordinator, Autonomy Systems Validation",
-      "url": "https://careers.rivian.com/careers-home/jobs/30550?lang=en-us&previousLocale=en-US",
-      "identifier": "Sr. Site Coordinator, Autonomy Systems Validation_ang=en-us&previousLocale=en-US"
-    },
-    {
-      "title": "Sr. IT Wireless Network Engineer",
-      "url": "https://careers.rivian.com/careers-home/jobs/24321?lang=en-us&previousLocale=en-US",
-      "identifier": "Sr. IT Wireless Network Engineer_ang=en-us&previousLocale=en-US"
-    },
-    {
-      "title": "Senior Full Stack Software Engineer, Communications Platform",
-      "url": "https://careers.rivian.com/careers-home/jobs/30142?lang=en-us&previousLocale=en-US",
-      "identifier": "Senior Full Stack Software Engineer, Communication_ang=en-us&previousLocale=en-US"
-    },
-    {
-      "title": "Staff Embedded Software Engineer - Vehicle Access Systems",
-      "url": "https://careers.rivian.com/careers-home/jobs/29661?lang=en-us&previousLocale=en-US",
-      "identifier": "Staff Embedded Software Engineer - Vehicle Access _ang=en-us&previousLocale=en-US"
-    },
-    {
-      "title": "Sr. AI Engineer, Enterprise Applied AI",
-      "url": "https://careers.rivian.com/careers-home/jobs/26639?lang=en-us&previousLocale=en-US",
-      "identifier": "Sr. AI Engineer, Enterprise Applied AI_ang=en-us&previousLocale=en-US"
-    },
-    {
-      "title": "Senior Android Engineer - Trip Planner Firmware",
-      "url": "https://careers.rivian.com/careers-home/jobs/26761?lang=en-us&previousLocale=en-US",
-      "identifier": "Senior Android Engineer - Trip Planner Firmware_ang=en-us&previousLocale=en-US"
     }
   ],
-  "job_count_text": "49",
-  "timestamp": "2026-04-16T21:28:01.744554"
+  "job_count_text": "0",
+  "timestamp": "2026-04-16T21:45:00.090590"
 }

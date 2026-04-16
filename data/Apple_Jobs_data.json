@@ -4,6 +4,11 @@
   "total_jobs": 15,
   "jobs": [
     {
+      "title": "Senior Software Engineer, Apple Ads",
+      "url": "https://jobs.apple.com/en-us/details/200604200-0836/senior-software-engineer-apple-ads?team=SFTWR",
+      "identifier": "Senior Software Engineer, Apple Ads_-engineer-apple-ads?team=SFTWR"
+    },
+    {
       "title": "Site Reliability Engineer \u2014 Human Engineering",
       "url": "https://jobs.apple.com/en-us/details/200658196-0836/site-reliability-engineer-human-engineering?team=SFTWR",
       "identifier": "Site Reliability Engineer \u2014 Human Engineering_r-human-engineering?team=SFTWR"
@@ -72,13 +77,8 @@
       "title": "Software Engineer, Frameworks/Data, Sensing & Connectivity",
       "url": "https://jobs.apple.com/en-us/details/200630500-0836/software-engineer-frameworks-data-sensing-connectivity?team=SFTWR",
       "identifier": "Software Engineer, Frameworks/Data, Sensing & Conn_ensing-connectivity?team=SFTWR"
-    },
-    {
-      "title": "Machine Learning Engineer, Photos",
-      "url": "https://jobs.apple.com/en-us/details/200658136-0836/machine-learning-engineer-photos?team=SFTWR",
-      "identifier": "Machine Learning Engineer, Photos_ing-engineer-photos?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-16T16:06:10.191065"
+  "timestamp": "2026-04-16T16:23:30.086100"
 }

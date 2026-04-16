@@ -4,7 +4,17 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 11 minutes ago",
+      "title": "Principal Data Scientist\nUnited States, Multiple Locations, Multiple Locations + 2 more\nPosted 10 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556641467?domain=microsoft.com",
+      "identifier": "Principal Data Scientist\nUnited States, Multiple L_556641467?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Data Scientist\nUnited States, Multiple Locations, Multiple Locations + 2 more\nPosted 10 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556641469?domain=microsoft.com",
+      "identifier": "Senior Data Scientist\nUnited States, Multiple Loca_556641469?domain=microsoft.com"
+    },
+    {
+      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 28 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556837703?domain=microsoft.com",
       "identifier": "Software Engineer II\nUnited States, Washington, Re_556837703?domain=microsoft.com"
     },
@@ -42,18 +52,8 @@
       "title": "Software Engineer 2 - CoreAI\nUnited States, California, Mountain View + 1 more\nPosted 5 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556628721?domain=microsoft.com",
       "identifier": "Software Engineer 2 - CoreAI\nUnited States, Califo_556628721?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 6 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556852742?domain=microsoft.com",
-      "identifier": "Senior Software Engineer\nUnited States, Multiple L_556852742?domain=microsoft.com"
-    },
-    {
-      "title": "Software Engineering - CTJ - Poly\nUnited States, Washington, Redmond + 2 more\nPosted 12 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556858723?domain=microsoft.com",
-      "identifier": "Software Engineering - CTJ - Poly\nUnited States, W_556858723?domain=microsoft.com"
     }
   ],
-  "job_count_text": "649",
-  "timestamp": "2026-04-16T18:31:21.685649"
+  "job_count_text": "651",
+  "timestamp": "2026-04-16T18:48:22.791005"
 }

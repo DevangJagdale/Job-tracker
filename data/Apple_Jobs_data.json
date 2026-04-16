@@ -4,6 +4,11 @@
   "total_jobs": 17,
   "jobs": [
     {
+      "title": "Engineering Program Manager, System Experience",
+      "url": "https://jobs.apple.com/en-us/details/200633256-0836/engineering-program-manager-system-experience?team=SFTWR",
+      "identifier": "Engineering Program Manager, System Experience_r-system-experience?team=SFTWR"
+    },
+    {
       "title": "Engineering Program Manager, Sensing & Connectivity",
       "url": "https://jobs.apple.com/en-us/details/200628440-0836/engineering-program-manager-sensing-connectivity?team=SFTWR",
       "identifier": "Engineering Program Manager, Sensing & Connectivit_ensing-connectivity?team=SFTWR"
@@ -82,13 +87,8 @@
       "title": "Sr. Tools and Automation Engineer, Siri Speech",
       "url": "https://jobs.apple.com/en-us/details/200635695-0836/sr-tools-and-automation-engineer-siri-speech?team=SFTWR",
       "identifier": "Sr. Tools and Automation Engineer, Siri Speech_ngineer-siri-speech?team=SFTWR"
-    },
-    {
-      "title": "Sr. Software Reliability & Stability Quality Engineer, Siri Speech",
-      "url": "https://jobs.apple.com/en-us/details/200623092-3401/sr-software-reliability-stability-quality-engineer-siri-speech?team=SFTWR",
-      "identifier": "Sr. Software Reliability & Stability Quality Engin_ngineer-siri-speech?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-16T21:56:07.933850"
+  "timestamp": "2026-04-16T22:13:12.949256"
 }

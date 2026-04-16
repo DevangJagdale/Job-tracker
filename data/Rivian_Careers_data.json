@@ -19,14 +19,14 @@
       "identifier": "Staff IT Solutions Engineer, Collaboration Platfor_ang=en-us&previousLocale=en-US"
     },
     {
-      "title": "Sr. Site Coordinator, Autonomy Systems Validation",
-      "url": "https://careers.rivian.com/careers-home/jobs/30550?lang=en-us&previousLocale=en-US",
-      "identifier": "Sr. Site Coordinator, Autonomy Systems Validation_ang=en-us&previousLocale=en-US"
-    },
-    {
       "title": "Cloud Engineering Intern",
       "url": "https://careers.rivian.com/careers-home/jobs/30258?lang=en-us&previousLocale=en-US",
       "identifier": "Cloud Engineering Intern_ang=en-us&previousLocale=en-US"
+    },
+    {
+      "title": "Sr. Site Coordinator, Autonomy Systems Validation",
+      "url": "https://careers.rivian.com/careers-home/jobs/30550?lang=en-us&previousLocale=en-US",
+      "identifier": "Sr. Site Coordinator, Autonomy Systems Validation_ang=en-us&previousLocale=en-US"
     },
     {
       "title": "Sr. IT Wireless Network Engineer",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "49",
-  "timestamp": "2026-04-16T20:19:53.227249"
+  "timestamp": "2026-04-16T20:36:58.002740"
 }

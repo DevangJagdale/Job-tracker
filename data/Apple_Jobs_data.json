@@ -1,8 +1,33 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 19,
+  "total_jobs": 16,
   "jobs": [
+    {
+      "title": "Engineering Project Manager - Health",
+      "url": "https://jobs.apple.com/en-us/details/200630187-3401/engineering-project-manager-health?team=SFTWR",
+      "identifier": "Engineering Project Manager - Health_ject-manager-health?team=SFTWR"
+    },
+    {
+      "title": "Software Engineer (AML), AI & Data Platforms (AiDP)",
+      "url": "https://jobs.apple.com/en-us/details/200639149-0157/software-engineer-aml-ai-data-platforms-aidp?team=SFTWR",
+      "identifier": "Software Engineer (AML), AI & Data Platforms (AiDP_data-platforms-aidp?team=SFTWR"
+    },
+    {
+      "title": "Data Platform SRE, AI & Data Platforms (AiDP)",
+      "url": "https://jobs.apple.com/en-us/details/200639146-0157/data-platform-sre-ai-data-platforms-aidp?team=SFTWR",
+      "identifier": "Data Platform SRE, AI & Data Platforms (AiDP)_data-platforms-aidp?team=SFTWR"
+    },
+    {
+      "title": "Software Engineer (UI Solutions), AI & Data Platforms (AiDP)",
+      "url": "https://jobs.apple.com/en-us/details/200639144-0157/software-engineer-ui-solutions-ai-data-platforms-aidp?team=SFTWR",
+      "identifier": "Software Engineer (UI Solutions), AI & Data Platfo_data-platforms-aidp?team=SFTWR"
+    },
+    {
+      "title": "Software Engineer (Framework Solutions), AI & Data Platforms (AiDP)",
+      "url": "https://jobs.apple.com/en-us/details/200639138-0157/software-engineer-framework-solutions-ai-data-platforms-aidp?team=SFTWR",
+      "identifier": "Software Engineer (Framework Solutions), AI & Data_data-platforms-aidp?team=SFTWR"
+    },
     {
       "title": "Linux Kernel Engineer",
       "url": "https://jobs.apple.com/en-us/details/200658399-3337/linux-kernel-engineer?team=SFTWR",
@@ -57,48 +82,8 @@
       "title": "Engineering Program Manager, System Experience",
       "url": "https://jobs.apple.com/en-us/details/200633256-0836/engineering-program-manager-system-experience?team=SFTWR",
       "identifier": "Engineering Program Manager, System Experience_r-system-experience?team=SFTWR"
-    },
-    {
-      "title": "Engineering Program Manager, Sensing & Connectivity",
-      "url": "https://jobs.apple.com/en-us/details/200628440-0836/engineering-program-manager-sensing-connectivity?team=SFTWR",
-      "identifier": "Engineering Program Manager, Sensing & Connectivit_ensing-connectivity?team=SFTWR"
-    },
-    {
-      "title": "Site Reliability Engineer, Enterprise Technology Services",
-      "url": "https://jobs.apple.com/en-us/details/200656683-3956/site-reliability-engineer-enterprise-technology-services?team=SFTWR",
-      "identifier": "Site Reliability Engineer, Enterprise Technology S_technology-services?team=SFTWR"
-    },
-    {
-      "title": "Engineering Program Manager, SWE Factory",
-      "url": "https://jobs.apple.com/en-us/details/200642910-0836/engineering-program-manager-swe-factory?team=SFTWR",
-      "identifier": "Engineering Program Manager, SWE Factory_manager-swe-factory?team=SFTWR"
-    },
-    {
-      "title": "Engineering Program Manager, Intelligent System Experience",
-      "url": "https://jobs.apple.com/en-us/details/200656131-0836/engineering-program-manager-intelligent-system-experience?team=SFTWR",
-      "identifier": "Engineering Program Manager, Intelligent System Ex_t-system-experience?team=SFTWR"
-    },
-    {
-      "title": "Senior Manager of Quality Assurance, AIML Data Operations",
-      "url": "https://jobs.apple.com/en-us/details/200625639-0836/senior-manager-of-quality-assurance-aiml-data-operations?team=SFTWR",
-      "identifier": "Senior Manager of Quality Assurance, AIML Data Ope_iml-data-operations?team=SFTWR"
-    },
-    {
-      "title": "Test Triage & Automation Engineer, Siri",
-      "url": "https://jobs.apple.com/en-us/details/200652135-0836/test-triage-automation-engineer-siri?team=SFTWR",
-      "identifier": "Test Triage & Automation Engineer, Siri_ation-engineer-siri?team=SFTWR"
-    },
-    {
-      "title": "Site Reliability Engineer \u2014 Human Engineering",
-      "url": "https://jobs.apple.com/en-us/details/200658196-0836/site-reliability-engineer-human-engineering?team=SFTWR",
-      "identifier": "Site Reliability Engineer \u2014 Human Engineering_r-human-engineering?team=SFTWR"
-    },
-    {
-      "title": "Project Manager, Hardware Deployment, Employee Experience & Productivity",
-      "url": "https://jobs.apple.com/en-us/details/200652965-0670/project-manager-hardware-deployment-employee-experience-productivity?team=SFTWR",
-      "identifier": "Project Manager, Hardware Deployment, Employee Exp_rience-productivity?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-16T23:45:51.997057"
+  "timestamp": "2026-04-17T00:02:46.434385"
 }

@@ -4,6 +4,16 @@
   "total_jobs": 9,
   "jobs": [
     {
+      "title": "Principal Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 11 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556751888?domain=microsoft.com",
+      "identifier": "Principal Software Engineer\nUnited States, Multipl_556751888?domain=microsoft.com"
+    },
+    {
+      "title": "Principal Software Engineering Manager - Red Team\nUnited States, Multiple Locations, Multiple Locations\nPosted 20 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556856545?domain=microsoft.com",
+      "identifier": "Principal Software Engineering Manager - Red Team\n_556856545?domain=microsoft.com"
+    },
+    {
       "title": "Software Engineer\nUnited States, Washington, Redmond + 1 more\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556857568?domain=microsoft.com",
       "identifier": "Software Engineer\nUnited States, Washington, Redmo_556857568?domain=microsoft.com"
@@ -19,7 +29,7 @@
       "identifier": "Senior Software Engineer\nUnited States, Washington_556858375?domain=microsoft.com"
     },
     {
-      "title": "Principal Engineer - Identity Services\nUnited States, Washington, Redmond\nPosted 3 hours ago",
+      "title": "Principal Engineer - Identity Services\nUnited States, Washington, Redmond\nPosted 4 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556852373?domain=microsoft.com",
       "identifier": "Principal Engineer - Identity Services\nUnited Stat_556852373?domain=microsoft.com"
     },
@@ -37,18 +47,8 @@
       "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 6 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556641278?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Washington_556641278?domain=microsoft.com"
-    },
-    {
-      "title": "Principal Software Engineer - Identity\nUnited States, Washington, Redmond\nPosted 6 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556623151?domain=microsoft.com",
-      "identifier": "Principal Software Engineer - Identity\nUnited Stat_556623151?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Data Scientist\nUnited States, Washington, Redmond\nPosted 7 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556753536?domain=microsoft.com",
-      "identifier": "Senior Data Scientist\nUnited States, Washington, R_556753536?domain=microsoft.com"
     }
   ],
-  "job_count_text": "660",
-  "timestamp": "2026-04-17T19:12:10.903961"
+  "job_count_text": "662",
+  "timestamp": "2026-04-17T19:29:20.813086"
 }

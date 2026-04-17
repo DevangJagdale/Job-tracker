@@ -4,14 +4,14 @@
   "total_jobs": 16,
   "jobs": [
     {
-      "title": "Production Support Engineer, Employee Experience & Productivity",
-      "url": "https://jobs.apple.com/en-us/details/200658447-0670/production-support-engineer-employee-experience-productivity?team=SFTWR",
-      "identifier": "Production Support Engineer, Employee Experience &_rience-productivity?team=SFTWR"
-    },
-    {
       "title": "Senior Frontend Software Engineer, Platform Engineering, Services Data Science & Analytics",
       "url": "https://jobs.apple.com/en-us/details/200656699-0157/senior-frontend-software-engineer-platform-engineering-services-data-science-analytics?team=SFTWR",
       "identifier": "Senior Frontend Software Engineer, Platform Engine_a-science-analytics?team=SFTWR"
+    },
+    {
+      "title": "Production Support Engineer, Employee Experience & Productivity",
+      "url": "https://jobs.apple.com/en-us/details/200658447-0670/production-support-engineer-employee-experience-productivity?team=SFTWR",
+      "identifier": "Production Support Engineer, Employee Experience &_rience-productivity?team=SFTWR"
     },
     {
       "title": "Senior Server Software Engineer - Health Software",
@@ -85,5 +85,5 @@
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-17T18:38:02.812615"
+  "timestamp": "2026-04-17T18:55:15.753832"
 }

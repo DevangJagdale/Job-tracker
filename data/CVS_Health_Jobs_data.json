@@ -4,19 +4,24 @@
   "total_jobs": 8,
   "jobs": [
     {
-      "title": "Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0843852/Software-Development-Engineer",
-      "identifier": "Software Development Engineer_/Software-Development-Engineer"
-    },
-    {
       "title": "Field Technician",
       "url": "https://jobs.cvshealth.com/us/en/job/R0870653/Field-Technician",
       "identifier": "Field Technician_/job/R0870653/Field-Technician"
     },
     {
+      "title": "Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0843852/Software-Development-Engineer",
+      "identifier": "Software Development Engineer_/Software-Development-Engineer"
+    },
+    {
       "title": "Conversational AI Engineering Lead Director",
       "url": "https://jobs.cvshealth.com/us/en/job/R0817616/Conversational-AI-Engineering-Lead-Director",
       "identifier": "Conversational AI Engineering Lead Director_l-AI-Engineering-Lead-Director"
+    },
+    {
+      "title": "Manager, Application Development",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0841409/Manager-Application-Development",
+      "identifier": "Manager, Application Development_anager-Application-Development"
     },
     {
       "title": "Staff Software Development Engineer",
@@ -29,21 +34,16 @@
       "identifier": "Lead Director - Software Engineering (Health100 Pl_Engineering-Health100-Platform"
     },
     {
-      "title": "Manager, Application Development",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0841409/Manager-Application-Development",
-      "identifier": "Manager, Application Development_anager-Application-Development"
-    },
-    {
       "title": "Staff Software Engineer - Java",
       "url": "https://jobs.cvshealth.com/us/en/job/R0884105/Staff-Software-Engineer-Java",
       "identifier": "Staff Software Engineer - Java_5/Staff-Software-Engineer-Java"
     },
     {
-      "title": "Senior Software Development Engineer - Java",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0881356/Senior-Software-Development-Engineer-Java",
-      "identifier": "Senior Software Development Engineer - Java_ware-Development-Engineer-Java"
+      "title": "Senior Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0888216/Senior-Software-Development-Engineer",
+      "identifier": "Senior Software Development Engineer_-Software-Development-Engineer"
     }
   ],
   "job_count_text": "57",
-  "timestamp": "2026-04-17T04:42:18.209016"
+  "timestamp": "2026-04-17T04:59:24.589214"
 }

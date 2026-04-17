@@ -4,6 +4,11 @@
   "total_jobs": 17,
   "jobs": [
     {
+      "title": "Sr. Software Engineer, App Processing",
+      "url": "https://jobs.apple.com/en-us/details/200654982-3337/sr-software-engineer-app-processing?team=SFTWR",
+      "identifier": "Sr. Software Engineer, App Processing_neer-app-processing?team=SFTWR"
+    },
+    {
       "title": "Machine Learning Engineer - Visual Agents - Special Projects",
       "url": "https://jobs.apple.com/en-us/details/200657911-0836/machine-learning-engineer-visual-agents-special-projects?team=MLAI",
       "identifier": "Machine Learning Engineer - Visual Agents - Specia_nts-special-projects?team=MLAI"
@@ -82,13 +87,8 @@
       "title": "Software Engineer (UI Solutions), AI & Data Platforms (AiDP)",
       "url": "https://jobs.apple.com/en-us/details/200639144-0157/software-engineer-ui-solutions-ai-data-platforms-aidp?team=SFTWR",
       "identifier": "Software Engineer (UI Solutions), AI & Data Platfo_data-platforms-aidp?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer (Framework Solutions), AI & Data Platforms (AiDP)",
-      "url": "https://jobs.apple.com/en-us/details/200639138-0157/software-engineer-framework-solutions-ai-data-platforms-aidp?team=SFTWR",
-      "identifier": "Software Engineer (Framework Solutions), AI & Data_data-platforms-aidp?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-17T20:47:18.634000"
+  "timestamp": "2026-04-17T21:04:29.764860"
 }

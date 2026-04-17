@@ -4,6 +4,11 @@
   "total_jobs": 20,
   "jobs": [
     {
+      "title": "Data Engineering - Data, Lakehouse and AI Data Platform Engineer - Analyst/Associate - Dallas\nDallas\u00b7United States\n\u00b7Associate",
+      "url": "https://higher.gs.com/roles/153361",
+      "identifier": "Data Engineering - Data, Lakehouse and AI Data Pla_s://higher.gs.com/roles/153361"
+    },
+    {
       "title": "Asset & Wealth Management-QA Automation Engineer-Associate-Dallas\nDallas\u00b7United States\n\u00b7Associate",
       "url": "https://higher.gs.com/roles/159041",
       "identifier": "Asset & Wealth Management-QA Automation Engineer-A_s://higher.gs.com/roles/159041"
@@ -17,11 +22,6 @@
       "title": "Asset & Wealth Management - Software Engineer - Associate - Dallas\nDallas\u00b7United States\n\u00b7Associate",
       "url": "https://higher.gs.com/roles/168554",
       "identifier": "Asset & Wealth Management - Software Engineer - As_s://higher.gs.com/roles/168554"
-    },
-    {
-      "title": "Data Engineering - Data, Lakehouse and AI Data Platform Engineer - Analyst/Associate - Dallas\nDallas\u00b7United States\n\u00b7Associate",
-      "url": "https://higher.gs.com/roles/153361",
-      "identifier": "Data Engineering - Data, Lakehouse and AI Data Pla_s://higher.gs.com/roles/153361"
     },
     {
       "title": "Data Engineering - Data, Lakehouse and AI Data Platform Engineer - Analyst/Associate - New York\nNew York\u00b7United States\n\u00b7Associate",
@@ -105,5 +105,5 @@
     }
   ],
   "job_count_text": "50",
-  "timestamp": "2026-04-17T13:20:31.043389"
+  "timestamp": "2026-04-17T13:37:38.859729"
 }

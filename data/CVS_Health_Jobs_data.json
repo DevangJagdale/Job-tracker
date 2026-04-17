@@ -4,6 +4,16 @@
   "total_jobs": 8,
   "jobs": [
     {
+      "title": "Senior Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0870724/Senior-Software-Development-Engineer",
+      "identifier": "Senior Software Development Engineer_-Software-Development-Engineer"
+    },
+    {
+      "title": "AVP, Application Engineering- Aetna Core Commercial systems",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0876766/AVP-Application-Engineering-Aetna-Core-Commercial-systems",
+      "identifier": "AVP, Application Engineering- Aetna Core Commercia_-Aetna-Core-Commercial-systems"
+    },
+    {
       "title": "Field Technician",
       "url": "https://jobs.cvshealth.com/us/en/job/R0870653/Field-Technician",
       "identifier": "Field Technician_/job/R0870653/Field-Technician"
@@ -32,18 +42,8 @@
       "title": "Senior Manager-Epic EHR Development Lead (Software Development)",
       "url": "https://jobs.cvshealth.com/us/en/job/R0869290/Senior-Manager-Epic-EHR-Development-Lead-Software-Development",
       "identifier": "Senior Manager-Epic EHR Development Lead (Software_ment-Lead-Software-Development"
-    },
-    {
-      "title": "Mac Software Packaging Automation Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0862115/Mac-Software-Packaging-Automation-Engineer",
-      "identifier": "Mac Software Packaging Automation Engineer_-Packaging-Automation-Engineer"
-    },
-    {
-      "title": "Senior Analyst, Tech Infrastructure",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0818406/Senior-Analyst-Tech-Infrastructure",
-      "identifier": "Senior Analyst, Tech Infrastructure_or-Analyst-Tech-Infrastructure"
     }
   ],
-  "job_count_text": "30",
-  "timestamp": "2026-04-17T13:22:22.328517"
+  "job_count_text": "32",
+  "timestamp": "2026-04-17T13:39:30.354700"
 }

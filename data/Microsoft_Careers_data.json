@@ -4,19 +4,19 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Senior Software Engineer- Backend\nUnited States, Washington, Redmond\nPosted 24 minutes ago",
+      "title": "Senior Software Engineer- Backend\nUnited States, Washington, Redmond\nPosted 41 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556753327?domain=microsoft.com",
       "identifier": "Senior Software Engineer- Backend\nUnited States, W_556753327?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Software Engineer - Data Platform, AI Infrastructure\nUnited States, Washington, Redmond + 1 more\nPosted 4 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556858380?domain=microsoft.com",
-      "identifier": "Senior Software Engineer - Data Platform, AI Infra_556858380?domain=microsoft.com"
     },
     {
       "title": "Senior Data Engineer - AI Infrastructure\nUnited States, Washington, Redmond + 1 more\nPosted 4 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556858869?domain=microsoft.com",
       "identifier": "Senior Data Engineer - AI Infrastructure\nUnited St_556858869?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Software Engineer - Data Platform, AI Infrastructure\nUnited States, Washington, Redmond + 1 more\nPosted 4 hours ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556858380?domain=microsoft.com",
+      "identifier": "Senior Software Engineer - Data Platform, AI Infra_556858380?domain=microsoft.com"
     },
     {
       "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted 5 hours ago",
@@ -54,6 +54,6 @@
       "identifier": "Principal Software Engineer - Copilot Identity\nUni_556628288?domain=microsoft.com"
     }
   ],
-  "job_count_text": "656",
-  "timestamp": "2026-04-17T04:23:57.042215"
+  "job_count_text": "655",
+  "timestamp": "2026-04-17T04:41:01.317183"
 }

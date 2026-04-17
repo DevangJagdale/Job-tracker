@@ -4,6 +4,11 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Engineering Program Manager, Data Center Operations",
+      "url": "https://jobs.apple.com/en-us/details/200658446-5635/engineering-program-manager-data-center-operations?team=SFTWR",
+      "identifier": "Engineering Program Manager, Data Center Operation_a-center-operations?team=SFTWR"
+    },
+    {
       "title": "Engineering Project Manager - Health",
       "url": "https://jobs.apple.com/en-us/details/200630187-3401/engineering-project-manager-health?team=SFTWR",
       "identifier": "Engineering Project Manager - Health_ject-manager-health?team=SFTWR"
@@ -77,13 +82,8 @@
       "title": "Clinical Analyst",
       "url": "https://jobs.apple.com/en-us/details/200658440-3337/clinical-analyst?team=SFTWR",
       "identifier": "Clinical Analyst_37/clinical-analyst?team=SFTWR"
-    },
-    {
-      "title": "Engineering Program Manager, System Experience",
-      "url": "https://jobs.apple.com/en-us/details/200633256-0836/engineering-program-manager-system-experience?team=SFTWR",
-      "identifier": "Engineering Program Manager, System Experience_r-system-experience?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-17T00:36:34.398318"
+  "timestamp": "2026-04-17T00:53:28.076172"
 }

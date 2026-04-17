@@ -4,6 +4,11 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Software Engineer - Backend Systems, Insights & Release Technologies",
+      "url": "https://jobs.apple.com/en-us/details/200619826-0836/software-engineer-backend-systems-insights-release-technologies?team=SFTWR",
+      "identifier": "Software Engineer - Backend Systems, Insights & Re_elease-technologies?team=SFTWR"
+    },
+    {
       "title": "Senior Frontend Software Engineer, Platform Engineering, Services Data Science & Analytics",
       "url": "https://jobs.apple.com/en-us/details/200656699-0157/senior-frontend-software-engineer-platform-engineering-services-data-science-analytics?team=SFTWR",
       "identifier": "Senior Frontend Software Engineer, Platform Engine_a-science-analytics?team=SFTWR"
@@ -77,13 +82,8 @@
       "title": "Software Engineer (GenAI Evaluations), AI & Data Platforms (AiDP)",
       "url": "https://jobs.apple.com/en-us/details/200653820-3956/software-engineer-genai-evaluations-ai-data-platforms-aidp?team=SFTWR",
       "identifier": "Software Engineer (GenAI Evaluations), AI & Data P_data-platforms-aidp?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer- iOS Engineer - SpringBoard Multitasking - System Experience",
-      "url": "https://jobs.apple.com/en-us/details/200654462-0836/software-engineer-ios-engineer-springboard-multitasking-system-experience?team=SFTWR",
-      "identifier": "Software Engineer- iOS Engineer - SpringBoard Mult_g-system-experience?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-17T18:55:15.753832"
+  "timestamp": "2026-04-17T19:12:26.628198"
 }

@@ -1,7 +1,7 @@
 {
   "page_title": "| Microsoft Careers",
   "url": "https://apply.careers.microsoft.com/careers?domain=microsoft.com&start=0&location=United+States&sort_by=timestamp&filter_include_remote=1&filter_profession=software+engineering%2Cresearch%252C%2520applied%252C%2520%2526%2520data%2520sciences",
-  "total_jobs": 10,
+  "total_jobs": 9,
   "jobs": [
     {
       "title": "Software Engineer\nUnited States, Washington, Redmond + 1 more\nPosted 2 hours ago",
@@ -24,7 +24,7 @@
       "identifier": "Principal Engineer - Identity Services\nUnited Stat_556852373?domain=microsoft.com"
     },
     {
-      "title": "Parent | Sr. Software Engineer - Azure Storage\nUnited States, Multiple Locations, Multiple Locations\nPosted 3 hours ago",
+      "title": "Parent | Sr. Software Engineer - Azure Storage\nUnited States, Multiple Locations, Multiple Locations\nPosted 4 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556849539?domain=microsoft.com",
       "identifier": "Parent | Sr. Software Engineer - Azure Storage\nUni_556849539?domain=microsoft.com"
     },
@@ -47,13 +47,8 @@
       "title": "Senior Data Scientist\nUnited States, Washington, Redmond\nPosted 7 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556753536?domain=microsoft.com",
       "identifier": "Senior Data Scientist\nUnited States, Washington, R_556753536?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Software Engineer- Backend\nUnited States, Washington, Redmond\nPosted 15 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556753327?domain=microsoft.com",
-      "identifier": "Senior Software Engineer- Backend\nUnited States, W_556753327?domain=microsoft.com"
     }
   ],
-  "job_count_text": "659",
-  "timestamp": "2026-04-17T18:54:59.945890"
+  "job_count_text": "660",
+  "timestamp": "2026-04-17T19:12:10.903961"
 }

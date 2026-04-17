@@ -4,6 +4,11 @@
   "total_jobs": 17,
   "jobs": [
     {
+      "title": "Sr Software Engineer, AI & Data Platforms (AiDP)",
+      "url": "https://jobs.apple.com/en-us/details/200649800-3401/sr-software-engineer-ai-data-platforms-aidp?team=SFTWR",
+      "identifier": "Sr Software Engineer, AI & Data Platforms (AiDP)_data-platforms-aidp?team=SFTWR"
+    },
+    {
       "title": "Backend/Fullstack Engineer, Creativity Apps",
       "url": "https://jobs.apple.com/en-us/details/200658632-3543/backend-fullstack-engineer-creativity-apps?team=SFTWR",
       "identifier": "Backend/Fullstack Engineer, Creativity Apps_eer-creativity-apps?team=SFTWR"
@@ -82,13 +87,8 @@
       "title": "AIML Privacy-Engineering Rotation",
       "url": "https://jobs.apple.com/en-us/details/200658504-0836/aiml-privacy-engineering-rotation?team=SFTWR",
       "identifier": "AIML Privacy-Engineering Rotation_ngineering-rotation?team=SFTWR"
-    },
-    {
-      "title": "Senior Product Designer (UI/UX), AI/ML Tools",
-      "url": "https://jobs.apple.com/en-us/details/200657699-0836/senior-product-designer-ui-ux-ai-ml-tools?team=SFTWR",
-      "identifier": "Senior Product Designer (UI/UX), AI/ML Tools_r-ui-ux-ai-ml-tools?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-17T23:04:32.486209"
+  "timestamp": "2026-04-17T23:21:40.899384"
 }

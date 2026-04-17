@@ -4,14 +4,14 @@
   "total_jobs": 8,
   "jobs": [
     {
-      "title": "Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0843852/Software-Development-Engineer",
-      "identifier": "Software Development Engineer_/Software-Development-Engineer"
-    },
-    {
       "title": "Field Technician",
       "url": "https://jobs.cvshealth.com/us/en/job/R0870653/Field-Technician",
       "identifier": "Field Technician_/job/R0870653/Field-Technician"
+    },
+    {
+      "title": "Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0843852/Software-Development-Engineer",
+      "identifier": "Software Development Engineer_/Software-Development-Engineer"
     },
     {
       "title": "Conversational AI Engineering Lead Director",
@@ -29,14 +29,14 @@
       "identifier": "Lead Director - Software Engineering (Health100 Pl_Engineering-Health100-Platform"
     },
     {
-      "title": "Staff Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0835190/Staff-Software-Development-Engineer",
-      "identifier": "Staff Software Development Engineer_-Software-Development-Engineer"
-    },
-    {
       "title": "Manager, Application Development",
       "url": "https://jobs.cvshealth.com/us/en/job/R0841409/Manager-Application-Development",
       "identifier": "Manager, Application Development_anager-Application-Development"
+    },
+    {
+      "title": "Staff Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0835190/Staff-Software-Development-Engineer",
+      "identifier": "Staff Software Development Engineer_-Software-Development-Engineer"
     },
     {
       "title": "Staff Software Engineer - Java",
@@ -45,5 +45,5 @@
     }
   ],
   "job_count_text": "58",
-  "timestamp": "2026-04-17T00:20:40.572886"
+  "timestamp": "2026-04-17T00:37:34.412583"
 }

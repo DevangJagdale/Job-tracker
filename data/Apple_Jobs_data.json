@@ -4,6 +4,11 @@
   "total_jobs": 17,
   "jobs": [
     {
+      "title": "On-Device ML Infrastructure Engineer (CoreML Runtime), Graphics, Games & ML",
+      "url": "https://jobs.apple.com/en-us/details/200658596-0836/on-device-ml-infrastructure-engineer-coreml-runtime-graphics-games-ml?team=SFTWR",
+      "identifier": "On-Device ML Infrastructure Engineer (CoreML Runti_e-graphics-games-ml?team=SFTWR"
+    },
+    {
       "title": "Sr. Software Engineer, App Processing",
       "url": "https://jobs.apple.com/en-us/details/200654982-3337/sr-software-engineer-app-processing?team=SFTWR",
       "identifier": "Sr. Software Engineer, App Processing_neer-app-processing?team=SFTWR"
@@ -82,13 +87,8 @@
       "title": "Data Platform SRE, AI & Data Platforms (AiDP)",
       "url": "https://jobs.apple.com/en-us/details/200639146-0157/data-platform-sre-ai-data-platforms-aidp?team=SFTWR",
       "identifier": "Data Platform SRE, AI & Data Platforms (AiDP)_data-platforms-aidp?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer (UI Solutions), AI & Data Platforms (AiDP)",
-      "url": "https://jobs.apple.com/en-us/details/200639144-0157/software-engineer-ui-solutions-ai-data-platforms-aidp?team=SFTWR",
-      "identifier": "Software Engineer (UI Solutions), AI & Data Platfo_data-platforms-aidp?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-17T21:21:39.164849"
+  "timestamp": "2026-04-17T21:38:50.710434"
 }

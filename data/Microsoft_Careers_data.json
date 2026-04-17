@@ -4,12 +4,22 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Principal Engineer - Identity Services\nUnited States, Washington, Redmond\nPosted 15 minutes ago",
+      "title": "Back-End Software Engineer II\nUnited States, Washington, Redmond\nPosted 15 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556859034?domain=microsoft.com",
+      "identifier": "Back-End Software Engineer II\nUnited States, Washi_556859034?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Software Engineer\nUnited States, Washington, Redmond + 1 more\nPosted 19 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556858375?domain=microsoft.com",
+      "identifier": "Senior Software Engineer\nUnited States, Washington_556858375?domain=microsoft.com"
+    },
+    {
+      "title": "Principal Engineer - Identity Services\nUnited States, Washington, Redmond\nPosted 32 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556852373?domain=microsoft.com",
       "identifier": "Principal Engineer - Identity Services\nUnited Stat_556852373?domain=microsoft.com"
     },
     {
-      "title": "Parent | Sr. Software Engineer - Azure Storage\nUnited States, Multiple Locations, Multiple Locations\nPosted 37 minutes ago",
+      "title": "Parent | Sr. Software Engineer - Azure Storage\nUnited States, Multiple Locations, Multiple Locations\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556849539?domain=microsoft.com",
       "identifier": "Parent | Sr. Software Engineer - Azure Storage\nUni_556849539?domain=microsoft.com"
     },
@@ -42,18 +52,8 @@
       "title": "Senior Software Engineer - Data Platform, AI Infrastructure\nUnited States, Washington, Redmond + 1 more\nPosted 16 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556858380?domain=microsoft.com",
       "identifier": "Senior Software Engineer - Data Platform, AI Infra_556858380?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Data Engineer - AI Infrastructure\nUnited States, Washington, Redmond + 1 more\nPosted 16 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556858869?domain=microsoft.com",
-      "identifier": "Senior Data Engineer - AI Infrastructure\nUnited St_556858869?domain=microsoft.com"
-    },
-    {
-      "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted 17 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556746408?domain=microsoft.com",
-      "identifier": "Principal Software Engineer\nUnited States, Washing_556746408?domain=microsoft.com"
     }
   ],
-  "job_count_text": "659",
-  "timestamp": "2026-04-17T16:02:58.989867"
+  "job_count_text": "661",
+  "timestamp": "2026-04-17T16:20:08.896070"
 }

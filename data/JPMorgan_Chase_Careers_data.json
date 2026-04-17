@@ -9,9 +9,24 @@
       "identifier": "jpmc_210736552"
     },
     {
+      "title": "Lead Software Engineer-Agentic/Java",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210711815/?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
+      "identifier": "jpmc_210711815"
+    },
+    {
       "title": "AWS Lead Software Engineer-Full Stack/Java/React/Spring/CoPilot/Claude",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210724461/?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
       "identifier": "jpmc_210724461"
+    },
+    {
+      "title": "Lead Software Engineer-Full Stack",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210725734/?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
+      "identifier": "jpmc_210725734"
+    },
+    {
+      "title": "Lead Software Engineer - Java Backend",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210726764/?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
+      "identifier": "jpmc_210726764"
     },
     {
       "title": "Lead Software Engineer - Middleware",
@@ -112,23 +127,8 @@
       "title": "Site Reliability Engineer III",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210729627/?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
       "identifier": "jpmc_210729627"
-    },
-    {
-      "title": "Lead Software Engineer - Sr. Java/AWS Developer",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210732615/?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
-      "identifier": "jpmc_210732615"
-    },
-    {
-      "title": "FIX Onboarding Specialist - Sr Lead Software Engineer",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210733392/?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
-      "identifier": "jpmc_210733392"
-    },
-    {
-      "title": "Infra & Performance Engineer- Senior Lead Software Engineer",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210734295/?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
-      "identifier": "jpmc_210734295"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-17T13:06:14.729918"
+  "timestamp": "2026-04-17T13:23:21.755415"
 }

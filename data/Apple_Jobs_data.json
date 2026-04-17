@@ -1,8 +1,18 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 17,
+  "total_jobs": 18,
   "jobs": [
+    {
+      "title": "Engineering Manager, AI Developer Tools",
+      "url": "https://jobs.apple.com/en-us/details/200658219-3337/engineering-manager-ai-developer-tools?team=SFTWR",
+      "identifier": "Engineering Manager, AI Developer Tools_-ai-developer-tools?team=SFTWR"
+    },
+    {
+      "title": "Senior Software Engineer - Compute",
+      "url": "https://jobs.apple.com/en-us/details/200658521-3337/senior-software-engineer-compute?team=SFTWR",
+      "identifier": "Senior Software Engineer - Compute_re-engineer-compute?team=SFTWR"
+    },
     {
       "title": "On-Device ML Infrastructure Engineer (CoreML Runtime), Graphics, Games & ML",
       "url": "https://jobs.apple.com/en-us/details/200658596-0836/on-device-ml-infrastructure-engineer-coreml-runtime-graphics-games-ml?team=SFTWR",
@@ -82,13 +92,8 @@
       "title": "Software Engineer (AML), AI & Data Platforms (AiDP)",
       "url": "https://jobs.apple.com/en-us/details/200639149-0157/software-engineer-aml-ai-data-platforms-aidp?team=SFTWR",
       "identifier": "Software Engineer (AML), AI & Data Platforms (AiDP_data-platforms-aidp?team=SFTWR"
-    },
-    {
-      "title": "Data Platform SRE, AI & Data Platforms (AiDP)",
-      "url": "https://jobs.apple.com/en-us/details/200639146-0157/data-platform-sre-ai-data-platforms-aidp?team=SFTWR",
-      "identifier": "Data Platform SRE, AI & Data Platforms (AiDP)_data-platforms-aidp?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-17T21:38:50.710434"
+  "timestamp": "2026-04-17T21:55:58.618950"
 }

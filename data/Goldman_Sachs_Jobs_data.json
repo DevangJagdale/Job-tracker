@@ -4,6 +4,11 @@
   "total_jobs": 20,
   "jobs": [
     {
+      "title": "Data Engineering - SRE Data - Software Engineer - Associate - Dallas\nDallas\u00b7United States\n\u00b7Associate",
+      "url": "https://higher.gs.com/roles/166470",
+      "identifier": "Data Engineering - SRE Data - Software Engineer - _s://higher.gs.com/roles/166470"
+    },
+    {
       "title": "Data Engineering - Data, Lakehouse and AI Data Platform Engineer - Analyst/Associate - Dallas\nDallas\u00b7United States\n\u00b7Associate",
       "url": "https://higher.gs.com/roles/153361",
       "identifier": "Data Engineering - Data, Lakehouse and AI Data Pla_s://higher.gs.com/roles/153361"
@@ -97,13 +102,8 @@
       "title": "AWM, Marcus by Goldman Sachs, Pricing & Analytics, Analyst, Richardson, TX\nRichardson\u00b7United States\n\u00b7Analyst",
       "url": "https://higher.gs.com/roles/151793",
       "identifier": "AWM, Marcus by Goldman Sachs, Pricing & Analytics,_s://higher.gs.com/roles/151793"
-    },
-    {
-      "title": "Asset & Wealth Management-Software Engineering-Associate-Richardson\nRichardson\u00b7United States\n\u00b7Associate",
-      "url": "https://higher.gs.com/roles/164031",
-      "identifier": "Asset & Wealth Management-Software Engineering-Ass_s://higher.gs.com/roles/164031"
     }
   ],
-  "job_count_text": "50",
-  "timestamp": "2026-04-17T15:10:52.276707"
+  "job_count_text": "51",
+  "timestamp": "2026-04-17T15:28:03.109294"
 }

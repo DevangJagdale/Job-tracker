@@ -1,8 +1,13 @@
 {
   "page_title": "Search our Job Opportunities at Barclays",
   "url": "https://search.jobs.barclays/search-jobs/United%20States/13015/2/6252001/39x76/-98x5/50/2",
-  "total_jobs": 13,
+  "total_jobs": 10,
   "jobs": [
+    {
+      "title": "Technology Product Owner, Markets Sales Technology\u2019",
+      "url": "https://search.jobs.barclays/job/whippany/technology-product-owner-markets-sales-technology/13015/94069401552",
+      "identifier": "Technology Product Owner, Markets Sales Technology_s-technology/13015/94069401552"
+    },
     {
       "title": "DCW M365 Power Platform / Azure Developer",
       "url": "https://search.jobs.barclays/job/whippany/dcw-m365-power-platform-azure-developer/13015/94069397632",
@@ -34,11 +39,6 @@
       "identifier": "VP, Regulatory Counsel_tory-counsel/13015/94044211680"
     },
     {
-      "title": "Senior Client Connectivity Developer",
-      "url": "https://search.jobs.barclays/job/new-york/senior-client-connectivity-developer/13015/94044191360",
-      "identifier": "Senior Client Connectivity Developer_ty-developer/13015/94044191360"
-    },
-    {
       "title": "Product Owner",
       "url": "https://search.jobs.barclays/job/wilmington/product-owner/13015/94031657520",
       "identifier": "Product Owner_roduct-owner/13015/94031657520"
@@ -52,23 +52,8 @@
       "title": "Quant, Macro Rates Flow VP",
       "url": "https://search.jobs.barclays/job/new-york/quant-macro-rates-flow-vp/13015/94006050352",
       "identifier": "Quant, Macro Rates Flow VP_ates-flow-vp/13015/94006050352"
-    },
-    {
-      "title": "Trade Floor End User Support Technician",
-      "url": "https://search.jobs.barclays/job/new-york/trade-floor-end-user-support-technician/13015/93993351024",
-      "identifier": "Trade Floor End User Support Technician_t-technician/13015/93993351024"
-    },
-    {
-      "title": "AVP, Quantitative Modeler",
-      "url": "https://search.jobs.barclays/job/wilmington/avp-quantitative-modeler/13015/93968056624",
-      "identifier": "AVP, Quantitative Modeler_tive-modeler/13015/93968056624"
-    },
-    {
-      "title": "Sr Java Developer, AVP",
-      "url": "https://search.jobs.barclays/job/whippany/sr-java-developer-avp/13015/93968056608",
-      "identifier": "Sr Java Developer, AVP_eveloper-avp/13015/93968056608"
     }
   ],
-  "job_count_text": "118",
-  "timestamp": "2026-04-17T23:21:08.193789"
+  "job_count_text": "121",
+  "timestamp": "2026-04-17T23:38:17.394270"
 }

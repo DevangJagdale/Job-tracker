@@ -4,6 +4,11 @@
   "total_jobs": 15,
   "jobs": [
     {
+      "title": "Core Bring Up Engineer, Core OS",
+      "url": "https://jobs.apple.com/en-us/details/200658574-0836/core-bring-up-engineer-core-os?team=SFTWR",
+      "identifier": "Core Bring Up Engineer, Core OS_up-engineer-core-os?team=SFTWR"
+    },
+    {
       "title": "AIML Privacy-Engineering Rotation",
       "url": "https://jobs.apple.com/en-us/details/200658504-0836/aiml-privacy-engineering-rotation?team=SFTWR",
       "identifier": "AIML Privacy-Engineering Rotation_ngineering-rotation?team=SFTWR"
@@ -72,13 +77,8 @@
       "title": "Clinical Analyst",
       "url": "https://jobs.apple.com/en-us/details/200658440-0157/clinical-analyst?team=SFTWR",
       "identifier": "Clinical Analyst_57/clinical-analyst?team=SFTWR"
-    },
-    {
-      "title": "Clinical Analyst",
-      "url": "https://jobs.apple.com/en-us/details/200658440-0365/clinical-analyst?team=SFTWR",
-      "identifier": "Clinical Analyst_65/clinical-analyst?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-17T17:12:06.244111"
+  "timestamp": "2026-04-17T17:29:19.430354"
 }

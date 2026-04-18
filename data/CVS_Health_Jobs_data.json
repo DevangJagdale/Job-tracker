@@ -4,11 +4,6 @@
   "total_jobs": 8,
   "jobs": [
     {
-      "title": "Manager Application Development - Clinical UM Automation",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0857433/Manager-Application-Development-Clinical-UM-Automation",
-      "identifier": "Manager Application Development - Clinical UM Auto_lopment-Clinical-UM-Automation"
-    },
-    {
       "title": "Store Hardware Technician",
       "url": "https://jobs.cvshealth.com/us/en/job/R0846748/Store-Hardware-Technician",
       "identifier": "Store Hardware Technician_6748/Store-Hardware-Technician"
@@ -19,14 +14,19 @@
       "identifier": "Manager - Scrum Master_/R0880623/Manager-Scrum-Master"
     },
     {
-      "title": "Manager - Scrum Master",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0880661/Manager-Scrum-Master",
-      "identifier": "Manager - Scrum Master_/R0880661/Manager-Scrum-Master"
+      "title": "Manager Application Development - Clinical UM Automation",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0857433/Manager-Application-Development-Clinical-UM-Automation",
+      "identifier": "Manager Application Development - Clinical UM Auto_lopment-Clinical-UM-Automation"
     },
     {
       "title": "Manager - Scrum Master",
       "url": "https://jobs.cvshealth.com/us/en/job/R0887702/Manager-Scrum-Master",
       "identifier": "Manager - Scrum Master_/R0887702/Manager-Scrum-Master"
+    },
+    {
+      "title": "Manager - Scrum Master",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0880661/Manager-Scrum-Master",
+      "identifier": "Manager - Scrum Master_/R0880661/Manager-Scrum-Master"
     },
     {
       "title": "Field Technician",
@@ -39,11 +39,11 @@
       "identifier": "Manager, Application Development_anager-Application-Development"
     },
     {
-      "title": "Quality Engineer - IBMi",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0880639/Quality-Engineer-IBMi",
-      "identifier": "Quality Engineer - IBMi_R0880639/Quality-Engineer-IBMi"
+      "title": "Manager - Business Analysis (IC)",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0880802/Manager-Business-Analysis-IC",
+      "identifier": "Manager - Business Analysis (IC)_2/Manager-Business-Analysis-IC"
     }
   ],
   "job_count_text": "31",
-  "timestamp": "2026-04-18T18:57:50.998347"
+  "timestamp": "2026-04-18T19:14:53.425325"
 }

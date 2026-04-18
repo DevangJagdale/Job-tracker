@@ -4,9 +4,34 @@
   "total_jobs": 8,
   "jobs": [
     {
+      "title": "Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0888469/Software-Development-Engineer",
+      "identifier": "Software Development Engineer_/Software-Development-Engineer"
+    },
+    {
+      "title": "Manager - Scrum Master",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0887702/Manager-Scrum-Master",
+      "identifier": "Manager - Scrum Master_/R0887702/Manager-Scrum-Master"
+    },
+    {
       "title": "AVP, Application Engineering- Aetna Core Commercial systems",
       "url": "https://jobs.cvshealth.com/us/en/job/R0876766/AVP-Application-Engineering-Aetna-Core-Commercial-systems",
       "identifier": "AVP, Application Engineering- Aetna Core Commercia_-Aetna-Core-Commercial-systems"
+    },
+    {
+      "title": "Manager - Scrum Master",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0880661/Manager-Scrum-Master",
+      "identifier": "Manager - Scrum Master_/R0880661/Manager-Scrum-Master"
+    },
+    {
+      "title": "Executive Director, Engineering - AI Automation",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0849706/Executive-Director-Engineering-AI-Automation",
+      "identifier": "Executive Director, Engineering - AI Automation_ctor-Engineering-AI-Automation"
+    },
+    {
+      "title": "Senior Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0875597/Senior-Software-Development-Engineer",
+      "identifier": "Senior Software Development Engineer_-Software-Development-Engineer"
     },
     {
       "title": "Sr Software Development Engineer",
@@ -17,33 +42,8 @@
       "title": "Senior Java Software Engineer",
       "url": "https://jobs.cvshealth.com/us/en/job/R0827520/Senior-Java-Software-Engineer",
       "identifier": "Senior Java Software Engineer_/Senior-Java-Software-Engineer"
-    },
-    {
-      "title": "Manager - Scrum Master",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0887702/Manager-Scrum-Master",
-      "identifier": "Manager - Scrum Master_/R0887702/Manager-Scrum-Master"
-    },
-    {
-      "title": "Senior Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0875597/Senior-Software-Development-Engineer",
-      "identifier": "Senior Software Development Engineer_-Software-Development-Engineer"
-    },
-    {
-      "title": "Staff Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0783061/Staff-Software-Development-Engineer",
-      "identifier": "Staff Software Development Engineer_-Software-Development-Engineer"
-    },
-    {
-      "title": "Store Hardware Technician",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0846748/Store-Hardware-Technician",
-      "identifier": "Store Hardware Technician_6748/Store-Hardware-Technician"
-    },
-    {
-      "title": "Executive Director, Engineering - AI Automation",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0849706/Executive-Director-Engineering-AI-Automation",
-      "identifier": "Executive Director, Engineering - AI Automation_ctor-Engineering-AI-Automation"
     }
   ],
   "job_count_text": "47",
-  "timestamp": "2026-04-18T04:38:24.196102"
+  "timestamp": "2026-04-18T04:55:30.540839"
 }

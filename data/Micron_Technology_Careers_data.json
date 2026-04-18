@@ -4,11 +4,6 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Thin Films Process Development Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
-      "url": "https://careers.micron.com/careers/job/41441277",
-      "identifier": "Thin Films Process Development Engineer\nBoise, Ida_icron.com/careers/job/41441277"
-    },
-    {
       "title": "Industry 4.0 Analyst\nBoise, Idaho, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/41522688",
       "identifier": "Industry 4.0 Analyst\nBoise, Idaho, United States o_icron.com/careers/job/41522688"
@@ -34,6 +29,11 @@
       "identifier": "Software Engineer\nBoise, Idaho, United States of A_icron.com/careers/job/41522736"
     },
     {
+      "title": "Thin Films Process Development Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/41441277",
+      "identifier": "Thin Films Process Development Engineer\nBoise, Ida_icron.com/careers/job/41441277"
+    },
+    {
       "title": "Semiconductor Process Engineer\nBoise, Idaho, United States of America\nPosted 2 days ago",
       "url": "https://careers.micron.com/careers/job/41510739",
       "identifier": "Semiconductor Process Engineer\nBoise, Idaho, Unite_icron.com/careers/job/41510739"
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "80",
-  "timestamp": "2026-04-18T05:14:49.587111"
+  "timestamp": "2026-04-18T05:31:55.761424"
 }

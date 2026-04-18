@@ -4,6 +4,11 @@
   "total_jobs": 18,
   "jobs": [
     {
+      "title": "Quality Automation Engineer, Rights & Pricing- Partner Onboarding Business",
+      "url": "https://jobs.apple.com/en-us/details/200656089-0836/quality-automation-engineer-rights-pricing-partner-onboarding-business?team=SFTWR",
+      "identifier": "Quality Automation Engineer, Rights & Pricing- Par_onboarding-business?team=SFTWR"
+    },
+    {
       "title": "Software Engineer - Distributed Systems, Compute Platform",
       "url": "https://jobs.apple.com/en-us/details/200651673-0836/software-engineer-distributed-systems-compute-platform?team=SFTWR",
       "identifier": "Software Engineer - Distributed Systems, Compute P_ms-compute-platform?team=SFTWR"
@@ -87,13 +92,8 @@
       "title": "Senior Server Software Engineer - Health Software",
       "url": "https://jobs.apple.com/en-us/details/200629526-3956/senior-server-software-engineer-health-software?team=SFTWR",
       "identifier": "Senior Server Software Engineer - Health Software_eer-health-software?team=SFTWR"
-    },
-    {
-      "title": "Core Bring Up Engineer, Core OS",
-      "url": "https://jobs.apple.com/en-us/details/200658574-0836/core-bring-up-engineer-core-os?team=SFTWR",
-      "identifier": "Core Bring Up Engineer, Core OS_up-engineer-core-os?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-18T13:41:39.743218"
+  "timestamp": "2026-04-18T13:58:43.436685"
 }

@@ -1,49 +1,8 @@
 {
   "page_title": "Search CVS Health Jobs | Find Your Next Career Opportunity",
   "url": "https://jobs.cvshealth.com/us/en/search-results",
-  "total_jobs": 8,
-  "jobs": [
-    {
-      "title": "Manager Application Development - Clinical UM Automation",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0857433/Manager-Application-Development-Clinical-UM-Automation",
-      "identifier": "Manager Application Development - Clinical UM Auto_lopment-Clinical-UM-Automation"
-    },
-    {
-      "title": "Store Hardware Technician",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0846748/Store-Hardware-Technician",
-      "identifier": "Store Hardware Technician_6748/Store-Hardware-Technician"
-    },
-    {
-      "title": "Field Technician",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0870653/Field-Technician",
-      "identifier": "Field Technician_/job/R0870653/Field-Technician"
-    },
-    {
-      "title": "Manager, Application Development",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0841409/Manager-Application-Development",
-      "identifier": "Manager, Application Development_anager-Application-Development"
-    },
-    {
-      "title": "Quality Engineer - IBMi",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0880639/Quality-Engineer-IBMi",
-      "identifier": "Quality Engineer - IBMi_R0880639/Quality-Engineer-IBMi"
-    },
-    {
-      "title": "Manager - Business Analysis (IC)",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0880802/Manager-Business-Analysis-IC",
-      "identifier": "Manager - Business Analysis (IC)_2/Manager-Business-Analysis-IC"
-    },
-    {
-      "title": "Software Packaging Coordinator",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0862116/Software-Packaging-Coordinator",
-      "identifier": "Software Packaging Coordinator_Software-Packaging-Coordinator"
-    },
-    {
-      "title": "Senior Manager-Epic EHR Development Lead (Software Development)",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0869290/Senior-Manager-Epic-EHR-Development-Lead-Software-Development",
-      "identifier": "Senior Manager-Epic EHR Development Lead (Software_ment-Lead-Software-Development"
-    }
-  ],
-  "job_count_text": "28",
-  "timestamp": "2026-04-19T18:48:40.736396"
+  "total_jobs": 15247,
+  "jobs": [],
+  "job_count_text": "15247",
+  "timestamp": "2026-04-19T19:05:51.076561"
 }

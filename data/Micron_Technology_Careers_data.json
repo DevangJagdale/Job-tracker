@@ -4,11 +4,6 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Engineer-II, Firmware and Product Test Engineering\nLongmont, Colorado, United States of America\nPosted 3 days ago",
-      "url": "https://careers.micron.com/careers/job/40876529",
-      "identifier": "Engineer-II, Firmware and Product Test Engineering_icron.com/careers/job/40876529"
-    },
-    {
       "title": "Design Characterization Engineer\nSan Jose, California, United States of America\nPosted 3 days ago",
       "url": "https://careers.micron.com/careers/job/41139984",
       "identifier": "Design Characterization Engineer\nSan Jose, Califor_icron.com/careers/job/41139984"
@@ -34,6 +29,11 @@
       "identifier": "Staff GenAI Engineer - AMS Design and Optimization_icron.com/careers/job/39464751"
     },
     {
+      "title": "Engineer-II, Firmware and Product Test Engineering\nLongmont, Colorado, United States of America\nPosted 3 days ago",
+      "url": "https://careers.micron.com/careers/job/40876529",
+      "identifier": "Engineer-II, Firmware and Product Test Engineering_icron.com/careers/job/40876529"
+    },
+    {
       "title": "Semiconductor Process Engineer, Metrology\nBoise, Idaho, United States of America\nPosted 4 days ago",
       "url": "https://careers.micron.com/careers/job/39196650",
       "identifier": "Semiconductor Process Engineer, Metrology\nBoise, I_icron.com/careers/job/39196650"
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "79",
-  "timestamp": "2026-04-19T15:34:33.949763"
+  "timestamp": "2026-04-19T15:51:42.771514"
 }

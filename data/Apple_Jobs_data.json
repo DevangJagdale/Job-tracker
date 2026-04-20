@@ -9,11 +9,6 @@
       "identifier": "Sr. Engineering Program Manager - Customer Systems_er-customer-systems?team=SFTWR"
     },
     {
-      "title": "Sr Software Developer / Site Reliability Engineer - ASE iCloud Content",
-      "url": "https://jobs.apple.com/en-us/details/200621474-3337/sr-software-developer-site-reliability-engineer-ase-icloud-content?team=SFTWR",
-      "identifier": "Sr Software Developer / Site Reliability Engineer _-ase-icloud-content?team=SFTWR"
-    },
-    {
       "title": "Large Machine Learning Model Optimization Engineer",
       "url": "https://jobs.apple.com/en-us/details/200635928-0836/large-machine-learning-model-optimization-engineer?team=MLAI",
       "identifier": "Large Machine Learning Model Optimization Engineer_ptimization-engineer?team=MLAI"
@@ -92,8 +87,13 @@
       "title": "Sr. Software Engineer, App Processing",
       "url": "https://jobs.apple.com/en-us/details/200654982-3337/sr-software-engineer-app-processing?team=SFTWR",
       "identifier": "Sr. Software Engineer, App Processing_neer-app-processing?team=SFTWR"
+    },
+    {
+      "title": "Machine Learning Engineer - Visual Agents - Special Projects",
+      "url": "https://jobs.apple.com/en-us/details/200657911-0836/machine-learning-engineer-visual-agents-special-projects?team=MLAI",
+      "identifier": "Machine Learning Engineer - Visual Agents - Specia_nts-special-projects?team=MLAI"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-20T18:58:56.476423"
+  "timestamp": "2026-04-20T19:16:03.193600"
 }

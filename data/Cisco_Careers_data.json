@@ -1,27 +1,12 @@
 {
   "page_title": "Job Openings - Cisco Careers",
   "url": "https://careers.cisco.com/global/en/search-results?s=1",
-  "total_jobs": 8,
+  "total_jobs": 5,
   "jobs": [
-    {
-      "title": "Software QA Engineer II (Full Time) \u2013 United States",
-      "url": "https://careers.cisco.com/global/en/job/2002838/Software-QA-Engineer-II-Full-Time-United-States",
-      "identifier": "Software QA Engineer II (Full Time) \u2013 United State_eer-II-Full-Time-United-States"
-    },
-    {
-      "title": "Software Engineer Backend/Platform Systems I (Full Time) \u2013 United States",
-      "url": "https://careers.cisco.com/global/en/job/2000046/Software-Engineer-Backend-Platform-Systems-I-Full-Time-United-States",
-      "identifier": "Software Engineer Backend/Platform Systems I (Full_tems-I-Full-Time-United-States"
-    },
     {
       "title": "AI/ML Modeling Engineer I (Intern)- United States",
       "url": "https://careers.cisco.com/global/en/job/2008899/AI-ML-Modeling-Engineer-I-Intern-United-States",
       "identifier": "AI/ML Modeling Engineer I (Intern)- United States_ngineer-I-Intern-United-States"
-    },
-    {
-      "title": "Sales Development Representative Outbound Sales II (Full Time) - United States",
-      "url": "https://careers.cisco.com/global/en/job/2003091/Sales-Development-Representative-Outbound-Sales-II-Full-Time-United-States",
-      "identifier": "Sales Development Representative Outbound Sales II_les-II-Full-Time-United-States"
     },
     {
       "title": "Splunk Business Development Representative",
@@ -44,6 +29,6 @@
       "identifier": "Sales Development Representative II (Full Time) Un_al-Demand-Center-United-States"
     }
   ],
-  "job_count_text": "8",
-  "timestamp": "2026-04-20T14:01:32.067524"
+  "job_count_text": "5",
+  "timestamp": "2026-04-20T14:18:38.032069"
 }

@@ -4,6 +4,11 @@
   "total_jobs": 18,
   "jobs": [
     {
+      "title": "Software Development Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200658467-0157/software-development-engineer?team=SFTWR",
+      "identifier": "Software Development Engineer_evelopment-engineer?team=SFTWR"
+    },
+    {
       "title": "Video Machine Learning Engineer, Audio & Media Technologies",
       "url": "https://jobs.apple.com/en-us/details/200653646-3543/video-machine-learning-engineer-audio-media-technologies?team=SFTWR",
       "identifier": "Video Machine Learning Engineer, Audio & Media Tec_-media-technologies?team=SFTWR"
@@ -87,13 +92,8 @@
       "title": "Software Engineer - Backend Systems, Insights & Release Technologies",
       "url": "https://jobs.apple.com/en-us/details/200619826-0836/software-engineer-backend-systems-insights-release-technologies?team=SFTWR",
       "identifier": "Software Engineer - Backend Systems, Insights & Re_elease-technologies?team=SFTWR"
-    },
-    {
-      "title": "Senior Frontend Software Engineer, Platform Engineering, Services Data Science & Analytics",
-      "url": "https://jobs.apple.com/en-us/details/200656699-0157/senior-frontend-software-engineer-platform-engineering-services-data-science-analytics?team=SFTWR",
-      "identifier": "Senior Frontend Software Engineer, Platform Engine_a-science-analytics?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-20T15:16:07.205361"
+  "timestamp": "2026-04-20T15:33:12.407091"
 }

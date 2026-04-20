@@ -4,14 +4,14 @@
   "total_jobs": 8,
   "jobs": [
     {
-      "title": "Manager, Business Analysis",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0882619/Manager-Business-Analysis",
-      "identifier": "Manager, Business Analysis_2619/Manager-Business-Analysis"
-    },
-    {
       "title": "Principal Software Development Engineer",
       "url": "https://jobs.cvshealth.com/us/en/job/R0788986/Principal-Software-Development-Engineer",
       "identifier": "Principal Software Development Engineer_-Software-Development-Engineer"
+    },
+    {
+      "title": "Manager, Business Analysis",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0882619/Manager-Business-Analysis",
+      "identifier": "Manager, Business Analysis_2619/Manager-Business-Analysis"
     },
     {
       "title": "Senior Software Development Engineer (Java & Cloud)",
@@ -19,14 +19,14 @@
       "identifier": "Senior Software Development Engineer (Java & Cloud_evelopment-Engineer-Java-Cloud"
     },
     {
-      "title": "Store Hardware Technician",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0846748/Store-Hardware-Technician",
-      "identifier": "Store Hardware Technician_6748/Store-Hardware-Technician"
-    },
-    {
       "title": "Manager Application Development - Clinical UM Automation",
       "url": "https://jobs.cvshealth.com/us/en/job/R0857433/Manager-Application-Development-Clinical-UM-Automation",
       "identifier": "Manager Application Development - Clinical UM Auto_lopment-Clinical-UM-Automation"
+    },
+    {
+      "title": "Store Hardware Technician",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0846748/Store-Hardware-Technician",
+      "identifier": "Store Hardware Technician_6748/Store-Hardware-Technician"
     },
     {
       "title": "Field Technician",
@@ -39,11 +39,11 @@
       "identifier": "Manager, Application Development_anager-Application-Development"
     },
     {
-      "title": "Manager - Business Analysis (IC)",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0880802/Manager-Business-Analysis-IC",
-      "identifier": "Manager - Business Analysis (IC)_2/Manager-Business-Analysis-IC"
+      "title": "Quality Engineer - IBMi",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0880639/Quality-Engineer-IBMi",
+      "identifier": "Quality Engineer - IBMi_R0880639/Quality-Engineer-IBMi"
     }
   ],
   "job_count_text": "29",
-  "timestamp": "2026-04-20T15:17:08.993740"
+  "timestamp": "2026-04-20T15:34:14.670854"
 }

@@ -4,6 +4,11 @@
   "total_jobs": 18,
   "jobs": [
     {
+      "title": "AIML - Data Operations Program/ Project Manager",
+      "url": "https://jobs.apple.com/en-us/details/200634945-0836/aiml-data-operations-program-project-manager?team=MLAI",
+      "identifier": "AIML - Data Operations Program/ Project Manager_gram-project-manager?team=MLAI"
+    },
+    {
       "title": "Software Development Engineer",
       "url": "https://jobs.apple.com/en-us/details/200658467-0157/software-development-engineer?team=SFTWR",
       "identifier": "Software Development Engineer_evelopment-engineer?team=SFTWR"
@@ -87,13 +92,8 @@
       "title": "Software Engineer, Crypto Services - Key Management, Enterpise Technology Services",
       "url": "https://jobs.apple.com/en-us/details/200655585-0157/software-engineer-crypto-services-key-management-enterpise-technology-services?team=SFTWR",
       "identifier": "Software Engineer, Crypto Services - Key Managemen_technology-services?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer - Backend Systems, Insights & Release Technologies",
-      "url": "https://jobs.apple.com/en-us/details/200619826-0836/software-engineer-backend-systems-insights-release-technologies?team=SFTWR",
-      "identifier": "Software Engineer - Backend Systems, Insights & Re_elease-technologies?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-20T15:50:23.316099"
+  "timestamp": "2026-04-20T16:07:34.249347"
 }

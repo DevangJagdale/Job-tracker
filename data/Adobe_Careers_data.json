@@ -1,8 +1,13 @@
 {
   "page_title": "Search results | Find available job openings at Adobe",
   "url": "https://careers.adobe.com/us/en/search-results?qcountry=United%20States%20of%20America",
-  "total_jobs": 5,
+  "total_jobs": 6,
   "jobs": [
+    {
+      "title": "2026 University Graduate - Software Development Engineer",
+      "url": "https://careers.adobe.com/us/en/job/R161172/2026-University-Graduate-Software-Development-Engineer",
+      "identifier": "2026 University Graduate - Software Development En_-Software-Development-Engineer"
+    },
     {
       "title": "2026 University Graduate - Applied Scientist",
       "url": "https://careers.adobe.com/us/en/job/R160136/2026-University-Graduate-Applied-Scientist",
@@ -29,6 +34,6 @@
       "identifier": "Applied Scientist 3_ob/R166095/Applied-Scientist-3"
     }
   ],
-  "job_count_text": "11",
-  "timestamp": "2026-04-20T21:28:02.986226"
+  "job_count_text": "6",
+  "timestamp": "2026-04-20T21:45:18.761101"
 }

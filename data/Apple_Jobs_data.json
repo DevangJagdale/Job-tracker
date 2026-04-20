@@ -4,6 +4,16 @@
   "total_jobs": 18,
   "jobs": [
     {
+      "title": "Software Development Engineer - Apps, Enterprise Technology Services",
+      "url": "https://jobs.apple.com/en-us/details/200657795-0157/software-development-engineer-apps-enterprise-technology-services?team=SFTWR",
+      "identifier": "Software Development Engineer - Apps, Enterprise T_technology-services?team=SFTWR"
+    },
+    {
+      "title": "Content Engineering Author - Developer Publications",
+      "url": "https://jobs.apple.com/en-us/details/200658937-3337/content-engineering-author-developer-publications?team=SFTWR",
+      "identifier": "Content Engineering Author - Developer Publication_eloper-publications?team=SFTWR"
+    },
+    {
       "title": "Sr. Engineering Program Manager - Customer Systems",
       "url": "https://jobs.apple.com/en-us/details/200643926-3956/sr-engineering-program-manager-customer-systems?team=SFTWR",
       "identifier": "Sr. Engineering Program Manager - Customer Systems_er-customer-systems?team=SFTWR"
@@ -82,18 +92,8 @@
       "title": "On-Device ML Infrastructure Engineer (CoreML Runtime), Graphics, Games & ML",
       "url": "https://jobs.apple.com/en-us/details/200658596-0836/on-device-ml-infrastructure-engineer-coreml-runtime-graphics-games-ml?team=SFTWR",
       "identifier": "On-Device ML Infrastructure Engineer (CoreML Runti_e-graphics-games-ml?team=SFTWR"
-    },
-    {
-      "title": "Sr. Software Engineer, App Processing",
-      "url": "https://jobs.apple.com/en-us/details/200654982-3337/sr-software-engineer-app-processing?team=SFTWR",
-      "identifier": "Sr. Software Engineer, App Processing_neer-app-processing?team=SFTWR"
-    },
-    {
-      "title": "Machine Learning Engineer - Visual Agents - Special Projects",
-      "url": "https://jobs.apple.com/en-us/details/200657911-0836/machine-learning-engineer-visual-agents-special-projects?team=MLAI",
-      "identifier": "Machine Learning Engineer - Visual Agents - Specia_nts-special-projects?team=MLAI"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-20T21:23:46.413082"
+  "timestamp": "2026-04-20T21:41:03.597857"
 }

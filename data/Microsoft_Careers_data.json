@@ -4,12 +4,17 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Software Engineer II - BIC Foundations\nUnited States, Washington, Redmond\nPosted 6 hours ago",
+      "title": "Software Engineer\nUnited States, Washington, Redmond\nPosted 19 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556856322?domain=microsoft.com",
+      "identifier": "Software Engineer\nUnited States, Washington, Redmo_556856322?domain=microsoft.com"
+    },
+    {
+      "title": "Software Engineer II - BIC Foundations\nUnited States, Washington, Redmond\nPosted 7 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556756098?domain=microsoft.com",
       "identifier": "Software Engineer II - BIC Foundations\nUnited Stat_556756098?domain=microsoft.com"
     },
     {
-      "title": "Software Engineer II-People & Work Intelligence\nUnited States, Washington, Redmond\nPosted 6 hours ago",
+      "title": "Software Engineer II-People & Work Intelligence\nUnited States, Washington, Redmond\nPosted 7 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556749600?domain=microsoft.com",
       "identifier": "Software Engineer II-People & Work Intelligence\nUn_556749600?domain=microsoft.com"
     },
@@ -47,13 +52,8 @@
       "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 3 days ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556859654?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Washington_556859654?domain=microsoft.com"
-    },
-    {
-      "title": "Software Engineer II-Foundry Agent Platform Team\nUnited States, Washington, Redmond + 3 more\nPosted 3 days ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556860177?domain=microsoft.com",
-      "identifier": "Software Engineer II-Foundry Agent Platform Team\nU_556860177?domain=microsoft.com"
     }
   ],
-  "job_count_text": "643",
-  "timestamp": "2026-04-20T11:59:44.250525"
+  "job_count_text": "644",
+  "timestamp": "2026-04-20T12:16:51.016032"
 }

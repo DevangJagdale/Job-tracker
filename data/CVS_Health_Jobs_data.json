@@ -4,14 +4,14 @@
   "total_jobs": 8,
   "jobs": [
     {
-      "title": "Manager Application Development - Clinical UM Automation",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0857433/Manager-Application-Development-Clinical-UM-Automation",
-      "identifier": "Manager Application Development - Clinical UM Auto_lopment-Clinical-UM-Automation"
-    },
-    {
       "title": "Store Hardware Technician",
       "url": "https://jobs.cvshealth.com/us/en/job/R0846748/Store-Hardware-Technician",
       "identifier": "Store Hardware Technician_6748/Store-Hardware-Technician"
+    },
+    {
+      "title": "Manager Application Development - Clinical UM Automation",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0857433/Manager-Application-Development-Clinical-UM-Automation",
+      "identifier": "Manager Application Development - Clinical UM Auto_lopment-Clinical-UM-Automation"
     },
     {
       "title": "Field Technician",
@@ -24,14 +24,14 @@
       "identifier": "Manager, Application Development_anager-Application-Development"
     },
     {
-      "title": "Quality Engineer - IBMi",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0880639/Quality-Engineer-IBMi",
-      "identifier": "Quality Engineer - IBMi_R0880639/Quality-Engineer-IBMi"
-    },
-    {
       "title": "Manager - Business Analysis (IC)",
       "url": "https://jobs.cvshealth.com/us/en/job/R0880802/Manager-Business-Analysis-IC",
       "identifier": "Manager - Business Analysis (IC)_2/Manager-Business-Analysis-IC"
+    },
+    {
+      "title": "Quality Engineer - IBMi",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0880639/Quality-Engineer-IBMi",
+      "identifier": "Quality Engineer - IBMi_R0880639/Quality-Engineer-IBMi"
     },
     {
       "title": "Software Packaging Coordinator",
@@ -39,11 +39,11 @@
       "identifier": "Software Packaging Coordinator_Software-Packaging-Coordinator"
     },
     {
-      "title": "Senior Manager-Epic EHR Development Lead (Software Development)",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0869290/Senior-Manager-Epic-EHR-Development-Lead-Software-Development",
-      "identifier": "Senior Manager-Epic EHR Development Lead (Software_ment-Lead-Software-Development"
+      "title": "Mac Software Packaging Automation Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0862115/Mac-Software-Packaging-Automation-Engineer",
+      "identifier": "Mac Software Packaging Automation Engineer_-Packaging-Automation-Engineer"
     }
   ],
   "job_count_text": "28",
-  "timestamp": "2026-04-20T01:13:24.505185"
+  "timestamp": "2026-04-20T01:30:35.545088"
 }

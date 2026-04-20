@@ -1,13 +1,8 @@
 {
   "page_title": "Job Openings - Cisco Careers",
   "url": "https://careers.cisco.com/global/en/search-results?s=1",
-  "total_jobs": 5,
+  "total_jobs": 4,
   "jobs": [
-    {
-      "title": "AI/ML Modeling Engineer I (Intern)- United States",
-      "url": "https://careers.cisco.com/global/en/job/2008899/AI-ML-Modeling-Engineer-I-Intern-United-States",
-      "identifier": "AI/ML Modeling Engineer I (Intern)- United States_ngineer-I-Intern-United-States"
-    },
     {
       "title": "Splunk Business Development Representative",
       "url": "https://careers.cisco.com/global/en/job/2003745/Splunk-Business-Development-Representative",
@@ -29,6 +24,6 @@
       "identifier": "Sales Development Representative II (Full Time) Un_al-Demand-Center-United-States"
     }
   ],
-  "job_count_text": "5",
-  "timestamp": "2026-04-20T18:43:34.223674"
+  "job_count_text": "4",
+  "timestamp": "2026-04-20T19:00:40.255780"
 }

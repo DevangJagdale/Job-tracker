@@ -4,6 +4,16 @@
   "total_jobs": 10,
   "jobs": [
     {
+      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 14 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556849959?domain=microsoft.com",
+      "identifier": "Senior Software Engineer\nUnited States, Washington_556849959?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 22 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556637814?domain=microsoft.com",
+      "identifier": "Senior Software Engineer\nUnited States, Multiple L_556637814?domain=microsoft.com"
+    },
+    {
       "title": "Senior Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556621494?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Multiple L_556621494?domain=microsoft.com"
@@ -19,7 +29,7 @@
       "identifier": "Senior Software Engineer\nUnited States, Multiple L_556658226?domain=microsoft.com"
     },
     {
-      "title": "Software Engineer II - CoreAI\nUnited States, Washington, Redmond\nPosted 4 hours ago",
+      "title": "Software Engineer II - CoreAI\nUnited States, Washington, Redmond\nPosted 5 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556637527?domain=microsoft.com",
       "identifier": "Software Engineer II - CoreAI\nUnited States, Washi_556637527?domain=microsoft.com"
     },
@@ -42,18 +52,8 @@
       "title": "Software Engineer II - BIC Foundations\nUnited States, Washington, Redmond\nPosted 13 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556756098?domain=microsoft.com",
       "identifier": "Software Engineer II - BIC Foundations\nUnited Stat_556756098?domain=microsoft.com"
-    },
-    {
-      "title": "Senior + Principal Software Engineers- Front End Applied AI for Microsoft Threat Protection (MTP)\nUnited States, Washington, Redmond\nPosted 2 days ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556860237?domain=microsoft.com",
-      "identifier": "Senior + Principal Software Engineers- Front End A_556860237?domain=microsoft.com"
-    },
-    {
-      "title": "Principal Software Engineering Manager, Simulation Platform - CoreAI\nUnited States, Multiple Locations, Multiple Locations\nPosted 2 days ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556856010?domain=microsoft.com",
-      "identifier": "Principal Software Engineering Manager, Simulation_556856010?domain=microsoft.com"
     }
   ],
-  "job_count_text": "642",
-  "timestamp": "2026-04-20T18:41:32.445290"
+  "job_count_text": "643",
+  "timestamp": "2026-04-20T18:58:40.363486"
 }

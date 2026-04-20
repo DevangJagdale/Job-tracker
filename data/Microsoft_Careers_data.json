@@ -1,10 +1,15 @@
 {
   "page_title": "| Microsoft Careers",
   "url": "https://apply.careers.microsoft.com/careers?domain=microsoft.com&start=0&location=United+States&sort_by=timestamp&filter_include_remote=1&filter_profession=software+engineering%2Cresearch%252C%2520applied%252C%2520%2526%2520data%2520sciences",
-  "total_jobs": 9,
+  "total_jobs": 8,
   "jobs": [
     {
-      "title": "Senior Software Engineer - Azure Storage\nUnited States, Multiple Locations, Multiple Locations\nPosted 21 minutes ago",
+      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 24 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556858025?domain=microsoft.com",
+      "identifier": "Software Engineer II\nUnited States, Washington, Re_556858025?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Software Engineer - Azure Storage\nUnited States, Multiple Locations, Multiple Locations\nPosted 39 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556855993?domain=microsoft.com",
       "identifier": "Senior Software Engineer - Azure Storage\nUnited St_556855993?domain=microsoft.com"
     },
@@ -37,18 +42,8 @@
       "title": "Principal Software Engineering Manager\nUnited States, Multiple Locations, Multiple Locations\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556856899?domain=microsoft.com",
       "identifier": "Principal Software Engineering Manager\nUnited Stat_556856899?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Applied Scientist - CoreAI\nUnited States, Washington, Redmond + 2 more\nPosted 2 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556857534?domain=microsoft.com",
-      "identifier": "Senior Applied Scientist - CoreAI\nUnited States, W_556857534?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Software Engineer - Azure Database\nUnited States, Multiple Locations, Multiple Locations\nPosted 2 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556853161?domain=microsoft.com",
-      "identifier": "Senior Software Engineer - Azure Database\nUnited S_556853161?domain=microsoft.com"
     }
   ],
-  "job_count_text": "652",
-  "timestamp": "2026-04-20T22:15:13.784766"
+  "job_count_text": "654",
+  "timestamp": "2026-04-20T22:32:27.193778"
 }

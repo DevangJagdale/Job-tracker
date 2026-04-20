@@ -4,14 +4,14 @@
   "total_jobs": 8,
   "jobs": [
     {
-      "title": "Principal Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0788986/Principal-Software-Development-Engineer",
-      "identifier": "Principal Software Development Engineer_-Software-Development-Engineer"
-    },
-    {
       "title": "Manager, Business Analysis",
       "url": "https://jobs.cvshealth.com/us/en/job/R0882619/Manager-Business-Analysis",
       "identifier": "Manager, Business Analysis_2619/Manager-Business-Analysis"
+    },
+    {
+      "title": "Principal Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0788986/Principal-Software-Development-Engineer",
+      "identifier": "Principal Software Development Engineer_-Software-Development-Engineer"
     },
     {
       "title": "Senior Software Development Engineer (Java & Cloud)",
@@ -20,7 +20,7 @@
     },
     {
       "title": "Senior Engineering Manager Conversational AI",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0877783/Senior-Engineering-Manager-Conversational-AI",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0877789/Senior-Engineering-Manager-Conversational-AI",
       "identifier": "Senior Engineering Manager Conversational AI_ring-Manager-Conversational-AI"
     },
     {
@@ -45,5 +45,5 @@
     }
   ],
   "job_count_text": "33",
-  "timestamp": "2026-04-20T17:51:34.297973"
+  "timestamp": "2026-04-20T18:08:40.163189"
 }

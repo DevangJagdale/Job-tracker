@@ -4,6 +4,11 @@
   "total_jobs": 17,
   "jobs": [
     {
+      "title": "CPU Design Engineer - New College Grad 2026",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-OR-Hillsboro/CPU-Design-Engineer---New-College-Grad-2026_JR2007624?locationCountry=bc33aa3152ec42d4995f4791a106ed09&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&workerSubType=ab40a98049581037a3ada55b087049b7",
+      "identifier": "CPU Design Engineer - New College Grad 2026_40a98049581037a3ada55b087049b7"
+    },
+    {
       "title": "Deep Learning Software Engineer, FlashInfer - New College Grad 2025",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Software-Engineer--FlashInfer---New-College-Grad-2025_JR2002086?locationCountry=bc33aa3152ec42d4995f4791a106ed09&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&workerSubType=ab40a98049581037a3ada55b087049b7",
       "identifier": "Deep Learning Software Engineer, FlashInfer - New _40a98049581037a3ada55b087049b7"
@@ -82,13 +87,8 @@
       "title": "GPU Architecture Engineer - New College Grad 2026",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/GPU-Architecture-Engineer---New-College-Grad-2026_JR2014794-1?locationCountry=bc33aa3152ec42d4995f4791a106ed09&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&workerSubType=ab40a98049581037a3ada55b087049b7",
       "identifier": "GPU Architecture Engineer - New College Grad 2026_40a98049581037a3ada55b087049b7"
-    },
-    {
-      "title": "DL Algorithms Engineer - Cosmos - New College Graduate 2026",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/DL-Algorithms-Engineer---Cosmos----New-College-Graduate-2026_JR2010848-1?locationCountry=bc33aa3152ec42d4995f4791a106ed09&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&workerSubType=ab40a98049581037a3ada55b087049b7",
-      "identifier": "DL Algorithms Engineer - Cosmos - New College Grad_40a98049581037a3ada55b087049b7"
     }
   ],
-  "job_count_text": "56",
-  "timestamp": "2026-04-20T17:38:20.528249"
+  "job_count_text": "57",
+  "timestamp": "2026-04-20T17:55:32.488871"
 }

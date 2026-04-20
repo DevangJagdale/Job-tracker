@@ -1,49 +1,8 @@
 {
   "page_title": "Search CVS Health Jobs | Find Your Next Career Opportunity",
   "url": "https://jobs.cvshealth.com/us/en/search-results",
-  "total_jobs": 8,
-  "jobs": [
-    {
-      "title": "Principal Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0788986/Principal-Software-Development-Engineer",
-      "identifier": "Principal Software Development Engineer_-Software-Development-Engineer"
-    },
-    {
-      "title": "Manager, Business Analysis",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0882619/Manager-Business-Analysis",
-      "identifier": "Manager, Business Analysis_2619/Manager-Business-Analysis"
-    },
-    {
-      "title": "Senior Software Development Engineer (Java & Cloud)",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0843555/Senior-Software-Development-Engineer-Java-Cloud",
-      "identifier": "Senior Software Development Engineer (Java & Cloud_evelopment-Engineer-Java-Cloud"
-    },
-    {
-      "title": "Manager Application Development - Clinical UM Automation",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0857433/Manager-Application-Development-Clinical-UM-Automation",
-      "identifier": "Manager Application Development - Clinical UM Auto_lopment-Clinical-UM-Automation"
-    },
-    {
-      "title": "Store Hardware Technician",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0846748/Store-Hardware-Technician",
-      "identifier": "Store Hardware Technician_6748/Store-Hardware-Technician"
-    },
-    {
-      "title": "Field Technician",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0870653/Field-Technician",
-      "identifier": "Field Technician_/job/R0870653/Field-Technician"
-    },
-    {
-      "title": "Manager, Application Development",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0841409/Manager-Application-Development",
-      "identifier": "Manager, Application Development_anager-Application-Development"
-    },
-    {
-      "title": "Quality Engineer - IBMi",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0880639/Quality-Engineer-IBMi",
-      "identifier": "Quality Engineer - IBMi_R0880639/Quality-Engineer-IBMi"
-    }
-  ],
-  "job_count_text": "29",
-  "timestamp": "2026-04-20T16:42:55.505505"
+  "total_jobs": 15516,
+  "jobs": [],
+  "job_count_text": "15516",
+  "timestamp": "2026-04-20T17:00:07.266707"
 }

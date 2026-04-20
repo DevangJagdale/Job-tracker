@@ -4,6 +4,16 @@
   "total_jobs": 18,
   "jobs": [
     {
+      "title": "AIML - Distinguished Engineer, Foundation Models",
+      "url": "https://jobs.apple.com/en-us/details/200622814-0836/aiml-distinguished-engineer-foundation-models?team=MLAI",
+      "identifier": "AIML - Distinguished Engineer, Foundation Models_er-foundation-models?team=MLAI"
+    },
+    {
+      "title": "Software Development Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200658879-0157/software-development-engineer?team=SFTWR",
+      "identifier": "Software Development Engineer_evelopment-engineer?team=SFTWR"
+    },
+    {
       "title": "Software Development Engineer - Apps, Enterprise Technology Services",
       "url": "https://jobs.apple.com/en-us/details/200657795-0157/software-development-engineer-apps-enterprise-technology-services?team=SFTWR",
       "identifier": "Software Development Engineer - Apps, Enterprise T_technology-services?team=SFTWR"
@@ -32,11 +42,6 @@
       "title": "AIML - Data Operations Program/ Project Manager",
       "url": "https://jobs.apple.com/en-us/details/200634945-0836/aiml-data-operations-program-project-manager?team=MLAI",
       "identifier": "AIML - Data Operations Program/ Project Manager_gram-project-manager?team=MLAI"
-    },
-    {
-      "title": "Software Development Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200658467-0157/software-development-engineer?team=SFTWR",
-      "identifier": "Software Development Engineer_evelopment-engineer?team=SFTWR"
     },
     {
       "title": "Video Machine Learning Engineer, Audio & Media Technologies",
@@ -87,13 +92,8 @@
       "title": "Senior Software Engineer - Compute",
       "url": "https://jobs.apple.com/en-us/details/200658521-3337/senior-software-engineer-compute?team=SFTWR",
       "identifier": "Senior Software Engineer - Compute_re-engineer-compute?team=SFTWR"
-    },
-    {
-      "title": "On-Device ML Infrastructure Engineer (CoreML Runtime), Graphics, Games & ML",
-      "url": "https://jobs.apple.com/en-us/details/200658596-0836/on-device-ml-infrastructure-engineer-coreml-runtime-graphics-games-ml?team=SFTWR",
-      "identifier": "On-Device ML Infrastructure Engineer (CoreML Runti_e-graphics-games-ml?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-20T22:32:43.994344"
+  "timestamp": "2026-04-20T22:50:00.297072"
 }

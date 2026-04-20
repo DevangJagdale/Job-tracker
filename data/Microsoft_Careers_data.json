@@ -4,19 +4,24 @@
   "total_jobs": 10,
   "jobs": [
     {
+      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 5 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556749397?domain=microsoft.com",
+      "identifier": "Senior Software Engineer\nUnited States, Washington_556749397?domain=microsoft.com"
+    },
+    {
       "title": "Software Engineer\nUnited States, Washington, Redmond\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556856322?domain=microsoft.com",
       "identifier": "Software Engineer\nUnited States, Washington, Redmo_556856322?domain=microsoft.com"
     },
     {
-      "title": "Software Engineer II - BIC Foundations\nUnited States, Washington, Redmond\nPosted 7 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556756098?domain=microsoft.com",
-      "identifier": "Software Engineer II - BIC Foundations\nUnited Stat_556756098?domain=microsoft.com"
-    },
-    {
-      "title": "Software Engineer II-People & Work Intelligence\nUnited States, Washington, Redmond\nPosted 7 hours ago",
+      "title": "Software Engineer II-People & Work Intelligence\nUnited States, Washington, Redmond\nPosted 8 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556749600?domain=microsoft.com",
       "identifier": "Software Engineer II-People & Work Intelligence\nUn_556749600?domain=microsoft.com"
+    },
+    {
+      "title": "Software Engineer II - BIC Foundations\nUnited States, Washington, Redmond\nPosted 8 hours ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556756098?domain=microsoft.com",
+      "identifier": "Software Engineer II - BIC Foundations\nUnited Stat_556756098?domain=microsoft.com"
     },
     {
       "title": "Senior + Principal Software Engineers- Front End Applied AI for Microsoft Threat Protection (MTP)\nUnited States, Washington, Redmond\nPosted 2 days ago",
@@ -47,13 +52,8 @@
       "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 3 days ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556753119?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Washington_556753119?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 3 days ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556859654?domain=microsoft.com",
-      "identifier": "Senior Software Engineer\nUnited States, Washington_556859654?domain=microsoft.com"
     }
   ],
   "job_count_text": "644",
-  "timestamp": "2026-04-20T12:51:03.028131"
+  "timestamp": "2026-04-20T13:08:06.394190"
 }

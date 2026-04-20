@@ -4,6 +4,11 @@
   "total_jobs": 18,
   "jobs": [
     {
+      "title": "Large Machine Learning Model Optimization Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200635928-0836/large-machine-learning-model-optimization-engineer?team=MLAI",
+      "identifier": "Large Machine Learning Model Optimization Engineer_ptimization-engineer?team=MLAI"
+    },
+    {
       "title": "Senior Engineering Manager - Apple Data Platform - Platform Efficiency",
       "url": "https://jobs.apple.com/en-us/details/200658690-0836/senior-engineering-manager-apple-data-platform-platform-efficiency?team=SFTWR",
       "identifier": "Senior Engineering Manager - Apple Data Platform -_platform-efficiency?team=SFTWR"
@@ -87,13 +92,8 @@
       "title": "Site Reliability Engineer \u2014 Human Engineering",
       "url": "https://jobs.apple.com/en-us/details/200658498-0836/site-reliability-engineer-human-engineering?team=SFTWR",
       "identifier": "Site Reliability Engineer \u2014 Human Engineering_r-human-engineering?team=SFTWR"
-    },
-    {
-      "title": "Data Scientist - Synthetic Data and ML Evaluations - Special Projects",
-      "url": "https://jobs.apple.com/en-us/details/200657934-0836/data-scientist-synthetic-data-and-ml-evaluations-special-projects?team=SFTWR",
-      "identifier": "Data Scientist - Synthetic Data and ML Evaluations_ns-special-projects?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-20T17:16:10.577307"
+  "timestamp": "2026-04-20T17:33:17.851376"
 }

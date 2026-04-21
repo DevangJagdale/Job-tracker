@@ -1,17 +1,22 @@
 {
   "page_title": "Search CVS Health Jobs | Find Your Next Career Opportunity",
   "url": "https://jobs.cvshealth.com/us/en/search-results",
-  "total_jobs": 8,
+  "total_jobs": 7,
   "jobs": [
+    {
+      "title": "Staff Software Development Engineer (myPBM)",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0878065/Staff-Software-Development-Engineer-myPBM",
+      "identifier": "Staff Software Development Engineer (myPBM)_are-Development-Engineer-myPBM"
+    },
     {
       "title": "Software Development Engineer",
       "url": "https://jobs.cvshealth.com/us/en/job/R0843852/Software-Development-Engineer",
       "identifier": "Software Development Engineer_/Software-Development-Engineer"
     },
     {
-      "title": "Senior Engineering Manager Conversational AI",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0877783/Senior-Engineering-Manager-Conversational-AI",
-      "identifier": "Senior Engineering Manager Conversational AI_ring-Manager-Conversational-AI"
+      "title": "Staff Software Development Engineer Backend Node.js",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0885130/Staff-Software-Development-Engineer-Backend-Node-js",
+      "identifier": "Staff Software Development Engineer Backend Node.j_pment-Engineer-Backend-Node-js"
     },
     {
       "title": "Principal Engineer Conversational AI",
@@ -19,31 +24,21 @@
       "identifier": "Principal Engineer Conversational AI_pal-Engineer-Conversational-AI"
     },
     {
-      "title": "Senior Software Development Engineer (Java & Cloud)",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0843555/Senior-Software-Development-Engineer-Java-Cloud",
-      "identifier": "Senior Software Development Engineer (Java & Cloud_evelopment-Engineer-Java-Cloud"
-    },
-    {
-      "title": "Manager, Business Analysis",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0882619/Manager-Business-Analysis",
-      "identifier": "Manager, Business Analysis_2619/Manager-Business-Analysis"
-    },
-    {
-      "title": "Principal Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0788986/Principal-Software-Development-Engineer",
-      "identifier": "Principal Software Development Engineer_-Software-Development-Engineer"
-    },
-    {
-      "title": "Staff Software Development Engineer (myPBM)",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0878065/Staff-Software-Development-Engineer-myPBM",
-      "identifier": "Staff Software Development Engineer (myPBM)_are-Development-Engineer-myPBM"
-    },
-    {
       "title": "Traveling Field Service Technician",
       "url": "https://jobs.cvshealth.com/us/en/job/R0790035/Traveling-Field-Service-Technician",
       "identifier": "Traveling Field Service Technician_eling-Field-Service-Technician"
+    },
+    {
+      "title": "Senior Engineering Manager Conversational AI",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0877783/Senior-Engineering-Manager-Conversational-AI",
+      "identifier": "Senior Engineering Manager Conversational AI_ring-Manager-Conversational-AI"
+    },
+    {
+      "title": "Senior Manager - Software Engineering (Health100 Platform)",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0863062/Senior-Manager-Software-Engineering-Health100-Platform",
+      "identifier": "Senior Manager - Software Engineering (Health100 P_Engineering-Health100-Platform"
     }
   ],
   "job_count_text": "51",
-  "timestamp": "2026-04-20T23:42:54.922268"
+  "timestamp": "2026-04-21T00:00:12.270027"
 }

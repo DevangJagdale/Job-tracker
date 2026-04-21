@@ -4,6 +4,11 @@
   "total_jobs": 10,
   "jobs": [
     {
+      "title": "Software Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/41522736",
+      "identifier": "Software Engineer\nBoise, Idaho, United States of A_icron.com/careers/job/41522736"
+    },
+    {
       "title": "New College Grad - Design Engineer\nSan Jose, California, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/40431608",
       "identifier": "New College Grad - Design Engineer\nSan Jose, Calif_icron.com/careers/job/40431608"
@@ -22,11 +27,6 @@
       "title": "Industry 4.0 Analyst\nBoise, Idaho, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/41522688",
       "identifier": "Industry 4.0 Analyst\nBoise, Idaho, United States o_icron.com/careers/job/41522688"
-    },
-    {
-      "title": "Software Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
-      "url": "https://careers.micron.com/careers/job/41522736",
-      "identifier": "Software Engineer\nBoise, Idaho, United States of A_icron.com/careers/job/41522736"
     },
     {
       "title": "Design Characterization Engineer\nSan Jose, California, United States of America\nPosted 4 days ago",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "81",
-  "timestamp": "2026-04-21T00:19:47.244104"
+  "timestamp": "2026-04-21T00:37:04.514423"
 }

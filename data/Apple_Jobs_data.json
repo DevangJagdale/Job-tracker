@@ -4,6 +4,11 @@
   "total_jobs": 12,
   "jobs": [
     {
+      "title": "Engineering Program Manager - Customer Systems",
+      "url": "https://jobs.apple.com/en-us/details/200643826-3956/engineering-program-manager-customer-systems?team=SFTWR",
+      "identifier": "Engineering Program Manager - Customer Systems_er-customer-systems?team=SFTWR"
+    },
+    {
       "title": "AIML- Compliance & Policies Lead, Evaluation",
       "url": "https://jobs.apple.com/en-us/details/200658279-2459/aiml-compliance-policies-lead-evaluation?team=MLAI",
       "identifier": "AIML- Compliance & Policies Lead, Evaluation_cies-lead-evaluation?team=MLAI"
@@ -57,13 +62,8 @@
       "title": "Software & Tools Engineering Project Manager",
       "url": "https://jobs.apple.com/en-us/details/200658487-0157/software-tools-engineering-project-manager?team=SFTWR",
       "identifier": "Software & Tools Engineering Project Manager_ing-project-manager?team=SFTWR"
-    },
-    {
-      "title": "Engineering Project Manager - Health",
-      "url": "https://jobs.apple.com/en-us/details/200659015-0836/engineering-project-manager-health?team=SFTWR",
-      "identifier": "Engineering Project Manager - Health_ject-manager-health?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-21T20:36:27.687669"
+  "timestamp": "2026-04-21T20:53:34.909983"
 }

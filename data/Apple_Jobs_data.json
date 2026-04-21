@@ -4,9 +4,14 @@
   "total_jobs": 12,
   "jobs": [
     {
-      "title": "Staff Software Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200633181-0836/staff-software-engineer?team=SFTWR",
-      "identifier": "Staff Software Engineer_f-software-engineer?team=SFTWR"
+      "title": "Staff Engineer, Flink, Apple Data Platform",
+      "url": "https://jobs.apple.com/en-us/details/200633181-0836/staff-engineer-flink-apple-data-platform?team=SFTWR",
+      "identifier": "Staff Engineer, Flink, Apple Data Platform_apple-data-platform?team=SFTWR"
+    },
+    {
+      "title": "Software Engineer - Creator Studio",
+      "url": "https://jobs.apple.com/en-us/details/200646727-1435/software-engineer-creator-studio?team=SFTWR",
+      "identifier": "Software Engineer - Creator Studio_neer-creator-studio?team=SFTWR"
     },
     {
       "title": "Optical Network Engineer",
@@ -57,13 +62,8 @@
       "title": "Senior Software Engineer \u2014 Video Applications (FX Plug API\u2019s)",
       "url": "https://jobs.apple.com/en-us/details/200658688-0670/senior-software-engineer-video-applications-fx-plug-api-s?team=SFTWR",
       "identifier": "Senior Software Engineer \u2014 Video Applications (FX _tions-fx-plug-api-s?team=SFTWR"
-    },
-    {
-      "title": "AIML - Distinguished Engineer, Foundation Models",
-      "url": "https://jobs.apple.com/en-us/details/200622814-0836/aiml-distinguished-engineer-foundation-models?team=MLAI",
-      "identifier": "AIML - Distinguished Engineer, Foundation Models_er-foundation-models?team=MLAI"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-21T17:03:38.873172"
+  "timestamp": "2026-04-21T17:20:42.378735"
 }

@@ -4,6 +4,11 @@
   "total_jobs": 12,
   "jobs": [
     {
+      "title": "AIML- Compliance & Policies Lead, Evaluation",
+      "url": "https://jobs.apple.com/en-us/details/200658279-2459/aiml-compliance-policies-lead-evaluation?team=MLAI",
+      "identifier": "AIML- Compliance & Policies Lead, Evaluation_cies-lead-evaluation?team=MLAI"
+    },
+    {
       "title": "Senior Software Engineer, Wallet Identity Server",
       "url": "https://jobs.apple.com/en-us/details/200643829-0157/senior-software-engineer-wallet-identity-server?team=SFTWR",
       "identifier": "Senior Software Engineer, Wallet Identity Server_let-identity-server?team=SFTWR"
@@ -57,13 +62,8 @@
       "title": "Engineering Project Manager - Health",
       "url": "https://jobs.apple.com/en-us/details/200659015-0836/engineering-project-manager-health?team=SFTWR",
       "identifier": "Engineering Project Manager - Health_ject-manager-health?team=SFTWR"
-    },
-    {
-      "title": "Software Device Driver Engineer - Core I/O, Core OS",
-      "url": "https://jobs.apple.com/en-us/details/200658892-0157/software-device-driver-engineer-core-i-o-core-os?team=SFTWR",
-      "identifier": "Software Device Driver Engineer - Core I/O, Core O_er-core-i-o-core-os?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-21T20:19:22.049969"
+  "timestamp": "2026-04-21T20:36:27.687669"
 }

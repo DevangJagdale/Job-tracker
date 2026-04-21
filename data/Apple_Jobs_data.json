@@ -4,6 +4,11 @@
   "total_jobs": 17,
   "jobs": [
     {
+      "title": "Software & Tools Engineering Project Manager",
+      "url": "https://jobs.apple.com/en-us/details/200658487-0157/software-tools-engineering-project-manager?team=SFTWR",
+      "identifier": "Software & Tools Engineering Project Manager_ing-project-manager?team=SFTWR"
+    },
+    {
       "title": "Engineering Project Manager - Health",
       "url": "https://jobs.apple.com/en-us/details/200659015-0836/engineering-project-manager-health?team=SFTWR",
       "identifier": "Engineering Project Manager - Health_ject-manager-health?team=SFTWR"
@@ -82,13 +87,8 @@
       "title": "Software Engineer - Distributed Systems, Compute Platform",
       "url": "https://jobs.apple.com/en-us/details/200651673-0836/software-engineer-distributed-systems-compute-platform?team=SFTWR",
       "identifier": "Software Engineer - Distributed Systems, Compute P_ms-compute-platform?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer, Apple Services Engineering",
-      "url": "https://jobs.apple.com/en-us/details/200642870-0836/software-engineer-apple-services-engineering?team=SFTWR",
-      "identifier": "Software Engineer, Apple Services Engineering_ervices-engineering?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-21T00:33:46.712109"
+  "timestamp": "2026-04-21T00:51:01.685889"
 }

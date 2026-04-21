@@ -4,6 +4,11 @@
   "total_jobs": 13,
   "jobs": [
     {
+      "title": "Product Designer - Find My Team",
+      "url": "https://jobs.apple.com/en-us/details/200656998-0836/product-designer-find-my-team?team=SFTWR",
+      "identifier": "Product Designer - Find My Team_signer-find-my-team?team=SFTWR"
+    },
+    {
       "title": "Senior Manager, Business Growth & Planning, Apple Services",
       "url": "https://jobs.apple.com/en-us/details/200659166-0670/senior-manager-business-growth-planning-apple-services?team=OPMFG",
       "identifier": "Senior Manager, Business Growth & Planning, Apple _ning-apple-services?team=OPMFG"
@@ -62,13 +67,8 @@
       "title": "Optical Network Engineer",
       "url": "https://jobs.apple.com/en-us/details/200658911-1025/optical-network-engineer?team=SFTWR",
       "identifier": "Optical Network Engineer_al-network-engineer?team=SFTWR"
-    },
-    {
-      "title": "Senior Network Software Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200658914-1025/senior-network-software-engineer?team=SFTWR",
-      "identifier": "Senior Network Software Engineer_k-software-engineer?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-21T22:53:29.871058"
+  "timestamp": "2026-04-21T23:10:38.203150"
 }

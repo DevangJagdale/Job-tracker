@@ -4,11 +4,6 @@
   "total_jobs": 11,
   "jobs": [
     {
-      "title": "Director, Head of Strategic Operations, US Regulatory Affairs and Public Policy",
-      "url": "https://search.jobs.barclays/job/washington/director-head-of-strategic-operations-us-regulatory-affairs-and-public-policy/13015/94182442576",
-      "identifier": "Director, Head of Strategic Operations, US Regulat_ublic-policy/13015/94182442576"
-    },
-    {
       "title": "Internal Audit Climate Risk, VP",
       "url": "https://search.jobs.barclays/job/new-york/internal-audit-climate-risk-vp/13015/94081886960",
       "identifier": "Internal Audit Climate Risk, VP_mate-risk-vp/13015/94081886960"
@@ -57,8 +52,13 @@
       "title": "Technical Product Owner, AVP",
       "url": "https://search.jobs.barclays/job/whippany/technical-product-owner-avp/13015/94044220176",
       "identifier": "Technical Product Owner, AVP_ct-owner-avp/13015/94044220176"
+    },
+    {
+      "title": "VP, Regulatory Counsel",
+      "url": "https://search.jobs.barclays/job/new-york/vp-regulatory-counsel/13015/94044211680",
+      "identifier": "VP, Regulatory Counsel_tory-counsel/13015/94044211680"
     }
   ],
-  "job_count_text": "122",
-  "timestamp": "2026-04-21T05:37:20.550934"
+  "job_count_text": "119",
+  "timestamp": "2026-04-21T05:54:38.935135"
 }

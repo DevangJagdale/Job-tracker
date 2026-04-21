@@ -1,8 +1,23 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 17,
+  "total_jobs": 12,
   "jobs": [
+    {
+      "title": "Staff Software Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200633181-0836/staff-software-engineer?team=SFTWR",
+      "identifier": "Staff Software Engineer_f-software-engineer?team=SFTWR"
+    },
+    {
+      "title": "Optical Network Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200658911-1025/optical-network-engineer?team=SFTWR",
+      "identifier": "Optical Network Engineer_al-network-engineer?team=SFTWR"
+    },
+    {
+      "title": "Senior Network Software Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200658914-1025/senior-network-software-engineer?team=SFTWR",
+      "identifier": "Senior Network Software Engineer_k-software-engineer?team=SFTWR"
+    },
     {
       "title": "Critical Facilities Technician, Data Center Operations",
       "url": "https://jobs.apple.com/en-us/details/200658730-1902/critical-facilities-technician-data-center-operations?team=SFTWR",
@@ -47,48 +62,8 @@
       "title": "AIML - Distinguished Engineer, Foundation Models",
       "url": "https://jobs.apple.com/en-us/details/200622814-0836/aiml-distinguished-engineer-foundation-models?team=MLAI",
       "identifier": "AIML - Distinguished Engineer, Foundation Models_er-foundation-models?team=MLAI"
-    },
-    {
-      "title": "Software Development Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200658879-0157/software-development-engineer?team=SFTWR",
-      "identifier": "Software Development Engineer_evelopment-engineer?team=SFTWR"
-    },
-    {
-      "title": "Software Development Engineer - Apps, Enterprise Technology Services",
-      "url": "https://jobs.apple.com/en-us/details/200657795-0157/software-development-engineer-apps-enterprise-technology-services?team=SFTWR",
-      "identifier": "Software Development Engineer - Apps, Enterprise T_technology-services?team=SFTWR"
-    },
-    {
-      "title": "Content Engineering Author - Developer Publications",
-      "url": "https://jobs.apple.com/en-us/details/200658937-3337/content-engineering-author-developer-publications?team=SFTWR",
-      "identifier": "Content Engineering Author - Developer Publication_eloper-publications?team=SFTWR"
-    },
-    {
-      "title": "Sr. Engineering Program Manager - Customer Systems",
-      "url": "https://jobs.apple.com/en-us/details/200643926-3956/sr-engineering-program-manager-customer-systems?team=SFTWR",
-      "identifier": "Sr. Engineering Program Manager - Customer Systems_er-customer-systems?team=SFTWR"
-    },
-    {
-      "title": "Large Machine Learning Model Optimization Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200635928-0836/large-machine-learning-model-optimization-engineer?team=MLAI",
-      "identifier": "Large Machine Learning Model Optimization Engineer_ptimization-engineer?team=MLAI"
-    },
-    {
-      "title": "Senior Engineering Manager - Apple Data Platform - Platform Efficiency",
-      "url": "https://jobs.apple.com/en-us/details/200658690-0836/senior-engineering-manager-apple-data-platform-platform-efficiency?team=SFTWR",
-      "identifier": "Senior Engineering Manager - Apple Data Platform -_platform-efficiency?team=SFTWR"
-    },
-    {
-      "title": "AIML - Data Operations Program/ Project Manager",
-      "url": "https://jobs.apple.com/en-us/details/200634945-0836/aiml-data-operations-program-project-manager?team=MLAI",
-      "identifier": "AIML - Data Operations Program/ Project Manager_gram-project-manager?team=MLAI"
-    },
-    {
-      "title": "Video Machine Learning Engineer, Audio & Media Technologies",
-      "url": "https://jobs.apple.com/en-us/details/200653646-3543/video-machine-learning-engineer-audio-media-technologies?team=SFTWR",
-      "identifier": "Video Machine Learning Engineer, Audio & Media Tec_-media-technologies?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-21T16:46:34.731924"
+  "timestamp": "2026-04-21T17:03:38.873172"
 }

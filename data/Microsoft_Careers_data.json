@@ -4,22 +4,32 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 16 minutes ago",
+      "title": "Senior Site Reliability Engineer - CTJ - Poly\nUnited States, Virginia, Reston + 2 more\nPosted 8 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556860739?domain=microsoft.com",
+      "identifier": "Senior Site Reliability Engineer - CTJ - Poly\nUnit_556860739?domain=microsoft.com"
+    },
+    {
+      "title": "Software Engineer\nUnited States, Washington, Redmond\nPosted 30 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556855685?domain=microsoft.com",
+      "identifier": "Software Engineer\nUnited States, Washington, Redmo_556855685?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 33 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556855683?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Washington_556855683?domain=microsoft.com"
     },
     {
-      "title": "Principal Group Engineering Manager - FastTrack\nUnited States, Washington, Redmond\nPosted 19 minutes ago",
+      "title": "Principal Group Engineering Manager - FastTrack\nUnited States, Washington, Redmond\nPosted 36 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556860225?domain=microsoft.com",
       "identifier": "Principal Group Engineering Manager - FastTrack\nUn_556860225?domain=microsoft.com"
     },
     {
-      "title": "Principal Data Scientist\nUnited States, Washington, Redmond\nPosted 25 minutes ago",
+      "title": "Principal Data Scientist\nUnited States, Washington, Redmond\nPosted 42 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556837639?domain=microsoft.com",
       "identifier": "Principal Data Scientist\nUnited States, Washington_556837639?domain=microsoft.com"
     },
     {
-      "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted 32 minutes ago",
+      "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556619931?domain=microsoft.com",
       "identifier": "Principal Software Engineer\nUnited States, Washing_556619931?domain=microsoft.com"
     },
@@ -29,31 +39,21 @@
       "identifier": "Software Engineer II- (GCC\u2011High/DoD)- CTJ- Secret\n_556756267?domain=microsoft.com"
     },
     {
-      "title": "Senior Service Engineer - CTJ - Top Secret\nUnited States, Virginia, Reston + 1 more\nPosted an hour ago",
+      "title": "Senior Service Engineer - CTJ - Top Secret\nUnited States, Virginia, Reston + 1 more\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556859720?domain=microsoft.com",
       "identifier": "Senior Service Engineer - CTJ - Top Secret\nUnited _556859720?domain=microsoft.com"
     },
     {
-      "title": "Principal Software Engineer\nUnited States, Washington, Redmond + 1 more\nPosted an hour ago",
+      "title": "Principal Software Engineer\nUnited States, Washington, Redmond + 1 more\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556642656?domain=microsoft.com",
       "identifier": "Principal Software Engineer\nUnited States, Washing_556642656?domain=microsoft.com"
     },
     {
-      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted an hour ago",
+      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556803975?domain=microsoft.com",
       "identifier": "Software Engineer II\nUnited States, Washington, Re_556803975?domain=microsoft.com"
-    },
-    {
-      "title": "Software Engineer - CTJ - Poly\nUnited States, Washington, Redmond + 1 more\nPosted 11 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556859432?domain=microsoft.com",
-      "identifier": "Software Engineer - CTJ - Poly\nUnited States, Wash_556859432?domain=microsoft.com"
-    },
-    {
-      "title": "Software Engineer II\nUnited States, Multiple Locations, Multiple Locations\nPosted 17 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556649786?domain=microsoft.com",
-      "identifier": "Software Engineer II\nUnited States, Multiple Locat_556649786?domain=microsoft.com"
     }
   ],
-  "job_count_text": "641",
-  "timestamp": "2026-04-21T16:46:18.196388"
+  "job_count_text": "643",
+  "timestamp": "2026-04-21T17:03:22.603219"
 }

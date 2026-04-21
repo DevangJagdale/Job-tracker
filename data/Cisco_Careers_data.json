@@ -1,12 +1,22 @@
 {
   "page_title": "Job Openings - Cisco Careers",
   "url": "https://careers.cisco.com/global/en/search-results?s=1",
-  "total_jobs": 4,
+  "total_jobs": 6,
   "jobs": [
     {
       "title": "Sales Development Representative",
       "url": "https://careers.cisco.com/global/en/job/2006129/Sales-Development-Representative",
       "identifier": "Sales Development Representative_les-Development-Representative"
+    },
+    {
+      "title": "Product Management Specialist II (Full Time) - United States",
+      "url": "https://careers.cisco.com/global/en/job/2004282/Product-Management-Specialist-II-Full-Time-United-States",
+      "identifier": "Product Management Specialist II (Full Time) - Uni_ist-II-Full-Time-United-States"
+    },
+    {
+      "title": "Technical Program Manager II (Full-Time) - United States",
+      "url": "https://careers.cisco.com/global/en/job/2012165/Technical-Program-Manager-II-Full-Time-United-States",
+      "identifier": "Technical Program Manager II (Full-Time) - United _ger-II-Full-Time-United-States"
     },
     {
       "title": "UI/UX Designer I (Full Time) - United States",
@@ -24,6 +34,6 @@
       "identifier": "Sales Development Representative II (Full Time) Un_al-Demand-Center-United-States"
     }
   ],
-  "job_count_text": "4",
-  "timestamp": "2026-04-21T19:29:41.355681"
+  "job_count_text": "6",
+  "timestamp": "2026-04-21T19:46:49.306851"
 }

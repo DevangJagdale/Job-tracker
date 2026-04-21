@@ -1,10 +1,25 @@
 {
   "page_title": "| Microsoft Careers",
   "url": "https://apply.careers.microsoft.com/careers?domain=microsoft.com&start=0&location=United+States&sort_by=timestamp&filter_include_remote=1&filter_profession=software+engineering%2Cresearch%252C%2520applied%252C%2520%2526%2520data%2520sciences",
-  "total_jobs": 8,
+  "total_jobs": 9,
   "jobs": [
     {
-      "title": "Software Engineer - CTJ - Poly\nUnited States, Washington, Redmond + 1 more\nPosted 9 hours ago",
+      "title": "Senior Service Engineer - CTJ - Top Secret\nUnited States, Virginia, Reston + 1 more\nPosted 16 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556859720?domain=microsoft.com",
+      "identifier": "Senior Service Engineer - CTJ - Top Secret\nUnited _556859720?domain=microsoft.com"
+    },
+    {
+      "title": "Principal Software Engineer\nUnited States, Washington, Redmond + 1 more\nPosted 17 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556642656?domain=microsoft.com",
+      "identifier": "Principal Software Engineer\nUnited States, Washing_556642656?domain=microsoft.com"
+    },
+    {
+      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 18 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556803975?domain=microsoft.com",
+      "identifier": "Software Engineer II\nUnited States, Washington, Re_556803975?domain=microsoft.com"
+    },
+    {
+      "title": "Software Engineer - CTJ - Poly\nUnited States, Washington, Redmond + 1 more\nPosted 10 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556859432?domain=microsoft.com",
       "identifier": "Software Engineer - CTJ - Poly\nUnited States, Wash_556859432?domain=microsoft.com"
     },
@@ -32,18 +47,8 @@
       "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 16 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556750009?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Washington_556750009?domain=microsoft.com"
-    },
-    {
-      "title": "Site Reliability Engineer\nUnited States, Washington, Redmond\nPosted 17 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556631210?domain=microsoft.com",
-      "identifier": "Site Reliability Engineer\nUnited States, Washingto_556631210?domain=microsoft.com"
-    },
-    {
-      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 17 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556858025?domain=microsoft.com",
-      "identifier": "Software Engineer II\nUnited States, Washington, Re_556858025?domain=microsoft.com"
     }
   ],
-  "job_count_text": "634",
-  "timestamp": "2026-04-21T15:20:54.213643"
+  "job_count_text": "637",
+  "timestamp": "2026-04-21T15:37:56.958885"
 }

@@ -1,8 +1,23 @@
 {
   "page_title": "Search our Job Opportunities at Barclays",
   "url": "https://search.jobs.barclays/search-jobs/United%20States/13015/2/6252001/39x76/-98x5/50/2",
-  "total_jobs": 11,
+  "total_jobs": 14,
   "jobs": [
+    {
+      "title": "Java Developer",
+      "url": "https://search.jobs.barclays/job/whippany/java-developer/13015/94195076384",
+      "identifier": "Java Developer_va-developer/13015/94195076384"
+    },
+    {
+      "title": "Equities Trading Support",
+      "url": "https://search.jobs.barclays/job/new-york/equities-trading-support/13015/94195076304",
+      "identifier": "Equities Trading Support_ding-support/13015/94195076304"
+    },
+    {
+      "title": "Compliance Advisory - VP",
+      "url": "https://search.jobs.barclays/job/wilmington/compliance-advisory-vp/13015/94195072448",
+      "identifier": "Compliance Advisory - VP_-advisory-vp/13015/94195072448"
+    },
     {
       "title": "Internal Audit Climate Risk, VP",
       "url": "https://search.jobs.barclays/job/new-york/internal-audit-climate-risk-vp/13015/94081886960",
@@ -59,6 +74,6 @@
       "identifier": "VP, Regulatory Counsel_tory-counsel/13015/94044211680"
     }
   ],
-  "job_count_text": "119",
-  "timestamp": "2026-04-21T11:28:31.229732"
+  "job_count_text": "118",
+  "timestamp": "2026-04-21T11:45:35.752950"
 }

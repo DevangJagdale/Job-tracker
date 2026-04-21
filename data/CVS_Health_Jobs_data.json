@@ -1,7 +1,7 @@
 {
   "page_title": "Search CVS Health Jobs | Find Your Next Career Opportunity",
   "url": "https://jobs.cvshealth.com/us/en/search-results",
-  "total_jobs": 7,
+  "total_jobs": 8,
   "jobs": [
     {
       "title": "Staff Software Development Engineer (myPBM)",
@@ -19,6 +19,11 @@
       "identifier": "Staff Software Development Engineer Backend Node.j_pment-Engineer-Backend-Node-js"
     },
     {
+      "title": "Sr. Analyst, Client Data",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0886875/Sr-Analyst-Client-Data",
+      "identifier": "Sr. Analyst, Client Data_0886875/Sr-Analyst-Client-Data"
+    },
+    {
       "title": "Principal Engineer Conversational AI",
       "url": "https://jobs.cvshealth.com/us/en/job/R0877774/Principal-Engineer-Conversational-AI",
       "identifier": "Principal Engineer Conversational AI_pal-Engineer-Conversational-AI"
@@ -29,16 +34,16 @@
       "identifier": "Traveling Field Service Technician_eling-Field-Service-Technician"
     },
     {
+      "title": "Senior Manager, Reimbursement Modeling & Analytics",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0887558/Senior-Manager-Reimbursement-Modeling-Analytics",
+      "identifier": "Senior Manager, Reimbursement Modeling & Analytics_imbursement-Modeling-Analytics"
+    },
+    {
       "title": "Senior Engineering Manager Conversational AI",
       "url": "https://jobs.cvshealth.com/us/en/job/R0877783/Senior-Engineering-Manager-Conversational-AI",
       "identifier": "Senior Engineering Manager Conversational AI_ring-Manager-Conversational-AI"
-    },
-    {
-      "title": "Senior Manager - Software Engineering (Health100 Platform)",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0863062/Senior-Manager-Software-Engineering-Health100-Platform",
-      "identifier": "Senior Manager - Software Engineering (Health100 P_Engineering-Health100-Platform"
     }
   ],
-  "job_count_text": "51",
-  "timestamp": "2026-04-21T03:18:19.348609"
+  "job_count_text": "249",
+  "timestamp": "2026-04-21T03:35:35.935966"
 }

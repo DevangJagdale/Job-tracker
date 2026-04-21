@@ -1,8 +1,23 @@
 {
   "page_title": "Search our Job Opportunities at Barclays",
   "url": "https://search.jobs.barclays/search-jobs/United%20States/13015/2/6252001/39x76/-98x5/50/2",
-  "total_jobs": 14,
+  "total_jobs": 12,
   "jobs": [
+    {
+      "title": "Technical Delivery Manager",
+      "url": "https://search.jobs.barclays/job/whippany/technical-delivery-manager/13015/94220242176",
+      "identifier": "Technical Delivery Manager_very-manager/13015/94220242176"
+    },
+    {
+      "title": "Senior Business Analyst \u2013 AVP",
+      "url": "https://search.jobs.barclays/job/whippany/senior-business-analyst-avp/13015/94220236352",
+      "identifier": "Senior Business Analyst \u2013 AVP_-analyst-avp/13015/94220236352"
+    },
+    {
+      "title": "Senior BA/PM VP - Prime Front Office Risk & PnL",
+      "url": "https://search.jobs.barclays/job/whippany/senior-ba-pm-vp-prime-front-office-risk-and-pnl/13015/94220226544",
+      "identifier": "Senior BA/PM VP - Prime Front Office Risk & PnL_risk-and-pnl/13015/94220226544"
+    },
     {
       "title": "Java Developer",
       "url": "https://search.jobs.barclays/job/whippany/java-developer/13015/94195076384",
@@ -47,33 +62,8 @@
       "title": "DCW M365 Power Platform / Azure Developer",
       "url": "https://search.jobs.barclays/job/whippany/dcw-m365-power-platform-azure-developer/13015/94069397632",
       "identifier": "DCW M365 Power Platform / Azure Developer_re-developer/13015/94069397632"
-    },
-    {
-      "title": "DCW Content Management Specialist",
-      "url": "https://search.jobs.barclays/job/whippany/dcw-content-management-specialist/13015/94069397472",
-      "identifier": "DCW Content Management Specialist_t-specialist/13015/94069397472"
-    },
-    {
-      "title": "Securitized Products Trading & Sales Assistant",
-      "url": "https://search.jobs.barclays/job/new-york/securitized-products-trading-and-sales-assistant/13015/94069397088",
-      "identifier": "Securitized Products Trading & Sales Assistant_es-assistant/13015/94069397088"
-    },
-    {
-      "title": "Counterparty Credit Risk - AVP",
-      "url": "https://search.jobs.barclays/job/new-york/counterparty-credit-risk-avp/13015/94044220256",
-      "identifier": "Counterparty Credit Risk - AVP_dit-risk-avp/13015/94044220256"
-    },
-    {
-      "title": "Technical Product Owner, AVP",
-      "url": "https://search.jobs.barclays/job/whippany/technical-product-owner-avp/13015/94044220176",
-      "identifier": "Technical Product Owner, AVP_ct-owner-avp/13015/94044220176"
-    },
-    {
-      "title": "VP, Regulatory Counsel",
-      "url": "https://search.jobs.barclays/job/new-york/vp-regulatory-counsel/13015/94044211680",
-      "identifier": "VP, Regulatory Counsel_tory-counsel/13015/94044211680"
     }
   ],
-  "job_count_text": "118",
-  "timestamp": "2026-04-21T17:37:13.676204"
+  "job_count_text": "121",
+  "timestamp": "2026-04-21T17:54:22.922623"
 }

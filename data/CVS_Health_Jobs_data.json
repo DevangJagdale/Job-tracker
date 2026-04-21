@@ -19,11 +19,6 @@
       "identifier": "Senior Manager, Quality Assurance_nior-Manager-Quality-Assurance"
     },
     {
-      "title": "Manager, Business Analysis",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0882619/Manager-Business-Analysis",
-      "identifier": "Manager, Business Analysis_2619/Manager-Business-Analysis"
-    },
-    {
       "title": "Traveling Field Service Technician",
       "url": "https://jobs.cvshealth.com/us/en/job/R0790035/Traveling-Field-Service-Technician",
       "identifier": "Traveling Field Service Technician_eling-Field-Service-Technician"
@@ -32,6 +27,11 @@
       "title": "Manger - Business Analysis",
       "url": "https://jobs.cvshealth.com/us/en/job/R0888637/Manger-Business-Analysis",
       "identifier": "Manger - Business Analysis_88637/Manger-Business-Analysis"
+    },
+    {
+      "title": "Manager, Business Analysis",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0882619/Manager-Business-Analysis",
+      "identifier": "Manager, Business Analysis_2619/Manager-Business-Analysis"
     },
     {
       "title": "Manager Application Development - Clinical UM Automation",
@@ -45,5 +45,5 @@
     }
   ],
   "job_count_text": "31",
-  "timestamp": "2026-04-21T08:56:04.396659"
+  "timestamp": "2026-04-21T09:13:11.544293"
 }

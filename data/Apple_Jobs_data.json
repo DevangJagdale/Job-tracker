@@ -4,6 +4,11 @@
   "total_jobs": 17,
   "jobs": [
     {
+      "title": "Senior ML Infrastructure Engineer - VE Algorithms",
+      "url": "https://jobs.apple.com/en-us/details/200658630-3543/senior-ml-infrastructure-engineer-ve-algorithms?team=MLAI",
+      "identifier": "Senior ML Infrastructure Engineer - VE Algorithms_gineer-ve-algorithms?team=MLAI"
+    },
+    {
       "title": "Software & Tools Engineering Project Manager",
       "url": "https://jobs.apple.com/en-us/details/200658487-0157/software-tools-engineering-project-manager?team=SFTWR",
       "identifier": "Software & Tools Engineering Project Manager_ing-project-manager?team=SFTWR"
@@ -82,13 +87,8 @@
       "title": "Quality Automation Engineer, Rights & Pricing- Partner Onboarding Business",
       "url": "https://jobs.apple.com/en-us/details/200656089-0836/quality-automation-engineer-rights-pricing-partner-onboarding-business?team=SFTWR",
       "identifier": "Quality Automation Engineer, Rights & Pricing- Par_onboarding-business?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer - Distributed Systems, Compute Platform",
-      "url": "https://jobs.apple.com/en-us/details/200651673-0836/software-engineer-distributed-systems-compute-platform?team=SFTWR",
-      "identifier": "Software Engineer - Distributed Systems, Compute P_ms-compute-platform?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-21T01:42:54.329191"
+  "timestamp": "2026-04-21T02:00:11.898109"
 }

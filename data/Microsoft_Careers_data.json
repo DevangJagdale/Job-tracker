@@ -4,7 +4,12 @@
   "total_jobs": 8,
   "jobs": [
     {
-      "title": "Software Engineer II\nUnited States, Multiple Locations, Multiple Locations\nPosted 6 hours ago",
+      "title": "Software Engineer - CTJ - Poly\nUnited States, Washington, Redmond + 1 more\nPosted 25 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556859432?domain=microsoft.com",
+      "identifier": "Software Engineer - CTJ - Poly\nUnited States, Wash_556859432?domain=microsoft.com"
+    },
+    {
+      "title": "Software Engineer II\nUnited States, Multiple Locations, Multiple Locations\nPosted 7 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556649786?domain=microsoft.com",
       "identifier": "Software Engineer II\nUnited States, Multiple Locat_556649786?domain=microsoft.com"
     },
@@ -37,13 +42,8 @@
       "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 8 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556858025?domain=microsoft.com",
       "identifier": "Software Engineer II\nUnited States, Washington, Re_556858025?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Software Engineer - Azure Storage\nUnited States, Multiple Locations, Multiple Locations\nPosted 8 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556855993?domain=microsoft.com",
-      "identifier": "Senior Software Engineer - Azure Storage\nUnited St_556855993?domain=microsoft.com"
     }
   ],
-  "job_count_text": "650",
-  "timestamp": "2026-04-21T06:12:12.627019"
+  "job_count_text": "651",
+  "timestamp": "2026-04-21T06:29:26.312820"
 }

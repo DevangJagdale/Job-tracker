@@ -1,8 +1,28 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 13,
+  "total_jobs": 16,
   "jobs": [
+    {
+      "title": "Siri, Eval Architect Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200659214-0836/siri-eval-architect-engineer?team=SFTWR",
+      "identifier": "Siri, Eval Architect Engineer_-architect-engineer?team=SFTWR"
+    },
+    {
+      "title": "Staff Machine Learning Platform Engineer, AI Evaluation",
+      "url": "https://jobs.apple.com/en-us/details/200659247-3337/staff-machine-learning-platform-engineer-ai-evaluation?team=MLAI",
+      "identifier": "Staff Machine Learning Platform Engineer, AI Evalu_gineer-ai-evaluation?team=MLAI"
+    },
+    {
+      "title": "UI Engineer, App Store",
+      "url": "https://jobs.apple.com/en-us/details/200659215-3577/ui-engineer-app-store?team=SFTWR",
+      "identifier": "UI Engineer, App Store_-engineer-app-store?team=SFTWR"
+    },
+    {
+      "title": "Software Engineer - SOC Power Management, Core OS",
+      "url": "https://jobs.apple.com/en-us/details/200659248-0157/software-engineer-soc-power-management-core-os?team=SFTWR",
+      "identifier": "Software Engineer - SOC Power Management, Core OS_-management-core-os?team=SFTWR"
+    },
     {
       "title": "Product Designer - Find My Team",
       "url": "https://jobs.apple.com/en-us/details/200656998-0836/product-designer-find-my-team?team=SFTWR",
@@ -62,13 +82,8 @@
       "title": "Software Engineer - Creator Studio",
       "url": "https://jobs.apple.com/en-us/details/200646727-1435/software-engineer-creator-studio?team=SFTWR",
       "identifier": "Software Engineer - Creator Studio_neer-creator-studio?team=SFTWR"
-    },
-    {
-      "title": "Optical Network Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200658911-1025/optical-network-engineer?team=SFTWR",
-      "identifier": "Optical Network Engineer_al-network-engineer?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-21T23:10:38.203150"
+  "timestamp": "2026-04-21T23:27:43.477917"
 }

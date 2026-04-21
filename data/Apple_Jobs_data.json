@@ -4,6 +4,16 @@
   "total_jobs": 12,
   "jobs": [
     {
+      "title": "Senior Software Engineer, Wallet Identity Server",
+      "url": "https://jobs.apple.com/en-us/details/200643829-0157/senior-software-engineer-wallet-identity-server?team=SFTWR",
+      "identifier": "Senior Software Engineer, Wallet Identity Server_let-identity-server?team=SFTWR"
+    },
+    {
+      "title": "Senior Software Engineer - Distributed Systems",
+      "url": "https://jobs.apple.com/en-us/details/200659174-0836/senior-software-engineer-distributed-systems?team=SFTWR",
+      "identifier": "Senior Software Engineer - Distributed Systems_distributed-systems?team=SFTWR"
+    },
+    {
       "title": "Staff Engineer, Flink, Apple Data Platform",
       "url": "https://jobs.apple.com/en-us/details/200633181-3337/staff-engineer-flink-apple-data-platform?team=SFTWR",
       "identifier": "Staff Engineer, Flink, Apple Data Platform_apple-data-platform?team=SFTWR"
@@ -52,18 +62,8 @@
       "title": "Software Device Driver Engineer - Core I/O, Core OS",
       "url": "https://jobs.apple.com/en-us/details/200658892-0157/software-device-driver-engineer-core-i-o-core-os?team=SFTWR",
       "identifier": "Software Device Driver Engineer - Core I/O, Core O_er-core-i-o-core-os?team=SFTWR"
-    },
-    {
-      "title": "Xcode Source Editor Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200656953-0836/xcode-source-editor-engineer?team=SFTWR",
-      "identifier": "Xcode Source Editor Engineer_rce-editor-engineer?team=SFTWR"
-    },
-    {
-      "title": "Senior Software Engineer \u2014 Video Applications (FX Plug API\u2019s)",
-      "url": "https://jobs.apple.com/en-us/details/200658688-0670/senior-software-engineer-video-applications-fx-plug-api-s?team=SFTWR",
-      "identifier": "Senior Software Engineer \u2014 Video Applications (FX _tions-fx-plug-api-s?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-21T20:02:14.212220"
+  "timestamp": "2026-04-21T20:19:22.049969"
 }

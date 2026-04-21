@@ -4,12 +4,17 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Principal Applied AI Engineer\nUnited States, Washington, Redmond\nPosted 32 minutes ago",
+      "title": "Software Engineer\nUnited States, Washington, Redmond\nPosted 16 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556746655?domain=microsoft.com",
+      "identifier": "Software Engineer\nUnited States, Washington, Redmo_556746655?domain=microsoft.com"
+    },
+    {
+      "title": "Principal Applied AI Engineer\nUnited States, Washington, Redmond\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556851176?domain=microsoft.com",
       "identifier": "Principal Applied AI Engineer\nUnited States, Washi_556851176?domain=microsoft.com"
     },
     {
-      "title": "Senior Site Reliability Engineer - CTJ - Poly\nUnited States, Virginia, Reston + 2 more\nPosted an hour ago",
+      "title": "Senior Site Reliability Engineer - CTJ - Poly\nUnited States, Virginia, Reston + 2 more\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556860739?domain=microsoft.com",
       "identifier": "Senior Site Reliability Engineer - CTJ - Poly\nUnit_556860739?domain=microsoft.com"
     },
@@ -47,13 +52,8 @@
       "title": "Senior Service Engineer - CTJ - Top Secret\nUnited States, Virginia, Reston + 1 more\nPosted 3 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556859720?domain=microsoft.com",
       "identifier": "Senior Service Engineer - CTJ - Top Secret\nUnited _556859720?domain=microsoft.com"
-    },
-    {
-      "title": "Principal Software Engineer\nUnited States, Washington, Redmond + 1 more\nPosted 3 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556642656?domain=microsoft.com",
-      "identifier": "Principal Software Engineer\nUnited States, Washing_556642656?domain=microsoft.com"
     }
   ],
-  "job_count_text": "643",
-  "timestamp": "2026-04-21T18:11:46.103126"
+  "job_count_text": "644",
+  "timestamp": "2026-04-21T18:28:53.338290"
 }

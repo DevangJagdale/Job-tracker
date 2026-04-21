@@ -4,6 +4,16 @@
   "total_jobs": 12,
   "jobs": [
     {
+      "title": "Engineering Manager, Test Automation \u2013 Apple Maps",
+      "url": "https://jobs.apple.com/en-us/details/200648418-0836/engineering-manager-test-automation-apple-maps?team=SFTWR",
+      "identifier": "Engineering Manager, Test Automation \u2013 Apple Maps_tomation-apple-maps?team=SFTWR"
+    },
+    {
+      "title": "AirPlay Third-Party Engineering Manager",
+      "url": "https://jobs.apple.com/en-us/details/200653930-3543/airplay-third-party-engineering-manager?team=SFTWR",
+      "identifier": "AirPlay Third-Party Engineering Manager_engineering-manager?team=SFTWR"
+    },
+    {
       "title": "Senior Backend Software Engineer - Apple TV Sports",
       "url": "https://jobs.apple.com/en-us/details/200635027-2459/senior-backend-software-engineer-apple-tv-sports?team=SFTWR",
       "identifier": "Senior Backend Software Engineer - Apple TV Sports_eer-apple-tv-sports?team=SFTWR"
@@ -52,18 +62,8 @@
       "title": "Senior Network Software Engineer",
       "url": "https://jobs.apple.com/en-us/details/200658914-1025/senior-network-software-engineer?team=SFTWR",
       "identifier": "Senior Network Software Engineer_k-software-engineer?team=SFTWR"
-    },
-    {
-      "title": "Critical Facilities Technician, Data Center Operations",
-      "url": "https://jobs.apple.com/en-us/details/200658730-1902/critical-facilities-technician-data-center-operations?team=SFTWR",
-      "identifier": "Critical Facilities Technician, Data Center Operat_a-center-operations?team=SFTWR"
-    },
-    {
-      "title": "Data Center Technician, Data Center Operations",
-      "url": "https://jobs.apple.com/en-us/details/200659002-6172/data-center-technician-data-center-operations?team=SFTWR",
-      "identifier": "Data Center Technician, Data Center Operations_a-center-operations?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-21T21:27:52.341553"
+  "timestamp": "2026-04-21T21:45:02.948114"
 }

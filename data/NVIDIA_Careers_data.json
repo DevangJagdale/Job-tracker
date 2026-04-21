@@ -1,7 +1,7 @@
 {
   "page_title": "Search for Jobs",
   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite?locationCountry=bc33aa3152ec42d4995f4791a106ed09&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&workerSubType=ab40a98049581037a3ada55b087049b7",
-  "total_jobs": 15,
+  "total_jobs": 17,
   "jobs": [
     {
       "title": "CPU Design Engineer - New College Grad 2026",
@@ -77,8 +77,18 @@
       "title": "GPU Architecture Engineer - New College Grad 2026",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/GPU-Architecture-Engineer---New-College-Grad-2026_JR2014794-1?locationCountry=bc33aa3152ec42d4995f4791a106ed09&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&workerSubType=ab40a98049581037a3ada55b087049b7",
       "identifier": "GPU Architecture Engineer - New College Grad 2026_40a98049581037a3ada55b087049b7"
+    },
+    {
+      "title": "DL Algorithms Engineer - Cosmos - New College Graduate 2026",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/DL-Algorithms-Engineer---Cosmos----New-College-Graduate-2026_JR2010848-1?locationCountry=bc33aa3152ec42d4995f4791a106ed09&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&workerSubType=ab40a98049581037a3ada55b087049b7",
+      "identifier": "DL Algorithms Engineer - Cosmos - New College Grad_40a98049581037a3ada55b087049b7"
+    },
+    {
+      "title": "AI Chip Design Engineer - New College Grad 2026",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Chip-Design-Engineer---New-College-Grad-2026_JR2015487?locationCountry=bc33aa3152ec42d4995f4791a106ed09&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&workerSubType=ab40a98049581037a3ada55b087049b7",
+      "identifier": "AI Chip Design Engineer - New College Grad 2026_40a98049581037a3ada55b087049b7"
     }
   ],
-  "job_count_text": "57",
-  "timestamp": "2026-04-21T20:58:36.456011"
+  "job_count_text": "55",
+  "timestamp": "2026-04-21T21:15:43.297110"
 }

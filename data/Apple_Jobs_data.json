@@ -4,6 +4,11 @@
   "total_jobs": 12,
   "jobs": [
     {
+      "title": "Engineering Project Manager (SAP), IS&T Enterprise Systems",
+      "url": "https://jobs.apple.com/en-us/details/200645208-0157/engineering-project-manager-sap-is-t-enterprise-systems?team=SFTWR",
+      "identifier": "Engineering Project Manager (SAP), IS&T Enterprise_-enterprise-systems?team=SFTWR"
+    },
+    {
       "title": "Engineering Program Manager - Customer Systems",
       "url": "https://jobs.apple.com/en-us/details/200643826-3956/engineering-program-manager-customer-systems?team=SFTWR",
       "identifier": "Engineering Program Manager - Customer Systems_er-customer-systems?team=SFTWR"
@@ -57,13 +62,8 @@
       "title": "Senior ML Infrastructure Engineer - VE Algorithms",
       "url": "https://jobs.apple.com/en-us/details/200658630-3543/senior-ml-infrastructure-engineer-ve-algorithms?team=MLAI",
       "identifier": "Senior ML Infrastructure Engineer - VE Algorithms_gineer-ve-algorithms?team=MLAI"
-    },
-    {
-      "title": "Software & Tools Engineering Project Manager",
-      "url": "https://jobs.apple.com/en-us/details/200658487-0157/software-tools-engineering-project-manager?team=SFTWR",
-      "identifier": "Software & Tools Engineering Project Manager_ing-project-manager?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-21T20:53:34.909983"
+  "timestamp": "2026-04-21T21:10:44.420169"
 }

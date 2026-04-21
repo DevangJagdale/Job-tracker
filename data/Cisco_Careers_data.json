@@ -1,8 +1,13 @@
 {
   "page_title": "Job Openings - Cisco Careers",
   "url": "https://careers.cisco.com/global/en/search-results?s=1",
-  "total_jobs": 3,
+  "total_jobs": 4,
   "jobs": [
+    {
+      "title": "Sales Development Representative",
+      "url": "https://careers.cisco.com/global/en/job/2006129/Sales-Development-Representative",
+      "identifier": "Sales Development Representative_les-Development-Representative"
+    },
     {
       "title": "UI/UX Designer I (Full Time) - United States",
       "url": "https://careers.cisco.com/global/en/job/2009286/UI-UX-Designer-I-Full-Time-United-States",
@@ -19,6 +24,6 @@
       "identifier": "Sales Development Representative II (Full Time) Un_al-Demand-Center-United-States"
     }
   ],
-  "job_count_text": "3",
-  "timestamp": "2026-04-21T17:56:40.575972"
+  "job_count_text": "4",
+  "timestamp": "2026-04-21T18:13:47.781878"
 }

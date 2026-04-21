@@ -1,13 +1,8 @@
 {
   "page_title": "Job Openings - Cisco Careers",
   "url": "https://careers.cisco.com/global/en/search-results?s=1",
-  "total_jobs": 4,
+  "total_jobs": 3,
   "jobs": [
-    {
-      "title": "Splunk Business Development Representative",
-      "url": "https://careers.cisco.com/global/en/job/2003745/Splunk-Business-Development-Representative",
-      "identifier": "Splunk Business Development Representative_ess-Development-Representative"
-    },
     {
       "title": "UI/UX Designer I (Full Time) - United States",
       "url": "https://careers.cisco.com/global/en/job/2009286/UI-UX-Designer-I-Full-Time-United-States",
@@ -24,6 +19,6 @@
       "identifier": "Sales Development Representative II (Full Time) Un_al-Demand-Center-United-States"
     }
   ],
-  "job_count_text": "4",
-  "timestamp": "2026-04-21T14:48:44.174055"
+  "job_count_text": "3",
+  "timestamp": "2026-04-21T15:05:50.343195"
 }

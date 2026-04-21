@@ -4,6 +4,16 @@
   "total_jobs": 20,
   "jobs": [
     {
+      "title": "Asset & Wealth Management-Cloud Engineer-Analyst-Dallas\nDallas\u00b7United States\n\u00b7Analyst",
+      "url": "https://higher.gs.com/roles/168769",
+      "identifier": "Asset & Wealth Management-Cloud Engineer-Analyst-D_s://higher.gs.com/roles/168769"
+    },
+    {
+      "title": "Asset & Wealth Management-Cloud SRE Engineer-Associate-Dallas\nDallas\u00b7United States\n\u00b7Associate",
+      "url": "https://higher.gs.com/roles/168763",
+      "identifier": "Asset & Wealth Management-Cloud SRE Engineer-Assoc_s://higher.gs.com/roles/168763"
+    },
+    {
       "title": "AWM, Marcus by Goldman Sachs, Pricing & Analytics, Analyst, Richardson, TX\nRichardson\u00b7United States\n\u00b7Analyst",
       "url": "https://higher.gs.com/roles/151793",
       "identifier": "AWM, Marcus by Goldman Sachs, Pricing & Analytics,_s://higher.gs.com/roles/151793"
@@ -92,18 +102,8 @@
       "title": "Software Engineer, Global Banking & Markets, Investment Banking\nDallas\u00b7United States\n\u00b7Associate",
       "url": "https://higher.gs.com/roles/161630",
       "identifier": "Software Engineer, Global Banking & Markets, Inves_s://higher.gs.com/roles/161630"
-    },
-    {
-      "title": "Asset & Wealth Management-Front-End Developer -Associate-Dallas\nDallas\u00b7United States\n\u00b7Associate",
-      "url": "https://higher.gs.com/roles/167475",
-      "identifier": "Asset & Wealth Management-Front-End Developer -Ass_s://higher.gs.com/roles/167475"
-    },
-    {
-      "title": "Asset & Wealth Management - Software Engineer - Associate - Dallas\nDallas\u00b7United States\n\u00b7Associate",
-      "url": "https://higher.gs.com/roles/167758",
-      "identifier": "Asset & Wealth Management - Software Engineer - As_s://higher.gs.com/roles/167758"
     }
   ],
-  "job_count_text": "50",
-  "timestamp": "2026-04-21T22:35:33.323530"
+  "job_count_text": "52",
+  "timestamp": "2026-04-21T22:52:39.912919"
 }

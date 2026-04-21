@@ -4,24 +4,24 @@
   "total_jobs": 8,
   "jobs": [
     {
-      "title": "Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0843852/Software-Development-Engineer",
-      "identifier": "Software Development Engineer_/Software-Development-Engineer"
+      "title": "Manager - Budget Management",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0887200/Manager-Budget-Management",
+      "identifier": "Manager - Budget Management_7200/Manager-Budget-Management"
     },
     {
-      "title": "Senior Engineering Manager Conversational AI",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0877783/Senior-Engineering-Manager-Conversational-AI",
-      "identifier": "Senior Engineering Manager Conversational AI_ring-Manager-Conversational-AI"
+      "title": "Senior Compute Engineer (Apple Platforms and Automation)",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0878389/Senior-Compute-Engineer-Apple-Platforms-and-Automation",
+      "identifier": "Senior Compute Engineer (Apple Platforms and Autom_Apple-Platforms-and-Automation"
     },
     {
-      "title": "Principal Engineer Conversational AI",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0877774/Principal-Engineer-Conversational-AI",
-      "identifier": "Principal Engineer Conversational AI_pal-Engineer-Conversational-AI"
+      "title": "Senior Manager, Quality Assurance",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0833306/Senior-Manager-Quality-Assurance",
+      "identifier": "Senior Manager, Quality Assurance_nior-Manager-Quality-Assurance"
     },
     {
-      "title": "Senior Software Development Engineer (Java & Cloud)",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0843555/Senior-Software-Development-Engineer-Java-Cloud",
-      "identifier": "Senior Software Development Engineer (Java & Cloud_evelopment-Engineer-Java-Cloud"
+      "title": "Manger - Business Analysis",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0888637/Manger-Business-Analysis",
+      "identifier": "Manger - Business Analysis_88637/Manger-Business-Analysis"
     },
     {
       "title": "Manager, Business Analysis",
@@ -29,21 +29,21 @@
       "identifier": "Manager, Business Analysis_2619/Manager-Business-Analysis"
     },
     {
-      "title": "Principal Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0788986/Principal-Software-Development-Engineer",
-      "identifier": "Principal Software Development Engineer_-Software-Development-Engineer"
-    },
-    {
-      "title": "Staff Software Development Engineer (myPBM)",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0878065/Staff-Software-Development-Engineer-myPBM",
-      "identifier": "Staff Software Development Engineer (myPBM)_are-Development-Engineer-myPBM"
-    },
-    {
       "title": "Traveling Field Service Technician",
       "url": "https://jobs.cvshealth.com/us/en/job/R0790035/Traveling-Field-Service-Technician",
       "identifier": "Traveling Field Service Technician_eling-Field-Service-Technician"
+    },
+    {
+      "title": "Manager Application Development - Clinical UM Automation",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0857433/Manager-Application-Development-Clinical-UM-Automation",
+      "identifier": "Manager Application Development - Clinical UM Auto_lopment-Clinical-UM-Automation"
+    },
+    {
+      "title": "Field Technician",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0870653/Field-Technician",
+      "identifier": "Field Technician_/job/R0870653/Field-Technician"
     }
   ],
-  "job_count_text": "51",
-  "timestamp": "2026-04-21T05:56:15.399046"
+  "job_count_text": "31",
+  "timestamp": "2026-04-21T06:13:31.049343"
 }

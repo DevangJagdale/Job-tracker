@@ -4,6 +4,11 @@
   "total_jobs": 17,
   "jobs": [
     {
+      "title": "Critical Facilities Technician, Data Center Operations",
+      "url": "https://jobs.apple.com/en-us/details/200658730-1902/critical-facilities-technician-data-center-operations?team=SFTWR",
+      "identifier": "Critical Facilities Technician, Data Center Operat_a-center-operations?team=SFTWR"
+    },
+    {
       "title": "Data Center Technician, Data Center Operations",
       "url": "https://jobs.apple.com/en-us/details/200659002-6172/data-center-technician-data-center-operations?team=SFTWR",
       "identifier": "Data Center Technician, Data Center Operations_a-center-operations?team=SFTWR"
@@ -82,13 +87,8 @@
       "title": "Video Machine Learning Engineer, Audio & Media Technologies",
       "url": "https://jobs.apple.com/en-us/details/200653646-3543/video-machine-learning-engineer-audio-media-technologies?team=SFTWR",
       "identifier": "Video Machine Learning Engineer, Audio & Media Tec_-media-technologies?team=SFTWR"
-    },
-    {
-      "title": "Machine Learning Engineering Manager - On device modeling",
-      "url": "https://jobs.apple.com/en-us/details/200658735-3760/machine-learning-engineering-manager-on-device-modeling?team=MLAI",
-      "identifier": "Machine Learning Engineering Manager - On device m_r-on-device-modeling?team=MLAI"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-21T05:55:13.087509"
+  "timestamp": "2026-04-21T06:12:28.725630"
 }

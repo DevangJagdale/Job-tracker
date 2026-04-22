@@ -4,6 +4,11 @@
   "total_jobs": 6,
   "jobs": [
     {
+      "title": "Machine Learning Engineer \u2013 Recommendations & Personalization (Feature Engineering)",
+      "url": "https://jobs.apple.com/en-us/details/200659262-3337/machine-learning-engineer-recommendations-personalization-feature-engineering?team=MLAI",
+      "identifier": "Machine Learning Engineer \u2013 Recommendations & Pers_-feature-engineering?team=MLAI"
+    },
+    {
       "title": "Sr. Software Engineer, Creativity Apps",
       "url": "https://jobs.apple.com/en-us/details/200649840-0670/sr-software-engineer-creativity-apps?team=SFTWR",
       "identifier": "Sr. Software Engineer, Creativity Apps_eer-creativity-apps?team=SFTWR"
@@ -24,16 +29,11 @@
       "identifier": "Platform Software Engineer, Infrastructure Service_astructure-services?team=SFTWR"
     },
     {
-      "title": "Machine Learning Engineer \u2013 Recommendations & Personalization (Feature Engineering)",
-      "url": "https://jobs.apple.com/en-us/details/200659262-3337/machine-learning-engineer-recommendations-personalization-feature-engineering?team=MLAI",
-      "identifier": "Machine Learning Engineer \u2013 Recommendations & Pers_-feature-engineering?team=MLAI"
-    },
-    {
       "title": "ML Engineer - Automated Evaluation and Adversarial Design",
       "url": "https://jobs.apple.com/en-us/details/200657970-0670/ml-engineer-automated-evaluation-and-adversarial-design?team=SFTWR",
       "identifier": "ML Engineer - Automated Evaluation and Adversarial_-adversarial-design?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-22T15:06:23.553474"
+  "timestamp": "2026-04-22T15:23:31.748007"
 }

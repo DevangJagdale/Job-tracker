@@ -4,11 +4,6 @@
   "total_jobs": 8,
   "jobs": [
     {
-      "title": "Product Management Specialist II (Full Time) - United States",
-      "url": "https://careers.cisco.com/global/en/job/2004282/Product-Management-Specialist-II-Full-Time-United-States",
-      "identifier": "Product Management Specialist II (Full Time) - Uni_ist-II-Full-Time-United-States"
-    },
-    {
       "title": "Sales Development Representative",
       "url": "https://careers.cisco.com/global/en/job/2006129/Sales-Development-Representative",
       "identifier": "Sales Development Representative_les-Development-Representative"
@@ -17,6 +12,11 @@
       "title": "Technical Program Manager II (Full-Time) - United States",
       "url": "https://careers.cisco.com/global/en/job/2012165/Technical-Program-Manager-II-Full-Time-United-States",
       "identifier": "Technical Program Manager II (Full-Time) - United _ger-II-Full-Time-United-States"
+    },
+    {
+      "title": "Product Management Specialist II (Full Time) - United States",
+      "url": "https://careers.cisco.com/global/en/job/2004282/Product-Management-Specialist-II-Full-Time-United-States",
+      "identifier": "Product Management Specialist II (Full Time) - Uni_ist-II-Full-Time-United-States"
     },
     {
       "title": "Software Engineer Backend/Platform Systems II (Full Time) \u2013 United States",
@@ -45,5 +45,5 @@
     }
   ],
   "job_count_text": "8",
-  "timestamp": "2026-04-22T11:17:15.829645"
+  "timestamp": "2026-04-22T11:24:54.765080"
 }

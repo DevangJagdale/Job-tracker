@@ -1,8 +1,18 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 14,
+  "total_jobs": 16,
   "jobs": [
+    {
+      "title": "Software Quality Engineering Manager",
+      "url": "https://jobs.apple.com/en-us/details/200623462-0836/software-quality-engineering-manager?team=SFTWR",
+      "identifier": "Software Quality Engineering Manager_engineering-manager?team=SFTWR"
+    },
+    {
+      "title": "Software Development Engineer, Wireless Technologies & Ecosystems",
+      "url": "https://jobs.apple.com/en-us/details/200658689-0836/software-development-engineer-wireless-technologies-ecosystems?team=SFTWR",
+      "identifier": "Software Development Engineer, Wireless Technologi_nologies-ecosystems?team=SFTWR"
+    },
     {
       "title": "Staff Machine Learning Engineer",
       "url": "https://jobs.apple.com/en-us/details/200645408-0836/staff-machine-learning-engineer?team=SFTWR",
@@ -75,5 +85,5 @@
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-22T20:40:10.152348"
+  "timestamp": "2026-04-22T20:57:08.721030"
 }

@@ -4,6 +4,11 @@
   "total_jobs": 10,
   "jobs": [
     {
+      "title": "Software Engineer, Ai & Data Platforms",
+      "url": "https://jobs.apple.com/en-us/details/200642085-0240/software-engineer-ai-data-platforms?team=SFTWR",
+      "identifier": "Software Engineer, Ai & Data Platforms_r-ai-data-platforms?team=SFTWR"
+    },
+    {
       "title": "Tools and Automation Engineer, Audio & Media Technologies",
       "url": "https://jobs.apple.com/en-us/details/200659424-3543/tools-and-automation-engineer-audio-media-technologies?team=SFTWR",
       "identifier": "Tools and Automation Engineer, Audio & Media Techn_-media-technologies?team=SFTWR"
@@ -47,13 +52,8 @@
       "title": "Data Pipeline Engineer, Apple Ads Sales Ops",
       "url": "https://jobs.apple.com/en-us/details/200629497-2459/data-pipeline-engineer-apple-ads-sales-ops?team=SFTWR",
       "identifier": "Data Pipeline Engineer, Apple Ads Sales Ops_apple-ads-sales-ops?team=SFTWR"
-    },
-    {
-      "title": "Platform Software Engineer, Infrastructure Services",
-      "url": "https://jobs.apple.com/en-us/details/200658896-3956/platform-software-engineer-infrastructure-services?team=SFTWR",
-      "identifier": "Platform Software Engineer, Infrastructure Service_astructure-services?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-22T18:41:20.495191"
+  "timestamp": "2026-04-22T18:58:18.713725"
 }

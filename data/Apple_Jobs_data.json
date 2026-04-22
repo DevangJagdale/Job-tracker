@@ -4,6 +4,11 @@
   "total_jobs": 18,
   "jobs": [
     {
+      "title": "Software Engineer, Information Systems & Technology",
+      "url": "https://jobs.apple.com/en-us/details/200653729-0157/software-engineer-information-systems-technology?team=SFTWR",
+      "identifier": "Software Engineer, Information Systems & Technolog_-systems-technology?team=SFTWR"
+    },
+    {
       "title": "Governance & Operations Lead, Infrastructure & Planning",
       "url": "https://jobs.apple.com/en-us/details/200659391-0836/governance-operations-lead-infrastructure-planning?team=SFTWR",
       "identifier": "Governance & Operations Lead, Infrastructure & Pla_astructure-planning?team=SFTWR"
@@ -87,13 +92,8 @@
       "title": "Senior Systems Engineer, Watch Software",
       "url": "https://jobs.apple.com/en-us/details/200656688-0365/senior-systems-engineer-watch-software?team=SFTWR",
       "identifier": "Senior Systems Engineer, Watch Software_neer-watch-software?team=SFTWR"
-    },
-    {
-      "title": "Engineering Program Manager, Games, Apple Services Engineering",
-      "url": "https://jobs.apple.com/en-us/details/200653969-3337/engineering-program-manager-games-apple-services-engineering?team=SFTWR",
-      "identifier": "Engineering Program Manager, Games, Apple Services_ervices-engineering?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-22T23:03:58.212759"
+  "timestamp": "2026-04-22T23:21:10.777635"
 }

@@ -1,7 +1,7 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 10,
+  "total_jobs": 7,
   "jobs": [
     {
       "title": "Data Pipeline Engineer, Apple Ads Sales Ops",
@@ -37,23 +37,8 @@
       "title": "Software Developer in Test - LocalStorage QA, Core OS",
       "url": "https://jobs.apple.com/en-us/details/200659263-0157/software-developer-in-test-localstorage-qa-core-os?team=SFTWR",
       "identifier": "Software Developer in Test - LocalStorage QA, Core_lstorage-qa-core-os?team=SFTWR"
-    },
-    {
-      "title": "Siri, Eval Architect Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200659214-0836/siri-eval-architect-engineer?team=SFTWR",
-      "identifier": "Siri, Eval Architect Engineer_-architect-engineer?team=SFTWR"
-    },
-    {
-      "title": "Staff Machine Learning Platform Engineer, AI Evaluation",
-      "url": "https://jobs.apple.com/en-us/details/200659247-3337/staff-machine-learning-platform-engineer-ai-evaluation?team=MLAI",
-      "identifier": "Staff Machine Learning Platform Engineer, AI Evalu_gineer-ai-evaluation?team=MLAI"
-    },
-    {
-      "title": "UI Engineer, App Store",
-      "url": "https://jobs.apple.com/en-us/details/200659215-3577/ui-engineer-app-store?team=SFTWR",
-      "identifier": "UI Engineer, App Store_-engineer-app-store?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-22T05:53:33.964430"
+  "timestamp": "2026-04-22T06:01:18.804175"
 }

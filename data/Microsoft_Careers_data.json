@@ -4,12 +4,17 @@
   "total_jobs": 10,
   "jobs": [
     {
+      "title": "Data Engineer II\nUnited States, Washington, Redmond\nPosted 20 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556860992?domain=microsoft.com",
+      "identifier": "Data Engineer II\nUnited States, Washington, Redmon_556860992?domain=microsoft.com"
+    },
+    {
       "title": "Cloud Network Engineer II\nUnited States, Multiple Locations, Multiple Locations\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556847579?domain=microsoft.com",
       "identifier": "Cloud Network Engineer II\nUnited States, Multiple _556847579?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer - CTJ - Poly\nUnited States, Washington, Redmond + 3 more\nPosted an hour ago",
+      "title": "Senior Software Engineer - CTJ - Poly\nUnited States, Washington, Redmond + 3 more\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556860704?domain=microsoft.com",
       "identifier": "Senior Software Engineer - CTJ - Poly\nUnited State_556860704?domain=microsoft.com"
     },
@@ -29,7 +34,7 @@
       "identifier": "Principal Group Engineering Manager - FastTrack\nUn_556860225?domain=microsoft.com"
     },
     {
-      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 4 hours ago",
+      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 5 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556627736?domain=microsoft.com",
       "identifier": "Software Engineer II\nUnited States, Washington, Re_556627736?domain=microsoft.com"
     },
@@ -47,13 +52,8 @@
       "title": "Principal Software Engineer - CoreAI\nUnited States, Washington, Redmond\nPosted 5 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556744787?domain=microsoft.com",
       "identifier": "Principal Software Engineer - CoreAI\nUnited States_556744787?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Applied Scientist\nUnited States, Washington, Redmond\nPosted 5 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556860622?domain=microsoft.com",
-      "identifier": "Senior Applied Scientist\nUnited States, Washington_556860622?domain=microsoft.com"
     }
   ],
-  "job_count_text": "650",
-  "timestamp": "2026-04-22T20:22:53.927463"
+  "job_count_text": "651",
+  "timestamp": "2026-04-22T20:39:54.111783"
 }

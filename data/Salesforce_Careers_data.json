@@ -1,14 +1,109 @@
 {
   "page_title": "Salesforce Jobs | Salesforce Careers",
   "url": "https://careers.salesforce.com/en/jobs/?search=&country=United+States+of+America&team=Data&team=Enterprise+Technology+%26+Infrastructure&team=Software+Engineering&jobtype=New+Grads&pagesize=20#results",
-  "total_jobs": 1,
+  "total_jobs": 20,
   "jobs": [
     {
-      "title": "Software Engineering AMTS (College Grad)",
-      "url": "https://careers.salesforce.com/en/jobs/jr330400/software-engineering-amts-college-grad/",
-      "identifier": "Software Engineering AMTS (College Grad)_engineering-amts-college-grad/"
+      "title": "Lead Specialist Solution Engineer | Service Cloud",
+      "url": "https://careers.salesforce.com/en/jobs/jr339282/lead-specialist-solution-engineer-service-cloud/",
+      "identifier": "Lead Specialist Solution Engineer | Service Cloud_lution-engineer-service-cloud/"
+    },
+    {
+      "title": "Engagement Manager - Marketing Cloud, Data Cloud",
+      "url": "https://careers.salesforce.com/en/jobs/jr333051/engagement-manager-marketing-cloud-data-cloud/",
+      "identifier": "Engagement Manager - Marketing Cloud, Data Cloud_er-marketing-cloud-data-cloud/"
+    },
+    {
+      "title": "Principal Data and AI Architect",
+      "url": "https://careers.salesforce.com/en/jobs/jr331280/principal-data-and-ai-architect/",
+      "identifier": "Principal Data and AI Architect_incipal-data-and-ai-architect/"
+    },
+    {
+      "title": "X-Industry Lead - CCO Central EMEA Strategy - FinS and Telco Focus",
+      "url": "https://careers.salesforce.com/en/jobs/jr336420/x-industry-lead-cco-central-emea-strategy-fins-and-telco-focus/",
+      "identifier": "X-Industry Lead - CCO Central EMEA Strategy - FinS_strategy-fins-and-telco-focus/"
+    },
+    {
+      "title": "Salesforce Senior Technical Architect - Migration Specialist",
+      "url": "https://careers.salesforce.com/en/jobs/jr334394/salesforce-senior-technical-architect-migration-specialist/",
+      "identifier": "Salesforce Senior Technical Architect - Migration _rchitect-migration-specialist/"
+    },
+    {
+      "title": "Forward Deployed Engineer Associate",
+      "url": "https://careers.salesforce.com/en/jobs/jr339478/forward-deployed-engineer-associate/",
+      "identifier": "Forward Deployed Engineer Associate_d-deployed-engineer-associate/"
+    },
+    {
+      "title": "Senior Manager, Product Management",
+      "url": "https://careers.salesforce.com/en/jobs/jr338352/senior-manager-product-management/",
+      "identifier": "Senior Manager, Product Management_or-manager-product-management/"
+    },
+    {
+      "title": "Employee Success Operations Senior Administrator",
+      "url": "https://careers.salesforce.com/en/jobs/jr336181/employee-success-operations-senior-administrator/",
+      "identifier": "Employee Success Operations Senior Administrator_erations-senior-administrator/"
+    },
+    {
+      "title": "Partner Solution Advisor, Senior Manager",
+      "url": "https://careers.salesforce.com/en/jobs/jr339068/partner-solution-advisor-senior-manager/",
+      "identifier": "Partner Solution Advisor, Senior Manager_lution-advisor-senior-manager/"
+    },
+    {
+      "title": "Senior Solution Engineer (Italian Speaker)",
+      "url": "https://careers.salesforce.com/en/jobs/jr339096/senior-solution-engineer-italian-speaker/",
+      "identifier": "Senior Solution Engineer (Italian Speaker)_tion-engineer-italian-speaker/"
+    },
+    {
+      "title": "Named Account Executive - Capital Markets",
+      "url": "https://careers.salesforce.com/en/jobs/jr337280/named-account-executive-capital-markets/",
+      "identifier": "Named Account Executive - Capital Markets_unt-executive-capital-markets/"
+    },
+    {
+      "title": "Customer Success Manager",
+      "url": "https://careers.salesforce.com/en/jobs/jr336381/customer-success-manager/",
+      "identifier": "Customer Success Manager_6381/customer-success-manager/"
+    },
+    {
+      "title": "Director, Controllership Data Stewardship & Workday Reporting Operations",
+      "url": "https://careers.salesforce.com/en/jobs/jr322020/director-controllership-data-stewardship-workday-reporting-operations/",
+      "identifier": "Director, Controllership Data Stewardship & Workda_-workday-reporting-operations/"
+    },
+    {
+      "title": "Enterprise Account Executive - Energy & Utilities",
+      "url": "https://careers.salesforce.com/en/jobs/jr324868/enterprise-account-executive-energy-utilities/",
+      "identifier": "Enterprise Account Executive - Energy & Utilities_nt-executive-energy-utilities/"
+    },
+    {
+      "title": "Tableau Account Executive | Federal Defence and Security",
+      "url": "https://careers.salesforce.com/en/jobs/jr336686/tableau-account-executive-federal-defence-and-security/",
+      "identifier": "Tableau Account Executive | Federal Defence and Se_-federal-defence-and-security/"
+    },
+    {
+      "title": "Software Engineering SMTS- Tableau",
+      "url": "https://careers.salesforce.com/en/jobs/jr327535/software-engineering-smts-tableau/",
+      "identifier": "Software Engineering SMTS- Tableau_ware-engineering-smts-tableau/"
+    },
+    {
+      "title": "Corporate Marketing Associate Analyst",
+      "url": "https://careers.salesforce.com/en/jobs/jr339392/corporate-marketing-associate-analyst/",
+      "identifier": "Corporate Marketing Associate Analyst_e-marketing-associate-analyst/"
+    },
+    {
+      "title": "Manager, Technical Support Engineering",
+      "url": "https://careers.salesforce.com/en/jobs/jr339474/manager-technical-support-engineering/",
+      "identifier": "Manager, Technical Support Engineering_technical-support-engineering/"
+    },
+    {
+      "title": "Senior Technical Architect",
+      "url": "https://careers.salesforce.com/en/jobs/jr328370/senior-technical-architect/",
+      "identifier": "Senior Technical Architect_70/senior-technical-architect/"
+    },
+    {
+      "title": "Sales Development Representative - French Speaker - NGO and Public Sector",
+      "url": "https://careers.salesforce.com/en/jobs/jr339486/sales-development-representative-french-speaker-ngo-and-public-sector/",
+      "identifier": "Sales Development Representative - French Speaker _speaker-ngo-and-public-sector/"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-22T13:26:48.389769"
+  "timestamp": "2026-04-22T13:43:59.589770"
 }

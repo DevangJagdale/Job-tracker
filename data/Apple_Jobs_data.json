@@ -1,8 +1,13 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 7,
+  "total_jobs": 6,
   "jobs": [
+    {
+      "title": "Software Engineer - Creator Studio",
+      "url": "https://jobs.apple.com/en-us/details/200646727-1435/software-engineer-creator-studio?team=SFTWR",
+      "identifier": "Software Engineer - Creator Studio_neer-creator-studio?team=SFTWR"
+    },
     {
       "title": "Data Pipeline Engineer, Apple Ads Sales Ops",
       "url": "https://jobs.apple.com/en-us/details/200629497-2459/data-pipeline-engineer-apple-ads-sales-ops?team=SFTWR",
@@ -27,18 +32,8 @@
       "title": "ML Engineer - Evaluation Analysis, Metric and Data Strategy",
       "url": "https://jobs.apple.com/en-us/details/200657984-0670/ml-engineer-evaluation-analysis-metric-and-data-strategy?team=SFTWR",
       "identifier": "ML Engineer - Evaluation Analysis, Metric and Data_c-and-data-strategy?team=SFTWR"
-    },
-    {
-      "title": "Applied AI Scientist",
-      "url": "https://jobs.apple.com/en-us/details/200659128-0670/applied-ai-scientist?team=SFTWR",
-      "identifier": "Applied AI Scientist_pplied-ai-scientist?team=SFTWR"
-    },
-    {
-      "title": "Software Developer in Test - LocalStorage QA, Core OS",
-      "url": "https://jobs.apple.com/en-us/details/200659263-0157/software-developer-in-test-localstorage-qa-core-os?team=SFTWR",
-      "identifier": "Software Developer in Test - LocalStorage QA, Core_lstorage-qa-core-os?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-22T11:23:06.256047"
+  "timestamp": "2026-04-22T11:40:16.694779"
 }

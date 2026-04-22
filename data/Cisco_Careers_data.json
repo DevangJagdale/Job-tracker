@@ -4,14 +4,14 @@
   "total_jobs": 7,
   "jobs": [
     {
-      "title": "Technical Program Manager II (Full-Time) - United States",
-      "url": "https://careers.cisco.com/global/en/job/2012165/Technical-Program-Manager-II-Full-Time-United-States",
-      "identifier": "Technical Program Manager II (Full-Time) - United _ger-II-Full-Time-United-States"
-    },
-    {
       "title": "Product Management Specialist II (Full Time) - United States",
       "url": "https://careers.cisco.com/global/en/job/2004282/Product-Management-Specialist-II-Full-Time-United-States",
       "identifier": "Product Management Specialist II (Full Time) - Uni_ist-II-Full-Time-United-States"
+    },
+    {
+      "title": "Technical Program Manager II (Full-Time) - United States",
+      "url": "https://careers.cisco.com/global/en/job/2012165/Technical-Program-Manager-II-Full-Time-United-States",
+      "identifier": "Technical Program Manager II (Full-Time) - United _ger-II-Full-Time-United-States"
     },
     {
       "title": "Software Engineer Backend/Platform Systems II (Full Time) \u2013 United States",
@@ -40,5 +40,5 @@
     }
   ],
   "job_count_text": "7",
-  "timestamp": "2026-04-22T13:42:13.953914"
+  "timestamp": "2026-04-22T13:59:25.116340"
 }

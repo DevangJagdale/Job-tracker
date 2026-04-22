@@ -4,6 +4,11 @@
   "total_jobs": 11,
   "jobs": [
     {
+      "title": "Platform Software Engineer, Infrastructure Services",
+      "url": "https://jobs.apple.com/en-us/details/200658896-3956/platform-software-engineer-infrastructure-services?team=SFTWR",
+      "identifier": "Platform Software Engineer, Infrastructure Service_astructure-services?team=SFTWR"
+    },
+    {
       "title": "Machine Learning Engineer \u2013 Recommendations & Personalization (Feature Engineering)",
       "url": "https://jobs.apple.com/en-us/details/200659262-3337/machine-learning-engineer-recommendations-personalization-feature-engineering?team=MLAI",
       "identifier": "Machine Learning Engineer \u2013 Recommendations & Pers_-feature-engineering?team=MLAI"
@@ -52,13 +57,8 @@
       "title": "Product Designer - Find My Team",
       "url": "https://jobs.apple.com/en-us/details/200656998-0836/product-designer-find-my-team?team=SFTWR",
       "identifier": "Product Designer - Find My Team_signer-find-my-team?team=SFTWR"
-    },
-    {
-      "title": "Senior Manager, Business Growth & Planning, Apple Services",
-      "url": "https://jobs.apple.com/en-us/details/200659166-0670/senior-manager-business-growth-planning-apple-services?team=OPMFG",
-      "identifier": "Senior Manager, Business Growth & Planning, Apple _ning-apple-services?team=OPMFG"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-22T01:35:32.114445"
+  "timestamp": "2026-04-22T01:52:45.527965"
 }

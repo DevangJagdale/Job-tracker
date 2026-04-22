@@ -4,6 +4,11 @@
   "total_jobs": 20,
   "jobs": [
     {
+      "title": "Asset & Wealth Management - Software Engineer - Associate - Dallas\nDallas\u00b7United States\n\u00b7Associate",
+      "url": "https://higher.gs.com/roles/152140",
+      "identifier": "Asset & Wealth Management - Software Engineer - As_s://higher.gs.com/roles/152140"
+    },
+    {
       "title": "Asset & Wealth Management-Cloud Engineer-Associate-Dallas\nDallas\u00b7United States\n\u00b7Associate",
       "url": "https://higher.gs.com/roles/167471",
       "identifier": "Asset & Wealth Management-Cloud Engineer-Associate_s://higher.gs.com/roles/167471"
@@ -97,13 +102,8 @@
       "title": "AMD Public-Dallas-Associate-Software Engineering\nDallas\u00b7United States\n\u00b7Associate",
       "url": "https://higher.gs.com/roles/166621",
       "identifier": "AMD Public-Dallas-Associate-Software Engineering\nD_s://higher.gs.com/roles/166621"
-    },
-    {
-      "title": "AMD Public-Salt Lake City-Associate-Software Engineering\nSalt Lake City\u00b7United States\n\u00b7Associate",
-      "url": "https://higher.gs.com/roles/165919",
-      "identifier": "AMD Public-Salt Lake City-Associate-Software Engin_s://higher.gs.com/roles/165919"
     }
   ],
-  "job_count_text": "53",
-  "timestamp": "2026-04-22T16:33:42.382831"
+  "job_count_text": "54",
+  "timestamp": "2026-04-22T16:50:51.821945"
 }

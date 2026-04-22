@@ -4,7 +4,12 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Principal Software Engineer\nUnited States, Washington, Redmond + 1 more\nPosted 41 minutes ago",
+      "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted 12 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556860602?domain=microsoft.com",
+      "identifier": "Principal Software Engineer\nUnited States, Washing_556860602?domain=microsoft.com"
+    },
+    {
+      "title": "Principal Software Engineer\nUnited States, Washington, Redmond + 1 more\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556861054?domain=microsoft.com",
       "identifier": "Principal Software Engineer\nUnited States, Washing_556861054?domain=microsoft.com"
     },
@@ -29,7 +34,7 @@
       "identifier": "Cloud Network Engineer II\nUnited States, Multiple _556847579?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer - CTJ - Poly\nUnited States, Washington, Redmond + 3 more\nPosted 3 hours ago",
+      "title": "Senior Software Engineer - CTJ - Poly\nUnited States, Washington, Redmond + 3 more\nPosted 4 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556860704?domain=microsoft.com",
       "identifier": "Senior Software Engineer - CTJ - Poly\nUnited State_556860704?domain=microsoft.com"
     },
@@ -47,13 +52,8 @@
       "title": "Principal Group Engineering Manager - FastTrack\nUnited States, Washington, Redmond\nPosted 6 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556860225?domain=microsoft.com",
       "identifier": "Principal Group Engineering Manager - FastTrack\nUn_556860225?domain=microsoft.com"
-    },
-    {
-      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 7 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556627736?domain=microsoft.com",
-      "identifier": "Software Engineer II\nUnited States, Washington, Re_556627736?domain=microsoft.com"
     }
   ],
-  "job_count_text": "651",
-  "timestamp": "2026-04-22T22:29:20.025244"
+  "job_count_text": "652",
+  "timestamp": "2026-04-22T22:46:28.531877"
 }

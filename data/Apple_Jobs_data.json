@@ -4,6 +4,11 @@
   "total_jobs": 6,
   "jobs": [
     {
+      "title": "Sr. Software Engineer, Creativity Apps",
+      "url": "https://jobs.apple.com/en-us/details/200649840-0670/sr-software-engineer-creativity-apps?team=SFTWR",
+      "identifier": "Sr. Software Engineer, Creativity Apps_eer-creativity-apps?team=SFTWR"
+    },
+    {
       "title": "Software Engineer - Creator Studio",
       "url": "https://jobs.apple.com/en-us/details/200646727-1435/software-engineer-creator-studio?team=SFTWR",
       "identifier": "Software Engineer - Creator Studio_neer-creator-studio?team=SFTWR"
@@ -27,13 +32,8 @@
       "title": "ML Engineer - Automated Evaluation and Adversarial Design",
       "url": "https://jobs.apple.com/en-us/details/200657970-0670/ml-engineer-automated-evaluation-and-adversarial-design?team=SFTWR",
       "identifier": "ML Engineer - Automated Evaluation and Adversarial_-adversarial-design?team=SFTWR"
-    },
-    {
-      "title": "ML Engineer - Evaluation Analysis, Metric and Data Strategy",
-      "url": "https://jobs.apple.com/en-us/details/200657984-0670/ml-engineer-evaluation-analysis-metric-and-data-strategy?team=SFTWR",
-      "identifier": "ML Engineer - Evaluation Analysis, Metric and Data_c-and-data-strategy?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-22T12:14:29.948017"
+  "timestamp": "2026-04-22T12:31:39.025195"
 }

@@ -14,6 +14,16 @@
       "identifier": "Applied Scientist_/job/R166888/Applied-Scientist"
     },
     {
+      "title": "Software Development Engineer",
+      "url": "https://careers.adobe.com/us/en/job/R161750/Software-Development-Engineer",
+      "identifier": "Software Development Engineer_/Software-Development-Engineer"
+    },
+    {
+      "title": "2026 University Graduate - Machine Learning Engineer",
+      "url": "https://careers.adobe.com/us/en/job/R160133/2026-University-Graduate-Machine-Learning-Engineer",
+      "identifier": "2026 University Graduate - Machine Learning Engine_uate-Machine-Learning-Engineer"
+    },
+    {
       "title": "2026 University Graduate - Applied Scientist",
       "url": "https://careers.adobe.com/us/en/job/R160136/2026-University-Graduate-Applied-Scientist",
       "identifier": "2026 University Graduate - Applied Scientist_ity-Graduate-Applied-Scientist"
@@ -24,21 +34,11 @@
       "identifier": "Applied Scientist_/job/R161013/Applied-Scientist"
     },
     {
-      "title": "2026 University Graduate - Machine Learning Engineer",
-      "url": "https://careers.adobe.com/us/en/job/R160133/2026-University-Graduate-Machine-Learning-Engineer",
-      "identifier": "2026 University Graduate - Machine Learning Engine_uate-Machine-Learning-Engineer"
-    },
-    {
-      "title": "Software Development Engineer",
-      "url": "https://careers.adobe.com/us/en/job/R161750/Software-Development-Engineer",
-      "identifier": "Software Development Engineer_/Software-Development-Engineer"
-    },
-    {
       "title": "Applied Scientist 3",
       "url": "https://careers.adobe.com/us/en/job/R166095/Applied-Scientist-3",
       "identifier": "Applied Scientist 3_ob/R166095/Applied-Scientist-3"
     }
   ],
   "job_count_text": "7",
-  "timestamp": "2026-04-22T12:18:42.228281"
+  "timestamp": "2026-04-22T12:35:56.980019"
 }

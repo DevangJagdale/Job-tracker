@@ -4,9 +4,9 @@
   "total_jobs": 8,
   "jobs": [
     {
-      "title": "Senior Software Quality Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0888692/Senior-Software-Quality-Engineer",
-      "identifier": "Senior Software Quality Engineer_nior-Software-Quality-Engineer"
+      "title": "Senior Software Development Engineer (Pharmacy Services)",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0781931/Senior-Software-Development-Engineer-Pharmacy-Services",
+      "identifier": "Senior Software Development Engineer (Pharmacy Ser_ent-Engineer-Pharmacy-Services"
     },
     {
       "title": "Principal Software Development Engineer",
@@ -14,9 +14,19 @@
       "identifier": "Principal Software Development Engineer_-Software-Development-Engineer"
     },
     {
+      "title": "IT Manager, Release Management",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0888119/IT-Manager-Release-Management",
+      "identifier": "IT Manager, Release Management_/IT-Manager-Release-Management"
+    },
+    {
       "title": "Software Development Engineer",
       "url": "https://jobs.cvshealth.com/us/en/job/R0894385/Software-Development-Engineer",
       "identifier": "Software Development Engineer_/Software-Development-Engineer"
+    },
+    {
+      "title": "Senior Software Quality Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0888692/Senior-Software-Quality-Engineer",
+      "identifier": "Senior Software Quality Engineer_nior-Software-Quality-Engineer"
     },
     {
       "title": "Software Develpment Engineer",
@@ -24,19 +34,9 @@
       "identifier": "Software Develpment Engineer_4/Software-Develpment-Engineer"
     },
     {
-      "title": "IT Manager, Release Management",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0888119/IT-Manager-Release-Management",
-      "identifier": "IT Manager, Release Management_/IT-Manager-Release-Management"
-    },
-    {
       "title": "Manager - Budget Management",
       "url": "https://jobs.cvshealth.com/us/en/job/R0887200/Manager-Budget-Management",
       "identifier": "Manager - Budget Management_7200/Manager-Budget-Management"
-    },
-    {
-      "title": "Senior Compute Engineer (Apple Platforms and Automation)",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0878389/Senior-Compute-Engineer-Apple-Platforms-and-Automation",
-      "identifier": "Senior Compute Engineer (Apple Platforms and Autom_Apple-Platforms-and-Automation"
     },
     {
       "title": "Manager, Business Analysis",
@@ -44,6 +44,6 @@
       "identifier": "Manager, Business Analysis_2619/Manager-Business-Analysis"
     }
   ],
-  "job_count_text": "33",
-  "timestamp": "2026-04-22T12:15:31.739199"
+  "job_count_text": "34",
+  "timestamp": "2026-04-22T12:32:40.995479"
 }

@@ -1,8 +1,79 @@
 {
   "page_title": "Explore Jobs | ServiceNow Careers",
   "url": "https://careers.servicenow.com/jobs/?search=&team=Engineering%2C+Infrastructure+and+Operations&team=IT&team=Digital+Technology&jobPostingType=Early+Career&country=United+States&pagesize=20#results",
-  "total_jobs": 0,
-  "jobs": [],
+  "total_jobs": 14,
+  "jobs": [
+    {
+      "title": "Staff Machine Learning Engineer, Agentic AI Systems - Moveworks",
+      "url": "https://careers.servicenow.com/jobs/744000122110277/staff-machine-learning-engineer-agentic-ai-systems-moveworks/",
+      "identifier": "Staff Machine Learning Engineer, Agentic AI System_-agentic-ai-systems-moveworks/"
+    },
+    {
+      "title": "Manager, Strategy & Operations \u2014 Moveworks",
+      "url": "https://careers.servicenow.com/jobs/744000122107869/manager-strategy-operations-moveworks/",
+      "identifier": "Manager, Strategy & Operations \u2014 Moveworks_strategy-operations-moveworks/"
+    },
+    {
+      "title": "Senior Machine Learning Engineer, Agentic Systems - Moveworks",
+      "url": "https://careers.servicenow.com/jobs/744000122090573/senior-machine-learning-engineer-agentic-systems-moveworks/",
+      "identifier": "Senior Machine Learning Engineer, Agentic Systems _eer-agentic-systems-moveworks/"
+    },
+    {
+      "title": "Sr. Staff Information Architect, IA & Taxonomy Solutions",
+      "url": "https://careers.servicenow.com/jobs/744000122087338/sr-staff-information-architect-ia-taxonomy-solutions/",
+      "identifier": "Sr. Staff Information Architect, IA & Taxonomy Sol_chitect-ia-taxonomy-solutions/"
+    },
+    {
+      "title": "Sr. Business Process Consultant, ServiceNow Finance & Procurement (Source-to-Pay) Solutions",
+      "url": "https://careers.servicenow.com/jobs/744000122088590/sr-business-process-consultant-servicenow-finance-procurement-source-to-pay-solutions/",
+      "identifier": "Sr. Business Process Consultant, ServiceNow Financ_ement-source-to-pay-solutions/"
+    },
+    {
+      "title": "Manager, Customer Success Operations - Moveworks",
+      "url": "https://careers.servicenow.com/jobs/744000122082883/manager-customer-success-operations-moveworks/",
+      "identifier": "Manager, Customer Success Operations - Moveworks_-success-operations-moveworks/"
+    },
+    {
+      "title": "Engineering Manager, Agentic Systems - Moveworks",
+      "url": "https://careers.servicenow.com/jobs/744000122080660/engineering-manager-agentic-systems-moveworks/",
+      "identifier": "Engineering Manager, Agentic Systems - Moveworks_ger-agentic-systems-moveworks/"
+    },
+    {
+      "title": "Forward Deployed Solution Engineer- Applied AI",
+      "url": "https://careers.servicenow.com/jobs/744000122076598/forward-deployed-solution-engineer-applied-ai/",
+      "identifier": "Forward Deployed Solution Engineer- Applied AI_-solution-engineer-applied-ai/"
+    },
+    {
+      "title": "ServiceNow Technical Consultant/Developer for Finance & Supply Chain Solution Implementations",
+      "url": "https://careers.servicenow.com/jobs/744000122078187/servicenow-technical-consultantdeveloper-for-finance-supply-chain-solution-implementations/",
+      "identifier": "ServiceNow Technical Consultant/Developer for Fina_hain-solution-implementations/"
+    },
+    {
+      "title": "Sr. Technical Consultant (Developer), ServiceNow Finance & Supply Chain (Source-to-Pay) and Contracting Operations Solutions",
+      "url": "https://careers.servicenow.com/jobs/744000122078067/sr-technical-consultant-developer-servicenow-finance-supply-chain-source-to-pay-and-contracting-operations-solutions/",
+      "identifier": "Sr. Technical Consultant (Developer), ServiceNow F_tracting-operations-solutions/"
+    },
+    {
+      "title": "Solution Architect",
+      "url": "https://careers.servicenow.com/jobs/744000122076747/solution-architect/",
+      "identifier": "Solution Architect_0122076747/solution-architect/"
+    },
+    {
+      "title": "Solution Architect",
+      "url": "https://careers.servicenow.com/jobs/744000122076337/solution-architect/",
+      "identifier": "Solution Architect_0122076337/solution-architect/"
+    },
+    {
+      "title": "Solution Architect",
+      "url": "https://careers.servicenow.com/jobs/744000122075750/solution-architect/",
+      "identifier": "Solution Architect_0122075750/solution-architect/"
+    },
+    {
+      "title": "Solution Architect",
+      "url": "https://careers.servicenow.com/jobs/744000122072010/solution-architect/",
+      "identifier": "Solution Architect_0122072010/solution-architect/"
+    }
+  ],
   "job_count_text": "",
-  "timestamp": "2026-04-22T06:04:13.848738"
+  "timestamp": "2026-04-22T08:24:53.776856"
 }

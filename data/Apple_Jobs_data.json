@@ -4,6 +4,11 @@
   "total_jobs": 8,
   "jobs": [
     {
+      "title": "Senior Systems Engineer, Watch Software",
+      "url": "https://jobs.apple.com/en-us/details/200656688-0365/senior-systems-engineer-watch-software?team=SFTWR",
+      "identifier": "Senior Systems Engineer, Watch Software_neer-watch-software?team=SFTWR"
+    },
+    {
       "title": "Engineering Program Manager, Games, Apple Services Engineering",
       "url": "https://jobs.apple.com/en-us/details/200653969-3337/engineering-program-manager-games-apple-services-engineering?team=SFTWR",
       "identifier": "Engineering Program Manager, Games, Apple Services_ervices-engineering?team=SFTWR"
@@ -37,13 +42,8 @@
       "title": "ML Engineer - Automated Evaluation and Adversarial Design",
       "url": "https://jobs.apple.com/en-us/details/200657970-0670/ml-engineer-automated-evaluation-and-adversarial-design?team=SFTWR",
       "identifier": "ML Engineer - Automated Evaluation and Adversarial_-adversarial-design?team=SFTWR"
-    },
-    {
-      "title": "ML Engineer - Evaluation Analysis, Metric and Data Strategy",
-      "url": "https://jobs.apple.com/en-us/details/200657984-0670/ml-engineer-evaluation-analysis-metric-and-data-strategy?team=SFTWR",
-      "identifier": "ML Engineer - Evaluation Analysis, Metric and Data_c-and-data-strategy?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-22T16:59:14.028246"
+  "timestamp": "2026-04-22T17:16:17.826993"
 }

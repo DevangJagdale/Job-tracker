@@ -1,8 +1,13 @@
 {
   "page_title": "Job Openings - Cisco Careers",
   "url": "https://careers.cisco.com/global/en/search-results?s=1",
-  "total_jobs": 9,
+  "total_jobs": 10,
   "jobs": [
+    {
+      "title": "Business Analyst II (Full-Time) - United States",
+      "url": "https://careers.cisco.com/global/en/job/2005255/Business-Analyst-II-Full-Time-United-States",
+      "identifier": "Business Analyst II (Full-Time) - United States_yst-II-Full-Time-United-States"
+    },
     {
       "title": "Software Engineer Embedded/Network Systems II (Full Time) - United States",
       "url": "https://careers.cisco.com/global/en/job/2000131/Software-Engineer-Embedded-Network-Systems-II-Full-Time-United-States",
@@ -14,14 +19,19 @@
       "identifier": "Account Development Representative II (Full Time) _ive-II-Full-Time-United-States"
     },
     {
-      "title": "Technical Program Manager II (Full-Time) - United States",
-      "url": "https://careers.cisco.com/global/en/job/2012165/Technical-Program-Manager-II-Full-Time-United-States",
-      "identifier": "Technical Program Manager II (Full-Time) - United _ger-II-Full-Time-United-States"
+      "title": "Physical Design Engineer II (Full Time) - United States",
+      "url": "https://careers.cisco.com/global/en/job/2013120/Physical-Design-Engineer-II-Full-Time-United-States",
+      "identifier": "Physical Design Engineer II (Full Time) - United S_eer-II-Full-Time-United-States"
     },
     {
       "title": "Product Management Specialist II (Full Time) - United States",
       "url": "https://careers.cisco.com/global/en/job/2004282/Product-Management-Specialist-II-Full-Time-United-States",
       "identifier": "Product Management Specialist II (Full Time) - Uni_ist-II-Full-Time-United-States"
+    },
+    {
+      "title": "Technical Program Manager II (Full-Time) - United States",
+      "url": "https://careers.cisco.com/global/en/job/2012165/Technical-Program-Manager-II-Full-Time-United-States",
+      "identifier": "Technical Program Manager II (Full-Time) - United _ger-II-Full-Time-United-States"
     },
     {
       "title": "Software Engineer Backend/Platform Systems II (Full Time) \u2013 United States",
@@ -42,13 +52,8 @@
       "title": "Customer Experience Project Specialist I (Full-Time) - United States",
       "url": "https://careers.cisco.com/global/en/job/2001576/Customer-Experience-Project-Specialist-I-Full-Time-United-States",
       "identifier": "Customer Experience Project Specialist I (Full-Tim_list-I-Full-Time-United-States"
-    },
-    {
-      "title": "Sales Development Representative II (Full Time) United States (Virtual Demand Center) - United States",
-      "url": "https://careers.cisco.com/global/en/job/2008662/Sales-Development-Representative-II-Full-Time-United-States-Virtual-Demand-Center-United-States",
-      "identifier": "Sales Development Representative II (Full Time) Un_al-Demand-Center-United-States"
     }
   ],
-  "job_count_text": "9",
-  "timestamp": "2026-04-22T17:52:01.199291"
+  "job_count_text": "11",
+  "timestamp": "2026-04-22T18:08:58.618658"
 }

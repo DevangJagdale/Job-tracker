@@ -4,11 +4,6 @@
   "total_jobs": 7,
   "jobs": [
     {
-      "title": "Staff Software Development Engineer (IBMi/AS400)",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0894421/Staff-Software-Development-Engineer-IBMi-AS400",
-      "identifier": "Staff Software Development Engineer (IBMi/AS400)_evelopment-Engineer-IBMi-AS400"
-    },
-    {
       "title": "Senior Software Development Engineer (Pharmacy Services)",
       "url": "https://jobs.cvshealth.com/us/en/job/R0781931/Senior-Software-Development-Engineer-Pharmacy-Services",
       "identifier": "Senior Software Development Engineer (Pharmacy Ser_ent-Engineer-Pharmacy-Services"
@@ -24,6 +19,16 @@
       "identifier": "Staff Software Development and DevOps Engineer_evelopment-and-DevOps-Engineer"
     },
     {
+      "title": "Senior Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0894396/Senior-Software-Development-Engineer",
+      "identifier": "Senior Software Development Engineer_-Software-Development-Engineer"
+    },
+    {
+      "title": "Staff Software Development Engineer (IBMi/AS400)",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0894421/Staff-Software-Development-Engineer-IBMi-AS400",
+      "identifier": "Staff Software Development Engineer (IBMi/AS400)_evelopment-Engineer-IBMi-AS400"
+    },
+    {
       "title": "Principal Software Development Engineer",
       "url": "https://jobs.cvshealth.com/us/en/job/R0882873/Principal-Software-Development-Engineer",
       "identifier": "Principal Software Development Engineer_-Software-Development-Engineer"
@@ -32,13 +37,8 @@
       "title": "Senior Software Development Engineer (IBMi/AS400)",
       "url": "https://jobs.cvshealth.com/us/en/job/R0894406/Senior-Software-Development-Engineer-IBMi-AS400",
       "identifier": "Senior Software Development Engineer (IBMi/AS400)_evelopment-Engineer-IBMi-AS400"
-    },
-    {
-      "title": "Senior Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0894391/Senior-Software-Development-Engineer",
-      "identifier": "Senior Software Development Engineer_-Software-Development-Engineer"
     }
   ],
   "job_count_text": "49",
-  "timestamp": "2026-04-22T17:51:18.237270"
+  "timestamp": "2026-04-22T18:08:15.844761"
 }

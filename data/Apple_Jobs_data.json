@@ -1,8 +1,18 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 10,
+  "total_jobs": 11,
   "jobs": [
+    {
+      "title": "Software Engineer, Accessibility WebKit",
+      "url": "https://jobs.apple.com/en-us/details/200657564-0836/software-engineer-accessibility-webkit?team=SFTWR",
+      "identifier": "Software Engineer, Accessibility WebKit_ccessibility-webkit?team=SFTWR"
+    },
+    {
+      "title": "System Experience Foundations Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200659411-0836/system-experience-foundations-engineer?team=SFTWR",
+      "identifier": "System Experience Foundations Engineer_oundations-engineer?team=SFTWR"
+    },
     {
       "title": "Software Engineer, Ai & Data Platforms",
       "url": "https://jobs.apple.com/en-us/details/200642085-0240/software-engineer-ai-data-platforms?team=SFTWR",
@@ -47,13 +57,8 @@
       "title": "Software Engineer - Creator Studio",
       "url": "https://jobs.apple.com/en-us/details/200646727-1435/software-engineer-creator-studio?team=SFTWR",
       "identifier": "Software Engineer - Creator Studio_neer-creator-studio?team=SFTWR"
-    },
-    {
-      "title": "Data Pipeline Engineer, Apple Ads Sales Ops",
-      "url": "https://jobs.apple.com/en-us/details/200629497-2459/data-pipeline-engineer-apple-ads-sales-ops?team=SFTWR",
-      "identifier": "Data Pipeline Engineer, Apple Ads Sales Ops_apple-ads-sales-ops?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-22T18:58:18.713725"
+  "timestamp": "2026-04-22T19:15:18.475028"
 }

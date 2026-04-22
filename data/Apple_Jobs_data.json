@@ -4,6 +4,11 @@
   "total_jobs": 10,
   "jobs": [
     {
+      "title": "Tools and Automation Engineer, Audio & Media Technologies",
+      "url": "https://jobs.apple.com/en-us/details/200659424-3543/tools-and-automation-engineer-audio-media-technologies?team=SFTWR",
+      "identifier": "Tools and Automation Engineer, Audio & Media Techn_-media-technologies?team=SFTWR"
+    },
+    {
       "title": "Software Engineering Manager (Supply Chain Solutions), Supply Chain Integration",
       "url": "https://jobs.apple.com/en-us/details/200658433-0157/software-engineering-manager-supply-chain-solutions-supply-chain-integration?team=SFTWR",
       "identifier": "Software Engineering Manager (Supply Chain Solutio_y-chain-integration?team=SFTWR"
@@ -47,13 +52,8 @@
       "title": "Platform Software Engineer, Infrastructure Services",
       "url": "https://jobs.apple.com/en-us/details/200658896-3956/platform-software-engineer-infrastructure-services?team=SFTWR",
       "identifier": "Platform Software Engineer, Infrastructure Service_astructure-services?team=SFTWR"
-    },
-    {
-      "title": "ML Engineer - Automated Evaluation and Adversarial Design",
-      "url": "https://jobs.apple.com/en-us/details/200657970-0670/ml-engineer-automated-evaluation-and-adversarial-design?team=SFTWR",
-      "identifier": "ML Engineer - Automated Evaluation and Adversarial_-adversarial-design?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-22T18:24:13.711557"
+  "timestamp": "2026-04-22T18:41:20.495191"
 }

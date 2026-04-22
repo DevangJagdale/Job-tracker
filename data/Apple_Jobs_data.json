@@ -4,14 +4,14 @@
   "total_jobs": 12,
   "jobs": [
     {
+      "title": "Software Engineer, WebKit Accessibility",
+      "url": "https://jobs.apple.com/en-us/details/200657564-0836/software-engineer-webkit-accessibility?team=SFTWR",
+      "identifier": "Software Engineer, WebKit Accessibility_ebkit-accessibility?team=SFTWR"
+    },
+    {
       "title": "Senior Software Engineer, Cloud Efficiency",
       "url": "https://jobs.apple.com/en-us/details/200656766-0157/senior-software-engineer-cloud-efficiency?team=SFTWR",
       "identifier": "Senior Software Engineer, Cloud Efficiency_er-cloud-efficiency?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer, Accessibility WebKit",
-      "url": "https://jobs.apple.com/en-us/details/200657564-0836/software-engineer-accessibility-webkit?team=SFTWR",
-      "identifier": "Software Engineer, Accessibility WebKit_ccessibility-webkit?team=SFTWR"
     },
     {
       "title": "System Experience Foundations Engineer",
@@ -65,5 +65,5 @@
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-22T19:32:16.516186"
+  "timestamp": "2026-04-22T19:49:14.387876"
 }

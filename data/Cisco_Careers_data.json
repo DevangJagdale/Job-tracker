@@ -1,8 +1,13 @@
 {
   "page_title": "Job Openings - Cisco Careers",
   "url": "https://careers.cisco.com/global/en/search-results?s=1",
-  "total_jobs": 7,
+  "total_jobs": 8,
   "jobs": [
+    {
+      "title": "Software Engineer Embedded/Network Systems II (Full Time) - United States",
+      "url": "https://careers.cisco.com/global/en/job/2000131/Software-Engineer-Embedded-Network-Systems-II-Full-Time-United-States",
+      "identifier": "Software Engineer Embedded/Network Systems II (Ful_ems-II-Full-Time-United-States"
+    },
     {
       "title": "Technical Program Manager II (Full-Time) - United States",
       "url": "https://careers.cisco.com/global/en/job/2012165/Technical-Program-Manager-II-Full-Time-United-States",
@@ -39,6 +44,6 @@
       "identifier": "Sales Development Representative II (Full Time) Un_al-Demand-Center-United-States"
     }
   ],
-  "job_count_text": "7",
-  "timestamp": "2026-04-22T14:16:34.709610"
+  "job_count_text": "8",
+  "timestamp": "2026-04-22T14:33:52.393294"
 }

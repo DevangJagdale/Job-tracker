@@ -4,6 +4,11 @@
   "total_jobs": 10,
   "jobs": [
     {
+      "title": "Data Pipeline Engineer, Apple Ads Sales Ops",
+      "url": "https://jobs.apple.com/en-us/details/200629497-2459/data-pipeline-engineer-apple-ads-sales-ops?team=SFTWR",
+      "identifier": "Data Pipeline Engineer, Apple Ads Sales Ops_apple-ads-sales-ops?team=SFTWR"
+    },
+    {
       "title": "Platform Software Engineer, Infrastructure Services",
       "url": "https://jobs.apple.com/en-us/details/200658896-3956/platform-software-engineer-infrastructure-services?team=SFTWR",
       "identifier": "Platform Software Engineer, Infrastructure Service_astructure-services?team=SFTWR"
@@ -47,13 +52,8 @@
       "title": "UI Engineer, App Store",
       "url": "https://jobs.apple.com/en-us/details/200659215-3577/ui-engineer-app-store?team=SFTWR",
       "identifier": "UI Engineer, App Store_-engineer-app-store?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer - SOC Power Management, Core OS",
-      "url": "https://jobs.apple.com/en-us/details/200659248-0157/software-engineer-soc-power-management-core-os?team=SFTWR",
-      "identifier": "Software Engineer - SOC Power Management, Core OS_-management-core-os?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-22T03:01:33.132747"
+  "timestamp": "2026-04-22T03:18:43.935878"
 }

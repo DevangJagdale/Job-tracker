@@ -1,8 +1,104 @@
 {
-  "page_title": "Maintenance - Careers at Apple",
-  "url": "https://www.apple.com/careers/us/maintenance.html",
-  "total_jobs": 0,
-  "jobs": [],
+  "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
+  "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
+  "total_jobs": 19,
+  "jobs": [
+    {
+      "title": "Senior OS Software Engineer, Field Engagement & Analytics",
+      "url": "https://jobs.apple.com/en-us/details/200659530-0836/senior-os-software-engineer-field-engagement-analytics?team=SFTWR",
+      "identifier": "Senior OS Software Engineer, Field Engagement & An_ngagement-analytics?team=SFTWR"
+    },
+    {
+      "title": "Site Services Supervisor, Data Center",
+      "url": "https://jobs.apple.com/en-us/details/200658661-6172/site-services-supervisor-data-center?team=SFTWR",
+      "identifier": "Site Services Supervisor, Data Center_ervisor-data-center?team=SFTWR"
+    },
+    {
+      "title": "Tools and Automation Engineer, OS Build Quality",
+      "url": "https://jobs.apple.com/en-us/details/200659600-3543/tools-and-automation-engineer-os-build-quality?team=SFTWR",
+      "identifier": "Tools and Automation Engineer, OS Build Quality_er-os-build-quality?team=SFTWR"
+    },
+    {
+      "title": "Maps Operations Program Lead",
+      "url": "https://jobs.apple.com/en-us/details/200657310-0157/maps-operations-program-lead?team=SFTWR",
+      "identifier": "Maps Operations Program Lead_ations-program-lead?team=SFTWR"
+    },
+    {
+      "title": "Software Engineer - Location & Spatial Awareness, Sensing & Connectivity",
+      "url": "https://jobs.apple.com/en-us/details/200659159-0836/software-engineer-location-spatial-awareness-sensing-connectivity?team=SFTWR",
+      "identifier": "Software Engineer - Location & Spatial Awareness, _ensing-connectivity?team=SFTWR"
+    },
+    {
+      "title": "Critical Facilities Technician, Data Center Operations",
+      "url": "https://jobs.apple.com/en-us/details/200659430-6709/critical-facilities-technician-data-center-operations?team=SFTWR",
+      "identifier": "Critical Facilities Technician, Data Center Operat_a-center-operations?team=SFTWR"
+    },
+    {
+      "title": "Technical Project Manager, AI & Data Platforms (AiDP)",
+      "url": "https://jobs.apple.com/en-us/details/200659451-3956/technical-project-manager-ai-data-platforms-aidp?team=SFTWR",
+      "identifier": "Technical Project Manager, AI & Data Platforms (Ai_data-platforms-aidp?team=SFTWR"
+    },
+    {
+      "title": "Engineering Project Manager (SAP), IS&T Enterprise Systems",
+      "url": "https://jobs.apple.com/en-us/details/200645202-0240/engineering-project-manager-sap-is-t-enterprise-systems?team=SFTWR",
+      "identifier": "Engineering Project Manager (SAP), IS&T Enterprise_-enterprise-systems?team=SFTWR"
+    },
+    {
+      "title": "Product Manager - Campaign Management for Brand Advertising",
+      "url": "https://jobs.apple.com/en-us/details/200636743-2621/product-manager-campaign-management-for-brand-advertising?team=SFTWR",
+      "identifier": "Product Manager - Campaign Management for Brand Ad_r-brand-advertising?team=SFTWR"
+    },
+    {
+      "title": "Machine Learning Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200657324-0836/machine-learning-engineer?team=MLAI",
+      "identifier": "Machine Learning Engineer_ne-learning-engineer?team=MLAI"
+    },
+    {
+      "title": "OS Build Quality - Quality Engineering Manager",
+      "url": "https://jobs.apple.com/en-us/details/200659521-3543/os-build-quality-quality-engineering-manager?team=SFTWR",
+      "identifier": "OS Build Quality - Quality Engineering Manager_engineering-manager?team=SFTWR"
+    },
+    {
+      "title": "Technical Data Product Manager, Apple Media Marketing Data",
+      "url": "https://jobs.apple.com/en-us/details/200658934-0670/technical-data-product-manager-apple-media-marketing-data?team=SFTWR",
+      "identifier": "Technical Data Product Manager, Apple Media Market_edia-marketing-data?team=SFTWR"
+    },
+    {
+      "title": "Site Reliability Engineer, Physical Infrastructure",
+      "url": "https://jobs.apple.com/en-us/details/200658975-0836/site-reliability-engineer-physical-infrastructure?team=SFTWR",
+      "identifier": "Site Reliability Engineer, Physical Infrastructure_ical-infrastructure?team=SFTWR"
+    },
+    {
+      "title": "Machine Learning Compute Efficiency Lead, Infrastructure & Planning",
+      "url": "https://jobs.apple.com/en-us/details/200659537-0836/machine-learning-compute-efficiency-lead-infrastructure-planning?team=SFTWR",
+      "identifier": "Machine Learning Compute Efficiency Lead, Infrastr_astructure-planning?team=SFTWR"
+    },
+    {
+      "title": "Core BringUp Engineer, Core OS",
+      "url": "https://jobs.apple.com/en-us/details/200659480-0836/core-bringup-engineer-core-os?team=SFTWR",
+      "identifier": "Core BringUp Engineer, Core OS_up-engineer-core-os?team=SFTWR"
+    },
+    {
+      "title": "Software Development Engineer in Test - Kernel Quality Engineering, Core OS",
+      "url": "https://jobs.apple.com/en-us/details/200659294-0836/software-development-engineer-in-test-kernel-quality-engineering-core-os?team=SFTWR",
+      "identifier": "Software Development Engineer in Test - Kernel Qua_engineering-core-os?team=SFTWR"
+    },
+    {
+      "title": "Pre-Silicon Infrastructure Software Engineer, Core OS",
+      "url": "https://jobs.apple.com/en-us/details/200659281-0836/pre-silicon-infrastructure-software-engineer-core-os?team=SFTWR",
+      "identifier": "Pre-Silicon Infrastructure Software Engineer, Core_re-engineer-core-os?team=SFTWR"
+    },
+    {
+      "title": "Software Engineer, Information Systems & Technology",
+      "url": "https://jobs.apple.com/en-us/details/200653729-0157/software-engineer-information-systems-technology?team=SFTWR",
+      "identifier": "Software Engineer, Information Systems & Technolog_-systems-technology?team=SFTWR"
+    },
+    {
+      "title": "Governance & Operations Lead, Infrastructure & Planning",
+      "url": "https://jobs.apple.com/en-us/details/200659391-0836/governance-operations-lead-infrastructure-planning?team=SFTWR",
+      "identifier": "Governance & Operations Lead, Infrastructure & Pla_astructure-planning?team=SFTWR"
+    }
+  ],
   "job_count_text": "",
-  "timestamp": "2026-04-23T16:53:36.536731"
+  "timestamp": "2026-04-23T17:10:39.293486"
 }

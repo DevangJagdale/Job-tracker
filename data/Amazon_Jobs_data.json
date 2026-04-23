@@ -9,6 +9,11 @@
       "identifier": "Full-time roles for graduates_tudent-programs/jobs-for-grads"
     },
     {
+      "title": "ASIC Engineer, Project Leo",
+      "url": "https://www.amazon.jobs/jobs/3176560",
+      "identifier": "ASIC Engineer, Project Leo_//www.amazon.jobs/jobs/3176560"
+    },
+    {
       "title": "2026 Customer Success Manager Full-Time",
       "url": "https://www.amazon.jobs/jobs/10376352",
       "identifier": "2026 Customer Success Manager Full-Time_/www.amazon.jobs/jobs/10376352"
@@ -34,11 +39,6 @@
       "identifier": "Network Development Engineer_//www.amazon.jobs/jobs/3176561"
     },
     {
-      "title": "ASIC Engineer, Project Leo",
-      "url": "https://www.amazon.jobs/jobs/3176560",
-      "identifier": "ASIC Engineer, Project Leo_//www.amazon.jobs/jobs/3176560"
-    },
-    {
       "title": "Hardware Development Engineer, Quantum Computing",
       "url": "https://www.amazon.jobs/jobs/3176565",
       "identifier": "Hardware Development Engineer, Quantum Computing_//www.amazon.jobs/jobs/3176565"
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-23T16:58:13.124588"
+  "timestamp": "2026-04-23T17:15:17.466221"
 }

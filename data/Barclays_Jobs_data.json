@@ -1,17 +1,12 @@
 {
   "page_title": "Search our Job Opportunities at Barclays",
   "url": "https://search.jobs.barclays/search-jobs/United%20States/13015/2/6252001/39x76/-98x5/50/2",
-  "total_jobs": 13,
+  "total_jobs": 11,
   "jobs": [
     {
       "title": "Investment Banking Sustainable Banking Group, VP",
       "url": "https://search.jobs.barclays/job/new-york/investment-banking-sustainable-banking-group-vp/13015/94232450560",
       "identifier": "Investment Banking Sustainable Banking Group, VP_ing-group-vp/13015/94232450560"
-    },
-    {
-      "title": "Senior Business Analyst",
-      "url": "https://search.jobs.barclays/job/new-york/senior-business-analyst/13015/94232447120",
-      "identifier": "Senior Business Analyst_ness-analyst/13015/94232447120"
     },
     {
       "title": "International Corporate Bank Coverage - Funds & Sponsors",
@@ -54,21 +49,16 @@
       "identifier": "Compliance Advisory - VP_-advisory-vp/13015/94195072448"
     },
     {
+      "title": "Internal Audit Climate Risk, VP",
+      "url": "https://search.jobs.barclays/job/new-york/internal-audit-climate-risk-vp/13015/94081886960",
+      "identifier": "Internal Audit Climate Risk, VP_mate-risk-vp/13015/94081886960"
+    },
+    {
       "title": "Data Engineer AVP",
       "url": "https://search.jobs.barclays/job/whippany/data-engineer-avp/13015/94081886944",
       "identifier": "Data Engineer AVP_engineer-avp/13015/94081886944"
-    },
-    {
-      "title": "AVP Acquisition Credit Strategies",
-      "url": "https://search.jobs.barclays/job/new-york/avp-acquisition-credit-strategies/13015/94081857952",
-      "identifier": "AVP Acquisition Credit Strategies_t-strategies/13015/94081857952"
-    },
-    {
-      "title": "Technology Product Owner, Markets Sales Technology",
-      "url": "https://search.jobs.barclays/job/whippany/technology-product-owner-markets-sales-technology/13015/94069401552",
-      "identifier": "Technology Product Owner, Markets Sales Technology_s-technology/13015/94069401552"
     }
   ],
-  "job_count_text": "121",
-  "timestamp": "2026-04-22T23:37:51.308204"
+  "job_count_text": "124",
+  "timestamp": "2026-04-22T23:55:11.193193"
 }

@@ -4,6 +4,11 @@
   "total_jobs": 19,
   "jobs": [
     {
+      "title": "Software Engineer - Location & Spatial Awareness, Sensing & Connectivity",
+      "url": "https://jobs.apple.com/en-us/details/200659159-0836/software-engineer-location-spatial-awareness-sensing-connectivity?team=SFTWR",
+      "identifier": "Software Engineer - Location & Spatial Awareness, _ensing-connectivity?team=SFTWR"
+    },
+    {
       "title": "Critical Facilities Technician, Data Center Operations",
       "url": "https://jobs.apple.com/en-us/details/200659430-6709/critical-facilities-technician-data-center-operations?team=SFTWR",
       "identifier": "Critical Facilities Technician, Data Center Operat_a-center-operations?team=SFTWR"
@@ -92,13 +97,8 @@
       "title": "Data Scientist - Survey Design, Data Annotation, and Machine Learning Evaluation",
       "url": "https://jobs.apple.com/en-us/details/200659168-0836/data-scientist-survey-design-data-annotation-and-machine-learning-evaluation?team=MLAI",
       "identifier": "Data Scientist - Survey Design, Data Annotation, a_-learning-evaluation?team=MLAI"
-    },
-    {
-      "title": "Software Development Engineer, Wireless Technologies & Ecosystems",
-      "url": "https://jobs.apple.com/en-us/details/200658689-0836/software-development-engineer-wireless-technologies-ecosystems?team=SFTWR",
-      "identifier": "Software Development Engineer, Wireless Technologi_nologies-ecosystems?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-23T04:56:36.569380"
+  "timestamp": "2026-04-23T05:13:31.712217"
 }

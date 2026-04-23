@@ -1,8 +1,23 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 16,
+  "total_jobs": 17,
   "jobs": [
+    {
+      "title": "Sr. Software Engineer, App Processing Infrastructure",
+      "url": "https://jobs.apple.com/en-us/details/200654982-3337/sr-software-engineer-app-processing-infrastructure?team=SFTWR",
+      "identifier": "Sr. Software Engineer, App Processing Infrastructu_sing-infrastructure?team=SFTWR"
+    },
+    {
+      "title": "Machine Learning (MLOps) Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200657395-0836/machine-learning-mlops-engineer?team=MLAI",
+      "identifier": "Machine Learning (MLOps) Engineer_rning-mlops-engineer?team=MLAI"
+    },
+    {
+      "title": "Engineering Program Manager - Wallet and Payments",
+      "url": "https://jobs.apple.com/en-us/details/200652162-0836/engineering-program-manager-wallet-and-payments?team=SFTWR",
+      "identifier": "Engineering Program Manager - Wallet and Payments_wallet-and-payments?team=SFTWR"
+    },
     {
       "title": "Product Design Engineer (Wallet, Payment and Commerce)",
       "url": "https://jobs.apple.com/en-us/details/200645083-0836/product-design-engineer-wallet-payment-and-commerce?team=SFTWR",
@@ -72,18 +87,8 @@
       "title": "Maps Operations Program Lead",
       "url": "https://jobs.apple.com/en-us/details/200657310-0157/maps-operations-program-lead?team=SFTWR",
       "identifier": "Maps Operations Program Lead_ations-program-lead?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer - Location & Spatial Awareness, Sensing & Connectivity",
-      "url": "https://jobs.apple.com/en-us/details/200659159-0836/software-engineer-location-spatial-awareness-sensing-connectivity?team=SFTWR",
-      "identifier": "Software Engineer - Location & Spatial Awareness, _ensing-connectivity?team=SFTWR"
-    },
-    {
-      "title": "Critical Facilities Technician, Data Center Operations",
-      "url": "https://jobs.apple.com/en-us/details/200659430-6709/critical-facilities-technician-data-center-operations?team=SFTWR",
-      "identifier": "Critical Facilities Technician, Data Center Operat_a-center-operations?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-23T19:27:52.760166"
+  "timestamp": "2026-04-23T19:45:33.938860"
 }

@@ -4,6 +4,11 @@
   "total_jobs": 20,
   "jobs": [
     {
+      "title": "Engineering Project Manager (SAP), IS&T Enterprise Systems",
+      "url": "https://jobs.apple.com/en-us/details/200645202-0240/engineering-project-manager-sap-is-t-enterprise-systems?team=SFTWR",
+      "identifier": "Engineering Project Manager (SAP), IS&T Enterprise_-enterprise-systems?team=SFTWR"
+    },
+    {
       "title": "Product Manager - Campaign Management for Brand Advertising",
       "url": "https://jobs.apple.com/en-us/details/200636743-2621/product-manager-campaign-management-for-brand-advertising?team=SFTWR",
       "identifier": "Product Manager - Campaign Management for Brand Ad_r-brand-advertising?team=SFTWR"
@@ -97,13 +102,8 @@
       "title": "Software Engineer, Apple Game Services",
       "url": "https://jobs.apple.com/en-us/details/200659157-3337/software-engineer-apple-game-services?team=SFTWR",
       "identifier": "Software Engineer, Apple Game Services_apple-game-services?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer, WebKit Accessibility",
-      "url": "https://jobs.apple.com/en-us/details/200657564-0836/software-engineer-webkit-accessibility?team=SFTWR",
-      "identifier": "Software Engineer, WebKit Accessibility_ebkit-accessibility?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-23T02:49:15.229433"
+  "timestamp": "2026-04-23T03:06:28.182476"
 }

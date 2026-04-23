@@ -1,8 +1,13 @@
 {
   "page_title": "Search our Job Opportunities at Barclays",
   "url": "https://search.jobs.barclays/search-jobs/United%20States/13015/2/6252001/39x76/-98x5/50/2",
-  "total_jobs": 11,
+  "total_jobs": 12,
   "jobs": [
+    {
+      "title": "Finance Vice President",
+      "url": "https://search.jobs.barclays/job/wilmington/finance-vice-president/13015/94269990048",
+      "identifier": "Finance Vice President_ce-president/13015/94269990048"
+    },
     {
       "title": "Investment Banking Sustainable Banking Group, VP",
       "url": "https://search.jobs.barclays/job/new-york/investment-banking-sustainable-banking-group-vp/13015/94232450560",
@@ -60,5 +65,5 @@
     }
   ],
   "job_count_text": "124",
-  "timestamp": "2026-04-23T05:29:54.616991"
+  "timestamp": "2026-04-23T05:46:53.732239"
 }

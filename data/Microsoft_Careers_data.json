@@ -4,7 +4,12 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Senior Applied Scientist\nUnited States, Washington, Redmond + 2 more\nPosted 24 minutes ago",
+      "title": "Senior Software Engineer, Agent 365 - Tools\nUnited States, Washington, Redmond\nPosted 26 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556752620?domain=microsoft.com",
+      "identifier": "Senior Software Engineer, Agent 365 - Tools\nUnited_556752620?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Applied Scientist\nUnited States, Washington, Redmond + 2 more\nPosted 42 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556861125?domain=microsoft.com",
       "identifier": "Senior Applied Scientist\nUnited States, Washington_556861125?domain=microsoft.com"
     },
@@ -19,7 +24,7 @@
       "identifier": "Software Engineer\nUnited States, Washington, Redmo_556860756?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted an hour ago",
+      "title": "Senior Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556620649?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Multiple L_556620649?domain=microsoft.com"
     },
@@ -39,7 +44,7 @@
       "identifier": "Full Stack Engineer II\nUnited States, Washington, _556823697?domain=microsoft.com"
     },
     {
-      "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted 3 hours ago",
+      "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted 4 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556860233?domain=microsoft.com",
       "identifier": "Principal Software Engineer\nUnited States, Washing_556860233?domain=microsoft.com"
     },
@@ -47,13 +52,8 @@
       "title": "Principal Software Engineer (AI / Agentic Developer Productivity)\nUnited States, Washington, Redmond\nPosted 4 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556859105?domain=microsoft.com",
       "identifier": "Principal Software Engineer (AI / Agentic Develope_556859105?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Software Engineer (AI / Agentic Developer Productivity)\nUnited States, Washington, Redmond\nPosted 4 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556859064?domain=microsoft.com",
-      "identifier": "Senior Software Engineer (AI / Agentic Developer P_556859064?domain=microsoft.com"
     }
   ],
-  "job_count_text": "636",
-  "timestamp": "2026-04-23T21:35:54.596310"
+  "job_count_text": "637",
+  "timestamp": "2026-04-23T21:53:11.181515"
 }

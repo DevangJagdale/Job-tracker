@@ -4,6 +4,11 @@
   "total_jobs": 20,
   "jobs": [
     {
+      "title": "Technical Project Manager, AI & Data Platforms (AiDP)",
+      "url": "https://jobs.apple.com/en-us/details/200659451-3956/technical-project-manager-ai-data-platforms-aidp?team=SFTWR",
+      "identifier": "Technical Project Manager, AI & Data Platforms (Ai_data-platforms-aidp?team=SFTWR"
+    },
+    {
       "title": "Engineering Project Manager (SAP), IS&T Enterprise Systems",
       "url": "https://jobs.apple.com/en-us/details/200645202-0240/engineering-project-manager-sap-is-t-enterprise-systems?team=SFTWR",
       "identifier": "Engineering Project Manager (SAP), IS&T Enterprise_-enterprise-systems?team=SFTWR"
@@ -97,13 +102,8 @@
       "title": "Staff Machine Learning Engineer",
       "url": "https://jobs.apple.com/en-us/details/200645408-0836/staff-machine-learning-engineer?team=SFTWR",
       "identifier": "Staff Machine Learning Engineer_e-learning-engineer?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer, Apple Game Services",
-      "url": "https://jobs.apple.com/en-us/details/200659157-3337/software-engineer-apple-game-services?team=SFTWR",
-      "identifier": "Software Engineer, Apple Game Services_apple-game-services?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-23T03:23:41.171675"
+  "timestamp": "2026-04-23T03:40:51.259613"
 }

@@ -4,6 +4,16 @@
   "total_jobs": 10,
   "jobs": [
     {
+      "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted 15 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556852825?domain=microsoft.com",
+      "identifier": "Principal Software Engineer\nUnited States, Washing_556852825?domain=microsoft.com"
+    },
+    {
+      "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted 17 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556658313?domain=microsoft.com",
+      "identifier": "Principal Software Engineer\nUnited States, Washing_556658313?domain=microsoft.com"
+    },
+    {
       "title": "Software Engineer II - CTJ - Poly\nUnited States, Virginia, Reston + 1 more\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556860137?domain=microsoft.com",
       "identifier": "Software Engineer II - CTJ - Poly\nUnited States, V_556860137?domain=microsoft.com"
@@ -14,17 +24,17 @@
       "identifier": "Software Engineer - CTJ - Poly\nUnited States, Virg_556860973?domain=microsoft.com"
     },
     {
-      "title": "Member of Technical Staff - Backend Engineer\nUnited States, Washington, Redmond\nPosted 16 hours ago",
+      "title": "Member of Technical Staff - Backend Engineer\nUnited States, Washington, Redmond\nPosted 17 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556861071?domain=microsoft.com",
       "identifier": "Member of Technical Staff - Backend Engineer\nUnite_556861071?domain=microsoft.com"
     },
     {
-      "title": "Principal Software Engineer - Azure AI Translation & Language Team\nUnited States, Washington, Redmond\nPosted 17 hours ago",
+      "title": "Principal Software Engineer - Azure AI Translation & Language Team\nUnited States, Washington, Redmond\nPosted 18 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556860718?domain=microsoft.com",
       "identifier": "Principal Software Engineer - Azure AI Translation_556860718?domain=microsoft.com"
     },
     {
-      "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted 17 hours ago",
+      "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted 18 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556860602?domain=microsoft.com",
       "identifier": "Principal Software Engineer\nUnited States, Washing_556860602?domain=microsoft.com"
     },
@@ -34,26 +44,16 @@
       "identifier": "Principal Software Engineer\nUnited States, Washing_556861054?domain=microsoft.com"
     },
     {
-      "title": "Software Engineer II - Azure AI Translation & Language Team\nUnited States, Washington, Redmond\nPosted 18 hours ago",
+      "title": "Software Engineer II - Azure AI Translation & Language Team\nUnited States, Washington, Redmond\nPosted 19 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556860748?domain=microsoft.com",
       "identifier": "Software Engineer II - Azure AI Translation & Lang_556860748?domain=microsoft.com"
     },
     {
-      "title": "Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 19 hours ago",
+      "title": "Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 20 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556847409?domain=microsoft.com",
       "identifier": "Software Engineer\nUnited States, Multiple Location_556847409?domain=microsoft.com"
-    },
-    {
-      "title": "Data Engineer II\nUnited States, Washington, Redmond\nPosted 20 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556860992?domain=microsoft.com",
-      "identifier": "Data Engineer II\nUnited States, Washington, Redmon_556860992?domain=microsoft.com"
-    },
-    {
-      "title": "Cloud Network Engineer II\nUnited States, Multiple Locations, Multiple Locations\nPosted 20 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556847579?domain=microsoft.com",
-      "identifier": "Cloud Network Engineer II\nUnited States, Multiple _556847579?domain=microsoft.com"
     }
   ],
-  "job_count_text": "626",
-  "timestamp": "2026-04-23T15:59:50.089024"
+  "job_count_text": "628",
+  "timestamp": "2026-04-23T16:16:57.070885"
 }

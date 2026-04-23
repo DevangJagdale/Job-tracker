@@ -1,8 +1,49 @@
 {
   "page_title": "Search CVS Health Jobs | Find Your Next Career Opportunity",
   "url": "https://jobs.cvshealth.com/us/en/search-results",
-  "total_jobs": 0,
-  "jobs": [],
-  "job_count_text": "",
-  "timestamp": "2026-04-23T17:11:42.992311"
+  "total_jobs": 8,
+  "jobs": [
+    {
+      "title": "Epic Cogito Administrator",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0871727/Epic-Cogito-Administrator",
+      "identifier": "Epic Cogito Administrator_1727/Epic-Cogito-Administrator"
+    },
+    {
+      "title": "Lead Director - Mainframe Systems Engineering",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0888773/Lead-Director-Mainframe-Systems-Engineering",
+      "identifier": "Lead Director - Mainframe Systems Engineering_-Mainframe-Systems-Engineering"
+    },
+    {
+      "title": "Senior Web Developer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0879151/Senior-Web-Developer",
+      "identifier": "Senior Web Developer_/R0879151/Senior-Web-Developer"
+    },
+    {
+      "title": "Senior Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0891790/Senior-Software-Development-Engineer",
+      "identifier": "Senior Software Development Engineer_-Software-Development-Engineer"
+    },
+    {
+      "title": "Senior Solutions Engineer - Manhattan Active Warehouse Management",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0859775/Senior-Solutions-Engineer-Manhattan-Active-Warehouse-Management",
+      "identifier": "Senior Solutions Engineer - Manhattan Active Wareh_an-Active-Warehouse-Management"
+    },
+    {
+      "title": "Staff Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0885429/Staff-Software-Development-Engineer",
+      "identifier": "Staff Software Development Engineer_-Software-Development-Engineer"
+    },
+    {
+      "title": "Sr Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0894105/Sr-Software-Development-Engineer",
+      "identifier": "Sr Software Development Engineer_-Software-Development-Engineer"
+    },
+    {
+      "title": "Senior Integration - Site Reliability Engineer (SRE)",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0834201/Senior-Integration-Site-Reliability-Engineer-SRE",
+      "identifier": "Senior Integration - Site Reliability Engineer (SR_-Site-Reliability-Engineer-SRE"
+    }
+  ],
+  "job_count_text": "58",
+  "timestamp": "2026-04-23T17:45:45.763312"
 }

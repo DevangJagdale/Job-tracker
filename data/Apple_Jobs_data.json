@@ -4,6 +4,11 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Software Engineer, Authentication Experience",
+      "url": "https://jobs.apple.com/en-us/details/200659750-0836/software-engineer-authentication-experience?team=SFTWR",
+      "identifier": "Software Engineer, Authentication Experience_tication-experience?team=SFTWR"
+    },
+    {
       "title": "Software Engineer, Creativity Apps",
       "url": "https://jobs.apple.com/en-us/details/200646347-0670/software-engineer-creativity-apps?team=SFTWR",
       "identifier": "Software Engineer, Creativity Apps_eer-creativity-apps?team=SFTWR"
@@ -77,13 +82,8 @@
       "title": "Machine Learning Compute Efficiency Lead, Infrastructure & Planning",
       "url": "https://jobs.apple.com/en-us/details/200659537-0836/machine-learning-compute-efficiency-lead-infrastructure-planning?team=SFTWR",
       "identifier": "Machine Learning Compute Efficiency Lead, Infrastr_astructure-planning?team=SFTWR"
-    },
-    {
-      "title": "Core BringUp Engineer, Core OS",
-      "url": "https://jobs.apple.com/en-us/details/200659480-0836/core-bringup-engineer-core-os?team=SFTWR",
-      "identifier": "Core BringUp Engineer, Core OS_up-engineer-core-os?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-23T18:18:53.035027"
+  "timestamp": "2026-04-23T18:36:33.394633"
 }

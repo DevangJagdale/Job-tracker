@@ -4,6 +4,11 @@
   "total_jobs": 20,
   "jobs": [
     {
+      "title": "Machine Learning Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200657324-0836/machine-learning-engineer?team=MLAI",
+      "identifier": "Machine Learning Engineer_ne-learning-engineer?team=MLAI"
+    },
+    {
       "title": "OS Build Quality - Quality Engineering Manager",
       "url": "https://jobs.apple.com/en-us/details/200659521-3543/os-build-quality-quality-engineering-manager?team=SFTWR",
       "identifier": "OS Build Quality - Quality Engineering Manager_engineering-manager?team=SFTWR"
@@ -97,13 +102,8 @@
       "title": "Software Engineer, WebKit Accessibility",
       "url": "https://jobs.apple.com/en-us/details/200657564-0836/software-engineer-webkit-accessibility?team=SFTWR",
       "identifier": "Software Engineer, WebKit Accessibility_ebkit-accessibility?team=SFTWR"
-    },
-    {
-      "title": "Senior Software Engineer, Cloud Efficiency",
-      "url": "https://jobs.apple.com/en-us/details/200656766-0157/senior-software-engineer-cloud-efficiency?team=SFTWR",
-      "identifier": "Senior Software Engineer, Cloud Efficiency_er-cloud-efficiency?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-23T00:47:22.323700"
+  "timestamp": "2026-04-23T01:04:34.946360"
 }

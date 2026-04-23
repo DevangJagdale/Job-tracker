@@ -4,6 +4,16 @@
   "total_jobs": 17,
   "jobs": [
     {
+      "title": "Core Bring Up Engineer, Core OS",
+      "url": "https://jobs.apple.com/en-us/details/200643009-0836/core-bring-up-engineer-core-os?team=SFTWR",
+      "identifier": "Core Bring Up Engineer, Core OS_up-engineer-core-os?team=SFTWR"
+    },
+    {
+      "title": "Software Engineer- iOS Engineer - SpringBoard Multitasking - System Experience",
+      "url": "https://jobs.apple.com/en-us/details/200659816-0836/software-engineer-ios-engineer-springboard-multitasking-system-experience?team=SFTWR",
+      "identifier": "Software Engineer- iOS Engineer - SpringBoard Mult_g-system-experience?team=SFTWR"
+    },
+    {
       "title": "Sr. Manager, Product System Test, Wireless Technologies & Ecosystems",
       "url": "https://jobs.apple.com/en-us/details/200659717-0836/sr-manager-product-system-test-wireless-technologies-ecosystems?team=SFTWR",
       "identifier": "Sr. Manager, Product System Test, Wireless Technol_nologies-ecosystems?team=SFTWR"
@@ -77,18 +87,8 @@
       "title": "Computational Linguist, Proactive",
       "url": "https://jobs.apple.com/en-us/details/200650142-0836/computational-linguist-proactive?team=SFTWR",
       "identifier": "Computational Linguist, Proactive_-linguist-proactive?team=SFTWR"
-    },
-    {
-      "title": "Wi-Fi Software Engineer - Frameworks & AI/ML, Wireless Technologies & Ecosystems",
-      "url": "https://jobs.apple.com/en-us/details/200646833-0836/wi-fi-software-engineer-frameworks-ai-ml-wireless-technologies-ecosystems?team=SFTWR",
-      "identifier": "Wi-Fi Software Engineer - Frameworks & AI/ML, Wire_nologies-ecosystems?team=SFTWR"
-    },
-    {
-      "title": "Machine Learning Engineer \u2014 Camera & Photos, Creative Foundations",
-      "url": "https://jobs.apple.com/en-us/details/200659507-3543/machine-learning-engineer-camera-photos-creative-foundations?team=SFTWR",
-      "identifier": "Machine Learning Engineer \u2014 Camera & Photos, Creat_reative-foundations?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-23T21:53:27.965298"
+  "timestamp": "2026-04-23T22:10:49.623431"
 }

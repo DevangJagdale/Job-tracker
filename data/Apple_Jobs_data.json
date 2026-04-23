@@ -4,6 +4,11 @@
   "total_jobs": 19,
   "jobs": [
     {
+      "title": "Technical Data Product Manager, Apple Media Marketing Data",
+      "url": "https://jobs.apple.com/en-us/details/200658934-0670/technical-data-product-manager-apple-media-marketing-data?team=SFTWR",
+      "identifier": "Technical Data Product Manager, Apple Media Market_edia-marketing-data?team=SFTWR"
+    },
+    {
       "title": "Senior OS Software Engineer, Field Engagement & Analytics",
       "url": "https://jobs.apple.com/en-us/details/200659530-0836/senior-os-software-engineer-field-engagement-analytics?team=SFTWR",
       "identifier": "Senior OS Software Engineer, Field Engagement & An_ngagement-analytics?team=SFTWR"
@@ -59,11 +64,6 @@
       "identifier": "OS Build Quality - Quality Engineering Manager_engineering-manager?team=SFTWR"
     },
     {
-      "title": "Technical Data Product Manager, Apple Media Marketing Data",
-      "url": "https://jobs.apple.com/en-us/details/200658934-0670/technical-data-product-manager-apple-media-marketing-data?team=SFTWR",
-      "identifier": "Technical Data Product Manager, Apple Media Market_edia-marketing-data?team=SFTWR"
-    },
-    {
       "title": "Site Reliability Engineer, Physical Infrastructure",
       "url": "https://jobs.apple.com/en-us/details/200658975-0836/site-reliability-engineer-physical-infrastructure?team=SFTWR",
       "identifier": "Site Reliability Engineer, Physical Infrastructure_ical-infrastructure?team=SFTWR"
@@ -100,5 +100,5 @@
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-23T17:10:39.293486"
+  "timestamp": "2026-04-23T17:27:42.527311"
 }

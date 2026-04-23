@@ -4,6 +4,16 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Operations Critical Facilities Supervisor, Data Center",
+      "url": "https://jobs.apple.com/en-us/details/200658660-6709/operations-critical-facilities-supervisor-data-center?team=SFTWR",
+      "identifier": "Operations Critical Facilities Supervisor, Data Ce_ervisor-data-center?team=SFTWR"
+    },
+    {
+      "title": "Engineering Program Manager - Sensing & Connectivity",
+      "url": "https://jobs.apple.com/en-us/details/200659802-0836/engineering-program-manager-sensing-connectivity?team=SFTWR",
+      "identifier": "Engineering Program Manager - Sensing & Connectivi_ensing-connectivity?team=SFTWR"
+    },
+    {
       "title": "Software Device Driver Engineer - Core I/O, Core OS",
       "url": "https://jobs.apple.com/en-us/details/200659804-0157/software-device-driver-engineer-core-i-o-core-os?team=SFTWR",
       "identifier": "Software Device Driver Engineer - Core I/O, Core O_er-core-i-o-core-os?team=SFTWR"
@@ -72,18 +82,8 @@
       "title": "Logistics Technician, Data Center Operations",
       "url": "https://jobs.apple.com/en-us/details/200658642-1902/logistics-technician-data-center-operations?team=SFTWR",
       "identifier": "Logistics Technician, Data Center Operations_a-center-operations?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer, Authentication Experience",
-      "url": "https://jobs.apple.com/en-us/details/200659750-0836/software-engineer-authentication-experience?team=SFTWR",
-      "identifier": "Software Engineer, Authentication Experience_tication-experience?team=SFTWR"
-    },
-    {
-      "title": "Technical Data Product Manager, Apple Media Marketing Data",
-      "url": "https://jobs.apple.com/en-us/details/200658934-0670/technical-data-product-manager-apple-media-marketing-data?team=SFTWR",
-      "identifier": "Technical Data Product Manager, Apple Media Market_edia-marketing-data?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-23T21:01:37.381525"
+  "timestamp": "2026-04-23T21:18:55.972272"
 }

@@ -4,6 +4,11 @@
   "total_jobs": 17,
   "jobs": [
     {
+      "title": "Staff Machine Learning Engineer, Information Intelligence",
+      "url": "https://jobs.apple.com/en-us/details/200611866-3337/staff-machine-learning-engineer-information-intelligence?team=SFTWR",
+      "identifier": "Staff Machine Learning Engineer, Information Intel_mation-intelligence?team=SFTWR"
+    },
+    {
       "title": "Sr. Software Engineer, App Processing Infrastructure",
       "url": "https://jobs.apple.com/en-us/details/200654982-3337/sr-software-engineer-app-processing-infrastructure?team=SFTWR",
       "identifier": "Sr. Software Engineer, App Processing Infrastructu_sing-infrastructure?team=SFTWR"
@@ -32,11 +37,6 @@
       "title": "Senior Software Engineer, Apple Services Engineering, iCloud Platform",
       "url": "https://jobs.apple.com/en-us/details/200652502-0836/senior-software-engineer-apple-services-engineering-icloud-platform?team=SFTWR",
       "identifier": "Senior Software Engineer, Apple Services Engineeri_ing-icloud-platform?team=SFTWR"
-    },
-    {
-      "title": "Staff Machine Learning Engineer, Information Intelligence",
-      "url": "https://jobs.apple.com/en-us/details/200611866-3337/staff-machine-learning-engineer-information-intelligence?team=SFTWR",
-      "identifier": "Staff Machine Learning Engineer, Information Intel_mation-intelligence?team=SFTWR"
     },
     {
       "title": "Computational Linguist, Proactive",
@@ -90,5 +90,5 @@
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-23T20:19:45.865950"
+  "timestamp": "2026-04-23T20:36:46.796539"
 }

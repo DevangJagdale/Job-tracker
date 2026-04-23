@@ -4,7 +4,17 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Software Engineer\nUnited States, Washington, Redmond + 1 more\nPosted an hour ago",
+      "title": "Software Engineer\nUnited States, Washington, Redmond\nPosted 9 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556860756?domain=microsoft.com",
+      "identifier": "Software Engineer\nUnited States, Washington, Redmo_556860756?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 27 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556620649?domain=microsoft.com",
+      "identifier": "Senior Software Engineer\nUnited States, Multiple L_556620649?domain=microsoft.com"
+    },
+    {
+      "title": "Software Engineer\nUnited States, Washington, Redmond + 1 more\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556861124?domain=microsoft.com",
       "identifier": "Software Engineer\nUnited States, Washington, Redmo_556861124?domain=microsoft.com"
     },
@@ -24,36 +34,26 @@
       "identifier": "Principal Software Engineer\nUnited States, Washing_556860233?domain=microsoft.com"
     },
     {
-      "title": "Principal Software Engineer (AI / Agentic Developer Productivity)\nUnited States, Washington, Redmond\nPosted 2 hours ago",
+      "title": "Principal Software Engineer (AI / Agentic Developer Productivity)\nUnited States, Washington, Redmond\nPosted 3 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556859105?domain=microsoft.com",
       "identifier": "Principal Software Engineer (AI / Agentic Develope_556859105?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer (AI / Agentic Developer Productivity)\nUnited States, Washington, Redmond\nPosted 2 hours ago",
+      "title": "Senior Software Engineer (AI / Agentic Developer Productivity)\nUnited States, Washington, Redmond\nPosted 3 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556859064?domain=microsoft.com",
       "identifier": "Senior Software Engineer (AI / Agentic Developer P_556859064?domain=microsoft.com"
     },
     {
-      "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted 4 hours ago",
+      "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted 5 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556852825?domain=microsoft.com",
       "identifier": "Principal Software Engineer\nUnited States, Washing_556852825?domain=microsoft.com"
     },
     {
-      "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted 4 hours ago",
+      "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted 5 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556658313?domain=microsoft.com",
       "identifier": "Principal Software Engineer\nUnited States, Washing_556658313?domain=microsoft.com"
-    },
-    {
-      "title": "Software Engineer II - CTJ - Poly\nUnited States, Virginia, Reston + 1 more\nPosted 5 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556860137?domain=microsoft.com",
-      "identifier": "Software Engineer II - CTJ - Poly\nUnited States, V_556860137?domain=microsoft.com"
-    },
-    {
-      "title": "Software Engineer - CTJ - Poly\nUnited States, Virginia, Reston + 1 more\nPosted 13 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556860973?domain=microsoft.com",
-      "identifier": "Software Engineer - CTJ - Poly\nUnited States, Virg_556860973?domain=microsoft.com"
     }
   ],
-  "job_count_text": "633",
-  "timestamp": "2026-04-23T20:19:30.012826"
+  "job_count_text": "635",
+  "timestamp": "2026-04-23T20:36:30.374588"
 }

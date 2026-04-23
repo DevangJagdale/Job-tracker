@@ -4,6 +4,31 @@
   "total_jobs": 20,
   "jobs": [
     {
+      "title": "OS Build Quality - Quality Engineering Manager",
+      "url": "https://jobs.apple.com/en-us/details/200659521-3543/os-build-quality-quality-engineering-manager?team=SFTWR",
+      "identifier": "OS Build Quality - Quality Engineering Manager_engineering-manager?team=SFTWR"
+    },
+    {
+      "title": "Technical Data Product Manager, Apple Media Marketing Data",
+      "url": "https://jobs.apple.com/en-us/details/200658934-0670/technical-data-product-manager-apple-media-marketing-data?team=SFTWR",
+      "identifier": "Technical Data Product Manager, Apple Media Market_edia-marketing-data?team=SFTWR"
+    },
+    {
+      "title": "Senior OS Software Engineer, Field Engagement & Analytics",
+      "url": "https://jobs.apple.com/en-us/details/200659530-0836/senior-os-software-engineer-field-engagement-analytics?team=SFTWR",
+      "identifier": "Senior OS Software Engineer, Field Engagement & An_ngagement-analytics?team=SFTWR"
+    },
+    {
+      "title": "Site Reliability Engineer, Physical Infrastructure",
+      "url": "https://jobs.apple.com/en-us/details/200658975-0836/site-reliability-engineer-physical-infrastructure?team=SFTWR",
+      "identifier": "Site Reliability Engineer, Physical Infrastructure_ical-infrastructure?team=SFTWR"
+    },
+    {
+      "title": "Machine Learning Compute Efficiency Lead, Infrastructure & Planning",
+      "url": "https://jobs.apple.com/en-us/details/200659537-0836/machine-learning-compute-efficiency-lead-infrastructure-planning?team=SFTWR",
+      "identifier": "Machine Learning Compute Efficiency Lead, Infrastr_astructure-planning?team=SFTWR"
+    },
+    {
       "title": "Core BringUp Engineer, Core OS",
       "url": "https://jobs.apple.com/en-us/details/200659480-0836/core-bringup-engineer-core-os?team=SFTWR",
       "identifier": "Core BringUp Engineer, Core OS_up-engineer-core-os?team=SFTWR"
@@ -77,33 +102,8 @@
       "title": "Senior Software Engineer, Cloud Efficiency",
       "url": "https://jobs.apple.com/en-us/details/200656766-0157/senior-software-engineer-cloud-efficiency?team=SFTWR",
       "identifier": "Senior Software Engineer, Cloud Efficiency_er-cloud-efficiency?team=SFTWR"
-    },
-    {
-      "title": "System Experience Foundations Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200659411-0836/system-experience-foundations-engineer?team=SFTWR",
-      "identifier": "System Experience Foundations Engineer_oundations-engineer?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer, Ai & Data Platforms",
-      "url": "https://jobs.apple.com/en-us/details/200642085-0240/software-engineer-ai-data-platforms?team=SFTWR",
-      "identifier": "Software Engineer, Ai & Data Platforms_r-ai-data-platforms?team=SFTWR"
-    },
-    {
-      "title": "Tools and Automation Engineer, Audio & Media Technologies",
-      "url": "https://jobs.apple.com/en-us/details/200659424-3543/tools-and-automation-engineer-audio-media-technologies?team=SFTWR",
-      "identifier": "Tools and Automation Engineer, Audio & Media Techn_-media-technologies?team=SFTWR"
-    },
-    {
-      "title": "Software Engineering Manager (Supply Chain Solutions), Supply Chain Integration",
-      "url": "https://jobs.apple.com/en-us/details/200658433-0157/software-engineering-manager-supply-chain-solutions-supply-chain-integration?team=SFTWR",
-      "identifier": "Software Engineering Manager (Supply Chain Solutio_y-chain-integration?team=SFTWR"
-    },
-    {
-      "title": "Senior Machine Learning Engineer, Video Quality Systems",
-      "url": "https://jobs.apple.com/en-us/details/200658012-0836/senior-machine-learning-engineer-video-quality-systems?team=SFTWR",
-      "identifier": "Senior Machine Learning Engineer, Video Quality Sy_deo-quality-systems?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-23T00:30:08.239527"
+  "timestamp": "2026-04-23T00:47:22.323700"
 }

@@ -1,49 +1,39 @@
 {
   "page_title": "Search CVS Health Jobs | Find Your Next Career Opportunity",
   "url": "https://jobs.cvshealth.com/us/en/search-results",
-  "total_jobs": 8,
+  "total_jobs": 6,
   "jobs": [
-    {
-      "title": "Staff Software Development Engineer (IBMi/AS400)",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0894421/Staff-Software-Development-Engineer-IBMi-AS400",
-      "identifier": "Staff Software Development Engineer (IBMi/AS400)_evelopment-Engineer-IBMi-AS400"
-    },
-    {
-      "title": "Senior Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0894396/Senior-Software-Development-Engineer",
-      "identifier": "Senior Software Development Engineer_-Software-Development-Engineer"
-    },
-    {
-      "title": "Senior Software Development Engineer (IBMi/AS400)",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0894399/Senior-Software-Development-Engineer-IBMi-AS400",
-      "identifier": "Senior Software Development Engineer (IBMi/AS400)_evelopment-Engineer-IBMi-AS400"
-    },
     {
       "title": "Principal Software Development Engineer",
       "url": "https://jobs.cvshealth.com/us/en/job/R0882873/Principal-Software-Development-Engineer",
       "identifier": "Principal Software Development Engineer_-Software-Development-Engineer"
     },
     {
+      "title": "Staff Software Development Engineer (IBMi/AS400)",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0894427/Staff-Software-Development-Engineer-IBMi-AS400",
+      "identifier": "Staff Software Development Engineer (IBMi/AS400)_evelopment-Engineer-IBMi-AS400"
+    },
+    {
+      "title": "Senior Software Development Engineer (IBMi/AS400)",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0894406/Senior-Software-Development-Engineer-IBMi-AS400",
+      "identifier": "Senior Software Development Engineer (IBMi/AS400)_evelopment-Engineer-IBMi-AS400"
+    },
+    {
+      "title": "Senior Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0894391/Senior-Software-Development-Engineer",
+      "identifier": "Senior Software Development Engineer_-Software-Development-Engineer"
+    },
+    {
+      "title": "Senior Software Engineer - Full Stack",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0886508/Senior-Software-Engineer-Full-Stack",
+      "identifier": "Senior Software Engineer - Full Stack_r-Software-Engineer-Full-Stack"
+    },
+    {
       "title": "Staff Software Development and Devops Engineer",
       "url": "https://jobs.cvshealth.com/us/en/job/R0749842/Staff-Software-Development-and-Devops-Engineer",
       "identifier": "Staff Software Development and Devops Engineer_evelopment-and-Devops-Engineer"
-    },
-    {
-      "title": "Staff Software Development and DevOps Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0749847/Staff-Software-Development-and-DevOps-Engineer",
-      "identifier": "Staff Software Development and DevOps Engineer_evelopment-and-DevOps-Engineer"
-    },
-    {
-      "title": "Senior Full Stack .Net Developer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0888904/Senior-Full-Stack-Net-Developer",
-      "identifier": "Senior Full Stack .Net Developer_enior-Full-Stack-Net-Developer"
-    },
-    {
-      "title": "Senior Manager - Software Development Engineering",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0786035/Senior-Manager-Software-Development-Engineering",
-      "identifier": "Senior Manager - Software Development Engineering_ftware-Development-Engineering"
     }
   ],
   "job_count_text": "52",
-  "timestamp": "2026-04-23T06:39:25.391992"
+  "timestamp": "2026-04-23T06:56:21.511366"
 }

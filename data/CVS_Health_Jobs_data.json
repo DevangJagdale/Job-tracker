@@ -4,9 +4,24 @@
   "total_jobs": 7,
   "jobs": [
     {
+      "title": "Principal Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0882873/Principal-Software-Development-Engineer",
+      "identifier": "Principal Software Development Engineer_-Software-Development-Engineer"
+    },
+    {
       "title": "Staff Software Development Engineer (IBMi/AS400)",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0894421/Staff-Software-Development-Engineer-IBMi-AS400",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0894427/Staff-Software-Development-Engineer-IBMi-AS400",
       "identifier": "Staff Software Development Engineer (IBMi/AS400)_evelopment-Engineer-IBMi-AS400"
+    },
+    {
+      "title": "Senior Software Development Engineer (IBMi/AS400)",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0894406/Senior-Software-Development-Engineer-IBMi-AS400",
+      "identifier": "Senior Software Development Engineer (IBMi/AS400)_evelopment-Engineer-IBMi-AS400"
+    },
+    {
+      "title": "Senior Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0894391/Senior-Software-Development-Engineer",
+      "identifier": "Senior Software Development Engineer_-Software-Development-Engineer"
     },
     {
       "title": "Senior Software Development Engineer (Pharmacy Services)",
@@ -22,23 +37,8 @@
       "title": "Staff Software Development and DevOps Engineer",
       "url": "https://jobs.cvshealth.com/us/en/job/R0749847/Staff-Software-Development-and-DevOps-Engineer",
       "identifier": "Staff Software Development and DevOps Engineer_evelopment-and-DevOps-Engineer"
-    },
-    {
-      "title": "Principal Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0882873/Principal-Software-Development-Engineer",
-      "identifier": "Principal Software Development Engineer_-Software-Development-Engineer"
-    },
-    {
-      "title": "Senior Software Development Engineer (IBMi/AS400)",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0894406/Senior-Software-Development-Engineer-IBMi-AS400",
-      "identifier": "Senior Software Development Engineer (IBMi/AS400)_evelopment-Engineer-IBMi-AS400"
-    },
-    {
-      "title": "Senior Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0894391/Senior-Software-Development-Engineer",
-      "identifier": "Senior Software Development Engineer_-Software-Development-Engineer"
     }
   ],
-  "job_count_text": "49",
-  "timestamp": "2026-04-23T01:22:47.699896"
+  "job_count_text": "52",
+  "timestamp": "2026-04-23T01:40:00.928007"
 }

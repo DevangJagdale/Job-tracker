@@ -4,6 +4,11 @@
   "total_jobs": 20,
   "jobs": [
     {
+      "title": "Product Manager - Campaign Management for Brand Advertising",
+      "url": "https://jobs.apple.com/en-us/details/200636743-2621/product-manager-campaign-management-for-brand-advertising?team=SFTWR",
+      "identifier": "Product Manager - Campaign Management for Brand Ad_r-brand-advertising?team=SFTWR"
+    },
+    {
       "title": "Machine Learning Engineer",
       "url": "https://jobs.apple.com/en-us/details/200657324-0836/machine-learning-engineer?team=MLAI",
       "identifier": "Machine Learning Engineer_ne-learning-engineer?team=MLAI"
@@ -69,11 +74,6 @@
       "identifier": "Software Engineer_7/software-engineer?team=SFTWR"
     },
     {
-      "title": "Software Quality Engineering Manager",
-      "url": "https://jobs.apple.com/en-us/details/200623462-0836/software-quality-engineering-manager?team=SFTWR",
-      "identifier": "Software Quality Engineering Manager_engineering-manager?team=SFTWR"
-    },
-    {
       "title": "Machine Learning Engineer - Speech & Multimodal Language Modeling",
       "url": "https://jobs.apple.com/en-us/details/200659167-0836/machine-learning-engineer-speech-multimodal-language-modeling?team=MLAI",
       "identifier": "Machine Learning Engineer - Speech & Multimodal La_al-language-modeling?team=MLAI"
@@ -105,5 +105,5 @@
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-23T01:04:34.946360"
+  "timestamp": "2026-04-23T01:21:45.367898"
 }

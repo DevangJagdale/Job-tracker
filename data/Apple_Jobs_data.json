@@ -1,8 +1,13 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 19,
+  "total_jobs": 18,
   "jobs": [
+    {
+      "title": "Maps Operations Program Lead",
+      "url": "https://jobs.apple.com/en-us/details/200657310-0157/maps-operations-program-lead?team=SFTWR",
+      "identifier": "Maps Operations Program Lead_ations-program-lead?team=SFTWR"
+    },
     {
       "title": "Software Engineer - Location & Spatial Awareness, Sensing & Connectivity",
       "url": "https://jobs.apple.com/en-us/details/200659159-0836/software-engineer-location-spatial-awareness-sensing-connectivity?team=SFTWR",
@@ -87,18 +92,8 @@
       "title": "Software Engineer",
       "url": "https://jobs.apple.com/en-us/details/200659431-3337/software-engineer?team=SFTWR",
       "identifier": "Software Engineer_7/software-engineer?team=SFTWR"
-    },
-    {
-      "title": "Machine Learning Engineer - Speech & Multimodal Language Modeling",
-      "url": "https://jobs.apple.com/en-us/details/200659167-0836/machine-learning-engineer-speech-multimodal-language-modeling?team=MLAI",
-      "identifier": "Machine Learning Engineer - Speech & Multimodal La_al-language-modeling?team=MLAI"
-    },
-    {
-      "title": "Data Scientist - Survey Design, Data Annotation, and Machine Learning Evaluation",
-      "url": "https://jobs.apple.com/en-us/details/200659168-0836/data-scientist-survey-design-data-annotation-and-machine-learning-evaluation?team=MLAI",
-      "identifier": "Data Scientist - Survey Design, Data Annotation, a_-learning-evaluation?team=MLAI"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-23T13:34:58.613189"
+  "timestamp": "2026-04-23T13:52:06.784831"
 }

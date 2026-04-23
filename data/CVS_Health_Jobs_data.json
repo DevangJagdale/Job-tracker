@@ -4,6 +4,11 @@
   "total_jobs": 8,
   "jobs": [
     {
+      "title": "Lead Director - Mainframe Systems Engineering",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0888773/Lead-Director-Mainframe-Systems-Engineering",
+      "identifier": "Lead Director - Mainframe Systems Engineering_-Mainframe-Systems-Engineering"
+    },
+    {
       "title": "Staff Software Development Engineer (IBMi/AS400)",
       "url": "https://jobs.cvshealth.com/us/en/job/R0894421/Staff-Software-Development-Engineer-IBMi-AS400",
       "identifier": "Staff Software Development Engineer (IBMi/AS400)_evelopment-Engineer-IBMi-AS400"
@@ -37,13 +42,8 @@
       "title": "Senior Full Stack .Net Developer",
       "url": "https://jobs.cvshealth.com/us/en/job/R0888904/Senior-Full-Stack-Net-Developer",
       "identifier": "Senior Full Stack .Net Developer_enior-Full-Stack-Net-Developer"
-    },
-    {
-      "title": "Senior Manager - Software Development Engineering",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0786035/Senior-Manager-Software-Development-Engineering",
-      "identifier": "Senior Manager - Software Development Engineering_ftware-Development-Engineering"
     }
   ],
-  "job_count_text": "53",
-  "timestamp": "2026-04-23T13:36:00.618691"
+  "job_count_text": "54",
+  "timestamp": "2026-04-23T13:53:08.834502"
 }

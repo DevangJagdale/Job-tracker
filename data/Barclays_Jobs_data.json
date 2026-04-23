@@ -4,9 +4,24 @@
   "total_jobs": 15,
   "jobs": [
     {
-      "title": "Investment Bank Industrials Associate",
-      "url": "https://search.jobs.barclays/job/new-york/investment-bank-industrials-associate/13015/94270017376",
-      "identifier": "Investment Bank Industrials Associate_ls-associate/13015/94270017376"
+      "title": "Investment Banking Chief of Staff, VP",
+      "url": "https://search.jobs.barclays/job/new-york/investment-banking-chief-of-staff-vp/13015/94296126576",
+      "identifier": "Investment Banking Chief of Staff, VP_-of-staff-vp/13015/94296126576"
+    },
+    {
+      "title": "Market Risk Analyst- Securitized Products",
+      "url": "https://search.jobs.barclays/job/new-york/market-risk-analyst-securitized-products/13015/94296125456",
+      "identifier": "Market Risk Analyst- Securitized Products_zed-products/13015/94296125456"
+    },
+    {
+      "title": "Business Control Officer - FX and Emerging Markets - AVP",
+      "url": "https://search.jobs.barclays/job/new-york/business-control-officer-fx-and-emerging-markets-avp/13015/94296124848",
+      "identifier": "Business Control Officer - FX and Emerging Markets_-markets-avp/13015/94296124848"
+    },
+    {
+      "title": "Engineer",
+      "url": "https://search.jobs.barclays/job/whippany/engineer/13015/94296122416",
+      "identifier": "Engineer_any/engineer/13015/94296122416"
     },
     {
       "title": "Finance MI Data Analyst",
@@ -62,23 +77,8 @@
       "title": "Equities Trading Support",
       "url": "https://search.jobs.barclays/job/new-york/equities-trading-support/13015/94195076304",
       "identifier": "Equities Trading Support_ding-support/13015/94195076304"
-    },
-    {
-      "title": "Compliance Advisory - VP",
-      "url": "https://search.jobs.barclays/job/wilmington/compliance-advisory-vp/13015/94195072448",
-      "identifier": "Compliance Advisory - VP_-advisory-vp/13015/94195072448"
-    },
-    {
-      "title": "Internal Audit Climate Risk, VP",
-      "url": "https://search.jobs.barclays/job/new-york/internal-audit-climate-risk-vp/13015/94081886960",
-      "identifier": "Internal Audit Climate Risk, VP_mate-risk-vp/13015/94081886960"
-    },
-    {
-      "title": "Data Engineer AVP",
-      "url": "https://search.jobs.barclays/job/whippany/data-engineer-avp/13015/94081886944",
-      "identifier": "Data Engineer AVP_engineer-avp/13015/94081886944"
     }
   ],
-  "job_count_text": "125",
-  "timestamp": "2026-04-23T16:33:48.010945"
+  "job_count_text": "131",
+  "timestamp": "2026-04-23T16:50:52.380143"
 }

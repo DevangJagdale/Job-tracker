@@ -1,8 +1,23 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 17,
+  "total_jobs": 16,
   "jobs": [
+    {
+      "title": "Software Device Driver Engineer - Core I/O, Core OS",
+      "url": "https://jobs.apple.com/en-us/details/200659804-0157/software-device-driver-engineer-core-i-o-core-os?team=SFTWR",
+      "identifier": "Software Device Driver Engineer - Core I/O, Core O_er-core-i-o-core-os?team=SFTWR"
+    },
+    {
+      "title": "Sr Software Engineer, Employee Experience & Productivity",
+      "url": "https://jobs.apple.com/en-us/details/200657067-0670/sr-software-engineer-employee-experience-productivity?team=SFTWR",
+      "identifier": "Sr Software Engineer, Employee Experience & Produc_rience-productivity?team=SFTWR"
+    },
+    {
+      "title": "3D Game Artist - Platform Architecture",
+      "url": "https://jobs.apple.com/en-us/details/200659505-3760/3d-game-artist-platform-architecture?team=SFTWR",
+      "identifier": "3D Game Artist - Platform Architecture_atform-architecture?team=SFTWR"
+    },
     {
       "title": "Staff Machine Learning Engineer, Information Intelligence",
       "url": "https://jobs.apple.com/en-us/details/200611866-3337/staff-machine-learning-engineer-information-intelligence?team=SFTWR",
@@ -67,28 +82,8 @@
       "title": "Technical Data Product Manager, Apple Media Marketing Data",
       "url": "https://jobs.apple.com/en-us/details/200658934-0670/technical-data-product-manager-apple-media-marketing-data?team=SFTWR",
       "identifier": "Technical Data Product Manager, Apple Media Market_edia-marketing-data?team=SFTWR"
-    },
-    {
-      "title": "Senior OS Software Engineer, Field Engagement & Analytics",
-      "url": "https://jobs.apple.com/en-us/details/200659530-0836/senior-os-software-engineer-field-engagement-analytics?team=SFTWR",
-      "identifier": "Senior OS Software Engineer, Field Engagement & An_ngagement-analytics?team=SFTWR"
-    },
-    {
-      "title": "Site Services Supervisor, Data Center",
-      "url": "https://jobs.apple.com/en-us/details/200658661-6172/site-services-supervisor-data-center?team=SFTWR",
-      "identifier": "Site Services Supervisor, Data Center_ervisor-data-center?team=SFTWR"
-    },
-    {
-      "title": "Tools and Automation Engineer, OS Build Quality",
-      "url": "https://jobs.apple.com/en-us/details/200659600-3543/tools-and-automation-engineer-os-build-quality?team=SFTWR",
-      "identifier": "Tools and Automation Engineer, OS Build Quality_er-os-build-quality?team=SFTWR"
-    },
-    {
-      "title": "Maps Operations Program Lead",
-      "url": "https://jobs.apple.com/en-us/details/200657310-0157/maps-operations-program-lead?team=SFTWR",
-      "identifier": "Maps Operations Program Lead_ations-program-lead?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-23T20:44:19.240427"
+  "timestamp": "2026-04-23T21:01:37.381525"
 }

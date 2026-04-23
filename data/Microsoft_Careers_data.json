@@ -4,6 +4,11 @@
   "total_jobs": 10,
   "jobs": [
     {
+      "title": "Software Engineer II - CTJ - Poly\nUnited States, Virginia, Reston + 1 more\nPosted 7 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556860137?domain=microsoft.com",
+      "identifier": "Software Engineer II - CTJ - Poly\nUnited States, V_556860137?domain=microsoft.com"
+    },
+    {
       "title": "Software Engineer - CTJ - Poly\nUnited States, Virginia, Reston + 1 more\nPosted 8 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556860973?domain=microsoft.com",
       "identifier": "Software Engineer - CTJ - Poly\nUnited States, Virg_556860973?domain=microsoft.com"
@@ -39,7 +44,7 @@
       "identifier": "Software Engineer\nUnited States, Multiple Location_556847409?domain=microsoft.com"
     },
     {
-      "title": "Data Engineer II\nUnited States, Washington, Redmond\nPosted 18 hours ago",
+      "title": "Data Engineer II\nUnited States, Washington, Redmond\nPosted 19 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556860992?domain=microsoft.com",
       "identifier": "Data Engineer II\nUnited States, Washington, Redmon_556860992?domain=microsoft.com"
     },
@@ -47,13 +52,8 @@
       "title": "Cloud Network Engineer II\nUnited States, Multiple Locations, Multiple Locations\nPosted 19 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556847579?domain=microsoft.com",
       "identifier": "Cloud Network Engineer II\nUnited States, Multiple _556847579?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Software Engineer - CTJ - Poly\nUnited States, Washington, Redmond + 3 more\nPosted 20 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556860704?domain=microsoft.com",
-      "identifier": "Senior Software Engineer - CTJ - Poly\nUnited State_556860704?domain=microsoft.com"
     }
   ],
-  "job_count_text": "626",
-  "timestamp": "2026-04-23T14:43:21.997850"
+  "job_count_text": "627",
+  "timestamp": "2026-04-23T15:00:33.321694"
 }

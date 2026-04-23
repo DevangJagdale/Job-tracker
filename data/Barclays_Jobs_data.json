@@ -1,7 +1,7 @@
 {
   "page_title": "Search our Job Opportunities at Barclays",
   "url": "https://search.jobs.barclays/search-jobs/United%20States/13015/2/6252001/39x76/-98x5/50/2",
-  "total_jobs": 15,
+  "total_jobs": 12,
   "jobs": [
     {
       "title": "Investment Banking Chief of Staff, VP",
@@ -17,16 +17,6 @@
       "title": "Business Control Officer - FX and Emerging Markets - AVP",
       "url": "https://search.jobs.barclays/job/new-york/business-control-officer-fx-and-emerging-markets-avp/13015/94296124848",
       "identifier": "Business Control Officer - FX and Emerging Markets_-markets-avp/13015/94296124848"
-    },
-    {
-      "title": "Engineer",
-      "url": "https://search.jobs.barclays/job/whippany/engineer/13015/94296122416",
-      "identifier": "Engineer_any/engineer/13015/94296122416"
-    },
-    {
-      "title": "Finance MI Data Analyst",
-      "url": "https://search.jobs.barclays/job/wilmington/finance-mi-data-analyst/13015/94270012096",
-      "identifier": "Finance MI Data Analyst_data-analyst/13015/94270012096"
     },
     {
       "title": "VP Recovery Operations",
@@ -72,13 +62,8 @@
       "title": "Java Developer",
       "url": "https://search.jobs.barclays/job/whippany/java-developer/13015/94195076384",
       "identifier": "Java Developer_va-developer/13015/94195076384"
-    },
-    {
-      "title": "Equities Trading Support",
-      "url": "https://search.jobs.barclays/job/new-york/equities-trading-support/13015/94195076304",
-      "identifier": "Equities Trading Support_ding-support/13015/94195076304"
     }
   ],
-  "job_count_text": "131",
-  "timestamp": "2026-04-23T23:19:16.712272"
+  "job_count_text": "133",
+  "timestamp": "2026-04-23T23:36:30.183710"
 }

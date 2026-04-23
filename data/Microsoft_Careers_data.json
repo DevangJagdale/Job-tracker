@@ -4,7 +4,17 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted 25 minutes ago",
+      "title": "Senior Site Reliability Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 17 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556754197?domain=microsoft.com",
+      "identifier": "Senior Site Reliability Engineer\nUnited States, Mu_556754197?domain=microsoft.com"
+    },
+    {
+      "title": "Full Stack Engineer II\nUnited States, Washington, Redmond + 1 more\nPosted 29 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556823697?domain=microsoft.com",
+      "identifier": "Full Stack Engineer II\nUnited States, Washington, _556823697?domain=microsoft.com"
+    },
+    {
+      "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted 42 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556860233?domain=microsoft.com",
       "identifier": "Principal Software Engineer\nUnited States, Washing_556860233?domain=microsoft.com"
     },
@@ -42,18 +52,8 @@
       "title": "Member of Technical Staff - Backend Engineer\nUnited States, Washington, Redmond\nPosted 19 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556861071?domain=microsoft.com",
       "identifier": "Member of Technical Staff - Backend Engineer\nUnite_556861071?domain=microsoft.com"
-    },
-    {
-      "title": "Principal Software Engineer - Azure AI Translation & Language Team\nUnited States, Washington, Redmond\nPosted 20 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556860718?domain=microsoft.com",
-      "identifier": "Principal Software Engineer - Azure AI Translation_556860718?domain=microsoft.com"
-    },
-    {
-      "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted 20 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556860602?domain=microsoft.com",
-      "identifier": "Principal Software Engineer\nUnited States, Washing_556860602?domain=microsoft.com"
     }
   ],
-  "job_count_text": "631",
-  "timestamp": "2026-04-23T18:36:17.545296"
+  "job_count_text": "633",
+  "timestamp": "2026-04-23T18:53:29.707681"
 }

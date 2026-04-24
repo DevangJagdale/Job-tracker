@@ -4,12 +4,17 @@
   "total_jobs": 9,
   "jobs": [
     {
-      "title": "Senior Software Engineer - Azure Storage\nUnited States, Washington, Redmond\nPosted 7 minutes ago",
+      "title": "Software Engineering\nUnited States, Washington, Redmond\nPosted 16 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556859355?domain=microsoft.com",
+      "identifier": "Software Engineering\nUnited States, Washington, Re_556859355?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Software Engineer - Azure Storage\nUnited States, Washington, Redmond\nPosted 24 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556637615?domain=microsoft.com",
       "identifier": "Senior Software Engineer - Azure Storage\nUnited St_556637615?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 26 minutes ago",
+      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 43 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556658255?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Washington_556658255?domain=microsoft.com"
     },
@@ -39,16 +44,11 @@
       "identifier": "Senior Software Engineer, Agent 365 - Tools\nUnited_556752620?domain=microsoft.com"
     },
     {
-      "title": "Senior Applied Scientist\nUnited States, Washington, Redmond + 2 more\nPosted 19 hours ago",
+      "title": "Senior Applied Scientist\nUnited States, Washington, Redmond + 2 more\nPosted 20 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556861125?domain=microsoft.com",
       "identifier": "Senior Applied Scientist\nUnited States, Washington_556861125?domain=microsoft.com"
-    },
-    {
-      "title": "Principal Applied AI Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 20 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556745232?domain=microsoft.com",
-      "identifier": "Principal Applied AI Engineer\nUnited States, Multi_556745232?domain=microsoft.com"
     }
   ],
-  "job_count_text": "628",
-  "timestamp": "2026-04-24T16:27:23.711210"
+  "job_count_text": "629",
+  "timestamp": "2026-04-24T16:44:37.956733"
 }

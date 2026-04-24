@@ -4,6 +4,11 @@
   "total_jobs": 14,
   "jobs": [
     {
+      "title": "Software Engineer (HANA), AI & Data Platforms (AiDP)",
+      "url": "https://jobs.apple.com/en-us/details/200658460-3956/software-engineer-hana-ai-data-platforms-aidp?team=SFTWR",
+      "identifier": "Software Engineer (HANA), AI & Data Platforms (AiD_data-platforms-aidp?team=SFTWR"
+    },
+    {
       "title": "Software Engineer, Connected Audio, Sensing & Connectivity",
       "url": "https://jobs.apple.com/en-us/details/200660035-0836/software-engineer-connected-audio-sensing-connectivity?team=SFTWR",
       "identifier": "Software Engineer, Connected Audio, Sensing & Conn_ensing-connectivity?team=SFTWR"
@@ -67,13 +72,8 @@
       "title": "Sr. Machine Leaning Engineer",
       "url": "https://jobs.apple.com/en-us/details/200659417-3760/sr-machine-leaning-engineer?team=MLAI",
       "identifier": "Sr. Machine Leaning Engineer_ine-leaning-engineer?team=MLAI"
-    },
-    {
-      "title": "Digital Goods Technical Fraud Analyst - Strategic Data Solutions",
-      "url": "https://jobs.apple.com/en-us/details/200648461-0157/digital-goods-technical-fraud-analyst-strategic-data-solutions?team=OPMFG",
-      "identifier": "Digital Goods Technical Fraud Analyst - Strategic _egic-data-solutions?team=OPMFG"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-24T22:52:10.929259"
+  "timestamp": "2026-04-24T23:09:16.194949"
 }

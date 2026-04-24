@@ -4,6 +4,11 @@
   "total_jobs": 15,
   "jobs": [
     {
+      "title": "Sr. Software Engineer - Apple Vision Pro Developer Ecosystem, Vision Products Group",
+      "url": "https://jobs.apple.com/en-us/details/200659830-3401/sr-software-engineer-apple-vision-pro-developer-ecosystem-vision-products-group?team=SFTWR",
+      "identifier": "Sr. Software Engineer - Apple Vision Pro Developer_sion-products-group?team=SFTWR"
+    },
+    {
       "title": "Machine Learning Engineer - Health AIML",
       "url": "https://jobs.apple.com/en-us/details/200659977-0836/machine-learning-engineer-health-aiml?team=MLAI",
       "identifier": "Machine Learning Engineer - Health AIML_engineer-health-aiml?team=MLAI"
@@ -12,11 +17,6 @@
       "title": "Senior Software Engineer, ML - Developer Platform",
       "url": "https://jobs.apple.com/en-us/details/200658257-3760/senior-software-engineer-ml-developer-platform?team=MLAI",
       "identifier": "Senior Software Engineer, ML - Developer Platform_l-developer-platform?team=MLAI"
-    },
-    {
-      "title": "Sr. Software Engineer - Apple Vision Pro Developer Ecosystem, Vision Products Group",
-      "url": "https://jobs.apple.com/en-us/details/200659830-3401/sr-software-engineer-apple-vision-pro-developer-ecosystem-vision-products-group?team=SFTWR",
-      "identifier": "Sr. Software Engineer - Apple Vision Pro Developer_sion-products-group?team=SFTWR"
     },
     {
       "title": "Site Services Supervisor, Data Center",
@@ -80,5 +80,5 @@
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-24T18:53:09.294725"
+  "timestamp": "2026-04-24T19:10:18.437201"
 }

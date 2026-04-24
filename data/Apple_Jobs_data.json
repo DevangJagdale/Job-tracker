@@ -4,6 +4,16 @@
   "total_jobs": 19,
   "jobs": [
     {
+      "title": "Analytics Data Scientist - Quality Engineering, Siri",
+      "url": "https://jobs.apple.com/en-us/details/200659396-3401/analytics-data-scientist-quality-engineering-siri?team=SFTWR",
+      "identifier": "Analytics Data Scientist - Quality Engineering, Si_ty-engineering-siri?team=SFTWR"
+    },
+    {
+      "title": "Director of Personalization, Apple Intelligence",
+      "url": "https://jobs.apple.com/en-us/details/200659704-0836/director-of-personalization-apple-intelligence?team=SFTWR",
+      "identifier": "Director of Personalization, Apple Intelligence_-apple-intelligence?team=SFTWR"
+    },
+    {
       "title": "Sr. Engineering Program Manager, Cloud Services Infrastructure, Apple Services Engineering",
       "url": "https://jobs.apple.com/en-us/details/200659525-0836/sr-engineering-program-manager-cloud-services-infrastructure-apple-services-engineering?team=SFTWR",
       "identifier": "Sr. Engineering Program Manager, Cloud Services In_ervices-engineering?team=SFTWR"
@@ -87,18 +97,8 @@
       "title": "Engineering Program Manager - Wallet and Payments",
       "url": "https://jobs.apple.com/en-us/details/200652162-0836/engineering-program-manager-wallet-and-payments?team=SFTWR",
       "identifier": "Engineering Program Manager - Wallet and Payments_wallet-and-payments?team=SFTWR"
-    },
-    {
-      "title": "Product Design Engineer (Wallet, Payment and Commerce)",
-      "url": "https://jobs.apple.com/en-us/details/200645083-0836/product-design-engineer-wallet-payment-and-commerce?team=SFTWR",
-      "identifier": "Product Design Engineer (Wallet, Payment and Comme_ayment-and-commerce?team=SFTWR"
-    },
-    {
-      "title": "Video Content Data Scientist",
-      "url": "https://jobs.apple.com/en-us/details/200656393-0670/video-content-data-scientist?team=SFTWR",
-      "identifier": "Video Content Data Scientist_tent-data-scientist?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-24T02:20:13.097852"
+  "timestamp": "2026-04-24T02:37:22.020749"
 }

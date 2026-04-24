@@ -4,6 +4,11 @@
   "total_jobs": 15,
   "jobs": [
     {
+      "title": "Senior Software Engineer, Apple Services Engineering - Kubernetes",
+      "url": "https://jobs.apple.com/en-us/details/200660044-3337/senior-software-engineer-apple-services-engineering-kubernetes?team=SFTWR",
+      "identifier": "Senior Software Engineer, Apple Services Engineeri_ineering-kubernetes?team=SFTWR"
+    },
+    {
       "title": "Audio Quality Engineer, Audio & Media Technologies",
       "url": "https://jobs.apple.com/en-us/details/200659900-0836/audio-quality-engineer-audio-media-technologies?team=SFTWR",
       "identifier": "Audio Quality Engineer, Audio & Media Technologies_-media-technologies?team=SFTWR"
@@ -72,13 +77,8 @@
       "title": "Image Quality Engineering Manager, Camera and Photos",
       "url": "https://jobs.apple.com/en-us/details/200659408-0836/image-quality-engineering-manager-camera-and-photos?team=SFTWR",
       "identifier": "Image Quality Engineering Manager, Camera and Phot_r-camera-and-photos?team=SFTWR"
-    },
-    {
-      "title": "Sr. Engineering Project Manager, Wallet & Payments",
-      "url": "https://jobs.apple.com/en-us/details/200659140-0836/sr-engineering-project-manager-wallet-payments?team=SFTWR",
-      "identifier": "Sr. Engineering Project Manager, Wallet & Payments_ger-wallet-payments?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-24T22:18:02.231218"
+  "timestamp": "2026-04-24T22:35:03.851059"
 }

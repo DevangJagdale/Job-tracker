@@ -4,14 +4,14 @@
   "total_jobs": 8,
   "jobs": [
     {
-      "title": "Epic Automation Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0872968/Epic-Automation-Engineer",
-      "identifier": "Epic Automation Engineer_72968/Epic-Automation-Engineer"
-    },
-    {
       "title": "Field Technician",
       "url": "https://jobs.cvshealth.com/us/en/job/R0893632/Field-Technician",
       "identifier": "Field Technician_/job/R0893632/Field-Technician"
+    },
+    {
+      "title": "Epic Automation Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0872968/Epic-Automation-Engineer",
+      "identifier": "Epic Automation Engineer_72968/Epic-Automation-Engineer"
     },
     {
       "title": "Technical Support Representative",
@@ -34,16 +34,16 @@
       "identifier": "Senior Integration - Site Reliability Engineer (SR_-Site-Reliability-Engineer-SRE"
     },
     {
-      "title": "Senior Manager - Business Analysis",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0889306/Senior-Manager-Business-Analysis",
-      "identifier": "Senior Manager - Business Analysis_nior-Manager-Business-Analysis"
-    },
-    {
       "title": "Staff Quality Engineer",
       "url": "https://jobs.cvshealth.com/us/en/job/R0889638/Staff-Quality-Engineer",
       "identifier": "Staff Quality Engineer_0889638/Staff-Quality-Engineer"
+    },
+    {
+      "title": "Senior Manager - Business Analysis",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0889306/Senior-Manager-Business-Analysis",
+      "identifier": "Senior Manager - Business Analysis_nior-Manager-Business-Analysis"
     }
   ],
   "job_count_text": "38",
-  "timestamp": "2026-04-24T10:53:02.523834"
+  "timestamp": "2026-04-24T11:10:53.937376"
 }

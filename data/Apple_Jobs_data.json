@@ -1,7 +1,7 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 16,
+  "total_jobs": 15,
   "jobs": [
     {
       "title": "Machine Learning Engineer - Health AIML",
@@ -77,13 +77,8 @@
       "title": "Director of Personalization, Apple Intelligence",
       "url": "https://jobs.apple.com/en-us/details/200659704-0836/director-of-personalization-apple-intelligence?team=SFTWR",
       "identifier": "Director of Personalization, Apple Intelligence_-apple-intelligence?team=SFTWR"
-    },
-    {
-      "title": "Sr. Engineering Program Manager, Cloud Services Infrastructure, Apple Services Engineering",
-      "url": "https://jobs.apple.com/en-us/details/200659525-0836/sr-engineering-program-manager-cloud-services-infrastructure-apple-services-engineering?team=SFTWR",
-      "identifier": "Sr. Engineering Program Manager, Cloud Services In_ervices-engineering?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-24T18:45:30.459991"
+  "timestamp": "2026-04-24T18:53:09.294725"
 }

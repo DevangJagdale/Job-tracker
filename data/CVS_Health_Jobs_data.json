@@ -4,14 +4,14 @@
   "total_jobs": 8,
   "jobs": [
     {
-      "title": "Epic Automation Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0872968/Epic-Automation-Engineer",
-      "identifier": "Epic Automation Engineer_72968/Epic-Automation-Engineer"
-    },
-    {
       "title": "Field Technician",
       "url": "https://jobs.cvshealth.com/us/en/job/R0893632/Field-Technician",
       "identifier": "Field Technician_/job/R0893632/Field-Technician"
+    },
+    {
+      "title": "Epic Automation Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0872968/Epic-Automation-Engineer",
+      "identifier": "Epic Automation Engineer_72968/Epic-Automation-Engineer"
     },
     {
       "title": "Technical Support Representative",
@@ -24,26 +24,26 @@
       "identifier": "Lead Director - Mainframe Systems Engineering_-Mainframe-Systems-Engineering"
     },
     {
-      "title": "Senior Integration - Site Reliability Engineer (SRE)",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0834201/Senior-Integration-Site-Reliability-Engineer-SRE",
-      "identifier": "Senior Integration - Site Reliability Engineer (SR_-Site-Reliability-Engineer-SRE"
-    },
-    {
       "title": "Field Technician",
       "url": "https://jobs.cvshealth.com/us/en/job/R0870653/Field-Technician",
       "identifier": "Field Technician_/job/R0870653/Field-Technician"
     },
     {
-      "title": "Senior Manager - Business Analysis",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0889306/Senior-Manager-Business-Analysis",
-      "identifier": "Senior Manager - Business Analysis_nior-Manager-Business-Analysis"
+      "title": "Senior Integration - Site Reliability Engineer (SRE)",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0834201/Senior-Integration-Site-Reliability-Engineer-SRE",
+      "identifier": "Senior Integration - Site Reliability Engineer (SR_-Site-Reliability-Engineer-SRE"
     },
     {
       "title": "Staff Quality Engineer",
       "url": "https://jobs.cvshealth.com/us/en/job/R0889638/Staff-Quality-Engineer",
       "identifier": "Staff Quality Engineer_0889638/Staff-Quality-Engineer"
+    },
+    {
+      "title": "Senior Manager - Business Analysis",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0889306/Senior-Manager-Business-Analysis",
+      "identifier": "Senior Manager - Business Analysis_nior-Manager-Business-Analysis"
     }
   ],
   "job_count_text": "38",
-  "timestamp": "2026-04-24T08:48:13.433872"
+  "timestamp": "2026-04-24T09:05:42.742254"
 }

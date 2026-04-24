@@ -4,12 +4,12 @@
   "total_jobs": 9,
   "jobs": [
     {
-      "title": "Software Engineering\nUnited States, Washington, Redmond\nPosted 33 minutes ago",
+      "title": "Software Engineering\nUnited States, Washington, Redmond\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556859355?domain=microsoft.com",
       "identifier": "Software Engineering\nUnited States, Washington, Re_556859355?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer - Azure Storage\nUnited States, Washington, Redmond\nPosted 41 minutes ago",
+      "title": "Senior Software Engineer - Azure Storage\nUnited States, Washington, Redmond\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556637615?domain=microsoft.com",
       "identifier": "Senior Software Engineer - Azure Storage\nUnited St_556637615?domain=microsoft.com"
     },
@@ -24,7 +24,7 @@
       "identifier": "Senior Development Engineer\nUnited States, Multipl_556749116?domain=microsoft.com"
     },
     {
-      "title": "Senior Data Scientist\nUnited States, Washington, Redmond\nPosted 16 hours ago",
+      "title": "Senior Data Scientist\nUnited States, Washington, Redmond\nPosted 17 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556861168?domain=microsoft.com",
       "identifier": "Senior Data Scientist\nUnited States, Washington, R_556861168?domain=microsoft.com"
     },
@@ -50,5 +50,5 @@
     }
   ],
   "job_count_text": "629",
-  "timestamp": "2026-04-24T17:01:53.517075"
+  "timestamp": "2026-04-24T17:19:06.005432"
 }

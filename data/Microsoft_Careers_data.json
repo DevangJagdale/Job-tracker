@@ -4,24 +4,19 @@
   "total_jobs": 9,
   "jobs": [
     {
-      "title": "Senior Software Engineer - Microsoft AI, Copilot\nUnited States, Washington, Redmond + 2 more\nPosted 26 minutes ago",
+      "title": "Senior Software Engineer - Microsoft AI, Copilot\nUnited States, Washington, Redmond + 2 more\nPosted 43 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556631021?domain=microsoft.com",
       "identifier": "Senior Software Engineer - Microsoft AI, Copilot\nU_556631021?domain=microsoft.com"
     },
     {
-      "title": "Principal Software Engineer - Copilot Security\nUnited States, Washington, Redmond + 2 more\nPosted 2 hours ago",
+      "title": "Principal Software Engineer - Copilot Security\nUnited States, Washington, Redmond + 2 more\nPosted 3 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556638497?domain=microsoft.com",
       "identifier": "Principal Software Engineer - Copilot Security\nUni_556638497?domain=microsoft.com"
     },
     {
-      "title": "Software Engineering - CTJ - Poly\nUnited States, Washington, Redmond + 2 more\nPosted 3 hours ago",
+      "title": "Software Engineering - CTJ - Poly\nUnited States, Washington, Redmond + 2 more\nPosted 4 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556858723?domain=microsoft.com",
       "identifier": "Software Engineering - CTJ - Poly\nUnited States, W_556858723?domain=microsoft.com"
-    },
-    {
-      "title": "Software Engineering\nUnited States, Washington, Redmond\nPosted 5 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556859355?domain=microsoft.com",
-      "identifier": "Software Engineering\nUnited States, Washington, Re_556859355?domain=microsoft.com"
     },
     {
       "title": "Senior Software Engineer - Azure Storage\nUnited States, Washington, Redmond\nPosted 5 hours ago",
@@ -34,12 +29,12 @@
       "identifier": "Senior Software Engineer\nUnited States, Washington_556658255?domain=microsoft.com"
     },
     {
-      "title": "Senior Development Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 17 hours ago",
+      "title": "Senior Development Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 18 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556749116?domain=microsoft.com",
       "identifier": "Senior Development Engineer\nUnited States, Multipl_556749116?domain=microsoft.com"
     },
     {
-      "title": "Senior Data Scientist\nUnited States, Washington, Redmond\nPosted 20 hours ago",
+      "title": "Senior Data Scientist\nUnited States, Washington, Redmond\nPosted 21 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556861168?domain=microsoft.com",
       "identifier": "Senior Data Scientist\nUnited States, Washington, R_556861168?domain=microsoft.com"
     },
@@ -47,8 +42,13 @@
       "title": "Principal Applied Science Manager\nUnited States, California, Mountain View + 2 more\nPosted a day ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556853756?domain=microsoft.com",
       "identifier": "Principal Applied Science Manager\nUnited States, C_556853756?domain=microsoft.com"
+    },
+    {
+      "title": "Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted a day ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556620143?domain=microsoft.com",
+      "identifier": "Software Engineer\nUnited States, Multiple Location_556620143?domain=microsoft.com"
     }
   ],
-  "job_count_text": "631",
-  "timestamp": "2026-04-24T21:09:34.647459"
+  "job_count_text": "630",
+  "timestamp": "2026-04-24T21:26:39.045627"
 }

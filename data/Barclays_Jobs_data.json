@@ -1,8 +1,18 @@
 {
   "page_title": "Search our Job Opportunities at Barclays",
   "url": "https://search.jobs.barclays/search-jobs/United%20States/13015/2/6252001/39x76/-98x5/50/2",
-  "total_jobs": 12,
+  "total_jobs": 15,
   "jobs": [
+    {
+      "title": "Correspondent Banking Investigation AVP",
+      "url": "https://search.jobs.barclays/job/whippany/correspondent-banking-investigation-avp/13015/94318371872",
+      "identifier": "Correspondent Banking Investigation AVP_tigation-avp/13015/94318371872"
+    },
+    {
+      "title": "Sr App Support Specialist, AVP",
+      "url": "https://search.jobs.barclays/job/whippany/sr-app-support-specialist-avp/13015/94310412544",
+      "identifier": "Sr App Support Specialist, AVP_ecialist-avp/13015/94310412544"
+    },
     {
       "title": "Investment Banking Chief of Staff, VP",
       "url": "https://search.jobs.barclays/job/new-york/investment-banking-chief-of-staff-vp/13015/94296126576",
@@ -17,6 +27,11 @@
       "title": "Business Control Officer - FX and Emerging Markets - AVP",
       "url": "https://search.jobs.barclays/job/new-york/business-control-officer-fx-and-emerging-markets-avp/13015/94296124848",
       "identifier": "Business Control Officer - FX and Emerging Markets_-markets-avp/13015/94296124848"
+    },
+    {
+      "title": "Investment Bank Industrials Associate",
+      "url": "https://search.jobs.barclays/job/new-york/investment-bank-industrials-associate/13015/94270017376",
+      "identifier": "Investment Bank Industrials Associate_ls-associate/13015/94270017376"
     },
     {
       "title": "VP Recovery Operations",
@@ -65,5 +80,5 @@
     }
   ],
   "job_count_text": "126",
-  "timestamp": "2026-04-24T11:26:42.992128"
+  "timestamp": "2026-04-24T11:44:00.413850"
 }

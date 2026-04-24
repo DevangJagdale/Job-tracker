@@ -4,6 +4,11 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Machine Learning Engineer - Health AIML",
+      "url": "https://jobs.apple.com/en-us/details/200659977-0836/machine-learning-engineer-health-aiml?team=MLAI",
+      "identifier": "Machine Learning Engineer - Health AIML_engineer-health-aiml?team=MLAI"
+    },
+    {
       "title": "Senior Software Engineer, ML - Developer Platform",
       "url": "https://jobs.apple.com/en-us/details/200658257-3760/senior-software-engineer-ml-developer-platform?team=MLAI",
       "identifier": "Senior Software Engineer, ML - Developer Platform_l-developer-platform?team=MLAI"
@@ -77,13 +82,8 @@
       "title": "Sr. Engineering Program Manager, Cloud Services Infrastructure, Apple Services Engineering",
       "url": "https://jobs.apple.com/en-us/details/200659525-0836/sr-engineering-program-manager-cloud-services-infrastructure-apple-services-engineering?team=SFTWR",
       "identifier": "Sr. Engineering Program Manager, Cloud Services In_ervices-engineering?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer, Information Systems & Technology",
-      "url": "https://jobs.apple.com/en-us/details/200653252-3956/software-engineer-information-systems-technology?team=SFTWR",
-      "identifier": "Software Engineer, Information Systems & Technolog_-systems-technology?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-24T18:28:15.107973"
+  "timestamp": "2026-04-24T18:45:30.459991"
 }

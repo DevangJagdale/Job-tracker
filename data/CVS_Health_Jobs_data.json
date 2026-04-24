@@ -4,24 +4,19 @@
   "total_jobs": 8,
   "jobs": [
     {
-      "title": "Lead Director - Mainframe Systems Engineering",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0888773/Lead-Director-Mainframe-Systems-Engineering",
-      "identifier": "Lead Director - Mainframe Systems Engineering_-Mainframe-Systems-Engineering"
+      "title": "Staff Software Engineer - Developer Experience Automation",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0834224/Staff-Software-Engineer-Developer-Experience-Automation",
+      "identifier": "Staff Software Engineer - Developer Experience Aut_eveloper-Experience-Automation"
     },
     {
-      "title": "Senior Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0891790/Senior-Software-Development-Engineer",
-      "identifier": "Senior Software Development Engineer_-Software-Development-Engineer"
-    },
-    {
-      "title": "Manager - Software Development Engineering (AI/ML)",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0888022/Manager-Software-Development-Engineering-AI-ML",
-      "identifier": "Manager - Software Development Engineering (AI/ML)_-Development-Engineering-AI-ML"
+      "title": "Epic Automation Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0872968/Epic-Automation-Engineer",
+      "identifier": "Epic Automation Engineer_72968/Epic-Automation-Engineer"
     },
     {
       "title": "Field Technician",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0870653/Field-Technician",
-      "identifier": "Field Technician_/job/R0870653/Field-Technician"
+      "url": "https://jobs.cvshealth.com/us/en/job/R0893632/Field-Technician",
+      "identifier": "Field Technician_/job/R0893632/Field-Technician"
     },
     {
       "title": "Technical Support Representative",
@@ -29,21 +24,26 @@
       "identifier": "Technical Support Representative_chnical-Support-Representative"
     },
     {
-      "title": "Epic Cogito Administrator",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0871727/Epic-Cogito-Administrator",
-      "identifier": "Epic Cogito Administrator_1727/Epic-Cogito-Administrator"
+      "title": "Lead Director - Mainframe Systems Engineering",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0888773/Lead-Director-Mainframe-Systems-Engineering",
+      "identifier": "Lead Director - Mainframe Systems Engineering_-Mainframe-Systems-Engineering"
     },
     {
-      "title": "Staff Software Engineer - Developer Experience Automation",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0834224/Staff-Software-Engineer-Developer-Experience-Automation",
-      "identifier": "Staff Software Engineer - Developer Experience Aut_eveloper-Experience-Automation"
+      "title": "Field Technician",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0870653/Field-Technician",
+      "identifier": "Field Technician_/job/R0870653/Field-Technician"
     },
     {
-      "title": "Sr Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0888201/Sr-Software-Development-Engineer",
-      "identifier": "Sr Software Development Engineer_-Software-Development-Engineer"
+      "title": "Senior Integration - Site Reliability Engineer (SRE)",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0834201/Senior-Integration-Site-Reliability-Engineer-SRE",
+      "identifier": "Senior Integration - Site Reliability Engineer (SR_-Site-Reliability-Engineer-SRE"
+    },
+    {
+      "title": "Senior Manager - Business Analysis",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0889306/Senior-Manager-Business-Analysis",
+      "identifier": "Senior Manager - Business Analysis_nior-Manager-Business-Analysis"
     }
   ],
-  "job_count_text": "67",
-  "timestamp": "2026-04-24T06:04:27.142046"
+  "job_count_text": "39",
+  "timestamp": "2026-04-24T06:21:40.730252"
 }

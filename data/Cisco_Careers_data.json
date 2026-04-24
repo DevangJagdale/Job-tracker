@@ -1,22 +1,17 @@
 {
   "page_title": "Job Openings - Cisco Careers",
   "url": "https://careers.cisco.com/global/en/search-results?s=1",
-  "total_jobs": 10,
+  "total_jobs": 9,
   "jobs": [
     {
-      "title": "Software Engineer",
-      "url": "https://careers.cisco.com/global/en/job/2012072/Software-Engineer",
-      "identifier": "Software Engineer_/job/2012072/Software-Engineer"
+      "title": "Software Engineer Backend/Platform Systems II (Full Time) \u2013 United States",
+      "url": "https://careers.cisco.com/global/en/job/2000135/Software-Engineer-Backend-Platform-Systems-II-Full-Time-United-States",
+      "identifier": "Software Engineer Backend/Platform Systems II (Ful_ems-II-Full-Time-United-States"
     },
     {
       "title": "Software Engineer Data/AI/Intelligent Systems II (Full Time) \u2013 United States",
       "url": "https://careers.cisco.com/global/en/job/2000137/Software-Engineer-Data-AI-Intelligent-Systems-II-Full-Time-United-States",
       "identifier": "Software Engineer Data/AI/Intelligent Systems II (_ems-II-Full-Time-United-States"
-    },
-    {
-      "title": "Software Engineer Backend/Platform Systems II (Full Time) \u2013 United States",
-      "url": "https://careers.cisco.com/global/en/job/2000135/Software-Engineer-Backend-Platform-Systems-II-Full-Time-United-States",
-      "identifier": "Software Engineer Backend/Platform Systems II (Ful_ems-II-Full-Time-United-States"
     },
     {
       "title": "Business Analyst II (Full-Time) - United States",
@@ -54,6 +49,6 @@
       "identifier": "Sales Development Representative II (Full Time) Un_al-Demand-Center-United-States"
     }
   ],
-  "job_count_text": "10",
-  "timestamp": "2026-04-24T18:12:48.117002"
+  "job_count_text": "9",
+  "timestamp": "2026-04-24T18:30:02.192948"
 }

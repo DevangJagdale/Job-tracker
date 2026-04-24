@@ -4,6 +4,11 @@
   "total_jobs": 17,
   "jobs": [
     {
+      "title": "Manager, Transit Product Management (Wallet, Payments and Commerce)",
+      "url": "https://jobs.apple.com/en-us/details/200659768-0836/manager-transit-product-management-wallet-payments-and-commerce?team=SFTWR",
+      "identifier": "Manager, Transit Product Management (Wallet, Payme_yments-and-commerce?team=SFTWR"
+    },
+    {
       "title": "Sr. Machine Leaning Engineer",
       "url": "https://jobs.apple.com/en-us/details/200659417-3760/sr-machine-leaning-engineer?team=MLAI",
       "identifier": "Sr. Machine Leaning Engineer_ine-leaning-engineer?team=MLAI"
@@ -82,13 +87,8 @@
       "title": "Engineering Program Specialist, SWE Programs",
       "url": "https://jobs.apple.com/en-us/details/200659252-0836/engineering-program-specialist-swe-programs?team=SFTWR",
       "identifier": "Engineering Program Specialist, SWE Programs_ialist-swe-programs?team=SFTWR"
-    },
-    {
-      "title": "Operations Critical Facilities Supervisor, Data Center",
-      "url": "https://jobs.apple.com/en-us/details/200658660-6709/operations-critical-facilities-supervisor-data-center?team=SFTWR",
-      "identifier": "Operations Critical Facilities Supervisor, Data Ce_ervisor-data-center?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-24T16:44:54.146478"
+  "timestamp": "2026-04-24T17:02:09.219541"
 }

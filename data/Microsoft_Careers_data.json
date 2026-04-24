@@ -1,10 +1,20 @@
 {
   "page_title": "| Microsoft Careers",
   "url": "https://apply.careers.microsoft.com/careers?domain=microsoft.com&start=0&location=United+States&sort_by=timestamp&filter_include_remote=1&filter_profession=software+engineering%2Cresearch%252C%2520applied%252C%2520%2526%2520data%2520sciences",
-  "total_jobs": 9,
+  "total_jobs": 10,
   "jobs": [
     {
-      "title": "Senior Software Engineer - Microsoft AI, Copilot\nUnited States, Washington, Redmond + 2 more\nPosted 43 minutes ago",
+      "title": "Senior Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 19 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556861081?domain=microsoft.com",
+      "identifier": "Senior Software Engineer\nUnited States, Multiple L_556861081?domain=microsoft.com"
+    },
+    {
+      "title": "Software Engineering\nUnited States, Washington, Redmond\nPosted 25 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556859355?domain=microsoft.com",
+      "identifier": "Software Engineering\nUnited States, Washington, Re_556859355?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Software Engineer - Microsoft AI, Copilot\nUnited States, Washington, Redmond + 2 more\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556631021?domain=microsoft.com",
       "identifier": "Senior Software Engineer - Microsoft AI, Copilot\nU_556631021?domain=microsoft.com"
     },
@@ -24,7 +34,7 @@
       "identifier": "Senior Software Engineer - Azure Storage\nUnited St_556637615?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 5 hours ago",
+      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 6 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556658255?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Washington_556658255?domain=microsoft.com"
     },
@@ -42,13 +52,8 @@
       "title": "Principal Applied Science Manager\nUnited States, California, Mountain View + 2 more\nPosted a day ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556853756?domain=microsoft.com",
       "identifier": "Principal Applied Science Manager\nUnited States, C_556853756?domain=microsoft.com"
-    },
-    {
-      "title": "Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted a day ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556620143?domain=microsoft.com",
-      "identifier": "Software Engineer\nUnited States, Multiple Location_556620143?domain=microsoft.com"
     }
   ],
-  "job_count_text": "630",
-  "timestamp": "2026-04-24T21:26:39.045627"
+  "job_count_text": "632",
+  "timestamp": "2026-04-24T21:43:41.648409"
 }

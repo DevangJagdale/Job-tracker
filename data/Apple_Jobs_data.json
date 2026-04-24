@@ -4,6 +4,16 @@
   "total_jobs": 17,
   "jobs": [
     {
+      "title": "Security Domain Expert, Perimeter and Network Security, Enterprise Technology Services",
+      "url": "https://jobs.apple.com/en-us/details/200658647-3956/security-domain-expert-perimeter-and-network-security-enterprise-technology-services?team=SFTWR",
+      "identifier": "Security Domain Expert, Perimeter and Network Secu_technology-services?team=SFTWR"
+    },
+    {
+      "title": "Architect, Perimeter and Network Security, Enterprise Technology Services",
+      "url": "https://jobs.apple.com/en-us/details/200658863-3956/architect-perimeter-and-network-security-enterprise-technology-services?team=SFTWR",
+      "identifier": "Architect, Perimeter and Network Security, Enterpr_technology-services?team=SFTWR"
+    },
+    {
       "title": "Manager, Transit Product Management (Wallet, Payments and Commerce)",
       "url": "https://jobs.apple.com/en-us/details/200659768-0836/manager-transit-product-management-wallet-payments-and-commerce?team=SFTWR",
       "identifier": "Manager, Transit Product Management (Wallet, Payme_yments-and-commerce?team=SFTWR"
@@ -77,18 +87,8 @@
       "title": "Software Engineer- iOS Engineer - SpringBoard Multitasking - System Experience",
       "url": "https://jobs.apple.com/en-us/details/200659816-0836/software-engineer-ios-engineer-springboard-multitasking-system-experience?team=SFTWR",
       "identifier": "Software Engineer- iOS Engineer - SpringBoard Mult_g-system-experience?team=SFTWR"
-    },
-    {
-      "title": "Sr. Manager, Product System Test, Wireless Technologies & Ecosystems",
-      "url": "https://jobs.apple.com/en-us/details/200659717-0836/sr-manager-product-system-test-wireless-technologies-ecosystems?team=SFTWR",
-      "identifier": "Sr. Manager, Product System Test, Wireless Technol_nologies-ecosystems?team=SFTWR"
-    },
-    {
-      "title": "Engineering Program Specialist, SWE Programs",
-      "url": "https://jobs.apple.com/en-us/details/200659252-0836/engineering-program-specialist-swe-programs?team=SFTWR",
-      "identifier": "Engineering Program Specialist, SWE Programs_ialist-swe-programs?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-24T17:19:21.684512"
+  "timestamp": "2026-04-24T17:36:34.445985"
 }

@@ -1,8 +1,13 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 15,
+  "total_jobs": 14,
   "jobs": [
+    {
+      "title": "GPU Systems Software Engineer, Platform Architecture",
+      "url": "https://jobs.apple.com/en-us/details/200660012-0836/gpu-systems-software-engineer-platform-architecture?team=SFTWR",
+      "identifier": "GPU Systems Software Engineer, Platform Architectu_atform-architecture?team=SFTWR"
+    },
     {
       "title": "Sr. Software Engineer - Apple Vision Pro Developer Ecosystem, Vision Products Group",
       "url": "https://jobs.apple.com/en-us/details/200659830-3401/sr-software-engineer-apple-vision-pro-developer-ecosystem-vision-products-group?team=SFTWR",
@@ -67,18 +72,8 @@
       "title": "Sr. Engineering Project Manager, Wallet & Payments",
       "url": "https://jobs.apple.com/en-us/details/200659140-0836/sr-engineering-project-manager-wallet-payments?team=SFTWR",
       "identifier": "Sr. Engineering Project Manager, Wallet & Payments_ger-wallet-payments?team=SFTWR"
-    },
-    {
-      "title": "Analytics Data Scientist - Quality Engineering, Siri",
-      "url": "https://jobs.apple.com/en-us/details/200659396-3401/analytics-data-scientist-quality-engineering-siri?team=SFTWR",
-      "identifier": "Analytics Data Scientist - Quality Engineering, Si_ty-engineering-siri?team=SFTWR"
-    },
-    {
-      "title": "Director of Personalization, Apple Intelligence",
-      "url": "https://jobs.apple.com/en-us/details/200659704-0836/director-of-personalization-apple-intelligence?team=SFTWR",
-      "identifier": "Director of Personalization, Apple Intelligence_-apple-intelligence?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-24T20:52:46.813648"
+  "timestamp": "2026-04-24T21:09:50.394978"
 }

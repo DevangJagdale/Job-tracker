@@ -4,17 +4,22 @@
   "total_jobs": 9,
   "jobs": [
     {
-      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 8 minutes ago",
+      "title": "Senior Software Engineer - Azure Storage\nUnited States, Washington, Redmond\nPosted 7 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556637615?domain=microsoft.com",
+      "identifier": "Senior Software Engineer - Azure Storage\nUnited St_556637615?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 26 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556658255?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Washington_556658255?domain=microsoft.com"
     },
     {
-      "title": "Senior Development Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 12 hours ago",
+      "title": "Senior Development Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 13 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556749116?domain=microsoft.com",
       "identifier": "Senior Development Engineer\nUnited States, Multipl_556749116?domain=microsoft.com"
     },
     {
-      "title": "Senior Data Scientist\nUnited States, Washington, Redmond\nPosted 15 hours ago",
+      "title": "Senior Data Scientist\nUnited States, Washington, Redmond\nPosted 16 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556861168?domain=microsoft.com",
       "identifier": "Senior Data Scientist\nUnited States, Washington, R_556861168?domain=microsoft.com"
     },
@@ -24,7 +29,7 @@
       "identifier": "Principal Applied Science Manager\nUnited States, C_556853756?domain=microsoft.com"
     },
     {
-      "title": "Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 18 hours ago",
+      "title": "Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 19 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556620143?domain=microsoft.com",
       "identifier": "Software Engineer\nUnited States, Multiple Location_556620143?domain=microsoft.com"
     },
@@ -39,16 +44,11 @@
       "identifier": "Senior Applied Scientist\nUnited States, Washington_556861125?domain=microsoft.com"
     },
     {
-      "title": "Principal Applied AI Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 19 hours ago",
+      "title": "Principal Applied AI Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 20 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556745232?domain=microsoft.com",
       "identifier": "Principal Applied AI Engineer\nUnited States, Multi_556745232?domain=microsoft.com"
-    },
-    {
-      "title": "Software Engineer\nUnited States, Washington, Redmond\nPosted 20 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556860756?domain=microsoft.com",
-      "identifier": "Software Engineer\nUnited States, Washington, Redmo_556860756?domain=microsoft.com"
     }
   ],
-  "job_count_text": "632",
-  "timestamp": "2026-04-24T16:10:06.199590"
+  "job_count_text": "628",
+  "timestamp": "2026-04-24T16:27:23.711210"
 }

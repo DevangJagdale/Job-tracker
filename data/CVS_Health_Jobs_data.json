@@ -4,19 +4,9 @@
   "total_jobs": 8,
   "jobs": [
     {
-      "title": "Epic Cogito Administrator",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0871727/Epic-Cogito-Administrator",
-      "identifier": "Epic Cogito Administrator_1727/Epic-Cogito-Administrator"
-    },
-    {
       "title": "Lead Director - Mainframe Systems Engineering",
       "url": "https://jobs.cvshealth.com/us/en/job/R0888773/Lead-Director-Mainframe-Systems-Engineering",
       "identifier": "Lead Director - Mainframe Systems Engineering_-Mainframe-Systems-Engineering"
-    },
-    {
-      "title": "Field Technician",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0870653/Field-Technician",
-      "identifier": "Field Technician_/job/R0870653/Field-Technician"
     },
     {
       "title": "Senior Software Development Engineer",
@@ -24,26 +14,36 @@
       "identifier": "Senior Software Development Engineer_-Software-Development-Engineer"
     },
     {
-      "title": "Senior Solutions Engineer - Manhattan Active Warehouse Management",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0859775/Senior-Solutions-Engineer-Manhattan-Active-Warehouse-Management",
-      "identifier": "Senior Solutions Engineer - Manhattan Active Wareh_an-Active-Warehouse-Management"
-    },
-    {
-      "title": "Senior Integration - Site Reliability Engineer (SRE)",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0834201/Senior-Integration-Site-Reliability-Engineer-SRE",
-      "identifier": "Senior Integration - Site Reliability Engineer (SR_-Site-Reliability-Engineer-SRE"
-    },
-    {
       "title": "Manager - Software Development Engineering (AI/ML)",
       "url": "https://jobs.cvshealth.com/us/en/job/R0888022/Manager-Software-Development-Engineering-AI-ML",
       "identifier": "Manager - Software Development Engineering (AI/ML)_-Development-Engineering-AI-ML"
     },
     {
+      "title": "Field Technician",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0870653/Field-Technician",
+      "identifier": "Field Technician_/job/R0870653/Field-Technician"
+    },
+    {
       "title": "Technical Support Representative",
       "url": "https://jobs.cvshealth.com/us/en/job/R0889442/Technical-Support-Representative",
       "identifier": "Technical Support Representative_chnical-Support-Representative"
+    },
+    {
+      "title": "Epic Cogito Administrator",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0871727/Epic-Cogito-Administrator",
+      "identifier": "Epic Cogito Administrator_1727/Epic-Cogito-Administrator"
+    },
+    {
+      "title": "Staff Software Engineer - Developer Experience Automation",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0834224/Staff-Software-Engineer-Developer-Experience-Automation",
+      "identifier": "Staff Software Engineer - Developer Experience Aut_eveloper-Experience-Automation"
+    },
+    {
+      "title": "Sr Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0888201/Sr-Software-Development-Engineer",
+      "identifier": "Sr Software Development Engineer_-Software-Development-Engineer"
     }
   ],
   "job_count_text": "68",
-  "timestamp": "2026-04-24T01:04:23.926050"
+  "timestamp": "2026-04-24T01:21:44.234456"
 }

@@ -1,7 +1,7 @@
 {
   "page_title": "Search for Jobs",
   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite?locationCountry=bc33aa3152ec42d4995f4791a106ed09&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&workerSubType=ab40a98049581037a3ada55b087049b7",
-  "total_jobs": 15,
+  "total_jobs": 16,
   "jobs": [
     {
       "title": "Deep Learning Software Engineer, FlashInfer - New College Grad 2026",
@@ -77,8 +77,13 @@
       "title": "RTL Power Optimization \u2013 New College Grad 2026",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-ML-Engineer--RTL-Power-Optimization---New-College-Grad-2026_JR2011172?locationCountry=bc33aa3152ec42d4995f4791a106ed09&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&workerSubType=ab40a98049581037a3ada55b087049b7",
       "identifier": "RTL Power Optimization \u2013 New College Grad 2026_40a98049581037a3ada55b087049b7"
+    },
+    {
+      "title": "Deep Learning Software Engineer, TensorRT Performance - New College Grad 2026",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Software-Engineer--TensorRT-Performance---New-College-Grad-2026_JR2015071?locationCountry=bc33aa3152ec42d4995f4791a106ed09&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&workerSubType=ab40a98049581037a3ada55b087049b7",
+      "identifier": "Deep Learning Software Engineer, TensorRT Performa_40a98049581037a3ada55b087049b7"
     }
   ],
-  "job_count_text": "59",
-  "timestamp": "2026-04-24T17:58:54.035281"
+  "job_count_text": "58",
+  "timestamp": "2026-04-24T18:16:06.273372"
 }

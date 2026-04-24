@@ -14,14 +14,14 @@
       "identifier": "Manager - Software Development Engineering (AI/ML)_-Development-Engineering-AI-ML"
     },
     {
-      "title": "Field Technician",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0893632/Field-Technician",
-      "identifier": "Field Technician_/job/R0893632/Field-Technician"
-    },
-    {
       "title": "Epic Automation Engineer",
       "url": "https://jobs.cvshealth.com/us/en/job/R0872968/Epic-Automation-Engineer",
       "identifier": "Epic Automation Engineer_72968/Epic-Automation-Engineer"
+    },
+    {
+      "title": "Field Technician",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0893632/Field-Technician",
+      "identifier": "Field Technician_/job/R0893632/Field-Technician"
     },
     {
       "title": "Technical Support Representative",
@@ -45,5 +45,5 @@
     }
   ],
   "job_count_text": "42",
-  "timestamp": "2026-04-24T17:54:53.206673"
+  "timestamp": "2026-04-24T18:12:04.566515"
 }

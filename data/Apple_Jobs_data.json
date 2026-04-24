@@ -1,8 +1,18 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 15,
+  "total_jobs": 14,
   "jobs": [
+    {
+      "title": "Software Engineer, Connected Audio, Sensing & Connectivity",
+      "url": "https://jobs.apple.com/en-us/details/200660035-0836/software-engineer-connected-audio-sensing-connectivity?team=SFTWR",
+      "identifier": "Software Engineer, Connected Audio, Sensing & Conn_ensing-connectivity?team=SFTWR"
+    },
+    {
+      "title": "App Review Specialist, Turkish language",
+      "url": "https://jobs.apple.com/en-us/details/200659234-3956/app-review-specialist-turkish-language?team=SFTWR",
+      "identifier": "App Review Specialist, Turkish language_st-turkish-language?team=SFTWR"
+    },
     {
       "title": "Senior Software Engineer, Apple Services Engineering - Kubernetes",
       "url": "https://jobs.apple.com/en-us/details/200660044-3337/senior-software-engineer-apple-services-engineering-kubernetes?team=SFTWR",
@@ -62,23 +72,8 @@
       "title": "Digital Goods Technical Fraud Analyst - Strategic Data Solutions",
       "url": "https://jobs.apple.com/en-us/details/200648461-0157/digital-goods-technical-fraud-analyst-strategic-data-solutions?team=OPMFG",
       "identifier": "Digital Goods Technical Fraud Analyst - Strategic _egic-data-solutions?team=OPMFG"
-    },
-    {
-      "title": "Senior Product Data Scientist in Causal Inference and ML, App Store",
-      "url": "https://jobs.apple.com/en-us/details/200654450-0670/senior-product-data-scientist-in-causal-inference-and-ml-app-store?team=SFTWR",
-      "identifier": "Senior Product Data Scientist in Causal Inference _ce-and-ml-app-store?team=SFTWR"
-    },
-    {
-      "title": "Site Reliability Engineering Manager, Storage - Apple Services Engineering",
-      "url": "https://jobs.apple.com/en-us/details/200620738-0836/site-reliability-engineering-manager-storage-apple-services-engineering?team=SFTWR",
-      "identifier": "Site Reliability Engineering Manager, Storage - Ap_ervices-engineering?team=SFTWR"
-    },
-    {
-      "title": "Image Quality Engineering Manager, Camera and Photos",
-      "url": "https://jobs.apple.com/en-us/details/200659408-0836/image-quality-engineering-manager-camera-and-photos?team=SFTWR",
-      "identifier": "Image Quality Engineering Manager, Camera and Phot_r-camera-and-photos?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-24T22:35:03.851059"
+  "timestamp": "2026-04-24T22:52:10.929259"
 }

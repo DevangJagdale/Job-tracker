@@ -4,12 +4,17 @@
   "total_jobs": 9,
   "jobs": [
     {
+      "title": "Software Engineering - CTJ - Poly\nUnited States, Washington, Redmond + 2 more\nPosted 13 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556858723?domain=microsoft.com",
+      "identifier": "Software Engineering - CTJ - Poly\nUnited States, W_556858723?domain=microsoft.com"
+    },
+    {
       "title": "Software Engineering\nUnited States, Washington, Redmond\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556859355?domain=microsoft.com",
       "identifier": "Software Engineering\nUnited States, Washington, Re_556859355?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer - Azure Storage\nUnited States, Washington, Redmond\nPosted an hour ago",
+      "title": "Senior Software Engineer - Azure Storage\nUnited States, Washington, Redmond\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556637615?domain=microsoft.com",
       "identifier": "Senior Software Engineer - Azure Storage\nUnited St_556637615?domain=microsoft.com"
     },
@@ -42,13 +47,8 @@
       "title": "Senior Software Engineer, Agent 365 - Tools\nUnited States, Washington, Redmond\nPosted 20 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556752620?domain=microsoft.com",
       "identifier": "Senior Software Engineer, Agent 365 - Tools\nUnited_556752620?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Applied Scientist\nUnited States, Washington, Redmond + 2 more\nPosted 20 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556861125?domain=microsoft.com",
-      "identifier": "Senior Applied Scientist\nUnited States, Washington_556861125?domain=microsoft.com"
     }
   ],
-  "job_count_text": "629",
-  "timestamp": "2026-04-24T17:36:18.833416"
+  "job_count_text": "630",
+  "timestamp": "2026-04-24T17:53:34.575821"
 }

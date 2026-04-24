@@ -1,8 +1,18 @@
 {
   "page_title": "Search our Job Opportunities at Barclays",
   "url": "https://search.jobs.barclays/search-jobs/United%20States/13015/2/6252001/39x76/-98x5/50/2",
-  "total_jobs": 15,
+  "total_jobs": 14,
   "jobs": [
+    {
+      "title": "Correspondent Banking Investigations Analyst",
+      "url": "https://search.jobs.barclays/job/whippany/correspondent-banking-investigations-analyst/13015/94336671968",
+      "identifier": "Correspondent Banking Investigations Analyst_ions-analyst/13015/94336671968"
+    },
+    {
+      "title": "Investment Banking Technology Coverage, VP",
+      "url": "https://search.jobs.barclays/job/san-francisco/investment-banking-technology-coverage-vp/13015/94336662608",
+      "identifier": "Investment Banking Technology Coverage, VP_-coverage-vp/13015/94336662608"
+    },
     {
       "title": "Correspondent Banking Investigation AVP",
       "url": "https://search.jobs.barclays/job/whippany/correspondent-banking-investigation-avp/13015/94318371872",
@@ -62,23 +72,8 @@
       "title": "Senior Business Analyst \u2013 AVP",
       "url": "https://search.jobs.barclays/job/whippany/senior-business-analyst-avp/13015/94220236352",
       "identifier": "Senior Business Analyst \u2013 AVP_-analyst-avp/13015/94220236352"
-    },
-    {
-      "title": "Senior BA/PM VP - Prime Front Office Risk & PnL",
-      "url": "https://search.jobs.barclays/job/whippany/senior-ba-pm-vp-prime-front-office-risk-and-pnl/13015/94220226544",
-      "identifier": "Senior BA/PM VP - Prime Front Office Risk & PnL_risk-and-pnl/13015/94220226544"
-    },
-    {
-      "title": "Java Developer",
-      "url": "https://search.jobs.barclays/job/whippany/java-developer/13015/94195076384",
-      "identifier": "Java Developer_va-developer/13015/94195076384"
-    },
-    {
-      "title": "Equities Trading Support",
-      "url": "https://search.jobs.barclays/job/new-york/equities-trading-support/13015/94195076304",
-      "identifier": "Equities Trading Support_ding-support/13015/94195076304"
     }
   ],
-  "job_count_text": "126",
-  "timestamp": "2026-04-24T17:36:01.973380"
+  "job_count_text": "128",
+  "timestamp": "2026-04-24T17:53:17.089674"
 }

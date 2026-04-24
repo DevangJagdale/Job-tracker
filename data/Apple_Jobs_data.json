@@ -1,8 +1,18 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 14,
+  "total_jobs": 15,
   "jobs": [
+    {
+      "title": "Machine Learning Engineer - Natural Language Generation, Input Experience",
+      "url": "https://jobs.apple.com/en-us/details/200636204-3337/machine-learning-engineer-natural-language-generation-input-experience?team=SFTWR",
+      "identifier": "Machine Learning Engineer - Natural Language Gener_on-input-experience?team=SFTWR"
+    },
+    {
+      "title": "Senior Machine Learning Engineer - System Experience Personalization",
+      "url": "https://jobs.apple.com/en-us/details/200624578-3401/senior-machine-learning-engineer-system-experience-personalization?team=SFTWR",
+      "identifier": "Senior Machine Learning Engineer - System Experien_nce-personalization?team=SFTWR"
+    },
     {
       "title": "Software Engineer (HANA), AI & Data Platforms (AiDP)",
       "url": "https://jobs.apple.com/en-us/details/200658460-3956/software-engineer-hana-ai-data-platforms-aidp?team=SFTWR",
@@ -67,13 +77,8 @@
       "title": "Manager, Transit Product Management (Wallet, Payments and Commerce)",
       "url": "https://jobs.apple.com/en-us/details/200659768-0836/manager-transit-product-management-wallet-payments-and-commerce?team=SFTWR",
       "identifier": "Manager, Transit Product Management (Wallet, Payme_yments-and-commerce?team=SFTWR"
-    },
-    {
-      "title": "Sr. Machine Leaning Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200659417-3760/sr-machine-leaning-engineer?team=MLAI",
-      "identifier": "Sr. Machine Leaning Engineer_ine-leaning-engineer?team=MLAI"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-24T23:09:16.194949"
+  "timestamp": "2026-04-24T23:26:18.119122"
 }

@@ -4,6 +4,11 @@
   "total_jobs": 18,
   "jobs": [
     {
+      "title": "Image Quality Engineering Manager, Camera and Photos",
+      "url": "https://jobs.apple.com/en-us/details/200659408-0836/image-quality-engineering-manager-camera-and-photos?team=SFTWR",
+      "identifier": "Image Quality Engineering Manager, Camera and Phot_r-camera-and-photos?team=SFTWR"
+    },
+    {
       "title": "Sr. Engineering Project Manager, Wallet & Payments",
       "url": "https://jobs.apple.com/en-us/details/200659140-0836/sr-engineering-project-manager-wallet-payments?team=SFTWR",
       "identifier": "Sr. Engineering Project Manager, Wallet & Payments_ger-wallet-payments?team=SFTWR"
@@ -87,13 +92,8 @@
       "title": "Staff Machine Learning Engineer, Information Intelligence",
       "url": "https://jobs.apple.com/en-us/details/200611866-3337/staff-machine-learning-engineer-information-intelligence?team=SFTWR",
       "identifier": "Staff Machine Learning Engineer, Information Intel_mation-intelligence?team=SFTWR"
-    },
-    {
-      "title": "Sr. Software Engineer, App Processing Infrastructure",
-      "url": "https://jobs.apple.com/en-us/details/200654982-3337/sr-software-engineer-app-processing-infrastructure?team=SFTWR",
-      "identifier": "Sr. Software Engineer, App Processing Infrastructu_sing-infrastructure?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-24T11:09:51.787951"
+  "timestamp": "2026-04-24T11:27:16.818829"
 }

@@ -4,14 +4,14 @@
   "total_jobs": 7,
   "jobs": [
     {
-      "title": "Software Engineer Backend/Platform Systems II (Full Time) \u2013 United States",
-      "url": "https://careers.cisco.com/global/en/job/2000135/Software-Engineer-Backend-Platform-Systems-II-Full-Time-United-States",
-      "identifier": "Software Engineer Backend/Platform Systems II (Ful_ems-II-Full-Time-United-States"
-    },
-    {
       "title": "Software Engineer Data/AI/Intelligent Systems II (Full Time) \u2013 United States",
       "url": "https://careers.cisco.com/global/en/job/2000137/Software-Engineer-Data-AI-Intelligent-Systems-II-Full-Time-United-States",
       "identifier": "Software Engineer Data/AI/Intelligent Systems II (_ems-II-Full-Time-United-States"
+    },
+    {
+      "title": "Software Engineer Backend/Platform Systems II (Full Time) \u2013 United States",
+      "url": "https://careers.cisco.com/global/en/job/2000135/Software-Engineer-Backend-Platform-Systems-II-Full-Time-United-States",
+      "identifier": "Software Engineer Backend/Platform Systems II (Ful_ems-II-Full-Time-United-States"
     },
     {
       "title": "Physical Design Engineer II (Full Time) - United States",
@@ -40,5 +40,5 @@
     }
   ],
   "job_count_text": "7",
-  "timestamp": "2026-04-25T12:25:01.036334"
+  "timestamp": "2026-04-25T12:42:03.790206"
 }

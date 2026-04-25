@@ -4,6 +4,11 @@
   "total_jobs": 10,
   "jobs": [
     {
+      "title": "Operation Improvement Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/41691274",
+      "identifier": "Operation Improvement Engineer\nBoise, Idaho, Unite_icron.com/careers/job/41691274"
+    },
+    {
       "title": "Semiconductor Process Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/41605353",
       "identifier": "Semiconductor Process Engineer\nBoise, Idaho, Unite_icron.com/careers/job/41605353"
@@ -12,11 +17,6 @@
       "title": "SSD Customer Validation Engineer\nLongmont, Colorado, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/41674013",
       "identifier": "SSD Customer Validation Engineer\nLongmont, Colorad_icron.com/careers/job/41674013"
-    },
-    {
-      "title": "Operation Improvement Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
-      "url": "https://careers.micron.com/careers/job/41691274",
-      "identifier": "Operation Improvement Engineer\nBoise, Idaho, Unite_icron.com/careers/job/41691274"
     },
     {
       "title": "New College Grad - Metrology Applications Engineer\nManassas, Virginia, United States of America\nPosted 3 days ago",
@@ -34,11 +34,6 @@
       "identifier": "New College Grad - Design Engineer\nSan Jose, Calif_icron.com/careers/job/40431608"
     },
     {
-      "title": "Semiconductor Process Engineer\nBoise, Idaho, United States of America\nPosted 5 days ago",
-      "url": "https://careers.micron.com/careers/job/41510739",
-      "identifier": "Semiconductor Process Engineer\nBoise, Idaho, Unite_icron.com/careers/job/41510739"
-    },
-    {
       "title": "Manufacturing Engineer\nBoise, Idaho, United States of America\nPosted 5 days ago",
       "url": "https://careers.micron.com/careers/job/41510742",
       "identifier": "Manufacturing Engineer\nBoise, Idaho, United States_icron.com/careers/job/41510742"
@@ -52,8 +47,13 @@
       "title": "Software Engineer\nBoise, Idaho, United States of America\nPosted 5 days ago",
       "url": "https://careers.micron.com/careers/job/41522736",
       "identifier": "Software Engineer\nBoise, Idaho, United States of A_icron.com/careers/job/41522736"
+    },
+    {
+      "title": "Semiconductor Process Engineer\nBoise, Idaho, United States of America\nPosted 5 days ago",
+      "url": "https://careers.micron.com/careers/job/41510739",
+      "identifier": "Semiconductor Process Engineer\nBoise, Idaho, Unite_icron.com/careers/job/41510739"
     }
   ],
   "job_count_text": "82",
-  "timestamp": "2026-04-25T02:47:04.393910"
+  "timestamp": "2026-04-25T03:04:07.902302"
 }

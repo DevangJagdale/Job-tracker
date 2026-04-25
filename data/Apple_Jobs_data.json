@@ -1,8 +1,89 @@
 {
-  "page_title": "Maintenance - Careers at Apple",
-  "url": "https://www.apple.com/careers/us/maintenance.html",
-  "total_jobs": 0,
-  "jobs": [],
+  "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
+  "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
+  "total_jobs": 16,
+  "jobs": [
+    {
+      "title": "Sr Audio QA Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200650445-0836/sr-audio-qa-engineer?team=SFTWR",
+      "identifier": "Sr Audio QA Engineer_r-audio-qa-engineer?team=SFTWR"
+    },
+    {
+      "title": "Software Engineering Manager, Tools Team",
+      "url": "https://jobs.apple.com/en-us/details/200659835-0836/software-engineering-manager-tools-team?team=SFTWR",
+      "identifier": "Software Engineering Manager, Tools Team_-manager-tools-team?team=SFTWR"
+    },
+    {
+      "title": "Software Development Engineer (SDE)",
+      "url": "https://jobs.apple.com/en-us/details/200659809-0836/software-development-engineer-sde?team=SFTWR",
+      "identifier": "Software Development Engineer (SDE)_opment-engineer-sde?team=SFTWR"
+    },
+    {
+      "title": "Machine Learning Test and Automation Engineer, Graphics, Games, and ML",
+      "url": "https://jobs.apple.com/en-us/details/200658438-0836/machine-learning-test-and-automation-engineer-graphics-games-and-ml?team=SFTWR",
+      "identifier": "Machine Learning Test and Automation Engineer, Gra_aphics-games-and-ml?team=SFTWR"
+    },
+    {
+      "title": "Sr Machine Learning Engineer, Tech Lead \u2014 Autograder Systems, Evaluation",
+      "url": "https://jobs.apple.com/en-us/details/200628183-0836/sr-machine-learning-engineer-tech-lead-autograder-systems-evaluation?team=MLAI",
+      "identifier": "Sr Machine Learning Engineer, Tech Lead \u2014 Autograd_r-systems-evaluation?team=MLAI"
+    },
+    {
+      "title": "Machine Learning Engineer - Natural Language Generation, Input Experience",
+      "url": "https://jobs.apple.com/en-us/details/200636204-3337/machine-learning-engineer-natural-language-generation-input-experience?team=SFTWR",
+      "identifier": "Machine Learning Engineer - Natural Language Gener_on-input-experience?team=SFTWR"
+    },
+    {
+      "title": "Senior Machine Learning Engineer - System Experience Personalization",
+      "url": "https://jobs.apple.com/en-us/details/200624578-3401/senior-machine-learning-engineer-system-experience-personalization?team=SFTWR",
+      "identifier": "Senior Machine Learning Engineer - System Experien_nce-personalization?team=SFTWR"
+    },
+    {
+      "title": "Software Engineer (HANA), AI & Data Platforms (AiDP)",
+      "url": "https://jobs.apple.com/en-us/details/200658460-3956/software-engineer-hana-ai-data-platforms-aidp?team=SFTWR",
+      "identifier": "Software Engineer (HANA), AI & Data Platforms (AiD_data-platforms-aidp?team=SFTWR"
+    },
+    {
+      "title": "Software Engineer, Connected Audio, Sensing & Connectivity",
+      "url": "https://jobs.apple.com/en-us/details/200660035-0836/software-engineer-connected-audio-sensing-connectivity?team=SFTWR",
+      "identifier": "Software Engineer, Connected Audio, Sensing & Conn_ensing-connectivity?team=SFTWR"
+    },
+    {
+      "title": "App Review Specialist, Turkish language",
+      "url": "https://jobs.apple.com/en-us/details/200659234-3956/app-review-specialist-turkish-language?team=SFTWR",
+      "identifier": "App Review Specialist, Turkish language_st-turkish-language?team=SFTWR"
+    },
+    {
+      "title": "Senior Software Engineer, Apple Services Engineering - Kubernetes",
+      "url": "https://jobs.apple.com/en-us/details/200660044-3337/senior-software-engineer-apple-services-engineering-kubernetes?team=SFTWR",
+      "identifier": "Senior Software Engineer, Apple Services Engineeri_ineering-kubernetes?team=SFTWR"
+    },
+    {
+      "title": "Audio Quality Engineer, Audio & Media Technologies",
+      "url": "https://jobs.apple.com/en-us/details/200659900-0836/audio-quality-engineer-audio-media-technologies?team=SFTWR",
+      "identifier": "Audio Quality Engineer, Audio & Media Technologies_-media-technologies?team=SFTWR"
+    },
+    {
+      "title": "GPU Systems Software Engineer, Platform Architecture",
+      "url": "https://jobs.apple.com/en-us/details/200660012-0836/gpu-systems-software-engineer-platform-architecture?team=SFTWR",
+      "identifier": "GPU Systems Software Engineer, Platform Architectu_atform-architecture?team=SFTWR"
+    },
+    {
+      "title": "Sr. Software Engineer - Apple Vision Pro Developer Ecosystem, Vision Products Group",
+      "url": "https://jobs.apple.com/en-us/details/200659830-3401/sr-software-engineer-apple-vision-pro-developer-ecosystem-vision-products-group?team=SFTWR",
+      "identifier": "Sr. Software Engineer - Apple Vision Pro Developer_sion-products-group?team=SFTWR"
+    },
+    {
+      "title": "Machine Learning Engineer - Health AIML",
+      "url": "https://jobs.apple.com/en-us/details/200659977-0836/machine-learning-engineer-health-aiml?team=MLAI",
+      "identifier": "Machine Learning Engineer - Health AIML_engineer-health-aiml?team=MLAI"
+    },
+    {
+      "title": "Senior Software Engineer, ML - Developer Platform",
+      "url": "https://jobs.apple.com/en-us/details/200658257-3760/senior-software-engineer-ml-developer-platform?team=MLAI",
+      "identifier": "Senior Software Engineer, ML - Developer Platform_l-developer-platform?team=MLAI"
+    }
+  ],
   "job_count_text": "",
-  "timestamp": "2026-04-25T02:43:51.784666"
+  "timestamp": "2026-04-25T03:00:56.031233"
 }

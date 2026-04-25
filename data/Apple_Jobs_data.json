@@ -4,6 +4,16 @@
   "total_jobs": 15,
   "jobs": [
     {
+      "title": "Software Engineering Manager, Tools Team",
+      "url": "https://jobs.apple.com/en-us/details/200659835-0836/software-engineering-manager-tools-team?team=SFTWR",
+      "identifier": "Software Engineering Manager, Tools Team_-manager-tools-team?team=SFTWR"
+    },
+    {
+      "title": "Software Development Engineer (SDE)",
+      "url": "https://jobs.apple.com/en-us/details/200659809-0836/software-development-engineer-sde?team=SFTWR",
+      "identifier": "Software Development Engineer (SDE)_opment-engineer-sde?team=SFTWR"
+    },
+    {
       "title": "Machine Learning Test and Automation Engineer, Graphics, Games, and ML",
       "url": "https://jobs.apple.com/en-us/details/200658438-0836/machine-learning-test-and-automation-engineer-graphics-games-and-ml?team=SFTWR",
       "identifier": "Machine Learning Test and Automation Engineer, Gra_aphics-games-and-ml?team=SFTWR"
@@ -67,18 +77,8 @@
       "title": "Senior Software Engineer, ML - Developer Platform",
       "url": "https://jobs.apple.com/en-us/details/200658257-3760/senior-software-engineer-ml-developer-platform?team=MLAI",
       "identifier": "Senior Software Engineer, ML - Developer Platform_l-developer-platform?team=MLAI"
-    },
-    {
-      "title": "Site Services Supervisor, Data Center",
-      "url": "https://jobs.apple.com/en-us/details/200658661-6172/site-services-supervisor-data-center?team=SFTWR",
-      "identifier": "Site Services Supervisor, Data Center_ervisor-data-center?team=SFTWR"
-    },
-    {
-      "title": "Security Domain Expert, Perimeter and Network Security, Enterprise Technology Services",
-      "url": "https://jobs.apple.com/en-us/details/200658647-3956/security-domain-expert-perimeter-and-network-security-enterprise-technology-services?team=SFTWR",
-      "identifier": "Security Domain Expert, Perimeter and Network Secu_technology-services?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-25T02:07:25.956242"
+  "timestamp": "2026-04-25T02:24:38.316954"
 }

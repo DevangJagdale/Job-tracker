@@ -4,6 +4,11 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Software Development Engineer - Data",
+      "url": "https://jobs.apple.com/en-us/details/200659878-0836/software-development-engineer-data?team=SFTWR",
+      "identifier": "Software Development Engineer - Data_pment-engineer-data?team=SFTWR"
+    },
+    {
       "title": "Sr Audio QA Engineer",
       "url": "https://jobs.apple.com/en-us/details/200650445-0836/sr-audio-qa-engineer?team=SFTWR",
       "identifier": "Sr Audio QA Engineer_r-audio-qa-engineer?team=SFTWR"
@@ -77,13 +82,8 @@
       "title": "Machine Learning Engineer - Health AIML",
       "url": "https://jobs.apple.com/en-us/details/200659977-0836/machine-learning-engineer-health-aiml?team=MLAI",
       "identifier": "Machine Learning Engineer - Health AIML_engineer-health-aiml?team=MLAI"
-    },
-    {
-      "title": "Senior Software Engineer, ML - Developer Platform",
-      "url": "https://jobs.apple.com/en-us/details/200658257-3760/senior-software-engineer-ml-developer-platform?team=MLAI",
-      "identifier": "Senior Software Engineer, ML - Developer Platform_l-developer-platform?team=MLAI"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-25T18:11:00.536582"
+  "timestamp": "2026-04-25T18:27:56.596358"
 }

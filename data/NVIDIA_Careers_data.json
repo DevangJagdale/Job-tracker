@@ -1,8 +1,13 @@
 {
-  "page_title": "Search for Jobs",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite?locationCountry=bc33aa3152ec42d4995f4791a106ed09&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&workerSubType=ab40a98049581037a3ada55b087049b7",
-  "total_jobs": 1,
+  "page_title": "Jobs at NVIDIA | NVIDIA Careers",
+  "url": "https://www.nvidia.com/en-us/about-nvidia/careers/",
+  "total_jobs": 2,
   "jobs": [
+    {
+      "title": "Meet More Teams",
+      "url": "https://www.nvidia.com/en-us/about-nvidia/careers/teams-in-action/",
+      "identifier": "Meet More Teams_vidia/careers/teams-in-action/"
+    },
     {
       "title": "Applicant Privacy Policy",
       "url": "https://www.nvidia.com/en-us/about-nvidia/careers/applicant-privacy-policy/",
@@ -10,5 +15,5 @@
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-25T06:04:07.366215"
+  "timestamp": "2026-04-25T06:21:12.898187"
 }

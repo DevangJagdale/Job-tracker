@@ -9,14 +9,14 @@
       "identifier": "Field Service Technician \u2013 Mobile, AL_d-Service-Technician-Mobile-AL"
     },
     {
-      "title": "Field Technician",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0893632/Field-Technician",
-      "identifier": "Field Technician_/job/R0893632/Field-Technician"
-    },
-    {
       "title": "Epic Automation Engineer",
       "url": "https://jobs.cvshealth.com/us/en/job/R0872968/Epic-Automation-Engineer",
       "identifier": "Epic Automation Engineer_72968/Epic-Automation-Engineer"
+    },
+    {
+      "title": "Field Technician",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0893632/Field-Technician",
+      "identifier": "Field Technician_/job/R0893632/Field-Technician"
     },
     {
       "title": "Technical Support Representative",
@@ -34,16 +34,16 @@
       "identifier": "Field Technician_/job/R0870653/Field-Technician"
     },
     {
-      "title": "Staff Quality Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0889638/Staff-Quality-Engineer",
-      "identifier": "Staff Quality Engineer_0889638/Staff-Quality-Engineer"
-    },
-    {
       "title": "Senior Manager - Business Analysis",
       "url": "https://jobs.cvshealth.com/us/en/job/R0889306/Senior-Manager-Business-Analysis",
       "identifier": "Senior Manager - Business Analysis_nior-Manager-Business-Analysis"
+    },
+    {
+      "title": "Staff Quality Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0889638/Staff-Quality-Engineer",
+      "identifier": "Staff Quality Engineer_0889638/Staff-Quality-Engineer"
     }
   ],
   "job_count_text": "35",
-  "timestamp": "2026-04-25T07:42:44.186934"
+  "timestamp": "2026-04-25T07:59:50.012591"
 }

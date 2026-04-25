@@ -4,6 +4,16 @@
   "total_jobs": 15,
   "jobs": [
     {
+      "title": "Machine Learning Test and Automation Engineer, Graphics, Games, and ML",
+      "url": "https://jobs.apple.com/en-us/details/200658438-0836/machine-learning-test-and-automation-engineer-graphics-games-and-ml?team=SFTWR",
+      "identifier": "Machine Learning Test and Automation Engineer, Gra_aphics-games-and-ml?team=SFTWR"
+    },
+    {
+      "title": "Sr Machine Learning Engineer, Tech Lead \u2014 Autograder Systems, Evaluation",
+      "url": "https://jobs.apple.com/en-us/details/200628183-0836/sr-machine-learning-engineer-tech-lead-autograder-systems-evaluation?team=MLAI",
+      "identifier": "Sr Machine Learning Engineer, Tech Lead \u2014 Autograd_r-systems-evaluation?team=MLAI"
+    },
+    {
       "title": "Machine Learning Engineer - Natural Language Generation, Input Experience",
       "url": "https://jobs.apple.com/en-us/details/200636204-3337/machine-learning-engineer-natural-language-generation-input-experience?team=SFTWR",
       "identifier": "Machine Learning Engineer - Natural Language Gener_on-input-experience?team=SFTWR"
@@ -67,18 +77,8 @@
       "title": "Security Domain Expert, Perimeter and Network Security, Enterprise Technology Services",
       "url": "https://jobs.apple.com/en-us/details/200658647-3956/security-domain-expert-perimeter-and-network-security-enterprise-technology-services?team=SFTWR",
       "identifier": "Security Domain Expert, Perimeter and Network Secu_technology-services?team=SFTWR"
-    },
-    {
-      "title": "Architect, Perimeter and Network Security, Enterprise Technology Services",
-      "url": "https://jobs.apple.com/en-us/details/200658863-3956/architect-perimeter-and-network-security-enterprise-technology-services?team=SFTWR",
-      "identifier": "Architect, Perimeter and Network Security, Enterpr_technology-services?team=SFTWR"
-    },
-    {
-      "title": "Manager, Transit Product Management (Wallet, Payments and Commerce)",
-      "url": "https://jobs.apple.com/en-us/details/200659768-0836/manager-transit-product-management-wallet-payments-and-commerce?team=SFTWR",
-      "identifier": "Manager, Transit Product Management (Wallet, Payme_yments-and-commerce?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-24T23:43:20.821262"
+  "timestamp": "2026-04-25T00:00:25.918580"
 }

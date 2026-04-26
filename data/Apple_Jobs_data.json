@@ -4,6 +4,11 @@
   "total_jobs": 17,
   "jobs": [
     {
+      "title": "Senior Machine Learning Engineer, Proactive - Apple Intelligence Data Platform",
+      "url": "https://jobs.apple.com/en-us/details/200625093-3337/senior-machine-learning-engineer-proactive-apple-intelligence-data-platform?team=MLAI",
+      "identifier": "Senior Machine Learning Engineer, Proactive - Appl_igence-data-platform?team=MLAI"
+    },
+    {
       "title": "Software Development Engineer, Proactive",
       "url": "https://jobs.apple.com/en-us/details/200660123-0836/software-development-engineer-proactive?team=SFTWR",
       "identifier": "Software Development Engineer, Proactive_-engineer-proactive?team=SFTWR"
@@ -82,13 +87,8 @@
       "title": "GPU Systems Software Engineer, Platform Architecture",
       "url": "https://jobs.apple.com/en-us/details/200660012-0836/gpu-systems-software-engineer-platform-architecture?team=SFTWR",
       "identifier": "GPU Systems Software Engineer, Platform Architectu_atform-architecture?team=SFTWR"
-    },
-    {
-      "title": "Sr. Software Engineer - Apple Vision Pro Developer Ecosystem, Vision Products Group",
-      "url": "https://jobs.apple.com/en-us/details/200659830-3401/sr-software-engineer-apple-vision-pro-developer-ecosystem-vision-products-group?team=SFTWR",
-      "identifier": "Sr. Software Engineer - Apple Vision Pro Developer_sion-products-group?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-26T21:21:39.515606"
+  "timestamp": "2026-04-26T21:38:44.636321"
 }

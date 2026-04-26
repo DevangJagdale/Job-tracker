@@ -29,11 +29,6 @@
       "identifier": "New College Grad - Supply Management Analyst\nBoise_icron.com/careers/job/41482847"
     },
     {
-      "title": "New College Grad - Design Engineer\nSan Jose, California, United States of America\nPosted 7 days ago",
-      "url": "https://careers.micron.com/careers/job/40431608",
-      "identifier": "New College Grad - Design Engineer\nSan Jose, Calif_icron.com/careers/job/40431608"
-    },
-    {
       "title": "Semiconductor Process Engineer\nBoise, Idaho, United States of America\nPosted 7 days ago",
       "url": "https://careers.micron.com/careers/job/41510739",
       "identifier": "Semiconductor Process Engineer\nBoise, Idaho, Unite_icron.com/careers/job/41510739"
@@ -42,6 +37,11 @@
       "title": "Manufacturing Engineer\nBoise, Idaho, United States of America\nPosted 7 days ago",
       "url": "https://careers.micron.com/careers/job/41510742",
       "identifier": "Manufacturing Engineer\nBoise, Idaho, United States_icron.com/careers/job/41510742"
+    },
+    {
+      "title": "New College Grad - Design Engineer\nSan Jose, California, United States of America\nPosted 7 days ago",
+      "url": "https://careers.micron.com/careers/job/40431608",
+      "identifier": "New College Grad - Design Engineer\nSan Jose, Calif_icron.com/careers/job/40431608"
     },
     {
       "title": "Industry 4.0 Analyst\nBoise, Idaho, United States of America\nPosted 7 days ago",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "82",
-  "timestamp": "2026-04-26T18:08:51.116501"
+  "timestamp": "2026-04-26T18:26:01.589204"
 }

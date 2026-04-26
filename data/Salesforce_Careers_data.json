@@ -1,109 +1,14 @@
 {
   "page_title": "Salesforce Jobs | Salesforce Careers",
   "url": "https://careers.salesforce.com/en/jobs/?search=&country=United+States+of+America&team=Data&team=Enterprise+Technology+%26+Infrastructure&team=Software+Engineering&jobtype=New+Grads&pagesize=20#results",
-  "total_jobs": 20,
+  "total_jobs": 1,
   "jobs": [
     {
-      "title": "Sr. Mgr, Technical Consulting, Telecommunications",
-      "url": "https://careers.salesforce.com/en/jobs/jr325977/sr-mgr-technical-consulting-telecommunications/",
-      "identifier": "Sr. Mgr, Technical Consulting, Telecommunications_consulting-telecommunications/"
-    },
-    {
-      "title": "Analyst/Sr. Analyst, Business Analytics",
-      "url": "https://careers.salesforce.com/en/jobs/jr339763/analystsr-analyst-business-analytics/",
-      "identifier": "Analyst/Sr. Analyst, Business Analytics_sr-analyst-business-analytics/"
-    },
-    {
-      "title": "Named Account Executive - Marketing Cloud",
-      "url": "https://careers.salesforce.com/en/jobs/jr339541/named-account-executive-marketing-cloud/",
-      "identifier": "Named Account Executive - Marketing Cloud_unt-executive-marketing-cloud/"
-    },
-    {
-      "title": "Principal Design Program Manager",
-      "url": "https://careers.salesforce.com/en/jobs/jr339197/principal-design-program-manager/",
-      "identifier": "Principal Design Program Manager_ncipal-design-program-manager/"
-    },
-    {
-      "title": "Full Stack Principal Software Engineer - Event Technology",
-      "url": "https://careers.salesforce.com/en/jobs/jr328543/full-stack-principal-software-engineer-event-technology/",
-      "identifier": "Full Stack Principal Software Engineer - Event Tec_are-engineer-event-technology/"
-    },
-    {
-      "title": "Technical Support Engineer - GVC Cloud (US Citizen Only)",
-      "url": "https://careers.salesforce.com/en/jobs/jr336509/technical-support-engineer-gvc-cloud-us-citizen-only/",
-      "identifier": "Technical Support Engineer - GVC Cloud (US Citizen_eer-gvc-cloud-us-citizen-only/"
-    },
-    {
-      "title": "Lead Decision Scientist",
-      "url": "https://careers.salesforce.com/en/jobs/jr338651/lead-decision-scientist/",
-      "identifier": "Lead Decision Scientist_38651/lead-decision-scientist/"
-    },
-    {
-      "title": "Associate Customer Support Engineer - Slack\u3010\u969c\u5bb3\u8005\u63a1\u7528\u3011",
-      "url": "https://careers.salesforce.com/en/jobs/jr335047/associate-customer-support-engineer-slack-%E9%9A%9C%E5%AE%B3%E8%80%85%E6%8E%A1%E7%94%A8/",
-      "identifier": "Associate Customer Support Engineer - Slack\u3010\u969c\u5bb3\u8005\u63a1\u7528\u3011_B3%E8%80%85%E6%8E%A1%E7%94%A8/"
-    },
-    {
-      "title": "Senior Staff Engineer, API Platform (DET)",
-      "url": "https://careers.salesforce.com/en/jobs/jr316560/senior-staff-engineer-api-platform-det/",
-      "identifier": "Senior Staff Engineer, API Platform (DET)_aff-engineer-api-platform-det/"
-    },
-    {
-      "title": "Customer Success Manager - Director - Slack",
-      "url": "https://careers.salesforce.com/en/jobs/jr339729/customer-success-manager-director-slack/",
-      "identifier": "Customer Success Manager - Director - Slack_uccess-manager-director-slack/"
-    },
-    {
-      "title": "Principal Backend Software Development Engineer, Agentforce for Supply Chain",
-      "url": "https://careers.salesforce.com/en/jobs/jr322181/principal-backend-software-development-engineer-agentforce-for-supply-chain/",
-      "identifier": "Principal Backend Software Development Engineer, A_r-agentforce-for-supply-chain/"
-    },
-    {
-      "title": "Senior Software Engineer - Python/SQL",
-      "url": "https://careers.salesforce.com/en/jobs/jr325847/senior-software-engineer-pythonsql/",
-      "identifier": "Senior Software Engineer - Python/SQL_r-software-engineer-pythonsql/"
-    },
-    {
-      "title": "Senior Lead, Software Engineer",
-      "url": "https://careers.salesforce.com/en/jobs/jr324787/senior-lead-software-engineer/",
-      "identifier": "Senior Lead, Software Engineer_senior-lead-software-engineer/"
-    },
-    {
-      "title": "Distinguished Enterprise Architect",
-      "url": "https://careers.salesforce.com/en/jobs/jr334994/distinguished-enterprise-architect/",
-      "identifier": "Distinguished Enterprise Architect_nguished-enterprise-architect/"
-    },
-    {
-      "title": "Data 360 GTM Specialist, Data Excellence & AI Practice Director",
-      "url": "https://careers.salesforce.com/en/jobs/jr336904/data-360-gtm-specialist-data-excellence-ai-practice-director/",
-      "identifier": "Data 360 GTM Specialist, Data Excellence & AI Prac_cellence-ai-practice-director/"
-    },
-    {
-      "title": "Small, Medium and Growth Business - Account Executive - San Francisco",
-      "url": "https://careers.salesforce.com/en/jobs/jr283068/small-medium-and-growth-business-account-executive-san-francisco/",
-      "identifier": "Small, Medium and Growth Business - Account Execut_count-executive-san-francisco/"
-    },
-    {
-      "title": "Senior Fullstack Engineer, Agentforce for Supply Chain",
-      "url": "https://careers.salesforce.com/en/jobs/jr322187/senior-fullstack-engineer-agentforce-for-supply-chain/",
-      "identifier": "Senior Fullstack Engineer, Agentforce for Supply C_r-agentforce-for-supply-chain/"
-    },
-    {
-      "title": "Technical Support Engineer - Sales Cloud",
-      "url": "https://careers.salesforce.com/en/jobs/jr334959/technical-support-engineer-sales-cloud/",
-      "identifier": "Technical Support Engineer - Sales Cloud_-support-engineer-sales-cloud/"
-    },
-    {
-      "title": "Lead Data Engineer, AI",
-      "url": "https://careers.salesforce.com/en/jobs/jr338648/lead-data-engineer-ai/",
-      "identifier": "Lead Data Engineer, AI_r338648/lead-data-engineer-ai/"
-    },
-    {
-      "title": "Success Architect / Senior Success Architect",
-      "url": "https://careers.salesforce.com/en/jobs/jr320532/success-architect-senior-success-architect/",
-      "identifier": "Success Architect / Senior Success Architect_tect-senior-success-architect/"
+      "title": "Software Engineering AMTS (College Grad)",
+      "url": "https://careers.salesforce.com/en/jobs/jr330400/software-engineering-amts-college-grad/",
+      "identifier": "Software Engineering AMTS (College Grad)_engineering-amts-college-grad/"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-26T03:09:31.477246"
+  "timestamp": "2026-04-26T03:26:35.708091"
 }

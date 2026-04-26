@@ -1,14 +1,94 @@
 {
   "page_title": "Salesforce Jobs | Salesforce Careers",
   "url": "https://careers.salesforce.com/en/jobs/?search=&country=United+States+of+America&team=Data&team=Enterprise+Technology+%26+Infrastructure&team=Software+Engineering&jobtype=New+Grads&pagesize=20#results",
-  "total_jobs": 1,
+  "total_jobs": 17,
   "jobs": [
+    {
+      "title": "Sales Development Representative (NGO & Public Sector) - Swedish Speaker",
+      "url": "https://careers.salesforce.com/en/jobs/jr335767/sales-development-representative-ngo-public-sector-swedish-speaker/",
+      "identifier": "Sales Development Representative (NGO & Public Sec_public-sector-swedish-speaker/"
+    },
+    {
+      "title": "Corporate Marketing Associate Analyst",
+      "url": "https://careers.salesforce.com/en/jobs/jr339392/corporate-marketing-associate-analyst/",
+      "identifier": "Corporate Marketing Associate Analyst_e-marketing-associate-analyst/"
+    },
+    {
+      "title": "Sales Development Representative - French Speaker - NGO and Public Sector",
+      "url": "https://careers.salesforce.com/en/jobs/jr339486/sales-development-representative-french-speaker-ngo-and-public-sector/",
+      "identifier": "Sales Development Representative - French Speaker _speaker-ngo-and-public-sector/"
+    },
+    {
+      "title": "Sales Development Representative - Spanish & italian - NGO and Public Sector",
+      "url": "https://careers.salesforce.com/en/jobs/jr339327/sales-development-representative-spanish-italian-ngo-and-public-sector/",
+      "identifier": "Sales Development Representative - Spanish & itali_italian-ngo-and-public-sector/"
+    },
+    {
+      "title": "Solution Engineering, Early Career",
+      "url": "https://careers.salesforce.com/en/jobs/jr339058/solution-engineering-early-career/",
+      "identifier": "Solution Engineering, Early Career_tion-engineering-early-career/"
+    },
+    {
+      "title": "Commercial Graduate Sales Path - Belgian Market",
+      "url": "https://careers.salesforce.com/en/jobs/jr325489/commercial-graduate-sales-path-belgian-market/",
+      "identifier": "Commercial Graduate Sales Path - Belgian Market_ate-sales-path-belgian-market/"
+    },
+    {
+      "title": "Commercial Graduate Sales Path - Polish Market",
+      "url": "https://careers.salesforce.com/en/jobs/jr325522/commercial-graduate-sales-path-polish-market/",
+      "identifier": "Commercial Graduate Sales Path - Polish Market_uate-sales-path-polish-market/"
+    },
+    {
+      "title": "Finance Rotation Program Analyst (Early Career)",
+      "url": "https://careers.salesforce.com/en/jobs/jr329620/finance-rotation-program-analyst-early-career/",
+      "identifier": "Finance Rotation Program Analyst (Early Career)_-program-analyst-early-career/"
+    },
+    {
+      "title": "Sales Development Representative - Czech Market",
+      "url": "https://careers.salesforce.com/en/jobs/jr335101/sales-development-representative-czech-market/",
+      "identifier": "Sales Development Representative - Czech Market_t-representative-czech-market/"
+    },
+    {
+      "title": "Sales Development Representative - Greek Market",
+      "url": "https://careers.salesforce.com/en/jobs/jr332116/sales-development-representative-greek-market/",
+      "identifier": "Sales Development Representative - Greek Market_t-representative-greek-market/"
+    },
+    {
+      "title": "Product Manager (Early Career)",
+      "url": "https://careers.salesforce.com/en/jobs/jr333478/product-manager-early-career/",
+      "identifier": "Product Manager (Early Career)_/product-manager-early-career/"
+    },
     {
       "title": "Software Engineering AMTS (College Grad)",
       "url": "https://careers.salesforce.com/en/jobs/jr330400/software-engineering-amts-college-grad/",
       "identifier": "Software Engineering AMTS (College Grad)_engineering-amts-college-grad/"
+    },
+    {
+      "title": "Commercial Graduate Sales Path - Israel Market (Hebrew Speaker)",
+      "url": "https://careers.salesforce.com/en/jobs/jr325519/commercial-graduate-sales-path-israel-market-hebrew-speaker/",
+      "identifier": "Commercial Graduate Sales Path - Israel Market (He_-israel-market-hebrew-speaker/"
+    },
+    {
+      "title": "Sales Development Representative",
+      "url": "https://careers.salesforce.com/en/jobs/jr296924/sales-development-representative/",
+      "identifier": "Sales Development Representative_es-development-representative/"
+    },
+    {
+      "title": "Commercial Graduate Solution Engineering Path - Swedish Market",
+      "url": "https://careers.salesforce.com/en/jobs/jr325490/commercial-graduate-solution-engineering-path-swedish-market/",
+      "identifier": "Commercial Graduate Solution Engineering Path - Sw_gineering-path-swedish-market/"
+    },
+    {
+      "title": "Commercial Graduate Sales Path - German Market (August start)",
+      "url": "https://careers.salesforce.com/en/jobs/jr326577/commercial-graduate-sales-path-german-market-august-start/",
+      "identifier": "Commercial Graduate Sales Path - German Market (Au_th-german-market-august-start/"
+    },
+    {
+      "title": "Commercial Graduate Rotation Program - Norwegian Speakers (February Start)",
+      "url": "https://careers.salesforce.com/en/jobs/jr303940/commercial-graduate-rotation-program-norwegian-speakers-february-start/",
+      "identifier": "Commercial Graduate Rotation Program - Norwegian S_egian-speakers-february-start/"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-26T00:18:21.442807"
+  "timestamp": "2026-04-26T00:35:25.721726"
 }

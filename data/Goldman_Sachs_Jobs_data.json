@@ -4,6 +4,11 @@
   "total_jobs": 20,
   "jobs": [
     {
+      "title": "MLOps Engineer - Machine Learning Platform\nJersey City\u00b7United States\n\u00b7Associate",
+      "url": "https://higher.gs.com/roles/153822",
+      "identifier": "MLOps Engineer - Machine Learning Platform\nJersey _s://higher.gs.com/roles/153822"
+    },
+    {
       "title": "Asset & Wealth Management-Full Stack Engineer-Associate-Dallas\nDallas\u00b7United States\n\u00b7Associate",
       "url": "https://higher.gs.com/roles/168777",
       "identifier": "Asset & Wealth Management-Full Stack Engineer-Asso_s://higher.gs.com/roles/168777"
@@ -97,13 +102,8 @@
       "title": "Asset & Wealth Management - Software Engineer - Associate - Dallas\nDallas\u00b7United States\n\u00b7Associate",
       "url": "https://higher.gs.com/roles/168554",
       "identifier": "Asset & Wealth Management - Software Engineer - As_s://higher.gs.com/roles/168554"
-    },
-    {
-      "title": "Financial Crimes Compliance Engineering \u2013 Data Analyst, FCC Engineering\nDallas\u00b7United States\n\u00b7Associate",
-      "url": "https://higher.gs.com/roles/161800",
-      "identifier": "Financial Crimes Compliance Engineering \u2013 Data Ana_s://higher.gs.com/roles/161800"
     }
   ],
-  "job_count_text": "53",
-  "timestamp": "2026-04-27T15:44:02.757360"
+  "job_count_text": "54",
+  "timestamp": "2026-04-27T16:01:13.936586"
 }

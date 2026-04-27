@@ -1,14 +1,109 @@
 {
   "page_title": "Salesforce Jobs | Salesforce Careers",
   "url": "https://careers.salesforce.com/en/jobs/?search=&country=United+States+of+America&team=Data&team=Enterprise+Technology+%26+Infrastructure&team=Software+Engineering&jobtype=New+Grads&pagesize=20#results",
-  "total_jobs": 1,
+  "total_jobs": 20,
   "jobs": [
     {
-      "title": "Software Engineering AMTS (College Grad)",
-      "url": "https://careers.salesforce.com/en/jobs/jr330400/software-engineering-amts-college-grad/",
-      "identifier": "Software Engineering AMTS (College Grad)_engineering-amts-college-grad/"
+      "title": "Software Engineering PMTS",
+      "url": "https://careers.salesforce.com/en/jobs/jr313327/software-engineering-pmts/",
+      "identifier": "Software Engineering PMTS_327/software-engineering-pmts/"
+    },
+    {
+      "title": "Named Account Executive, Public Sector - Thailand",
+      "url": "https://careers.salesforce.com/en/jobs/jr339311/named-account-executive-public-sector-thailand/",
+      "identifier": "Named Account Executive, Public Sector - Thailand_cutive-public-sector-thailand/"
+    },
+    {
+      "title": "Intern Sales",
+      "url": "https://careers.salesforce.com/en/jobs/jr340010/intern-sales/",
+      "identifier": "Intern Sales_en/jobs/jr340010/intern-sales/"
+    },
+    {
+      "title": "Customer Success Manager, Sales/ Service Cloud",
+      "url": "https://careers.salesforce.com/en/jobs/jr329765/customer-success-manager-sales-service-cloud/",
+      "identifier": "Customer Success Manager, Sales/ Service Cloud_s-manager-sales-service-cloud/"
+    },
+    {
+      "title": "Senior Manager, Success Architecture-Agentforce (Salesforce exp mandatory)",
+      "url": "https://careers.salesforce.com/en/jobs/jr339290/senior-manager-success-architecture-agentforce-salesforce-exp-mandatory/",
+      "identifier": "Senior Manager, Success Architecture-Agentforce (S_orce-salesforce-exp-mandatory/"
+    },
+    {
+      "title": "Productivity and Performance Lead SouthAsia",
+      "url": "https://careers.salesforce.com/en/jobs/jr339686/productivity-and-performance-lead-southasia/",
+      "identifier": "Productivity and Performance Lead SouthAsia_nd-performance-lead-southasia/"
+    },
+    {
+      "title": "Regional Vice President - Canada",
+      "url": "https://careers.salesforce.com/en/jobs/jr285708/regional-vice-president-canada/",
+      "identifier": "Regional Vice President - Canada_egional-vice-president-canada/"
+    },
+    {
+      "title": "Commercial Graduate Sales Path - Swedish Market",
+      "url": "https://careers.salesforce.com/en/jobs/jr325492/commercial-graduate-sales-path-swedish-market/",
+      "identifier": "Commercial Graduate Sales Path - Swedish Market_ate-sales-path-swedish-market/"
+    },
+    {
+      "title": "Manager, Competitive Intelligence",
+      "url": "https://careers.salesforce.com/en/jobs/jr337824/manager-competitive-intelligence/",
+      "identifier": "Manager, Competitive Intelligence_ager-competitive-intelligence/"
+    },
+    {
+      "title": "Regional Director, Consumption Value Delivery",
+      "url": "https://careers.salesforce.com/en/jobs/jr339968/regional-director-consumption-value-delivery/",
+      "identifier": "Regional Director, Consumption Value Delivery_or-consumption-value-delivery/"
+    },
+    {
+      "title": "Enterprise Account Executive, German Utilities (Stadtwerke) \u2013 New Business",
+      "url": "https://careers.salesforce.com/en/jobs/jr328492/enterprise-account-executive-german-utilities-stadtwerke-new-business/",
+      "identifier": "Enterprise Account Executive, German Utilities (St_ities-stadtwerke-new-business/"
+    },
+    {
+      "title": "Software Engineering MTS",
+      "url": "https://careers.salesforce.com/en/jobs/jr338172/software-engineering-mts/",
+      "identifier": "Software Engineering MTS_8172/software-engineering-mts/"
+    },
+    {
+      "title": "Specialist Account Executive",
+      "url": "https://careers.salesforce.com/en/jobs/jr339997/specialist-account-executive/",
+      "identifier": "Specialist Account Executive_/specialist-account-executive/"
+    },
+    {
+      "title": "Director, Global Adoption Strategy & Value Realization",
+      "url": "https://careers.salesforce.com/en/jobs/jr332381/director-global-adoption-strategy-value-realization/",
+      "identifier": "Director, Global Adoption Strategy & Value Realiza_on-strategy-value-realization/"
+    },
+    {
+      "title": "User Experience/ Senior User Experience Designer",
+      "url": "https://careers.salesforce.com/en/jobs/jr321310/user-experience-senior-user-experience-designer/",
+      "identifier": "User Experience/ Senior User Experience Designer_nior-user-experience-designer/"
+    },
+    {
+      "title": "Performance Engineer - MTS",
+      "url": "https://careers.salesforce.com/en/jobs/jr312773/performance-engineer-mts/",
+      "identifier": "Performance Engineer - MTS_2773/performance-engineer-mts/"
+    },
+    {
+      "title": "Build Systems Engineer (MTS/SMTS)",
+      "url": "https://careers.salesforce.com/en/jobs/jr339836/build-systems-engineer-mtssmts/",
+      "identifier": "Build Systems Engineer (MTS/SMTS)_uild-systems-engineer-mtssmts/"
+    },
+    {
+      "title": "Slack Ecosystem Senior Manager",
+      "url": "https://careers.salesforce.com/en/jobs/jr339419/slack-ecosystem-senior-manager/",
+      "identifier": "Slack Ecosystem Senior Manager_lack-ecosystem-senior-manager/"
+    },
+    {
+      "title": "Senior Principal Customer Success Manager - Slack",
+      "url": "https://careers.salesforce.com/en/jobs/jr339912/senior-principal-customer-success-manager-slack/",
+      "identifier": "Senior Principal Customer Success Manager - Slack_ustomer-success-manager-slack/"
+    },
+    {
+      "title": "Senior Manager, Business Value Services",
+      "url": "https://careers.salesforce.com/en/jobs/jr333711/senior-manager-business-value-services/",
+      "identifier": "Senior Manager, Business Value Services_nager-business-value-services/"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-27T18:57:23.462637"
+  "timestamp": "2026-04-27T19:05:03.743952"
 }

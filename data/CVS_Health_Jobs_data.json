@@ -14,19 +14,24 @@
       "identifier": "Manager - Enterprise Delivery Budget Management_ise-Delivery-Budget-Management"
     },
     {
+      "title": "Software Engineer - Full Stack",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0881241/Software-Engineer-Full-Stack",
+      "identifier": "Software Engineer - Full Stack_1/Software-Engineer-Full-Stack"
+    },
+    {
       "title": "Field Service Technician \u2013 Mobile, AL",
       "url": "https://jobs.cvshealth.com/us/en/job/R0889165/Field-Service-Technician-Mobile-AL",
       "identifier": "Field Service Technician \u2013 Mobile, AL_d-Service-Technician-Mobile-AL"
     },
     {
-      "title": "Field Technician",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0893632/Field-Technician",
-      "identifier": "Field Technician_/job/R0893632/Field-Technician"
-    },
-    {
       "title": "Epic Automation Engineer",
       "url": "https://jobs.cvshealth.com/us/en/job/R0872968/Epic-Automation-Engineer",
       "identifier": "Epic Automation Engineer_72968/Epic-Automation-Engineer"
+    },
+    {
+      "title": "Field Technician",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0893632/Field-Technician",
+      "identifier": "Field Technician_/job/R0893632/Field-Technician"
     },
     {
       "title": "Technical Support Representative",
@@ -37,13 +42,8 @@
       "title": "Lead Director - Mainframe Systems Engineering",
       "url": "https://jobs.cvshealth.com/us/en/job/R0888773/Lead-Director-Mainframe-Systems-Engineering",
       "identifier": "Lead Director - Mainframe Systems Engineering_-Mainframe-Systems-Engineering"
-    },
-    {
-      "title": "Field Technician",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0870653/Field-Technician",
-      "identifier": "Field Technician_/job/R0870653/Field-Technician"
     }
   ],
-  "job_count_text": "34",
-  "timestamp": "2026-04-27T15:11:31.193542"
+  "job_count_text": "35",
+  "timestamp": "2026-04-27T15:28:41.209998"
 }

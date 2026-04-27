@@ -1,8 +1,18 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 17,
+  "total_jobs": 16,
   "jobs": [
+    {
+      "title": "Apps Applied Scientist",
+      "url": "https://jobs.apple.com/en-us/details/200660029-0836/apps-applied-scientist?team=MLAI",
+      "identifier": "Apps Applied Scientist_ps-applied-scientist?team=MLAI"
+    },
+    {
+      "title": "AirPods Software Engineer, Sensing & Connectivity",
+      "url": "https://jobs.apple.com/en-us/details/200660041-3543/airpods-software-engineer-sensing-connectivity?team=SFTWR",
+      "identifier": "AirPods Software Engineer, Sensing & Connectivity_ensing-connectivity?team=SFTWR"
+    },
     {
       "title": "Senior Machine Learning Engineer, Proactive - Apple Intelligence Data Platform",
       "url": "https://jobs.apple.com/en-us/details/200625093-3337/senior-machine-learning-engineer-proactive-apple-intelligence-data-platform?team=MLAI",
@@ -72,23 +82,8 @@
       "title": "App Review Specialist, Turkish language",
       "url": "https://jobs.apple.com/en-us/details/200659234-3956/app-review-specialist-turkish-language?team=SFTWR",
       "identifier": "App Review Specialist, Turkish language_st-turkish-language?team=SFTWR"
-    },
-    {
-      "title": "Senior Software Engineer, Apple Services Engineering - Kubernetes",
-      "url": "https://jobs.apple.com/en-us/details/200660044-3337/senior-software-engineer-apple-services-engineering-kubernetes?team=SFTWR",
-      "identifier": "Senior Software Engineer, Apple Services Engineeri_ineering-kubernetes?team=SFTWR"
-    },
-    {
-      "title": "Audio Quality Engineer, Audio & Media Technologies",
-      "url": "https://jobs.apple.com/en-us/details/200659900-0836/audio-quality-engineer-audio-media-technologies?team=SFTWR",
-      "identifier": "Audio Quality Engineer, Audio & Media Technologies_-media-technologies?team=SFTWR"
-    },
-    {
-      "title": "GPU Systems Software Engineer, Platform Architecture",
-      "url": "https://jobs.apple.com/en-us/details/200660012-0836/gpu-systems-software-engineer-platform-architecture?team=SFTWR",
-      "identifier": "GPU Systems Software Engineer, Platform Architectu_atform-architecture?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-27T05:12:16.600715"
+  "timestamp": "2026-04-27T05:29:26.637495"
 }

@@ -1,8 +1,38 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 16,
+  "total_jobs": 15,
   "jobs": [
+    {
+      "title": "SoC Security Engineer - Platform Architecture",
+      "url": "https://jobs.apple.com/en-us/details/200660178-0157/soc-security-engineer-platform-architecture?team=SFTWR",
+      "identifier": "SoC Security Engineer - Platform Architecture_atform-architecture?team=SFTWR"
+    },
+    {
+      "title": "Software Engineer, Infrastructure Services",
+      "url": "https://jobs.apple.com/en-us/details/200648019-0157/software-engineer-infrastructure-services?team=SFTWR",
+      "identifier": "Software Engineer, Infrastructure Services_astructure-services?team=SFTWR"
+    },
+    {
+      "title": "Staff Media Applications Engineer, Audio & Media Technologies",
+      "url": "https://jobs.apple.com/en-us/details/200660315-3543/staff-media-applications-engineer-audio-media-technologies?team=SFTWR",
+      "identifier": "Staff Media Applications Engineer, Audio & Media T_-media-technologies?team=SFTWR"
+    },
+    {
+      "title": "Senior Apps Applied Scientist",
+      "url": "https://jobs.apple.com/en-us/details/200660029-0836/senior-apps-applied-scientist?team=MLAI",
+      "identifier": "Senior Apps Applied Scientist_ps-applied-scientist?team=MLAI"
+    },
+    {
+      "title": "Senior Machine Learning & Data Scientist, OS Power & Performance, CoreOS",
+      "url": "https://jobs.apple.com/en-us/details/200660236-3543/senior-machine-learning-data-scientist-os-power-performance-coreos?team=SFTWR",
+      "identifier": "Senior Machine Learning & Data Scientist, OS Power_-performance-coreos?team=SFTWR"
+    },
+    {
+      "title": "Software Device Driver Engineer - Core I/O, Core OS",
+      "url": "https://jobs.apple.com/en-us/details/200660074-0836/software-device-driver-engineer-core-i-o-core-os?team=SFTWR",
+      "identifier": "Software Device Driver Engineer - Core I/O, Core O_er-core-i-o-core-os?team=SFTWR"
+    },
     {
       "title": "Machine Learning Engineer - News, Books, and Stocks Team",
       "url": "https://jobs.apple.com/en-us/details/200660323-0836/machine-learning-engineer-news-books-and-stocks-team?team=SFTWR",
@@ -39,11 +69,6 @@
       "identifier": "Tech Lead Machine Learning Engineer - Finance_ng-engineer-finance?team=OPMFG"
     },
     {
-      "title": "Apps Applied Scientist",
-      "url": "https://jobs.apple.com/en-us/details/200660029-0836/apps-applied-scientist?team=MLAI",
-      "identifier": "Apps Applied Scientist_ps-applied-scientist?team=MLAI"
-    },
-    {
       "title": "AirPods Software Engineer, Sensing & Connectivity",
       "url": "https://jobs.apple.com/en-us/details/200660041-3543/airpods-software-engineer-sensing-connectivity?team=SFTWR",
       "identifier": "AirPods Software Engineer, Sensing & Connectivity_ensing-connectivity?team=SFTWR"
@@ -52,38 +77,8 @@
       "title": "Senior Machine Learning Engineer, Proactive - Apple Intelligence Data Platform",
       "url": "https://jobs.apple.com/en-us/details/200625093-3337/senior-machine-learning-engineer-proactive-apple-intelligence-data-platform?team=MLAI",
       "identifier": "Senior Machine Learning Engineer, Proactive - Appl_igence-data-platform?team=MLAI"
-    },
-    {
-      "title": "Software Development Engineer, Proactive",
-      "url": "https://jobs.apple.com/en-us/details/200660123-0836/software-development-engineer-proactive?team=SFTWR",
-      "identifier": "Software Development Engineer, Proactive_-engineer-proactive?team=SFTWR"
-    },
-    {
-      "title": "Senior Engineering Manager",
-      "url": "https://jobs.apple.com/en-us/details/200654201-0836/senior-engineering-manager?team=SFTWR",
-      "identifier": "Senior Engineering Manager_engineering-manager?team=SFTWR"
-    },
-    {
-      "title": "Software Development Engineer - Data",
-      "url": "https://jobs.apple.com/en-us/details/200659878-0836/software-development-engineer-data?team=SFTWR",
-      "identifier": "Software Development Engineer - Data_pment-engineer-data?team=SFTWR"
-    },
-    {
-      "title": "Sr Audio QA Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200650445-0836/sr-audio-qa-engineer?team=SFTWR",
-      "identifier": "Sr Audio QA Engineer_r-audio-qa-engineer?team=SFTWR"
-    },
-    {
-      "title": "Software Engineering Manager, Tools Team",
-      "url": "https://jobs.apple.com/en-us/details/200659835-0836/software-engineering-manager-tools-team?team=SFTWR",
-      "identifier": "Software Engineering Manager, Tools Team_-manager-tools-team?team=SFTWR"
-    },
-    {
-      "title": "Software Development Engineer (SDE)",
-      "url": "https://jobs.apple.com/en-us/details/200659809-0836/software-development-engineer-sde?team=SFTWR",
-      "identifier": "Software Development Engineer (SDE)_opment-engineer-sde?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-27T21:17:05.018564"
+  "timestamp": "2026-04-27T21:33:55.122404"
 }

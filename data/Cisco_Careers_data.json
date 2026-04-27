@@ -1,8 +1,13 @@
 {
   "page_title": "Job Openings - Cisco Careers",
   "url": "https://careers.cisco.com/global/en/search-results?s=1",
-  "total_jobs": 7,
+  "total_jobs": 8,
   "jobs": [
+    {
+      "title": "Account Development Representative II (Full Time) United States",
+      "url": "https://careers.cisco.com/global/en/job/2001887/Account-Development-Representative-II-Full-Time-United-States",
+      "identifier": "Account Development Representative II (Full Time) _ive-II-Full-Time-United-States"
+    },
     {
       "title": "AI Go\u2011To\u2011Market (GTM) Operations I (Full Time) - United States",
       "url": "https://careers.cisco.com/global/en/job/2006766/AI-Go%E2%80%91To%E2%80%91Market-GTM-Operations-I-Full-Time-United-States",
@@ -39,6 +44,6 @@
       "identifier": "Sales Development Representative II (Full Time) Un_al-Demand-Center-United-States"
     }
   ],
-  "job_count_text": "7",
-  "timestamp": "2026-04-27T21:18:48.213316"
+  "job_count_text": "8",
+  "timestamp": "2026-04-27T21:35:37.583276"
 }

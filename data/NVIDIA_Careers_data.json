@@ -1,7 +1,7 @@
 {
   "page_title": "Search for Jobs",
   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite?locationCountry=bc33aa3152ec42d4995f4791a106ed09&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&workerSubType=ab40a98049581037a3ada55b087049b7",
-  "total_jobs": 16,
+  "total_jobs": 15,
   "jobs": [
     {
       "title": "Software Engineer, AI Networking- New College Grad 2026",
@@ -32,11 +32,6 @@
       "title": "Applied AI Engineer, Silicon Co-Design Group, New College Grad 2026",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-AI-Engineer--Silicon-Co-Design-Group--New-College-Grad-2026_JR2015814?locationCountry=bc33aa3152ec42d4995f4791a106ed09&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&workerSubType=ab40a98049581037a3ada55b087049b7",
       "identifier": "Applied AI Engineer, Silicon Co-Design Group, New _40a98049581037a3ada55b087049b7"
-    },
-    {
-      "title": "Software QA Engineer- New College Grad 2026",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-QA-Engineer--New-College-Grad-2026_JR2016688?locationCountry=bc33aa3152ec42d4995f4791a106ed09&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&workerSubType=ab40a98049581037a3ada55b087049b7",
-      "identifier": "Software QA Engineer- New College Grad 2026_40a98049581037a3ada55b087049b7"
     },
     {
       "title": "GPU Power Architect - New College Grad 2026",
@@ -85,5 +80,5 @@
     }
   ],
   "job_count_text": "60",
-  "timestamp": "2026-04-27T17:50:08.423368"
+  "timestamp": "2026-04-27T18:07:18.120725"
 }

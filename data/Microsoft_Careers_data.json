@@ -4,6 +4,11 @@
   "total_jobs": 10,
   "jobs": [
     {
+      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 13 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556855692?domain=microsoft.com",
+      "identifier": "Senior Software Engineer\nUnited States, Washington_556855692?domain=microsoft.com"
+    },
+    {
       "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556638169?domain=microsoft.com",
       "identifier": "Principal Software Engineer\nUnited States, Washing_556638169?domain=microsoft.com"
@@ -47,13 +52,8 @@
       "title": "Principal Software Engineering Manager - AI Frameworks\nUnited States, Washington, Redmond + 1 more\nPosted 4 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556852865?domain=microsoft.com",
       "identifier": "Principal Software Engineering Manager - AI Framew_556852865?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Software Engineer (Backend)\nUnited States, Washington, Redmond + 2 more\nPosted 4 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556856282?domain=microsoft.com",
-      "identifier": "Senior Software Engineer (Backend)\nUnited States, _556856282?domain=microsoft.com"
     }
   ],
-  "job_count_text": "604",
-  "timestamp": "2026-04-27T22:24:19.685923"
+  "job_count_text": "605",
+  "timestamp": "2026-04-27T22:41:09.977624"
 }

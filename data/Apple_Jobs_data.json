@@ -4,6 +4,11 @@
   "total_jobs": 14,
   "jobs": [
     {
+      "title": "Sr. Software Engineer, Watch Software",
+      "url": "https://jobs.apple.com/en-us/details/200654885-0836/sr-software-engineer-watch-software?team=SFTWR",
+      "identifier": "Sr. Software Engineer, Watch Software_neer-watch-software?team=SFTWR"
+    },
+    {
       "title": "Senior Product Manager, Employee Experience & Productivity",
       "url": "https://jobs.apple.com/en-us/details/200656063-3956/senior-product-manager-employee-experience-productivity?team=SFTWR",
       "identifier": "Senior Product Manager, Employee Experience & Prod_rience-productivity?team=SFTWR"
@@ -67,13 +72,8 @@
       "title": "Memory Tools Engineer, Xcode",
       "url": "https://jobs.apple.com/en-us/details/200659965-0836/memory-tools-engineer-xcode?team=SFTWR",
       "identifier": "Memory Tools Engineer, Xcode_ools-engineer-xcode?team=SFTWR"
-    },
-    {
-      "title": "Machine Learning Scientist - Personalization Science, Apple Media Products",
-      "url": "https://jobs.apple.com/en-us/details/200657844-3337/machine-learning-scientist-personalization-science-apple-media-products?team=SFTWR",
-      "identifier": "Machine Learning Scientist - Personalization Scien_pple-media-products?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-27T23:15:05.735751"
+  "timestamp": "2026-04-27T23:31:59.807110"
 }

@@ -4,6 +4,11 @@
   "total_jobs": 17,
   "jobs": [
     {
+      "title": "Site Reliability Engineer, Enterprise Technology Services",
+      "url": "https://jobs.apple.com/en-us/details/200659186-3956/site-reliability-engineer-enterprise-technology-services?team=SFTWR",
+      "identifier": "Site Reliability Engineer, Enterprise Technology S_technology-services?team=SFTWR"
+    },
+    {
       "title": "Memory Tools Engineer, Xcode",
       "url": "https://jobs.apple.com/en-us/details/200659965-0836/memory-tools-engineer-xcode?team=SFTWR",
       "identifier": "Memory Tools Engineer, Xcode_ools-engineer-xcode?team=SFTWR"
@@ -82,13 +87,8 @@
       "title": "Machine Learning Engineer - Natural Language Generation, Input Experience",
       "url": "https://jobs.apple.com/en-us/details/200636204-3337/machine-learning-engineer-natural-language-generation-input-experience?team=SFTWR",
       "identifier": "Machine Learning Engineer - Natural Language Gener_on-input-experience?team=SFTWR"
-    },
-    {
-      "title": "Senior Machine Learning Engineer - System Experience Personalization",
-      "url": "https://jobs.apple.com/en-us/details/200624578-3401/senior-machine-learning-engineer-system-experience-personalization?team=SFTWR",
-      "identifier": "Senior Machine Learning Engineer - System Experien_nce-personalization?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-27T20:26:10.411525"
+  "timestamp": "2026-04-27T20:43:21.387284"
 }

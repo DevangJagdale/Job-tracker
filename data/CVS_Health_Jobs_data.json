@@ -19,6 +19,11 @@
       "identifier": "Staff Engineer - Regulatory Technology_Engineer-Regulatory-Technology"
     },
     {
+      "title": "Senior Analyst Business Integration",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0845156/Senior-Analyst-Business-Integration",
+      "identifier": "Senior Analyst Business Integration_r-Analyst-Business-Integration"
+    },
+    {
       "title": "Senior Software Development Engineer (AS/400, RPG, Synon, Healthcare, PBM)",
       "url": "https://jobs.cvshealth.com/us/en/job/R0852008/Senior-Software-Development-Engineer-AS-400-RPG-Synon-Healthcare-PBM",
       "identifier": "Senior Software Development Engineer (AS/400, RPG,_S-400-RPG-Synon-Healthcare-PBM"
@@ -27,11 +32,6 @@
       "title": "Staff Software Development Engineer (Java Architect, Healthcare, PBM)",
       "url": "https://jobs.cvshealth.com/us/en/job/R0877306/Staff-Software-Development-Engineer-Java-Architect-Healthcare-PBM",
       "identifier": "Staff Software Development Engineer (Java Architec_-Java-Architect-Healthcare-PBM"
-    },
-    {
-      "title": "Senior Analyst Business Integration",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0845156/Senior-Analyst-Business-Integration",
-      "identifier": "Senior Analyst Business Integration_r-Analyst-Business-Integration"
     },
     {
       "title": "Staff Solutions Engineer - Manhattan Active Warehouse Management",
@@ -45,5 +45,5 @@
     }
   ],
   "job_count_text": "40",
-  "timestamp": "2026-04-27T20:27:10.527836"
+  "timestamp": "2026-04-27T20:44:21.228458"
 }

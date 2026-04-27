@@ -1,7 +1,7 @@
 {
   "page_title": "Job Openings - Cisco Careers",
   "url": "https://careers.cisco.com/global/en/search-results?s=1",
-  "total_jobs": 7,
+  "total_jobs": 6,
   "jobs": [
     {
       "title": "Software Engineer Backend/Platform Systems II (Full Time) \u2013 United States",
@@ -19,11 +19,6 @@
       "identifier": "Physical Design Engineer II (Full Time) - United S_eer-II-Full-Time-United-States"
     },
     {
-      "title": "Technical Program Manager II (Full-Time) - United States",
-      "url": "https://careers.cisco.com/global/en/job/2012165/Technical-Program-Manager-II-Full-Time-United-States",
-      "identifier": "Technical Program Manager II (Full-Time) - United _ger-II-Full-Time-United-States"
-    },
-    {
       "title": "Sales Development Representative Outbound Sales II (Full Time) - United States",
       "url": "https://careers.cisco.com/global/en/job/2003091/Sales-Development-Representative-Outbound-Sales-II-Full-Time-United-States",
       "identifier": "Sales Development Representative Outbound Sales II_les-II-Full-Time-United-States"
@@ -39,6 +34,6 @@
       "identifier": "Sales Development Representative II (Full Time) Un_al-Demand-Center-United-States"
     }
   ],
-  "job_count_text": "7",
-  "timestamp": "2026-04-27T07:31:04.425056"
+  "job_count_text": "6",
+  "timestamp": "2026-04-27T07:48:11.845914"
 }

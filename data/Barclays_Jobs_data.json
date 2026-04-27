@@ -1,8 +1,13 @@
 {
   "page_title": "Search our Job Opportunities at Barclays",
   "url": "https://search.jobs.barclays/search-jobs/United%20States/13015/2/6252001/39x76/-98x5/50/2",
-  "total_jobs": 14,
+  "total_jobs": 15,
   "jobs": [
+    {
+      "title": "AVP - Data Scientist (Quantitative Analytics)",
+      "url": "https://search.jobs.barclays/job/wilmington/avp-data-scientist-quantitative-analytics/13015/94336681264",
+      "identifier": "AVP - Data Scientist (Quantitative Analytics)_ve-analytics/13015/94336681264"
+    },
     {
       "title": "Correspondent Banking Investigations Analyst",
       "url": "https://search.jobs.barclays/job/whippany/correspondent-banking-investigations-analyst/13015/94336671968",
@@ -74,6 +79,6 @@
       "identifier": "Java Developer_va-developer/13015/94195076384"
     }
   ],
-  "job_count_text": "124",
-  "timestamp": "2026-04-27T11:19:15.945169"
+  "job_count_text": "125",
+  "timestamp": "2026-04-27T11:36:25.556034"
 }

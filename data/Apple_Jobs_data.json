@@ -4,6 +4,16 @@
   "total_jobs": 15,
   "jobs": [
     {
+      "title": "Machine Learning Tools Engineer, SIML",
+      "url": "https://jobs.apple.com/en-us/details/200660155-0836/machine-learning-tools-engineer-siml?team=MLAI",
+      "identifier": "Machine Learning Tools Engineer, SIML_-tools-engineer-siml?team=MLAI"
+    },
+    {
+      "title": "Senior Apps Applied Scientist",
+      "url": "https://jobs.apple.com/en-us/details/200660029-0836/senior-apps-applied-scientist?team=MLAI",
+      "identifier": "Senior Apps Applied Scientist_ps-applied-scientist?team=MLAI"
+    },
+    {
       "title": "SoC Security Engineer - Platform Architecture",
       "url": "https://jobs.apple.com/en-us/details/200660178-0157/soc-security-engineer-platform-architecture?team=SFTWR",
       "identifier": "SoC Security Engineer - Platform Architecture_atform-architecture?team=SFTWR"
@@ -17,11 +27,6 @@
       "title": "Staff Media Applications Engineer, Audio & Media Technologies",
       "url": "https://jobs.apple.com/en-us/details/200660315-3543/staff-media-applications-engineer-audio-media-technologies?team=SFTWR",
       "identifier": "Staff Media Applications Engineer, Audio & Media T_-media-technologies?team=SFTWR"
-    },
-    {
-      "title": "Senior Apps Applied Scientist",
-      "url": "https://jobs.apple.com/en-us/details/200660029-0836/senior-apps-applied-scientist?team=MLAI",
-      "identifier": "Senior Apps Applied Scientist_ps-applied-scientist?team=MLAI"
     },
     {
       "title": "Senior Machine Learning & Data Scientist, OS Power & Performance, CoreOS",
@@ -64,11 +69,6 @@
       "identifier": "Infrastructure Software Engineer_e-software-engineer?team=SFTWR"
     },
     {
-      "title": "Tech Lead Machine Learning Engineer - Finance",
-      "url": "https://jobs.apple.com/en-us/details/200645666-0157/tech-lead-machine-learning-engineer-finance?team=OPMFG",
-      "identifier": "Tech Lead Machine Learning Engineer - Finance_ng-engineer-finance?team=OPMFG"
-    },
-    {
       "title": "AirPods Software Engineer, Sensing & Connectivity",
       "url": "https://jobs.apple.com/en-us/details/200660041-3543/airpods-software-engineer-sensing-connectivity?team=SFTWR",
       "identifier": "AirPods Software Engineer, Sensing & Connectivity_ensing-connectivity?team=SFTWR"
@@ -80,5 +80,5 @@
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-27T21:50:45.929590"
+  "timestamp": "2026-04-27T22:07:40.681175"
 }

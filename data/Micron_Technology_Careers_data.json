@@ -4,11 +4,6 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "SSD Customer Validation Engineer\nLongmont, Colorado, United States of America\nPosted 3 days ago",
-      "url": "https://careers.micron.com/careers/job/41674013",
-      "identifier": "SSD Customer Validation Engineer\nLongmont, Colorad_icron.com/careers/job/41674013"
-    },
-    {
       "title": "Operation Improvement Engineer\nBoise, Idaho, United States of America\nPosted 3 days ago",
       "url": "https://careers.micron.com/careers/job/41691274",
       "identifier": "Operation Improvement Engineer\nBoise, Idaho, Unite_icron.com/careers/job/41691274"
@@ -19,6 +14,11 @@
       "identifier": "Semiconductor Process Engineer\nBoise, Idaho, Unite_icron.com/careers/job/41605353"
     },
     {
+      "title": "SSD Customer Validation Engineer\nLongmont, Colorado, United States of America\nPosted 3 days ago",
+      "url": "https://careers.micron.com/careers/job/41674013",
+      "identifier": "SSD Customer Validation Engineer\nLongmont, Colorad_icron.com/careers/job/41674013"
+    },
+    {
       "title": "New College Grad - Metrology Applications Engineer\nManassas, Virginia, United States of America\nPosted 5 days ago",
       "url": "https://careers.micron.com/careers/job/40100239",
       "identifier": "New College Grad - Metrology Applications Engineer_icron.com/careers/job/40100239"
@@ -27,11 +27,6 @@
       "title": "New College Grad - Supply Management Analyst\nBoise, Idaho, United States of America\nPosted 5 days ago",
       "url": "https://careers.micron.com/careers/job/41482847",
       "identifier": "New College Grad - Supply Management Analyst\nBoise_icron.com/careers/job/41482847"
-    },
-    {
-      "title": "New College Grad - Design Engineer\nSan Jose, California, United States of America\nPosted 7 days ago",
-      "url": "https://careers.micron.com/careers/job/40431608",
-      "identifier": "New College Grad - Design Engineer\nSan Jose, Calif_icron.com/careers/job/40431608"
     },
     {
       "title": "Semiconductor Process Engineer\nBoise, Idaho, United States of America\nPosted 7 days ago",
@@ -52,8 +47,13 @@
       "title": "Software Engineer\nBoise, Idaho, United States of America\nPosted 7 days ago",
       "url": "https://careers.micron.com/careers/job/41522736",
       "identifier": "Software Engineer\nBoise, Idaho, United States of A_icron.com/careers/job/41522736"
+    },
+    {
+      "title": "New College Grad - Design Engineer\nSan Jose, California, United States of America\nPosted 7 days ago",
+      "url": "https://careers.micron.com/careers/job/40431608",
+      "identifier": "New College Grad - Design Engineer\nSan Jose, Calif_icron.com/careers/job/40431608"
     }
   ],
   "job_count_text": "82",
-  "timestamp": "2026-04-27T00:33:12.689726"
+  "timestamp": "2026-04-27T00:50:19.315203"
 }

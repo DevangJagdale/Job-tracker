@@ -4,6 +4,16 @@
   "total_jobs": 15,
   "jobs": [
     {
+      "title": "Senior Product Manager, Employee Experience & Productivity",
+      "url": "https://jobs.apple.com/en-us/details/200660356-3956/senior-product-manager-employee-experience-productivity?team=SFTWR",
+      "identifier": "Senior Product Manager, Employee Experience & Prod_rience-productivity?team=SFTWR"
+    },
+    {
+      "title": "Clinical Specialist, Health",
+      "url": "https://jobs.apple.com/en-us/details/200660347-2459/clinical-specialist-health?team=SFTWR",
+      "identifier": "Clinical Specialist, Health_l-specialist-health?team=SFTWR"
+    },
+    {
       "title": "Machine Learning Tools Engineer, SIML",
       "url": "https://jobs.apple.com/en-us/details/200660155-0836/machine-learning-tools-engineer-siml?team=MLAI",
       "identifier": "Machine Learning Tools Engineer, SIML_-tools-engineer-siml?team=MLAI"
@@ -67,18 +77,8 @@
       "title": "Infrastructure Software Engineer",
       "url": "https://jobs.apple.com/en-us/details/200660134-0836/infrastructure-software-engineer?team=SFTWR",
       "identifier": "Infrastructure Software Engineer_e-software-engineer?team=SFTWR"
-    },
-    {
-      "title": "AirPods Software Engineer, Sensing & Connectivity",
-      "url": "https://jobs.apple.com/en-us/details/200660041-3543/airpods-software-engineer-sensing-connectivity?team=SFTWR",
-      "identifier": "AirPods Software Engineer, Sensing & Connectivity_ensing-connectivity?team=SFTWR"
-    },
-    {
-      "title": "Senior Machine Learning Engineer, Proactive - Apple Intelligence Data Platform",
-      "url": "https://jobs.apple.com/en-us/details/200625093-3337/senior-machine-learning-engineer-proactive-apple-intelligence-data-platform?team=MLAI",
-      "identifier": "Senior Machine Learning Engineer, Proactive - Appl_igence-data-platform?team=MLAI"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-27T22:41:25.780234"
+  "timestamp": "2026-04-27T22:58:14.835896"
 }

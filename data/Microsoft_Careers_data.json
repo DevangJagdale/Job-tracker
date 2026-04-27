@@ -4,6 +4,11 @@
   "total_jobs": 10,
   "jobs": [
     {
+      "title": "Senior Software Engineer (Backend)\nUnited States, Washington, Redmond + 2 more\nPosted 3 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556856282?domain=microsoft.com",
+      "identifier": "Senior Software Engineer (Backend)\nUnited States, _556856282?domain=microsoft.com"
+    },
+    {
       "title": "Senior Software Engineer - Azure Storage\nUnited States, Multiple Locations, Multiple Locations\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556640659?domain=microsoft.com",
       "identifier": "Senior Software Engineer - Azure Storage\nUnited St_556640659?domain=microsoft.com"
@@ -14,7 +19,7 @@
       "identifier": "Senior Software Engineer\nUnited States, California_556855695?domain=microsoft.com"
     },
     {
-      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 11 hours ago",
+      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 12 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556858325?domain=microsoft.com",
       "identifier": "Software Engineer II\nUnited States, Washington, Re_556858325?domain=microsoft.com"
     },
@@ -47,13 +52,8 @@
       "title": "Principal Applied Scientist\nUnited States, Washington, Redmond\nPosted 3 days ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556853169?domain=microsoft.com",
       "identifier": "Principal Applied Scientist\nUnited States, Washing_556853169?domain=microsoft.com"
-    },
-    {
-      "title": "Senior and Principal Applied Scientists - CoreAI\nUnited States, Washington, Redmond + 1 more\nPosted 3 days ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556861681?domain=microsoft.com",
-      "identifier": "Senior and Principal Applied Scientists - CoreAI\nU_556861681?domain=microsoft.com"
     }
   ],
-  "job_count_text": "597",
-  "timestamp": "2026-04-27T18:19:11.058021"
+  "job_count_text": "598",
+  "timestamp": "2026-04-27T18:36:24.157509"
 }

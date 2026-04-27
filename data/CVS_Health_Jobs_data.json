@@ -1,8 +1,49 @@
 {
   "page_title": "Search CVS Health Jobs | Find Your Next Career Opportunity",
   "url": "https://jobs.cvshealth.com/us/en/search-results",
-  "total_jobs": 15424,
-  "jobs": [],
-  "job_count_text": "15424",
-  "timestamp": "2026-04-27T18:20:32.641636"
+  "total_jobs": 8,
+  "jobs": [
+    {
+      "title": "Senior Engineering Manager",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0878932/Senior-Engineering-Manager",
+      "identifier": "Senior Engineering Manager_932/Senior-Engineering-Manager"
+    },
+    {
+      "title": "Manager - Enterprise Delivery Budget Management",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0887200/Manager-Enterprise-Delivery-Budget-Management",
+      "identifier": "Manager - Enterprise Delivery Budget Management_ise-Delivery-Budget-Management"
+    },
+    {
+      "title": "Staff Engineer - Regulatory Technology",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0879116/Staff-Engineer-Regulatory-Technology",
+      "identifier": "Staff Engineer - Regulatory Technology_Engineer-Regulatory-Technology"
+    },
+    {
+      "title": "Senior Software Development Engineer (AS/400, RPG, Synon, Healthcare, PBM)",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0852008/Senior-Software-Development-Engineer-AS-400-RPG-Synon-Healthcare-PBM",
+      "identifier": "Senior Software Development Engineer (AS/400, RPG,_S-400-RPG-Synon-Healthcare-PBM"
+    },
+    {
+      "title": "Staff Software Development Engineer (Java Architect, Healthcare, PBM)",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0877306/Staff-Software-Development-Engineer-Java-Architect-Healthcare-PBM",
+      "identifier": "Staff Software Development Engineer (Java Architec_-Java-Architect-Healthcare-PBM"
+    },
+    {
+      "title": "Senior Analyst Business Integration",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0845156/Senior-Analyst-Business-Integration",
+      "identifier": "Senior Analyst Business Integration_r-Analyst-Business-Integration"
+    },
+    {
+      "title": "Staff Solutions Engineer - Manhattan Active Warehouse Management",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0859681/Staff-Solutions-Engineer-Manhattan-Active-Warehouse-Management",
+      "identifier": "Staff Solutions Engineer - Manhattan Active Wareho_an-Active-Warehouse-Management"
+    },
+    {
+      "title": "Field Service Technician \u2013 Mobile, AL",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0889165/Field-Service-Technician-Mobile-AL",
+      "identifier": "Field Service Technician \u2013 Mobile, AL_d-Service-Technician-Mobile-AL"
+    }
+  ],
+  "job_count_text": "39",
+  "timestamp": "2026-04-27T18:37:42.088832"
 }

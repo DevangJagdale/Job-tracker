@@ -14,6 +14,11 @@
       "identifier": "Manager - Enterprise Delivery Budget Management_ise-Delivery-Budget-Management"
     },
     {
+      "title": "Staff Engineer - Regulatory Technology",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0879116/Staff-Engineer-Regulatory-Technology",
+      "identifier": "Staff Engineer - Regulatory Technology_Engineer-Regulatory-Technology"
+    },
+    {
       "title": "Senior Software Development Engineer (AS/400, RPG, Synon, Healthcare, PBM)",
       "url": "https://jobs.cvshealth.com/us/en/job/R0852008/Senior-Software-Development-Engineer-AS-400-RPG-Synon-Healthcare-PBM",
       "identifier": "Senior Software Development Engineer (AS/400, RPG,_S-400-RPG-Synon-Healthcare-PBM"
@@ -24,9 +29,9 @@
       "identifier": "Staff Software Development Engineer (Java Architec_-Java-Architect-Healthcare-PBM"
     },
     {
-      "title": "Staff Engineer - Regulatory Technology",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0879116/Staff-Engineer-Regulatory-Technology",
-      "identifier": "Staff Engineer - Regulatory Technology_Engineer-Regulatory-Technology"
+      "title": "Senior Analyst Business Integration",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0845156/Senior-Analyst-Business-Integration",
+      "identifier": "Senior Analyst Business Integration_r-Analyst-Business-Integration"
     },
     {
       "title": "Field Service Technician \u2013 Mobile, AL",
@@ -34,16 +39,11 @@
       "identifier": "Field Service Technician \u2013 Mobile, AL_d-Service-Technician-Mobile-AL"
     },
     {
-      "title": "Field Technician",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0893632/Field-Technician",
-      "identifier": "Field Technician_/job/R0893632/Field-Technician"
-    },
-    {
       "title": "Epic Automation Engineer",
       "url": "https://jobs.cvshealth.com/us/en/job/R0872968/Epic-Automation-Engineer",
       "identifier": "Epic Automation Engineer_72968/Epic-Automation-Engineer"
     }
   ],
-  "job_count_text": "37",
-  "timestamp": "2026-04-27T17:28:54.472616"
+  "job_count_text": "38",
+  "timestamp": "2026-04-27T17:46:07.583498"
 }

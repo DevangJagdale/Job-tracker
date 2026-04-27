@@ -4,6 +4,16 @@
   "total_jobs": 15,
   "jobs": [
     {
+      "title": "Prime Services Onboarding, AVP",
+      "url": "https://search.jobs.barclays/job/new-york/prime-services-onboarding-avp/13015/94449069312",
+      "identifier": "Prime Services Onboarding, AVP_boarding-avp/13015/94449069312"
+    },
+    {
+      "title": "AVP Program Management Office - Location Strategy",
+      "url": "https://search.jobs.barclays/job/new-york/avp-program-management-office-location-strategy/13015/94449059904",
+      "identifier": "AVP Program Management Office - Location Strategy_ion-strategy/13015/94449059904"
+    },
+    {
       "title": "AVP - Data Scientist (Quantitative Analytics)",
       "url": "https://search.jobs.barclays/job/wilmington/avp-data-scientist-quantitative-analytics/13015/94336681264",
       "identifier": "AVP - Data Scientist (Quantitative Analytics)_ve-analytics/13015/94336681264"
@@ -67,18 +77,8 @@
       "title": "Head of Markets & Banking CDD Operations and KYC Refresh Strategy",
       "url": "https://search.jobs.barclays/job/whippany/head-of-markets-and-banking-cdd-operations-and-kyc-refresh-strategy/13015/94220247136",
       "identifier": "Head of Markets & Banking CDD Operations and KYC R_esh-strategy/13015/94220247136"
-    },
-    {
-      "title": "Senior BA/PM VP - Prime Front Office Risk & PnL",
-      "url": "https://search.jobs.barclays/job/whippany/senior-ba-pm-vp-prime-front-office-risk-and-pnl/13015/94220226544",
-      "identifier": "Senior BA/PM VP - Prime Front Office Risk & PnL_risk-and-pnl/13015/94220226544"
-    },
-    {
-      "title": "Java Developer",
-      "url": "https://search.jobs.barclays/job/whippany/java-developer/13015/94195076384",
-      "identifier": "Java Developer_va-developer/13015/94195076384"
     }
   ],
-  "job_count_text": "125",
-  "timestamp": "2026-04-27T17:27:20.768503"
+  "job_count_text": "120",
+  "timestamp": "2026-04-27T17:44:32.383343"
 }

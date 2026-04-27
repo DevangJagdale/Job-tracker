@@ -4,6 +4,11 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Machine Learning Scientist - Personalization Science, Apple Media Products",
+      "url": "https://jobs.apple.com/en-us/details/200657844-3337/machine-learning-scientist-personalization-science-apple-media-products?team=SFTWR",
+      "identifier": "Machine Learning Scientist - Personalization Scien_pple-media-products?team=SFTWR"
+    },
+    {
       "title": "Infrastructure Software Engineer",
       "url": "https://jobs.apple.com/en-us/details/200660134-0836/infrastructure-software-engineer?team=SFTWR",
       "identifier": "Infrastructure Software Engineer_e-software-engineer?team=SFTWR"
@@ -77,13 +82,8 @@
       "title": "Senior Machine Learning Engineer - System Experience Personalization",
       "url": "https://jobs.apple.com/en-us/details/200624578-3401/senior-machine-learning-engineer-system-experience-personalization?team=SFTWR",
       "identifier": "Senior Machine Learning Engineer - System Experien_nce-personalization?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer (HANA), AI & Data Platforms (AiDP)",
-      "url": "https://jobs.apple.com/en-us/details/200658460-3956/software-engineer-hana-ai-data-platforms-aidp?team=SFTWR",
-      "identifier": "Software Engineer (HANA), AI & Data Platforms (AiD_data-platforms-aidp?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-27T16:53:36.060060"
+  "timestamp": "2026-04-27T17:10:44.083320"
 }

@@ -1,8 +1,13 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 14,
+  "total_jobs": 13,
   "jobs": [
+    {
+      "title": "Software Engineer, Observability",
+      "url": "https://jobs.apple.com/en-us/details/200632611-3577/software-engineer-observability?team=SFTWR",
+      "identifier": "Software Engineer, Observability_ineer-observability?team=SFTWR"
+    },
     {
       "title": "Sr. Software Engineer, Watch Software",
       "url": "https://jobs.apple.com/en-us/details/200654885-0836/sr-software-engineer-watch-software?team=SFTWR",
@@ -62,18 +67,8 @@
       "title": "Senior iCloud Efficiency Engineer (GenAI & Agentic Systems)",
       "url": "https://jobs.apple.com/en-us/details/200660280-3337/senior-icloud-efficiency-engineer-genai-agentic-systems?team=SFTWR",
       "identifier": "Senior iCloud Efficiency Engineer (GenAI & Agentic_nai-agentic-systems?team=SFTWR"
-    },
-    {
-      "title": "Site Reliability Engineer, Enterprise Technology Services",
-      "url": "https://jobs.apple.com/en-us/details/200659186-3956/site-reliability-engineer-enterprise-technology-services?team=SFTWR",
-      "identifier": "Site Reliability Engineer, Enterprise Technology S_technology-services?team=SFTWR"
-    },
-    {
-      "title": "Memory Tools Engineer, Xcode",
-      "url": "https://jobs.apple.com/en-us/details/200659965-0836/memory-tools-engineer-xcode?team=SFTWR",
-      "identifier": "Memory Tools Engineer, Xcode_ools-engineer-xcode?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-27T23:31:59.807110"
+  "timestamp": "2026-04-27T23:48:49.474582"
 }

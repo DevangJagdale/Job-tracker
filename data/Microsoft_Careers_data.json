@@ -4,17 +4,32 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Applied Scientist II\nUnited States, Multiple Locations, Multiple Locations\nPosted 18 minutes ago",
+      "title": "Senior Applied Scientist\nUnited States, Washington, Redmond + 1 more\nPosted 15 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556751277?domain=microsoft.com",
+      "identifier": "Senior Applied Scientist\nUnited States, Washington_556751277?domain=microsoft.com"
+    },
+    {
+      "title": "Data Scientist 2 for Office Copilot Services\nUnited States, Washington, Redmond\nPosted 16 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556862258?domain=microsoft.com",
+      "identifier": "Data Scientist 2 for Office Copilot Services\nUnite_556862258?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Applied Scientist\nUnited States, Washington, Redmond + 1 more\nPosted 17 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556751830?domain=microsoft.com",
+      "identifier": "Senior Applied Scientist\nUnited States, Washington_556751830?domain=microsoft.com"
+    },
+    {
+      "title": "Applied Scientist II\nUnited States, Multiple Locations, Multiple Locations\nPosted 35 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556754649?domain=microsoft.com",
       "identifier": "Applied Scientist II\nUnited States, Multiple Locat_556754649?domain=microsoft.com"
     },
     {
-      "title": "Member of Technical Staff, Applied AI Engineer\nUnited States, California, Mountain View + 1 more\nPosted 25 minutes ago",
+      "title": "Member of Technical Staff, Applied AI Engineer\nUnited States, California, Mountain View + 1 more\nPosted 41 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556769429?domain=microsoft.com",
       "identifier": "Member of Technical Staff, Applied AI Engineer\nUni_556769429?domain=microsoft.com"
     },
     {
-      "title": "Service Engineer- CTJ- TS/SCI\nUnited States, Virginia, Reston\nPosted 31 minutes ago",
+      "title": "Service Engineer- CTJ- TS/SCI\nUnited States, Virginia, Reston\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556819816?domain=microsoft.com",
       "identifier": "Service Engineer- CTJ- TS/SCI\nUnited States, Virgi_556819816?domain=microsoft.com"
     },
@@ -29,7 +44,7 @@
       "identifier": "Senior Software Engineer (Backend)\nUnited States, _556856282?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer - Azure Storage\nUnited States, Multiple Locations, Multiple Locations\nPosted 3 hours ago",
+      "title": "Senior Software Engineer - Azure Storage\nUnited States, Multiple Locations, Multiple Locations\nPosted 4 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556640659?domain=microsoft.com",
       "identifier": "Senior Software Engineer - Azure Storage\nUnited St_556640659?domain=microsoft.com"
     },
@@ -37,23 +52,8 @@
       "title": "Senior Software Engineer\nUnited States, California, Mountain View\nPosted 8 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556855695?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, California_556855695?domain=microsoft.com"
-    },
-    {
-      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 14 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556858325?domain=microsoft.com",
-      "identifier": "Software Engineer II\nUnited States, Washington, Re_556858325?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Software Engineer - Xbox Video\nUnited States, Multiple Locations, Multiple Locations\nPosted 2 days ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556856808?domain=microsoft.com",
-      "identifier": "Senior Software Engineer - Xbox Video\nUnited State_556856808?domain=microsoft.com"
-    },
-    {
-      "title": "Principal Applied Scientist - Copilot\nUnited States, Washington, Redmond\nPosted 3 days ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556861000?domain=microsoft.com",
-      "identifier": "Principal Applied Scientist - Copilot\nUnited State_556861000?domain=microsoft.com"
     }
   ],
-  "job_count_text": "600",
-  "timestamp": "2026-04-27T20:43:05.547434"
+  "job_count_text": "603",
+  "timestamp": "2026-04-27T20:59:55.732544"
 }

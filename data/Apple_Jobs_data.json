@@ -1,8 +1,18 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 17,
+  "total_jobs": 16,
   "jobs": [
+    {
+      "title": "Machine Learning Engineer - News, Books, and Stocks Team",
+      "url": "https://jobs.apple.com/en-us/details/200660323-0836/machine-learning-engineer-news-books-and-stocks-team?team=SFTWR",
+      "identifier": "Machine Learning Engineer - News, Books, and Stock_oks-and-stocks-team?team=SFTWR"
+    },
+    {
+      "title": "Senior iCloud Efficiency Engineer (GenAI & Agentic Systems)",
+      "url": "https://jobs.apple.com/en-us/details/200660280-3337/senior-icloud-efficiency-engineer-genai-agentic-systems?team=SFTWR",
+      "identifier": "Senior iCloud Efficiency Engineer (GenAI & Agentic_nai-agentic-systems?team=SFTWR"
+    },
     {
       "title": "Site Reliability Engineer, Enterprise Technology Services",
       "url": "https://jobs.apple.com/en-us/details/200659186-3956/site-reliability-engineer-enterprise-technology-services?team=SFTWR",
@@ -72,23 +82,8 @@
       "title": "Software Development Engineer (SDE)",
       "url": "https://jobs.apple.com/en-us/details/200659809-0836/software-development-engineer-sde?team=SFTWR",
       "identifier": "Software Development Engineer (SDE)_opment-engineer-sde?team=SFTWR"
-    },
-    {
-      "title": "Machine Learning Test and Automation Engineer, Graphics, Games, and ML",
-      "url": "https://jobs.apple.com/en-us/details/200658438-0836/machine-learning-test-and-automation-engineer-graphics-games-and-ml?team=SFTWR",
-      "identifier": "Machine Learning Test and Automation Engineer, Gra_aphics-games-and-ml?team=SFTWR"
-    },
-    {
-      "title": "Sr Machine Learning Engineer, Tech Lead \u2014 Autograder Systems, Evaluation",
-      "url": "https://jobs.apple.com/en-us/details/200628183-0836/sr-machine-learning-engineer-tech-lead-autograder-systems-evaluation?team=MLAI",
-      "identifier": "Sr Machine Learning Engineer, Tech Lead \u2014 Autograd_r-systems-evaluation?team=MLAI"
-    },
-    {
-      "title": "Machine Learning Engineer - Natural Language Generation, Input Experience",
-      "url": "https://jobs.apple.com/en-us/details/200636204-3337/machine-learning-engineer-natural-language-generation-input-experience?team=SFTWR",
-      "identifier": "Machine Learning Engineer - Natural Language Gener_on-input-experience?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-27T20:43:21.387284"
+  "timestamp": "2026-04-27T21:00:11.610961"
 }

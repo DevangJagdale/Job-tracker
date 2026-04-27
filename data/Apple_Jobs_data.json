@@ -4,6 +4,11 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Infrastructure Software Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200660134-0836/infrastructure-software-engineer?team=SFTWR",
+      "identifier": "Infrastructure Software Engineer_e-software-engineer?team=SFTWR"
+    },
+    {
       "title": "Tech Lead Machine Learning Engineer - Finance",
       "url": "https://jobs.apple.com/en-us/details/200645666-0157/tech-lead-machine-learning-engineer-finance?team=OPMFG",
       "identifier": "Tech Lead Machine Learning Engineer - Finance_ng-engineer-finance?team=OPMFG"
@@ -77,13 +82,8 @@
       "title": "Software Engineer (HANA), AI & Data Platforms (AiDP)",
       "url": "https://jobs.apple.com/en-us/details/200658460-3956/software-engineer-hana-ai-data-platforms-aidp?team=SFTWR",
       "identifier": "Software Engineer (HANA), AI & Data Platforms (AiD_data-platforms-aidp?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer, Connected Audio, Sensing & Connectivity",
-      "url": "https://jobs.apple.com/en-us/details/200660035-0836/software-engineer-connected-audio-sensing-connectivity?team=SFTWR",
-      "identifier": "Software Engineer, Connected Audio, Sensing & Conn_ensing-connectivity?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-27T16:36:27.523502"
+  "timestamp": "2026-04-27T16:53:36.060060"
 }

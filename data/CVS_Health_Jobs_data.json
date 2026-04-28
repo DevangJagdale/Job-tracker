@@ -4,19 +4,24 @@
   "total_jobs": 8,
   "jobs": [
     {
-      "title": "Senior Analyst Business Integration",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0845156/Senior-Analyst-Business-Integration",
-      "identifier": "Senior Analyst Business Integration_r-Analyst-Business-Integration"
+      "title": "Senior Engineering Manager",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0878932/Senior-Engineering-Manager",
+      "identifier": "Senior Engineering Manager_932/Senior-Engineering-Manager"
     },
     {
-      "title": "Staff Solutions Engineer - Manhattan Active Warehouse Management",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0859681/Staff-Solutions-Engineer-Manhattan-Active-Warehouse-Management",
-      "identifier": "Staff Solutions Engineer - Manhattan Active Wareho_an-Active-Warehouse-Management"
+      "title": "Manager - Enterprise Delivery Budget Management",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0887200/Manager-Enterprise-Delivery-Budget-Management",
+      "identifier": "Manager - Enterprise Delivery Budget Management_ise-Delivery-Budget-Management"
     },
     {
       "title": "Staff Engineer - Regulatory Technology",
       "url": "https://jobs.cvshealth.com/us/en/job/R0879116/Staff-Engineer-Regulatory-Technology",
       "identifier": "Staff Engineer - Regulatory Technology_Engineer-Regulatory-Technology"
+    },
+    {
+      "title": "Senior Analyst Business Integration",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0845156/Senior-Analyst-Business-Integration",
+      "identifier": "Senior Analyst Business Integration_r-Analyst-Business-Integration"
     },
     {
       "title": "Senior Software Development Engineer (AS/400, RPG, Synon, Healthcare, PBM)",
@@ -29,21 +34,16 @@
       "identifier": "Staff Software Development Engineer (Java Architec_-Java-Architect-Healthcare-PBM"
     },
     {
-      "title": "Senior Engineering Manager",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0878932/Senior-Engineering-Manager",
-      "identifier": "Senior Engineering Manager_932/Senior-Engineering-Manager"
+      "title": "Staff Solutions Engineer - Manhattan Active Warehouse Management",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0859681/Staff-Solutions-Engineer-Manhattan-Active-Warehouse-Management",
+      "identifier": "Staff Solutions Engineer - Manhattan Active Wareho_an-Active-Warehouse-Management"
     },
     {
-      "title": "Manager - Enterprise Delivery Budget Management",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0887200/Manager-Enterprise-Delivery-Budget-Management",
-      "identifier": "Manager - Enterprise Delivery Budget Management_ise-Delivery-Budget-Management"
-    },
-    {
-      "title": "Manager - Scrum Master",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0893092/Manager-Scrum-Master",
-      "identifier": "Manager - Scrum Master_/R0893092/Manager-Scrum-Master"
+      "title": "Senior AI Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0893553/Senior-AI-Engineer",
+      "identifier": "Senior AI Engineer_ob/R0893553/Senior-AI-Engineer"
     }
   ],
   "job_count_text": "46",
-  "timestamp": "2026-04-28T03:39:08.088920"
+  "timestamp": "2026-04-28T03:56:15.127718"
 }

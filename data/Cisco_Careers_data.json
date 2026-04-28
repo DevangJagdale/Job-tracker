@@ -1,8 +1,39 @@
 {
   "page_title": "Job Openings - Cisco Careers",
   "url": "https://careers.cisco.com/global/en/search-results?s=1",
-  "total_jobs": 0,
-  "jobs": [],
-  "job_count_text": "0",
-  "timestamp": "2026-04-28T14:30:01.791716"
+  "total_jobs": 6,
+  "jobs": [
+    {
+      "title": "Account Development Representative II (Full Time) United States",
+      "url": "https://careers.cisco.com/global/en/job/2001887/Account-Development-Representative-II-Full-Time-United-States",
+      "identifier": "Account Development Representative II (Full Time) _ive-II-Full-Time-United-States"
+    },
+    {
+      "title": "AI Go\u2011To\u2011Market (GTM) Operations I (Full Time) - United States",
+      "url": "https://careers.cisco.com/global/en/job/2006766/AI-Go%E2%80%91To%E2%80%91Market-GTM-Operations-I-Full-Time-United-States",
+      "identifier": "AI Go\u2011To\u2011Market (GTM) Operations I (Full Time) - U_ions-I-Full-Time-United-States"
+    },
+    {
+      "title": "Physical Design Engineer II (Full Time) - United States",
+      "url": "https://careers.cisco.com/global/en/job/2013120/Physical-Design-Engineer-II-Full-Time-United-States",
+      "identifier": "Physical Design Engineer II (Full Time) - United S_eer-II-Full-Time-United-States"
+    },
+    {
+      "title": "Sales Development Representative Outbound Sales II (Full Time) - United States",
+      "url": "https://careers.cisco.com/global/en/job/2003091/Sales-Development-Representative-Outbound-Sales-II-Full-Time-United-States",
+      "identifier": "Sales Development Representative Outbound Sales II_les-II-Full-Time-United-States"
+    },
+    {
+      "title": "Customer Experience Project Specialist I (Full-Time) - United States",
+      "url": "https://careers.cisco.com/global/en/job/2001576/Customer-Experience-Project-Specialist-I-Full-Time-United-States",
+      "identifier": "Customer Experience Project Specialist I (Full-Tim_list-I-Full-Time-United-States"
+    },
+    {
+      "title": "Sales Development Representative II (Full Time) United States (Virtual Demand Center) - United States",
+      "url": "https://careers.cisco.com/global/en/job/2008662/Sales-Development-Representative-II-Full-Time-United-States-Virtual-Demand-Center-United-States",
+      "identifier": "Sales Development Representative II (Full Time) Un_al-Demand-Center-United-States"
+    }
+  ],
+  "job_count_text": "6",
+  "timestamp": "2026-04-28T14:47:07.858715"
 }

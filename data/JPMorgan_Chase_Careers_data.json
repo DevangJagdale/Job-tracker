@@ -29,6 +29,11 @@
       "identifier": "jpmc_210733193"
     },
     {
+      "title": "Software Engineer III - AI",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210738556/?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
+      "identifier": "jpmc_210738556"
+    },
+    {
       "title": "AWS Lead Software Engineer-Java/Spring/Kafka/Cassandra",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210741008/?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
       "identifier": "jpmc_210741008"
@@ -89,11 +94,6 @@
       "identifier": "jpmc_210727351"
     },
     {
-      "title": "Data Software Engineer II - PySpark/ETL/AWS/",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210728333/?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
-      "identifier": "jpmc_210728333"
-    },
-    {
       "title": "Lead Software Engineer - Data bricks, ML, Cloud",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210728850/?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
       "identifier": "jpmc_210728850"
@@ -130,5 +130,5 @@
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-28T13:38:50.011660"
+  "timestamp": "2026-04-28T13:55:53.416503"
 }

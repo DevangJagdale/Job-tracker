@@ -4,6 +4,11 @@
   "total_jobs": 15,
   "jobs": [
     {
+      "title": "Power & Performance Engineer, Audio & Media Technologies",
+      "url": "https://jobs.apple.com/en-us/details/200551465-3543/power-performance-engineer-audio-media-technologies?team=SFTWR",
+      "identifier": "Power & Performance Engineer, Audio & Media Techno_-media-technologies?team=SFTWR"
+    },
+    {
       "title": "Engineering Program Manager, Capacity Management, Apple Services Engineering",
       "url": "https://jobs.apple.com/en-us/details/200648013-0836/engineering-program-manager-capacity-management-apple-services-engineering?team=SFTWR",
       "identifier": "Engineering Program Manager, Capacity Management, _ervices-engineering?team=SFTWR"
@@ -72,13 +77,8 @@
       "title": "Machine Learning Engineer - News, Books, and Stocks Team",
       "url": "https://jobs.apple.com/en-us/details/200660323-0836/machine-learning-engineer-news-books-and-stocks-team?team=SFTWR",
       "identifier": "Machine Learning Engineer - News, Books, and Stock_oks-and-stocks-team?team=SFTWR"
-    },
-    {
-      "title": "Senior iCloud Efficiency Engineer (GenAI & Agentic Systems)",
-      "url": "https://jobs.apple.com/en-us/details/200660280-3337/senior-icloud-efficiency-engineer-genai-agentic-systems?team=SFTWR",
-      "identifier": "Senior iCloud Efficiency Engineer (GenAI & Agentic_nai-agentic-systems?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-28T04:29:24.520117"
+  "timestamp": "2026-04-28T04:46:28.384883"
 }

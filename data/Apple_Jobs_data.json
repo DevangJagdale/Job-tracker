@@ -4,6 +4,11 @@
   "total_jobs": 14,
   "jobs": [
     {
+      "title": "Senior / Staff Software Engineer, Apple Cloud AI Platform",
+      "url": "https://jobs.apple.com/en-us/details/200659471-3337/senior-staff-software-engineer-apple-cloud-ai-platform?team=SFTWR",
+      "identifier": "Senior / Staff Software Engineer, Apple Cloud AI P_e-cloud-ai-platform?team=SFTWR"
+    },
+    {
       "title": "Senior Software Engineer, watchOS Widgets & Live Activities - Watch Software",
       "url": "https://jobs.apple.com/en-us/details/200659241-3401/senior-software-engineer-watchos-widgets-live-activities-watch-software?team=SFTWR",
       "identifier": "Senior Software Engineer, watchOS Widgets & Live A_ties-watch-software?team=SFTWR"
@@ -67,13 +72,8 @@
       "title": "Staff Media Applications Engineer, Audio & Media Technologies",
       "url": "https://jobs.apple.com/en-us/details/200660315-3543/staff-media-applications-engineer-audio-media-technologies?team=SFTWR",
       "identifier": "Staff Media Applications Engineer, Audio & Media T_-media-technologies?team=SFTWR"
-    },
-    {
-      "title": "Senior Machine Learning & Data Scientist, OS Power & Performance, CoreOS",
-      "url": "https://jobs.apple.com/en-us/details/200660236-3543/senior-machine-learning-data-scientist-os-power-performance-coreos?team=SFTWR",
-      "identifier": "Senior Machine Learning & Data Scientist, OS Power_-performance-coreos?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-28T15:19:34.035212"
+  "timestamp": "2026-04-28T15:36:58.968659"
 }

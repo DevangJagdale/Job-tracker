@@ -9,19 +9,14 @@
       "identifier": "Manager - Scrum Master_/R0890883/Manager-Scrum-Master"
     },
     {
-      "title": "Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0875932/Software-Development-Engineer",
-      "identifier": "Software Development Engineer_/Software-Development-Engineer"
-    },
-    {
       "title": "Senior Epic Analyst",
       "url": "https://jobs.cvshealth.com/us/en/job/R0887981/Senior-Epic-Analyst",
       "identifier": "Senior Epic Analyst_b/R0887981/Senior-Epic-Analyst"
     },
     {
-      "title": "Staff Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0881159/Staff-Software-Development-Engineer",
-      "identifier": "Staff Software Development Engineer_-Software-Development-Engineer"
+      "title": "Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0875932/Software-Development-Engineer",
+      "identifier": "Software Development Engineer_/Software-Development-Engineer"
     },
     {
       "title": "Senior Android Engineer",
@@ -34,16 +29,21 @@
       "identifier": "Senior Engineering Manager_932/Senior-Engineering-Manager"
     },
     {
-      "title": "Manager - Enterprise Delivery Budget Management",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0887200/Manager-Enterprise-Delivery-Budget-Management",
-      "identifier": "Manager - Enterprise Delivery Budget Management_ise-Delivery-Budget-Management"
+      "title": "Staff Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0881159/Staff-Software-Development-Engineer",
+      "identifier": "Staff Software Development Engineer_-Software-Development-Engineer"
     },
     {
-      "title": "Manager, Business Analysis",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0888949/Manager-Business-Analysis",
-      "identifier": "Manager, Business Analysis_8949/Manager-Business-Analysis"
+      "title": "Manager - Scrum Master",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0893092/Manager-Scrum-Master",
+      "identifier": "Manager - Scrum Master_/R0893092/Manager-Scrum-Master"
+    },
+    {
+      "title": "Manager - Scrum Master",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0893094/Manager-Scrum-Master",
+      "identifier": "Manager - Scrum Master_/R0893094/Manager-Scrum-Master"
     }
   ],
   "job_count_text": "43",
-  "timestamp": "2026-04-28T23:04:58.955601"
+  "timestamp": "2026-04-28T23:22:10.159953"
 }

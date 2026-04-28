@@ -4,6 +4,11 @@
   "total_jobs": 13,
   "jobs": [
     {
+      "title": "IS&T Services AV & Broadcast Engineer, Employee Experience & Productivity",
+      "url": "https://jobs.apple.com/en-us/details/200652944-0670/is-t-services-av-broadcast-engineer-employee-experience-productivity?team=SFTWR",
+      "identifier": "IS&T Services AV & Broadcast Engineer, Employee Ex_rience-productivity?team=SFTWR"
+    },
+    {
       "title": "Software Engineer, Frameworks/UI, Sensing & Connectivity",
       "url": "https://jobs.apple.com/en-us/details/200660577-0836/software-engineer-frameworks-ui-sensing-connectivity?team=SFTWR",
       "identifier": "Software Engineer, Frameworks/UI, Sensing & Connec_ensing-connectivity?team=SFTWR"
@@ -62,13 +67,8 @@
       "title": "Senior / Staff Software Engineer, Apple Cloud AI Platform",
       "url": "https://jobs.apple.com/en-us/details/200659471-3337/senior-staff-software-engineer-apple-cloud-ai-platform?team=SFTWR",
       "identifier": "Senior / Staff Software Engineer, Apple Cloud AI P_e-cloud-ai-platform?team=SFTWR"
-    },
-    {
-      "title": "Senior Software Engineer, watchOS Widgets & Live Activities - Watch Software",
-      "url": "https://jobs.apple.com/en-us/details/200659241-3401/senior-software-engineer-watchos-widgets-live-activities-watch-software?team=SFTWR",
-      "identifier": "Senior Software Engineer, watchOS Widgets & Live A_ties-watch-software?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-28T20:20:18.995765"
+  "timestamp": "2026-04-28T20:37:34.348775"
 }

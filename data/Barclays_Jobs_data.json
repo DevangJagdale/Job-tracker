@@ -1,8 +1,13 @@
 {
   "page_title": "Search our Job Opportunities at Barclays",
   "url": "https://search.jobs.barclays/search-jobs/United%20States/13015/2/6252001/39x76/-98x5/50/2",
-  "total_jobs": 14,
+  "total_jobs": 15,
   "jobs": [
+    {
+      "title": "AVP - Equity Financing Quant Trader",
+      "url": "https://search.jobs.barclays/job/new-york/avp-equity-financing-quant-trader/13015/94461349904",
+      "identifier": "AVP - Equity Financing Quant Trader_quant-trader/13015/94461349904"
+    },
     {
       "title": "Prime Services Onboarding, AVP",
       "url": "https://search.jobs.barclays/job/new-york/prime-services-onboarding-avp/13015/94449069312",
@@ -59,11 +64,6 @@
       "identifier": "VP Recovery Operations_y-operations/13015/94270012080"
     },
     {
-      "title": "Finance Vice President",
-      "url": "https://search.jobs.barclays/job/wilmington/finance-vice-president/13015/94269990048",
-      "identifier": "Finance Vice President_ce-president/13015/94269990048"
-    },
-    {
       "title": "Investment Banking Sustainable Banking Group, VP",
       "url": "https://search.jobs.barclays/job/new-york/investment-banking-sustainable-banking-group-vp/13015/94232450560",
       "identifier": "Investment Banking Sustainable Banking Group, VP_ing-group-vp/13015/94232450560"
@@ -72,8 +72,13 @@
       "title": "International Corporate Bank Coverage - Funds & Sponsors",
       "url": "https://search.jobs.barclays/job/new-york/international-corporate-bank-coverage-funds-and-sponsors/13015/94220247184",
       "identifier": "International Corporate Bank Coverage - Funds & Sp_and-sponsors/13015/94220247184"
+    },
+    {
+      "title": "Head of Markets & Banking CDD Operations and KYC Refresh Strategy",
+      "url": "https://search.jobs.barclays/job/whippany/head-of-markets-and-banking-cdd-operations-and-kyc-refresh-strategy/13015/94220247136",
+      "identifier": "Head of Markets & Banking CDD Operations and KYC R_esh-strategy/13015/94220247136"
     }
   ],
-  "job_count_text": "120",
-  "timestamp": "2026-04-28T11:36:30.368710"
+  "job_count_text": "118",
+  "timestamp": "2026-04-28T11:53:38.540342"
 }

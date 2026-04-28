@@ -4,6 +4,11 @@
   "total_jobs": 13,
   "jobs": [
     {
+      "title": "Senior Software Engineer - Distributed Storage (Object Storage)",
+      "url": "https://jobs.apple.com/en-us/details/200660576-3337/senior-software-engineer-distributed-storage-object-storage?team=SFTWR",
+      "identifier": "Senior Software Engineer - Distributed Storage (Ob_rage-object-storage?team=SFTWR"
+    },
+    {
       "title": "IS&T Services AV & Broadcast Engineer, Employee Experience & Productivity",
       "url": "https://jobs.apple.com/en-us/details/200652944-0670/is-t-services-av-broadcast-engineer-employee-experience-productivity?team=SFTWR",
       "identifier": "IS&T Services AV & Broadcast Engineer, Employee Ex_rience-productivity?team=SFTWR"
@@ -62,13 +67,8 @@
       "title": "Finance Data Scientist - Enablement",
       "url": "https://jobs.apple.com/en-us/details/200659972-0836/finance-data-scientist-enablement?team=SFTWR",
       "identifier": "Finance Data Scientist - Enablement_cientist-enablement?team=SFTWR"
-    },
-    {
-      "title": "Senior / Staff Software Engineer, Apple Cloud AI Platform",
-      "url": "https://jobs.apple.com/en-us/details/200659471-3337/senior-staff-software-engineer-apple-cloud-ai-platform?team=SFTWR",
-      "identifier": "Senior / Staff Software Engineer, Apple Cloud AI P_e-cloud-ai-platform?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-28T20:37:34.348775"
+  "timestamp": "2026-04-28T20:54:58.419894"
 }

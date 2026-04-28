@@ -1,7 +1,7 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 14,
+  "total_jobs": 15,
   "jobs": [
     {
       "title": "Engineering Program Manager, Capacity Management, Apple Services Engineering",
@@ -25,7 +25,7 @@
     },
     {
       "title": "Senior Product Manager, Employee Experience & Productivity",
-      "url": "https://jobs.apple.com/en-us/details/200656063-3956/senior-product-manager-employee-experience-productivity?team=SFTWR",
+      "url": "https://jobs.apple.com/en-us/details/200660356-3956/senior-product-manager-employee-experience-productivity?team=SFTWR",
       "identifier": "Senior Product Manager, Employee Experience & Prod_rience-productivity?team=SFTWR"
     },
     {
@@ -72,8 +72,13 @@
       "title": "Machine Learning Engineer - News, Books, and Stocks Team",
       "url": "https://jobs.apple.com/en-us/details/200660323-0836/machine-learning-engineer-news-books-and-stocks-team?team=SFTWR",
       "identifier": "Machine Learning Engineer - News, Books, and Stock_oks-and-stocks-team?team=SFTWR"
+    },
+    {
+      "title": "Senior iCloud Efficiency Engineer (GenAI & Agentic Systems)",
+      "url": "https://jobs.apple.com/en-us/details/200660280-3337/senior-icloud-efficiency-engineer-genai-agentic-systems?team=SFTWR",
+      "identifier": "Senior iCloud Efficiency Engineer (GenAI & Agentic_nai-agentic-systems?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-28T03:21:01.875091"
+  "timestamp": "2026-04-28T03:38:07.428599"
 }

@@ -4,6 +4,11 @@
   "total_jobs": 14,
   "jobs": [
     {
+      "title": "Software Development Engineer - PMO - Apple Ads",
+      "url": "https://jobs.apple.com/en-us/details/200660590-0240/software-development-engineer-pmo-apple-ads?team=SFTWR",
+      "identifier": "Software Development Engineer - PMO - Apple Ads_ineer-pmo-apple-ads?team=SFTWR"
+    },
+    {
       "title": "IOS SOFTWARE MANAGER - SpringBoard Wallpapers",
       "url": "https://jobs.apple.com/en-us/details/200660326-3543/ios-software-manager-springboard-wallpapers?team=SFTWR",
       "identifier": "IOS SOFTWARE MANAGER - SpringBoard Wallpapers_ingboard-wallpapers?team=SFTWR"
@@ -12,11 +17,6 @@
       "title": "Implementation Specialist - Health",
       "url": "https://jobs.apple.com/en-us/details/200659268-0836/implementation-specialist-health?team=SFTWR",
       "identifier": "Implementation Specialist - Health_n-specialist-health?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer, Employee Experience & Productivity",
-      "url": "https://jobs.apple.com/en-us/details/200660609-0670/software-engineer-employee-experience-productivity?team=SFTWR",
-      "identifier": "Software Engineer, Employee Experience & Productiv_rience-productivity?team=SFTWR"
     },
     {
       "title": "Data Center Site Manager, Data Center Operations",
@@ -75,5 +75,5 @@
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-28T22:04:30.958150"
+  "timestamp": "2026-04-28T22:21:41.204187"
 }

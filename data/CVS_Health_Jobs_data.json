@@ -9,6 +9,11 @@
       "identifier": "Manager - Scrum Master_/R0890883/Manager-Scrum-Master"
     },
     {
+      "title": "Senior Epic Analyst",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0887981/Senior-Epic-Analyst",
+      "identifier": "Senior Epic Analyst_b/R0887981/Senior-Epic-Analyst"
+    },
+    {
       "title": "Software Development Engineer",
       "url": "https://jobs.cvshealth.com/us/en/job/R0875932/Software-Development-Engineer",
       "identifier": "Software Development Engineer_/Software-Development-Engineer"
@@ -17,6 +22,11 @@
       "title": "Senior Android Engineer",
       "url": "https://jobs.cvshealth.com/us/en/job/R0851832/Senior-Android-Engineer",
       "identifier": "Senior Android Engineer_851832/Senior-Android-Engineer"
+    },
+    {
+      "title": "Senior Engineering Manager",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0878932/Senior-Engineering-Manager",
+      "identifier": "Senior Engineering Manager_932/Senior-Engineering-Manager"
     },
     {
       "title": "Manager - Scrum Master",
@@ -32,18 +42,8 @@
       "title": "Senior Analyst Business Integration",
       "url": "https://jobs.cvshealth.com/us/en/job/R0845156/Senior-Analyst-Business-Integration",
       "identifier": "Senior Analyst Business Integration_r-Analyst-Business-Integration"
-    },
-    {
-      "title": "Senior Engineering Manager",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0878932/Senior-Engineering-Manager",
-      "identifier": "Senior Engineering Manager_932/Senior-Engineering-Manager"
-    },
-    {
-      "title": "Manager - Enterprise Delivery Budget Management",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0887200/Manager-Enterprise-Delivery-Budget-Management",
-      "identifier": "Manager - Enterprise Delivery Budget Management_ise-Delivery-Budget-Management"
     }
   ],
-  "job_count_text": "39",
-  "timestamp": "2026-04-28T19:29:26.752541"
+  "job_count_text": "40",
+  "timestamp": "2026-04-28T19:46:45.817958"
 }

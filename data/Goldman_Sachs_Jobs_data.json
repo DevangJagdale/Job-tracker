@@ -4,6 +4,11 @@
   "total_jobs": 20,
   "jobs": [
     {
+      "title": "Asset & Wealth Management - AI Solutions Engineer - Associate - Dallas\nDallas\u00b7United States\n\u00b7Associate",
+      "url": "https://higher.gs.com/roles/168764",
+      "identifier": "Asset & Wealth Management - AI Solutions Engineer _s://higher.gs.com/roles/168764"
+    },
+    {
       "title": "Engineering - SRE Platforms - SRE Engineer - Associate - Dallas\nDallas\u00b7United States\n\u00b7Associate",
       "url": "https://higher.gs.com/roles/153024",
       "identifier": "Engineering - SRE Platforms - SRE Engineer - Assoc_s://higher.gs.com/roles/153024"
@@ -84,11 +89,6 @@
       "identifier": "AI/ML Engineer, Global Banking & Markets, Investme_s://higher.gs.com/roles/161628"
     },
     {
-      "title": "Asset & Wealth Management - AI Solutions Engineer - Associate - Dallas\nDallas\u00b7United States\n\u00b7Associate",
-      "url": "https://higher.gs.com/roles/168764",
-      "identifier": "Asset & Wealth Management - AI Solutions Engineer _s://higher.gs.com/roles/168764"
-    },
-    {
       "title": "Data Engineering - SRE Data - Software Engineer - Associate - Dallas\nDallas\u00b7United States\n\u00b7Associate",
       "url": "https://higher.gs.com/roles/166470",
       "identifier": "Data Engineering - SRE Data - Software Engineer - _s://higher.gs.com/roles/166470"
@@ -105,5 +105,5 @@
     }
   ],
   "job_count_text": "57",
-  "timestamp": "2026-04-28T20:54:08.074215"
+  "timestamp": "2026-04-28T21:11:23.590227"
 }

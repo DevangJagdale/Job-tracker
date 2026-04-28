@@ -4,14 +4,14 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "New College Grad - Metrology Applications Engineer\nManassas, Virginia, United States of America\nPosted 21 hours ago",
-      "url": "https://careers.micron.com/careers/job/40100239",
-      "identifier": "New College Grad - Metrology Applications Engineer_icron.com/careers/job/40100239"
-    },
-    {
       "title": "Semiconductor Design Engineer\nBoise, Idaho, United States of America\nPosted 21 hours ago",
       "url": "https://careers.micron.com/careers/job/41749340",
       "identifier": "Semiconductor Design Engineer\nBoise, Idaho, United_icron.com/careers/job/41749340"
+    },
+    {
+      "title": "New College Grad - Metrology Applications Engineer\nManassas, Virginia, United States of America\nPosted 21 hours ago",
+      "url": "https://careers.micron.com/careers/job/40100239",
+      "identifier": "New College Grad - Metrology Applications Engineer_icron.com/careers/job/40100239"
     },
     {
       "title": "R & D Electrical Device Characterization Engineer\nBoise, Idaho, United States of America\nPosted 21 hours ago",
@@ -34,9 +34,9 @@
       "identifier": "Product Development Engineer 3\nBoise, Idaho, Unite_icron.com/careers/job/41730573"
     },
     {
-      "title": "Semiconductor Process Engineer\nBoise, Idaho, United States of America\nPosted 5 days ago",
-      "url": "https://careers.micron.com/careers/job/41605353",
-      "identifier": "Semiconductor Process Engineer\nBoise, Idaho, Unite_icron.com/careers/job/41605353"
+      "title": "Operation Improvement Engineer\nBoise, Idaho, United States of America\nPosted 5 days ago",
+      "url": "https://careers.micron.com/careers/job/41691274",
+      "identifier": "Operation Improvement Engineer\nBoise, Idaho, Unite_icron.com/careers/job/41691274"
     },
     {
       "title": "SSD Customer Validation Engineer\nLongmont, Colorado, United States of America\nPosted 5 days ago",
@@ -44,9 +44,9 @@
       "identifier": "SSD Customer Validation Engineer\nLongmont, Colorad_icron.com/careers/job/41674013"
     },
     {
-      "title": "Operation Improvement Engineer\nBoise, Idaho, United States of America\nPosted 5 days ago",
-      "url": "https://careers.micron.com/careers/job/41691274",
-      "identifier": "Operation Improvement Engineer\nBoise, Idaho, Unite_icron.com/careers/job/41691274"
+      "title": "Semiconductor Process Engineer\nBoise, Idaho, United States of America\nPosted 5 days ago",
+      "url": "https://careers.micron.com/careers/job/41605353",
+      "identifier": "Semiconductor Process Engineer\nBoise, Idaho, Unite_icron.com/careers/job/41605353"
     },
     {
       "title": "New College Grad - Supply Management Analyst\nBoise, Idaho, United States of America\nPosted 7 days ago",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "79",
-  "timestamp": "2026-04-28T20:58:16.983493"
+  "timestamp": "2026-04-28T21:15:32.000606"
 }

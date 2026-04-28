@@ -1,8 +1,18 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 14,
+  "total_jobs": 16,
   "jobs": [
+    {
+      "title": "EMC Robotics Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200660500-0836/emc-robotics-engineer?team=SFTWR",
+      "identifier": "EMC Robotics Engineer_c-robotics-engineer?team=SFTWR"
+    },
+    {
+      "title": "Senior / Staff Software Engineer, Apple Cloud AI Platform",
+      "url": "https://jobs.apple.com/en-us/details/200659471-3337/senior-staff-software-engineer-apple-cloud-ai-platform?team=SFTWR",
+      "identifier": "Senior / Staff Software Engineer, Apple Cloud AI P_e-cloud-ai-platform?team=SFTWR"
+    },
     {
       "title": "Software Development Engineer - PMO - Apple Ads",
       "url": "https://jobs.apple.com/en-us/details/200660590-0240/software-development-engineer-pmo-apple-ads?team=SFTWR",
@@ -75,5 +85,5 @@
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-28T22:21:41.204187"
+  "timestamp": "2026-04-28T22:38:51.649784"
 }

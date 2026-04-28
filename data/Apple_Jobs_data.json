@@ -4,6 +4,16 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Software Engineer (Tools), Engagement Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200660652-0836/software-engineer-tools-engagement-engineering?team=SFTWR",
+      "identifier": "Software Engineer (Tools), Engagement Engineering_agement-engineering?team=SFTWR"
+    },
+    {
+      "title": "AIML - Sr Data Scientist, Evaluation",
+      "url": "https://jobs.apple.com/en-us/details/200660649-0836/aiml-sr-data-scientist-evaluation?team=MLAI",
+      "identifier": "AIML - Sr Data Scientist, Evaluation_scientist-evaluation?team=MLAI"
+    },
+    {
       "title": "EMC Robotics Engineer",
       "url": "https://jobs.apple.com/en-us/details/200660500-0836/emc-robotics-engineer?team=SFTWR",
       "identifier": "EMC Robotics Engineer_c-robotics-engineer?team=SFTWR"
@@ -72,18 +82,8 @@
       "title": "Tools and Automation Engineer, Watch Software",
       "url": "https://jobs.apple.com/en-us/details/200660512-3543/tools-and-automation-engineer-watch-software?team=SFTWR",
       "identifier": "Tools and Automation Engineer, Watch Software_neer-watch-software?team=SFTWR"
-    },
-    {
-      "title": "Senior Software Engineer in Test - Distributed Systems",
-      "url": "https://jobs.apple.com/en-us/details/200660417-3337/senior-software-engineer-in-test-distributed-systems?team=SFTWR",
-      "identifier": "Senior Software Engineer in Test - Distributed Sys_distributed-systems?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer, WebKit Accessibility",
-      "url": "https://jobs.apple.com/en-us/details/200657564-0836/software-engineer-webkit-accessibility?team=SFTWR",
-      "identifier": "Software Engineer, WebKit Accessibility_ebkit-accessibility?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-28T23:21:08.417770"
+  "timestamp": "2026-04-28T23:38:20.790357"
 }

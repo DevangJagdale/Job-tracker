@@ -4,6 +4,11 @@
   "total_jobs": 20,
   "jobs": [
     {
+      "title": "Asset & Wealth Management - Software Engineer - Associate - New York\nNew York\u00b7United States\n\u00b7Associate",
+      "url": "https://higher.gs.com/roles/159475",
+      "identifier": "Asset & Wealth Management - Software Engineer - As_s://higher.gs.com/roles/159475"
+    },
+    {
       "title": "MLOps Engineer - Machine Learning Platform\nJersey City\u00b7United States\n\u00b7Associate",
       "url": "https://higher.gs.com/roles/153822",
       "identifier": "MLOps Engineer - Machine Learning Platform\nJersey _s://higher.gs.com/roles/153822"
@@ -64,11 +69,6 @@
       "identifier": "AI/ML Engineer, Global Banking & Markets, Investme_s://higher.gs.com/roles/161628"
     },
     {
-      "title": "Asset & Wealth Management - Software Engineer - Associate - New York\nNew York\u00b7United States\n\u00b7Associate",
-      "url": "https://higher.gs.com/roles/159475",
-      "identifier": "Asset & Wealth Management - Software Engineer - As_s://higher.gs.com/roles/159475"
-    },
-    {
       "title": "Asset & Wealth Management - AI Solutions Engineer - Associate - Dallas\nDallas\u00b7United States\n\u00b7Associate",
       "url": "https://higher.gs.com/roles/168764",
       "identifier": "Asset & Wealth Management - AI Solutions Engineer _s://higher.gs.com/roles/168764"
@@ -105,5 +105,5 @@
     }
   ],
   "job_count_text": "54",
-  "timestamp": "2026-04-28T10:54:03.146120"
+  "timestamp": "2026-04-28T11:11:13.038940"
 }

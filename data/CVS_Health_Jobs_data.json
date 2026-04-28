@@ -14,16 +14,6 @@
       "identifier": "Software Development Engineer_/Software-Development-Engineer"
     },
     {
-      "title": "Senior Android Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0851832/Senior-Android-Engineer",
-      "identifier": "Senior Android Engineer_851832/Senior-Android-Engineer"
-    },
-    {
-      "title": "Senior Engineering Manager",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0878932/Senior-Engineering-Manager",
-      "identifier": "Senior Engineering Manager_932/Senior-Engineering-Manager"
-    },
-    {
       "title": "Senior Epic Analyst",
       "url": "https://jobs.cvshealth.com/us/en/job/R0887981/Senior-Epic-Analyst",
       "identifier": "Senior Epic Analyst_b/R0887981/Senior-Epic-Analyst"
@@ -32,6 +22,16 @@
       "title": "Staff Software Development Engineer",
       "url": "https://jobs.cvshealth.com/us/en/job/R0881159/Staff-Software-Development-Engineer",
       "identifier": "Staff Software Development Engineer_-Software-Development-Engineer"
+    },
+    {
+      "title": "Senior Android Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0851832/Senior-Android-Engineer",
+      "identifier": "Senior Android Engineer_851832/Senior-Android-Engineer"
+    },
+    {
+      "title": "Senior Engineering Manager",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0878932/Senior-Engineering-Manager",
+      "identifier": "Senior Engineering Manager_932/Senior-Engineering-Manager"
     },
     {
       "title": "Manager - Enterprise Delivery Budget Management",
@@ -45,5 +45,5 @@
     }
   ],
   "job_count_text": "43",
-  "timestamp": "2026-04-28T21:47:43.048751"
+  "timestamp": "2026-04-28T22:05:32.619473"
 }

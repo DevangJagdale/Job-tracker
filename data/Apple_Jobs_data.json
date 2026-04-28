@@ -4,6 +4,11 @@
   "total_jobs": 14,
   "jobs": [
     {
+      "title": "Software Engineer, WebKit Accessibility",
+      "url": "https://jobs.apple.com/en-us/details/200657564-0836/software-engineer-webkit-accessibility?team=SFTWR",
+      "identifier": "Software Engineer, WebKit Accessibility_ebkit-accessibility?team=SFTWR"
+    },
+    {
       "title": "Manager, Engineering Program Management - ASE / iCloud - CloudKit",
       "url": "https://jobs.apple.com/en-us/details/200660203-0836/manager-engineering-program-management-ase-icloud-cloudkit?team=SFTWR",
       "identifier": "Manager, Engineering Program Management - ASE / iC_ase-icloud-cloudkit?team=SFTWR"
@@ -67,13 +72,8 @@
       "title": "Machine Learning Tools Engineer, SIML",
       "url": "https://jobs.apple.com/en-us/details/200660155-0836/machine-learning-tools-engineer-siml?team=MLAI",
       "identifier": "Machine Learning Tools Engineer, SIML_-tools-engineer-siml?team=MLAI"
-    },
-    {
-      "title": "Senior Apps Applied Scientist",
-      "url": "https://jobs.apple.com/en-us/details/200660029-0836/senior-apps-applied-scientist?team=MLAI",
-      "identifier": "Senior Apps Applied Scientist_ps-applied-scientist?team=MLAI"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-28T17:44:53.912732"
+  "timestamp": "2026-04-28T18:02:08.545276"
 }

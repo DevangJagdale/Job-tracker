@@ -4,6 +4,11 @@
   "total_jobs": 15,
   "jobs": [
     {
+      "title": "Tools and Automation Engineer, Watch Software",
+      "url": "https://jobs.apple.com/en-us/details/200660512-3543/tools-and-automation-engineer-watch-software?team=SFTWR",
+      "identifier": "Tools and Automation Engineer, Watch Software_neer-watch-software?team=SFTWR"
+    },
+    {
       "title": "Senior Software Engineer in Test - Distributed Systems",
       "url": "https://jobs.apple.com/en-us/details/200660417-3337/senior-software-engineer-in-test-distributed-systems?team=SFTWR",
       "identifier": "Senior Software Engineer in Test - Distributed Sys_distributed-systems?team=SFTWR"
@@ -72,13 +77,8 @@
       "title": "Clinical Specialist, Health",
       "url": "https://jobs.apple.com/en-us/details/200660347-2459/clinical-specialist-health?team=SFTWR",
       "identifier": "Clinical Specialist, Health_l-specialist-health?team=SFTWR"
-    },
-    {
-      "title": "Machine Learning Tools Engineer, SIML",
-      "url": "https://jobs.apple.com/en-us/details/200660155-0836/machine-learning-tools-engineer-siml?team=MLAI",
-      "identifier": "Machine Learning Tools Engineer, SIML_-tools-engineer-siml?team=MLAI"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-28T18:36:38.345487"
+  "timestamp": "2026-04-28T18:53:58.614859"
 }

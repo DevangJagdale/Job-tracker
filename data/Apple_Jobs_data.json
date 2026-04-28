@@ -1,8 +1,13 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 15,
+  "total_jobs": 14,
   "jobs": [
+    {
+      "title": "Senior Software Engineer, watchOS Widgets & Live Activities - Watch Software",
+      "url": "https://jobs.apple.com/en-us/details/200659241-3401/senior-software-engineer-watchos-widgets-live-activities-watch-software?team=SFTWR",
+      "identifier": "Senior Software Engineer, watchOS Widgets & Live A_ties-watch-software?team=SFTWR"
+    },
     {
       "title": "Power & Performance Engineer, Audio & Media Technologies",
       "url": "https://jobs.apple.com/en-us/details/200551465-3543/power-performance-engineer-audio-media-technologies?team=SFTWR",
@@ -67,18 +72,8 @@
       "title": "Senior Machine Learning & Data Scientist, OS Power & Performance, CoreOS",
       "url": "https://jobs.apple.com/en-us/details/200660236-3543/senior-machine-learning-data-scientist-os-power-performance-coreos?team=SFTWR",
       "identifier": "Senior Machine Learning & Data Scientist, OS Power_-performance-coreos?team=SFTWR"
-    },
-    {
-      "title": "Software Device Driver Engineer - Core I/O, Core OS",
-      "url": "https://jobs.apple.com/en-us/details/200660074-0836/software-device-driver-engineer-core-i-o-core-os?team=SFTWR",
-      "identifier": "Software Device Driver Engineer - Core I/O, Core O_er-core-i-o-core-os?team=SFTWR"
-    },
-    {
-      "title": "Machine Learning Engineer - News, Books, and Stocks Team",
-      "url": "https://jobs.apple.com/en-us/details/200660323-0836/machine-learning-engineer-news-books-and-stocks-team?team=SFTWR",
-      "identifier": "Machine Learning Engineer - News, Books, and Stock_oks-and-stocks-team?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-28T10:20:30.818665"
+  "timestamp": "2026-04-28T10:37:39.525417"
 }

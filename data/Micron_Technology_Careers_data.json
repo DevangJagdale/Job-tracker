@@ -4,24 +4,19 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "New College Grad - Design Engineer\nSan Jose, California, United States of America\nPosted 2 days ago",
-      "url": "https://careers.micron.com/careers/job/41439437",
-      "identifier": "New College Grad - Design Engineer\nSan Jose, Calif_icron.com/careers/job/41439437"
-    },
-    {
       "title": "New College Grad - Semiconductor Product Engineer\nManassas, Virginia, United States of America\nPosted 2 days ago",
       "url": "https://careers.micron.com/careers/job/41246204",
       "identifier": "New College Grad - Semiconductor Product Engineer\n_icron.com/careers/job/41246204"
     },
     {
+      "title": "New College Grad - Design Engineer\nSan Jose, California, United States of America\nPosted 2 days ago",
+      "url": "https://careers.micron.com/careers/job/41439437",
+      "identifier": "New College Grad - Design Engineer\nSan Jose, Calif_icron.com/careers/job/41439437"
+    },
+    {
       "title": "Product Development Engineer 3\nBoise, Idaho, United States of America\nPosted 2 days ago",
       "url": "https://careers.micron.com/careers/job/41730573",
       "identifier": "Product Development Engineer 3\nBoise, Idaho, Unite_icron.com/careers/job/41730573"
-    },
-    {
-      "title": "SSD Customer Validation Engineer\nLongmont, Colorado, United States of America\nPosted 5 days ago",
-      "url": "https://careers.micron.com/careers/job/41674013",
-      "identifier": "SSD Customer Validation Engineer\nLongmont, Colorad_icron.com/careers/job/41674013"
     },
     {
       "title": "Semiconductor Process Engineer\nBoise, Idaho, United States of America\nPosted 5 days ago",
@@ -32,6 +27,11 @@
       "title": "Operation Improvement Engineer\nBoise, Idaho, United States of America\nPosted 5 days ago",
       "url": "https://careers.micron.com/careers/job/41691274",
       "identifier": "Operation Improvement Engineer\nBoise, Idaho, Unite_icron.com/careers/job/41691274"
+    },
+    {
+      "title": "SSD Customer Validation Engineer\nLongmont, Colorado, United States of America\nPosted 5 days ago",
+      "url": "https://careers.micron.com/careers/job/41674013",
+      "identifier": "SSD Customer Validation Engineer\nLongmont, Colorad_icron.com/careers/job/41674013"
     },
     {
       "title": "New College Grad - Supply Management Analyst\nBoise, Idaho, United States of America\nPosted 7 days ago",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "78",
-  "timestamp": "2026-04-28T15:05:42.316521"
+  "timestamp": "2026-04-28T15:22:51.169357"
 }

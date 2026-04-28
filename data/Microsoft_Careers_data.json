@@ -4,17 +4,27 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Principal Manager- Core Networking\nUnited States, California, Santa Clara\nPosted 21 minutes ago",
+      "title": "Senior Machine Learning Engineer\nUnited States, California, Mountain View + 2 more\nPosted 16 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556862590?domain=microsoft.com",
+      "identifier": "Senior Machine Learning Engineer\nUnited States, Ca_556862590?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 22 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556861596?domain=microsoft.com",
+      "identifier": "Senior Software Engineer\nUnited States, Washington_556861596?domain=microsoft.com"
+    },
+    {
+      "title": "Principal Manager- Core Networking\nUnited States, California, Santa Clara\nPosted 39 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556852019?domain=microsoft.com",
       "identifier": "Principal Manager- Core Networking\nUnited States, _556852019?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 28 minutes ago",
+      "title": "Senior Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556856543?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Multiple L_556856543?domain=microsoft.com"
     },
     {
-      "title": "Principal Engineering - Azure Storage\nUnited States, Multiple Locations, Multiple Locations\nPosted 43 minutes ago",
+      "title": "Principal Engineering - Azure Storage\nUnited States, Multiple Locations, Multiple Locations\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556856008?domain=microsoft.com",
       "identifier": "Principal Engineering - Azure Storage\nUnited State_556856008?domain=microsoft.com"
     },
@@ -42,18 +52,8 @@
       "title": "Senior Development Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 10 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556749116?domain=microsoft.com",
       "identifier": "Senior Development Engineer\nUnited States, Multipl_556749116?domain=microsoft.com"
-    },
-    {
-      "title": "Software Engineer II - Finance Data & Experiences\nUnited States, Washington, Redmond\nPosted 16 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556861667?domain=microsoft.com",
-      "identifier": "Software Engineer II - Finance Data & Experiences\n_556861667?domain=microsoft.com"
-    },
-    {
-      "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted 17 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556753151?domain=microsoft.com",
-      "identifier": "Principal Software Engineer\nUnited States, Washing_556753151?domain=microsoft.com"
     }
   ],
-  "job_count_text": "586",
-  "timestamp": "2026-04-28T17:10:06.120712"
+  "job_count_text": "588",
+  "timestamp": "2026-04-28T17:27:19.808012"
 }

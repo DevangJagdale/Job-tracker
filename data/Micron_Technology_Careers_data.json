@@ -4,14 +4,14 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "New College Grad - Semiconductor Product Engineer\nManassas, Virginia, United States of America\nPosted 2 days ago",
-      "url": "https://careers.micron.com/careers/job/41246204",
-      "identifier": "New College Grad - Semiconductor Product Engineer\n_icron.com/careers/job/41246204"
-    },
-    {
       "title": "Product Development Engineer 3\nBoise, Idaho, United States of America\nPosted 2 days ago",
       "url": "https://careers.micron.com/careers/job/41730573",
       "identifier": "Product Development Engineer 3\nBoise, Idaho, Unite_icron.com/careers/job/41730573"
+    },
+    {
+      "title": "New College Grad - Semiconductor Product Engineer\nManassas, Virginia, United States of America\nPosted 2 days ago",
+      "url": "https://careers.micron.com/careers/job/41246204",
+      "identifier": "New College Grad - Semiconductor Product Engineer\n_icron.com/careers/job/41246204"
     },
     {
       "title": "New College Grad - Design Engineer\nSan Jose, California, United States of America\nPosted 2 days ago",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "77",
-  "timestamp": "2026-04-28T17:13:37.509793"
+  "timestamp": "2026-04-28T17:30:54.413112"
 }

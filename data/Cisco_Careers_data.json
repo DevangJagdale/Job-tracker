@@ -1,7 +1,7 @@
 {
   "page_title": "Job Openings - Cisco Careers",
   "url": "https://careers.cisco.com/global/en/search-results?s=1",
-  "total_jobs": 8,
+  "total_jobs": 6,
   "jobs": [
     {
       "title": "Account Development Representative II (Full Time) United States",
@@ -12,16 +12,6 @@
       "title": "AI Go\u2011To\u2011Market (GTM) Operations I (Full Time) - United States",
       "url": "https://careers.cisco.com/global/en/job/2006766/AI-Go%E2%80%91To%E2%80%91Market-GTM-Operations-I-Full-Time-United-States",
       "identifier": "AI Go\u2011To\u2011Market (GTM) Operations I (Full Time) - U_ions-I-Full-Time-United-States"
-    },
-    {
-      "title": "Software Engineer Backend/Platform Systems II (Full Time) \u2013 United States",
-      "url": "https://careers.cisco.com/global/en/job/2000135/Software-Engineer-Backend-Platform-Systems-II-Full-Time-United-States",
-      "identifier": "Software Engineer Backend/Platform Systems II (Ful_ems-II-Full-Time-United-States"
-    },
-    {
-      "title": "Software Engineer Data/AI/Intelligent Systems II (Full Time) \u2013 United States",
-      "url": "https://careers.cisco.com/global/en/job/2000137/Software-Engineer-Data-AI-Intelligent-Systems-II-Full-Time-United-States",
-      "identifier": "Software Engineer Data/AI/Intelligent Systems II (_ems-II-Full-Time-United-States"
     },
     {
       "title": "Physical Design Engineer II (Full Time) - United States",
@@ -44,6 +34,6 @@
       "identifier": "Sales Development Representative II (Full Time) Un_al-Demand-Center-United-States"
     }
   ],
-  "job_count_text": "8",
-  "timestamp": "2026-04-28T07:30:19.591127"
+  "job_count_text": "6",
+  "timestamp": "2026-04-28T07:47:32.481421"
 }

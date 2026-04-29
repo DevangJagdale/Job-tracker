@@ -4,6 +4,11 @@
   "total_jobs": 15,
   "jobs": [
     {
+      "title": "AirPlay Engineering Investigations Lead",
+      "url": "https://jobs.apple.com/en-us/details/200660710-3543/airplay-engineering-investigations-lead?team=SFTWR",
+      "identifier": "AirPlay Engineering Investigations Lead_investigations-lead?team=SFTWR"
+    },
+    {
       "title": "Sr. iOS Engineer, Creator Studio",
       "url": "https://jobs.apple.com/en-us/details/200645030-1435/sr-ios-engineer-creator-studio?team=SFTWR",
       "identifier": "Sr. iOS Engineer, Creator Studio_neer-creator-studio?team=SFTWR"
@@ -72,13 +77,8 @@
       "title": "Senior Software Engineer - Distributed Storage (Object Storage)",
       "url": "https://jobs.apple.com/en-us/details/200660576-3337/senior-software-engineer-distributed-storage-object-storage?team=SFTWR",
       "identifier": "Senior Software Engineer - Distributed Storage (Ob_rage-object-storage?team=SFTWR"
-    },
-    {
-      "title": "IS&T Services AV & Broadcast Engineer, Employee Experience & Productivity",
-      "url": "https://jobs.apple.com/en-us/details/200652944-0670/is-t-services-av-broadcast-engineer-employee-experience-productivity?team=SFTWR",
-      "identifier": "IS&T Services AV & Broadcast Engineer, Employee Ex_rience-productivity?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-29T14:13:29.255988"
+  "timestamp": "2026-04-29T14:30:37.591487"
 }

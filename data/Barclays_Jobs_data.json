@@ -1,7 +1,7 @@
 {
   "page_title": "Search our Job Opportunities at Barclays",
   "url": "https://search.jobs.barclays/search-jobs/United%20States/13015/2/6252001/39x76/-98x5/50/2",
-  "total_jobs": 15,
+  "total_jobs": 11,
   "jobs": [
     {
       "title": "Structured Derivatives Institutional Sales VP",
@@ -12,11 +12,6 @@
       "title": "OLO Strategic Tooling - AVP",
       "url": "https://search.jobs.barclays/job/whippany/olo-strategic-tooling-avp/13015/94524495024",
       "identifier": "OLO Strategic Tooling - AVP_-tooling-avp/13015/94524495024"
-    },
-    {
-      "title": "Salesforce Developer",
-      "url": "https://search.jobs.barclays/job/whippany/salesforce-developer/13015/94506847664",
-      "identifier": "Salesforce Developer_ce-developer/13015/94506847664"
     },
     {
       "title": "Full Stack Developer",
@@ -54,11 +49,6 @@
       "identifier": "AVP - Data Scientist (Quantitative Analytics)_ve-analytics/13015/94336681264"
     },
     {
-      "title": "Correspondent Banking Investigations Analyst",
-      "url": "https://search.jobs.barclays/job/whippany/correspondent-banking-investigations-analyst/13015/94336671968",
-      "identifier": "Correspondent Banking Investigations Analyst_ions-analyst/13015/94336671968"
-    },
-    {
       "title": "Investment Banking Technology Coverage, VP",
       "url": "https://search.jobs.barclays/job/san-francisco/investment-banking-technology-coverage-vp/13015/94336662608",
       "identifier": "Investment Banking Technology Coverage, VP_-coverage-vp/13015/94336662608"
@@ -67,18 +57,8 @@
       "title": "Correspondent Banking Investigation AVP",
       "url": "https://search.jobs.barclays/job/whippany/correspondent-banking-investigation-avp/13015/94318371872",
       "identifier": "Correspondent Banking Investigation AVP_tigation-avp/13015/94318371872"
-    },
-    {
-      "title": "Sr App Support Specialist, AVP",
-      "url": "https://search.jobs.barclays/job/whippany/sr-app-support-specialist-avp/13015/94310412544",
-      "identifier": "Sr App Support Specialist, AVP_ecialist-avp/13015/94310412544"
-    },
-    {
-      "title": "Investment Banking Chief of Staff, VP",
-      "url": "https://search.jobs.barclays/job/new-york/investment-banking-chief-of-staff-vp/13015/94296126576",
-      "identifier": "Investment Banking Chief of Staff, VP_-of-staff-vp/13015/94296126576"
     }
   ],
-  "job_count_text": "120",
-  "timestamp": "2026-04-29T23:35:37.332595"
+  "job_count_text": "125",
+  "timestamp": "2026-04-29T23:52:47.097119"
 }

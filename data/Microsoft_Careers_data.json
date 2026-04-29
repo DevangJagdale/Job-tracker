@@ -4,6 +4,11 @@
   "total_jobs": 9,
   "jobs": [
     {
+      "title": "Principal Data Scientist\nUnited States, Washington, Redmond\nPosted 15 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556851184?domain=microsoft.com",
+      "identifier": "Principal Data Scientist\nUnited States, Washington_556851184?domain=microsoft.com"
+    },
+    {
       "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556861512?domain=microsoft.com",
       "identifier": "Software Engineer II\nUnited States, Washington, Re_556861512?domain=microsoft.com"
@@ -29,12 +34,12 @@
       "identifier": "Software Engineer 2\nUnited States, Washington, Red_556749568?domain=microsoft.com"
     },
     {
-      "title": "Senior Applied Scientist\nUnited States, California, Mountain View\nPosted 18 hours ago",
+      "title": "Senior Applied Scientist\nUnited States, California, Mountain View\nPosted 19 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556853053?domain=microsoft.com",
       "identifier": "Senior Applied Scientist\nUnited States, California_556853053?domain=microsoft.com"
     },
     {
-      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 18 hours ago",
+      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 19 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556862581?domain=microsoft.com",
       "identifier": "Software Engineer II\nUnited States, Washington, Re_556862581?domain=microsoft.com"
     },
@@ -42,13 +47,8 @@
       "title": "Manager- Applied Sciences / Machine Learning\nUnited States, Washington, Redmond + 1 more\nPosted 19 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556852769?domain=microsoft.com",
       "identifier": "Manager- Applied Sciences / Machine Learning\nUnite_556852769?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Data & Applied Scientist\nUnited States, Multiple Locations, Multiple Locations\nPosted 19 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556862597?domain=microsoft.com",
-      "identifier": "Senior Data & Applied Scientist\nUnited States, Mul_556862597?domain=microsoft.com"
     }
   ],
-  "job_count_text": "582",
-  "timestamp": "2026-04-29T15:04:34.122044"
+  "job_count_text": "583",
+  "timestamp": "2026-04-29T15:21:42.130643"
 }

@@ -4,14 +4,14 @@
   "total_jobs": 18,
   "jobs": [
     {
-      "title": "AirPlay Engineering Investigations Lead",
-      "url": "https://jobs.apple.com/en-us/details/200660710-3543/airplay-engineering-investigations-lead?team=SFTWR",
-      "identifier": "AirPlay Engineering Investigations Lead_investigations-lead?team=SFTWR"
-    },
-    {
       "title": "Software Development Engineer, Siri Runtime Systems and Interaction",
       "url": "https://jobs.apple.com/en-us/details/200660625-0836/software-development-engineer-siri-runtime-systems-and-interaction?team=SFTWR",
       "identifier": "Software Development Engineer, Siri Runtime System_ems-and-interaction?team=SFTWR"
+    },
+    {
+      "title": "AirPlay Engineering Investigations Lead",
+      "url": "https://jobs.apple.com/en-us/details/200660710-3543/airplay-engineering-investigations-lead?team=SFTWR",
+      "identifier": "AirPlay Engineering Investigations Lead_investigations-lead?team=SFTWR"
     },
     {
       "title": "Sr Machine Learning Engineer, Proactive - ML Systems Engineering",
@@ -95,5 +95,5 @@
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-29T15:04:50.146757"
+  "timestamp": "2026-04-29T15:21:58.129880"
 }

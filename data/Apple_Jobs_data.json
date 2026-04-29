@@ -4,14 +4,14 @@
   "total_jobs": 14,
   "jobs": [
     {
-      "title": "Senior Global Pricing Strategy Lead - Services",
-      "url": "https://jobs.apple.com/en-us/details/200660774-0836/senior-global-pricing-strategy-lead-services?team=SFTWR",
-      "identifier": "Senior Global Pricing Strategy Lead - Services_ategy-lead-services?team=SFTWR"
-    },
-    {
       "title": "Localization Manager - Print Documentation, Localization & Release Engineering",
       "url": "https://jobs.apple.com/en-us/details/200660573-3543/localization-manager-print-documentation-localization-release-engineering?team=SFTWR",
       "identifier": "Localization Manager - Print Documentation, Locali_release-engineering?team=SFTWR"
+    },
+    {
+      "title": "Senior Global Pricing Strategy Lead - Services",
+      "url": "https://jobs.apple.com/en-us/details/200660774-0836/senior-global-pricing-strategy-lead-services?team=SFTWR",
+      "identifier": "Senior Global Pricing Strategy Lead - Services_ategy-lead-services?team=SFTWR"
     },
     {
       "title": "Continuous Integration Software Engineer, Audio & Media Technologies",
@@ -75,5 +75,5 @@
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-29T22:27:37.011597"
+  "timestamp": "2026-04-29T22:44:44.517311"
 }

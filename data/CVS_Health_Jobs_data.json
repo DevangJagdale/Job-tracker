@@ -14,14 +14,19 @@
       "identifier": "Executive Director, Adjudication Data Services_tor-Adjudication-Data-Services"
     },
     {
-      "title": "Senior Manager - Software Development Engineering",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0786035/Senior-Manager-Software-Development-Engineering",
-      "identifier": "Senior Manager - Software Development Engineering_ftware-Development-Engineering"
-    },
-    {
       "title": "Staff Software Development Engineer",
       "url": "https://jobs.cvshealth.com/us/en/job/R0878986/Staff-Software-Development-Engineer",
       "identifier": "Staff Software Development Engineer_-Software-Development-Engineer"
+    },
+    {
+      "title": "Sr Analyst, Software Dev Eng",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0898972/Sr-Analyst-Software-Dev-Eng",
+      "identifier": "Sr Analyst, Software Dev Eng_72/Sr-Analyst-Software-Dev-Eng"
+    },
+    {
+      "title": "Senior Software Development Engineer (AS400)",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0898861/Senior-Software-Development-Engineer-AS400",
+      "identifier": "Senior Software Development Engineer (AS400)_are-Development-Engineer-AS400"
     },
     {
       "title": "Principal Software Engineer (Health100 Platform)",
@@ -37,13 +42,8 @@
       "title": "Manager - Scrum Master",
       "url": "https://jobs.cvshealth.com/us/en/job/R0893094/Manager-Scrum-Master",
       "identifier": "Manager - Scrum Master_/R0893094/Manager-Scrum-Master"
-    },
-    {
-      "title": "Sr Analyst, Software Dev Eng",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0898972/Sr-Analyst-Software-Dev-Eng",
-      "identifier": "Sr Analyst, Software Dev Eng_72/Sr-Analyst-Software-Dev-Eng"
     }
   ],
-  "job_count_text": "38",
-  "timestamp": "2026-04-29T21:20:08.895646"
+  "job_count_text": "40",
+  "timestamp": "2026-04-29T21:37:16.404530"
 }

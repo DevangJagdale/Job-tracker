@@ -1,12 +1,22 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 14,
+  "total_jobs": 15,
   "jobs": [
     {
-      "title": "Software Engineer - Early Career (Front)",
-      "url": "https://jobs.apple.com/en-us/details/200660851-0157/software-engineer-early-career-front?team=SFTWR",
-      "identifier": "Software Engineer - Early Career (Front)_-early-career-front?team=SFTWR"
+      "title": "CloudKit Client Software Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200653933-3577/cloudkit-client-software-engineer?team=SFTWR",
+      "identifier": "CloudKit Client Software Engineer_t-software-engineer?team=SFTWR"
+    },
+    {
+      "title": "Staff AI Software Engineer, Siri Core Modeling",
+      "url": "https://jobs.apple.com/en-us/details/200660799-0836/staff-ai-software-engineer-siri-core-modeling?team=SFTWR",
+      "identifier": "Staff AI Software Engineer, Siri Core Modeling_-siri-core-modeling?team=SFTWR"
+    },
+    {
+      "title": "Software Engineer - Early Career (Front-end)",
+      "url": "https://jobs.apple.com/en-us/details/200660851-0157/software-engineer-early-career-front-end?team=SFTWR",
+      "identifier": "Software Engineer - Early Career (Front-end)_ly-career-front-end?team=SFTWR"
     },
     {
       "title": "Lead Big Data Engineer - Wallet, Payments & Commerce",
@@ -67,13 +77,8 @@
       "title": "Senior Engineering Program Manager - AdDelivery, Apple Ads",
       "url": "https://jobs.apple.com/en-us/details/200660750-0836/senior-engineering-program-manager-addelivery-apple-ads?team=SFTWR",
       "identifier": "Senior Engineering Program Manager - AdDelivery, A_ddelivery-apple-ads?team=SFTWR"
-    },
-    {
-      "title": "Software Development Engineer, Siri Runtime Systems and Interaction",
-      "url": "https://jobs.apple.com/en-us/details/200660625-0836/software-development-engineer-siri-runtime-systems-and-interaction?team=SFTWR",
-      "identifier": "Software Development Engineer, Siri Runtime System_ems-and-interaction?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-29T23:01:52.394853"
+  "timestamp": "2026-04-29T23:19:02.116180"
 }

@@ -1,8 +1,33 @@
 {
   "page_title": "Search our Job Opportunities at Barclays",
   "url": "https://search.jobs.barclays/search-jobs/United%20States/13015/2/6252001/39x76/-98x5/50/2",
-  "total_jobs": 9,
+  "total_jobs": 15,
   "jobs": [
+    {
+      "title": "Salesforce Developer",
+      "url": "https://search.jobs.barclays/job/whippany/salesforce-developer/13015/94506847664",
+      "identifier": "Salesforce Developer_ce-developer/13015/94506847664"
+    },
+    {
+      "title": "Full Stack Developer",
+      "url": "https://search.jobs.barclays/job/whippany/full-stack-developer/13015/94499158096",
+      "identifier": "Full Stack Developer_ck-developer/13015/94499158096"
+    },
+    {
+      "title": "Loan Closing Analyst",
+      "url": "https://search.jobs.barclays/job/wilmington/loan-closing-analyst/13015/94499155008",
+      "identifier": "Loan Closing Analyst_sing-analyst/13015/94499155008"
+    },
+    {
+      "title": "Vice President, Head of Unix Operations",
+      "url": "https://search.jobs.barclays/job/new-york/vice-president-head-of-unix-operations/13015/94499151296",
+      "identifier": "Vice President, Head of Unix Operations_x-operations/13015/94499151296"
+    },
+    {
+      "title": "Senior Technical Java Developer (Full Stack)",
+      "url": "https://search.jobs.barclays/job/new-york/senior-technical-java-developer-full-stack/13015/94499151280",
+      "identifier": "Senior Technical Java Developer (Full Stack)_r-full-stack/13015/94499151280"
+    },
     {
       "title": "AVP - Equity Financing Quant Trader",
       "url": "https://search.jobs.barclays/job/new-york/avp-equity-financing-quant-trader/13015/94461349904",
@@ -47,8 +72,13 @@
       "title": "Investment Banking Chief of Staff, VP",
       "url": "https://search.jobs.barclays/job/new-york/investment-banking-chief-of-staff-vp/13015/94296126576",
       "identifier": "Investment Banking Chief of Staff, VP_-of-staff-vp/13015/94296126576"
+    },
+    {
+      "title": "Market Risk Analyst- Securitized Products",
+      "url": "https://search.jobs.barclays/job/new-york/market-risk-analyst-securitized-products/13015/94296125456",
+      "identifier": "Market Risk Analyst- Securitized Products_zed-products/13015/94296125456"
     }
   ],
   "job_count_text": "121",
-  "timestamp": "2026-04-29T11:20:53.290247"
+  "timestamp": "2026-04-29T11:37:57.036681"
 }

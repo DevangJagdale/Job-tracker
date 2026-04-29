@@ -4,6 +4,11 @@
   "total_jobs": 19,
   "jobs": [
     {
+      "title": "Senior Engineering Program Manager - AdDelivery, Apple Ads",
+      "url": "https://jobs.apple.com/en-us/details/200660750-0836/senior-engineering-program-manager-addelivery-apple-ads?team=SFTWR",
+      "identifier": "Senior Engineering Program Manager - AdDelivery, A_ddelivery-apple-ads?team=SFTWR"
+    },
+    {
       "title": "Senior Software Release Engineer, Private Cloud Computing",
       "url": "https://jobs.apple.com/en-us/details/200660641-3337/senior-software-release-engineer-private-cloud-computing?team=SFTWR",
       "identifier": "Senior Software Release Engineer, Private Cloud Co_ate-cloud-computing?team=SFTWR"
@@ -92,13 +97,8 @@
       "title": "Video Codec Machine Learning Engineer, Audio & Media Technologies",
       "url": "https://jobs.apple.com/en-us/details/200660335-3543/video-codec-machine-learning-engineer-audio-media-technologies?team=SFTWR",
       "identifier": "Video Codec Machine Learning Engineer, Audio & Med_-media-technologies?team=SFTWR"
-    },
-    {
-      "title": "Software QA Engineer - Swift macOS",
-      "url": "https://jobs.apple.com/en-us/details/200658072-3543/software-qa-engineer-swift-macos?team=SFTWR",
-      "identifier": "Software QA Engineer - Swift macOS_ngineer-swift-macos?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-29T16:03:58.421956"
+  "timestamp": "2026-04-29T16:21:02.304727"
 }

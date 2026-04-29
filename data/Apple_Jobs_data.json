@@ -4,6 +4,16 @@
   "total_jobs": 14,
   "jobs": [
     {
+      "title": "Software Engineer - Early Career (Front)",
+      "url": "https://jobs.apple.com/en-us/details/200660851-0157/software-engineer-early-career-front?team=SFTWR",
+      "identifier": "Software Engineer - Early Career (Front)_-early-career-front?team=SFTWR"
+    },
+    {
+      "title": "Lead Big Data Engineer - Wallet, Payments & Commerce",
+      "url": "https://jobs.apple.com/en-us/details/200623550-0157/lead-big-data-engineer-wallet-payments-commerce?team=SFTWR",
+      "identifier": "Lead Big Data Engineer - Wallet, Payments & Commer_t-payments-commerce?team=SFTWR"
+    },
+    {
       "title": "Localization Manager - Print Documentation, Localization & Release Engineering",
       "url": "https://jobs.apple.com/en-us/details/200660573-3543/localization-manager-print-documentation-localization-release-engineering?team=SFTWR",
       "identifier": "Localization Manager - Print Documentation, Locali_release-engineering?team=SFTWR"
@@ -62,18 +72,8 @@
       "title": "Software Development Engineer, Siri Runtime Systems and Interaction",
       "url": "https://jobs.apple.com/en-us/details/200660625-0836/software-development-engineer-siri-runtime-systems-and-interaction?team=SFTWR",
       "identifier": "Software Development Engineer, Siri Runtime System_ems-and-interaction?team=SFTWR"
-    },
-    {
-      "title": "AirPlay Engineering Investigations Lead",
-      "url": "https://jobs.apple.com/en-us/details/200660710-3543/airplay-engineering-investigations-lead?team=SFTWR",
-      "identifier": "AirPlay Engineering Investigations Lead_investigations-lead?team=SFTWR"
-    },
-    {
-      "title": "Sr Machine Learning Engineer, Proactive - ML Systems Engineering",
-      "url": "https://jobs.apple.com/en-us/details/200660665-0836/sr-machine-learning-engineer-proactive-ml-systems-engineering?team=MLAI",
-      "identifier": "Sr Machine Learning Engineer, Proactive - ML Syste_-systems-engineering?team=MLAI"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-29T22:44:44.517311"
+  "timestamp": "2026-04-29T23:01:52.394853"
 }

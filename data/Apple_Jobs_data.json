@@ -4,6 +4,11 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Senior Machine Learning Systems Infrastructure Engineer - SIML, ISE",
+      "url": "https://jobs.apple.com/en-us/details/200630294-3337/senior-machine-learning-systems-infrastructure-engineer-siml-ise?team=SFTWR",
+      "identifier": "Senior Machine Learning Systems Infrastructure Eng_e-engineer-siml-ise?team=SFTWR"
+    },
+    {
       "title": "Software Engineer (Tools), Engagement Engineering",
       "url": "https://jobs.apple.com/en-us/details/200660652-0836/software-engineer-tools-engagement-engineering?team=SFTWR",
       "identifier": "Software Engineer (Tools), Engagement Engineering_agement-engineering?team=SFTWR"
@@ -77,13 +82,8 @@
       "title": "Mgr, Engineering Program Management, AI Platforms & Infrastructure",
       "url": "https://jobs.apple.com/en-us/details/200660340-3760/mgr-engineering-program-management-ai-platforms-infrastructure?team=SFTWR",
       "identifier": "Mgr, Engineering Program Management, AI Platforms _orms-infrastructure?team=SFTWR"
-    },
-    {
-      "title": "Tools and Automation Engineer, Watch Software",
-      "url": "https://jobs.apple.com/en-us/details/200660512-3543/tools-and-automation-engineer-watch-software?team=SFTWR",
-      "identifier": "Tools and Automation Engineer, Watch Software_neer-watch-software?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-29T00:12:48.695913"
+  "timestamp": "2026-04-29T00:30:04.579786"
 }

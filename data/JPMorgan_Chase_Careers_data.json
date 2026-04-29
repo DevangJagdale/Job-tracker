@@ -9,6 +9,11 @@
       "identifier": "jpmc_210736986"
     },
     {
+      "title": "Sr. Director of Software Engineering - US Regulatory Reporting Technology",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210628031/?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
+      "identifier": "jpmc_210628031"
+    },
+    {
       "title": "Sr Lead Software Engineer - Oracle HCM Payroll",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210710839/?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
       "identifier": "jpmc_210710839"
@@ -32,6 +37,11 @@
       "title": "Lead Software Engineer, Cloud Platforms",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210721719/?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
       "identifier": "jpmc_210721719"
+    },
+    {
+      "title": "DevOps Terraform Software Engineer III",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210722260/?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
+      "identifier": "jpmc_210722260"
     },
     {
       "title": "Lead Software Engineer - Java/AWS/Kafka",
@@ -117,18 +127,8 @@
       "title": "Applied AI ML Lead [Multiple Positions Available]",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210735166/?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
       "identifier": "jpmc_210735166"
-    },
-    {
-      "title": "Model Risk - Quant Modeling Lead - Vice President",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210736331/?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
-      "identifier": "jpmc_210736331"
-    },
-    {
-      "title": "Risk Management - Quant Modeling Lead - Vice President",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210736389/?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
-      "identifier": "jpmc_210736389"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-29T19:48:21.418181"
+  "timestamp": "2026-04-29T20:05:21.508602"
 }

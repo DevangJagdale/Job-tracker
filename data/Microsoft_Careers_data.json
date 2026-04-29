@@ -4,14 +4,14 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Senior Applied Data Scientist\nUnited States, Washington, Redmond + 2 more\nPosted an hour ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556828160?domain=microsoft.com",
-      "identifier": "Senior Applied Data Scientist\nUnited States, Washi_556828160?domain=microsoft.com"
-    },
-    {
       "title": "Senior Software Engineer\nUnited States, Washington, Redmond + 2 more\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556814353?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Washington_556814353?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Applied Data Scientist\nUnited States, Washington, Redmond + 2 more\nPosted an hour ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556828160?domain=microsoft.com",
+      "identifier": "Senior Applied Data Scientist\nUnited States, Washi_556828160?domain=microsoft.com"
     },
     {
       "title": "Machine Learning Scientist II\nUnited States, Washington, Redmond\nPosted 2 hours ago",
@@ -49,11 +49,11 @@
       "identifier": "Principal Software Engineer\nUnited States, Washing_556745855?domain=microsoft.com"
     },
     {
-      "title": "Software Engineer 2\nUnited States, Washington, Redmond\nPosted 18 hours ago",
+      "title": "Software Engineer 2\nUnited States, Washington, Redmond\nPosted 19 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556749568?domain=microsoft.com",
       "identifier": "Software Engineer 2\nUnited States, Washington, Red_556749568?domain=microsoft.com"
     }
   ],
-  "job_count_text": "585",
-  "timestamp": "2026-04-29T18:03:16.632852"
+  "job_count_text": "584",
+  "timestamp": "2026-04-29T18:20:22.306232"
 }

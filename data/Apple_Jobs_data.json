@@ -4,6 +4,16 @@
   "total_jobs": 14,
   "jobs": [
     {
+      "title": "Continuous Integration Software Engineer, Audio & Media Technologies",
+      "url": "https://jobs.apple.com/en-us/details/200634333-3543/continuous-integration-software-engineer-audio-media-technologies?team=SFTWR",
+      "identifier": "Continuous Integration Software Engineer, Audio & _-media-technologies?team=SFTWR"
+    },
+    {
+      "title": "Senior Backend Software Engineer, Platform Engineering, Services Data Science & Analytics",
+      "url": "https://jobs.apple.com/en-us/details/200657706-0157/senior-backend-software-engineer-platform-engineering-services-data-science-analytics?team=SFTWR",
+      "identifier": "Senior Backend Software Engineer, Platform Enginee_a-science-analytics?team=SFTWR"
+    },
+    {
       "title": "Software Engineer - Visual Intelligence, System Experience",
       "url": "https://jobs.apple.com/en-us/details/200604470-3337/software-engineer-visual-intelligence-system-experience?team=SFTWR",
       "identifier": "Software Engineer - Visual Intelligence, System Ex_e-system-experience?team=SFTWR"
@@ -62,18 +72,8 @@
       "title": "Cellular Data Plane Development Engineer, Wireless Technologies & Ecosystems",
       "url": "https://jobs.apple.com/en-us/details/200649704-3543/cellular-data-plane-development-engineer-wireless-technologies-ecosystems?team=SFTWR",
       "identifier": "Cellular Data Plane Development Engineer, Wireless_nologies-ecosystems?team=SFTWR"
-    },
-    {
-      "title": "Senior Machine Learning Systems Infrastructure Engineer - SIML, ISE",
-      "url": "https://jobs.apple.com/en-us/details/200630294-3337/senior-machine-learning-systems-infrastructure-engineer-siml-ise?team=SFTWR",
-      "identifier": "Senior Machine Learning Systems Infrastructure Eng_e-engineer-siml-ise?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer (Tools), Engagement Engineering",
-      "url": "https://jobs.apple.com/en-us/details/200660652-0836/software-engineer-tools-engagement-engineering?team=SFTWR",
-      "identifier": "Software Engineer (Tools), Engagement Engineering_agement-engineering?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-29T21:01:58.998973"
+  "timestamp": "2026-04-29T21:19:06.983637"
 }

@@ -4,14 +4,14 @@
   "total_jobs": 9,
   "jobs": [
     {
-      "title": "Product Management Specialist II (Full Time) - United States",
-      "url": "https://careers.cisco.com/global/en/job/2004282/Product-Management-Specialist-II-Full-Time-United-States",
-      "identifier": "Product Management Specialist II (Full Time) - Uni_ist-II-Full-Time-United-States"
-    },
-    {
       "title": "Software Engineer Security & Automation II (Full Time) \u2013 United States",
       "url": "https://careers.cisco.com/global/en/job/2000090/Software-Engineer-Security-Automation-II-Full-Time-United-States",
       "identifier": "Software Engineer Security & Automation II (Full T_ion-II-Full-Time-United-States"
+    },
+    {
+      "title": "Product Management Specialist II (Full Time) - United States",
+      "url": "https://careers.cisco.com/global/en/job/2004282/Product-Management-Specialist-II-Full-Time-United-States",
+      "identifier": "Product Management Specialist II (Full Time) - Uni_ist-II-Full-Time-United-States"
     },
     {
       "title": "Software Engineer II (Full Time) \u2013 Devices Technology Group \u2013 United States",
@@ -50,5 +50,5 @@
     }
   ],
   "job_count_text": "9",
-  "timestamp": "2026-04-29T05:49:15.749623"
+  "timestamp": "2026-04-29T06:06:28.731911"
 }

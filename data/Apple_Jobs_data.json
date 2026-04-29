@@ -4,14 +4,14 @@
   "total_jobs": 18,
   "jobs": [
     {
-      "title": "Senior Software Release Engineer, Private Cloud Computing",
-      "url": "https://jobs.apple.com/en-us/details/200660641-3337/senior-software-release-engineer-private-cloud-computing?team=SFTWR",
-      "identifier": "Senior Software Release Engineer, Private Cloud Co_ate-cloud-computing?team=SFTWR"
-    },
-    {
       "title": "Tech Lead Machine Learning Engineer - Finance",
       "url": "https://jobs.apple.com/en-us/details/200645666-0157/tech-lead-machine-learning-engineer-finance?team=OPMFG",
       "identifier": "Tech Lead Machine Learning Engineer - Finance_ng-engineer-finance?team=OPMFG"
+    },
+    {
+      "title": "Senior Software Release Engineer, Private Cloud Computing",
+      "url": "https://jobs.apple.com/en-us/details/200660641-3337/senior-software-release-engineer-private-cloud-computing?team=SFTWR",
+      "identifier": "Senior Software Release Engineer, Private Cloud Co_ate-cloud-computing?team=SFTWR"
     },
     {
       "title": "Senior Engineering Program Manager - AdDelivery, Apple Ads",
@@ -95,5 +95,5 @@
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-29T17:29:16.797125"
+  "timestamp": "2026-04-29T17:46:23.042806"
 }

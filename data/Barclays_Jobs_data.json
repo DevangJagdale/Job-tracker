@@ -4,6 +4,16 @@
   "total_jobs": 15,
   "jobs": [
     {
+      "title": "Structured Derivatives Institutional Sales VP",
+      "url": "https://search.jobs.barclays/job/new-york/structured-derivatives-institutional-sales-vp/13015/94524496112",
+      "identifier": "Structured Derivatives Institutional Sales VP_nal-sales-vp/13015/94524496112"
+    },
+    {
+      "title": "OLO Strategic Tooling - AVP",
+      "url": "https://search.jobs.barclays/job/whippany/olo-strategic-tooling-avp/13015/94524495024",
+      "identifier": "OLO Strategic Tooling - AVP_-tooling-avp/13015/94524495024"
+    },
+    {
       "title": "Salesforce Developer",
       "url": "https://search.jobs.barclays/job/whippany/salesforce-developer/13015/94506847664",
       "identifier": "Salesforce Developer_ce-developer/13015/94506847664"
@@ -39,11 +49,6 @@
       "identifier": "Prime Services Onboarding, AVP_boarding-avp/13015/94449069312"
     },
     {
-      "title": "AVP Program Management Office - Location Strategy",
-      "url": "https://search.jobs.barclays/job/new-york/avp-program-management-office-location-strategy/13015/94449059904",
-      "identifier": "AVP Program Management Office - Location Strategy_ion-strategy/13015/94449059904"
-    },
-    {
       "title": "AVP - Data Scientist (Quantitative Analytics)",
       "url": "https://search.jobs.barclays/job/wilmington/avp-data-scientist-quantitative-analytics/13015/94336681264",
       "identifier": "AVP - Data Scientist (Quantitative Analytics)_ve-analytics/13015/94336681264"
@@ -72,13 +77,8 @@
       "title": "Investment Banking Chief of Staff, VP",
       "url": "https://search.jobs.barclays/job/new-york/investment-banking-chief-of-staff-vp/13015/94296126576",
       "identifier": "Investment Banking Chief of Staff, VP_-of-staff-vp/13015/94296126576"
-    },
-    {
-      "title": "Market Risk Analyst- Securitized Products",
-      "url": "https://search.jobs.barclays/job/new-york/market-risk-analyst-securitized-products/13015/94296125456",
-      "identifier": "Market Risk Analyst- Securitized Products_zed-products/13015/94296125456"
     }
   ],
-  "job_count_text": "121",
-  "timestamp": "2026-04-29T17:28:43.527273"
+  "job_count_text": "120",
+  "timestamp": "2026-04-29T17:45:48.704737"
 }

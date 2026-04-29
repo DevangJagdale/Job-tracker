@@ -4,12 +4,22 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Senior Software Engineer\nUnited States, Washington, Redmond + 2 more\nPosted 2 hours ago",
+      "title": "Principal Software Engineer\nUnited States, California, Mountain View + 1 more\nPosted 11 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556630574?domain=microsoft.com",
+      "identifier": "Principal Software Engineer\nUnited States, Califor_556630574?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Software Engineering\nUnited States, California, Mountain View + 1 more\nPosted 10 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556638360?domain=microsoft.com",
+      "identifier": "Senior Software Engineering\nUnited States, Califor_556638360?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Software Engineer\nUnited States, Washington, Redmond + 2 more\nPosted 3 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556814353?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Washington_556814353?domain=microsoft.com"
     },
     {
-      "title": "Senior Applied Data Scientist\nUnited States, Washington, Redmond + 2 more\nPosted 2 hours ago",
+      "title": "Senior Applied Data Scientist\nUnited States, Washington, Redmond + 2 more\nPosted 3 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556828160?domain=microsoft.com",
       "identifier": "Senior Applied Data Scientist\nUnited States, Washi_556828160?domain=microsoft.com"
     },
@@ -24,12 +34,12 @@
       "identifier": "Principal Applied Scientist - Auction & Bidding\nUn_556852883?domain=microsoft.com"
     },
     {
-      "title": "Principal Data Scientist\nUnited States, Washington, Redmond\nPosted 4 hours ago",
+      "title": "Principal Data Scientist\nUnited States, Washington, Redmond\nPosted 5 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556851184?domain=microsoft.com",
       "identifier": "Principal Data Scientist\nUnited States, Washington_556851184?domain=microsoft.com"
     },
     {
-      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 5 hours ago",
+      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 6 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556861512?domain=microsoft.com",
       "identifier": "Software Engineer II\nUnited States, Washington, Re_556861512?domain=microsoft.com"
     },
@@ -39,21 +49,11 @@
       "identifier": "Senior Software Engineer\nUnited States, Multiple L_556641698?domain=microsoft.com"
     },
     {
-      "title": "Senior Applied Scientist\nUnited States, Washington, Redmond\nPosted 6 hours ago",
+      "title": "Senior Applied Scientist\nUnited States, Washington, Redmond\nPosted 7 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556851873?domain=microsoft.com",
       "identifier": "Senior Applied Scientist\nUnited States, Washington_556851873?domain=microsoft.com"
-    },
-    {
-      "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted 16 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556745855?domain=microsoft.com",
-      "identifier": "Principal Software Engineer\nUnited States, Washing_556745855?domain=microsoft.com"
-    },
-    {
-      "title": "Software Engineer 2\nUnited States, Washington, Redmond\nPosted 20 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556749568?domain=microsoft.com",
-      "identifier": "Software Engineer 2\nUnited States, Washington, Red_556749568?domain=microsoft.com"
     }
   ],
-  "job_count_text": "583",
-  "timestamp": "2026-04-29T19:28:53.033422"
+  "job_count_text": "585",
+  "timestamp": "2026-04-29T19:46:05.326586"
 }

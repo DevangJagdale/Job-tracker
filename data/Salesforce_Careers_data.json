@@ -1,14 +1,109 @@
 {
   "page_title": "Salesforce Jobs | Salesforce Careers",
   "url": "https://careers.salesforce.com/en/jobs/?search=&country=United+States+of+America&team=Data&team=Enterprise+Technology+%26+Infrastructure&team=Software+Engineering&jobtype=New+Grads&pagesize=20#results",
-  "total_jobs": 1,
+  "total_jobs": 20,
   "jobs": [
     {
-      "title": "Software Engineering AMTS (College Grad)",
-      "url": "https://careers.salesforce.com/en/jobs/jr330400/software-engineering-amts-college-grad/",
-      "identifier": "Software Engineering AMTS (College Grad)_engineering-amts-college-grad/"
+      "title": "Director, Finance Data Strategy & Stewardship",
+      "url": "https://careers.salesforce.com/en/jobs/jr321572/director-finance-data-strategy-stewardship/",
+      "identifier": "Director, Finance Data Strategy & Stewardship_nce-data-strategy-stewardship/"
+    },
+    {
+      "title": "Sales Strategy Lead - Data Foundation",
+      "url": "https://careers.salesforce.com/en/jobs/jr339853/sales-strategy-lead-data-foundation/",
+      "identifier": "Sales Strategy Lead - Data Foundation_strategy-lead-data-foundation/"
+    },
+    {
+      "title": "Software Engineer - Keynote Demos",
+      "url": "https://careers.salesforce.com/en/jobs/jr335919/software-engineer-keynote-demos/",
+      "identifier": "Software Engineer - Keynote Demos_ftware-engineer-keynote-demos/"
+    },
+    {
+      "title": "Senior Software Engineer",
+      "url": "https://careers.salesforce.com/en/jobs/jr336667/senior-software-engineer/",
+      "identifier": "Senior Software Engineer_6667/senior-software-engineer/"
+    },
+    {
+      "title": "Salesforce Success Architect",
+      "url": "https://careers.salesforce.com/en/jobs/jr340003/salesforce-success-architect/",
+      "identifier": "Salesforce Success Architect_/salesforce-success-architect/"
+    },
+    {
+      "title": "Senior Renewals Manager",
+      "url": "https://careers.salesforce.com/en/jobs/jr340197/senior-renewals-manager/",
+      "identifier": "Senior Renewals Manager_40197/senior-renewals-manager/"
+    },
+    {
+      "title": "Salesforce Developer",
+      "url": "https://careers.salesforce.com/en/jobs/jr336706/salesforce-developer/",
+      "identifier": "Salesforce Developer_jr336706/salesforce-developer/"
+    },
+    {
+      "title": "National Account Manager - Manufacturing",
+      "url": "https://careers.salesforce.com/en/jobs/jr340058/national-account-manager-manufacturing/",
+      "identifier": "National Account Manager - Manufacturing_account-manager-manufacturing/"
+    },
+    {
+      "title": "Strategic Events Associate Manager",
+      "url": "https://careers.salesforce.com/en/jobs/jr339815/strategic-events-associate-manager/",
+      "identifier": "Strategic Events Associate Manager_egic-events-associate-manager/"
+    },
+    {
+      "title": "Senior Associate Account Partner (Services Sales)",
+      "url": "https://careers.salesforce.com/en/jobs/jr332155/senior-associate-account-partner-services-sales/",
+      "identifier": "Senior Associate Account Partner (Services Sales)_ccount-partner-services-sales/"
+    },
+    {
+      "title": "Sales Strategy Specialist",
+      "url": "https://careers.salesforce.com/en/jobs/jr340002/sales-strategy-specialist/",
+      "identifier": "Sales Strategy Specialist_002/sales-strategy-specialist/"
+    },
+    {
+      "title": "Account Solution Engineer",
+      "url": "https://careers.salesforce.com/en/jobs/jr321489/account-solution-engineer/",
+      "identifier": "Account Solution Engineer_489/account-solution-engineer/"
+    },
+    {
+      "title": "Business Development Representative - Italy",
+      "url": "https://careers.salesforce.com/en/jobs/jr331110/business-development-representative-italy/",
+      "identifier": "Business Development Representative - Italy_elopment-representative-italy/"
+    },
+    {
+      "title": "Senior Software Engineer - Python/SQL",
+      "url": "https://careers.salesforce.com/en/jobs/jr325847/senior-software-engineer-pythonsql/",
+      "identifier": "Senior Software Engineer - Python/SQL_r-software-engineer-pythonsql/"
+    },
+    {
+      "title": "Product Manager, Marketing Intelligence",
+      "url": "https://careers.salesforce.com/en/jobs/jr334199/product-manager-marketing-intelligence/",
+      "identifier": "Product Manager, Marketing Intelligence_anager-marketing-intelligence/"
+    },
+    {
+      "title": "Workday Financials - Integrations Engineer",
+      "url": "https://careers.salesforce.com/en/jobs/jr321740/workday-financials-integrations-engineer/",
+      "identifier": "Workday Financials - Integrations Engineer_ancials-integrations-engineer/"
+    },
+    {
+      "title": "Field Marketing Analyst",
+      "url": "https://careers.salesforce.com/en/jobs/jr336823/field-marketing-analyst/",
+      "identifier": "Field Marketing Analyst_36823/field-marketing-analyst/"
+    },
+    {
+      "title": "Lead/Principal Technical Writer (Trailhead) - Missionforce",
+      "url": "https://careers.salesforce.com/en/jobs/jr340186/leadprincipal-technical-writer-trailhead-missionforce/",
+      "identifier": "Lead/Principal Technical Writer (Trailhead) - Miss_writer-trailhead-missionforce/"
+    },
+    {
+      "title": "MuleSoft Account Executive, Federal Civilian: FAA",
+      "url": "https://careers.salesforce.com/en/jobs/jr338545/mulesoft-account-executive-federal-civilian-faa/",
+      "identifier": "MuleSoft Account Executive, Federal Civilian: FAA_xecutive-federal-civilian-faa/"
+    },
+    {
+      "title": "Technical Architect (Pre-Sales) - All Levels",
+      "url": "https://careers.salesforce.com/en/jobs/jr321042/technical-architect-pre-sales-all-levels/",
+      "identifier": "Technical Architect (Pre-Sales) - All Levels_rchitect-pre-sales-all-levels/"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-29T02:51:24.823902"
+  "timestamp": "2026-04-29T03:08:33.249611"
 }

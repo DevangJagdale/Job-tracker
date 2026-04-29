@@ -4,6 +4,11 @@
   "total_jobs": 14,
   "jobs": [
     {
+      "title": "Software Engineer - Visual Intelligence, System Experience",
+      "url": "https://jobs.apple.com/en-us/details/200604470-3337/software-engineer-visual-intelligence-system-experience?team=SFTWR",
+      "identifier": "Software Engineer - Visual Intelligence, System Ex_e-system-experience?team=SFTWR"
+    },
+    {
       "title": "Machine Learning Engineer- Gen AI",
       "url": "https://jobs.apple.com/en-us/details/200656735-3543/machine-learning-engineer-gen-ai?team=OPMFG",
       "identifier": "Machine Learning Engineer- Gen AI_ing-engineer-gen-ai?team=OPMFG"
@@ -67,13 +72,8 @@
       "title": "Software Engineer (Tools), Engagement Engineering",
       "url": "https://jobs.apple.com/en-us/details/200660652-0836/software-engineer-tools-engagement-engineering?team=SFTWR",
       "identifier": "Software Engineer (Tools), Engagement Engineering_agement-engineering?team=SFTWR"
-    },
-    {
-      "title": "AIML - Sr Data Scientist, Evaluation",
-      "url": "https://jobs.apple.com/en-us/details/200660649-0836/aiml-sr-data-scientist-evaluation?team=MLAI",
-      "identifier": "AIML - Sr Data Scientist, Evaluation_scientist-evaluation?team=MLAI"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-29T20:37:29.829752"
+  "timestamp": "2026-04-29T20:54:29.760435"
 }

@@ -4,6 +4,11 @@
   "total_jobs": 18,
   "jobs": [
     {
+      "title": "Software Development Engineer, Siri Runtime Systems and Interaction",
+      "url": "https://jobs.apple.com/en-us/details/200660625-0836/software-development-engineer-siri-runtime-systems-and-interaction?team=SFTWR",
+      "identifier": "Software Development Engineer, Siri Runtime System_ems-and-interaction?team=SFTWR"
+    },
+    {
       "title": "Sr Machine Learning Engineer, Proactive - ML Systems Engineering",
       "url": "https://jobs.apple.com/en-us/details/200660665-0836/sr-machine-learning-engineer-proactive-ml-systems-engineering?team=MLAI",
       "identifier": "Sr Machine Learning Engineer, Proactive - ML Syste_-systems-engineering?team=MLAI"
@@ -87,13 +92,8 @@
       "title": "Senior Software Engineer, Swift - macOS",
       "url": "https://jobs.apple.com/en-us/details/200658053-3956/senior-software-engineer-swift-macos?team=SFTWR",
       "identifier": "Senior Software Engineer, Swift - macOS_ngineer-swift-macos?team=SFTWR"
-    },
-    {
-      "title": "Mgr, Engineering Program Management, AI Platforms & Infrastructure",
-      "url": "https://jobs.apple.com/en-us/details/200660340-3760/mgr-engineering-program-management-ai-platforms-infrastructure?team=SFTWR",
-      "identifier": "Mgr, Engineering Program Management, AI Platforms _orms-infrastructure?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-29T01:56:08.346068"
+  "timestamp": "2026-04-29T02:13:23.617311"
 }

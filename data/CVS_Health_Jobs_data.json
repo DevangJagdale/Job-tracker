@@ -19,6 +19,11 @@
       "identifier": "Staff Software Development Engineer_-Software-Development-Engineer"
     },
     {
+      "title": "Data Center Technician II",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0895100/Data-Center-Technician-II",
+      "identifier": "Data Center Technician II_5100/Data-Center-Technician-II"
+    },
+    {
       "title": "Manager - Scrum Master",
       "url": "https://jobs.cvshealth.com/us/en/job/R0890883/Manager-Scrum-Master",
       "identifier": "Manager - Scrum Master_/R0890883/Manager-Scrum-Master"
@@ -29,21 +34,16 @@
       "identifier": "Data Center Technician II_5038/Data-Center-Technician-II"
     },
     {
-      "title": "Data Center Technician II",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0895100/Data-Center-Technician-II",
-      "identifier": "Data Center Technician II_5100/Data-Center-Technician-II"
+      "title": "Manager - Enterprise Delivery Budget Management",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0887200/Manager-Enterprise-Delivery-Budget-Management",
+      "identifier": "Manager - Enterprise Delivery Budget Management_ise-Delivery-Budget-Management"
     },
     {
       "title": "Manager, Business Analysis",
       "url": "https://jobs.cvshealth.com/us/en/job/R0888949/Manager-Business-Analysis",
       "identifier": "Manager, Business Analysis_8949/Manager-Business-Analysis"
-    },
-    {
-      "title": "Manager - Enterprise Delivery Budget Management",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0887200/Manager-Enterprise-Delivery-Budget-Management",
-      "identifier": "Manager - Enterprise Delivery Budget Management_ise-Delivery-Budget-Management"
     }
   ],
   "job_count_text": "34",
-  "timestamp": "2026-04-29T16:39:07.166178"
+  "timestamp": "2026-04-29T16:56:10.627338"
 }

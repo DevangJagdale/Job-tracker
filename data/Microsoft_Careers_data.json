@@ -1,10 +1,20 @@
 {
   "page_title": "| Microsoft Careers",
   "url": "https://apply.careers.microsoft.com/careers?domain=microsoft.com&start=0&location=United+States&sort_by=timestamp&filter_include_remote=1&filter_profession=software+engineering%2Cresearch%252C%2520applied%252C%2520%2526%2520data%2520sciences",
-  "total_jobs": 9,
+  "total_jobs": 10,
   "jobs": [
     {
-      "title": "Machine Learning Scientist II\nUnited States, Washington, Redmond\nPosted an hour ago",
+      "title": "Senior Software Engineer\nUnited States, Washington, Redmond + 2 more\nPosted 22 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556814353?domain=microsoft.com",
+      "identifier": "Senior Software Engineer\nUnited States, Washington_556814353?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Applied Data Scientist\nUnited States, Washington, Redmond + 2 more\nPosted 23 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556828160?domain=microsoft.com",
+      "identifier": "Senior Applied Data Scientist\nUnited States, Washi_556828160?domain=microsoft.com"
+    },
+    {
+      "title": "Machine Learning Scientist II\nUnited States, Washington, Redmond\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556642949?domain=microsoft.com",
       "identifier": "Machine Learning Scientist II\nUnited States, Washi_556642949?domain=microsoft.com"
     },
@@ -42,13 +52,8 @@
       "title": "Software Engineer 2\nUnited States, Washington, Redmond\nPosted 18 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556749568?domain=microsoft.com",
       "identifier": "Software Engineer 2\nUnited States, Washington, Red_556749568?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Applied Scientist\nUnited States, California, Mountain View\nPosted 20 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556853053?domain=microsoft.com",
-      "identifier": "Senior Applied Scientist\nUnited States, California_556853053?domain=microsoft.com"
     }
   ],
-  "job_count_text": "585",
-  "timestamp": "2026-04-29T17:11:58.047178"
+  "job_count_text": "586",
+  "timestamp": "2026-04-29T17:29:00.127527"
 }

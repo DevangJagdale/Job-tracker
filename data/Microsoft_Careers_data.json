@@ -4,6 +4,11 @@
   "total_jobs": 10,
   "jobs": [
     {
+      "title": "Software Engineering, CoreAI\nUnited States, Washington, Redmond + 1 more\nPosted 12 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556861699?domain=microsoft.com",
+      "identifier": "Software Engineering, CoreAI\nUnited States, Washin_556861699?domain=microsoft.com"
+    },
+    {
       "title": "Principal Applied Scientist\nUnited States, Washington, Redmond\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556861123?domain=microsoft.com",
       "identifier": "Principal Applied Scientist\nUnited States, Washing_556861123?domain=microsoft.com"
@@ -39,7 +44,7 @@
       "identifier": "Senior Applied Data Scientist\nUnited States, Washi_556828160?domain=microsoft.com"
     },
     {
-      "title": "Machine Learning Scientist II\nUnited States, Washington, Redmond\nPosted 6 hours ago",
+      "title": "Machine Learning Scientist II\nUnited States, Washington, Redmond\nPosted 7 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556642949?domain=microsoft.com",
       "identifier": "Machine Learning Scientist II\nUnited States, Washi_556642949?domain=microsoft.com"
     },
@@ -47,13 +52,8 @@
       "title": "Principal Applied Scientist - Auction & Bidding\nUnited States, Washington, Redmond + 1 more\nPosted 7 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556852883?domain=microsoft.com",
       "identifier": "Principal Applied Scientist - Auction & Bidding\nUn_556852883?domain=microsoft.com"
-    },
-    {
-      "title": "Principal Data Scientist\nUnited States, Washington, Redmond\nPosted 7 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556851184?domain=microsoft.com",
-      "identifier": "Principal Data Scientist\nUnited States, Washington_556851184?domain=microsoft.com"
     }
   ],
-  "job_count_text": "583",
-  "timestamp": "2026-04-29T22:10:13.926211"
+  "job_count_text": "584",
+  "timestamp": "2026-04-29T22:27:20.781833"
 }

@@ -4,6 +4,11 @@
   "total_jobs": 14,
   "jobs": [
     {
+      "title": "Machine Learning Engineer- Gen AI",
+      "url": "https://jobs.apple.com/en-us/details/200656735-3543/machine-learning-engineer-gen-ai?team=OPMFG",
+      "identifier": "Machine Learning Engineer- Gen AI_ing-engineer-gen-ai?team=OPMFG"
+    },
+    {
       "title": "Senior Global Pricing Strategy Lead - Services",
       "url": "https://jobs.apple.com/en-us/details/200660774-0836/senior-global-pricing-strategy-lead-services?team=OPMFG",
       "identifier": "Senior Global Pricing Strategy Lead - Services_ategy-lead-services?team=OPMFG"
@@ -67,13 +72,8 @@
       "title": "AIML - Sr Data Scientist, Evaluation",
       "url": "https://jobs.apple.com/en-us/details/200660649-0836/aiml-sr-data-scientist-evaluation?team=MLAI",
       "identifier": "AIML - Sr Data Scientist, Evaluation_scientist-evaluation?team=MLAI"
-    },
-    {
-      "title": "EMC Robotics Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200660500-0836/emc-robotics-engineer?team=SFTWR",
-      "identifier": "EMC Robotics Engineer_c-robotics-engineer?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-29T18:54:56.117202"
+  "timestamp": "2026-04-29T19:11:58.799802"
 }

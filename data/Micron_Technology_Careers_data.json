@@ -4,9 +4,9 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Manufacturing Engineer - ID1 CMP\nBoise, Idaho, United States of America\nPosted 2 days ago",
-      "url": "https://careers.micron.com/careers/job/41720174",
-      "identifier": "Manufacturing Engineer - ID1 CMP\nBoise, Idaho, Uni_icron.com/careers/job/41720174"
+      "title": "R & D Electrical Device Characterization Engineer\nBoise, Idaho, United States of America\nPosted 2 days ago",
+      "url": "https://careers.micron.com/careers/job/41749393",
+      "identifier": "R & D Electrical Device Characterization Engineer\n_icron.com/careers/job/41749393"
     },
     {
       "title": "Computer Engineer, CE\nRichardson, Texas, United States of America\nPosted 2 days ago",
@@ -14,24 +14,24 @@
       "identifier": "Computer Engineer, CE\nRichardson, Texas, United St_icron.com/careers/job/41736690"
     },
     {
+      "title": "Computer Engineer, CE\nBoise, Idaho, United States of America\nPosted 2 days ago",
+      "url": "https://careers.micron.com/careers/job/41740737",
+      "identifier": "Computer Engineer, CE\nBoise, Idaho, United States _icron.com/careers/job/41740737"
+    },
+    {
+      "title": "Manufacturing Engineer - ID1 CMP\nBoise, Idaho, United States of America\nPosted 2 days ago",
+      "url": "https://careers.micron.com/careers/job/41720174",
+      "identifier": "Manufacturing Engineer - ID1 CMP\nBoise, Idaho, Uni_icron.com/careers/job/41720174"
+    },
+    {
       "title": "Semiconductor Design Engineer\nBoise, Idaho, United States of America\nPosted 2 days ago",
       "url": "https://careers.micron.com/careers/job/41749340",
       "identifier": "Semiconductor Design Engineer\nBoise, Idaho, United_icron.com/careers/job/41749340"
     },
     {
-      "title": "R & D Electrical Device Characterization Engineer\nBoise, Idaho, United States of America\nPosted 2 days ago",
-      "url": "https://careers.micron.com/careers/job/41749393",
-      "identifier": "R & D Electrical Device Characterization Engineer\n_icron.com/careers/job/41749393"
-    },
-    {
       "title": "Product Development Engineer 3\nBoise, Idaho, United States of America\nPosted 2 days ago",
       "url": "https://careers.micron.com/careers/job/41730573",
       "identifier": "Product Development Engineer 3\nBoise, Idaho, Unite_icron.com/careers/job/41730573"
-    },
-    {
-      "title": "Computer Engineer, CE\nBoise, Idaho, United States of America\nPosted 2 days ago",
-      "url": "https://careers.micron.com/careers/job/41740737",
-      "identifier": "Computer Engineer, CE\nBoise, Idaho, United States _icron.com/careers/job/41740737"
     },
     {
       "title": "New College Grad - Metrology Applications Engineer\nManassas, Virginia, United States of America\nPosted 3 days ago",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "79",
-  "timestamp": "2026-04-30T12:30:09.291633"
+  "timestamp": "2026-04-30T12:47:17.823419"
 }

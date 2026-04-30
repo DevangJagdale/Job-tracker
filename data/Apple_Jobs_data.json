@@ -4,6 +4,11 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "iOS Software Development Engineer, Proactive - On-Device",
+      "url": "https://jobs.apple.com/en-us/details/200660997-3760/ios-software-development-engineer-proactive-on-device?team=SFTWR",
+      "identifier": "iOS Software Development Engineer, Proactive - On-_proactive-on-device?team=SFTWR"
+    },
+    {
       "title": "Wi-Fi Software Engineer - Frameworks & AI/ML, Wireless Technologies & Ecosystems",
       "url": "https://jobs.apple.com/en-us/details/200646833-0836/wi-fi-software-engineer-frameworks-ai-ml-wireless-technologies-ecosystems?team=SFTWR",
       "identifier": "Wi-Fi Software Engineer - Frameworks & AI/ML, Wire_nologies-ecosystems?team=SFTWR"
@@ -77,13 +82,8 @@
       "title": "Software Development Engineer",
       "url": "https://jobs.apple.com/en-us/details/200659529-0836/software-development-engineer?team=SFTWR",
       "identifier": "Software Development Engineer_evelopment-engineer?team=SFTWR"
-    },
-    {
-      "title": "Business Systems Analyst",
-      "url": "https://jobs.apple.com/en-us/details/200659502-0157/business-systems-analyst?team=OPMFG",
-      "identifier": "Business Systems Analyst_ess-systems-analyst?team=OPMFG"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-30T19:10:57.024202"
+  "timestamp": "2026-04-30T19:18:39.884584"
 }

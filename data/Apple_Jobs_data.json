@@ -4,6 +4,16 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Compute SRE",
+      "url": "https://jobs.apple.com/en-us/details/200634911-0836/compute-sre?team=SFTWR",
+      "identifier": "Compute SRE_11-0836/compute-sre?team=SFTWR"
+    },
+    {
+      "title": "Senior Engineer, Satellite Resource Optimization",
+      "url": "https://jobs.apple.com/en-us/details/200660876-0157/senior-engineer-satellite-resource-optimization?team=SFTWR",
+      "identifier": "Senior Engineer, Satellite Resource Optimization_source-optimization?team=SFTWR"
+    },
+    {
       "title": "Senior Software Engineer, Software Developer Foundation",
       "url": "https://jobs.apple.com/en-us/details/200660873-0836/senior-software-engineer-software-developer-foundation?team=SFTWR",
       "identifier": "Senior Software Engineer, Software Developer Found_eveloper-foundation?team=SFTWR"
@@ -12,11 +22,6 @@
       "title": "Software Engineer, G&A Solutions Engineering (GSE)",
       "url": "https://jobs.apple.com/en-us/details/200655905-0157/software-engineer-g-a-solutions-engineering-gse?team=SFTWR",
       "identifier": "Software Engineer, G&A Solutions Engineering (GSE)_ons-engineering-gse?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer - Compute",
-      "url": "https://jobs.apple.com/en-us/details/200634911-0836/software-engineer-compute?team=SFTWR",
-      "identifier": "Software Engineer - Compute_re-engineer-compute?team=SFTWR"
     },
     {
       "title": "CloudKit Client Software Engineer",
@@ -77,13 +82,8 @@
       "title": "Software Engineer - App Store Discovery",
       "url": "https://jobs.apple.com/en-us/details/200660654-3577/software-engineer-app-store-discovery?team=SFTWR",
       "identifier": "Software Engineer - App Store Discovery_app-store-discovery?team=SFTWR"
-    },
-    {
-      "title": "Tech Lead Machine Learning Engineer - Finance",
-      "url": "https://jobs.apple.com/en-us/details/200645666-0157/tech-lead-machine-learning-engineer-finance?team=OPMFG",
-      "identifier": "Tech Lead Machine Learning Engineer - Finance_ng-engineer-finance?team=OPMFG"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-30T02:10:19.725223"
+  "timestamp": "2026-04-30T02:27:27.670470"
 }

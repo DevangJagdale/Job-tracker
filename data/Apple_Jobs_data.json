@@ -4,14 +4,14 @@
   "total_jobs": 16,
   "jobs": [
     {
-      "title": "Senior Infrastructure Engineer - Special Projects",
-      "url": "https://jobs.apple.com/en-us/details/200660601-0836/senior-infrastructure-engineer-special-projects?team=SFTWR",
-      "identifier": "Senior Infrastructure Engineer - Special Projects_er-special-projects?team=SFTWR"
-    },
-    {
       "title": "Machine Learning Engineer - Natural Language Generation, Input Experience",
       "url": "https://jobs.apple.com/en-us/details/200636204-3337/machine-learning-engineer-natural-language-generation-input-experience?team=SFTWR",
       "identifier": "Machine Learning Engineer - Natural Language Gener_on-input-experience?team=SFTWR"
+    },
+    {
+      "title": "Senior Infrastructure Engineer - Special Projects",
+      "url": "https://jobs.apple.com/en-us/details/200660601-0836/senior-infrastructure-engineer-special-projects?team=SFTWR",
+      "identifier": "Senior Infrastructure Engineer - Special Projects_er-special-projects?team=SFTWR"
     },
     {
       "title": "Technical Program Manager",
@@ -85,5 +85,5 @@
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-30T23:36:37.699224"
+  "timestamp": "2026-04-30T23:53:47.125105"
 }

@@ -1,13 +1,8 @@
 {
   "page_title": "Search our Job Opportunities at Barclays",
   "url": "https://search.jobs.barclays/search-jobs/United%20States/13015/2/6252001/39x76/-98x5/50/2",
-  "total_jobs": 15,
+  "total_jobs": 12,
   "jobs": [
-    {
-      "title": "Securitized Products Trader Analyst",
-      "url": "https://search.jobs.barclays/job/new-york/securitized-products-trader-analyst/13015/94560076176",
-      "identifier": "Securitized Products Trader Analyst_ader-analyst/13015/94560076176"
-    },
     {
       "title": "Full Stack Java Developer - AVP",
       "url": "https://search.jobs.barclays/job/new-york/full-stack-java-developer-avp/13015/94560071936",
@@ -67,18 +62,8 @@
       "title": "OLO Strategic Tooling - AVP",
       "url": "https://search.jobs.barclays/job/whippany/olo-strategic-tooling-avp/13015/94524495024",
       "identifier": "OLO Strategic Tooling - AVP_-tooling-avp/13015/94524495024"
-    },
-    {
-      "title": "Loan Closing Analyst",
-      "url": "https://search.jobs.barclays/job/wilmington/loan-closing-analyst/13015/94499155008",
-      "identifier": "Loan Closing Analyst_sing-analyst/13015/94499155008"
-    },
-    {
-      "title": "Vice President, Head of Unix Operations",
-      "url": "https://search.jobs.barclays/job/new-york/vice-president-head-of-unix-operations/13015/94499151296",
-      "identifier": "Vice President, Head of Unix Operations_x-operations/13015/94499151296"
     }
   ],
-  "job_count_text": "121",
-  "timestamp": "2026-04-30T23:36:05.221352"
+  "job_count_text": "124",
+  "timestamp": "2026-04-30T23:53:14.776422"
 }

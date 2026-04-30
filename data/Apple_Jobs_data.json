@@ -4,6 +4,11 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Senior Infrastructure Engineer - Special Projects",
+      "url": "https://jobs.apple.com/en-us/details/200660601-0836/senior-infrastructure-engineer-special-projects?team=SFTWR",
+      "identifier": "Senior Infrastructure Engineer - Special Projects_er-special-projects?team=SFTWR"
+    },
+    {
       "title": "Technical Program Manager",
       "url": "https://jobs.apple.com/en-us/details/200660901-0836/technical-program-manager?team=SFTWR",
       "identifier": "Technical Program Manager_cal-program-manager?team=SFTWR"
@@ -44,11 +49,6 @@
       "identifier": "Photos Imaging Software Engineer, Camera & Photos_ineer-camera-photos?team=SFTWR"
     },
     {
-      "title": "Senior Infrastructure Engineer - Special Projects",
-      "url": "https://jobs.apple.com/en-us/details/200660601-0836/senior-infrastructure-engineer-special-projects?team=SFTWR",
-      "identifier": "Senior Infrastructure Engineer - Special Projects_er-special-projects?team=SFTWR"
-    },
-    {
       "title": "Remote Site Services Data Center Manager, Infrastructure Services",
       "url": "https://jobs.apple.com/en-us/details/200642872-1902/remote-site-services-data-center-manager-infrastructure-services?team=SFTWR",
       "identifier": "Remote Site Services Data Center Manager, Infrastr_astructure-services?team=SFTWR"
@@ -85,5 +85,5 @@
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-30T22:11:00.403633"
+  "timestamp": "2026-04-30T22:28:06.560469"
 }

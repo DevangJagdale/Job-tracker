@@ -1,8 +1,63 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 15,
+  "total_jobs": 16,
   "jobs": [
+    {
+      "title": "Software Development Engineer - Applications",
+      "url": "https://jobs.apple.com/en-us/details/200659550-0836/software-development-engineer-applications?team=SFTWR",
+      "identifier": "Software Development Engineer - Applications_gineer-applications?team=SFTWR"
+    },
+    {
+      "title": "Software Development Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200659529-0836/software-development-engineer?team=SFTWR",
+      "identifier": "Software Development Engineer_evelopment-engineer?team=SFTWR"
+    },
+    {
+      "title": "Business Systems Analyst",
+      "url": "https://jobs.apple.com/en-us/details/200659502-0157/business-systems-analyst?team=OPMFG",
+      "identifier": "Business Systems Analyst_ess-systems-analyst?team=OPMFG"
+    },
+    {
+      "title": "Software Development Engineer - Firmware",
+      "url": "https://jobs.apple.com/en-us/details/200659679-3543/software-development-engineer-firmware?team=SFTWR",
+      "identifier": "Software Development Engineer - Firmware_t-engineer-firmware?team=SFTWR"
+    },
+    {
+      "title": "Software Development Engineer -Systems",
+      "url": "https://jobs.apple.com/en-us/details/200659678-0836/software-development-engineer-systems?team=SFTWR",
+      "identifier": "Software Development Engineer -Systems_nt-engineer-systems?team=SFTWR"
+    },
+    {
+      "title": "Software Engineer- Systems",
+      "url": "https://jobs.apple.com/en-us/details/200659674-3543/software-engineer-systems?team=SFTWR",
+      "identifier": "Software Engineer- Systems_re-engineer-systems?team=SFTWR"
+    },
+    {
+      "title": "Engineering Program Coordinator",
+      "url": "https://jobs.apple.com/en-us/details/200659669-3337/engineering-program-coordinator?team=SFTWR",
+      "identifier": "Engineering Program Coordinator_program-coordinator?team=SFTWR"
+    },
+    {
+      "title": "Software Engineer - Systems",
+      "url": "https://jobs.apple.com/en-us/details/200659668-0836/software-engineer-systems?team=SFTWR",
+      "identifier": "Software Engineer - Systems_re-engineer-systems?team=SFTWR"
+    },
+    {
+      "title": "Software Development Engineer - Test",
+      "url": "https://jobs.apple.com/en-us/details/200659664-0836/software-development-engineer-test?team=SFTWR",
+      "identifier": "Software Development Engineer - Test_pment-engineer-test?team=SFTWR"
+    },
+    {
+      "title": "Product Design Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200659655-2459/product-design-engineer?team=SFTWR",
+      "identifier": "Product Design Engineer_uct-design-engineer?team=SFTWR"
+    },
+    {
+      "title": "Machine Learning",
+      "url": "https://jobs.apple.com/en-us/details/200659555-3543/machine-learning?team=MLAI",
+      "identifier": "Machine Learning_543/machine-learning?team=MLAI"
+    },
     {
       "title": "Cloud Infrastructure Engineer - Systems",
       "url": "https://jobs.apple.com/en-us/details/200633405-3337/cloud-infrastructure-engineer-systems?team=SFTWR",
@@ -12,11 +67,6 @@
       "title": "Software Development Engineer - Systems",
       "url": "https://jobs.apple.com/en-us/details/200659703-1242/software-development-engineer-systems?team=SFTWR",
       "identifier": "Software Development Engineer - Systems_nt-engineer-systems?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer- Systems",
-      "url": "https://jobs.apple.com/en-us/details/200659690-3543/software-engineer-systems?team=SFTWR",
-      "identifier": "Software Engineer- Systems_re-engineer-systems?team=SFTWR"
     },
     {
       "title": "Human Interface Designer",
@@ -32,53 +82,8 @@
       "title": "Software Engineer - Applications",
       "url": "https://jobs.apple.com/en-us/details/200659680-3337/software-engineer-applications?team=SFTWR",
       "identifier": "Software Engineer - Applications_gineer-applications?team=SFTWR"
-    },
-    {
-      "title": "Software Development Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200660547-0836/software-development-engineer?team=SFTWR",
-      "identifier": "Software Development Engineer_evelopment-engineer?team=SFTWR"
-    },
-    {
-      "title": "Software Development Engineer Systems",
-      "url": "https://jobs.apple.com/en-us/details/200659761-0836/software-development-engineer-systems?team=SFTWR",
-      "identifier": "Software Development Engineer Systems_nt-engineer-systems?team=SFTWR"
-    },
-    {
-      "title": "CloudKit Client Software Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200659734-3543/cloudkit-client-software-engineer?team=SFTWR",
-      "identifier": "CloudKit Client Software Engineer_t-software-engineer?team=SFTWR"
-    },
-    {
-      "title": "Tools and Automation Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200659731-0836/tools-and-automation-engineer?team=SFTWR",
-      "identifier": "Tools and Automation Engineer_automation-engineer?team=SFTWR"
-    },
-    {
-      "title": "Video Content Data Scientist",
-      "url": "https://jobs.apple.com/en-us/details/200656393-0670/video-content-data-scientist?team=SFTWR",
-      "identifier": "Video Content Data Scientist_tent-data-scientist?team=SFTWR"
-    },
-    {
-      "title": "Platform Software Engineer, Infrastructure Services",
-      "url": "https://jobs.apple.com/en-us/details/200658896-3956/platform-software-engineer-infrastructure-services?team=SFTWR",
-      "identifier": "Platform Software Engineer, Infrastructure Service_astructure-services?team=SFTWR"
-    },
-    {
-      "title": "Senior Engineer, Satellite Resource Optimization",
-      "url": "https://jobs.apple.com/en-us/details/200660876-0157/senior-engineer-satellite-resource-optimization?team=SFTWR",
-      "identifier": "Senior Engineer, Satellite Resource Optimization_source-optimization?team=SFTWR"
-    },
-    {
-      "title": "Senior Software Engineer, Software Developer Foundation",
-      "url": "https://jobs.apple.com/en-us/details/200660873-0836/senior-software-engineer-software-developer-foundation?team=SFTWR",
-      "identifier": "Senior Software Engineer, Software Developer Found_eveloper-foundation?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer, G&A Solutions Engineering (GSE)",
-      "url": "https://jobs.apple.com/en-us/details/200655905-0157/software-engineer-g-a-solutions-engineering-gse?team=SFTWR",
-      "identifier": "Software Engineer, G&A Solutions Engineering (GSE)_ons-engineering-gse?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-30T16:01:21.440670"
+  "timestamp": "2026-04-30T16:18:32.795998"
 }

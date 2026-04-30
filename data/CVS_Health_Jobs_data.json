@@ -4,9 +4,14 @@
   "total_jobs": 8,
   "jobs": [
     {
-      "title": "Manager - Scrum Master",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0893092/Manager-Scrum-Master",
-      "identifier": "Manager - Scrum Master_/R0893092/Manager-Scrum-Master"
+      "title": "Senior Engineering Manager",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0877327/Senior-Engineering-Manager",
+      "identifier": "Senior Engineering Manager_327/Senior-Engineering-Manager"
+    },
+    {
+      "title": "Staff Software Development Engineer (Full Stack/Cloud)",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0815913/Staff-Software-Development-Engineer-Full-Stack-Cloud",
+      "identifier": "Staff Software Development Engineer (Full Stack/Cl_ment-Engineer-Full-Stack-Cloud"
     },
     {
       "title": "Staff Salesforce Engineer",
@@ -19,6 +24,16 @@
       "identifier": "Senior Manager, Salesforce Software Development En_ftware-Development-Engineering"
     },
     {
+      "title": "Manager - Scrum Master",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0893092/Manager-Scrum-Master",
+      "identifier": "Manager - Scrum Master_/R0893092/Manager-Scrum-Master"
+    },
+    {
+      "title": "Senior Engineering Manager",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0877251/Senior-Engineering-Manager",
+      "identifier": "Senior Engineering Manager_251/Senior-Engineering-Manager"
+    },
+    {
       "title": "Lead Director - Software Development Engineering (Network Services)",
       "url": "https://jobs.cvshealth.com/us/en/job/R0836664/Lead-Director-Software-Development-Engineering-Network-Services",
       "identifier": "Lead Director - Software Development Engineering (_t-Engineering-Network-Services"
@@ -27,23 +42,8 @@
       "title": "Senior Software Development Engineer - Linux",
       "url": "https://jobs.cvshealth.com/us/en/job/R0641243/Senior-Software-Development-Engineer-Linux",
       "identifier": "Senior Software Development Engineer - Linux_are-Development-Engineer-Linux"
-    },
-    {
-      "title": "Senior Engineering Manager",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0877327/Senior-Engineering-Manager",
-      "identifier": "Senior Engineering Manager_327/Senior-Engineering-Manager"
-    },
-    {
-      "title": "Staff Software Development Engineer (Full Stack/Cloud)",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0815913/Staff-Software-Development-Engineer-Full-Stack-Cloud",
-      "identifier": "Staff Software Development Engineer (Full Stack/Cl_ment-Engineer-Full-Stack-Cloud"
-    },
-    {
-      "title": "Senior Engineering Manager",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0877251/Senior-Engineering-Manager",
-      "identifier": "Senior Engineering Manager_251/Senior-Engineering-Manager"
     }
   ],
   "job_count_text": "36",
-  "timestamp": "2026-04-30T16:02:23.017935"
+  "timestamp": "2026-04-30T16:19:34.193631"
 }

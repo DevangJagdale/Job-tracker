@@ -4,11 +4,6 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Computer Engineer, CE\nRichardson, Texas, United States of America\nPosted 2 days ago",
-      "url": "https://careers.micron.com/careers/job/41736690",
-      "identifier": "Computer Engineer, CE\nRichardson, Texas, United St_icron.com/careers/job/41736690"
-    },
-    {
       "title": "Product Development Engineer 3\nBoise, Idaho, United States of America\nPosted 2 days ago",
       "url": "https://careers.micron.com/careers/job/41730573",
       "identifier": "Product Development Engineer 3\nBoise, Idaho, Unite_icron.com/careers/job/41730573"
@@ -27,6 +22,11 @@
       "title": "Manufacturing Engineer - ID1 CMP\nBoise, Idaho, United States of America\nPosted 2 days ago",
       "url": "https://careers.micron.com/careers/job/41720174",
       "identifier": "Manufacturing Engineer - ID1 CMP\nBoise, Idaho, Uni_icron.com/careers/job/41720174"
+    },
+    {
+      "title": "Computer Engineer, CE\nRichardson, Texas, United States of America\nPosted 2 days ago",
+      "url": "https://careers.micron.com/careers/job/41736690",
+      "identifier": "Computer Engineer, CE\nRichardson, Texas, United St_icron.com/careers/job/41736690"
     },
     {
       "title": "Semiconductor Design Engineer\nBoise, Idaho, United States of America\nPosted 2 days ago",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "79",
-  "timestamp": "2026-04-30T16:04:37.586390"
+  "timestamp": "2026-04-30T16:21:49.417725"
 }

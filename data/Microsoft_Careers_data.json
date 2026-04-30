@@ -4,12 +4,17 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Software Engineer\nUnited States, Washington, Redmond\nPosted 14 minutes ago",
+      "title": "Senior Applied Scientist (Bing Places)\nUnited States, Washington, Redmond\nPosted 21 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556856829?domain=microsoft.com",
+      "identifier": "Senior Applied Scientist (Bing Places)\nUnited Stat_556856829?domain=microsoft.com"
+    },
+    {
+      "title": "Software Engineer\nUnited States, Washington, Redmond\nPosted 32 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556856046?domain=microsoft.com",
       "identifier": "Software Engineer\nUnited States, Washington, Redmo_556856046?domain=microsoft.com"
     },
     {
-      "title": "Principal Site Reliability Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 31 minutes ago",
+      "title": "Principal Site Reliability Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556823642?domain=microsoft.com",
       "identifier": "Principal Site Reliability Engineer\nUnited States,_556823642?domain=microsoft.com"
     },
@@ -24,7 +29,7 @@
       "identifier": "Member of Technical Staff, Data Scientist\nUnited S_556652462?domain=microsoft.com"
     },
     {
-      "title": "Principal Software Engineer - Performance Tooling\nUnited States, Washington, Redmond + 1 more\nPosted an hour ago",
+      "title": "Principal Software Engineer - Performance Tooling\nUnited States, Washington, Redmond + 1 more\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556853718?domain=microsoft.com",
       "identifier": "Principal Software Engineer - Performance Tooling\n_556853718?domain=microsoft.com"
     },
@@ -47,13 +52,8 @@
       "title": "Senior Applied Scientist - CoreAI\nUnited States, Washington, Redmond + 2 more\nPosted 6 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556857534?domain=microsoft.com",
       "identifier": "Senior Applied Scientist - CoreAI\nUnited States, W_556857534?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Software Engineer - CoreAI\nUnited States, Washington, Redmond\nPosted 6 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556620361?domain=microsoft.com",
-      "identifier": "Senior Software Engineer - CoreAI\nUnited States, W_556620361?domain=microsoft.com"
     }
   ],
-  "job_count_text": "584",
-  "timestamp": "2026-04-30T19:35:35.679214"
+  "job_count_text": "585",
+  "timestamp": "2026-04-30T19:52:49.931937"
 }

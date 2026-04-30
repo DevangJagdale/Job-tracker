@@ -4,11 +4,6 @@
   "total_jobs": 8,
   "jobs": [
     {
-      "title": "Manager - Scrum Master",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0893092/Manager-Scrum-Master",
-      "identifier": "Manager - Scrum Master_/R0893092/Manager-Scrum-Master"
-    },
-    {
       "title": "Staff Salesforce Engineer",
       "url": "https://jobs.cvshealth.com/us/en/job/R0848229/Staff-Salesforce-Engineer",
       "identifier": "Staff Salesforce Engineer_8229/Staff-Salesforce-Engineer"
@@ -19,14 +14,19 @@
       "identifier": "Senior Manager, Salesforce Software Development En_ftware-Development-Engineering"
     },
     {
-      "title": "Executive Director, Adjudication Data Services",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0889257/Executive-Director-Adjudication-Data-Services",
-      "identifier": "Executive Director, Adjudication Data Services_tor-Adjudication-Data-Services"
+      "title": "Manager - Scrum Master",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0893092/Manager-Scrum-Master",
+      "identifier": "Manager - Scrum Master_/R0893092/Manager-Scrum-Master"
     },
     {
-      "title": "Live AV Event Coordinator",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0818760/Live-AV-Event-Coordinator",
-      "identifier": "Live AV Event Coordinator_8760/Live-AV-Event-Coordinator"
+      "title": "Lead Director - Software Development Engineering (Network Services)",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0836664/Lead-Director-Software-Development-Engineering-Network-Services",
+      "identifier": "Lead Director - Software Development Engineering (_t-Engineering-Network-Services"
+    },
+    {
+      "title": "Senior Software Development Engineer - Linux",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0641243/Senior-Software-Development-Engineer-Linux",
+      "identifier": "Senior Software Development Engineer - Linux_are-Development-Engineer-Linux"
     },
     {
       "title": "Sr Analyst, Software Dev Eng",
@@ -34,16 +34,16 @@
       "identifier": "Sr Analyst, Software Dev Eng_72/Sr-Analyst-Software-Dev-Eng"
     },
     {
-      "title": "Principal Software Engineer (Health100 Platform)",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0860954/Principal-Software-Engineer-Health100-Platform",
-      "identifier": "Principal Software Engineer (Health100 Platform)_re-Engineer-Health100-Platform"
+      "title": "Live AV Event Coordinator",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0818760/Live-AV-Event-Coordinator",
+      "identifier": "Live AV Event Coordinator_8760/Live-AV-Event-Coordinator"
     },
     {
-      "title": "Senior Manager - Software Development Engineering",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0786035/Senior-Manager-Software-Development-Engineering",
-      "identifier": "Senior Manager - Software Development Engineering_ftware-Development-Engineering"
+      "title": "Executive Director, Adjudication Data Services",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0889257/Executive-Director-Adjudication-Data-Services",
+      "identifier": "Executive Director, Adjudication Data Services_tor-Adjudication-Data-Services"
     }
   ],
-  "job_count_text": "31",
-  "timestamp": "2026-04-30T13:19:21.851666"
+  "job_count_text": "33",
+  "timestamp": "2026-04-30T13:36:31.747131"
 }

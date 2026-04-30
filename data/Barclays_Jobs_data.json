@@ -1,8 +1,48 @@
 {
   "page_title": "Search our Job Opportunities at Barclays",
   "url": "https://search.jobs.barclays/search-jobs/United%20States/13015/2/6252001/39x76/-98x5/50/2",
-  "total_jobs": 8,
+  "total_jobs": 16,
   "jobs": [
+    {
+      "title": "Sourcing and Category Lead for BPO and Debt Services",
+      "url": "https://search.jobs.barclays/job/whippany/sourcing-and-category-lead-for-bpo-and-debt-services/13015/94544532320",
+      "identifier": "Sourcing and Category Lead for BPO and Debt Servic_ebt-services/13015/94544532320"
+    },
+    {
+      "title": "Full Stack Developer",
+      "url": "https://search.jobs.barclays/job/whippany/full-stack-developer/13015/94544528560",
+      "identifier": "Full Stack Developer_ck-developer/13015/94544528560"
+    },
+    {
+      "title": "Technical Product Owner",
+      "url": "https://search.jobs.barclays/job/whippany/technical-product-owner/13015/94544528544",
+      "identifier": "Technical Product Owner_roduct-owner/13015/94544528544"
+    },
+    {
+      "title": "Software Engineer \u2013 BA4",
+      "url": "https://search.jobs.barclays/job/whippany/software-engineer-ba4/13015/94536954352",
+      "identifier": "Software Engineer \u2013 BA4_engineer-ba4/13015/94536954352"
+    },
+    {
+      "title": "Assistant VP \u2013 Global Markets",
+      "url": "https://search.jobs.barclays/job/new-york/assistant-vp-global-markets/13015/94536954336",
+      "identifier": "Assistant VP \u2013 Global Markets_obal-markets/13015/94536954336"
+    },
+    {
+      "title": "Cobrand Product & Innovation Analyst",
+      "url": "https://search.jobs.barclays/job/new-york/cobrand-product-and-innovation-analyst/13015/94536950608",
+      "identifier": "Cobrand Product & Innovation Analyst_tion-analyst/13015/94536950608"
+    },
+    {
+      "title": "CCAR Regulatory Reporting Analyst",
+      "url": "https://search.jobs.barclays/job/whippany/ccar-regulatory-reporting-analyst/13015/94536950528",
+      "identifier": "CCAR Regulatory Reporting Analyst_ting-analyst/13015/94536950528"
+    },
+    {
+      "title": "Network Engineer - AVP",
+      "url": "https://search.jobs.barclays/job/whippany/network-engineer-avp/13015/94536941552",
+      "identifier": "Network Engineer - AVP_engineer-avp/13015/94536941552"
+    },
     {
       "title": "Structured Derivatives Institutional Sales VP",
       "url": "https://search.jobs.barclays/job/new-york/structured-derivatives-institutional-sales-vp/13015/94524496112",
@@ -44,6 +84,6 @@
       "identifier": "Prime Services Onboarding, AVP_boarding-avp/13015/94449069312"
     }
   ],
-  "job_count_text": "122",
-  "timestamp": "2026-04-30T11:17:48.182613"
+  "job_count_text": "120",
+  "timestamp": "2026-04-30T11:34:57.040977"
 }

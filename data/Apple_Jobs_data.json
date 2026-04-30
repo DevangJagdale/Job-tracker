@@ -1,7 +1,7 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 18,
+  "total_jobs": 15,
   "jobs": [
     {
       "title": "Technical Product Manager - Services Pricing Platform",
@@ -77,23 +77,8 @@
       "title": "Software Engineer- Systems",
       "url": "https://jobs.apple.com/en-us/details/200659674-3543/software-engineer-systems?team=SFTWR",
       "identifier": "Software Engineer- Systems_re-engineer-systems?team=SFTWR"
-    },
-    {
-      "title": "Engineering Program Coordinator",
-      "url": "https://jobs.apple.com/en-us/details/200659669-3337/engineering-program-coordinator?team=SFTWR",
-      "identifier": "Engineering Program Coordinator_program-coordinator?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer - Systems",
-      "url": "https://jobs.apple.com/en-us/details/200659668-0836/software-engineer-systems?team=SFTWR",
-      "identifier": "Software Engineer - Systems_re-engineer-systems?team=SFTWR"
-    },
-    {
-      "title": "Software Development Engineer - Test",
-      "url": "https://jobs.apple.com/en-us/details/200659664-0836/software-development-engineer-test?team=SFTWR",
-      "identifier": "Software Development Engineer - Test_pment-engineer-test?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-30T17:44:42.103474"
+  "timestamp": "2026-04-30T18:01:51.727002"
 }

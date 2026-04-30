@@ -4,6 +4,11 @@
   "total_jobs": 10,
   "jobs": [
     {
+      "title": "Software Engineer\nUnited States, Multiple Locations, Multiple Locations + 8 more\nPosted 23 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556862958?domain=microsoft.com",
+      "identifier": "Software Engineer\nUnited States, Multiple Location_556862958?domain=microsoft.com"
+    },
+    {
       "title": "Senior Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556852742?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Multiple L_556852742?domain=microsoft.com"
@@ -47,13 +52,8 @@
       "title": "Parent | Sr. Software Engineer - Azure Storage\nUnited States, Multiple Locations, Multiple Locations\nPosted 3 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556849539?domain=microsoft.com",
       "identifier": "Parent | Sr. Software Engineer - Azure Storage\nUni_556849539?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Software Engineer - Azure Translator & Language AI Team\nUnited States, Washington, Redmond\nPosted 5 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556860033?domain=microsoft.com",
-      "identifier": "Senior Software Engineer - Azure Translator & Lang_556860033?domain=microsoft.com"
     }
   ],
-  "job_count_text": "578",
-  "timestamp": "2026-04-30T16:35:33.564106"
+  "job_count_text": "579",
+  "timestamp": "2026-04-30T16:52:49.969013"
 }

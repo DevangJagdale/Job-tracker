@@ -4,6 +4,21 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Wi-Fi Software Engineer - Frameworks & AI/ML, Wireless Technologies & Ecosystems",
+      "url": "https://jobs.apple.com/en-us/details/200646833-0836/wi-fi-software-engineer-frameworks-ai-ml-wireless-technologies-ecosystems?team=SFTWR",
+      "identifier": "Wi-Fi Software Engineer - Frameworks & AI/ML, Wire_nologies-ecosystems?team=SFTWR"
+    },
+    {
+      "title": "App Store Frameworks",
+      "url": "https://jobs.apple.com/en-us/details/200633092-0836/app-store-frameworks?team=SFTWR",
+      "identifier": "App Store Frameworks_pp-store-frameworks?team=SFTWR"
+    },
+    {
+      "title": "Photos Imaging Software Engineer, Camera & Photos",
+      "url": "https://jobs.apple.com/en-us/details/200623337-0836/photos-imaging-software-engineer-camera-photos?team=SFTWR",
+      "identifier": "Photos Imaging Software Engineer, Camera & Photos_ineer-camera-photos?team=SFTWR"
+    },
+    {
       "title": "Senior Infrastructure Engineer - Special Projects",
       "url": "https://jobs.apple.com/en-us/details/200660601-0836/senior-infrastructure-engineer-special-projects?team=SFTWR",
       "identifier": "Senior Infrastructure Engineer - Special Projects_er-special-projects?team=SFTWR"
@@ -67,23 +82,8 @@
       "title": "Business Systems Analyst",
       "url": "https://jobs.apple.com/en-us/details/200659502-0157/business-systems-analyst?team=OPMFG",
       "identifier": "Business Systems Analyst_ess-systems-analyst?team=OPMFG"
-    },
-    {
-      "title": "Software Development Engineer - Firmware",
-      "url": "https://jobs.apple.com/en-us/details/200659679-3543/software-development-engineer-firmware?team=SFTWR",
-      "identifier": "Software Development Engineer - Firmware_t-engineer-firmware?team=SFTWR"
-    },
-    {
-      "title": "Software Development Engineer -Systems",
-      "url": "https://jobs.apple.com/en-us/details/200659678-0836/software-development-engineer-systems?team=SFTWR",
-      "identifier": "Software Development Engineer -Systems_nt-engineer-systems?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer- Systems",
-      "url": "https://jobs.apple.com/en-us/details/200659674-3543/software-engineer-systems?team=SFTWR",
-      "identifier": "Software Engineer- Systems_re-engineer-systems?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-30T18:36:33.898848"
+  "timestamp": "2026-04-30T18:53:45.028177"
 }

@@ -4,14 +4,14 @@
   "total_jobs": 15,
   "jobs": [
     {
+      "title": "Software Engineer, G&A Solutions Engineering (GSE)",
+      "url": "https://jobs.apple.com/en-us/details/200655905-0157/software-engineer-g-a-solutions-engineering-gse?team=SFTWR",
+      "identifier": "Software Engineer, G&A Solutions Engineering (GSE)_ons-engineering-gse?team=SFTWR"
+    },
+    {
       "title": "Software Engineer - Compute",
       "url": "https://jobs.apple.com/en-us/details/200634911-0836/software-engineer-compute?team=SFTWR",
       "identifier": "Software Engineer - Compute_re-engineer-compute?team=SFTWR"
-    },
-    {
-      "title": "DevOps Engineer, G&A Solutions Engineering (GSE)",
-      "url": "https://jobs.apple.com/en-us/details/200655905-0157/devops-engineer-g-a-solutions-engineering-gse?team=SFTWR",
-      "identifier": "DevOps Engineer, G&A Solutions Engineering (GSE)_ons-engineering-gse?team=SFTWR"
     },
     {
       "title": "CloudKit Client Software Engineer",
@@ -80,5 +80,5 @@
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-30T00:27:33.301098"
+  "timestamp": "2026-04-30T00:44:45.235541"
 }

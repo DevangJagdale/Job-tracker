@@ -4,6 +4,11 @@
   "total_jobs": 10,
   "jobs": [
     {
+      "title": "Manufacturing Engineer - ID1 CMP\nBoise, Idaho, United States of America\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/41720174",
+      "identifier": "Manufacturing Engineer - ID1 CMP\nBoise, Idaho, Uni_icron.com/careers/job/41720174"
+    },
+    {
       "title": "Product Development Engineer 3\nBoise, Idaho, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/41730573",
       "identifier": "Product Development Engineer 3\nBoise, Idaho, Unite_icron.com/careers/job/41730573"
@@ -29,11 +34,6 @@
       "identifier": "R & D Electrical Device Characterization Engineer\n_icron.com/careers/job/41749393"
     },
     {
-      "title": "Manufacturing Engineer - ID1 CMP\nBoise, Idaho, United States of America\nPosted a day ago",
-      "url": "https://careers.micron.com/careers/job/41720174",
-      "identifier": "Manufacturing Engineer - ID1 CMP\nBoise, Idaho, Uni_icron.com/careers/job/41720174"
-    },
-    {
       "title": "New College Grad - Metrology Applications Engineer\nManassas, Virginia, United States of America\nPosted 2 days ago",
       "url": "https://careers.micron.com/careers/job/40100239",
       "identifier": "New College Grad - Metrology Applications Engineer_icron.com/careers/job/40100239"
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "79",
-  "timestamp": "2026-04-30T00:30:48.518177"
+  "timestamp": "2026-04-30T00:47:57.984101"
 }

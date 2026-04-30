@@ -99,11 +99,6 @@
       "identifier": "jpmc_210721719"
     },
     {
-      "title": "DevOps Terraform Software Engineer III",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210722260/?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
-      "identifier": "jpmc_210722260"
-    },
-    {
       "title": "Senior Lead Site Reliability Engineer-Core Engineering Solutions",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210733758/?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
       "identifier": "jpmc_210733758"
@@ -127,8 +122,13 @@
       "title": "Lead Android Software Engineer - Kotlin / Java",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210735188/?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
       "identifier": "jpmc_210735188"
+    },
+    {
+      "title": "Manager of Software Engineering - Full Stack",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210735261/?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
+      "identifier": "jpmc_210735261"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-30T18:21:17.831755"
+  "timestamp": "2026-04-30T18:38:34.275609"
 }

@@ -4,7 +4,12 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Senior Software Engineer\nUnited States, Washington, Redmond + 1 more\nPosted 15 minutes ago",
+      "title": "Software Engineering, Bing Ads\nUnited States, Washington, Redmond\nPosted 6 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556862751?domain=microsoft.com",
+      "identifier": "Software Engineering, Bing Ads\nUnited States, Wash_556862751?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Software Engineer\nUnited States, Washington, Redmond + 1 more\nPosted 32 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556861700?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Washington_556861700?domain=microsoft.com"
     },
@@ -19,7 +24,7 @@
       "identifier": "Software Engineer\nUnited States, Washington, Redmo_556856046?domain=microsoft.com"
     },
     {
-      "title": "Principal Site Reliability Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted an hour ago",
+      "title": "Principal Site Reliability Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556823642?domain=microsoft.com",
       "identifier": "Principal Site Reliability Engineer\nUnited States,_556823642?domain=microsoft.com"
     },
@@ -47,13 +52,8 @@
       "title": "Senior Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 5 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556852742?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Multiple L_556852742?domain=microsoft.com"
-    },
-    {
-      "title": "Principal Applied Scientist\nUnited States, Washington, Redmond + 1 more\nPosted 6 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556638046?domain=microsoft.com",
-      "identifier": "Principal Applied Scientist\nUnited States, Washing_556638046?domain=microsoft.com"
     }
   ],
-  "job_count_text": "586",
-  "timestamp": "2026-04-30T20:27:11.148824"
+  "job_count_text": "587",
+  "timestamp": "2026-04-30T20:44:37.246536"
 }

@@ -4,6 +4,11 @@
   "total_jobs": 8,
   "jobs": [
     {
+      "title": "Manager - Scrum Master",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0893092/Manager-Scrum-Master",
+      "identifier": "Manager - Scrum Master_/R0893092/Manager-Scrum-Master"
+    },
+    {
       "title": "Staff Salesforce Engineer",
       "url": "https://jobs.cvshealth.com/us/en/job/R0848229/Staff-Salesforce-Engineer",
       "identifier": "Staff Salesforce Engineer_8229/Staff-Salesforce-Engineer"
@@ -12,11 +17,6 @@
       "title": "Senior Manager, Salesforce Software Development Engineering",
       "url": "https://jobs.cvshealth.com/us/en/job/R0851252/Senior-Manager-Salesforce-Software-Development-Engineering",
       "identifier": "Senior Manager, Salesforce Software Development En_ftware-Development-Engineering"
-    },
-    {
-      "title": "Manager - Scrum Master",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0893092/Manager-Scrum-Master",
-      "identifier": "Manager - Scrum Master_/R0893092/Manager-Scrum-Master"
     },
     {
       "title": "Lead Director - Software Development Engineering (Network Services)",
@@ -44,6 +44,6 @@
       "identifier": "Senior Engineering Manager_251/Senior-Engineering-Manager"
     }
   ],
-  "job_count_text": "48",
-  "timestamp": "2026-04-30T20:28:30.104974"
+  "job_count_text": "49",
+  "timestamp": "2026-04-30T20:45:55.046438"
 }

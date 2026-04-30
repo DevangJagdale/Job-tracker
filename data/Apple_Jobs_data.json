@@ -4,6 +4,21 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Technical Program Manager",
+      "url": "https://jobs.apple.com/en-us/details/200660901-0836/technical-program-manager?team=SFTWR",
+      "identifier": "Technical Program Manager_cal-program-manager?team=SFTWR"
+    },
+    {
+      "title": "Compute SRE",
+      "url": "https://jobs.apple.com/en-us/details/200634911-0836/compute-sre?team=SFTWR",
+      "identifier": "Compute SRE_11-0836/compute-sre?team=SFTWR"
+    },
+    {
+      "title": "Sr. Machine Learning Solutions Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200646848-0836/sr-machine-learning-solutions-engineer?team=SFTWR",
+      "identifier": "Sr. Machine Learning Solutions Engineer_-solutions-engineer?team=SFTWR"
+    },
+    {
       "title": "Wi-Fi Software Engineer, Wireless Technologies & Ecosystems",
       "url": "https://jobs.apple.com/en-us/details/200640036-0836/wi-fi-software-engineer-wireless-technologies-ecosystems?team=SFTWR",
       "identifier": "Wi-Fi Software Engineer, Wireless Technologies & E_nologies-ecosystems?team=SFTWR"
@@ -67,23 +82,8 @@
       "title": "Senior Computer Vision Machine Learning Engineer, Apple Wallet",
       "url": "https://jobs.apple.com/en-us/details/200630530-0157/senior-computer-vision-machine-learning-engineer-apple-wallet?team=MLAI",
       "identifier": "Senior Computer Vision Machine Learning Engineer, _ngineer-apple-wallet?team=MLAI"
-    },
-    {
-      "title": "Senior Product Manager, Find My",
-      "url": "https://jobs.apple.com/en-us/details/200660914-0836/senior-product-manager-find-my?team=SFTWR",
-      "identifier": "Senior Product Manager, Find My_uct-manager-find-my?team=SFTWR"
-    },
-    {
-      "title": "Engineering Project Manager - AI Features Internationalization, L&RE",
-      "url": "https://jobs.apple.com/en-us/details/200660570-0836/engineering-project-manager-ai-features-internationalization-l-re?team=SFTWR",
-      "identifier": "Engineering Project Manager - AI Features Internat_ationalization-l-re?team=SFTWR"
-    },
-    {
-      "title": "Software Development Engineer - Applications",
-      "url": "https://jobs.apple.com/en-us/details/200659550-0836/software-development-engineer-applications?team=SFTWR",
-      "identifier": "Software Development Engineer - Applications_gineer-applications?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-30T20:44:53.414633"
+  "timestamp": "2026-04-30T21:02:01.822211"
 }

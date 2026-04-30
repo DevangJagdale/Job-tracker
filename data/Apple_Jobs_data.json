@@ -4,6 +4,16 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Engineering Project Manager - AI Features Internationalization, L&RE",
+      "url": "https://jobs.apple.com/en-us/details/200660570-0836/engineering-project-manager-ai-features-internationalization-l-re?team=SFTWR",
+      "identifier": "Engineering Project Manager - AI Features Internat_ationalization-l-re?team=SFTWR"
+    },
+    {
+      "title": "Senior Infrastructure Engineer - Special Projects",
+      "url": "https://jobs.apple.com/en-us/details/200660601-0836/senior-infrastructure-engineer-special-projects?team=SFTWR",
+      "identifier": "Senior Infrastructure Engineer - Special Projects_er-special-projects?team=SFTWR"
+    },
+    {
       "title": "Software Development Engineer - Applications",
       "url": "https://jobs.apple.com/en-us/details/200659550-0836/software-development-engineer-applications?team=SFTWR",
       "identifier": "Software Development Engineer - Applications_gineer-applications?team=SFTWR"
@@ -72,18 +82,8 @@
       "title": "Human Interface Designer",
       "url": "https://jobs.apple.com/en-us/details/200659691-0836/human-interface-designer?team=SFTWR",
       "identifier": "Human Interface Designer_-interface-designer?team=SFTWR"
-    },
-    {
-      "title": "Data Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200659670-0836/data-engineer?team=SFTWR",
-      "identifier": "Data Engineer_-0836/data-engineer?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer - Applications",
-      "url": "https://jobs.apple.com/en-us/details/200659680-3337/software-engineer-applications?team=SFTWR",
-      "identifier": "Software Engineer - Applications_gineer-applications?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-30T16:18:32.795998"
+  "timestamp": "2026-04-30T16:35:49.257566"
 }

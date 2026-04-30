@@ -1,8 +1,58 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 16,
+  "total_jobs": 15,
   "jobs": [
+    {
+      "title": "Cloud Infrastructure Engineer - Systems",
+      "url": "https://jobs.apple.com/en-us/details/200633405-3337/cloud-infrastructure-engineer-systems?team=SFTWR",
+      "identifier": "Cloud Infrastructure Engineer - Systems_re-engineer-systems?team=SFTWR"
+    },
+    {
+      "title": "Software Development Engineer - Systems",
+      "url": "https://jobs.apple.com/en-us/details/200659703-1242/software-development-engineer-systems?team=SFTWR",
+      "identifier": "Software Development Engineer - Systems_nt-engineer-systems?team=SFTWR"
+    },
+    {
+      "title": "Software Engineer- Systems",
+      "url": "https://jobs.apple.com/en-us/details/200659690-3543/software-engineer-systems?team=SFTWR",
+      "identifier": "Software Engineer- Systems_re-engineer-systems?team=SFTWR"
+    },
+    {
+      "title": "Human Interface Designer",
+      "url": "https://jobs.apple.com/en-us/details/200659691-0836/human-interface-designer?team=SFTWR",
+      "identifier": "Human Interface Designer_-interface-designer?team=SFTWR"
+    },
+    {
+      "title": "Data Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200659670-0836/data-engineer?team=SFTWR",
+      "identifier": "Data Engineer_-0836/data-engineer?team=SFTWR"
+    },
+    {
+      "title": "Software Engineer - Applications",
+      "url": "https://jobs.apple.com/en-us/details/200659680-3337/software-engineer-applications?team=SFTWR",
+      "identifier": "Software Engineer - Applications_gineer-applications?team=SFTWR"
+    },
+    {
+      "title": "Software Development Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200660547-0836/software-development-engineer?team=SFTWR",
+      "identifier": "Software Development Engineer_evelopment-engineer?team=SFTWR"
+    },
+    {
+      "title": "Software Development Engineer Systems",
+      "url": "https://jobs.apple.com/en-us/details/200659761-0836/software-development-engineer-systems?team=SFTWR",
+      "identifier": "Software Development Engineer Systems_nt-engineer-systems?team=SFTWR"
+    },
+    {
+      "title": "CloudKit Client Software Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200659734-3543/cloudkit-client-software-engineer?team=SFTWR",
+      "identifier": "CloudKit Client Software Engineer_t-software-engineer?team=SFTWR"
+    },
+    {
+      "title": "Tools and Automation Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200659731-0836/tools-and-automation-engineer?team=SFTWR",
+      "identifier": "Tools and Automation Engineer_automation-engineer?team=SFTWR"
+    },
     {
       "title": "Video Content Data Scientist",
       "url": "https://jobs.apple.com/en-us/details/200656393-0670/video-content-data-scientist?team=SFTWR",
@@ -27,63 +77,8 @@
       "title": "Software Engineer, G&A Solutions Engineering (GSE)",
       "url": "https://jobs.apple.com/en-us/details/200655905-0157/software-engineer-g-a-solutions-engineering-gse?team=SFTWR",
       "identifier": "Software Engineer, G&A Solutions Engineering (GSE)_ons-engineering-gse?team=SFTWR"
-    },
-    {
-      "title": "CloudKit Client Software Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200653933-3577/cloudkit-client-software-engineer?team=SFTWR",
-      "identifier": "CloudKit Client Software Engineer_t-software-engineer?team=SFTWR"
-    },
-    {
-      "title": "Staff AI Software Engineer, Siri Core Modeling",
-      "url": "https://jobs.apple.com/en-us/details/200660799-0836/staff-ai-software-engineer-siri-core-modeling?team=SFTWR",
-      "identifier": "Staff AI Software Engineer, Siri Core Modeling_-siri-core-modeling?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer - Early Career (Front-end)",
-      "url": "https://jobs.apple.com/en-us/details/200660851-0157/software-engineer-early-career-front-end?team=SFTWR",
-      "identifier": "Software Engineer - Early Career (Front-end)_ly-career-front-end?team=SFTWR"
-    },
-    {
-      "title": "Lead Big Data Engineer - Wallet, Payments & Commerce",
-      "url": "https://jobs.apple.com/en-us/details/200623550-0157/lead-big-data-engineer-wallet-payments-commerce?team=SFTWR",
-      "identifier": "Lead Big Data Engineer - Wallet, Payments & Commer_t-payments-commerce?team=SFTWR"
-    },
-    {
-      "title": "Localization Manager - Print Documentation, Localization & Release Engineering",
-      "url": "https://jobs.apple.com/en-us/details/200660573-3543/localization-manager-print-documentation-localization-release-engineering?team=SFTWR",
-      "identifier": "Localization Manager - Print Documentation, Locali_release-engineering?team=SFTWR"
-    },
-    {
-      "title": "Senior Global Pricing Strategy Lead - Services",
-      "url": "https://jobs.apple.com/en-us/details/200660774-0836/senior-global-pricing-strategy-lead-services?team=SFTWR",
-      "identifier": "Senior Global Pricing Strategy Lead - Services_ategy-lead-services?team=SFTWR"
-    },
-    {
-      "title": "Continuous Integration Software Engineer, Audio & Media Technologies",
-      "url": "https://jobs.apple.com/en-us/details/200634333-3543/continuous-integration-software-engineer-audio-media-technologies?team=SFTWR",
-      "identifier": "Continuous Integration Software Engineer, Audio & _-media-technologies?team=SFTWR"
-    },
-    {
-      "title": "Senior Backend Software Engineer, Platform Engineering, Services Data Science & Analytics",
-      "url": "https://jobs.apple.com/en-us/details/200657706-0157/senior-backend-software-engineer-platform-engineering-services-data-science-analytics?team=SFTWR",
-      "identifier": "Senior Backend Software Engineer, Platform Enginee_a-science-analytics?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer - Visual Intelligence, System Experience",
-      "url": "https://jobs.apple.com/en-us/details/200604470-3337/software-engineer-visual-intelligence-system-experience?team=SFTWR",
-      "identifier": "Software Engineer - Visual Intelligence, System Ex_e-system-experience?team=SFTWR"
-    },
-    {
-      "title": "Machine Learning Engineer- Gen AI",
-      "url": "https://jobs.apple.com/en-us/details/200656735-3543/machine-learning-engineer-gen-ai?team=OPMFG",
-      "identifier": "Machine Learning Engineer- Gen AI_ing-engineer-gen-ai?team=OPMFG"
-    },
-    {
-      "title": "Quality Automation Engineer - App Store QA",
-      "url": "https://jobs.apple.com/en-us/details/200660657-3337/quality-automation-engineer-app-store-qa?team=SFTWR",
-      "identifier": "Quality Automation Engineer - App Store QA_gineer-app-store-qa?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-30T15:26:45.860062"
+  "timestamp": "2026-04-30T15:44:06.787487"
 }

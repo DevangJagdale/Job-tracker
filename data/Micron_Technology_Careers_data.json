@@ -4,16 +4,6 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Product Development Engineer 3\nBoise, Idaho, United States of America\nPosted a day ago",
-      "url": "https://careers.micron.com/careers/job/41730573",
-      "identifier": "Product Development Engineer 3\nBoise, Idaho, Unite_icron.com/careers/job/41730573"
-    },
-    {
-      "title": "R & D Electrical Device Characterization Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
-      "url": "https://careers.micron.com/careers/job/41749393",
-      "identifier": "R & D Electrical Device Characterization Engineer\n_icron.com/careers/job/41749393"
-    },
-    {
       "title": "Manufacturing Engineer - ID1 CMP\nBoise, Idaho, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/41720174",
       "identifier": "Manufacturing Engineer - ID1 CMP\nBoise, Idaho, Uni_icron.com/careers/job/41720174"
@@ -32,6 +22,16 @@
       "title": "Semiconductor Design Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/41749340",
       "identifier": "Semiconductor Design Engineer\nBoise, Idaho, United_icron.com/careers/job/41749340"
+    },
+    {
+      "title": "Product Development Engineer 3\nBoise, Idaho, United States of America\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/41730573",
+      "identifier": "Product Development Engineer 3\nBoise, Idaho, Unite_icron.com/careers/job/41730573"
+    },
+    {
+      "title": "R & D Electrical Device Characterization Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/41749393",
+      "identifier": "R & D Electrical Device Characterization Engineer\n_icron.com/careers/job/41749393"
     },
     {
       "title": "New College Grad - Metrology Applications Engineer\nManassas, Virginia, United States of America\nPosted 2 days ago",
@@ -54,6 +54,6 @@
       "identifier": "Operation Improvement Engineer\nBoise, Idaho, Unite_icron.com/careers/job/41691274"
     }
   ],
-  "job_count_text": "78",
-  "timestamp": "2026-04-30T02:55:30.234040"
+  "job_count_text": "79",
+  "timestamp": "2026-04-30T03:12:41.053831"
 }

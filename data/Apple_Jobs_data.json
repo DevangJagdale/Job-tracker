@@ -4,6 +4,11 @@
   "total_jobs": 18,
   "jobs": [
     {
+      "title": "Technical Product Manager - Services Pricing Platform",
+      "url": "https://jobs.apple.com/en-us/details/200660835-0836/technical-product-manager-services-pricing-platform?team=SFTWR",
+      "identifier": "Technical Product Manager - Services Pricing Platf_es-pricing-platform?team=SFTWR"
+    },
+    {
       "title": "Financial Analyst",
       "url": "https://jobs.apple.com/en-us/details/200659748-0836/financial-analyst?team=OPMFG",
       "identifier": "Financial Analyst_6/financial-analyst?team=OPMFG"
@@ -87,13 +92,8 @@
       "title": "Software Development Engineer - Test",
       "url": "https://jobs.apple.com/en-us/details/200659664-0836/software-development-engineer-test?team=SFTWR",
       "identifier": "Software Development Engineer - Test_pment-engineer-test?team=SFTWR"
-    },
-    {
-      "title": "Product Design Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200659655-2459/product-design-engineer?team=SFTWR",
-      "identifier": "Product Design Engineer_uct-design-engineer?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-30T17:27:24.039708"
+  "timestamp": "2026-04-30T17:44:42.103474"
 }

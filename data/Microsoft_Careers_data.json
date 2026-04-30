@@ -1,10 +1,40 @@
 {
   "page_title": "| Microsoft Careers",
   "url": "https://apply.careers.microsoft.com/careers?domain=microsoft.com&start=0&location=United+States&sort_by=timestamp&filter_include_remote=1&filter_profession=software+engineering%2Cresearch%252C%2520applied%252C%2520%2526%2520data%2520sciences",
-  "total_jobs": 9,
+  "total_jobs": 10,
   "jobs": [
     {
-      "title": "Parent | Sr. Software Engineer - Azure Storage\nUnited States, Multiple Locations, Multiple Locations\nPosted 20 minutes ago",
+      "title": "Senior Software Engineer - CoreAI\nUnited States, Washington, Redmond\nPosted 25 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556620361?domain=microsoft.com",
+      "identifier": "Senior Software Engineer - CoreAI\nUnited States, W_556620361?domain=microsoft.com"
+    },
+    {
+      "title": "Software Engineer II - CoreAI\nUnited States, Washington, Redmond\nPosted 25 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556637527?domain=microsoft.com",
+      "identifier": "Software Engineer II - CoreAI\nUnited States, Washi_556637527?domain=microsoft.com"
+    },
+    {
+      "title": "Software Engineer II - CoreAI\nUnited States, Washington, Redmond\nPosted 24 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556638528?domain=microsoft.com",
+      "identifier": "Software Engineer II - CoreAI\nUnited States, Washi_556638528?domain=microsoft.com"
+    },
+    {
+      "title": "Software Engineer II - CoreAI\nUnited States, Washington, Redmond\nPosted 24 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556657543?domain=microsoft.com",
+      "identifier": "Software Engineer II - CoreAI\nUnited States, Washi_556657543?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Software Engineer - CoreAI\nUnited States, Washington, Redmond\nPosted 24 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556778473?domain=microsoft.com",
+      "identifier": "Senior Software Engineer - CoreAI\nUnited States, W_556778473?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Applied Scientist - CoreAI\nUnited States, Washington, Redmond + 2 more\nPosted 25 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556857534?domain=microsoft.com",
+      "identifier": "Senior Applied Scientist - CoreAI\nUnited States, W_556857534?domain=microsoft.com"
+    },
+    {
+      "title": "Parent | Sr. Software Engineer - Azure Storage\nUnited States, Multiple Locations, Multiple Locations\nPosted 37 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556849539?domain=microsoft.com",
       "identifier": "Parent | Sr. Software Engineer - Azure Storage\nUni_556849539?domain=microsoft.com"
     },
@@ -14,41 +44,16 @@
       "identifier": "Senior Software Engineer - Azure Translator & Lang_556860033?domain=microsoft.com"
     },
     {
-      "title": "Senior Data Scientist\nUnited States, Washington, Redmond\nPosted 14 hours ago",
+      "title": "Senior Data Scientist\nUnited States, Washington, Redmond\nPosted 15 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556843602?domain=microsoft.com",
       "identifier": "Senior Data Scientist\nUnited States, Washington, R_556843602?domain=microsoft.com"
     },
     {
-      "title": "Member of Technical Staff, Engineering Manager - Copilot Applications\nUnited States, California, Mountain View\nPosted 14 hours ago",
+      "title": "Member of Technical Staff, Engineering Manager - Copilot Applications\nUnited States, California, Mountain View\nPosted 15 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556862989?domain=microsoft.com",
       "identifier": "Member of Technical Staff, Engineering Manager - C_556862989?domain=microsoft.com"
-    },
-    {
-      "title": "Principal Group Engineering Manager - FastTrack\nUnited States, Washington, Redmond\nPosted 14 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556860225?domain=microsoft.com",
-      "identifier": "Principal Group Engineering Manager - FastTrack\nUn_556860225?domain=microsoft.com"
-    },
-    {
-      "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted 15 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556824242?domain=microsoft.com",
-      "identifier": "Principal Software Engineer\nUnited States, Washing_556824242?domain=microsoft.com"
-    },
-    {
-      "title": "Software Engineering, CoreAI\nUnited States, Washington, Redmond + 1 more\nPosted 15 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556861699?domain=microsoft.com",
-      "identifier": "Software Engineering, CoreAI\nUnited States, Washin_556861699?domain=microsoft.com"
-    },
-    {
-      "title": "Principal Applied Scientist\nUnited States, Washington, Redmond\nPosted 16 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556861123?domain=microsoft.com",
-      "identifier": "Principal Applied Scientist\nUnited States, Washing_556861123?domain=microsoft.com"
-    },
-    {
-      "title": "Software Engineer AI Data Platform - CoreAI\nUnited States, Washington, Redmond\nPosted 16 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556861742?domain=microsoft.com",
-      "identifier": "Software Engineer AI Data Platform - CoreAI\nUnited_556861742?domain=microsoft.com"
     }
   ],
-  "job_count_text": "571",
-  "timestamp": "2026-04-30T13:42:57.988389"
+  "job_count_text": "577",
+  "timestamp": "2026-04-30T14:00:16.904248"
 }

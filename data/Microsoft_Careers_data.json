@@ -4,6 +4,16 @@
   "total_jobs": 10,
   "jobs": [
     {
+      "title": "Principal Applied Scientist\nUnited States, Washington, Redmond + 1 more\nPosted 16 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556638046?domain=microsoft.com",
+      "identifier": "Principal Applied Scientist\nUnited States, Washing_556638046?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Applied Scientist - CoreAI\nUnited States, Washington, Redmond + 2 more\nPosted an hour ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556857534?domain=microsoft.com",
+      "identifier": "Senior Applied Scientist - CoreAI\nUnited States, W_556857534?domain=microsoft.com"
+    },
+    {
       "title": "Senior Software Engineer - CoreAI\nUnited States, Washington, Redmond\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556620361?domain=microsoft.com",
       "identifier": "Senior Software Engineer - CoreAI\nUnited States, W_556620361?domain=microsoft.com"
@@ -29,11 +39,6 @@
       "identifier": "Software Engineer II - CoreAI\nUnited States, Washi_556637527?domain=microsoft.com"
     },
     {
-      "title": "Senior Applied Scientist - CoreAI\nUnited States, Washington, Redmond + 2 more\nPosted an hour ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556857534?domain=microsoft.com",
-      "identifier": "Senior Applied Scientist - CoreAI\nUnited States, W_556857534?domain=microsoft.com"
-    },
-    {
       "title": "Parent | Sr. Software Engineer - Azure Storage\nUnited States, Multiple Locations, Multiple Locations\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556849539?domain=microsoft.com",
       "identifier": "Parent | Sr. Software Engineer - Azure Storage\nUni_556849539?domain=microsoft.com"
@@ -47,13 +52,8 @@
       "title": "Senior Data Scientist\nUnited States, Washington, Redmond\nPosted 15 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556843602?domain=microsoft.com",
       "identifier": "Senior Data Scientist\nUnited States, Washington, R_556843602?domain=microsoft.com"
-    },
-    {
-      "title": "Member of Technical Staff, Engineering Manager - Copilot Applications\nUnited States, California, Mountain View\nPosted 15 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556862989?domain=microsoft.com",
-      "identifier": "Member of Technical Staff, Engineering Manager - C_556862989?domain=microsoft.com"
     }
   ],
   "job_count_text": "577",
-  "timestamp": "2026-04-30T14:34:44.037322"
+  "timestamp": "2026-04-30T14:52:00.618461"
 }

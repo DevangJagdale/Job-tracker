@@ -4,6 +4,11 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Video Content Data Scientist",
+      "url": "https://jobs.apple.com/en-us/details/200656393-0670/video-content-data-scientist?team=SFTWR",
+      "identifier": "Video Content Data Scientist_tent-data-scientist?team=SFTWR"
+    },
+    {
       "title": "Platform Software Engineer, Infrastructure Services",
       "url": "https://jobs.apple.com/en-us/details/200658896-3956/platform-software-engineer-infrastructure-services?team=SFTWR",
       "identifier": "Platform Software Engineer, Infrastructure Service_astructure-services?team=SFTWR"
@@ -77,13 +82,8 @@
       "title": "Quality Automation Engineer - App Store QA",
       "url": "https://jobs.apple.com/en-us/details/200660657-3337/quality-automation-engineer-app-store-qa?team=SFTWR",
       "identifier": "Quality Automation Engineer - App Store QA_gineer-app-store-qa?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer - App Store Discovery",
-      "url": "https://jobs.apple.com/en-us/details/200660654-3577/software-engineer-app-store-discovery?team=SFTWR",
-      "identifier": "Software Engineer - App Store Discovery_app-store-discovery?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-30T14:52:16.899916"
+  "timestamp": "2026-04-30T15:09:31.772749"
 }

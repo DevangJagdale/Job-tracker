@@ -1,8 +1,13 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 15,
+  "total_jobs": 16,
   "jobs": [
+    {
+      "title": "Remote Site Services Data Center Manager, Infrastructure Services",
+      "url": "https://jobs.apple.com/en-us/details/200642872-1902/remote-site-services-data-center-manager-infrastructure-services?team=SFTWR",
+      "identifier": "Remote Site Services Data Center Manager, Infrastr_astructure-services?team=SFTWR"
+    },
     {
       "title": "Technical Product Manager - Services Pricing Platform",
       "url": "https://jobs.apple.com/en-us/details/200660835-0836/technical-product-manager-services-pricing-platform?team=SFTWR",
@@ -80,5 +85,5 @@
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-30T18:01:51.727002"
+  "timestamp": "2026-04-30T18:19:17.737078"
 }

@@ -4,6 +4,11 @@
   "total_jobs": 20,
   "jobs": [
     {
+      "title": "AWM, Marcus by Goldman Sachs, Pricing & Analytics, Analyst, Richardson, TX\nRichardson\u00b7United States\n\u00b7Analyst",
+      "url": "https://higher.gs.com/roles/151793",
+      "identifier": "AWM, Marcus by Goldman Sachs, Pricing & Analytics,_s://higher.gs.com/roles/151793"
+    },
+    {
       "title": "Asset & Wealth Management - Software Engineer - Associate - Salt Lake City\nSalt Lake City\u00b7United States\n\u00b7Associate",
       "url": "https://higher.gs.com/roles/159035",
       "identifier": "Asset & Wealth Management - Software Engineer - As_s://higher.gs.com/roles/159035"
@@ -89,11 +94,6 @@
       "identifier": "Asset & Wealth Management-Cloud SRE Engineer-Assoc_s://higher.gs.com/roles/168763"
     },
     {
-      "title": "AWM, Marcus by Goldman Sachs, Pricing & Analytics, Analyst, Richardson, TX\nRichardson\u00b7United States\n\u00b7Analyst",
-      "url": "https://higher.gs.com/roles/151793",
-      "identifier": "AWM, Marcus by Goldman Sachs, Pricing & Analytics,_s://higher.gs.com/roles/151793"
-    },
-    {
       "title": "AI/ML Engineer, Global Banking & Markets, Investment Banking\nDallas\u00b7United States\n\u00b7Associate",
       "url": "https://higher.gs.com/roles/161628",
       "identifier": "AI/ML Engineer, Global Banking & Markets, Investme_s://higher.gs.com/roles/161628"
@@ -104,6 +104,6 @@
       "identifier": "Asset & Wealth Management-QA Automation Engineer-A_s://higher.gs.com/roles/159041"
     }
   ],
-  "job_count_text": "53",
-  "timestamp": "2026-04-30T16:52:13.912057"
+  "job_count_text": "52",
+  "timestamp": "2026-04-30T17:09:25.370049"
 }

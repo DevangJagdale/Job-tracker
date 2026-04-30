@@ -4,6 +4,16 @@
   "total_jobs": 15,
   "jobs": [
     {
+      "title": "Software Engineer - Compute",
+      "url": "https://jobs.apple.com/en-us/details/200634911-0836/software-engineer-compute?team=SFTWR",
+      "identifier": "Software Engineer - Compute_re-engineer-compute?team=SFTWR"
+    },
+    {
+      "title": "DevOps Engineer, G&A Solutions Engineering (GSE)",
+      "url": "https://jobs.apple.com/en-us/details/200655905-0157/devops-engineer-g-a-solutions-engineering-gse?team=SFTWR",
+      "identifier": "DevOps Engineer, G&A Solutions Engineering (GSE)_ons-engineering-gse?team=SFTWR"
+    },
+    {
       "title": "CloudKit Client Software Engineer",
       "url": "https://jobs.apple.com/en-us/details/200653933-3577/cloudkit-client-software-engineer?team=SFTWR",
       "identifier": "CloudKit Client Software Engineer_t-software-engineer?team=SFTWR"
@@ -67,18 +77,8 @@
       "title": "Tech Lead Machine Learning Engineer - Finance",
       "url": "https://jobs.apple.com/en-us/details/200645666-0157/tech-lead-machine-learning-engineer-finance?team=OPMFG",
       "identifier": "Tech Lead Machine Learning Engineer - Finance_ng-engineer-finance?team=OPMFG"
-    },
-    {
-      "title": "Senior Software Release Engineer, Private Cloud Computing",
-      "url": "https://jobs.apple.com/en-us/details/200660641-3337/senior-software-release-engineer-private-cloud-computing?team=SFTWR",
-      "identifier": "Senior Software Release Engineer, Private Cloud Co_ate-cloud-computing?team=SFTWR"
-    },
-    {
-      "title": "Senior Engineering Program Manager - AdDelivery, Apple Ads",
-      "url": "https://jobs.apple.com/en-us/details/200660750-0836/senior-engineering-program-manager-addelivery-apple-ads?team=SFTWR",
-      "identifier": "Senior Engineering Program Manager - AdDelivery, A_ddelivery-apple-ads?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-04-30T00:10:27.362513"
+  "timestamp": "2026-04-30T00:27:33.301098"
 }

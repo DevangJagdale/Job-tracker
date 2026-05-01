@@ -4,6 +4,11 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Software Development Engineer - Data, MLO",
+      "url": "https://jobs.apple.com/en-us/details/200660708-0836/software-development-engineer-data-mlo?team=SFTWR",
+      "identifier": "Software Development Engineer - Data, MLO_t-engineer-data-mlo?team=SFTWR"
+    },
+    {
       "title": "Critical Facilities Technician, Data Center Operations",
       "url": "https://jobs.apple.com/en-us/details/200658730-1902/critical-facilities-technician-data-center-operations?team=SFTWR",
       "identifier": "Critical Facilities Technician, Data Center Operat_a-center-operations?team=SFTWR"
@@ -77,13 +82,8 @@
       "title": "Remote Site Services Data Center Manager, Infrastructure Services",
       "url": "https://jobs.apple.com/en-us/details/200642872-1902/remote-site-services-data-center-manager-infrastructure-services?team=SFTWR",
       "identifier": "Remote Site Services Data Center Manager, Infrastr_astructure-services?team=SFTWR"
-    },
-    {
-      "title": "Technical Product Manager - Services Pricing Platform",
-      "url": "https://jobs.apple.com/en-us/details/200660835-0836/technical-product-manager-services-pricing-platform?team=SFTWR",
-      "identifier": "Technical Product Manager - Services Pricing Platf_es-pricing-platform?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-01T14:26:08.079366"
+  "timestamp": "2026-05-01T14:43:19.633207"
 }

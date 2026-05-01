@@ -4,12 +4,17 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Software Engineer II - Windows Debugging\nUnited States, Washington, Redmond + 2 more\nPosted 44 minutes ago",
+      "title": "Principal Engineer - Identity Services\nUnited States, Washington, Redmond\nPosted 19 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556852373?domain=microsoft.com",
+      "identifier": "Principal Engineer - Identity Services\nUnited Stat_556852373?domain=microsoft.com"
+    },
+    {
+      "title": "Software Engineer II - Windows Debugging\nUnited States, Washington, Redmond + 2 more\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556862918?domain=microsoft.com",
       "identifier": "Software Engineer II - Windows Debugging\nUnited St_556862918?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer - AI Frameworks\nUnited States, Washington, Redmond\nPosted an hour ago",
+      "title": "Senior Software Engineer - AI Frameworks\nUnited States, Washington, Redmond\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556852816?domain=microsoft.com",
       "identifier": "Senior Software Engineer - AI Frameworks\nUnited St_556852816?domain=microsoft.com"
     },
@@ -47,13 +52,8 @@
       "title": "Principal Silicon Performance Architect\nUnited States, Washington, Redmond + 1 more\nPosted 21 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556860661?domain=microsoft.com",
       "identifier": "Principal Silicon Performance Architect\nUnited Sta_556860661?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 21 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556668274?domain=microsoft.com",
-      "identifier": "Senior Software Engineer\nUnited States, Washington_556668274?domain=microsoft.com"
     }
   ],
-  "job_count_text": "576",
-  "timestamp": "2026-05-01T18:16:34.881481"
+  "job_count_text": "577",
+  "timestamp": "2026-05-01T18:33:44.117904"
 }

@@ -4,6 +4,16 @@
   "total_jobs": 20,
   "jobs": [
     {
+      "title": "Asset & Wealth Management-Cloud Engineer-Analyst-Dallas\nDallas\u00b7United States\n\u00b7Analyst",
+      "url": "https://higher.gs.com/roles/168769",
+      "identifier": "Asset & Wealth Management-Cloud Engineer-Analyst-D_s://higher.gs.com/roles/168769"
+    },
+    {
+      "title": "Asset & Wealth Management - Software Engineer - Analyst - New York\nNew York\u00b7United States\n\u00b7Analyst",
+      "url": "https://higher.gs.com/roles/166075",
+      "identifier": "Asset & Wealth Management - Software Engineer - An_s://higher.gs.com/roles/166075"
+    },
+    {
       "title": "AWM, Marcus by Goldman Sachs, Pricing & Analytics, Analyst, Richardson, TX\nRichardson\u00b7United States\n\u00b7Analyst",
       "url": "https://higher.gs.com/roles/151793",
       "identifier": "AWM, Marcus by Goldman Sachs, Pricing & Analytics,_s://higher.gs.com/roles/151793"
@@ -84,11 +94,6 @@
       "identifier": "Asset & Wealth Management-Cloud Engineer-Associate_s://higher.gs.com/roles/167471"
     },
     {
-      "title": "Asset & Wealth Management-Cloud Engineer-Analyst-Dallas\nDallas\u00b7United States\n\u00b7Analyst",
-      "url": "https://higher.gs.com/roles/168769",
-      "identifier": "Asset & Wealth Management-Cloud Engineer-Analyst-D_s://higher.gs.com/roles/168769"
-    },
-    {
       "title": "Asset & Wealth Management-Cloud SRE Engineer-Associate-Dallas\nDallas\u00b7United States\n\u00b7Associate",
       "url": "https://higher.gs.com/roles/168763",
       "identifier": "Asset & Wealth Management-Cloud SRE Engineer-Assoc_s://higher.gs.com/roles/168763"
@@ -97,13 +102,8 @@
       "title": "AI/ML Engineer, Global Banking & Markets, Investment Banking\nDallas\u00b7United States\n\u00b7Associate",
       "url": "https://higher.gs.com/roles/161628",
       "identifier": "AI/ML Engineer, Global Banking & Markets, Investme_s://higher.gs.com/roles/161628"
-    },
-    {
-      "title": "Asset & Wealth Management-QA Automation Engineer-Associate-Dallas\nDallas\u00b7United States\n\u00b7Associate",
-      "url": "https://higher.gs.com/roles/159041",
-      "identifier": "Asset & Wealth Management-QA Automation Engineer-A_s://higher.gs.com/roles/159041"
     }
   ],
   "job_count_text": "52",
-  "timestamp": "2026-05-01T12:59:37.187360"
+  "timestamp": "2026-05-01T13:16:50.234553"
 }

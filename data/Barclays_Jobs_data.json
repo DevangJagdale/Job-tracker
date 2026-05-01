@@ -4,6 +4,11 @@
   "total_jobs": 14,
   "jobs": [
     {
+      "title": "CFO Business Partnering & Controls AVP",
+      "url": "https://search.jobs.barclays/job/new-york/cfo-business-partnering-and-controls-avp/13015/94599747520",
+      "identifier": "CFO Business Partnering & Controls AVP_controls-avp/13015/94599747520"
+    },
+    {
       "title": "Assistant VP, Electronic Product Manager",
       "url": "https://search.jobs.barclays/job/new-york/assistant-vp-electronic-product-manager/13015/94574368784",
       "identifier": "Assistant VP, Electronic Product Manager_duct-manager/13015/94574368784"
@@ -54,9 +59,9 @@
       "identifier": "Cobrand Product & Innovation Analyst_tion-analyst/13015/94536950608"
     },
     {
-      "title": "Network Engineer - AVP",
-      "url": "https://search.jobs.barclays/job/whippany/network-engineer-avp/13015/94536941552",
-      "identifier": "Network Engineer - AVP_engineer-avp/13015/94536941552"
+      "title": "CCAR Regulatory Reporting Analyst",
+      "url": "https://search.jobs.barclays/job/whippany/ccar-regulatory-reporting-analyst/13015/94536950528",
+      "identifier": "CCAR Regulatory Reporting Analyst_ting-analyst/13015/94536950528"
     },
     {
       "title": "Structured Derivatives Institutional Sales VP",
@@ -67,13 +72,8 @@
       "title": "OLO Strategic Tooling - AVP",
       "url": "https://search.jobs.barclays/job/whippany/olo-strategic-tooling-avp/13015/94524495024",
       "identifier": "OLO Strategic Tooling - AVP_-tooling-avp/13015/94524495024"
-    },
-    {
-      "title": "Full Stack Developer",
-      "url": "https://search.jobs.barclays/job/whippany/full-stack-developer/13015/94499158096",
-      "identifier": "Full Stack Developer_ck-developer/13015/94499158096"
     }
   ],
-  "job_count_text": "119",
-  "timestamp": "2026-05-01T23:32:39.502570"
+  "job_count_text": "123",
+  "timestamp": "2026-05-01T23:49:50.525013"
 }

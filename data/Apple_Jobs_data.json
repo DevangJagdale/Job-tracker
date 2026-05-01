@@ -4,6 +4,11 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Critical Facilities Technician, Data Center Operations",
+      "url": "https://jobs.apple.com/en-us/details/200658730-1902/critical-facilities-technician-data-center-operations?team=SFTWR",
+      "identifier": "Critical Facilities Technician, Data Center Operat_a-center-operations?team=SFTWR"
+    },
+    {
       "title": "Technical Product Manager, App Store Developer Reporting",
       "url": "https://jobs.apple.com/en-us/details/200660946-0836/technical-product-manager-app-store-developer-reporting?team=SFTWR",
       "identifier": "Technical Product Manager, App Store Developer Rep_developer-reporting?team=SFTWR"
@@ -77,13 +82,8 @@
       "title": "Technical Product Manager - Services Pricing Platform",
       "url": "https://jobs.apple.com/en-us/details/200660835-0836/technical-product-manager-services-pricing-platform?team=SFTWR",
       "identifier": "Technical Product Manager - Services Pricing Platf_es-pricing-platform?team=SFTWR"
-    },
-    {
-      "title": "Financial Analyst",
-      "url": "https://jobs.apple.com/en-us/details/200659748-0836/financial-analyst?team=OPMFG",
-      "identifier": "Financial Analyst_6/financial-analyst?team=OPMFG"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-01T03:27:39.695346"
+  "timestamp": "2026-05-01T03:44:52.368099"
 }

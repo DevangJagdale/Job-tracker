@@ -4,9 +4,24 @@
   "total_jobs": 8,
   "jobs": [
     {
-      "title": "Staff Salesforce Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0848229/Staff-Salesforce-Engineer",
-      "identifier": "Staff Salesforce Engineer_8229/Staff-Salesforce-Engineer"
+      "title": "Manager - Scrum Master",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0891635/Manager-Scrum-Master",
+      "identifier": "Manager - Scrum Master_/R0891635/Manager-Scrum-Master"
+    },
+    {
+      "title": "Software Development Engineer (Mainframe)",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0898959/Software-Development-Engineer-Mainframe",
+      "identifier": "Software Development Engineer (Mainframe)_Development-Engineer-Mainframe"
+    },
+    {
+      "title": "Senior Software Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0816592/Senior-Software-Engineer",
+      "identifier": "Senior Software Engineer_16592/Senior-Software-Engineer"
+    },
+    {
+      "title": "Senior Front End Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0805983/Senior-Front-End-Engineer",
+      "identifier": "Senior Front End Engineer_5983/Senior-Front-End-Engineer"
     },
     {
       "title": "Senior Manager, Salesforce Software Development Engineering",
@@ -14,36 +29,21 @@
       "identifier": "Senior Manager, Salesforce Software Development En_ftware-Development-Engineering"
     },
     {
+      "title": "Staff Integration - Site Reliability Engineer (SRE)",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0834201/Staff-Integration-Site-Reliability-Engineer-SRE",
+      "identifier": "Staff Integration - Site Reliability Engineer (SRE_-Site-Reliability-Engineer-SRE"
+    },
+    {
       "title": "Manager - Scrum Master",
       "url": "https://jobs.cvshealth.com/us/en/job/R0893092/Manager-Scrum-Master",
       "identifier": "Manager - Scrum Master_/R0893092/Manager-Scrum-Master"
     },
     {
-      "title": "Lead Director - Software Development Engineering (Network Services)",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0836664/Lead-Director-Software-Development-Engineering-Network-Services",
-      "identifier": "Lead Director - Software Development Engineering (_t-Engineering-Network-Services"
-    },
-    {
-      "title": "Senior Software Development Engineer - Linux",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0641243/Senior-Software-Development-Engineer-Linux",
-      "identifier": "Senior Software Development Engineer - Linux_are-Development-Engineer-Linux"
-    },
-    {
-      "title": "Senior Engineering Manager",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0877327/Senior-Engineering-Manager",
-      "identifier": "Senior Engineering Manager_327/Senior-Engineering-Manager"
-    },
-    {
-      "title": "Staff Software Development Engineer (Full Stack/Cloud)",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0815913/Staff-Software-Development-Engineer-Full-Stack-Cloud",
-      "identifier": "Staff Software Development Engineer (Full Stack/Cl_ment-Engineer-Full-Stack-Cloud"
-    },
-    {
-      "title": "Senior Engineering Manager",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0877251/Senior-Engineering-Manager",
-      "identifier": "Senior Engineering Manager_251/Senior-Engineering-Manager"
+      "title": "Staff Salesforce Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0848229/Staff-Salesforce-Engineer",
+      "identifier": "Staff Salesforce Engineer_8229/Staff-Salesforce-Engineer"
     }
   ],
-  "job_count_text": "54",
-  "timestamp": "2026-05-01T06:05:28.733111"
+  "job_count_text": "36",
+  "timestamp": "2026-05-01T06:22:40.626195"
 }

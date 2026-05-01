@@ -4,6 +4,11 @@
   "total_jobs": 8,
   "jobs": [
     {
+      "title": "Staff Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0870573/Staff-Software-Development-Engineer",
+      "identifier": "Staff Software Development Engineer_-Software-Development-Engineer"
+    },
+    {
       "title": "Manager - Scrum Master",
       "url": "https://jobs.cvshealth.com/us/en/job/R0891635/Manager-Scrum-Master",
       "identifier": "Manager - Scrum Master_/R0891635/Manager-Scrum-Master"
@@ -37,13 +42,8 @@
       "title": "Manager - Scrum Master",
       "url": "https://jobs.cvshealth.com/us/en/job/R0893092/Manager-Scrum-Master",
       "identifier": "Manager - Scrum Master_/R0893092/Manager-Scrum-Master"
-    },
-    {
-      "title": "Staff Salesforce Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0848229/Staff-Salesforce-Engineer",
-      "identifier": "Staff Salesforce Engineer_8229/Staff-Salesforce-Engineer"
     }
   ],
-  "job_count_text": "41",
-  "timestamp": "2026-05-01T10:00:18.393086"
+  "job_count_text": "42",
+  "timestamp": "2026-05-01T10:17:24.592644"
 }

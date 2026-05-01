@@ -4,12 +4,17 @@
   "total_jobs": 10,
   "jobs": [
     {
+      "title": "Software Engineer - CTJ - Poly\nUnited States, Washington, Redmond + 1 more\nPosted 13 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556859432?domain=microsoft.com",
+      "identifier": "Software Engineer - CTJ - Poly\nUnited States, Wash_556859432?domain=microsoft.com"
+    },
+    {
       "title": "Senior Software Engineer\nUnited States, Washington, Redmond + 1 more\nPosted 7 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556861642?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Washington_556861642?domain=microsoft.com"
     },
     {
-      "title": "Software Engineer II - Azure Resource Graph\nUnited States, Multiple Locations, Multiple Locations\nPosted 7 hours ago",
+      "title": "Software Engineer II - Azure Resource Graph\nUnited States, Multiple Locations, Multiple Locations\nPosted 8 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556847405?domain=microsoft.com",
       "identifier": "Software Engineer II - Azure Resource Graph\nUnited_556847405?domain=microsoft.com"
     },
@@ -19,12 +24,12 @@
       "identifier": "Principal Silicon Performance Architect\nUnited Sta_556860661?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 8 hours ago",
+      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 9 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556668274?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Washington_556668274?domain=microsoft.com"
     },
     {
-      "title": "Principal Software Engineer\nUnited States, Washington, Redmond + 1 more\nPosted 8 hours ago",
+      "title": "Principal Software Engineer\nUnited States, Washington, Redmond + 1 more\nPosted 9 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556862654?domain=microsoft.com",
       "identifier": "Principal Software Engineer\nUnited States, Washing_556862654?domain=microsoft.com"
     },
@@ -47,13 +52,8 @@
       "title": "Software Engineer\nUnited States, Washington, Redmond\nPosted 10 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556856046?domain=microsoft.com",
       "identifier": "Software Engineer\nUnited States, Washington, Redmo_556856046?domain=microsoft.com"
-    },
-    {
-      "title": "Principal Site Reliability Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 10 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556823642?domain=microsoft.com",
-      "identifier": "Principal Site Reliability Engineer\nUnited States,_556823642?domain=microsoft.com"
     }
   ],
-  "job_count_text": "580",
-  "timestamp": "2026-05-01T05:12:44.353964"
+  "job_count_text": "581",
+  "timestamp": "2026-05-01T05:29:53.262264"
 }

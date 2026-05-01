@@ -4,6 +4,11 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Technical Product Manager, App Store Developer Reporting",
+      "url": "https://jobs.apple.com/en-us/details/200660946-0836/technical-product-manager-app-store-developer-reporting?team=SFTWR",
+      "identifier": "Technical Product Manager, App Store Developer Rep_developer-reporting?team=SFTWR"
+    },
+    {
       "title": "QE Intelligence \u2014 Software Development Engineer \u2014 Apple Maps",
       "url": "https://jobs.apple.com/en-us/details/200647290-0836/qe-intelligence-software-development-engineer-apple-maps?team=SFTWR",
       "identifier": "QE Intelligence \u2014 Software Development Engineer \u2014 _engineer-apple-maps?team=SFTWR"
@@ -77,13 +82,8 @@
       "title": "Financial Analyst",
       "url": "https://jobs.apple.com/en-us/details/200659748-0836/financial-analyst?team=OPMFG",
       "identifier": "Financial Analyst_6/financial-analyst?team=OPMFG"
-    },
-    {
-      "title": "Software Engineer - Applications",
-      "url": "https://jobs.apple.com/en-us/details/200659749-0836/software-engineer-applications?team=SFTWR",
-      "identifier": "Software Engineer - Applications_gineer-applications?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-01T01:10:05.201880"
+  "timestamp": "2026-05-01T01:27:16.394223"
 }

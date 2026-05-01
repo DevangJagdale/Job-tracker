@@ -4,6 +4,11 @@
   "total_jobs": 10,
   "jobs": [
     {
+      "title": "Staff CAD Design Automation Engineer, Central Engineering\nBoise, Idaho, United States of America\nPosted 18 hours ago",
+      "url": "https://careers.micron.com/careers/job/30948222",
+      "identifier": "Staff CAD Design Automation Engineer, Central Engi_icron.com/careers/job/30948222"
+    },
+    {
       "title": "Staff CAD Engineer, DEG\nRichardson, Texas, United States of America\nPosted 18 hours ago",
       "url": "https://careers.micron.com/careers/job/38954305",
       "identifier": "Staff CAD Engineer, DEG\nRichardson, Texas, United _icron.com/careers/job/38954305"
@@ -12,11 +17,6 @@
       "title": "TEM Engineer\nBoise, Idaho, United States of America\nPosted 18 hours ago",
       "url": "https://careers.micron.com/careers/job/40081570",
       "identifier": "TEM Engineer\nBoise, Idaho, United States of Americ_icron.com/careers/job/40081570"
-    },
-    {
-      "title": "Staff CAD Design Automation Engineer, Central Engineering\nBoise, Idaho, United States of America\nPosted 18 hours ago",
-      "url": "https://careers.micron.com/careers/job/30948222",
-      "identifier": "Staff CAD Design Automation Engineer, Central Engi_icron.com/careers/job/30948222"
     },
     {
       "title": "Process Integration Engineer | APTD\nBoise, Idaho, United States of America\nPosted 18 hours ago",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "81",
-  "timestamp": "2026-05-01T17:45:43.996231"
+  "timestamp": "2026-05-01T18:02:55.288844"
 }

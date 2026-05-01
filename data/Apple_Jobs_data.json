@@ -4,6 +4,11 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "QE Intelligence \u2014 Software Development Engineer \u2014 Apple Maps",
+      "url": "https://jobs.apple.com/en-us/details/200647290-0836/qe-intelligence-software-development-engineer-apple-maps?team=SFTWR",
+      "identifier": "QE Intelligence \u2014 Software Development Engineer \u2014 _engineer-apple-maps?team=SFTWR"
+    },
+    {
       "title": "Senior Software Engineer, Machine Learning Infrastructure and Quality",
       "url": "https://jobs.apple.com/en-us/details/200624522-3337/senior-software-engineer-machine-learning-infrastructure-and-quality?team=SFTWR",
       "identifier": "Senior Software Engineer, Machine Learning Infrast_ructure-and-quality?team=SFTWR"
@@ -77,13 +82,8 @@
       "title": "Software Engineer - Applications",
       "url": "https://jobs.apple.com/en-us/details/200659749-0836/software-engineer-applications?team=SFTWR",
       "identifier": "Software Engineer - Applications_gineer-applications?team=SFTWR"
-    },
-    {
-      "title": "Software Development Engineer - Systems",
-      "url": "https://jobs.apple.com/en-us/details/200659744-0836/software-development-engineer-systems?team=SFTWR",
-      "identifier": "Software Development Engineer - Systems_nt-engineer-systems?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-01T00:52:52.351147"
+  "timestamp": "2026-05-01T01:10:05.201880"
 }

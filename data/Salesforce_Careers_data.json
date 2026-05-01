@@ -1,8 +1,104 @@
 {
   "page_title": "Salesforce Jobs | Salesforce Careers",
   "url": "https://careers.salesforce.com/en/jobs/?search=&country=United+States+of+America&team=Data&team=Enterprise+Technology+%26+Infrastructure&team=Software+Engineering&jobtype=New+Grads&pagesize=20#results",
-  "total_jobs": 0,
-  "jobs": [],
+  "total_jobs": 19,
+  "jobs": [
+    {
+      "title": "Data Analytics and AI Solutions Lead",
+      "url": "https://careers.salesforce.com/en/jobs/jr330311/data-analytics-and-ai-solutions-lead/",
+      "identifier": "Data Analytics and AI Solutions Lead_alytics-and-ai-solutions-lead/"
+    },
+    {
+      "title": "SMTS/LMTS - AI ML Engineers",
+      "url": "https://careers.salesforce.com/en/jobs/jr340537/smtslmts-ai-ml-engineers/",
+      "identifier": "SMTS/LMTS - AI ML Engineers_0537/smtslmts-ai-ml-engineers/"
+    },
+    {
+      "title": "Software Engineering - Release Engineering - Manager, Release Engineering",
+      "url": "https://careers.salesforce.com/en/jobs/jr339504/software-engineering-release-engineering-manager-release-engineering/",
+      "identifier": "Software Engineering - Release Engineering - Manag_g-manager-release-engineering/"
+    },
+    {
+      "title": "Performance Engineer - MTS",
+      "url": "https://careers.salesforce.com/en/jobs/jr312773/performance-engineer-mts/",
+      "identifier": "Performance Engineer - MTS_2773/performance-engineer-mts/"
+    },
+    {
+      "title": "Principal Software Engineer (PMTS) - Agentic AI",
+      "url": "https://careers.salesforce.com/en/jobs/jr338769/principal-software-engineer-pmts-agentic-ai/",
+      "identifier": "Principal Software Engineer (PMTS) - Agentic AI_ware-engineer-pmts-agentic-ai/"
+    },
+    {
+      "title": "Software Engineering LMTS/SMTS (Java + Bigdata + Spark)",
+      "url": "https://careers.salesforce.com/en/jobs/jr339998/software-engineering-lmtssmts-java-plus-bigdata-plus-spark/",
+      "identifier": "Software Engineering LMTS/SMTS (Java + Bigdata + S_-java-plus-bigdata-plus-spark/"
+    },
+    {
+      "title": "Salesforce/Agentforce Developer (Software Engineering, MTS)",
+      "url": "https://careers.salesforce.com/en/jobs/jr318187/salesforceagentforce-developer-software-engineering-mts/",
+      "identifier": "Salesforce/Agentforce Developer (Software Engineer_oper-software-engineering-mts/"
+    },
+    {
+      "title": "Software Engineering PMTS",
+      "url": "https://careers.salesforce.com/en/jobs/jr313327/software-engineering-pmts/",
+      "identifier": "Software Engineering PMTS_327/software-engineering-pmts/"
+    },
+    {
+      "title": "Software Engineering SMTS- Tableau",
+      "url": "https://careers.salesforce.com/en/jobs/jr327535/software-engineering-smts-tableau/",
+      "identifier": "Software Engineering SMTS- Tableau_ware-engineering-smts-tableau/"
+    },
+    {
+      "title": "Workday System Analyst (Workday Financials)",
+      "url": "https://careers.salesforce.com/en/jobs/jr335225/workday-system-analyst-workday-financials/",
+      "identifier": "Workday System Analyst (Workday Financials)_em-analyst-workday-financials/"
+    },
+    {
+      "title": "SMTS, Workday Integration Engineer (Accounting Center)",
+      "url": "https://careers.salesforce.com/en/jobs/jr335222/smts-workday-integration-engineer-accounting-center/",
+      "identifier": "SMTS, Workday Integration Engineer (Accounting Cen_on-engineer-accounting-center/"
+    },
+    {
+      "title": "Forward Deployed Engineer Associate",
+      "url": "https://careers.salesforce.com/en/jobs/jr339478/forward-deployed-engineer-associate/",
+      "identifier": "Forward Deployed Engineer Associate_d-deployed-engineer-associate/"
+    },
+    {
+      "title": "Salesforce Technical Architect- Agentforce",
+      "url": "https://careers.salesforce.com/en/jobs/jr339383/salesforce-technical-architect-agentforce/",
+      "identifier": "Salesforce Technical Architect- Agentforce_echnical-architect-agentforce/"
+    },
+    {
+      "title": "FDE Data 360 \u2014 Manager ( Salesforce)",
+      "url": "https://careers.salesforce.com/en/jobs/jr339299/fde-data-360-manager-salesforce/",
+      "identifier": "FDE Data 360 \u2014 Manager ( Salesforce)_e-data-360-manager-salesforce/"
+    },
+    {
+      "title": "Principal Software Engineer / PMTS - Fullstack",
+      "url": "https://careers.salesforce.com/en/jobs/jr312170/principal-software-engineer-pmts-fullstack/",
+      "identifier": "Principal Software Engineer / PMTS - Fullstack_tware-engineer-pmts-fullstack/"
+    },
+    {
+      "title": "Senior Salesforce Consultant (Data 360)",
+      "url": "https://careers.salesforce.com/en/jobs/jr339081/senior-salesforce-consultant-data-360/",
+      "identifier": "Senior Salesforce Consultant (Data 360)_alesforce-consultant-data-360/"
+    },
+    {
+      "title": "Salesforce Consultant (Data 360)",
+      "url": "https://careers.salesforce.com/en/jobs/jr339078/salesforce-consultant-data-360/",
+      "identifier": "Salesforce Consultant (Data 360)_alesforce-consultant-data-360/"
+    },
+    {
+      "title": "Senior Manager, Software Engineering (QTC, R2R, Revenue Recognition, and Tax)",
+      "url": "https://careers.salesforce.com/en/jobs/jr335213/senior-manager-software-engineering-qtc-r2r-revenue-recognition-and-tax/",
+      "identifier": "Senior Manager, Software Engineering (QTC, R2R, Re_r-revenue-recognition-and-tax/"
+    },
+    {
+      "title": "Salesforce Agentforce Senior Manager",
+      "url": "https://careers.salesforce.com/en/jobs/jr335076/salesforce-agentforce-senior-manager/",
+      "identifier": "Salesforce Agentforce Senior Manager_rce-agentforce-senior-manager/"
+    }
+  ],
   "job_count_text": "",
-  "timestamp": "2026-04-30T08:30:11.988011"
+  "timestamp": "2026-05-01T06:52:08.841748"
 }

@@ -4,6 +4,11 @@
   "total_jobs": 19,
   "jobs": [
     {
+      "title": "Engineering Program Manager, Capacity Management, Apple Services Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200661188-0836/engineering-program-manager-capacity-management-apple-services-engineering?team=SFTWR",
+      "identifier": "Engineering Program Manager, Capacity Management, _ervices-engineering?team=SFTWR"
+    },
+    {
       "title": "Software Engineer - Visual Productivity",
       "url": "https://jobs.apple.com/en-us/details/200661046-2926/software-engineer-visual-productivity?team=SFTWR",
       "identifier": "Software Engineer - Visual Productivity_visual-productivity?team=SFTWR"
@@ -92,13 +97,8 @@
       "title": "iOS Software Development Engineer, Proactive - On-Device",
       "url": "https://jobs.apple.com/en-us/details/200660997-3760/ios-software-development-engineer-proactive-on-device?team=SFTWR",
       "identifier": "iOS Software Development Engineer, Proactive - On-_proactive-on-device?team=SFTWR"
-    },
-    {
-      "title": "Wi-Fi Software Engineer - Frameworks & AI/ML, Wireless Technologies & Ecosystems",
-      "url": "https://jobs.apple.com/en-us/details/200646833-0836/wi-fi-software-engineer-frameworks-ai-ml-wireless-technologies-ecosystems?team=SFTWR",
-      "identifier": "Wi-Fi Software Engineer - Frameworks & AI/ML, Wire_nologies-ecosystems?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-01T21:08:05.220179"
+  "timestamp": "2026-05-01T21:25:16.806242"
 }

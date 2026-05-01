@@ -1,8 +1,28 @@
 {
   "page_title": "Search our Job Opportunities at Barclays",
   "url": "https://search.jobs.barclays/search-jobs/United%20States/13015/2/6252001/39x76/-98x5/50/2",
-  "total_jobs": 12,
+  "total_jobs": 16,
   "jobs": [
+    {
+      "title": "Assistant VP, Electronic Product Manager",
+      "url": "https://search.jobs.barclays/job/new-york/assistant-vp-electronic-product-manager/13015/94574368784",
+      "identifier": "Assistant VP, Electronic Product Manager_duct-manager/13015/94574368784"
+    },
+    {
+      "title": "Assistant VP, Quantitative Risk Analyst",
+      "url": "https://search.jobs.barclays/job/new-york/assistant-vp-quantitative-risk-analyst/13015/94574368768",
+      "identifier": "Assistant VP, Quantitative Risk Analyst_risk-analyst/13015/94574368768"
+    },
+    {
+      "title": "UI Developer",
+      "url": "https://search.jobs.barclays/job/whippany/ui-developer/13015/94574368752",
+      "identifier": "UI Developer_ui-developer/13015/94574368752"
+    },
+    {
+      "title": "Investment Banking Coverage - VP",
+      "url": "https://search.jobs.barclays/job/new-york/investment-banking-coverage-vp/13015/94574368720",
+      "identifier": "Investment Banking Coverage - VP_-coverage-vp/13015/94574368720"
+    },
     {
       "title": "Full Stack Java Developer - AVP",
       "url": "https://search.jobs.barclays/job/new-york/full-stack-java-developer-avp/13015/94560071936",
@@ -64,6 +84,6 @@
       "identifier": "Full Stack Developer_ck-developer/13015/94499158096"
     }
   ],
-  "job_count_text": "120",
-  "timestamp": "2026-05-01T11:24:33.981691"
+  "job_count_text": "119",
+  "timestamp": "2026-05-01T11:41:41.722547"
 }

@@ -4,6 +4,16 @@
   "total_jobs": 19,
   "jobs": [
     {
+      "title": "Software Engineer - Visual Productivity",
+      "url": "https://jobs.apple.com/en-us/details/200661046-2926/software-engineer-visual-productivity?team=SFTWR",
+      "identifier": "Software Engineer - Visual Productivity_visual-productivity?team=SFTWR"
+    },
+    {
+      "title": "Engineering Manager, App Store Data",
+      "url": "https://jobs.apple.com/en-us/details/200661200-3577/engineering-manager-app-store-data?team=SFTWR",
+      "identifier": "Engineering Manager, App Store Data_ager-app-store-data?team=SFTWR"
+    },
+    {
       "title": "Privacy Engineer - App Store, Media Apps & Services",
       "url": "https://jobs.apple.com/en-us/details/200661205-3337/privacy-engineer-app-store-media-apps-services?team=SFTWR",
       "identifier": "Privacy Engineer - App Store, Media Apps & Service_media-apps-services?team=SFTWR"
@@ -87,18 +97,8 @@
       "title": "Wi-Fi Software Engineer - Frameworks & AI/ML, Wireless Technologies & Ecosystems",
       "url": "https://jobs.apple.com/en-us/details/200646833-0836/wi-fi-software-engineer-frameworks-ai-ml-wireless-technologies-ecosystems?team=SFTWR",
       "identifier": "Wi-Fi Software Engineer - Frameworks & AI/ML, Wire_nologies-ecosystems?team=SFTWR"
-    },
-    {
-      "title": "App Store Frameworks",
-      "url": "https://jobs.apple.com/en-us/details/200633092-0836/app-store-frameworks?team=SFTWR",
-      "identifier": "App Store Frameworks_pp-store-frameworks?team=SFTWR"
-    },
-    {
-      "title": "Photos Imaging Software Engineer, Camera & Photos",
-      "url": "https://jobs.apple.com/en-us/details/200623337-0836/photos-imaging-software-engineer-camera-photos?team=SFTWR",
-      "identifier": "Photos Imaging Software Engineer, Camera & Photos_ineer-camera-photos?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-01T20:50:55.831028"
+  "timestamp": "2026-05-01T21:08:05.220179"
 }

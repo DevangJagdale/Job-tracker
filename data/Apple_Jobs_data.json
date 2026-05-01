@@ -4,6 +4,11 @@
   "total_jobs": 19,
   "jobs": [
     {
+      "title": "Software Quality Engineer, Vision Products Software",
+      "url": "https://jobs.apple.com/en-us/details/200661139-3956/software-quality-engineer-vision-products-software?team=SFTWR",
+      "identifier": "Software Quality Engineer, Vision Products Softwar_n-products-software?team=SFTWR"
+    },
+    {
       "title": "Engineering Program Manager, Capacity Management, Apple Services Engineering",
       "url": "https://jobs.apple.com/en-us/details/200661188-0836/engineering-program-manager-capacity-management-apple-services-engineering?team=SFTWR",
       "identifier": "Engineering Program Manager, Capacity Management, _ervices-engineering?team=SFTWR"
@@ -22,11 +27,6 @@
       "title": "Privacy Engineer - App Store, Media Apps & Services",
       "url": "https://jobs.apple.com/en-us/details/200661205-3337/privacy-engineer-app-store-media-apps-services?team=SFTWR",
       "identifier": "Privacy Engineer - App Store, Media Apps & Service_media-apps-services?team=SFTWR"
-    },
-    {
-      "title": "Tools and Automation Engineer, Vision Products Software",
-      "url": "https://jobs.apple.com/en-us/details/200661139-3956/tools-and-automation-engineer-vision-products-software?team=SFTWR",
-      "identifier": "Tools and Automation Engineer, Vision Products Sof_n-products-software?team=SFTWR"
     },
     {
       "title": "Location Estimation Scientist, Sensing & Connectivity",
@@ -100,5 +100,5 @@
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-01T22:58:55.597762"
+  "timestamp": "2026-05-01T23:16:03.766627"
 }

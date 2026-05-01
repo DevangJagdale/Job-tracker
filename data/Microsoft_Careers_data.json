@@ -4,12 +4,27 @@
   "total_jobs": 10,
   "jobs": [
     {
+      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 24 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556802872?domain=microsoft.com",
+      "identifier": "Software Engineer II\nUnited States, Washington, Re_556802872?domain=microsoft.com"
+    },
+    {
+      "title": "Principal Applied Scientist\nUnited States, Washington, Redmond + 1 more\nPosted 28 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556862646?domain=microsoft.com",
+      "identifier": "Principal Applied Scientist\nUnited States, Washing_556862646?domain=microsoft.com"
+    },
+    {
+      "title": "Software Engineer II - Azure AI Translation & Language Team\nUnited States, Washington, Redmond\nPosted 28 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556860748?domain=microsoft.com",
+      "identifier": "Software Engineer II - Azure AI Translation & Lang_556860748?domain=microsoft.com"
+    },
+    {
       "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556834709?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Washington_556834709?domain=microsoft.com"
     },
     {
-      "title": "Principal Engineer - Identity Services\nUnited States, Washington, Redmond\nPosted an hour ago",
+      "title": "Principal Engineer - Identity Services\nUnited States, Washington, Redmond\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556852373?domain=microsoft.com",
       "identifier": "Principal Engineer - Identity Services\nUnited Stat_556852373?domain=microsoft.com"
     },
@@ -29,31 +44,16 @@
       "identifier": "Software Engineer II - Finance Data & Experiences\n_556861667?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer - Xbox Video\nUnited States, Multiple Locations, Multiple Locations\nPosted 4 hours ago",
+      "title": "Senior Software Engineer - Xbox Video\nUnited States, Multiple Locations, Multiple Locations\nPosted 5 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556856808?domain=microsoft.com",
       "identifier": "Senior Software Engineer - Xbox Video\nUnited State_556856808?domain=microsoft.com"
     },
     {
-      "title": "Software Engineer II - CoreAI\nUnited States, Washington, Redmond + 1 more\nPosted 5 hours ago",
+      "title": "Software Engineer II - CoreAI\nUnited States, Washington, Redmond + 1 more\nPosted 6 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556862995?domain=microsoft.com",
       "identifier": "Software Engineer II - CoreAI\nUnited States, Washi_556862995?domain=microsoft.com"
-    },
-    {
-      "title": "Software Engineer - CTJ - Poly\nUnited States, Washington, Redmond + 1 more\nPosted 14 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556859432?domain=microsoft.com",
-      "identifier": "Software Engineer - CTJ - Poly\nUnited States, Wash_556859432?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Software Engineer\nUnited States, Washington, Redmond + 1 more\nPosted 21 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556861642?domain=microsoft.com",
-      "identifier": "Senior Software Engineer\nUnited States, Washington_556861642?domain=microsoft.com"
-    },
-    {
-      "title": "Software Engineer II - Azure Resource Graph\nUnited States, Multiple Locations, Multiple Locations\nPosted a day ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556847405?domain=microsoft.com",
-      "identifier": "Software Engineer II - Azure Resource Graph\nUnited_556847405?domain=microsoft.com"
     }
   ],
-  "job_count_text": "574",
-  "timestamp": "2026-05-01T19:42:38.500983"
+  "job_count_text": "576",
+  "timestamp": "2026-05-01T19:59:47.078399"
 }

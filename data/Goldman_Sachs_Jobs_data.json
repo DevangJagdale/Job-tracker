@@ -4,6 +4,16 @@
   "total_jobs": 20,
   "jobs": [
     {
+      "title": "Data Engineering - Data, Lakehouse and AI Data Platform Engineer - Analyst - New York\nNew York\u00b7United States\n\u00b7Analyst",
+      "url": "https://higher.gs.com/roles/169310",
+      "identifier": "Data Engineering - Data, Lakehouse and AI Data Pla_s://higher.gs.com/roles/169310"
+    },
+    {
+      "title": "Data Engineering - Data, Lakehouse and AI Data Platform Engineer - Analyst/Associate - Dallas\nDallas\u00b7United States\n\u00b7Associate",
+      "url": "https://higher.gs.com/roles/153361",
+      "identifier": "Data Engineering - Data, Lakehouse and AI Data Pla_s://higher.gs.com/roles/153361"
+    },
+    {
       "title": "MLOps Engineer - Machine Learning Platform - NY/NJ\nJersey City\u00b7United States\n\u00b7Associate",
       "url": "https://higher.gs.com/roles/153822",
       "identifier": "MLOps Engineer - Machine Learning Platform - NY/NJ_s://higher.gs.com/roles/153822"
@@ -92,18 +102,8 @@
       "title": "AI / ML Engineering Dallas Associate\nDallas\u00b7United States\n\u00b7Associate",
       "url": "https://higher.gs.com/roles/153199",
       "identifier": "AI / ML Engineering Dallas Associate\nDallas\u00b7United_s://higher.gs.com/roles/153199"
-    },
-    {
-      "title": "Asset & Wealth Management-Cloud Engineer-Associate-Dallas\nDallas\u00b7United States\n\u00b7Associate",
-      "url": "https://higher.gs.com/roles/167471",
-      "identifier": "Asset & Wealth Management-Cloud Engineer-Associate_s://higher.gs.com/roles/167471"
-    },
-    {
-      "title": "Asset & Wealth Management-Cloud SRE Engineer-Associate-Dallas\nDallas\u00b7United States\n\u00b7Associate",
-      "url": "https://higher.gs.com/roles/168763",
-      "identifier": "Asset & Wealth Management-Cloud SRE Engineer-Assoc_s://higher.gs.com/roles/168763"
     }
   ],
-  "job_count_text": "53",
-  "timestamp": "2026-05-01T19:42:04.278801"
+  "job_count_text": "55",
+  "timestamp": "2026-05-01T19:59:12.656817"
 }

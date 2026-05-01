@@ -4,6 +4,11 @@
   "total_jobs": 19,
   "jobs": [
     {
+      "title": "Privacy Engineer - App Store, Media Apps & Services",
+      "url": "https://jobs.apple.com/en-us/details/200661205-3337/privacy-engineer-app-store-media-apps-services?team=SFTWR",
+      "identifier": "Privacy Engineer - App Store, Media Apps & Service_media-apps-services?team=SFTWR"
+    },
+    {
       "title": "Tools and Automation Engineer, Vision Products Software",
       "url": "https://jobs.apple.com/en-us/details/200661139-3956/tools-and-automation-engineer-vision-products-software?team=SFTWR",
       "identifier": "Tools and Automation Engineer, Vision Products Sof_n-products-software?team=SFTWR"
@@ -92,13 +97,8 @@
       "title": "Photos Imaging Software Engineer, Camera & Photos",
       "url": "https://jobs.apple.com/en-us/details/200623337-0836/photos-imaging-software-engineer-camera-photos?team=SFTWR",
       "identifier": "Photos Imaging Software Engineer, Camera & Photos_ineer-camera-photos?team=SFTWR"
-    },
-    {
-      "title": "Remote Site Services Data Center Manager, Infrastructure Services",
-      "url": "https://jobs.apple.com/en-us/details/200642872-1902/remote-site-services-data-center-manager-infrastructure-services?team=SFTWR",
-      "identifier": "Remote Site Services Data Center Manager, Infrastr_astructure-services?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-01T19:42:54.353642"
+  "timestamp": "2026-05-01T20:00:03.316550"
 }

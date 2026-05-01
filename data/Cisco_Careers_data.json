@@ -1,7 +1,7 @@
 {
   "page_title": "Job Openings - Cisco Careers",
   "url": "https://careers.cisco.com/global/en/search-results?s=1",
-  "total_jobs": 10,
+  "total_jobs": 8,
   "jobs": [
     {
       "title": "Software Engineer Full Stack & Application Development II (Full Time) \u2013 United States",
@@ -24,21 +24,6 @@
       "identifier": "Software Engineer Embedded/Network Systems III (Fu_ms-III-Full-Time-United-States"
     },
     {
-      "title": "Product Management Specialist II (Full Time) - United States",
-      "url": "https://careers.cisco.com/global/en/job/2004282/Product-Management-Specialist-II-Full-Time-United-States",
-      "identifier": "Product Management Specialist II (Full Time) - Uni_ist-II-Full-Time-United-States"
-    },
-    {
-      "title": "Software Engineer Security & Automation II (Full Time) \u2013 United States",
-      "url": "https://careers.cisco.com/global/en/job/2000090/Software-Engineer-Security-Automation-II-Full-Time-United-States",
-      "identifier": "Software Engineer Security & Automation II (Full T_ion-II-Full-Time-United-States"
-    },
-    {
-      "title": "AI Go\u2011To\u2011Market (GTM) Operations I (Full Time) - United States",
-      "url": "https://careers.cisco.com/global/en/job/2006766/AI-Go%E2%80%91To%E2%80%91Market-GTM-Operations-I-Full-Time-United-States",
-      "identifier": "AI Go\u2011To\u2011Market (GTM) Operations I (Full Time) - U_ions-I-Full-Time-United-States"
-    },
-    {
       "title": "Physical Design Engineer II (Full Time) - United States",
       "url": "https://careers.cisco.com/global/en/job/2013120/Physical-Design-Engineer-II-Full-Time-United-States",
       "identifier": "Physical Design Engineer II (Full Time) - United S_eer-II-Full-Time-United-States"
@@ -52,8 +37,13 @@
       "title": "Customer Experience Project Specialist I (Full-Time) - United States",
       "url": "https://careers.cisco.com/global/en/job/2001576/Customer-Experience-Project-Specialist-I-Full-Time-United-States",
       "identifier": "Customer Experience Project Specialist I (Full-Tim_list-I-Full-Time-United-States"
+    },
+    {
+      "title": "Sales Development Representative II (Full Time) United States (Virtual Demand Center) - United States",
+      "url": "https://careers.cisco.com/global/en/job/2008662/Sales-Development-Representative-II-Full-Time-United-States-Virtual-Demand-Center-United-States",
+      "identifier": "Sales Development Representative II (Full Time) Un_al-Demand-Center-United-States"
     }
   ],
-  "job_count_text": "11",
-  "timestamp": "2026-05-01T07:24:41.654161"
+  "job_count_text": "8",
+  "timestamp": "2026-05-01T07:41:50.738719"
 }

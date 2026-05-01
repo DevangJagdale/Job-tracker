@@ -4,6 +4,11 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Senior Software Engineer, Machine Learning Infrastructure and Quality",
+      "url": "https://jobs.apple.com/en-us/details/200624522-3337/senior-software-engineer-machine-learning-infrastructure-and-quality?team=SFTWR",
+      "identifier": "Senior Software Engineer, Machine Learning Infrast_ructure-and-quality?team=SFTWR"
+    },
+    {
       "title": "Machine Learning Engineer - Natural Language Generation, Input Experience",
       "url": "https://jobs.apple.com/en-us/details/200636204-3337/machine-learning-engineer-natural-language-generation-input-experience?team=SFTWR",
       "identifier": "Machine Learning Engineer - Natural Language Gener_on-input-experience?team=SFTWR"
@@ -77,13 +82,8 @@
       "title": "Software Development Engineer - Systems",
       "url": "https://jobs.apple.com/en-us/details/200659744-0836/software-development-engineer-systems?team=SFTWR",
       "identifier": "Software Development Engineer - Systems_nt-engineer-systems?team=SFTWR"
-    },
-    {
-      "title": "Configuration/Release Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200659745-3543/configuration-release-engineer?team=SFTWR",
-      "identifier": "Configuration/Release Engineer_on-release-engineer?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-01T00:28:10.312955"
+  "timestamp": "2026-05-01T00:45:16.882784"
 }

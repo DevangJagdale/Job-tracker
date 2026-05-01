@@ -4,7 +4,12 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Quality Engineer, Minecraft\nUnited States, Washington, Redmond\nPosted an hour ago",
+      "title": "Software Engineer II - SAP Basis\nUnited States, Washington, Redmond\nPosted 17 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556760389?domain=microsoft.com",
+      "identifier": "Software Engineer II - SAP Basis\nUnited States, Wa_556760389?domain=microsoft.com"
+    },
+    {
+      "title": "Quality Engineer, Minecraft\nUnited States, Washington, Redmond\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556862358?domain=microsoft.com",
       "identifier": "Quality Engineer, Minecraft\nUnited States, Washing_556862358?domain=microsoft.com"
     },
@@ -39,7 +44,7 @@
       "identifier": "Software Engineer II - Windows Debugging\nUnited St_556862918?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer - AI Frameworks\nUnited States, Washington, Redmond\nPosted 4 hours ago",
+      "title": "Senior Software Engineer - AI Frameworks\nUnited States, Washington, Redmond\nPosted 5 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556852816?domain=microsoft.com",
       "identifier": "Senior Software Engineer - AI Frameworks\nUnited St_556852816?domain=microsoft.com"
     },
@@ -47,13 +52,8 @@
       "title": "Software Engineer II - Finance Data & Experiences\nUnited States, Washington, Redmond\nPosted 5 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556861667?domain=microsoft.com",
       "identifier": "Software Engineer II - Finance Data & Experiences\n_556861667?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Software Engineer - Xbox Video\nUnited States, Multiple Locations, Multiple Locations\nPosted 6 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556856808?domain=microsoft.com",
-      "identifier": "Senior Software Engineer - Xbox Video\nUnited State_556856808?domain=microsoft.com"
     }
   ],
-  "job_count_text": "577",
-  "timestamp": "2026-05-01T21:25:01.155501"
+  "job_count_text": "578",
+  "timestamp": "2026-05-01T21:42:14.885286"
 }

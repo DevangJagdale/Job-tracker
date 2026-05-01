@@ -4,7 +4,12 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Senior Software Engineer - AI Frameworks\nUnited States, Washington, Redmond\nPosted 29 minutes ago",
+      "title": "Software Engineer II - Windows Debugging\nUnited States, Washington, Redmond + 2 more\nPosted 10 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556862918?domain=microsoft.com",
+      "identifier": "Software Engineer II - Windows Debugging\nUnited St_556862918?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Software Engineer - AI Frameworks\nUnited States, Washington, Redmond\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556852816?domain=microsoft.com",
       "identifier": "Senior Software Engineer - AI Frameworks\nUnited St_556852816?domain=microsoft.com"
     },
@@ -47,13 +52,8 @@
       "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 21 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556668274?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Washington_556668274?domain=microsoft.com"
-    },
-    {
-      "title": "Principal Software Engineer\nUnited States, Washington, Redmond + 1 more\nPosted 21 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556862654?domain=microsoft.com",
-      "identifier": "Principal Software Engineer\nUnited States, Washing_556862654?domain=microsoft.com"
     }
   ],
-  "job_count_text": "575",
-  "timestamp": "2026-05-01T17:25:00.962680"
+  "job_count_text": "576",
+  "timestamp": "2026-05-01T17:42:12.668168"
 }

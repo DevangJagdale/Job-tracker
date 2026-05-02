@@ -4,29 +4,9 @@
   "total_jobs": 8,
   "jobs": [
     {
-      "title": "Senior AI Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0893553/Senior-AI-Engineer",
-      "identifier": "Senior AI Engineer_ob/R0893553/Senior-AI-Engineer"
-    },
-    {
       "title": "Manager - Software Technology Vendor Management",
       "url": "https://jobs.cvshealth.com/us/en/job/R0818678/Manager-Software-Technology-Vendor-Management",
       "identifier": "Manager - Software Technology Vendor Management_e-Technology-Vendor-Management"
-    },
-    {
-      "title": "Analyst, Systems Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0903656/Analyst-Systems-Engineer",
-      "identifier": "Analyst, Systems Engineer_03656/Analyst-Systems-Engineer"
-    },
-    {
-      "title": "Technical Support Representative",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0904196/Technical-Support-Representative",
-      "identifier": "Technical Support Representative_chnical-Support-Representative"
-    },
-    {
-      "title": "Staff Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0898371/Staff-Software-Development-Engineer",
-      "identifier": "Staff Software Development Engineer_-Software-Development-Engineer"
     },
     {
       "title": "Senior Analyst, Software Development Engineer",
@@ -34,9 +14,29 @@
       "identifier": "Senior Analyst, Software Development Engineer_-Software-Development-Engineer"
     },
     {
+      "title": "Staff Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0870573/Staff-Software-Development-Engineer",
+      "identifier": "Staff Software Development Engineer_-Software-Development-Engineer"
+    },
+    {
+      "title": "Senior AI Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0893553/Senior-AI-Engineer",
+      "identifier": "Senior AI Engineer_ob/R0893553/Senior-AI-Engineer"
+    },
+    {
+      "title": "Analyst, Systems Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0903656/Analyst-Systems-Engineer",
+      "identifier": "Analyst, Systems Engineer_03656/Analyst-Systems-Engineer"
+    },
+    {
       "title": "Software Development Engineer",
       "url": "https://jobs.cvshealth.com/us/en/job/R0859802/Software-Development-Engineer",
       "identifier": "Software Development Engineer_/Software-Development-Engineer"
+    },
+    {
+      "title": "Senior Compute Engineer (Apple Platforms and Automation)",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0878389/Senior-Compute-Engineer-Apple-Platforms-and-Automation",
+      "identifier": "Senior Compute Engineer (Apple Platforms and Autom_Apple-Platforms-and-Automation"
     },
     {
       "title": "Senior Software Development Engineer",
@@ -45,5 +45,5 @@
     }
   ],
   "job_count_text": "47",
-  "timestamp": "2026-05-02T10:04:02.539641"
+  "timestamp": "2026-05-02T10:21:01.113701"
 }

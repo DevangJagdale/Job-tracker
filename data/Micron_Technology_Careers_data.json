@@ -4,6 +4,11 @@
   "total_jobs": 10,
   "jobs": [
     {
+      "title": "Semiconductor Process Engineer, Metrology\nBoise, Idaho, United States of America\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/39196650",
+      "identifier": "Semiconductor Process Engineer, Metrology\nBoise, I_icron.com/careers/job/39196650"
+    },
+    {
       "title": "Staff CAD Design Automation Engineer, Central Engineering\nBoise, Idaho, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/30948222",
       "identifier": "Staff CAD Design Automation Engineer, Central Engi_icron.com/careers/job/30948222"
@@ -12,11 +17,6 @@
       "title": "Staff CAD Engineer, DEG\nRichardson, Texas, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/38954305",
       "identifier": "Staff CAD Engineer, DEG\nRichardson, Texas, United _icron.com/careers/job/38954305"
-    },
-    {
-      "title": "Semiconductor Process Engineer, Metrology\nBoise, Idaho, United States of America\nPosted a day ago",
-      "url": "https://careers.micron.com/careers/job/39196650",
-      "identifier": "Semiconductor Process Engineer, Metrology\nBoise, I_icron.com/careers/job/39196650"
     },
     {
       "title": "TEM Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "81",
-  "timestamp": "2026-05-02T01:53:41.463041"
+  "timestamp": "2026-05-02T02:10:56.976838"
 }

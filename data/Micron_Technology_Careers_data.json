@@ -4,9 +4,14 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Staff CAD Engineer, DEG\nRichardson, Texas, United States of America\nPosted 2 days ago",
-      "url": "https://careers.micron.com/careers/job/38954305",
-      "identifier": "Staff CAD Engineer, DEG\nRichardson, Texas, United _icron.com/careers/job/38954305"
+      "title": "Design Verification Quality Engineer\nBoise, Idaho, United States of America\nPosted 2 days ago",
+      "url": "https://careers.micron.com/careers/job/41441282",
+      "identifier": "Design Verification Quality Engineer\nBoise, Idaho,_icron.com/careers/job/41441282"
+    },
+    {
+      "title": "BU Analyst - Catalyst Rotation Program\nBoise, Idaho, United States of America\nPosted 2 days ago",
+      "url": "https://careers.micron.com/careers/job/41782363",
+      "identifier": "BU Analyst - Catalyst Rotation Program\nBoise, Idah_icron.com/careers/job/41782363"
     },
     {
       "title": "Semiconductor Process Engineer, Metrology\nBoise, Idaho, United States of America\nPosted 2 days ago",
@@ -29,14 +34,9 @@
       "identifier": "TEM Engineer\nBoise, Idaho, United States of Americ_icron.com/careers/job/40081570"
     },
     {
-      "title": "Design Verification Quality Engineer\nBoise, Idaho, United States of America\nPosted 2 days ago",
-      "url": "https://careers.micron.com/careers/job/41441282",
-      "identifier": "Design Verification Quality Engineer\nBoise, Idaho,_icron.com/careers/job/41441282"
-    },
-    {
-      "title": "BU Analyst - Catalyst Rotation Program\nBoise, Idaho, United States of America\nPosted 2 days ago",
-      "url": "https://careers.micron.com/careers/job/41782363",
-      "identifier": "BU Analyst - Catalyst Rotation Program\nBoise, Idah_icron.com/careers/job/41782363"
+      "title": "Staff CAD Engineer, DEG\nRichardson, Texas, United States of America\nPosted 2 days ago",
+      "url": "https://careers.micron.com/careers/job/38954305",
+      "identifier": "Staff CAD Engineer, DEG\nRichardson, Texas, United _icron.com/careers/job/38954305"
     },
     {
       "title": "Product Development Engineer 3\nBoise, Idaho, United States of America\nPosted 4 days ago",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "81",
-  "timestamp": "2026-05-02T17:21:51.550616"
+  "timestamp": "2026-05-02T17:39:00.833113"
 }

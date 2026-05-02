@@ -4,11 +4,6 @@
   "total_jobs": 8,
   "jobs": [
     {
-      "title": "Senior Java Software Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0827520/Senior-Java-Software-Engineer",
-      "identifier": "Senior Java Software Engineer_/Senior-Java-Software-Engineer"
-    },
-    {
       "title": "Senior AI Engineer",
       "url": "https://jobs.cvshealth.com/us/en/job/R0893553/Senior-AI-Engineer",
       "identifier": "Senior AI Engineer_ob/R0893553/Senior-AI-Engineer"
@@ -17,6 +12,16 @@
       "title": "Manager - Software Technology Vendor Management",
       "url": "https://jobs.cvshealth.com/us/en/job/R0818678/Manager-Software-Technology-Vendor-Management",
       "identifier": "Manager - Software Technology Vendor Management_e-Technology-Vendor-Management"
+    },
+    {
+      "title": "Analyst, Systems Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0903656/Analyst-Systems-Engineer",
+      "identifier": "Analyst, Systems Engineer_03656/Analyst-Systems-Engineer"
+    },
+    {
+      "title": "Technical Support Representative",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0904196/Technical-Support-Representative",
+      "identifier": "Technical Support Representative_chnical-Support-Representative"
     },
     {
       "title": "Staff Software Development Engineer",
@@ -37,13 +42,8 @@
       "title": "Senior Software Development Engineer",
       "url": "https://jobs.cvshealth.com/us/en/job/R0877668/Senior-Software-Development-Engineer",
       "identifier": "Senior Software Development Engineer_-Software-Development-Engineer"
-    },
-    {
-      "title": "Software Engineer, Pharmacy Technology",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0859761/Software-Engineer-Pharmacy-Technology",
-      "identifier": "Software Engineer, Pharmacy Technology_e-Engineer-Pharmacy-Technology"
     }
   ],
-  "job_count_text": "49",
-  "timestamp": "2026-05-02T08:14:45.649451"
+  "job_count_text": "47",
+  "timestamp": "2026-05-02T08:31:43.544432"
 }

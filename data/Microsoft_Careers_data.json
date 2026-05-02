@@ -4,6 +4,11 @@
   "total_jobs": 8,
   "jobs": [
     {
+      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 16 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556851579?domain=microsoft.com",
+      "identifier": "Senior Software Engineer\nUnited States, Washington_556851579?domain=microsoft.com"
+    },
+    {
       "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 15 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556749615?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Washington_556749615?domain=microsoft.com"
@@ -37,13 +42,8 @@
       "title": "Quality Engineer, Minecraft\nUnited States, Washington, Redmond\nPosted 17 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556862358?domain=microsoft.com",
       "identifier": "Quality Engineer, Minecraft\nUnited States, Washing_556862358?domain=microsoft.com"
-    },
-    {
-      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 18 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556802872?domain=microsoft.com",
-      "identifier": "Software Engineer II\nUnited States, Washington, Re_556802872?domain=microsoft.com"
     }
   ],
-  "job_count_text": "573",
-  "timestamp": "2026-05-02T13:10:34.689674"
+  "job_count_text": "574",
+  "timestamp": "2026-05-02T13:27:41.933887"
 }

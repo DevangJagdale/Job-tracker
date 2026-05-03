@@ -4,6 +4,11 @@
   "total_jobs": 25,
   "jobs": [
     {
+      "title": "Software Engineer III - Java (Geneos, Dynatrace, Datadog)",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210720597/?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
+      "identifier": "jpmc_210720597"
+    },
+    {
       "title": "Lead Software Engineer - Java/AWS/Kafka/Streaming",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210743835/?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
       "identifier": "jpmc_210743835"
@@ -122,13 +127,8 @@
       "title": "Sr Principal Software Engineer - RIO Engineering Lead US+EMEA",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210741108/?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
       "identifier": "jpmc_210741108"
-    },
-    {
-      "title": "Software Engineer III - PySpark/AWS",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210742193/?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
-      "identifier": "jpmc_210742193"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-03T19:44:16.714553"
+  "timestamp": "2026-05-03T20:01:26.462158"
 }

@@ -4,11 +4,6 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "BU Analyst - Catalyst Rotation Program\nBoise, Idaho, United States of America\nPosted 2 days ago",
-      "url": "https://careers.micron.com/careers/job/41782363",
-      "identifier": "BU Analyst - Catalyst Rotation Program\nBoise, Idah_icron.com/careers/job/41782363"
-    },
-    {
       "title": "Staff CAD Engineer, DEG\nRichardson, Texas, United States of America\nPosted 2 days ago",
       "url": "https://careers.micron.com/careers/job/38954305",
       "identifier": "Staff CAD Engineer, DEG\nRichardson, Texas, United _icron.com/careers/job/38954305"
@@ -39,6 +34,11 @@
       "identifier": "Semiconductor Process Engineer, Metrology\nBoise, I_icron.com/careers/job/39196650"
     },
     {
+      "title": "BU Analyst - Catalyst Rotation Program\nBoise, Idaho, United States of America\nPosted 2 days ago",
+      "url": "https://careers.micron.com/careers/job/41782363",
+      "identifier": "BU Analyst - Catalyst Rotation Program\nBoise, Idah_icron.com/careers/job/41782363"
+    },
+    {
       "title": "Product Development Engineer 3\nBoise, Idaho, United States of America\nPosted 4 days ago",
       "url": "https://careers.micron.com/careers/job/41730573",
       "identifier": "Product Development Engineer 3\nBoise, Idaho, Unite_icron.com/careers/job/41730573"
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "81",
-  "timestamp": "2026-05-03T02:07:31.846405"
+  "timestamp": "2026-05-03T02:24:42.506429"
 }

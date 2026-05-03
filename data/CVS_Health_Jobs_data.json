@@ -19,11 +19,6 @@
       "identifier": "Manager - Software Technology Vendor Management_e-Technology-Vendor-Management"
     },
     {
-      "title": "Senior Analyst, Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0902747/Senior-Analyst-Software-Development-Engineer",
-      "identifier": "Senior Analyst, Software Development Engineer_-Software-Development-Engineer"
-    },
-    {
       "title": "Senior Compute Engineer (Apple Platforms and Automation)",
       "url": "https://jobs.cvshealth.com/us/en/job/R0878389/Senior-Compute-Engineer-Apple-Platforms-and-Automation",
       "identifier": "Senior Compute Engineer (Apple Platforms and Autom_Apple-Platforms-and-Automation"
@@ -32,6 +27,11 @@
       "title": "Analyst, Systems Engineer",
       "url": "https://jobs.cvshealth.com/us/en/job/R0903656/Analyst-Systems-Engineer",
       "identifier": "Analyst, Systems Engineer_03656/Analyst-Systems-Engineer"
+    },
+    {
+      "title": "Senior Analyst, Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0902747/Senior-Analyst-Software-Development-Engineer",
+      "identifier": "Senior Analyst, Software Development Engineer_-Software-Development-Engineer"
     },
     {
       "title": "Software Development Engineer (Mainframe)",
@@ -45,5 +45,5 @@
     }
   ],
   "job_count_text": "32",
-  "timestamp": "2026-05-03T17:17:57.267564"
+  "timestamp": "2026-05-03T17:35:07.661280"
 }

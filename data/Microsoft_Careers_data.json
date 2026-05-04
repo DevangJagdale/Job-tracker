@@ -4,6 +4,16 @@
   "total_jobs": 8,
   "jobs": [
     {
+      "title": "Principal Data Scientist\nUnited States, Washington, Redmond + 1 more\nPosted 6 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556863166?domain=microsoft.com",
+      "identifier": "Principal Data Scientist\nUnited States, Washington_556863166?domain=microsoft.com"
+    },
+    {
+      "title": "Principal Software Engineer Manager\nUnited States, Washington, Redmond\nPosted 12 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556853160?domain=microsoft.com",
+      "identifier": "Principal Software Engineer Manager\nUnited States,_556853160?domain=microsoft.com"
+    },
+    {
       "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 2 days ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556851579?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Washington_556851579?domain=microsoft.com"
@@ -32,18 +42,8 @@
       "title": "Software Engineer II - CTJ - Poly\nUnited States, Virginia, Reston + 1 more\nPosted 3 days ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556860137?domain=microsoft.com",
       "identifier": "Software Engineer II - CTJ - Poly\nUnited States, V_556860137?domain=microsoft.com"
-    },
-    {
-      "title": "Software Engineer II - SAP Basis\nUnited States, Washington, Redmond\nPosted 3 days ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556760389?domain=microsoft.com",
-      "identifier": "Software Engineer II - SAP Basis\nUnited States, Wa_556760389?domain=microsoft.com"
-    },
-    {
-      "title": "Quality Engineer, Minecraft\nUnited States, Washington, Redmond\nPosted 3 days ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556862358?domain=microsoft.com",
-      "identifier": "Quality Engineer, Minecraft\nUnited States, Washing_556862358?domain=microsoft.com"
     }
   ],
-  "job_count_text": "554",
-  "timestamp": "2026-05-04T14:59:43.864018"
+  "job_count_text": "556",
+  "timestamp": "2026-05-04T15:16:48.831960"
 }

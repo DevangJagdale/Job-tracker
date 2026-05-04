@@ -4,6 +4,11 @@
   "total_jobs": 19,
   "jobs": [
     {
+      "title": "Senior / Staff ML Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200661236-3337/senior-staff-ml-engineer?team=SFTWR",
+      "identifier": "Senior / Staff ML Engineer_r-staff-ml-engineer?team=SFTWR"
+    },
+    {
       "title": "Systems Engineer",
       "url": "https://jobs.apple.com/en-us/details/200636915-0836/systems-engineer?team=SFTWR",
       "identifier": "Systems Engineer_36/systems-engineer?team=SFTWR"
@@ -92,13 +97,8 @@
       "title": "Technical Program Manager",
       "url": "https://jobs.apple.com/en-us/details/200660901-0836/technical-program-manager?team=SFTWR",
       "identifier": "Technical Program Manager_cal-program-manager?team=SFTWR"
-    },
-    {
-      "title": "Compute SRE",
-      "url": "https://jobs.apple.com/en-us/details/200634911-0836/compute-sre?team=SFTWR",
-      "identifier": "Compute SRE_11-0836/compute-sre?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-04T14:59:59.529299"
+  "timestamp": "2026-05-04T15:17:05.003795"
 }

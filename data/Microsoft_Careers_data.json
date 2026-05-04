@@ -4,7 +4,17 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Senior Site Reliability Engineer - CTJ - Poly\nUnited States, Virginia, Reston + 2 more\nPosted 32 minutes ago",
+      "title": "Principal Software Engineer\nUnited States, Washington, Redmond + 3 more\nPosted 18 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556857289?domain=microsoft.com",
+      "identifier": "Principal Software Engineer\nUnited States, Washing_556857289?domain=microsoft.com"
+    },
+    {
+      "title": "Software Engineering - CTJ - Poly\nUnited States, Washington, Redmond + 2 more\nPosted 17 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556858723?domain=microsoft.com",
+      "identifier": "Software Engineering - CTJ - Poly\nUnited States, W_556858723?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Site Reliability Engineer - CTJ - Poly\nUnited States, Virginia, Reston + 2 more\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556860739?domain=microsoft.com",
       "identifier": "Senior Site Reliability Engineer - CTJ - Poly\nUnit_556860739?domain=microsoft.com"
     },
@@ -42,18 +52,8 @@
       "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 3 days ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556749615?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Washington_556749615?domain=microsoft.com"
-    },
-    {
-      "title": "Principal Software Engineer (Architect)\nUnited States, Washington, Redmond\nPosted 3 days ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556863385?domain=microsoft.com",
-      "identifier": "Principal Software Engineer (Architect)\nUnited Sta_556863385?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 3 days ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556643326?domain=microsoft.com",
-      "identifier": "Senior Software Engineer\nUnited States, Multiple L_556643326?domain=microsoft.com"
     }
   ],
-  "job_count_text": "552",
-  "timestamp": "2026-05-04T19:08:16.575396"
+  "job_count_text": "553",
+  "timestamp": "2026-05-04T19:25:22.960686"
 }

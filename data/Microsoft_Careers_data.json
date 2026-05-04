@@ -4,17 +4,22 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Principal Software Engineer - Identity\nUnited States, Washington, Redmond\nPosted 26 minutes ago",
+      "title": "Principal Software Engineer\nUnited States, Washington, Redmond + 3 more\nPosted 6 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556857289?domain=microsoft.com",
+      "identifier": "Principal Software Engineer\nUnited States, Washing_556857289?domain=microsoft.com"
+    },
+    {
+      "title": "Principal Software Engineer - Identity\nUnited States, Washington, Redmond\nPosted 43 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556623151?domain=microsoft.com",
       "identifier": "Principal Software Engineer - Identity\nUnited Stat_556623151?domain=microsoft.com"
     },
     {
-      "title": "Principal Engineering Manager, Minecraft\nUnited States, Washington, Redmond\nPosted 27 minutes ago",
+      "title": "Principal Engineering Manager, Minecraft\nUnited States, Washington, Redmond\nPosted 44 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556863267?domain=microsoft.com",
       "identifier": "Principal Engineering Manager, Minecraft\nUnited St_556863267?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer - CoreAI\nUnited States, Washington, Redmond\nPosted 27 minutes ago",
+      "title": "Senior Software Engineer - CoreAI\nUnited States, Washington, Redmond\nPosted 44 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556627436?domain=microsoft.com",
       "identifier": "Senior Software Engineer - CoreAI\nUnited States, W_556627436?domain=microsoft.com"
     },
@@ -24,12 +29,7 @@
       "identifier": "Software Engineering - CTJ - Poly\nUnited States, W_556858723?domain=microsoft.com"
     },
     {
-      "title": "Principal Software Engineer\nUnited States, Washington, Redmond + 3 more\nPosted an hour ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556857289?domain=microsoft.com",
-      "identifier": "Principal Software Engineer\nUnited States, Washing_556857289?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Site Reliability Engineer - CTJ - Poly\nUnited States, Virginia, Reston + 2 more\nPosted an hour ago",
+      "title": "Senior Site Reliability Engineer - CTJ - Poly\nUnited States, Virginia, Reston + 2 more\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556860739?domain=microsoft.com",
       "identifier": "Senior Site Reliability Engineer - CTJ - Poly\nUnit_556860739?domain=microsoft.com"
     },
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "553",
-  "timestamp": "2026-05-04T19:59:38.672935"
+  "timestamp": "2026-05-04T20:16:44.493609"
 }

@@ -4,6 +4,11 @@
   "total_jobs": 8,
   "jobs": [
     {
+      "title": "Technical Business Analyst",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0904808/Technical-Business-Analyst",
+      "identifier": "Technical Business Analyst_808/Technical-Business-Analyst"
+    },
+    {
       "title": "Senior Manager - Software Engineering (Health100 Platform)",
       "url": "https://jobs.cvshealth.com/us/en/job/R0860923/Senior-Manager-Software-Engineering-Health100-Platform",
       "identifier": "Senior Manager - Software Engineering (Health100 P_Engineering-Health100-Platform"
@@ -14,9 +19,19 @@
       "identifier": "Manager - Financial Planning and Budget Operations_Planning-and-Budget-Operations"
     },
     {
-      "title": "Technical Business Analyst",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0904808/Technical-Business-Analyst",
-      "identifier": "Technical Business Analyst_808/Technical-Business-Analyst"
+      "title": "Field Service Technician - Taunton/New Bedford, MA",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0890564/Field-Service-Technician-Taunton-New-Bedford-MA",
+      "identifier": "Field Service Technician - Taunton/New Bedford, MA_hnician-Taunton-New-Bedford-MA"
+    },
+    {
+      "title": "IT Production Operations Analyst",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0894308/IT-Production-Operations-Analyst",
+      "identifier": "IT Production Operations Analyst_-Production-Operations-Analyst"
+    },
+    {
+      "title": "Sr Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0887962/Sr-Software-Development-Engineer",
+      "identifier": "Sr Software Development Engineer_-Software-Development-Engineer"
     },
     {
       "title": "Field Service Technician - Fort Wayne IN Metro area",
@@ -27,23 +42,8 @@
       "title": "Sr Manager, Quality Engineering",
       "url": "https://jobs.cvshealth.com/us/en/job/R0900752/Sr-Manager-Quality-Engineering",
       "identifier": "Sr Manager, Quality Engineering_Sr-Manager-Quality-Engineering"
-    },
-    {
-      "title": "Technical Support Representative",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0904196/Technical-Support-Representative",
-      "identifier": "Technical Support Representative_chnical-Support-Representative"
-    },
-    {
-      "title": "Senior Analyst, Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0902747/Senior-Analyst-Software-Development-Engineer",
-      "identifier": "Senior Analyst, Software Development Engineer_-Software-Development-Engineer"
-    },
-    {
-      "title": "Manager - Software Technology Vendor Management",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0818678/Manager-Software-Technology-Vendor-Management",
-      "identifier": "Manager - Software Technology Vendor Management_e-Technology-Vendor-Management"
     }
   ],
-  "job_count_text": "34",
-  "timestamp": "2026-05-04T17:19:04.020279"
+  "job_count_text": "36",
+  "timestamp": "2026-05-04T17:36:15.368851"
 }

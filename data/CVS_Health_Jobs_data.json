@@ -14,19 +14,14 @@
       "identifier": "Manager - Financial Planning and Budget Operations_Planning-and-Budget-Operations"
     },
     {
-      "title": "Sr Manager, Quality Engineering",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0900752/Sr-Manager-Quality-Engineering",
-      "identifier": "Sr Manager, Quality Engineering_Sr-Manager-Quality-Engineering"
-    },
-    {
       "title": "Technical Support Representative",
       "url": "https://jobs.cvshealth.com/us/en/job/R0904196/Technical-Support-Representative",
       "identifier": "Technical Support Representative_chnical-Support-Representative"
     },
     {
-      "title": "Senior Analyst, Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0902747/Senior-Analyst-Software-Development-Engineer",
-      "identifier": "Senior Analyst, Software Development Engineer_-Software-Development-Engineer"
+      "title": "Sr Manager, Quality Engineering",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0900752/Sr-Manager-Quality-Engineering",
+      "identifier": "Sr Manager, Quality Engineering_Sr-Manager-Quality-Engineering"
     },
     {
       "title": "Manager - Software Technology Vendor Management",
@@ -39,11 +34,16 @@
       "identifier": "Senior Compute Engineer (Apple Platforms and Autom_Apple-Platforms-and-Automation"
     },
     {
+      "title": "Senior Analyst, Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0902747/Senior-Analyst-Software-Development-Engineer",
+      "identifier": "Senior Analyst, Software Development Engineer_-Software-Development-Engineer"
+    },
+    {
       "title": "Software Development Engineer (Mainframe)",
       "url": "https://jobs.cvshealth.com/us/en/job/R0898959/Software-Development-Engineer-Mainframe",
       "identifier": "Software Development Engineer (Mainframe)_Development-Engineer-Mainframe"
     }
   ],
   "job_count_text": "31",
-  "timestamp": "2026-05-04T15:52:37.589033"
+  "timestamp": "2026-05-04T16:10:05.699079"
 }

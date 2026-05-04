@@ -1,15 +1,20 @@
 {
   "page_title": "| Microsoft Careers",
   "url": "https://apply.careers.microsoft.com/careers?domain=microsoft.com&start=0&location=United+States&sort_by=timestamp&filter_include_remote=1&filter_profession=software+engineering%2Cresearch%252C%2520applied%252C%2520%2526%2520data%2520sciences",
-  "total_jobs": 8,
+  "total_jobs": 9,
   "jobs": [
     {
-      "title": "Principal Data Scientist\nUnited States, Washington, Redmond + 1 more\nPosted 6 minutes ago",
+      "title": "Sr. Software Engineering\nUnited States, Multiple Locations, Multiple Locations\nPosted 19 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556856910?domain=microsoft.com",
+      "identifier": "Sr. Software Engineering\nUnited States, Multiple L_556856910?domain=microsoft.com"
+    },
+    {
+      "title": "Principal Data Scientist\nUnited States, Washington, Redmond + 1 more\nPosted 23 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556863166?domain=microsoft.com",
       "identifier": "Principal Data Scientist\nUnited States, Washington_556863166?domain=microsoft.com"
     },
     {
-      "title": "Principal Software Engineer Manager\nUnited States, Washington, Redmond\nPosted 12 minutes ago",
+      "title": "Principal Software Engineer Manager\nUnited States, Washington, Redmond\nPosted 29 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556853160?domain=microsoft.com",
       "identifier": "Principal Software Engineer Manager\nUnited States,_556853160?domain=microsoft.com"
     },
@@ -45,5 +50,5 @@
     }
   ],
   "job_count_text": "556",
-  "timestamp": "2026-05-04T15:16:48.831960"
+  "timestamp": "2026-05-04T15:33:59.315479"
 }

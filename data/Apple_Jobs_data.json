@@ -4,6 +4,11 @@
   "total_jobs": 19,
   "jobs": [
     {
+      "title": "Systems Software Developer - iPhone Technical Operations",
+      "url": "https://jobs.apple.com/en-us/details/200656700-0836/systems-software-developer-iphone-technical-operations?team=OPMFG",
+      "identifier": "Systems Software Developer - iPhone Technical Oper_echnical-operations?team=OPMFG"
+    },
+    {
       "title": "Principal Applied Scientist, AI Quality & Meta Evaluation",
       "url": "https://jobs.apple.com/en-us/details/200661039-3337/principal-applied-scientist-ai-quality-meta-evaluation?team=MLAI",
       "identifier": "Principal Applied Scientist, AI Quality & Meta Eva_lity-meta-evaluation?team=MLAI"
@@ -92,13 +97,8 @@
       "title": "Location Estimation Scientist, Sensing & Connectivity",
       "url": "https://jobs.apple.com/en-us/details/200661150-3543/location-estimation-scientist-sensing-connectivity?team=SFTWR",
       "identifier": "Location Estimation Scientist, Sensing & Connectiv_ensing-connectivity?team=SFTWR"
-    },
-    {
-      "title": "Staff Software Engineer, ASE Storage Infrastructure",
-      "url": "https://jobs.apple.com/en-us/details/200661014-3337/staff-software-engineer-ase-storage-infrastructure?team=SFTWR",
-      "identifier": "Staff Software Engineer, ASE Storage Infrastructur_rage-infrastructure?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-04T21:42:47.353491"
+  "timestamp": "2026-05-04T21:59:56.107788"
 }

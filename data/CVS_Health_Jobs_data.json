@@ -4,14 +4,19 @@
   "total_jobs": 8,
   "jobs": [
     {
+      "title": "Sr Manager, Quality Engineering",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0900752/Sr-Manager-Quality-Engineering",
+      "identifier": "Sr Manager, Quality Engineering_Sr-Manager-Quality-Engineering"
+    },
+    {
       "title": "Technical Support Representative",
       "url": "https://jobs.cvshealth.com/us/en/job/R0904196/Technical-Support-Representative",
       "identifier": "Technical Support Representative_chnical-Support-Representative"
     },
     {
-      "title": "Sr Manager, Quality Engineering",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0900752/Sr-Manager-Quality-Engineering",
-      "identifier": "Sr Manager, Quality Engineering_Sr-Manager-Quality-Engineering"
+      "title": "Senior Analyst, Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0902747/Senior-Analyst-Software-Development-Engineer",
+      "identifier": "Senior Analyst, Software Development Engineer_-Software-Development-Engineer"
     },
     {
       "title": "Manager - Software Technology Vendor Management",
@@ -29,21 +34,16 @@
       "identifier": "Analyst, Systems Engineer_03656/Analyst-Systems-Engineer"
     },
     {
-      "title": "Senior Analyst, Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0902747/Senior-Analyst-Software-Development-Engineer",
-      "identifier": "Senior Analyst, Software Development Engineer_-Software-Development-Engineer"
-    },
-    {
       "title": "Software Development Engineer (Mainframe)",
       "url": "https://jobs.cvshealth.com/us/en/job/R0898959/Software-Development-Engineer-Mainframe",
       "identifier": "Software Development Engineer (Mainframe)_Development-Engineer-Mainframe"
     },
     {
-      "title": "Quality Engineer Salesforce",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0851476/Quality-Engineer-Salesforce",
-      "identifier": "Quality Engineer Salesforce_76/Quality-Engineer-Salesforce"
+      "title": "Quality Engineer - Salesforce",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0848214/Quality-Engineer-Salesforce",
+      "identifier": "Quality Engineer - Salesforce_14/Quality-Engineer-Salesforce"
     }
   ],
   "job_count_text": "32",
-  "timestamp": "2026-05-04T03:52:57.262956"
+  "timestamp": "2026-05-04T04:10:09.576073"
 }

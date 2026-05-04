@@ -4,6 +4,11 @@
   "total_jobs": 20,
   "jobs": [
     {
+      "title": "Data Scientist, Media Revenue and Subscriptions",
+      "url": "https://jobs.apple.com/en-us/details/200654768-0670/data-scientist-media-revenue-and-subscriptions?team=SFTWR",
+      "identifier": "Data Scientist, Media Revenue and Subscriptions_e-and-subscriptions?team=SFTWR"
+    },
+    {
       "title": "Software Engineer \u2014 Mail Experience",
       "url": "https://jobs.apple.com/en-us/details/200661378-0836/software-engineer-mail-experience?team=MLAI",
       "identifier": "Software Engineer \u2014 Mail Experience_neer-mail-experience?team=MLAI"
@@ -97,13 +102,8 @@
       "title": "Senior Software Engineer, Machine Learning Infrastructure and Quality",
       "url": "https://jobs.apple.com/en-us/details/200624522-3337/senior-software-engineer-machine-learning-infrastructure-and-quality?team=SFTWR",
       "identifier": "Senior Software Engineer, Machine Learning Infrast_ructure-and-quality?team=SFTWR"
-    },
-    {
-      "title": "Machine Learning Engineer - Natural Language Generation, Input Experience",
-      "url": "https://jobs.apple.com/en-us/details/200636204-3337/machine-learning-engineer-natural-language-generation-input-experience?team=SFTWR",
-      "identifier": "Machine Learning Engineer - Natural Language Gener_on-input-experience?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-04T18:51:26.202045"
+  "timestamp": "2026-05-04T19:08:32.145106"
 }

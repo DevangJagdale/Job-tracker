@@ -4,29 +4,9 @@
   "total_jobs": 8,
   "jobs": [
     {
-      "title": "Senior Manager - Software Development Engineering (PBM)",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0862601/Senior-Manager-Software-Development-Engineering-PBM",
-      "identifier": "Senior Manager - Software Development Engineering _re-Development-Engineering-PBM"
-    },
-    {
-      "title": "ServiceNow Risk Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0862141/ServiceNow-Risk-Engineer",
-      "identifier": "ServiceNow Risk Engineer_62141/ServiceNow-Risk-Engineer"
-    },
-    {
-      "title": "Senior Software Development Engineer (IBMi/AS400)",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0788054/Senior-Software-Development-Engineer-IBMi-AS400",
-      "identifier": "Senior Software Development Engineer (IBMi/AS400)_evelopment-Engineer-IBMi-AS400"
-    },
-    {
-      "title": "Senior Manager - Software Development Engineering",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0897366/Senior-Manager-Software-Development-Engineering",
-      "identifier": "Senior Manager - Software Development Engineering_ftware-Development-Engineering"
-    },
-    {
-      "title": "Manager - Financial Planning and Budget Operations",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0887200/Manager-Financial-Planning-and-Budget-Operations",
-      "identifier": "Manager - Financial Planning and Budget Operations_Planning-and-Budget-Operations"
+      "title": "Technical Business Analyst",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0904808/Technical-Business-Analyst",
+      "identifier": "Technical Business Analyst_808/Technical-Business-Analyst"
     },
     {
       "title": "Field Service Technician - Taunton/New Bedford, MA",
@@ -39,11 +19,31 @@
       "identifier": "IT Production Operations Analyst_-Production-Operations-Analyst"
     },
     {
-      "title": "Technical Business Analyst",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0904808/Technical-Business-Analyst",
-      "identifier": "Technical Business Analyst_808/Technical-Business-Analyst"
+      "title": "Sr Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0887962/Sr-Software-Development-Engineer",
+      "identifier": "Sr Software Development Engineer_-Software-Development-Engineer"
+    },
+    {
+      "title": "Field Service Technician - Fort Wayne IN Metro area",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0895635/Field-Service-Technician-Fort-Wayne-IN-Metro-area",
+      "identifier": "Field Service Technician - Fort Wayne IN Metro are_ician-Fort-Wayne-IN-Metro-area"
+    },
+    {
+      "title": "Senior Data Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0860934/Senior-Data-Engineer",
+      "identifier": "Senior Data Engineer_/R0860934/Senior-Data-Engineer"
+    },
+    {
+      "title": "Senior Manager - Software Development Engineering (PBM)",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0862601/Senior-Manager-Software-Development-Engineering-PBM",
+      "identifier": "Senior Manager - Software Development Engineering _re-Development-Engineering-PBM"
+    },
+    {
+      "title": "Manager - Financial Planning and Budget Operations",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0887200/Manager-Financial-Planning-and-Budget-Operations",
+      "identifier": "Manager - Financial Planning and Budget Operations_Planning-and-Budget-Operations"
     }
   ],
   "job_count_text": "42",
-  "timestamp": "2026-05-04T21:09:23.340927"
+  "timestamp": "2026-05-04T21:26:30.897981"
 }

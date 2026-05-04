@@ -4,6 +4,11 @@
   "total_jobs": 18,
   "jobs": [
     {
+      "title": "Software Engineer (SAP ABAP Application Engineer), IS&T Enterprise Systems",
+      "url": "https://jobs.apple.com/en-us/details/200645295-0157/software-engineer-sap-abap-application-engineer-is-t-enterprise-systems?team=SFTWR",
+      "identifier": "Software Engineer (SAP ABAP Application Engineer),_-enterprise-systems?team=SFTWR"
+    },
+    {
       "title": "Data Scientist, Subscription Analytics",
       "url": "https://jobs.apple.com/en-us/details/200645032-0836/data-scientist-subscription-analytics?team=SFTWR",
       "identifier": "Data Scientist, Subscription Analytics_scription-analytics?team=SFTWR"
@@ -87,13 +92,8 @@
       "title": "Staff Software Engineer, ASE Storage Infrastructure",
       "url": "https://jobs.apple.com/en-us/details/200661014-3337/staff-software-engineer-ase-storage-infrastructure?team=SFTWR",
       "identifier": "Staff Software Engineer, ASE Storage Infrastructur_rage-infrastructure?team=SFTWR"
-    },
-    {
-      "title": "Sr. Machine Learning System Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200638066-0836/sr-machine-learning-system-engineer?team=SFTWR",
-      "identifier": "Sr. Machine Learning System Engineer_ing-system-engineer?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-04T19:25:39.027039"
+  "timestamp": "2026-05-04T19:42:46.036369"
 }

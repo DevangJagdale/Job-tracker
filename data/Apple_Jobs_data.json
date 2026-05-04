@@ -4,14 +4,19 @@
   "total_jobs": 18,
   "jobs": [
     {
-      "title": "Systems Software Engineer, Platform Architecture",
-      "url": "https://jobs.apple.com/en-us/details/200661460-1242/systems-software-engineer-platform-architecture?team=SFTWR",
-      "identifier": "Systems Software Engineer, Platform Architecture_atform-architecture?team=SFTWR"
-    },
-    {
       "title": "Numbers Software Engineer - Visual Productivity",
       "url": "https://jobs.apple.com/en-us/details/200661036-2926/numbers-software-engineer-visual-productivity?team=SFTWR",
       "identifier": "Numbers Software Engineer - Visual Productivity_visual-productivity?team=SFTWR"
+    },
+    {
+      "title": "Technical Program Manager, Enterprise Technology Services",
+      "url": "https://jobs.apple.com/en-us/details/200659503-0157/technical-program-manager-enterprise-technology-services?team=SFTWR",
+      "identifier": "Technical Program Manager, Enterprise Technology S_technology-services?team=SFTWR"
+    },
+    {
+      "title": "Systems Software Engineer, Platform Architecture",
+      "url": "https://jobs.apple.com/en-us/details/200661460-1242/systems-software-engineer-platform-architecture?team=SFTWR",
+      "identifier": "Systems Software Engineer, Platform Architecture_atform-architecture?team=SFTWR"
     },
     {
       "title": "Systems Software Developer - iPhone Technical Operations",
@@ -87,13 +92,8 @@
       "title": "Engineering Program Manager, Capacity Management, Apple Services Engineering",
       "url": "https://jobs.apple.com/en-us/details/200661188-0836/engineering-program-manager-capacity-management-apple-services-engineering?team=SFTWR",
       "identifier": "Engineering Program Manager, Capacity Management, _ervices-engineering?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer - Visual Productivity",
-      "url": "https://jobs.apple.com/en-us/details/200661046-2926/software-engineer-visual-productivity?team=SFTWR",
-      "identifier": "Software Engineer - Visual Productivity_visual-productivity?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-04T22:34:07.942394"
+  "timestamp": "2026-05-04T22:51:14.469061"
 }

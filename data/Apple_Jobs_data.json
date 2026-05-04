@@ -4,6 +4,11 @@
   "total_jobs": 19,
   "jobs": [
     {
+      "title": "Numbers Software Engineer - Visual Productivity",
+      "url": "https://jobs.apple.com/en-us/details/200661036-2926/numbers-software-engineer-visual-productivity?team=SFTWR",
+      "identifier": "Numbers Software Engineer - Visual Productivity_visual-productivity?team=SFTWR"
+    },
+    {
       "title": "Systems Software Developer - iPhone Technical Operations",
       "url": "https://jobs.apple.com/en-us/details/200656700-0836/systems-software-developer-iphone-technical-operations?team=OPMFG",
       "identifier": "Systems Software Developer - iPhone Technical Oper_echnical-operations?team=OPMFG"
@@ -92,13 +97,8 @@
       "title": "Privacy Engineer - App Store, Media Apps & Services",
       "url": "https://jobs.apple.com/en-us/details/200661205-3337/privacy-engineer-app-store-media-apps-services?team=SFTWR",
       "identifier": "Privacy Engineer - App Store, Media Apps & Service_media-apps-services?team=SFTWR"
-    },
-    {
-      "title": "Location Estimation Scientist, Sensing & Connectivity",
-      "url": "https://jobs.apple.com/en-us/details/200661150-3543/location-estimation-scientist-sensing-connectivity?team=SFTWR",
-      "identifier": "Location Estimation Scientist, Sensing & Connectiv_ensing-connectivity?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-04T21:59:56.107788"
+  "timestamp": "2026-05-04T22:17:02.601470"
 }

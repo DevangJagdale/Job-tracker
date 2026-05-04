@@ -4,21 +4,6 @@
   "total_jobs": 8,
   "jobs": [
     {
-      "title": "Technical Business Analyst",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0904808/Technical-Business-Analyst",
-      "identifier": "Technical Business Analyst_808/Technical-Business-Analyst"
-    },
-    {
-      "title": "Senior Data Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0860934/Senior-Data-Engineer",
-      "identifier": "Senior Data Engineer_/R0860934/Senior-Data-Engineer"
-    },
-    {
-      "title": "Manager - Financial Planning and Budget Operations",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0887200/Manager-Financial-Planning-and-Budget-Operations",
-      "identifier": "Manager - Financial Planning and Budget Operations_Planning-and-Budget-Operations"
-    },
-    {
       "title": "Field Service Technician - Taunton/New Bedford, MA",
       "url": "https://jobs.cvshealth.com/us/en/job/R0890564/Field-Service-Technician-Taunton-New-Bedford-MA",
       "identifier": "Field Service Technician - Taunton/New Bedford, MA_hnician-Taunton-New-Bedford-MA"
@@ -27,6 +12,11 @@
       "title": "IT Production Operations Analyst",
       "url": "https://jobs.cvshealth.com/us/en/job/R0894308/IT-Production-Operations-Analyst",
       "identifier": "IT Production Operations Analyst_-Production-Operations-Analyst"
+    },
+    {
+      "title": "Technical Business Analyst",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0904808/Technical-Business-Analyst",
+      "identifier": "Technical Business Analyst_808/Technical-Business-Analyst"
     },
     {
       "title": "Sr Software Development Engineer",
@@ -42,8 +32,18 @@
       "title": "Senior Manager - Software Development Engineering (PBM)",
       "url": "https://jobs.cvshealth.com/us/en/job/R0862601/Senior-Manager-Software-Development-Engineering-PBM",
       "identifier": "Senior Manager - Software Development Engineering _re-Development-Engineering-PBM"
+    },
+    {
+      "title": "Senior Data Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0860934/Senior-Data-Engineer",
+      "identifier": "Senior Data Engineer_/R0860934/Senior-Data-Engineer"
+    },
+    {
+      "title": "Manager - Financial Planning and Budget Operations",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0887200/Manager-Financial-Planning-and-Budget-Operations",
+      "identifier": "Manager - Financial Planning and Budget Operations_Planning-and-Budget-Operations"
     }
   ],
   "job_count_text": "37",
-  "timestamp": "2026-05-04T18:35:18.421984"
+  "timestamp": "2026-05-04T18:52:29.046338"
 }

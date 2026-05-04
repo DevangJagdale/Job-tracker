@@ -1,10 +1,15 @@
 {
   "page_title": "| Microsoft Careers",
   "url": "https://apply.careers.microsoft.com/careers?domain=microsoft.com&start=0&location=United+States&sort_by=timestamp&filter_include_remote=1&filter_profession=software+engineering%2Cresearch%252C%2520applied%252C%2520%2526%2520data%2520sciences",
-  "total_jobs": 9,
+  "total_jobs": 10,
   "jobs": [
     {
-      "title": "Sr. Software Engineering\nUnited States, Multiple Locations, Multiple Locations\nPosted an hour ago",
+      "title": "Software Engineer II - BIC Foundations\nUnited States, Washington, Redmond\nPosted 5 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556756098?domain=microsoft.com",
+      "identifier": "Software Engineer II - BIC Foundations\nUnited Stat_556756098?domain=microsoft.com"
+    },
+    {
+      "title": "Sr. Software Engineering\nUnited States, Multiple Locations, Multiple Locations\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556856910?domain=microsoft.com",
       "identifier": "Sr. Software Engineering\nUnited States, Multiple L_556856910?domain=microsoft.com"
     },
@@ -50,5 +55,5 @@
     }
   ],
   "job_count_text": "553",
-  "timestamp": "2026-05-04T16:43:25.926461"
+  "timestamp": "2026-05-04T17:00:36.227337"
 }

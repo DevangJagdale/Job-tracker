@@ -19,11 +19,6 @@
       "identifier": "Staff IT Solutions Engineer, Collaboration Platfor_ang=en-us&previousLocale=en-US"
     },
     {
-      "title": "Cloud Engineering Intern",
-      "url": "https://careers.rivian.com/careers-home/jobs/30258?lang=en-us&previousLocale=en-US",
-      "identifier": "Cloud Engineering Intern_ang=en-us&previousLocale=en-US"
-    },
-    {
       "title": "Operations Coordinator, Autonomy Systems Validation",
       "url": "https://careers.rivian.com/careers-home/jobs/30550?lang=en-us&previousLocale=en-US",
       "identifier": "Operations Coordinator, Autonomy Systems Validatio_ang=en-us&previousLocale=en-US"
@@ -52,8 +47,13 @@
       "title": "Senior Android Engineer - Trip Planner Firmware",
       "url": "https://careers.rivian.com/careers-home/jobs/26761?lang=en-us&previousLocale=en-US",
       "identifier": "Senior Android Engineer - Trip Planner Firmware_ang=en-us&previousLocale=en-US"
+    },
+    {
+      "title": "Sr. Staff Product Manager, Enterprise Data",
+      "url": "https://careers.rivian.com/careers-home/jobs/23691?lang=en-us&previousLocale=en-US",
+      "identifier": "Sr. Staff Product Manager, Enterprise Data_ang=en-us&previousLocale=en-US"
     }
   ],
-  "job_count_text": "46",
-  "timestamp": "2026-05-04T12:29:05.555108"
+  "job_count_text": "43",
+  "timestamp": "2026-05-04T12:46:13.441527"
 }

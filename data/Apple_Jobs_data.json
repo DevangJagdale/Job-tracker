@@ -4,6 +4,11 @@
   "total_jobs": 19,
   "jobs": [
     {
+      "title": "Systems Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200636915-0836/systems-engineer?team=SFTWR",
+      "identifier": "Systems Engineer_36/systems-engineer?team=SFTWR"
+    },
+    {
       "title": "QE Intelligence \u2014 Software Development Engineer \u2014 Apple Maps",
       "url": "https://jobs.apple.com/en-us/details/200647290-0836/qe-intelligence-software-development-engineer-apple-maps?team=SFTWR",
       "identifier": "QE Intelligence \u2014 Software Development Engineer \u2014 _engineer-apple-maps?team=SFTWR"
@@ -92,13 +97,8 @@
       "title": "Compute SRE",
       "url": "https://jobs.apple.com/en-us/details/200634911-0836/compute-sre?team=SFTWR",
       "identifier": "Compute SRE_11-0836/compute-sre?team=SFTWR"
-    },
-    {
-      "title": "Sr. Machine Learning Solutions Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200646848-0836/sr-machine-learning-solutions-engineer?team=SFTWR",
-      "identifier": "Sr. Machine Learning Solutions Engineer_-solutions-engineer?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-04T12:23:03.215054"
+  "timestamp": "2026-05-04T12:40:11.929876"
 }

@@ -4,24 +4,19 @@
   "total_jobs": 8,
   "jobs": [
     {
-      "title": "Senior Manager - Software Engineering (Health100 Platform)",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0860923/Senior-Manager-Software-Engineering-Health100-Platform",
-      "identifier": "Senior Manager - Software Engineering (Health100 P_Engineering-Health100-Platform"
-    },
-    {
-      "title": "Manager - Financial Planning and Budget Operations",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0887200/Manager-Financial-Planning-and-Budget-Operations",
-      "identifier": "Manager - Financial Planning and Budget Operations_Planning-and-Budget-Operations"
-    },
-    {
       "title": "Technical Business Analyst",
       "url": "https://jobs.cvshealth.com/us/en/job/R0904808/Technical-Business-Analyst",
       "identifier": "Technical Business Analyst_808/Technical-Business-Analyst"
     },
     {
-      "title": "Field Service Technician - Fort Wayne IN Metro area",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0895635/Field-Service-Technician-Fort-Wayne-IN-Metro-area",
-      "identifier": "Field Service Technician - Fort Wayne IN Metro are_ician-Fort-Wayne-IN-Metro-area"
+      "title": "Senior Data Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0860934/Senior-Data-Engineer",
+      "identifier": "Senior Data Engineer_/R0860934/Senior-Data-Engineer"
+    },
+    {
+      "title": "Manager - Financial Planning and Budget Operations",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0887200/Manager-Financial-Planning-and-Budget-Operations",
+      "identifier": "Manager - Financial Planning and Budget Operations_Planning-and-Budget-Operations"
     },
     {
       "title": "Field Service Technician - Taunton/New Bedford, MA",
@@ -39,11 +34,16 @@
       "identifier": "Sr Software Development Engineer_-Software-Development-Engineer"
     },
     {
-      "title": "Senior Analyst, Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0902747/Senior-Analyst-Software-Development-Engineer",
-      "identifier": "Senior Analyst, Software Development Engineer_-Software-Development-Engineer"
+      "title": "Field Service Technician - Fort Wayne IN Metro area",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0895635/Field-Service-Technician-Fort-Wayne-IN-Metro-area",
+      "identifier": "Field Service Technician - Fort Wayne IN Metro are_ician-Fort-Wayne-IN-Metro-area"
+    },
+    {
+      "title": "Senior Manager - Software Development Engineering (PBM)",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0862601/Senior-Manager-Software-Development-Engineering-PBM",
+      "identifier": "Senior Manager - Software Development Engineering _re-Development-Engineering-PBM"
     }
   ],
-  "job_count_text": "36",
-  "timestamp": "2026-05-04T18:18:11.027560"
+  "job_count_text": "37",
+  "timestamp": "2026-05-04T18:35:18.421984"
 }

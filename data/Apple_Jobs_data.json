@@ -4,6 +4,11 @@
   "total_jobs": 19,
   "jobs": [
     {
+      "title": "Principal Applied Scientist, AI Quality & Meta Evaluation",
+      "url": "https://jobs.apple.com/en-us/details/200661039-3337/principal-applied-scientist-ai-quality-meta-evaluation?team=MLAI",
+      "identifier": "Principal Applied Scientist, AI Quality & Meta Eva_lity-meta-evaluation?team=MLAI"
+    },
+    {
       "title": "Applied AI Engineer - iCloud Data",
       "url": "https://jobs.apple.com/en-us/details/200661135-0836/applied-ai-engineer-icloud-data?team=SFTWR",
       "identifier": "Applied AI Engineer - iCloud Data_ngineer-icloud-data?team=SFTWR"
@@ -92,13 +97,8 @@
       "title": "Staff Software Engineer, ASE Storage Infrastructure",
       "url": "https://jobs.apple.com/en-us/details/200661014-3337/staff-software-engineer-ase-storage-infrastructure?team=SFTWR",
       "identifier": "Staff Software Engineer, ASE Storage Infrastructur_rage-infrastructure?team=SFTWR"
-    },
-    {
-      "title": "Sr. Machine Learning System Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200638066-0836/sr-machine-learning-system-engineer?team=SFTWR",
-      "identifier": "Sr. Machine Learning System Engineer_ing-system-engineer?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-04T21:25:29.703826"
+  "timestamp": "2026-05-04T21:42:47.353491"
 }

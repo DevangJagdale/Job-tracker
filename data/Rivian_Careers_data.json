@@ -9,6 +9,11 @@
       "identifier": "Check Application Status_ims.com/jobs/login?loginOnly=1"
     },
     {
+      "title": "Leadership Administrative Partner",
+      "url": "https://careers.rivian.com/careers-home/jobs/30755?lang=en-us&previousLocale=en-US",
+      "identifier": "Leadership Administrative Partner_ang=en-us&previousLocale=en-US"
+    },
+    {
       "title": "Sr. Cybersecurity Engineer",
       "url": "https://careers.rivian.com/careers-home/jobs/28786?lang=en-us&previousLocale=en-US",
       "identifier": "Sr. Cybersecurity Engineer_ang=en-us&previousLocale=en-US"
@@ -47,13 +52,8 @@
       "title": "Senior Android Engineer - Trip Planner Firmware",
       "url": "https://careers.rivian.com/careers-home/jobs/26761?lang=en-us&previousLocale=en-US",
       "identifier": "Senior Android Engineer - Trip Planner Firmware_ang=en-us&previousLocale=en-US"
-    },
-    {
-      "title": "Sr. Staff Product Manager, Enterprise Data",
-      "url": "https://careers.rivian.com/careers-home/jobs/23691?lang=en-us&previousLocale=en-US",
-      "identifier": "Sr. Staff Product Manager, Enterprise Data_ang=en-us&previousLocale=en-US"
     }
   ],
-  "job_count_text": "36",
-  "timestamp": "2026-05-04T17:48:57.609788"
+  "job_count_text": "37",
+  "timestamp": "2026-05-04T18:06:02.815588"
 }

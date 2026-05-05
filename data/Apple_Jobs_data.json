@@ -4,6 +4,11 @@
   "total_jobs": 14,
   "jobs": [
     {
+      "title": "Core Audio Software Engineer, Audio & Media Technologies",
+      "url": "https://jobs.apple.com/en-us/details/200609109-0836/core-audio-software-engineer-audio-media-technologies?team=SFTWR",
+      "identifier": "Core Audio Software Engineer, Audio & Media Techno_-media-technologies?team=SFTWR"
+    },
+    {
       "title": "Partner Compliance Manager - Wallets, Payment, and Commerce",
       "url": "https://jobs.apple.com/en-us/details/200661417-0157/partner-compliance-manager-wallets-payment-and-commerce?team=SFTWR",
       "identifier": "Partner Compliance Manager - Wallets, Payment, and_ayment-and-commerce?team=SFTWR"
@@ -67,13 +72,8 @@
       "title": "Software Integration Engineer, Siri",
       "url": "https://jobs.apple.com/en-us/details/200661470-0836/software-integration-engineer-siri?team=SFTWR",
       "identifier": "Software Integration Engineer, Siri_ation-engineer-siri?team=SFTWR"
-    },
-    {
-      "title": "Senior Software Engineer, System Experience - Personalization",
-      "url": "https://jobs.apple.com/en-us/details/200630763-0836/senior-software-engineer-system-experience-personalization?team=SFTWR",
-      "identifier": "Senior Software Engineer, System Experience - Pers_nce-personalization?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-05T18:29:57.999116"
+  "timestamp": "2026-05-05T18:47:11.436136"
 }

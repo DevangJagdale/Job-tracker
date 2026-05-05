@@ -24,11 +24,6 @@
       "identifier": "Asset & Wealth Management-Software Engineering-Ass_s://higher.gs.com/roles/164028"
     },
     {
-      "title": "Data Engineering - Data, Lakehouse and AI Data Platform Engineer - Analyst - Dallas\nDallas\u00b7United States\n\u00b7Analyst",
-      "url": "https://higher.gs.com/roles/169312",
-      "identifier": "Data Engineering - Data, Lakehouse and AI Data Pla_s://higher.gs.com/roles/169312"
-    },
-    {
       "title": "Data Engineering - Data, Lakehouse and AI Data Platform Engineer - Analyst - New York\nNew York\u00b7United States\n\u00b7Analyst",
       "url": "https://higher.gs.com/roles/169310",
       "identifier": "Data Engineering - Data, Lakehouse and AI Data Pla_s://higher.gs.com/roles/169310"
@@ -102,8 +97,13 @@
       "title": "Asset & Wealth Management-Full Stack Engineer-Associate-Dallas\nDallas\u00b7United States\n\u00b7Associate",
       "url": "https://higher.gs.com/roles/168777",
       "identifier": "Asset & Wealth Management-Full Stack Engineer-Asso_s://higher.gs.com/roles/168777"
+    },
+    {
+      "title": "Asset & Wealth Management - Software Engineer - Associate - Dallas\nDallas\u00b7United States\n\u00b7Associate",
+      "url": "https://higher.gs.com/roles/166884",
+      "identifier": "Asset & Wealth Management - Software Engineer - As_s://higher.gs.com/roles/166884"
     }
   ],
-  "job_count_text": "53",
-  "timestamp": "2026-05-05T21:46:19.100357"
+  "job_count_text": "52",
+  "timestamp": "2026-05-05T22:03:33.739528"
 }

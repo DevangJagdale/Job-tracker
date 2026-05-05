@@ -4,6 +4,11 @@
   "total_jobs": 15,
   "jobs": [
     {
+      "title": "Software Engineer - Cloud Infrastructure, Golang",
+      "url": "https://jobs.apple.com/en-us/details/200661492/software-engineer-cloud-infrastructure-golang?team=SFTWR",
+      "identifier": "Software Engineer - Cloud Infrastructure, Golang_frastructure-golang?team=SFTWR"
+    },
+    {
       "title": "Sr Engineering Manager (Customer Engagement), AI & Data Platforms (AiDP)",
       "url": "https://jobs.apple.com/en-us/details/200661021-3956/sr-engineering-manager-customer-engagement-ai-data-platforms-aidp?team=SFTWR",
       "identifier": "Sr Engineering Manager (Customer Engagement), AI &_data-platforms-aidp?team=SFTWR"
@@ -72,13 +77,8 @@
       "title": "Numbers Software Engineer - Visual Productivity",
       "url": "https://jobs.apple.com/en-us/details/200661036-2926/numbers-software-engineer-visual-productivity?team=SFTWR",
       "identifier": "Numbers Software Engineer - Visual Productivity_visual-productivity?team=SFTWR"
-    },
-    {
-      "title": "Product Manager, Manufacturing Data & Analytics, Enterprise Technology Services",
-      "url": "https://jobs.apple.com/en-us/details/200659503-0157/product-manager-manufacturing-data-analytics-enterprise-technology-services?team=SFTWR",
-      "identifier": "Product Manager, Manufacturing Data & Analytics, E_technology-services?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-05T17:55:34.308925"
+  "timestamp": "2026-05-05T18:12:46.819850"
 }

@@ -4,6 +4,11 @@
   "total_jobs": 17,
   "jobs": [
     {
+      "title": "Staff AI Software Engineer, Siri Core Modeling",
+      "url": "https://jobs.apple.com/en-us/details/200661622-0836/staff-ai-software-engineer-siri-core-modeling?team=SFTWR",
+      "identifier": "Staff AI Software Engineer, Siri Core Modeling_-siri-core-modeling?team=SFTWR"
+    },
+    {
       "title": "Software Engineer - Input Experience Analytics, Input Experience",
       "url": "https://jobs.apple.com/en-us/details/200661396-0836/software-engineer-input-experience-analytics-input-experience?team=SFTWR",
       "identifier": "Software Engineer - Input Experience Analytics, In_cs-input-experience?team=SFTWR"
@@ -82,13 +87,8 @@
       "title": "Engineering Program Manager, Customer Systems Platform Services",
       "url": "https://jobs.apple.com/en-us/details/200661300-3956/engineering-program-manager-customer-systems-platform-services?team=SFTWR",
       "identifier": "Engineering Program Manager, Customer Systems Plat_s-platform-services?team=SFTWR"
-    },
-    {
-      "title": "Manager, OS Build Train Management & Integration",
-      "url": "https://jobs.apple.com/en-us/details/200661604-0836/manager-os-build-train-management-integration?team=SFTWR",
-      "identifier": "Manager, OS Build Train Management & Integration_agement-integration?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-05T22:21:42.224592"
+  "timestamp": "2026-05-05T22:38:55.508544"
 }

@@ -4,6 +4,11 @@
   "total_jobs": 14,
   "jobs": [
     {
+      "title": "Language Experience Engineer, Apple Services Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200661224-0836/language-experience-engineer-apple-services-engineering?team=SFTWR",
+      "identifier": "Language Experience Engineer, Apple Services Engin_ervices-engineering?team=SFTWR"
+    },
+    {
       "title": "Core Audio Software Engineer, Audio & Media Technologies",
       "url": "https://jobs.apple.com/en-us/details/200609109-0836/core-audio-software-engineer-audio-media-technologies?team=SFTWR",
       "identifier": "Core Audio Software Engineer, Audio & Media Techno_-media-technologies?team=SFTWR"
@@ -67,13 +72,8 @@
       "title": "ML Engineer - Experimentation, Portal",
       "url": "https://jobs.apple.com/en-us/details/200619867-0836/ml-engineer-experimentation-portal?team=SFTWR",
       "identifier": "ML Engineer - Experimentation, Portal_erimentation-portal?team=SFTWR"
-    },
-    {
-      "title": "Software Integration Engineer, Siri",
-      "url": "https://jobs.apple.com/en-us/details/200661470-0836/software-integration-engineer-siri?team=SFTWR",
-      "identifier": "Software Integration Engineer, Siri_ation-engineer-siri?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-05T18:47:11.436136"
+  "timestamp": "2026-05-05T19:04:23.886449"
 }

@@ -4,6 +4,11 @@
   "total_jobs": 10,
   "jobs": [
     {
+      "title": "Sales Development Representative I (Full Time) - United States (Virtual Demand Center)",
+      "url": "https://careers.cisco.com/global/en/job/2005272/Sales-Development-Representative-I-Full-Time-United-States-Virtual-Demand-Center",
+      "identifier": "Sales Development Representative I (Full Time) - U_d-States-Virtual-Demand-Center"
+    },
+    {
       "title": "Engineering Project Specialist II (Full Time) - United State",
       "url": "https://careers.cisco.com/global/en/job/2013151/Engineering-Project-Specialist-II-Full-Time-United-State",
       "identifier": "Engineering Project Specialist II (Full Time) - Un_list-II-Full-Time-United-State"
@@ -47,13 +52,8 @@
       "title": "Customer Experience Project Specialist I (Full-Time) - United States",
       "url": "https://careers.cisco.com/global/en/job/2001576/Customer-Experience-Project-Specialist-I-Full-Time-United-States",
       "identifier": "Customer Experience Project Specialist I (Full-Tim_list-I-Full-Time-United-States"
-    },
-    {
-      "title": "Sales Development Representative II (Full Time) United States (Virtual Demand Center) - United States",
-      "url": "https://careers.cisco.com/global/en/job/2008662/Sales-Development-Representative-II-Full-Time-United-States-Virtual-Demand-Center-United-States",
-      "identifier": "Sales Development Representative II (Full Time) Un_al-Demand-Center-United-States"
     }
   ],
-  "job_count_text": "10",
-  "timestamp": "2026-05-05T17:22:57.864427"
+  "job_count_text": "11",
+  "timestamp": "2026-05-05T17:40:08.510839"
 }

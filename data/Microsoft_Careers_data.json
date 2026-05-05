@@ -4,12 +4,17 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Principal Software Architect\nUnited States, Washington, Redmond\nPosted 20 minutes ago",
+      "title": "Software Engineer II\nUnited States, Multiple Locations, Multiple Locations\nPosted 4 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556863505?domain=microsoft.com",
+      "identifier": "Software Engineer II\nUnited States, Multiple Locat_556863505?domain=microsoft.com"
+    },
+    {
+      "title": "Principal Software Architect\nUnited States, Washington, Redmond\nPosted 37 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556754947?domain=microsoft.com",
       "identifier": "Principal Software Architect\nUnited States, Washin_556754947?domain=microsoft.com"
     },
     {
-      "title": "Software Engineer II\nUnited States, Washington, Redmond + 2 more\nPosted 40 minutes ago",
+      "title": "Software Engineer II\nUnited States, Washington, Redmond + 2 more\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556859352?domain=microsoft.com",
       "identifier": "Software Engineer II\nUnited States, Washington, Re_556859352?domain=microsoft.com"
     },
@@ -47,13 +52,8 @@
       "title": "Principal Software Engineer - Identity\nUnited States, Washington, Redmond\nPosted 17 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556860202?domain=microsoft.com",
       "identifier": "Principal Software Engineer - Identity\nUnited Stat_556860202?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Data Scientist - Consumer Marketing\nUnited States, Washington, Redmond + 3 more\nPosted 17 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556862593?domain=microsoft.com",
-      "identifier": "Senior Data Scientist - Consumer Marketing\nUnited _556862593?domain=microsoft.com"
     }
   ],
   "job_count_text": "543",
-  "timestamp": "2026-05-05T14:39:24.551774"
+  "timestamp": "2026-05-05T14:56:19.604905"
 }

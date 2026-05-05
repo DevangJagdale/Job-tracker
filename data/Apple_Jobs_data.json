@@ -1,8 +1,18 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 14,
+  "total_jobs": 15,
   "jobs": [
+    {
+      "title": "Sr Engineering Manager (Customer Engagement), AI & Data Platforms (AiDP)",
+      "url": "https://jobs.apple.com/en-us/details/200661021-3956/sr-engineering-manager-customer-engagement-ai-data-platforms-aidp?team=SFTWR",
+      "identifier": "Sr Engineering Manager (Customer Engagement), AI &_data-platforms-aidp?team=SFTWR"
+    },
+    {
+      "title": "Senior Business Systems Analyst, Apple Cloud Network",
+      "url": "https://jobs.apple.com/en-us/details/200660978-3401/senior-business-systems-analyst-apple-cloud-network?team=SFTWR",
+      "identifier": "Senior Business Systems Analyst, Apple Cloud Netwo_apple-cloud-network?team=SFTWR"
+    },
     {
       "title": "Senior Data Scientist, Apple Services Engineering",
       "url": "https://jobs.apple.com/en-us/details/200646338-0836/senior-data-scientist-apple-services-engineering?team=SFTWR",
@@ -67,13 +77,8 @@
       "title": "Product Manager, Manufacturing Data & Analytics, Enterprise Technology Services",
       "url": "https://jobs.apple.com/en-us/details/200659503-0157/product-manager-manufacturing-data-analytics-enterprise-technology-services?team=SFTWR",
       "identifier": "Product Manager, Manufacturing Data & Analytics, E_technology-services?team=SFTWR"
-    },
-    {
-      "title": "Systems Software Engineer, Platform Architecture",
-      "url": "https://jobs.apple.com/en-us/details/200661460-1242/systems-software-engineer-platform-architecture?team=SFTWR",
-      "identifier": "Systems Software Engineer, Platform Architecture_atform-architecture?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-05T17:38:22.340289"
+  "timestamp": "2026-05-05T17:55:34.308925"
 }

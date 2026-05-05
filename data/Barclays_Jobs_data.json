@@ -1,8 +1,28 @@
 {
   "page_title": "Search our Job Opportunities at Barclays",
   "url": "https://search.jobs.barclays/search-jobs/United%20States/13015/2/6252001/39x76/-98x5/50/2",
-  "total_jobs": 12,
+  "total_jobs": 16,
   "jobs": [
+    {
+      "title": "Internal Audit - VP US Finance & Tax",
+      "url": "https://search.jobs.barclays/job/new-york/internal-audit-vp-us-finance-and-tax/13015/94712715312",
+      "identifier": "Internal Audit - VP US Finance & Tax_ance-and-tax/13015/94712715312"
+    },
+    {
+      "title": "ICB Coverage - Fintech VP",
+      "url": "https://search.jobs.barclays/job/new-york/icb-coverage-fintech-vp/13015/94712715264",
+      "identifier": "ICB Coverage - Fintech VP_e-fintech-vp/13015/94712715264"
+    },
+    {
+      "title": "Application Security Specialist",
+      "url": "https://search.jobs.barclays/job/whippany/application-security-specialist/13015/94712706608",
+      "identifier": "Application Security Specialist_y-specialist/13015/94712706608"
+    },
+    {
+      "title": "Quantitative Analytics Liquid Financing Prime VP",
+      "url": "https://search.jobs.barclays/job/new-york/quantitative-analytics-liquid-financing-prime-vp/13015/94700301648",
+      "identifier": "Quantitative Analytics Liquid Financing Prime VP_ing-prime-vp/13015/94700301648"
+    },
     {
       "title": "Director - Corporate and Equity Derivatives Attorney",
       "url": "https://search.jobs.barclays/job/new-york/director-corporate-and-equity-derivatives-attorney/13015/94612624016",
@@ -65,5 +85,5 @@
     }
   ],
   "job_count_text": "118",
-  "timestamp": "2026-05-05T11:32:18.757431"
+  "timestamp": "2026-05-05T11:49:16.013511"
 }

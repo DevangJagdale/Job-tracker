@@ -1,8 +1,18 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 14,
+  "total_jobs": 15,
   "jobs": [
+    {
+      "title": "Sr. Software Engineering Manager, Apple Ads",
+      "url": "https://jobs.apple.com/en-us/details/200661503-2459/sr-software-engineering-manager-apple-ads?team=SFTWR",
+      "identifier": "Sr. Software Engineering Manager, Apple Ads_g-manager-apple-ads?team=SFTWR"
+    },
+    {
+      "title": "Engineering Program Manager, Customer Systems Platform Services",
+      "url": "https://jobs.apple.com/en-us/details/200661300-3956/engineering-program-manager-customer-systems-platform-services?team=SFTWR",
+      "identifier": "Engineering Program Manager, Customer Systems Plat_s-platform-services?team=SFTWR"
+    },
     {
       "title": "Manager, OS Build Train Management & Integration",
       "url": "https://jobs.apple.com/en-us/details/200661604-0836/manager-os-build-train-management-integration?team=SFTWR",
@@ -67,13 +77,8 @@
       "title": "Staff Applied Scientist, AI Quality & Meta Evaluation",
       "url": "https://jobs.apple.com/en-us/details/200661039-3337/staff-applied-scientist-ai-quality-meta-evaluation?team=MLAI",
       "identifier": "Staff Applied Scientist, AI Quality & Meta Evaluat_lity-meta-evaluation?team=MLAI"
-    },
-    {
-      "title": "Applied AI Engineer - iCloud Data",
-      "url": "https://jobs.apple.com/en-us/details/200661135-0836/applied-ai-engineer-icloud-data?team=SFTWR",
-      "identifier": "Applied AI Engineer - iCloud Data_ngineer-icloud-data?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-05T16:46:48.312289"
+  "timestamp": "2026-05-05T17:04:00.205583"
 }

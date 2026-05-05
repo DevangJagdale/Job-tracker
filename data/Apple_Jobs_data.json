@@ -4,6 +4,11 @@
   "total_jobs": 17,
   "jobs": [
     {
+      "title": "Senior Software Engineer, System Experience - Personalization",
+      "url": "https://jobs.apple.com/en-us/details/200630763-0836/senior-software-engineer-system-experience-personalization?team=SFTWR",
+      "identifier": "Senior Software Engineer, System Experience - Pers_nce-personalization?team=SFTWR"
+    },
+    {
       "title": "Software Development Engineer, Platforms",
       "url": "https://jobs.apple.com/en-us/details/200661459-0836/software-development-engineer-platforms?team=SFTWR",
       "identifier": "Software Development Engineer, Platforms_-engineer-platforms?team=SFTWR"
@@ -82,13 +87,8 @@
       "title": "QE Intelligence \u2014 Software Development Engineer \u2014 Apple Maps",
       "url": "https://jobs.apple.com/en-us/details/200647290-0836/qe-intelligence-software-development-engineer-apple-maps?team=SFTWR",
       "identifier": "QE Intelligence \u2014 Software Development Engineer \u2014 _engineer-apple-maps?team=SFTWR"
-    },
-    {
-      "title": "Platform Foundations Manager",
-      "url": "https://jobs.apple.com/en-us/details/200661010-0836/platform-foundations-manager?team=SFTWR",
-      "identifier": "Platform Foundations Manager_foundations-manager?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-05T01:16:15.894768"
+  "timestamp": "2026-05-05T01:33:27.942394"
 }

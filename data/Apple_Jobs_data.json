@@ -4,14 +4,19 @@
   "total_jobs": 16,
   "jobs": [
     {
-      "title": "Engineering Manager, Shield",
-      "url": "https://jobs.apple.com/en-us/details/200647167-3956/engineering-manager-shield?team=SFTWR",
-      "identifier": "Engineering Manager, Shield_ring-manager-shield?team=SFTWR"
+      "title": "GPU Compiler Engineer, Graphics, Game and ML",
+      "url": "https://jobs.apple.com/en-us/details/200649008-0836/gpu-compiler-engineer-graphics-game-and-ml?team=SFTWR",
+      "identifier": "GPU Compiler Engineer, Graphics, Game and ML_raphics-game-and-ml?team=SFTWR"
     },
     {
       "title": "Engineering Manager, Cloud Network Reliability",
       "url": "https://jobs.apple.com/en-us/details/200642210-3956/engineering-manager-cloud-network-reliability?team=SFTWR",
       "identifier": "Engineering Manager, Cloud Network Reliability_network-reliability?team=SFTWR"
+    },
+    {
+      "title": "Engineering Manager, Shield",
+      "url": "https://jobs.apple.com/en-us/details/200647167-3956/engineering-manager-shield?team=SFTWR",
+      "identifier": "Engineering Manager, Shield_ring-manager-shield?team=SFTWR"
     },
     {
       "title": "SWE Engineering Project Manager, International Experience & Operations Features",
@@ -77,13 +82,8 @@
       "title": "Software Engineer (Front End - In Store Applications), Retail and Marcom Engineering",
       "url": "https://jobs.apple.com/en-us/details/200645384-0157/software-engineer-front-end-in-store-applications-retail-and-marcom-engineering?team=SFTWR",
       "identifier": "Software Engineer (Front End - In Store Applicatio_-marcom-engineering?team=SFTWR"
-    },
-    {
-      "title": "Security Software Engineer, OS Security",
-      "url": "https://jobs.apple.com/en-us/details/200661581-0836/security-software-engineer-os-security?team=SFTWR",
-      "identifier": "Security Software Engineer, OS Security_ngineer-os-security?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-05T21:04:47.875396"
+  "timestamp": "2026-05-05T21:22:03.189002"
 }

@@ -4,11 +4,6 @@
   "total_jobs": 12,
   "jobs": [
     {
-      "title": "Change Delivery Manager",
-      "url": "https://search.jobs.barclays/job/whippany/change-delivery-manager/13015/94700295216",
-      "identifier": "Change Delivery Manager_very-manager/13015/94700295216"
-    },
-    {
       "title": "Director - Corporate and Equity Derivatives Attorney",
       "url": "https://search.jobs.barclays/job/new-york/director-corporate-and-equity-derivatives-attorney/13015/94612624016",
       "identifier": "Director - Corporate and Equity Derivatives Attorn_ves-attorney/13015/94612624016"
@@ -62,8 +57,13 @@
       "title": "Software Engineer \u2013 BA4",
       "url": "https://search.jobs.barclays/job/whippany/software-engineer-ba4/13015/94536954352",
       "identifier": "Software Engineer \u2013 BA4_engineer-ba4/13015/94536954352"
+    },
+    {
+      "title": "Assistant VP \u2013 Global Markets",
+      "url": "https://search.jobs.barclays/job/new-york/assistant-vp-global-markets/13015/94536954336",
+      "identifier": "Assistant VP \u2013 Global Markets_obal-markets/13015/94536954336"
     }
   ],
-  "job_count_text": "124",
-  "timestamp": "2026-05-05T05:23:47.361440"
+  "job_count_text": "118",
+  "timestamp": "2026-05-05T05:41:03.198385"
 }

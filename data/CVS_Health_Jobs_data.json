@@ -4,6 +4,11 @@
   "total_jobs": 8,
   "jobs": [
     {
+      "title": "Technical Business Analyst",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0904808/Technical-Business-Analyst",
+      "identifier": "Technical Business Analyst_808/Technical-Business-Analyst"
+    },
+    {
       "title": "Field Service Technician - Taunton/New Bedford, MA",
       "url": "https://jobs.cvshealth.com/us/en/job/R0890564/Field-Service-Technician-Taunton-New-Bedford-MA",
       "identifier": "Field Service Technician - Taunton/New Bedford, MA_hnician-Taunton-New-Bedford-MA"
@@ -12,11 +17,6 @@
       "title": "IT Production Operations Analyst",
       "url": "https://jobs.cvshealth.com/us/en/job/R0894308/IT-Production-Operations-Analyst",
       "identifier": "IT Production Operations Analyst_-Production-Operations-Analyst"
-    },
-    {
-      "title": "Technical Business Analyst",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0904808/Technical-Business-Analyst",
-      "identifier": "Technical Business Analyst_808/Technical-Business-Analyst"
     },
     {
       "title": "Sr Software Development Engineer",
@@ -34,16 +34,16 @@
       "identifier": "Senior Data Engineer_/R0860934/Senior-Data-Engineer"
     },
     {
-      "title": "Executive Director, Engineering - AI Automation",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0849706/Executive-Director-Engineering-AI-Automation",
-      "identifier": "Executive Director, Engineering - AI Automation_ctor-Engineering-AI-Automation"
+      "title": "Senior Manager - Software Development Engineering (PBM)",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0862601/Senior-Manager-Software-Development-Engineering-PBM",
+      "identifier": "Senior Manager - Software Development Engineering _re-Development-Engineering-PBM"
     },
     {
-      "title": "Senior Manager - Software Engineering (Health100 Platform)",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0863062/Senior-Manager-Software-Engineering-Health100-Platform",
-      "identifier": "Senior Manager - Software Engineering (Health100 P_Engineering-Health100-Platform"
+      "title": "Manager - Financial Planning and Budget Operations",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0887200/Manager-Financial-Planning-and-Budget-Operations",
+      "identifier": "Manager - Financial Planning and Budget Operations_Planning-and-Budget-Operations"
     }
   ],
   "job_count_text": "44",
-  "timestamp": "2026-05-05T06:51:39.131254"
+  "timestamp": "2026-05-05T07:08:53.849100"
 }

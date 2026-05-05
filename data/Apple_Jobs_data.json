@@ -4,6 +4,11 @@
   "total_jobs": 15,
   "jobs": [
     {
+      "title": "Security Software Engineer, OS Security",
+      "url": "https://jobs.apple.com/en-us/details/200661581-0836/security-software-engineer-os-security?team=SFTWR",
+      "identifier": "Security Software Engineer, OS Security_ngineer-os-security?team=SFTWR"
+    },
+    {
       "title": "Staff Data Scientist - Experimentation",
       "url": "https://jobs.apple.com/en-us/details/200618200-2621/staff-data-scientist-experimentation?team=SFTWR",
       "identifier": "Staff Data Scientist - Experimentation_ist-experimentation?team=SFTWR"
@@ -72,13 +77,8 @@
       "title": "Software Engineer \u2014 Mail Experience",
       "url": "https://jobs.apple.com/en-us/details/200661378-0836/software-engineer-mail-experience?team=MLAI",
       "identifier": "Software Engineer \u2014 Mail Experience_neer-mail-experience?team=MLAI"
-    },
-    {
-      "title": "Sr Software Engineer (Infrastructure Applications), Infrastructure Services",
-      "url": "https://jobs.apple.com/en-us/details/200661067-3956/sr-software-engineer-infrastructure-applications-infrastructure-services?team=SFTWR",
-      "identifier": "Sr Software Engineer (Infrastructure Applications)_astructure-services?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-05T13:14:43.299114"
+  "timestamp": "2026-05-05T13:31:40.548773"
 }

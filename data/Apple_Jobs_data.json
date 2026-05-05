@@ -1,8 +1,18 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 15,
+  "total_jobs": 16,
   "jobs": [
+    {
+      "title": "Engineering Manager, Shield",
+      "url": "https://jobs.apple.com/en-us/details/200647167-3956/engineering-manager-shield?team=SFTWR",
+      "identifier": "Engineering Manager, Shield_ring-manager-shield?team=SFTWR"
+    },
+    {
+      "title": "Engineering Manager, Cloud Network Reliability",
+      "url": "https://jobs.apple.com/en-us/details/200642210-3956/engineering-manager-cloud-network-reliability?team=SFTWR",
+      "identifier": "Engineering Manager, Cloud Network Reliability_network-reliability?team=SFTWR"
+    },
     {
       "title": "SWE Engineering Project Manager, International Experience & Operations Features",
       "url": "https://jobs.apple.com/en-us/details/200649007-0836/swe-engineering-project-manager-international-experience-operations-features?team=SFTWR",
@@ -72,13 +82,8 @@
       "title": "Security Software Engineer, OS Security",
       "url": "https://jobs.apple.com/en-us/details/200661581-0836/security-software-engineer-os-security?team=SFTWR",
       "identifier": "Security Software Engineer, OS Security_ngineer-os-security?team=SFTWR"
-    },
-    {
-      "title": "Staff Data Scientist - Experimentation",
-      "url": "https://jobs.apple.com/en-us/details/200618200-2621/staff-data-scientist-experimentation?team=SFTWR",
-      "identifier": "Staff Data Scientist - Experimentation_ist-experimentation?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-05T20:47:37.056358"
+  "timestamp": "2026-05-05T21:04:47.875396"
 }

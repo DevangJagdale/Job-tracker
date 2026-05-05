@@ -4,6 +4,11 @@
   "total_jobs": 20,
   "jobs": [
     {
+      "title": "AI/ML Engineer, Global Banking & Markets, Investment Banking\nDallas\u00b7United States\n\u00b7Associate",
+      "url": "https://higher.gs.com/roles/161628",
+      "identifier": "AI/ML Engineer, Global Banking & Markets, Investme_s://higher.gs.com/roles/161628"
+    },
+    {
       "title": "Compliance, Data Engineering, Software Engineering, NY, Associate\nNew York\u00b7United States\n\u00b7Associate",
       "url": "https://higher.gs.com/roles/171671",
       "identifier": "Compliance, Data Engineering, Software Engineering_s://higher.gs.com/roles/171671"
@@ -97,13 +102,8 @@
       "title": "Asset & Wealth Management - Software Engineer - Associate - New York\nNew York\u00b7United States\n\u00b7Associate",
       "url": "https://higher.gs.com/roles/159475",
       "identifier": "Asset & Wealth Management - Software Engineer - As_s://higher.gs.com/roles/159475"
-    },
-    {
-      "title": "Asset & Wealth Management-Full Stack Engineer-Associate-Dallas\nDallas\u00b7United States\n\u00b7Associate",
-      "url": "https://higher.gs.com/roles/168777",
-      "identifier": "Asset & Wealth Management-Full Stack Engineer-Asso_s://higher.gs.com/roles/168777"
     }
   ],
   "job_count_text": "54",
-  "timestamp": "2026-05-05T14:21:46.003428"
+  "timestamp": "2026-05-05T14:38:50.242182"
 }

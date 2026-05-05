@@ -1,8 +1,13 @@
 {
   "page_title": "Job Openings - Cisco Careers",
   "url": "https://careers.cisco.com/global/en/search-results?s=1",
-  "total_jobs": 9,
+  "total_jobs": 10,
   "jobs": [
+    {
+      "title": "Engineering Project Specialist II (Full Time) - United State",
+      "url": "https://careers.cisco.com/global/en/job/2013151/Engineering-Project-Specialist-II-Full-Time-United-State",
+      "identifier": "Engineering Project Specialist II (Full Time) - Un_list-II-Full-Time-United-State"
+    },
     {
       "title": "Sales Development Representative (Remote)",
       "url": "https://careers.cisco.com/global/en/job/2006129/Sales-Development-Representative-Remote",
@@ -49,6 +54,6 @@
       "identifier": "Sales Development Representative II (Full Time) Un_al-Demand-Center-United-States"
     }
   ],
-  "job_count_text": "9",
-  "timestamp": "2026-05-05T14:24:27.467322"
+  "job_count_text": "10",
+  "timestamp": "2026-05-05T14:41:22.591027"
 }

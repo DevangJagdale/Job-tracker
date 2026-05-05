@@ -4,6 +4,11 @@
   "total_jobs": 15,
   "jobs": [
     {
+      "title": "Software Engineer (Front End - In Store Applications), Retail and Marcom Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200645384-0157/software-engineer-front-end-in-store-applications-retail-and-marcom-engineering?team=SFTWR",
+      "identifier": "Software Engineer (Front End - In Store Applicatio_-marcom-engineering?team=SFTWR"
+    },
+    {
       "title": "Security Software Engineer, OS Security",
       "url": "https://jobs.apple.com/en-us/details/200661581-0836/security-software-engineer-os-security?team=SFTWR",
       "identifier": "Security Software Engineer, OS Security_ngineer-os-security?team=SFTWR"
@@ -72,13 +77,8 @@
       "title": "Data Scientist, Media Revenue and Subscriptions",
       "url": "https://jobs.apple.com/en-us/details/200654768-0670/data-scientist-media-revenue-and-subscriptions?team=SFTWR",
       "identifier": "Data Scientist, Media Revenue and Subscriptions_e-and-subscriptions?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer \u2014 Mail Experience",
-      "url": "https://jobs.apple.com/en-us/details/200661378-0836/software-engineer-mail-experience?team=MLAI",
-      "identifier": "Software Engineer \u2014 Mail Experience_neer-mail-experience?team=MLAI"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-05T13:48:39.582249"
+  "timestamp": "2026-05-05T14:05:38.532869"
 }

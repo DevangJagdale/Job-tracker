@@ -1,8 +1,13 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 16,
+  "total_jobs": 15,
   "jobs": [
+    {
+      "title": "Staff Data Scientist - Experimentation",
+      "url": "https://jobs.apple.com/en-us/details/200618200-2621/staff-data-scientist-experimentation?team=SFTWR",
+      "identifier": "Staff Data Scientist - Experimentation_ist-experimentation?team=SFTWR"
+    },
     {
       "title": "ML Engineer - Experimentation, Portal",
       "url": "https://jobs.apple.com/en-us/details/200619867-0836/ml-engineer-experimentation-portal?team=SFTWR",
@@ -72,18 +77,8 @@
       "title": "Sr Software Engineer (Infrastructure Applications), Infrastructure Services",
       "url": "https://jobs.apple.com/en-us/details/200661067-3956/sr-software-engineer-infrastructure-applications-infrastructure-services?team=SFTWR",
       "identifier": "Sr Software Engineer (Infrastructure Applications)_astructure-services?team=SFTWR"
-    },
-    {
-      "title": "Community and Content Engineer, Open Source Program Office (OSPO)",
-      "url": "https://jobs.apple.com/en-us/details/200653277-3337/community-and-content-engineer-open-source-program-office-ospo?team=SFTWR",
-      "identifier": "Community and Content Engineer, Open Source Progra_program-office-ospo?team=SFTWR"
-    },
-    {
-      "title": "Wi-Fi Software Development Engineer - Test, Wireless Technologies & Ecosystems",
-      "url": "https://jobs.apple.com/en-us/details/200661202-3543/wi-fi-software-development-engineer-test-wireless-technologies-ecosystems?team=SFTWR",
-      "identifier": "Wi-Fi Software Development Engineer - Test, Wirele_nologies-ecosystems?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-05T12:57:46.204078"
+  "timestamp": "2026-05-05T13:14:43.299114"
 }

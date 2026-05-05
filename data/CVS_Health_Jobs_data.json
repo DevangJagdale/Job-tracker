@@ -1,8 +1,49 @@
 {
   "page_title": "Search CVS Health Jobs | Find Your Next Career Opportunity",
   "url": "https://jobs.cvshealth.com/us/en/search-results",
-  "total_jobs": 14911,
-  "jobs": [],
-  "job_count_text": "14911",
-  "timestamp": "2026-05-05T22:40:01.135377"
+  "total_jobs": 8,
+  "jobs": [
+    {
+      "title": "Technical Business Analyst",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0904808/Technical-Business-Analyst",
+      "identifier": "Technical Business Analyst_808/Technical-Business-Analyst"
+    },
+    {
+      "title": "Field Service Technician - Taunton/New Bedford, MA",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0890564/Field-Service-Technician-Taunton-New-Bedford-MA",
+      "identifier": "Field Service Technician - Taunton/New Bedford, MA_hnician-Taunton-New-Bedford-MA"
+    },
+    {
+      "title": "IT Production Operations Analyst",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0894308/IT-Production-Operations-Analyst",
+      "identifier": "IT Production Operations Analyst_-Production-Operations-Analyst"
+    },
+    {
+      "title": "Sr Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0887962/Sr-Software-Development-Engineer",
+      "identifier": "Sr Software Development Engineer_-Software-Development-Engineer"
+    },
+    {
+      "title": "Field Service Technician - Fort Wayne IN Metro area",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0895635/Field-Service-Technician-Fort-Wayne-IN-Metro-area",
+      "identifier": "Field Service Technician - Fort Wayne IN Metro are_ician-Fort-Wayne-IN-Metro-area"
+    },
+    {
+      "title": "Senior Manager - Software Development Engineering (PBM)",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0862601/Senior-Manager-Software-Development-Engineering-PBM",
+      "identifier": "Senior Manager - Software Development Engineering _re-Development-Engineering-PBM"
+    },
+    {
+      "title": "Manager - Financial Planning and Budget Operations",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0887200/Manager-Financial-Planning-and-Budget-Operations",
+      "identifier": "Manager - Financial Planning and Budget Operations_Planning-and-Budget-Operations"
+    },
+    {
+      "title": "Senior Software Development Engineer (IBMi/AS400)",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0788054/Senior-Software-Development-Engineer-IBMi-AS400",
+      "identifier": "Senior Software Development Engineer (IBMi/AS400)_evelopment-Engineer-IBMi-AS400"
+    }
+  ],
+  "job_count_text": "41",
+  "timestamp": "2026-05-05T22:57:16.284138"
 }

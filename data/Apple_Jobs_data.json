@@ -1,8 +1,13 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 17,
+  "total_jobs": 16,
   "jobs": [
+    {
+      "title": "ML Engineer - Experimentation, Portal",
+      "url": "https://jobs.apple.com/en-us/details/200619867-0836/ml-engineer-experimentation-portal?team=SFTWR",
+      "identifier": "ML Engineer - Experimentation, Portal_erimentation-portal?team=SFTWR"
+    },
     {
       "title": "Software Integration Engineer, Siri",
       "url": "https://jobs.apple.com/en-us/details/200661470-0836/software-integration-engineer-siri?team=SFTWR",
@@ -77,18 +82,8 @@
       "title": "Wi-Fi Software Development Engineer - Test, Wireless Technologies & Ecosystems",
       "url": "https://jobs.apple.com/en-us/details/200661202-3543/wi-fi-software-development-engineer-test-wireless-technologies-ecosystems?team=SFTWR",
       "identifier": "Wi-Fi Software Development Engineer - Test, Wirele_nologies-ecosystems?team=SFTWR"
-    },
-    {
-      "title": "Senior / Staff ML Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200661236-3337/senior-staff-ml-engineer?team=SFTWR",
-      "identifier": "Senior / Staff ML Engineer_r-staff-ml-engineer?team=SFTWR"
-    },
-    {
-      "title": "Systems Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200636915-0836/systems-engineer?team=SFTWR",
-      "identifier": "Systems Engineer_36/systems-engineer?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-05T12:40:46.531219"
+  "timestamp": "2026-05-05T12:57:46.204078"
 }

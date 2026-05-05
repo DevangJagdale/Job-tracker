@@ -9,14 +9,14 @@
       "identifier": "Sales Development Representative (Remote)_elopment-Representative-Remote"
     },
     {
-      "title": "Account Development Representative II (Full Time) United States",
-      "url": "https://careers.cisco.com/global/en/job/2001887/Account-Development-Representative-II-Full-Time-United-States",
-      "identifier": "Account Development Representative II (Full Time) _ive-II-Full-Time-United-States"
-    },
-    {
       "title": "Business Operations Analyst I (Full-Time) - United States",
       "url": "https://careers.cisco.com/global/en/job/2013105/Business-Operations-Analyst-I-Full-Time-United-States",
       "identifier": "Business Operations Analyst I (Full-Time) - United_lyst-I-Full-Time-United-States"
+    },
+    {
+      "title": "Account Development Representative II (Full Time) United States",
+      "url": "https://careers.cisco.com/global/en/job/2001887/Account-Development-Representative-II-Full-Time-United-States",
+      "identifier": "Account Development Representative II (Full Time) _ive-II-Full-Time-United-States"
     },
     {
       "title": "Software Engineer Backend/Platform Systems I (Full Time) \u2013 United States",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "12",
-  "timestamp": "2026-05-05T03:52:33.904488"
+  "timestamp": "2026-05-05T04:09:41.583918"
 }

@@ -4,6 +4,11 @@
   "total_jobs": 17,
   "jobs": [
     {
+      "title": "Software Integration Engineer, Siri",
+      "url": "https://jobs.apple.com/en-us/details/200661470-0836/software-integration-engineer-siri?team=SFTWR",
+      "identifier": "Software Integration Engineer, Siri_ation-engineer-siri?team=SFTWR"
+    },
+    {
       "title": "Senior Software Engineer, System Experience - Personalization",
       "url": "https://jobs.apple.com/en-us/details/200630763-0836/senior-software-engineer-system-experience-personalization?team=SFTWR",
       "identifier": "Senior Software Engineer, System Experience - Pers_nce-personalization?team=SFTWR"
@@ -82,13 +87,8 @@
       "title": "Systems Engineer",
       "url": "https://jobs.apple.com/en-us/details/200636915-0836/systems-engineer?team=SFTWR",
       "identifier": "Systems Engineer_36/systems-engineer?team=SFTWR"
-    },
-    {
-      "title": "QE Intelligence \u2014 Software Development Engineer \u2014 Apple Maps",
-      "url": "https://jobs.apple.com/en-us/details/200647290-0836/qe-intelligence-software-development-engineer-apple-maps?team=SFTWR",
-      "identifier": "QE Intelligence \u2014 Software Development Engineer \u2014 _engineer-apple-maps?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-05T04:25:03.289546"
+  "timestamp": "2026-05-05T04:42:09.398115"
 }

@@ -4,14 +4,14 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "New College Grad - Engineer, Surface Lab\nBoise, Idaho, United States of America\nPosted 21 hours ago",
-      "url": "https://careers.micron.com/careers/job/41824643",
-      "identifier": "New College Grad - Engineer, Surface Lab\nBoise, Id_icron.com/careers/job/41824643"
-    },
-    {
-      "title": "Pathfinding Device Integration Engineer\nBoise, Idaho, United States of America\nPosted 21 hours ago",
+      "title": "Pathfinding Device Integration Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/41782272",
       "identifier": "Pathfinding Device Integration Engineer\nBoise, Ida_icron.com/careers/job/41782272"
+    },
+    {
+      "title": "New College Grad - Engineer, Surface Lab\nBoise, Idaho, United States of America\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/41824643",
+      "identifier": "New College Grad - Engineer, Surface Lab\nBoise, Id_icron.com/careers/job/41824643"
     },
     {
       "title": "Manufacturing Engineer - ID1 CMP\nBoise, Idaho, United States of America\nPosted 2 days ago",
@@ -22,11 +22,6 @@
       "title": "Memory Design Engineer, HBM\nRichardson, Texas, United States of America\nPosted 2 days ago",
       "url": "https://careers.micron.com/careers/job/40709801",
       "identifier": "Memory Design Engineer, HBM\nRichardson, Texas, Uni_icron.com/careers/job/40709801"
-    },
-    {
-      "title": "TEM Engineer\nBoise, Idaho, United States of America\nPosted 5 days ago",
-      "url": "https://careers.micron.com/careers/job/40081570",
-      "identifier": "TEM Engineer\nBoise, Idaho, United States of Americ_icron.com/careers/job/40081570"
     },
     {
       "title": "Staff CAD Design Automation Engineer, Central Engineering\nBoise, Idaho, United States of America\nPosted 5 days ago",
@@ -52,8 +47,13 @@
       "title": "Semiconductor Process Engineer, Metrology\nBoise, Idaho, United States of America\nPosted 5 days ago",
       "url": "https://careers.micron.com/careers/job/39196650",
       "identifier": "Semiconductor Process Engineer, Metrology\nBoise, I_icron.com/careers/job/39196650"
+    },
+    {
+      "title": "TEM Engineer\nBoise, Idaho, United States of America\nPosted 5 days ago",
+      "url": "https://careers.micron.com/careers/job/40081570",
+      "identifier": "TEM Engineer\nBoise, Idaho, United States of Americ_icron.com/careers/job/40081570"
     }
   ],
   "job_count_text": "79",
-  "timestamp": "2026-05-05T21:25:20.768069"
+  "timestamp": "2026-05-05T21:33:13.100315"
 }

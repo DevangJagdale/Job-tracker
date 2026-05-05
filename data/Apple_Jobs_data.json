@@ -1,8 +1,18 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 16,
+  "total_jobs": 17,
   "jobs": [
+    {
+      "title": "Software Engineer - Input Experience Analytics, Input Experience",
+      "url": "https://jobs.apple.com/en-us/details/200661396-0836/software-engineer-input-experience-analytics-input-experience?team=SFTWR",
+      "identifier": "Software Engineer - Input Experience Analytics, In_cs-input-experience?team=SFTWR"
+    },
+    {
+      "title": "Senior Software Engineer - Apple Ads",
+      "url": "https://jobs.apple.com/en-us/details/200646233-0836/senior-software-engineer-apple-ads?team=SFTWR",
+      "identifier": "Senior Software Engineer - Apple Ads_-engineer-apple-ads?team=SFTWR"
+    },
     {
       "title": "GPU Compiler Engineer, Graphics, Game and ML",
       "url": "https://jobs.apple.com/en-us/details/200649008-0836/gpu-compiler-engineer-graphics-game-and-ml?team=SFTWR",
@@ -77,13 +87,8 @@
       "title": "Manager, OS Build Train Management & Integration",
       "url": "https://jobs.apple.com/en-us/details/200661604-0836/manager-os-build-train-management-integration?team=SFTWR",
       "identifier": "Manager, OS Build Train Management & Integration_agement-integration?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer (Front End - In Store Applications), Retail and Marcom Engineering",
-      "url": "https://jobs.apple.com/en-us/details/200645384-0157/software-engineer-front-end-in-store-applications-retail-and-marcom-engineering?team=SFTWR",
-      "identifier": "Software Engineer (Front End - In Store Applicatio_-marcom-engineering?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-05T21:22:03.189002"
+  "timestamp": "2026-05-05T21:29:51.227790"
 }

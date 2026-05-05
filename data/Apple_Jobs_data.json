@@ -4,6 +4,11 @@
   "total_jobs": 15,
   "jobs": [
     {
+      "title": "SWE Engineering Project Manager, International Experience & Operations Features",
+      "url": "https://jobs.apple.com/en-us/details/200649007-0836/swe-engineering-project-manager-international-experience-operations-features?team=SFTWR",
+      "identifier": "SWE Engineering Project Manager, International Exp_operations-features?team=SFTWR"
+    },
+    {
       "title": "Software Engineer - Strategic Data Solutions",
       "url": "https://jobs.apple.com/en-us/details/200640140-0157/software-engineer-strategic-data-solutions?team=SFTWR",
       "identifier": "Software Engineer - Strategic Data Solutions_egic-data-solutions?team=SFTWR"
@@ -72,13 +77,8 @@
       "title": "Staff Data Scientist - Experimentation",
       "url": "https://jobs.apple.com/en-us/details/200618200-2621/staff-data-scientist-experimentation?team=SFTWR",
       "identifier": "Staff Data Scientist - Experimentation_ist-experimentation?team=SFTWR"
-    },
-    {
-      "title": "ML Engineer - Experimentation, Portal",
-      "url": "https://jobs.apple.com/en-us/details/200619867-0836/ml-engineer-experimentation-portal?team=SFTWR",
-      "identifier": "ML Engineer - Experimentation, Portal_erimentation-portal?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-05T19:56:00.912020"
+  "timestamp": "2026-05-05T20:13:15.618063"
 }

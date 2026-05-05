@@ -1,8 +1,18 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 17,
+  "total_jobs": 15,
   "jobs": [
+    {
+      "title": "Full Stack Software Engineer, Productivity Apps",
+      "url": "https://jobs.apple.com/en-us/details/200661577-0836/full-stack-software-engineer-productivity-apps?team=SFTWR",
+      "identifier": "Full Stack Software Engineer, Productivity Apps_r-productivity-apps?team=SFTWR"
+    },
+    {
+      "title": "Photos Backend Systems Engineer, Camera & Photos",
+      "url": "https://jobs.apple.com/en-us/details/200626429-0836/photos-backend-systems-engineer-camera-photos?team=SFTWR",
+      "identifier": "Photos Backend Systems Engineer, Camera & Photos_ineer-camera-photos?team=SFTWR"
+    },
     {
       "title": "Audio Software Engineer, Vision Products Group",
       "url": "https://jobs.apple.com/en-us/details/200632708-0365/audio-software-engineer-vision-products-group?team=SFTWR",
@@ -67,28 +77,8 @@
       "title": "Language Experience Engineer, Apple Services Engineering",
       "url": "https://jobs.apple.com/en-us/details/200661224-0836/language-experience-engineer-apple-services-engineering?team=SFTWR",
       "identifier": "Language Experience Engineer, Apple Services Engin_ervices-engineering?team=SFTWR"
-    },
-    {
-      "title": "Core Audio Software Engineer, Audio & Media Technologies",
-      "url": "https://jobs.apple.com/en-us/details/200609109-0836/core-audio-software-engineer-audio-media-technologies?team=SFTWR",
-      "identifier": "Core Audio Software Engineer, Audio & Media Techno_-media-technologies?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer - Cloud Infrastructure, Golang",
-      "url": "https://jobs.apple.com/en-us/details/200661492/software-engineer-cloud-infrastructure-golang?team=SFTWR",
-      "identifier": "Software Engineer - Cloud Infrastructure, Golang_frastructure-golang?team=SFTWR"
-    },
-    {
-      "title": "Sr Engineering Manager (Customer Engagement), AI & Data Platforms (AiDP)",
-      "url": "https://jobs.apple.com/en-us/details/200661021-3956/sr-engineering-manager-customer-engagement-ai-data-platforms-aidp?team=SFTWR",
-      "identifier": "Sr Engineering Manager (Customer Engagement), AI &_data-platforms-aidp?team=SFTWR"
-    },
-    {
-      "title": "Senior Business Systems Analyst, Apple Cloud Network",
-      "url": "https://jobs.apple.com/en-us/details/200660978-3401/senior-business-systems-analyst-apple-cloud-network?team=SFTWR",
-      "identifier": "Senior Business Systems Analyst, Apple Cloud Netwo_apple-cloud-network?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-05T23:30:41.353644"
+  "timestamp": "2026-05-05T23:47:56.048129"
 }

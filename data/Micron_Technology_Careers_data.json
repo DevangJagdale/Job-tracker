@@ -4,19 +4,14 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Pathfinding Device Integration Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
-      "url": "https://careers.micron.com/careers/job/41782272",
-      "identifier": "Pathfinding Device Integration Engineer\nBoise, Ida_icron.com/careers/job/41782272"
-    },
-    {
       "title": "New College Grad - Engineer, Surface Lab\nBoise, Idaho, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/41824643",
       "identifier": "New College Grad - Engineer, Surface Lab\nBoise, Id_icron.com/careers/job/41824643"
     },
     {
-      "title": "Manufacturing Engineer - ID1 CMP\nBoise, Idaho, United States of America\nPosted 2 days ago",
-      "url": "https://careers.micron.com/careers/job/41720174",
-      "identifier": "Manufacturing Engineer - ID1 CMP\nBoise, Idaho, Uni_icron.com/careers/job/41720174"
+      "title": "Pathfinding Device Integration Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/41782272",
+      "identifier": "Pathfinding Device Integration Engineer\nBoise, Ida_icron.com/careers/job/41782272"
     },
     {
       "title": "Memory Design Engineer, HBM\nRichardson, Texas, United States of America\nPosted 2 days ago",
@@ -24,14 +19,9 @@
       "identifier": "Memory Design Engineer, HBM\nRichardson, Texas, Uni_icron.com/careers/job/40709801"
     },
     {
-      "title": "Staff CAD Engineer, DEG\nRichardson, Texas, United States of America\nPosted 5 days ago",
-      "url": "https://careers.micron.com/careers/job/38954305",
-      "identifier": "Staff CAD Engineer, DEG\nRichardson, Texas, United _icron.com/careers/job/38954305"
-    },
-    {
-      "title": "Design Verification Quality Engineer\nBoise, Idaho, United States of America\nPosted 5 days ago",
-      "url": "https://careers.micron.com/careers/job/41441282",
-      "identifier": "Design Verification Quality Engineer\nBoise, Idaho,_icron.com/careers/job/41441282"
+      "title": "Manufacturing Engineer - ID1 CMP\nBoise, Idaho, United States of America\nPosted 2 days ago",
+      "url": "https://careers.micron.com/careers/job/41720174",
+      "identifier": "Manufacturing Engineer - ID1 CMP\nBoise, Idaho, Uni_icron.com/careers/job/41720174"
     },
     {
       "title": "TEM Engineer\nBoise, Idaho, United States of America\nPosted 5 days ago",
@@ -52,8 +42,18 @@
       "title": "Process Integration Engineer | APTD\nBoise, Idaho, United States of America\nPosted 5 days ago",
       "url": "https://careers.micron.com/careers/job/41288080",
       "identifier": "Process Integration Engineer | APTD\nBoise, Idaho, _icron.com/careers/job/41288080"
+    },
+    {
+      "title": "Design Verification Quality Engineer\nBoise, Idaho, United States of America\nPosted 5 days ago",
+      "url": "https://careers.micron.com/careers/job/41441282",
+      "identifier": "Design Verification Quality Engineer\nBoise, Idaho,_icron.com/careers/job/41441282"
+    },
+    {
+      "title": "Staff CAD Engineer, DEG\nRichardson, Texas, United States of America\nPosted 5 days ago",
+      "url": "https://careers.micron.com/careers/job/38954305",
+      "identifier": "Staff CAD Engineer, DEG\nRichardson, Texas, United _icron.com/careers/job/38954305"
     }
   ],
   "job_count_text": "79",
-  "timestamp": "2026-05-06T03:59:02.565710"
+  "timestamp": "2026-05-06T04:15:57.055926"
 }

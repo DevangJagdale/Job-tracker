@@ -4,19 +4,24 @@
   "total_jobs": 8,
   "jobs": [
     {
-      "title": "Senior Manager - Software Engineering",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0903708/Senior-Manager-Software-Engineering",
-      "identifier": "Senior Manager - Software Engineering_r-Manager-Software-Engineering"
-    },
-    {
       "title": "Manager - Budget Planning and Execution",
       "url": "https://jobs.cvshealth.com/us/en/job/R0887200/Manager-Budget-Planning-and-Execution",
       "identifier": "Manager - Budget Planning and Execution_-Budget-Planning-and-Execution"
     },
     {
+      "title": "Senior Manager - Software Engineering",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0903708/Senior-Manager-Software-Engineering",
+      "identifier": "Senior Manager - Software Engineering_r-Manager-Software-Engineering"
+    },
+    {
       "title": "Manager - Scrum Master",
       "url": "https://jobs.cvshealth.com/us/en/job/R0904934/Manager-Scrum-Master",
       "identifier": "Manager - Scrum Master_/R0904934/Manager-Scrum-Master"
+    },
+    {
+      "title": "Manager - Scrum Master",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0904962/Manager-Scrum-Master",
+      "identifier": "Manager - Scrum Master_/R0904962/Manager-Scrum-Master"
     },
     {
       "title": "Field Technician",
@@ -29,21 +34,16 @@
       "identifier": "Staff Software Development Engineer_-Software-Development-Engineer"
     },
     {
-      "title": "Manager - Scrum Master",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0904962/Manager-Scrum-Master",
-      "identifier": "Manager - Scrum Master_/R0904962/Manager-Scrum-Master"
+      "title": "Staff Software Development Engineer - NodeJs and AI",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0846991/Staff-Software-Development-Engineer-NodeJs-and-AI",
+      "identifier": "Staff Software Development Engineer - NodeJs and A_lopment-Engineer-NodeJs-and-AI"
     },
     {
-      "title": "Store Hardware Technician",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0846748/Store-Hardware-Technician",
-      "identifier": "Store Hardware Technician_6748/Store-Hardware-Technician"
-    },
-    {
-      "title": "Senior Software Development Engineer (Angular/NodeJS)",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0851800/Senior-Software-Development-Engineer-Angular-NodeJS",
-      "identifier": "Senior Software Development Engineer (Angular/Node_opment-Engineer-Angular-NodeJS"
+      "title": "Senior Software Engineering Manager - Pharmacy Systems",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0845175/Senior-Software-Engineering-Manager-Pharmacy-Systems",
+      "identifier": "Senior Software Engineering Manager - Pharmacy Sys_ering-Manager-Pharmacy-Systems"
     }
   ],
-  "job_count_text": "40",
-  "timestamp": "2026-05-06T22:15:05.368447"
+  "job_count_text": "44",
+  "timestamp": "2026-05-06T22:31:58.292335"
 }

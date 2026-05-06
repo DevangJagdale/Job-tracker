@@ -4,7 +4,12 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 9 minutes ago",
+      "title": "Software Engineer II - CTJ - Poly\nUnited States, Virginia, Reston + 1 more\nPosted 7 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556864006?domain=microsoft.com",
+      "identifier": "Software Engineer II - CTJ - Poly\nUnited States, V_556864006?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 26 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556751708?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Washington_556751708?domain=microsoft.com"
     },
@@ -44,16 +49,11 @@
       "identifier": "Software Engineer II\nUnited States, Washington, Re_556815625?domain=microsoft.com"
     },
     {
-      "title": "Principal Data Scientist\nUnited States, Multiple Locations, Multiple Locations\nPosted 6 hours ago",
+      "title": "Principal Data Scientist\nUnited States, Multiple Locations, Multiple Locations\nPosted 7 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556861870?domain=microsoft.com",
       "identifier": "Principal Data Scientist\nUnited States, Multiple L_556861870?domain=microsoft.com"
-    },
-    {
-      "title": "Multidisciplinary Manager, Industry Solutions Engineering (ISE) / Data Science\nUnited States, Multiple Locations, Multiple Locations\nPosted 7 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556652525?domain=microsoft.com",
-      "identifier": "Multidisciplinary Manager, Industry Solutions Engi_556652525?domain=microsoft.com"
     }
   ],
-  "job_count_text": "543",
-  "timestamp": "2026-05-06T20:48:44.035749"
+  "job_count_text": "544",
+  "timestamp": "2026-05-06T21:05:44.299428"
 }

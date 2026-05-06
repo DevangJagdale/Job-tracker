@@ -1,7 +1,7 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 15,
+  "total_jobs": 14,
   "jobs": [
     {
       "title": "Operations Critical Facilities Supervisor, Data Center Operations",
@@ -72,13 +72,8 @@
       "title": "Senior Software Engineer - Apple Ads",
       "url": "https://jobs.apple.com/en-us/details/200646233-0836/senior-software-engineer-apple-ads?team=SFTWR",
       "identifier": "Senior Software Engineer - Apple Ads_-engineer-apple-ads?team=SFTWR"
-    },
-    {
-      "title": "GPU Compiler Engineer, Graphics, Game and ML",
-      "url": "https://jobs.apple.com/en-us/details/200649008-0836/gpu-compiler-engineer-graphics-game-and-ml?team=SFTWR",
-      "identifier": "GPU Compiler Engineer, Graphics, Game and ML_raphics-game-and-ml?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-06T20:14:30.745656"
+  "timestamp": "2026-05-06T20:31:29.331593"
 }

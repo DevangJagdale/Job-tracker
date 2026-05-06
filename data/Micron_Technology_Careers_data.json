@@ -4,14 +4,14 @@
   "total_jobs": 10,
   "jobs": [
     {
+      "title": "New College Grad - Engineer, Surface Lab\nBoise, Idaho, United States of America\nPosted 16 hours ago",
+      "url": "https://careers.micron.com/careers/job/41824643",
+      "identifier": "New College Grad - Engineer, Surface Lab\nBoise, Id_icron.com/careers/job/41824643"
+    },
+    {
       "title": "Pathfinding Device Integration Engineer\nBoise, Idaho, United States of America\nPosted 2 days ago",
       "url": "https://careers.micron.com/careers/job/41782272",
       "identifier": "Pathfinding Device Integration Engineer\nBoise, Ida_icron.com/careers/job/41782272"
-    },
-    {
-      "title": "New College Grad - Engineer, Surface Lab\nBoise, Idaho, United States of America\nPosted 2 days ago",
-      "url": "https://careers.micron.com/careers/job/41824643",
-      "identifier": "New College Grad - Engineer, Surface Lab\nBoise, Id_icron.com/careers/job/41824643"
     },
     {
       "title": "Manufacturing Engineer - ID1 CMP\nBoise, Idaho, United States of America\nPosted 3 days ago",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "79",
-  "timestamp": "2026-05-06T15:19:01.033754"
+  "timestamp": "2026-05-06T15:36:04.007211"
 }

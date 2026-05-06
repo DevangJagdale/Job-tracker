@@ -1,8 +1,13 @@
 {
   "page_title": "Search our Job Opportunities at Barclays",
   "url": "https://search.jobs.barclays/search-jobs/United%20States/13015/2/6252001/39x76/-98x5/50/2",
-  "total_jobs": 15,
+  "total_jobs": 16,
   "jobs": [
+    {
+      "title": "Securitized Products Sales Analyst",
+      "url": "https://search.jobs.barclays/job/new-york/securitized-products-sales-analyst/13015/94752930864",
+      "identifier": "Securitized Products Sales Analyst_ales-analyst/13015/94752930864"
+    },
     {
       "title": "Quantitative Analytics Liquid Financing VP",
       "url": "https://search.jobs.barclays/job/new-york/quantitative-analytics-liquid-financing-vp/13015/94739706128",
@@ -80,5 +85,5 @@
     }
   ],
   "job_count_text": "116",
-  "timestamp": "2026-05-06T11:23:41.281500"
+  "timestamp": "2026-05-06T11:40:41.168531"
 }

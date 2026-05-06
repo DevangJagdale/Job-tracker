@@ -4,14 +4,14 @@
   "total_jobs": 8,
   "jobs": [
     {
-      "title": "Manager - Budget Planning and Execution",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0887200/Manager-Budget-Planning-and-Execution",
-      "identifier": "Manager - Budget Planning and Execution_-Budget-Planning-and-Execution"
-    },
-    {
       "title": "Senior Manager - Software Engineering",
       "url": "https://jobs.cvshealth.com/us/en/job/R0903708/Senior-Manager-Software-Engineering",
       "identifier": "Senior Manager - Software Engineering_r-Manager-Software-Engineering"
+    },
+    {
+      "title": "Manager - Budget Planning and Execution",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0887200/Manager-Budget-Planning-and-Execution",
+      "identifier": "Manager - Budget Planning and Execution_-Budget-Planning-and-Execution"
     },
     {
       "title": "Field Technician",
@@ -34,16 +34,16 @@
       "identifier": "Manager - Scrum Master_/R0904934/Manager-Scrum-Master"
     },
     {
-      "title": "Senior Software Development Engineer (Angular/NodeJS)",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0851800/Senior-Software-Development-Engineer-Angular-NodeJS",
-      "identifier": "Senior Software Development Engineer (Angular/Node_opment-Engineer-Angular-NodeJS"
-    },
-    {
       "title": "Store Hardware Technician",
       "url": "https://jobs.cvshealth.com/us/en/job/R0846748/Store-Hardware-Technician",
       "identifier": "Store Hardware Technician_6748/Store-Hardware-Technician"
+    },
+    {
+      "title": "Senior Software Development Engineer (Angular/NodeJS)",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0851800/Senior-Software-Development-Engineer-Angular-NodeJS",
+      "identifier": "Senior Software Development Engineer (Angular/Node_opment-Engineer-Angular-NodeJS"
     }
   ],
   "job_count_text": "40",
-  "timestamp": "2026-05-06T21:07:00.671008"
+  "timestamp": "2026-05-06T21:23:56.127964"
 }

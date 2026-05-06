@@ -4,6 +4,21 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Internal Audit AVP- AI",
+      "url": "https://search.jobs.barclays/job/whippany/internal-audit-avp-ai/13015/94778651216",
+      "identifier": "Internal Audit AVP- AI_audit-avp-ai/13015/94778651216"
+    },
+    {
+      "title": "Custody Senior Developer \u2013 VP",
+      "url": "https://search.jobs.barclays/job/new-york/custody-senior-developer-vp/13015/94778631088",
+      "identifier": "Custody Senior Developer \u2013 VP_developer-vp/13015/94778631088"
+    },
+    {
+      "title": "Principal Engineer - Director",
+      "url": "https://search.jobs.barclays/job/whippany/principal-engineer-director/13015/94778628720",
+      "identifier": "Principal Engineer - Director_eer-director/13015/94778628720"
+    },
+    {
       "title": "Securitized Products Sales Analyst",
       "url": "https://search.jobs.barclays/job/new-york/securitized-products-sales-analyst/13015/94752930864",
       "identifier": "Securitized Products Sales Analyst_ales-analyst/13015/94752930864"
@@ -67,23 +82,8 @@
       "title": "Investment Banking Coverage - VP",
       "url": "https://search.jobs.barclays/job/new-york/investment-banking-coverage-vp/13015/94574368720",
       "identifier": "Investment Banking Coverage - VP_-coverage-vp/13015/94574368720"
-    },
-    {
-      "title": "Prime Risk Senior Developer - VP",
-      "url": "https://search.jobs.barclays/job/new-york/prime-risk-senior-developer-vp/13015/94560069296",
-      "identifier": "Prime Risk Senior Developer - VP_developer-vp/13015/94560069296"
-    },
-    {
-      "title": "Senior Solutions Architect - VP",
-      "url": "https://search.jobs.barclays/job/whippany/senior-solutions-architect-vp/13015/94560062800",
-      "identifier": "Senior Solutions Architect - VP_architect-vp/13015/94560062800"
-    },
-    {
-      "title": "Sourcing and Category Lead for BPO and Debt Services",
-      "url": "https://search.jobs.barclays/job/whippany/sourcing-and-category-lead-for-bpo-and-debt-services/13015/94544532320",
-      "identifier": "Sourcing and Category Lead for BPO and Debt Servic_ebt-services/13015/94544532320"
     }
   ],
-  "job_count_text": "116",
-  "timestamp": "2026-05-06T17:31:43.238236"
+  "job_count_text": "118",
+  "timestamp": "2026-05-06T17:48:45.261226"
 }

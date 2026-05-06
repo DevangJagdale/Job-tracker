@@ -4,6 +4,11 @@
   "total_jobs": 15,
   "jobs": [
     {
+      "title": "Software Automation Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200661716-0836/software-automation-engineer?team=SFTWR",
+      "identifier": "Software Automation Engineer_automation-engineer?team=SFTWR"
+    },
+    {
       "title": "Senior Cybersecurity Expert \u2013 Supply Chain Resilience",
       "url": "https://jobs.apple.com/en-us/details/200661655-0836/senior-cybersecurity-expert-supply-chain-resilience?team=OPMFG",
       "identifier": "Senior Cybersecurity Expert \u2013 Supply Chain Resilie_ly-chain-resilience?team=OPMFG"
@@ -72,13 +77,8 @@
       "title": "Engineering Manager, Cloud Network Reliability",
       "url": "https://jobs.apple.com/en-us/details/200642210-3956/engineering-manager-cloud-network-reliability?team=SFTWR",
       "identifier": "Engineering Manager, Cloud Network Reliability_network-reliability?team=SFTWR"
-    },
-    {
-      "title": "Engineering Manager, Shield",
-      "url": "https://jobs.apple.com/en-us/details/200647167-3956/engineering-manager-shield?team=SFTWR",
-      "identifier": "Engineering Manager, Shield_ring-manager-shield?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-06T16:58:01.962099"
+  "timestamp": "2026-05-06T17:15:07.366238"
 }

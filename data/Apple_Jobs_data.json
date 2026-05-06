@@ -4,6 +4,11 @@
   "total_jobs": 14,
   "jobs": [
     {
+      "title": "ML Data Science Manager, ISE Analytics and User Studies",
+      "url": "https://jobs.apple.com/en-us/details/200642063-0836/ml-data-science-manager-ise-analytics-and-user-studies?team=SFTWR",
+      "identifier": "ML Data Science Manager, ISE Analytics and User St_cs-and-user-studies?team=SFTWR"
+    },
+    {
       "title": "Operations Critical Facilities Supervisor, Data Center Operations",
       "url": "https://jobs.apple.com/en-us/details/200657375-2903/operations-critical-facilities-supervisor-data-center-operations?team=SFTWR",
       "identifier": "Operations Critical Facilities Supervisor, Data Ce_a-center-operations?team=SFTWR"
@@ -67,13 +72,8 @@
       "title": "Software Engineer - Input Experience Analytics, Input Experience",
       "url": "https://jobs.apple.com/en-us/details/200661396-0836/software-engineer-input-experience-analytics-input-experience?team=SFTWR",
       "identifier": "Software Engineer - Input Experience Analytics, In_cs-input-experience?team=SFTWR"
-    },
-    {
-      "title": "Senior Software Engineer - Apple Ads",
-      "url": "https://jobs.apple.com/en-us/details/200646233-0836/senior-software-engineer-apple-ads?team=SFTWR",
-      "identifier": "Senior Software Engineer - Apple Ads_-engineer-apple-ads?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-06T20:31:29.331593"
+  "timestamp": "2026-05-06T20:49:00.416188"
 }

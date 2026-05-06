@@ -4,6 +4,11 @@
   "total_jobs": 10,
   "jobs": [
     {
+      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 9 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556751708?domain=microsoft.com",
+      "identifier": "Senior Software Engineer\nUnited States, Washington_556751708?domain=microsoft.com"
+    },
+    {
       "title": "Senior Software Engineer - Copilot Security\nUnited States, Washington, Redmond + 2 more\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556628381?domain=microsoft.com",
       "identifier": "Senior Software Engineer - Copilot Security\nUnited_556628381?domain=microsoft.com"
@@ -19,22 +24,22 @@
       "identifier": "Senior Applied Scientist\nUnited States, California_556863455?domain=microsoft.com"
     },
     {
-      "title": "Software Engineer II\nUnited States, California, Mountain View + 2 more\nPosted 2 hours ago",
+      "title": "Software Engineer II\nUnited States, California, Mountain View + 2 more\nPosted 3 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556863569?domain=microsoft.com",
       "identifier": "Software Engineer II\nUnited States, California, Mo_556863569?domain=microsoft.com"
     },
     {
-      "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted 4 hours ago",
+      "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted 5 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556853114?domain=microsoft.com",
       "identifier": "Principal Software Engineer\nUnited States, Washing_556853114?domain=microsoft.com"
     },
     {
-      "title": "Principal Software Engineer, Foundry Agents - CoreAI\nUnited States, Washington, Redmond + 1 more\nPosted 5 hours ago",
+      "title": "Principal Software Engineer, Foundry Agents - CoreAI\nUnited States, Washington, Redmond + 1 more\nPosted 6 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556863220?domain=microsoft.com",
       "identifier": "Principal Software Engineer, Foundry Agents - Core_556863220?domain=microsoft.com"
     },
     {
-      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 5 hours ago",
+      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 6 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556815625?domain=microsoft.com",
       "identifier": "Software Engineer II\nUnited States, Washington, Re_556815625?domain=microsoft.com"
     },
@@ -47,13 +52,8 @@
       "title": "Multidisciplinary Manager, Industry Solutions Engineering (ISE) / Data Science\nUnited States, Multiple Locations, Multiple Locations\nPosted 7 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556652525?domain=microsoft.com",
       "identifier": "Multidisciplinary Manager, Industry Solutions Engi_556652525?domain=microsoft.com"
-    },
-    {
-      "title": "Multidisciplinary Manager, Industry Solutions Engineering (ISE) / SWE\nUnited States, Multiple Locations, Multiple Locations\nPosted 7 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556652519?domain=microsoft.com",
-      "identifier": "Multidisciplinary Manager, Industry Solutions Engi_556652519?domain=microsoft.com"
     }
   ],
-  "job_count_text": "542",
-  "timestamp": "2026-05-06T20:31:13.895715"
+  "job_count_text": "543",
+  "timestamp": "2026-05-06T20:48:44.035749"
 }

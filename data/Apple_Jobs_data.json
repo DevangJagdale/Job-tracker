@@ -1,8 +1,23 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 16,
+  "total_jobs": 17,
   "jobs": [
+    {
+      "title": "Database Systems Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200662000-0157/database-systems-engineer?team=SFTWR",
+      "identifier": "Database Systems Engineer_se-systems-engineer?team=SFTWR"
+    },
+    {
+      "title": "Software Development Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200661989-2903/software-development-engineer?team=SFTWR",
+      "identifier": "Software Development Engineer_evelopment-engineer?team=SFTWR"
+    },
+    {
+      "title": "Linux Systems Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200662004-0157/linux-systems-engineer?team=SFTWR",
+      "identifier": "Linux Systems Engineer_ux-systems-engineer?team=SFTWR"
+    },
     {
       "title": "Data Scientist",
       "url": "https://jobs.apple.com/en-us/details/200661978-3543/data-scientist?team=SFTWR",
@@ -72,18 +87,8 @@
       "title": "Full Stack Software Engineer, Productivity Apps",
       "url": "https://jobs.apple.com/en-us/details/200661577-0836/full-stack-software-engineer-productivity-apps?team=SFTWR",
       "identifier": "Full Stack Software Engineer, Productivity Apps_r-productivity-apps?team=SFTWR"
-    },
-    {
-      "title": "Photos Backend Systems Engineer, Camera & Photos",
-      "url": "https://jobs.apple.com/en-us/details/200626429-0836/photos-backend-systems-engineer-camera-photos?team=SFTWR",
-      "identifier": "Photos Backend Systems Engineer, Camera & Photos_ineer-camera-photos?team=SFTWR"
-    },
-    {
-      "title": "Audio Software Engineer, Vision Products Group",
-      "url": "https://jobs.apple.com/en-us/details/200632708-0365/audio-software-engineer-vision-products-group?team=SFTWR",
-      "identifier": "Audio Software Engineer, Vision Products Group_sion-products-group?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-06T22:30:58.079786"
+  "timestamp": "2026-05-06T22:47:56.885655"
 }

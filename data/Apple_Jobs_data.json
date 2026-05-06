@@ -4,6 +4,11 @@
   "total_jobs": 15,
   "jobs": [
     {
+      "title": "Systems Engineer, Retail Experiences",
+      "url": "https://jobs.apple.com/en-us/details/200652940-3956/systems-engineer-retail-experiences?team=SFTWR",
+      "identifier": "Systems Engineer, Retail Experiences_-retail-experiences?team=SFTWR"
+    },
+    {
       "title": "Full Stack Software Engineer, Productivity Apps",
       "url": "https://jobs.apple.com/en-us/details/200661577-0836/full-stack-software-engineer-productivity-apps?team=SFTWR",
       "identifier": "Full Stack Software Engineer, Productivity Apps_r-productivity-apps?team=SFTWR"
@@ -72,13 +77,8 @@
       "title": "Software Engineer - Strategic Data Solutions",
       "url": "https://jobs.apple.com/en-us/details/200640140-0157/software-engineer-strategic-data-solutions?team=SFTWR",
       "identifier": "Software Engineer - Strategic Data Solutions_egic-data-solutions?team=SFTWR"
-    },
-    {
-      "title": "Language Experience Engineer, Apple Services Engineering",
-      "url": "https://jobs.apple.com/en-us/details/200661224-0836/language-experience-engineer-apple-services-engineering?team=SFTWR",
-      "identifier": "Language Experience Engineer, Apple Services Engin_ervices-engineering?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-05T23:47:56.048129"
+  "timestamp": "2026-05-06T00:05:16.548041"
 }

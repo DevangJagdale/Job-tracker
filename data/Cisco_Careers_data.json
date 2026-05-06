@@ -1,7 +1,7 @@
 {
   "page_title": "Job Openings - Cisco Careers",
   "url": "https://careers.cisco.com/global/en/search-results?s=1",
-  "total_jobs": 10,
+  "total_jobs": 9,
   "jobs": [
     {
       "title": "Sales Development Representative I (Full Time) - United States (Virtual Demand Center)",
@@ -34,16 +34,6 @@
       "identifier": "Business Operations Analyst I (Full-Time) - United_lyst-I-Full-Time-United-States"
     },
     {
-      "title": "Software Engineer Backend/Platform Systems I (Full Time) \u2013 United States",
-      "url": "https://careers.cisco.com/global/en/job/2000046/Software-Engineer-Backend-Platform-Systems-I-Full-Time-United-States",
-      "identifier": "Software Engineer Backend/Platform Systems I (Full_tems-I-Full-Time-United-States"
-    },
-    {
-      "title": "Software Engineer Backend/Platform Systems II (Full Time) \u2013 United States",
-      "url": "https://careers.cisco.com/global/en/job/2000135/Software-Engineer-Backend-Platform-Systems-II-Full-Time-United-States",
-      "identifier": "Software Engineer Backend/Platform Systems II (Ful_ems-II-Full-Time-United-States"
-    },
-    {
       "title": "Software Engineer Embedded/Network Systems III (Full-Time) - United States",
       "url": "https://careers.cisco.com/global/en/job/2013783/Software-Engineer-Embedded-Network-Systems-III-Full-Time-United-States",
       "identifier": "Software Engineer Embedded/Network Systems III (Fu_ms-III-Full-Time-United-States"
@@ -52,8 +42,13 @@
       "title": "Customer Experience Project Specialist I (Full-Time) - United States",
       "url": "https://careers.cisco.com/global/en/job/2001576/Customer-Experience-Project-Specialist-I-Full-Time-United-States",
       "identifier": "Customer Experience Project Specialist I (Full-Tim_list-I-Full-Time-United-States"
+    },
+    {
+      "title": "Sales Development Representative II (Full Time) United States (Virtual Demand Center) - United States",
+      "url": "https://careers.cisco.com/global/en/job/2008662/Sales-Development-Representative-II-Full-Time-United-States-Virtual-Demand-Center-United-States",
+      "identifier": "Sales Development Representative II (Full Time) Un_al-Demand-Center-United-States"
     }
   ],
-  "job_count_text": "11",
-  "timestamp": "2026-05-06T07:20:28.412072"
+  "job_count_text": "9",
+  "timestamp": "2026-05-06T07:37:23.111031"
 }

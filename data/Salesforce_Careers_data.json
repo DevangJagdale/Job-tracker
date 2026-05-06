@@ -1,8 +1,14 @@
 {
   "page_title": "Salesforce Jobs | Salesforce Careers",
   "url": "https://careers.salesforce.com/en/jobs/?search=&country=United+States+of+America&team=Data&team=Enterprise+Technology+%26+Infrastructure&team=Software+Engineering&jobtype=New+Grads&pagesize=20#results",
-  "total_jobs": 0,
-  "jobs": [],
+  "total_jobs": 1,
+  "jobs": [
+    {
+      "title": "AI Builder, Emerging Talent",
+      "url": "https://careers.salesforce.com/en/jobs/jr341276/ai-builder-emerging-talent/",
+      "identifier": "AI Builder, Emerging Talent_76/ai-builder-emerging-talent/"
+    }
+  ],
   "job_count_text": "",
-  "timestamp": "2026-05-05T00:28:15.052612"
+  "timestamp": "2026-05-06T08:29:34.326000"
 }

@@ -4,19 +4,14 @@
   "total_jobs": 8,
   "jobs": [
     {
-      "title": "Senior Manager - Software Engineering",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0903708/Senior-Manager-Software-Engineering",
-      "identifier": "Senior Manager - Software Engineering_r-Manager-Software-Engineering"
-    },
-    {
       "title": "Manager - Budget Planning and Execution",
       "url": "https://jobs.cvshealth.com/us/en/job/R0887200/Manager-Budget-Planning-and-Execution",
       "identifier": "Manager - Budget Planning and Execution_-Budget-Planning-and-Execution"
     },
     {
-      "title": "Store Hardware Technician",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0846748/Store-Hardware-Technician",
-      "identifier": "Store Hardware Technician_6748/Store-Hardware-Technician"
+      "title": "Senior Manager - Software Engineering",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0903708/Senior-Manager-Software-Engineering",
+      "identifier": "Senior Manager - Software Engineering_r-Manager-Software-Engineering"
     },
     {
       "title": "Senior Software Development Engineer (Angular/NodeJS)",
@@ -24,14 +19,14 @@
       "identifier": "Senior Software Development Engineer (Angular/Node_opment-Engineer-Angular-NodeJS"
     },
     {
+      "title": "Store Hardware Technician",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0846748/Store-Hardware-Technician",
+      "identifier": "Store Hardware Technician_6748/Store-Hardware-Technician"
+    },
+    {
       "title": "Field Service Technician - Fort Wayne IN Metro area",
       "url": "https://jobs.cvshealth.com/us/en/job/R0895635/Field-Service-Technician-Fort-Wayne-IN-Metro-area",
       "identifier": "Field Service Technician - Fort Wayne IN Metro are_ician-Fort-Wayne-IN-Metro-area"
-    },
-    {
-      "title": "Staff Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0882641/Staff-Development-Engineer",
-      "identifier": "Staff Development Engineer_641/Staff-Development-Engineer"
     },
     {
       "title": "Technical Business Analyst",
@@ -42,8 +37,13 @@
       "title": "Field Service Technician - Taunton/New Bedford, MA",
       "url": "https://jobs.cvshealth.com/us/en/job/R0890564/Field-Service-Technician-Taunton-New-Bedford-MA",
       "identifier": "Field Service Technician - Taunton/New Bedford, MA_hnician-Taunton-New-Bedford-MA"
+    },
+    {
+      "title": "Sr Manager Technical SAP Retail Finance",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0892223/Sr-Manager-Technical-SAP-Retail-Finance",
+      "identifier": "Sr Manager Technical SAP Retail Finance_r-Technical-SAP-Retail-Finance"
     }
   ],
   "job_count_text": "37",
-  "timestamp": "2026-05-06T17:16:10.977895"
+  "timestamp": "2026-05-06T17:33:16.932755"
 }

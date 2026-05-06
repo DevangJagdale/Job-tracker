@@ -4,7 +4,12 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Software Engineer II\nUnited States, California, Mountain View + 2 more\nPosted 29 minutes ago",
+      "title": "Senior Applied Scientist\nUnited States, California, Mountain View + 1 more\nPosted 21 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556863455?domain=microsoft.com",
+      "identifier": "Senior Applied Scientist\nUnited States, California_556863455?domain=microsoft.com"
+    },
+    {
+      "title": "Software Engineer II\nUnited States, California, Mountain View + 2 more\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556863569?domain=microsoft.com",
       "identifier": "Software Engineer II\nUnited States, California, Mo_556863569?domain=microsoft.com"
     },
@@ -14,7 +19,7 @@
       "identifier": "Principal Software Engineer\nUnited States, Washing_556853114?domain=microsoft.com"
     },
     {
-      "title": "Principal Software Engineer, Foundry Agents - CoreAI\nUnited States, Washington, Redmond + 1 more\nPosted 3 hours ago",
+      "title": "Principal Software Engineer, Foundry Agents - CoreAI\nUnited States, Washington, Redmond + 1 more\nPosted 4 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556863220?domain=microsoft.com",
       "identifier": "Principal Software Engineer, Foundry Agents - Core_556863220?domain=microsoft.com"
     },
@@ -44,16 +49,11 @@
       "identifier": "Senior Software Engineer\nUnited States, Multiple L_556852742?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer- Frontend\nUnited States, Washington, Redmond\nPosted 16 hours ago",
+      "title": "Senior Software Engineer- Frontend\nUnited States, Washington, Redmond\nPosted 17 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556754029?domain=microsoft.com",
       "identifier": "Senior Software Engineer- Frontend\nUnited States, _556754029?domain=microsoft.com"
-    },
-    {
-      "title": "Software Engineering - CTJ - POLY\nUnited States, Washington, Redmond + 3 more\nPosted 21 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556746551?domain=microsoft.com",
-      "identifier": "Software Engineering - CTJ - POLY\nUnited States, W_556746551?domain=microsoft.com"
     }
   ],
-  "job_count_text": "539",
-  "timestamp": "2026-05-06T18:40:26.277745"
+  "job_count_text": "540",
+  "timestamp": "2026-05-06T18:57:28.691561"
 }

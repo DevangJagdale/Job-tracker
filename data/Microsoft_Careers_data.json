@@ -4,7 +4,12 @@
   "total_jobs": 9,
   "jobs": [
     {
-      "title": "Principal Data Scientist\nUnited States, Multiple Locations, Multiple Locations\nPosted 24 minutes ago",
+      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 12 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556815625?domain=microsoft.com",
+      "identifier": "Software Engineer II\nUnited States, Washington, Re_556815625?domain=microsoft.com"
+    },
+    {
+      "title": "Principal Data Scientist\nUnited States, Multiple Locations, Multiple Locations\nPosted 42 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556861870?domain=microsoft.com",
       "identifier": "Principal Data Scientist\nUnited States, Multiple L_556861870?domain=microsoft.com"
     },
@@ -42,13 +47,8 @@
       "title": "Software Engineer II - Finance Data & Experiences\nUnited States, Washington, Redmond\nPosted 18 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556862899?domain=microsoft.com",
       "identifier": "Software Engineer II - Finance Data & Experiences\n_556862899?domain=microsoft.com"
-    },
-    {
-      "title": "Principal Software Engineering Manager\nUnited States, Washington, Redmond\nPosted 18 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556863856?domain=microsoft.com",
-      "identifier": "Principal Software Engineering Manager\nUnited Stat_556863856?domain=microsoft.com"
     }
   ],
-  "job_count_text": "543",
-  "timestamp": "2026-05-06T14:58:30.292009"
+  "job_count_text": "544",
+  "timestamp": "2026-05-06T15:15:36.847652"
 }

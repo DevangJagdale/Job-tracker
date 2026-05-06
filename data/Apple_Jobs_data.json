@@ -4,6 +4,11 @@
   "total_jobs": 15,
   "jobs": [
     {
+      "title": "Senior Cybersecurity Expert \u2013 Supply Chain Resilience",
+      "url": "https://jobs.apple.com/en-us/details/200661655-0836/senior-cybersecurity-expert-supply-chain-resilience?team=OPMFG",
+      "identifier": "Senior Cybersecurity Expert \u2013 Supply Chain Resilie_ly-chain-resilience?team=OPMFG"
+    },
+    {
       "title": "Engineering Program Specialist, SWE Programs",
       "url": "https://jobs.apple.com/en-us/details/200659252-0836/engineering-program-specialist-swe-programs?team=SFTWR",
       "identifier": "Engineering Program Specialist, SWE Programs_ialist-swe-programs?team=SFTWR"
@@ -72,13 +77,8 @@
       "title": "Engineering Manager, Shield",
       "url": "https://jobs.apple.com/en-us/details/200647167-3956/engineering-manager-shield?team=SFTWR",
       "identifier": "Engineering Manager, Shield_ring-manager-shield?team=SFTWR"
-    },
-    {
-      "title": "SWE Engineering Project Manager, International Experience & Operations Features",
-      "url": "https://jobs.apple.com/en-us/details/200649007-0836/swe-engineering-project-manager-international-experience-operations-features?team=SFTWR",
-      "identifier": "SWE Engineering Project Manager, International Exp_operations-features?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-06T12:32:24.586772"
+  "timestamp": "2026-05-06T12:49:23.751761"
 }

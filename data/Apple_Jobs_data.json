@@ -4,6 +4,16 @@
   "total_jobs": 14,
   "jobs": [
     {
+      "title": "Engineering Program Manager, AI/ML, Apple Services Engineering (ASE)",
+      "url": "https://jobs.apple.com/en-us/details/200661975-0836/engineering-program-manager-ai-ml-apple-services-engineering-ase?team=SFTWR",
+      "identifier": "Engineering Program Manager, AI/ML, Apple Services_ces-engineering-ase?team=SFTWR"
+    },
+    {
+      "title": "Product System Test Engineer, Wireless Technologies & Ecosystems",
+      "url": "https://jobs.apple.com/en-us/details/200661601-3543/product-system-test-engineer-wireless-technologies-ecosystems?team=SFTWR",
+      "identifier": "Product System Test Engineer, Wireless Technologie_nologies-ecosystems?team=SFTWR"
+    },
+    {
       "title": "ML Data Science Manager, ISE Analytics and User Studies",
       "url": "https://jobs.apple.com/en-us/details/200642063-0836/ml-data-science-manager-ise-analytics-and-user-studies?team=SFTWR",
       "identifier": "ML Data Science Manager, ISE Analytics and User St_cs-and-user-studies?team=SFTWR"
@@ -62,18 +72,8 @@
       "title": "Partner Compliance Manager - Wallets, Payment, and Commerce",
       "url": "https://jobs.apple.com/en-us/details/200661417-0157/partner-compliance-manager-wallets-payment-and-commerce?team=SFTWR",
       "identifier": "Partner Compliance Manager - Wallets, Payment, and_ayment-and-commerce?team=SFTWR"
-    },
-    {
-      "title": "Staff AI Software Engineer, Siri Core Modeling",
-      "url": "https://jobs.apple.com/en-us/details/200661622-0836/staff-ai-software-engineer-siri-core-modeling?team=SFTWR",
-      "identifier": "Staff AI Software Engineer, Siri Core Modeling_-siri-core-modeling?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer - Input Experience Analytics, Input Experience",
-      "url": "https://jobs.apple.com/en-us/details/200661396-0836/software-engineer-input-experience-analytics-input-experience?team=SFTWR",
-      "identifier": "Software Engineer - Input Experience Analytics, In_cs-input-experience?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-06T21:22:57.226296"
+  "timestamp": "2026-05-06T21:39:54.049926"
 }

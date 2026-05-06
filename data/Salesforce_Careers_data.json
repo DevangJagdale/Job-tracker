@@ -1,109 +1,14 @@
 {
   "page_title": "Salesforce Jobs | Salesforce Careers",
   "url": "https://careers.salesforce.com/en/jobs/?search=&country=United+States+of+America&team=Data&team=Enterprise+Technology+%26+Infrastructure&team=Software+Engineering&jobtype=New+Grads&pagesize=20#results",
-  "total_jobs": 20,
+  "total_jobs": 1,
   "jobs": [
     {
-      "title": "Sr. Account Executive - Agentforce - SWE",
-      "url": "https://careers.salesforce.com/en/jobs/jr339328/sr-account-executive-agentforce-swe/",
-      "identifier": "Sr. Account Executive - Agentforce - SWE_ount-executive-agentforce-swe/"
-    },
-    {
-      "title": "Sales Compensation Analyst",
-      "url": "https://careers.salesforce.com/en/jobs/jr339052/sales-compensation-analyst/",
-      "identifier": "Sales Compensation Analyst_52/sales-compensation-analyst/"
-    },
-    {
-      "title": "Executive Assistant",
-      "url": "https://careers.salesforce.com/en/jobs/jr341101/executive-assistant/",
-      "identifier": "Executive Assistant_/jr341101/executive-assistant/"
-    },
-    {
-      "title": "Customer Success Manager",
-      "url": "https://careers.salesforce.com/en/jobs/jr331136/customer-success-manager/",
-      "identifier": "Customer Success Manager_1136/customer-success-manager/"
-    },
-    {
-      "title": "Business Process Architect",
-      "url": "https://careers.salesforce.com/en/jobs/jr339264/business-process-architect/",
-      "identifier": "Business Process Architect_64/business-process-architect/"
-    },
-    {
-      "title": "Sales Strategy (Senior) Manager",
-      "url": "https://careers.salesforce.com/en/jobs/jr331255/sales-strategy-senior-manager/",
-      "identifier": "Sales Strategy (Senior) Manager_sales-strategy-senior-manager/"
-    },
-    {
-      "title": "Campus Recruiter",
-      "url": "https://careers.salesforce.com/en/jobs/jr341282/campus-recruiter/",
-      "identifier": "Campus Recruiter_obs/jr341282/campus-recruiter/"
-    },
-    {
-      "title": "Account Partner, Mulesoft Services",
-      "url": "https://careers.salesforce.com/en/jobs/jr340238/account-partner-mulesoft-services/",
-      "identifier": "Account Partner, Mulesoft Services_unt-partner-mulesoft-services/"
-    },
-    {
-      "title": "Business Development Representative - Canada - Bilingual (French)",
-      "url": "https://careers.salesforce.com/en/jobs/jr332505/business-development-representative-canada-bilingual-french/",
-      "identifier": "Business Development Representative - Canada - Bil_ative-canada-bilingual-french/"
-    },
-    {
-      "title": "Named Account Executive",
-      "url": "https://careers.salesforce.com/en/jobs/jr338548/named-account-executive/",
-      "identifier": "Named Account Executive_38548/named-account-executive/"
-    },
-    {
-      "title": "Workplace Services Manager",
-      "url": "https://careers.salesforce.com/en/jobs/jr339771/workplace-services-manager/",
-      "identifier": "Workplace Services Manager_71/workplace-services-manager/"
-    },
-    {
-      "title": "Account Executive, Mulesoft, National Security",
-      "url": "https://careers.salesforce.com/en/jobs/jr341360/account-executive-mulesoft-national-security/",
-      "identifier": "Account Executive, Mulesoft, National Security_ve-mulesoft-national-security/"
-    },
-    {
-      "title": "Account Executive, Navy",
-      "url": "https://careers.salesforce.com/en/jobs/jr339436/account-executive-navy/",
-      "identifier": "Account Executive, Navy_339436/account-executive-navy/"
-    },
-    {
-      "title": "Mid Level/Senior Backend Software Engineer",
-      "url": "https://careers.salesforce.com/en/jobs/jr341307/mid-levelsenior-backend-software-engineer/",
-      "identifier": "Mid Level/Senior Backend Software Engineer_ior-backend-software-engineer/"
-    },
-    {
-      "title": "Cloud Account Executive, Tableau",
-      "url": "https://careers.salesforce.com/en/jobs/jr339847/cloud-account-executive-tableau/",
-      "identifier": "Cloud Account Executive, Tableau_oud-account-executive-tableau/"
-    },
-    {
-      "title": "Principal Data and AI Architect",
-      "url": "https://careers.salesforce.com/en/jobs/jr331484/principal-data-and-ai-architect/",
-      "identifier": "Principal Data and AI Architect_incipal-data-and-ai-architect/"
-    },
-    {
-      "title": "Workforce Planning Manager - Finance",
-      "url": "https://careers.salesforce.com/en/jobs/jr341022/workforce-planning-manager-finance/",
-      "identifier": "Workforce Planning Manager - Finance_orce-planning-manager-finance/"
-    },
-    {
-      "title": "Senior / Lead Software Developer | Data Engineer Expert",
-      "url": "https://careers.salesforce.com/en/jobs/jr336657/senior-lead-software-developer-data-engineer-expert/",
-      "identifier": "Senior / Lead Software Developer | Data Engineer E_eveloper-data-engineer-expert/"
-    },
-    {
-      "title": "Senior Manager, Global Compensation Strategy & Design",
-      "url": "https://careers.salesforce.com/en/jobs/jr327302/senior-manager-global-compensation-strategy-design/",
-      "identifier": "Senior Manager, Global Compensation Strategy & Des_-compensation-strategy-design/"
-    },
-    {
-      "title": "Public Sector Solution Engineer - Sweden",
-      "url": "https://careers.salesforce.com/en/jobs/jr337882/public-sector-solution-engineer-sweden/",
-      "identifier": "Public Sector Solution Engineer - Sweden_ctor-solution-engineer-sweden/"
+      "title": "AI Builder, Emerging Talent",
+      "url": "https://careers.salesforce.com/en/jobs/jr341276/ai-builder-emerging-talent/",
+      "identifier": "AI Builder, Emerging Talent_76/ai-builder-emerging-talent/"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-06T21:26:16.894215"
+  "timestamp": "2026-05-06T21:43:24.785328"
 }

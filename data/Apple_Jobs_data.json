@@ -4,6 +4,11 @@
   "total_jobs": 15,
   "jobs": [
     {
+      "title": "Engineering Program Specialist, SWE Programs",
+      "url": "https://jobs.apple.com/en-us/details/200659252-0836/engineering-program-specialist-swe-programs?team=SFTWR",
+      "identifier": "Engineering Program Specialist, SWE Programs_ialist-swe-programs?team=SFTWR"
+    },
+    {
       "title": "Systems Engineer, Retail Experiences",
       "url": "https://jobs.apple.com/en-us/details/200652940-3956/systems-engineer-retail-experiences?team=SFTWR",
       "identifier": "Systems Engineer, Retail Experiences_-retail-experiences?team=SFTWR"
@@ -72,13 +77,8 @@
       "title": "SWE Engineering Project Manager, International Experience & Operations Features",
       "url": "https://jobs.apple.com/en-us/details/200649007-0836/swe-engineering-project-manager-international-experience-operations-features?team=SFTWR",
       "identifier": "SWE Engineering Project Manager, International Exp_operations-features?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer - Strategic Data Solutions",
-      "url": "https://jobs.apple.com/en-us/details/200640140-0157/software-engineer-strategic-data-solutions?team=SFTWR",
-      "identifier": "Software Engineer - Strategic Data Solutions_egic-data-solutions?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-06T01:14:16.200565"
+  "timestamp": "2026-05-06T01:31:29.736565"
 }

@@ -39,6 +39,11 @@
       "identifier": "jpmc_210743516"
     },
     {
+      "title": "JPMC Institute Research Associate",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210745402/?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
+      "identifier": "jpmc_210745402"
+    },
+    {
       "title": "Experienced Software Engineer Java / Python (Full Stack or Back End)",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210692992/?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
       "identifier": "jpmc_210692992"
@@ -72,11 +77,6 @@
       "title": "Software Engineer III - Python Developer/AWS/Kafka",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210726085/?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
       "identifier": "jpmc_210726085"
-    },
-    {
-      "title": "Data Software Engineer II - PySpark/ETL/AWS/",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210728333/?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
-      "identifier": "jpmc_210728333"
     },
     {
       "title": "Senior Director of Software Engineering, Global Customer Platform",
@@ -130,5 +130,5 @@
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-06T21:59:06.000486"
+  "timestamp": "2026-05-06T22:16:03.566729"
 }

@@ -14,6 +14,16 @@
       "identifier": "Senior Manager - Software Engineering_r-Manager-Software-Engineering"
     },
     {
+      "title": "Senior Software Engineering Manager - Pharmacy Systems",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0845175/Senior-Software-Engineering-Manager-Pharmacy-Systems",
+      "identifier": "Senior Software Engineering Manager - Pharmacy Sys_ering-Manager-Pharmacy-Systems"
+    },
+    {
+      "title": "Staff Software Development Engineer - NodeJs and AI",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0846991/Staff-Software-Development-Engineer-NodeJs-and-AI",
+      "identifier": "Staff Software Development Engineer - NodeJs and A_lopment-Engineer-NodeJs-and-AI"
+    },
+    {
       "title": "Manager - Scrum Master",
       "url": "https://jobs.cvshealth.com/us/en/job/R0904934/Manager-Scrum-Master",
       "identifier": "Manager - Scrum Master_/R0904934/Manager-Scrum-Master"
@@ -32,18 +42,8 @@
       "title": "Staff Software Development Engineer",
       "url": "https://jobs.cvshealth.com/us/en/job/R0902107/Staff-Software-Development-Engineer",
       "identifier": "Staff Software Development Engineer_-Software-Development-Engineer"
-    },
-    {
-      "title": "Staff Software Development Engineer - NodeJs and AI",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0846991/Staff-Software-Development-Engineer-NodeJs-and-AI",
-      "identifier": "Staff Software Development Engineer - NodeJs and A_lopment-Engineer-NodeJs-and-AI"
-    },
-    {
-      "title": "Senior Software Engineering Manager - Pharmacy Systems",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0845175/Senior-Software-Engineering-Manager-Pharmacy-Systems",
-      "identifier": "Senior Software Engineering Manager - Pharmacy Sys_ering-Manager-Pharmacy-Systems"
     }
   ],
   "job_count_text": "44",
-  "timestamp": "2026-05-06T22:48:57.293744"
+  "timestamp": "2026-05-06T23:05:52.700309"
 }

@@ -4,11 +4,6 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "New College Grad - Pathfinding Device Integration Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
-      "url": "https://careers.micron.com/careers/job/41806529",
-      "identifier": "New College Grad - Pathfinding Device Integration _icron.com/careers/job/41806529"
-    },
-    {
       "title": "Idaho US Expansion Program Manager\nBoise, Idaho, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/41051353",
       "identifier": "Idaho US Expansion Program Manager\nBoise, Idaho, U_icron.com/careers/job/41051353"
@@ -29,6 +24,11 @@
       "identifier": "New College Grad - Engineer, Surface Lab\nBoise, Id_icron.com/careers/job/41824643"
     },
     {
+      "title": "New College Grad - Pathfinding Device Integration Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/41806529",
+      "identifier": "New College Grad - Pathfinding Device Integration _icron.com/careers/job/41806529"
+    },
+    {
       "title": "Pathfinding Device Integration Engineer\nBoise, Idaho, United States of America\nPosted 2 days ago",
       "url": "https://careers.micron.com/careers/job/41782272",
       "identifier": "Pathfinding Device Integration Engineer\nBoise, Ida_icron.com/careers/job/41782272"
@@ -44,16 +44,16 @@
       "identifier": "Memory Design Engineer, HBM\nRichardson, Texas, Uni_icron.com/careers/job/40709801"
     },
     {
-      "title": "Process Integration Engineer | APTD\nBoise, Idaho, United States of America\nPosted 6 days ago",
-      "url": "https://careers.micron.com/careers/job/41288080",
-      "identifier": "Process Integration Engineer | APTD\nBoise, Idaho, _icron.com/careers/job/41288080"
-    },
-    {
       "title": "Staff CAD Engineer, DEG\nRichardson, Texas, United States of America\nPosted 6 days ago",
       "url": "https://careers.micron.com/careers/job/38954305",
       "identifier": "Staff CAD Engineer, DEG\nRichardson, Texas, United _icron.com/careers/job/38954305"
+    },
+    {
+      "title": "Design Verification Quality Engineer\nBoise, Idaho, United States of America\nPosted 6 days ago",
+      "url": "https://careers.micron.com/careers/job/41441282",
+      "identifier": "Design Verification Quality Engineer\nBoise, Idaho,_icron.com/careers/job/41441282"
     }
   ],
   "job_count_text": "81",
-  "timestamp": "2026-05-06T22:50:59.755984"
+  "timestamp": "2026-05-06T23:07:53.584846"
 }

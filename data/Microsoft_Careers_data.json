@@ -1,7 +1,7 @@
 {
   "page_title": "| Microsoft Careers",
   "url": "https://apply.careers.microsoft.com/careers?domain=microsoft.com&start=0&location=United+States&sort_by=timestamp&filter_include_remote=1&filter_profession=software+engineering%2Cresearch%252C%2520applied%252C%2520%2526%2520data%2520sciences",
-  "total_jobs": 8,
+  "total_jobs": 7,
   "jobs": [
     {
       "title": "Senior Machine Learning Engineer\nUnited States, California, Mountain View + 2 more\nPosted an hour ago",
@@ -37,13 +37,8 @@
       "title": "Principal Software Engineering-CoreAI\nUnited States, Washington, Redmond\nPosted 4 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556760128?domain=microsoft.com",
       "identifier": "Principal Software Engineering-CoreAI\nUnited State_556760128?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Applied Scientist\nUnited States, California, Mountain View + 1 more\nPosted 4 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556863455?domain=microsoft.com",
-      "identifier": "Senior Applied Scientist\nUnited States, California_556863455?domain=microsoft.com"
     }
   ],
-  "job_count_text": "543",
-  "timestamp": "2026-05-06T22:47:41.119873"
+  "job_count_text": "544",
+  "timestamp": "2026-05-06T23:04:36.243603"
 }

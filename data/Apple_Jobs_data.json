@@ -4,6 +4,11 @@
   "total_jobs": 15,
   "jobs": [
     {
+      "title": "Operations Critical Facilities Supervisor, Data Center Operations",
+      "url": "https://jobs.apple.com/en-us/details/200657375-2903/operations-critical-facilities-supervisor-data-center-operations?team=SFTWR",
+      "identifier": "Operations Critical Facilities Supervisor, Data Ce_a-center-operations?team=SFTWR"
+    },
+    {
       "title": "Software Automation Engineer",
       "url": "https://jobs.apple.com/en-us/details/200661716-0836/software-automation-engineer?team=SFTWR",
       "identifier": "Software Automation Engineer_automation-engineer?team=SFTWR"
@@ -72,13 +77,8 @@
       "title": "GPU Compiler Engineer, Graphics, Game and ML",
       "url": "https://jobs.apple.com/en-us/details/200649008-0836/gpu-compiler-engineer-graphics-game-and-ml?team=SFTWR",
       "identifier": "GPU Compiler Engineer, Graphics, Game and ML_raphics-game-and-ml?team=SFTWR"
-    },
-    {
-      "title": "Engineering Manager, Cloud Network Reliability",
-      "url": "https://jobs.apple.com/en-us/details/200642210-3956/engineering-manager-cloud-network-reliability?team=SFTWR",
-      "identifier": "Engineering Manager, Cloud Network Reliability_network-reliability?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-06T19:14:49.761945"
+  "timestamp": "2026-05-06T19:32:57.060832"
 }

@@ -4,9 +4,14 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Senior Build & Pipeline Architect - Turn 10 Studios\nUnited States, Washington, Redmond\nPosted 17 minutes ago",
+      "title": "Senior Build & Pipeline Architect - Turn 10 Studios\nUnited States, Washington, Redmond\nPosted 35 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556864069?domain=microsoft.com",
       "identifier": "Senior Build & Pipeline Architect - Turn 10 Studio_556864069?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 36 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556749997?domain=microsoft.com",
+      "identifier": "Senior Software Engineer\nUnited States, Washington_556749997?domain=microsoft.com"
     },
     {
       "title": "Principal Software Engineer - Observability Common Infrastructure\nUnited States, Washington, Redmond\nPosted an hour ago",
@@ -14,7 +19,7 @@
       "identifier": "Principal Software Engineer - Observability Common_556824242?domain=microsoft.com"
     },
     {
-      "title": "Principal Software Engineer - Performance\nUnited States, California, Mountain View\nPosted an hour ago",
+      "title": "Principal Software Engineer - Performance\nUnited States, California, Mountain View\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556828256?domain=microsoft.com",
       "identifier": "Principal Software Engineer - Performance\nUnited S_556828256?domain=microsoft.com"
     },
@@ -47,13 +52,8 @@
       "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 6 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556861066?domain=microsoft.com",
       "identifier": "Software Engineer II\nUnited States, Washington, Re_556861066?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 6 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556862932?domain=microsoft.com",
-      "identifier": "Senior Software Engineer\nUnited States, Washington_556862932?domain=microsoft.com"
     }
   ],
-  "job_count_text": "536",
-  "timestamp": "2026-05-07T19:38:02.634716"
+  "job_count_text": "537",
+  "timestamp": "2026-05-07T19:55:09.134399"
 }

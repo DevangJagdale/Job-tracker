@@ -4,6 +4,11 @@
   "total_jobs": 15,
   "jobs": [
     {
+      "title": "AI/ML Tools and Automation Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200660856-3337/ai-ml-tools-and-automation-engineer?team=SFTWR",
+      "identifier": "AI/ML Tools and Automation Engineer_automation-engineer?team=SFTWR"
+    },
+    {
       "title": "Sr Machine Learning Engineer, Proactive",
       "url": "https://jobs.apple.com/en-us/details/200661999-3760/sr-machine-learning-engineer-proactive?team=MLAI",
       "identifier": "Sr Machine Learning Engineer, Proactive_g-engineer-proactive?team=MLAI"
@@ -72,13 +77,8 @@
       "title": "Data Scientist",
       "url": "https://jobs.apple.com/en-us/details/200661978-3543/data-scientist?team=SFTWR",
       "identifier": "Data Scientist_3543/data-scientist?team=SFTWR"
-    },
-    {
-      "title": "Technical Writer",
-      "url": "https://jobs.apple.com/en-us/details/200657704-3401/technical-writer?team=SFTWR",
-      "identifier": "Technical Writer_01/technical-writer?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-07T18:47:14.596722"
+  "timestamp": "2026-05-07T19:04:14.707423"
 }

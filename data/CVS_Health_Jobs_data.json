@@ -4,9 +4,9 @@
   "total_jobs": 8,
   "jobs": [
     {
-      "title": "Manager - Budget Planning and Execution",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0887200/Manager-Budget-Planning-and-Execution",
-      "identifier": "Manager - Budget Planning and Execution_-Budget-Planning-and-Execution"
+      "title": "Senior Manager - Conversational Quality Engineering (QA)",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0892614/Senior-Manager-Conversational-Quality-Engineering-QA",
+      "identifier": "Senior Manager - Conversational Quality Engineerin_ational-Quality-Engineering-QA"
     },
     {
       "title": "Field Technician",
@@ -15,18 +15,18 @@
     },
     {
       "title": "Manager - Scrum Master",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0904962/Manager-Scrum-Master",
+      "identifier": "Manager - Scrum Master_/R0904962/Manager-Scrum-Master"
+    },
+    {
+      "title": "Manager - Scrum Master",
       "url": "https://jobs.cvshealth.com/us/en/job/R0904934/Manager-Scrum-Master",
       "identifier": "Manager - Scrum Master_/R0904934/Manager-Scrum-Master"
     },
     {
-      "title": "Senior Manager - Conversational Quality Engineering (QA)",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0892614/Senior-Manager-Conversational-Quality-Engineering-QA",
-      "identifier": "Senior Manager - Conversational Quality Engineerin_ational-Quality-Engineering-QA"
-    },
-    {
-      "title": "Manager - Scrum Master",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0904962/Manager-Scrum-Master",
-      "identifier": "Manager - Scrum Master_/R0904962/Manager-Scrum-Master"
+      "title": "Manager - Budget Planning and Execution",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0887200/Manager-Budget-Planning-and-Execution",
+      "identifier": "Manager - Budget Planning and Execution_-Budget-Planning-and-Execution"
     },
     {
       "title": "Store Hardware Technician",
@@ -45,5 +45,5 @@
     }
   ],
   "job_count_text": "32",
-  "timestamp": "2026-05-07T06:37:36.340005"
+  "timestamp": "2026-05-07T06:45:15.698081"
 }

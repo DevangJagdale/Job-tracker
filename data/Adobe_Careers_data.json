@@ -4,6 +4,11 @@
   "total_jobs": 6,
   "jobs": [
     {
+      "title": "2026 University Graduate \u2013Business Development Representative",
+      "url": "https://careers.adobe.com/us/en/job/R159369/2026-University-Graduate-Business-Development-Representative",
+      "identifier": "2026 University Graduate \u2013Business Development Rep_ess-Development-Representative"
+    },
+    {
       "title": "Applied Scientist",
       "url": "https://careers.adobe.com/us/en/job/R166888/Applied-Scientist",
       "identifier": "Applied Scientist_/job/R166888/Applied-Scientist"
@@ -27,13 +32,8 @@
       "title": "Software Development Engineer",
       "url": "https://careers.adobe.com/us/en/job/R161750/Software-Development-Engineer",
       "identifier": "Software Development Engineer_/Software-Development-Engineer"
-    },
-    {
-      "title": "Applied Scientist 3",
-      "url": "https://careers.adobe.com/us/en/job/R166095/Applied-Scientist-3",
-      "identifier": "Applied Scientist 3_ob/R166095/Applied-Scientist-3"
     }
   ],
-  "job_count_text": "6",
-  "timestamp": "2026-05-07T14:43:44.094970"
+  "job_count_text": "12",
+  "timestamp": "2026-05-07T15:00:55.778893"
 }

@@ -1,8 +1,13 @@
 {
   "page_title": "| Microsoft Careers",
   "url": "https://apply.careers.microsoft.com/careers?domain=microsoft.com&start=0&location=United+States&sort_by=timestamp&filter_include_remote=1&filter_profession=software+engineering%2Cresearch%252C%2520applied%252C%2520%2526%2520data%2520sciences",
-  "total_jobs": 6,
+  "total_jobs": 7,
   "jobs": [
+    {
+      "title": "Senior Fullstack Engineer\nUnited States, Washington, Redmond\nPosted 20 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556864445?domain=microsoft.com",
+      "identifier": "Senior Fullstack Engineer\nUnited States, Washingto_556864445?domain=microsoft.com"
+    },
     {
       "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556861066?domain=microsoft.com",
@@ -24,7 +29,7 @@
       "identifier": "Software Engineer II\nUnited States, Multiple Locat_556649786?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 15 hours ago",
+      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 16 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556863332?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Washington_556863332?domain=microsoft.com"
     },
@@ -35,5 +40,5 @@
     }
   ],
   "job_count_text": "535",
-  "timestamp": "2026-05-07T14:39:14.624222"
+  "timestamp": "2026-05-07T14:56:23.692211"
 }

@@ -4,6 +4,16 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Senior iOS Engineering Manager - AI Adoption",
+      "url": "https://jobs.apple.com/en-us/details/200624967-3956/senior-ios-engineering-manager-ai-adoption?team=SFTWR",
+      "identifier": "Senior iOS Engineering Manager - AI Adoption_manager-ai-adoption?team=SFTWR"
+    },
+    {
+      "title": "Software Engineering Manager, Wallet Identity",
+      "url": "https://jobs.apple.com/en-us/details/200661876-0157/software-engineering-manager-wallet-identity?team=SFTWR",
+      "identifier": "Software Engineering Manager, Wallet Identity_ger-wallet-identity?team=SFTWR"
+    },
+    {
       "title": "Engineering Program Manager, Audio",
       "url": "https://jobs.apple.com/en-us/details/200662018-0836/engineering-program-manager-audio?team=SFTWR",
       "identifier": "Engineering Program Manager, Audio_ogram-manager-audio?team=SFTWR"
@@ -72,18 +82,8 @@
       "title": "Engineering Program Manager, AI/ML, Apple Services Engineering (ASE)",
       "url": "https://jobs.apple.com/en-us/details/200661975-0836/engineering-program-manager-ai-ml-apple-services-engineering-ase?team=SFTWR",
       "identifier": "Engineering Program Manager, AI/ML, Apple Services_ces-engineering-ase?team=SFTWR"
-    },
-    {
-      "title": "Product System Test Engineer, Wireless Technologies & Ecosystems",
-      "url": "https://jobs.apple.com/en-us/details/200661601-3543/product-system-test-engineer-wireless-technologies-ecosystems?team=SFTWR",
-      "identifier": "Product System Test Engineer, Wireless Technologie_nologies-ecosystems?team=SFTWR"
-    },
-    {
-      "title": "ML Data Science Manager, ISE Analytics and User Studies",
-      "url": "https://jobs.apple.com/en-us/details/200642063-0836/ml-data-science-manager-ise-analytics-and-user-studies?team=SFTWR",
-      "identifier": "ML Data Science Manager, ISE Analytics and User St_cs-and-user-studies?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-07T16:05:26.733668"
+  "timestamp": "2026-05-07T16:22:35.684405"
 }

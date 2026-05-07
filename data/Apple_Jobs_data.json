@@ -1,8 +1,18 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 14,
+  "total_jobs": 10,
   "jobs": [
+    {
+      "title": "Secure Systems Engineer - Platform Architecture",
+      "url": "https://jobs.apple.com/en-us/details/200660421-0157/secure-systems-engineer-platform-architecture?team=SFTWR",
+      "identifier": "Secure Systems Engineer - Platform Architecture_atform-architecture?team=SFTWR"
+    },
+    {
+      "title": "Secure Systems Architect - Platform Architecture",
+      "url": "https://jobs.apple.com/en-us/details/200660423-0157/secure-systems-architect-platform-architecture?team=SFTWR",
+      "identifier": "Secure Systems Architect - Platform Architecture_atform-architecture?team=SFTWR"
+    },
     {
       "title": "Technical Operations Engineer",
       "url": "https://jobs.apple.com/en-us/details/200662212-0670/technical-operations-engineer?team=SFTWR",
@@ -42,38 +52,8 @@
       "title": "Sr Machine Learning Engineer, Proactive",
       "url": "https://jobs.apple.com/en-us/details/200661999-3760/sr-machine-learning-engineer-proactive?team=MLAI",
       "identifier": "Sr Machine Learning Engineer, Proactive_g-engineer-proactive?team=MLAI"
-    },
-    {
-      "title": "Senior Product Manager, Business Commerce",
-      "url": "https://jobs.apple.com/en-us/details/200661145-3337/senior-product-manager-business-commerce?team=SFTWR",
-      "identifier": "Senior Product Manager, Business Commerce_r-business-commerce?team=SFTWR"
-    },
-    {
-      "title": "Engineering Project Manager (SAP Retail Payments Analyst), IS&T Enterprise Systems",
-      "url": "https://jobs.apple.com/en-us/details/200660947-3401/engineering-project-manager-sap-retail-payments-analyst-is-t-enterprise-systems?team=SFTWR",
-      "identifier": "Engineering Project Manager (SAP Retail Payments A_-enterprise-systems?team=SFTWR"
-    },
-    {
-      "title": "Senior iOS Engineering Manager - AI Adoption",
-      "url": "https://jobs.apple.com/en-us/details/200624967-3956/senior-ios-engineering-manager-ai-adoption?team=SFTWR",
-      "identifier": "Senior iOS Engineering Manager - AI Adoption_manager-ai-adoption?team=SFTWR"
-    },
-    {
-      "title": "Engineering Program Manager, Audio",
-      "url": "https://jobs.apple.com/en-us/details/200662018-0836/engineering-program-manager-audio?team=SFTWR",
-      "identifier": "Engineering Program Manager, Audio_ogram-manager-audio?team=SFTWR"
-    },
-    {
-      "title": "Software Development Engineer in Test, Retail and Marcom Engineering",
-      "url": "https://jobs.apple.com/en-us/details/200649735-3956/software-development-engineer-in-test-retail-and-marcom-engineering?team=SFTWR",
-      "identifier": "Software Development Engineer in Test, Retail and _-marcom-engineering?team=SFTWR"
-    },
-    {
-      "title": "Senior Software Engineer \u2014 Observability",
-      "url": "https://jobs.apple.com/en-us/details/200661910-0157/senior-software-engineer-observability?team=SFTWR",
-      "identifier": "Senior Software Engineer \u2014 Observability_ineer-observability?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-07T22:46:38.370333"
+  "timestamp": "2026-05-07T23:03:39.832700"
 }

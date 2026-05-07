@@ -4,6 +4,16 @@
   "total_jobs": 15,
   "jobs": [
     {
+      "title": "Senior Software Data Engineer, App Store",
+      "url": "https://jobs.apple.com/en-us/details/200662206-3577/senior-software-data-engineer-app-store?team=SFTWR",
+      "identifier": "Senior Software Data Engineer, App Store_-engineer-app-store?team=SFTWR"
+    },
+    {
+      "title": "Software Data Engineer, App Store",
+      "url": "https://jobs.apple.com/en-us/details/200661956-3577/software-data-engineer-app-store?team=SFTWR",
+      "identifier": "Software Data Engineer, App Store_-engineer-app-store?team=SFTWR"
+    },
+    {
       "title": "Software Engineering Manager, Wallet Identity",
       "url": "https://jobs.apple.com/en-us/details/200661876-0157/software-engineering-manager-wallet-identity?team=SFTWR",
       "identifier": "Software Engineering Manager, Wallet Identity_ger-wallet-identity?team=SFTWR"
@@ -67,18 +77,8 @@
       "title": "Software Development Engineer",
       "url": "https://jobs.apple.com/en-us/details/200661989-2903/software-development-engineer?team=SFTWR",
       "identifier": "Software Development Engineer_evelopment-engineer?team=SFTWR"
-    },
-    {
-      "title": "Linux Systems Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200662004-0157/linux-systems-engineer?team=SFTWR",
-      "identifier": "Linux Systems Engineer_ux-systems-engineer?team=SFTWR"
-    },
-    {
-      "title": "Data Scientist",
-      "url": "https://jobs.apple.com/en-us/details/200661978-3543/data-scientist?team=SFTWR",
-      "identifier": "Data Scientist_3543/data-scientist?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-07T19:21:17.799206"
+  "timestamp": "2026-05-07T19:38:19.113187"
 }

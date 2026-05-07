@@ -14,6 +14,11 @@
       "identifier": "Field Service Technician -Indianapolis, IN Metro a_ian-Indianapolis-IN-Metro-area"
     },
     {
+      "title": "Manager, Business Analysis",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0906521/Manager-Business-Analysis",
+      "identifier": "Manager, Business Analysis_6521/Manager-Business-Analysis"
+    },
+    {
       "title": "Manager - Budget Planning and Execution",
       "url": "https://jobs.cvshealth.com/us/en/job/R0887200/Manager-Budget-Planning-and-Execution",
       "identifier": "Manager - Budget Planning and Execution_-Budget-Planning-and-Execution"
@@ -37,13 +42,8 @@
       "title": "Manager - Scrum Master",
       "url": "https://jobs.cvshealth.com/us/en/job/R0904962/Manager-Scrum-Master",
       "identifier": "Manager - Scrum Master_/R0904962/Manager-Scrum-Master"
-    },
-    {
-      "title": "Store Hardware Technician",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0846748/Store-Hardware-Technician",
-      "identifier": "Store Hardware Technician_6748/Store-Hardware-Technician"
     }
   ],
-  "job_count_text": "35",
-  "timestamp": "2026-05-07T19:22:17.111056"
+  "job_count_text": "36",
+  "timestamp": "2026-05-07T19:39:19.581692"
 }

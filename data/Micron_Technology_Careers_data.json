@@ -4,14 +4,9 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "(New College Grad) Change Management Engineer\nBoise, Idaho, United States of America\nPosted 21 hours ago",
+      "title": "(New College Grad) Change Management Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/40986267",
       "identifier": "(New College Grad) Change Management Engineer\nBois_icron.com/careers/job/40986267"
-    },
-    {
-      "title": "New College Grad - Supply Chain Planner\nBoise, Idaho, United States of America\nPosted 2 days ago",
-      "url": "https://careers.micron.com/careers/job/41084880",
-      "identifier": "New College Grad - Supply Chain Planner\nBoise, Ida_icron.com/careers/job/41084880"
     },
     {
       "title": "Analytical Chemist\nBoise, Idaho, United States of America\nPosted 2 days ago",
@@ -32,6 +27,11 @@
       "title": "New College Grad - Pathfinding Device Integration Engineer\nBoise, Idaho, United States of America\nPosted 2 days ago",
       "url": "https://careers.micron.com/careers/job/41806529",
       "identifier": "New College Grad - Pathfinding Device Integration _icron.com/careers/job/41806529"
+    },
+    {
+      "title": "New College Grad - Supply Chain Planner\nBoise, Idaho, United States of America\nPosted 2 days ago",
+      "url": "https://careers.micron.com/careers/job/41084880",
+      "identifier": "New College Grad - Supply Chain Planner\nBoise, Ida_icron.com/careers/job/41084880"
     },
     {
       "title": "Pathfinding Device Integration Engineer\nBoise, Idaho, United States of America\nPosted 3 days ago",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "79",
-  "timestamp": "2026-05-07T21:24:18.433654"
+  "timestamp": "2026-05-07T21:41:23.051660"
 }

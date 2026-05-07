@@ -4,6 +4,11 @@
   "total_jobs": 14,
   "jobs": [
     {
+      "title": "The Spotlight UI Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200662189-0836/the-spotlight-ui-engineer?team=SFTWR",
+      "identifier": "The Spotlight UI Engineer_otlight-ui-engineer?team=SFTWR"
+    },
+    {
       "title": "iOS Application Developer - Health Software",
       "url": "https://jobs.apple.com/en-us/details/200661261-3956/ios-application-developer-health-software?team=SFTWR",
       "identifier": "iOS Application Developer - Health Software_per-health-software?team=SFTWR"
@@ -67,13 +72,8 @@
       "title": "Senior Software Engineer, Access/Car Keys Engineering",
       "url": "https://jobs.apple.com/en-us/details/200635185-0157/senior-software-engineer-access-car-keys-engineering?team=SFTWR",
       "identifier": "Senior Software Engineer, Access/Car Keys Engineer_ar-keys-engineering?team=SFTWR"
-    },
-    {
-      "title": "Sr Engineering Program Manager, AI/ML",
-      "url": "https://jobs.apple.com/en-us/details/200661851-0836/sr-engineering-program-manager-ai-ml?team=SFTWR",
-      "identifier": "Sr Engineering Program Manager, AI/ML_ogram-manager-ai-ml?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-07T20:47:09.120471"
+  "timestamp": "2026-05-07T21:04:06.054152"
 }

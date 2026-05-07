@@ -4,7 +4,12 @@
   "total_jobs": 6,
   "jobs": [
     {
-      "title": "Software Engineer II\nUnited States, Multiple Locations, Multiple Locations\nPosted 3 hours ago",
+      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 19 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556859896?domain=microsoft.com",
+      "identifier": "Software Engineer II\nUnited States, Washington, Re_556859896?domain=microsoft.com"
+    },
+    {
+      "title": "Software Engineer II\nUnited States, Multiple Locations, Multiple Locations\nPosted 4 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556649786?domain=microsoft.com",
       "identifier": "Software Engineer II\nUnited States, Multiple Locat_556649786?domain=microsoft.com"
     },
@@ -14,7 +19,7 @@
       "identifier": "Senior Software Engineer\nUnited States, Washington_556863332?domain=microsoft.com"
     },
     {
-      "title": "Senior Machine Learning Engineer\nUnited States, California, Mountain View + 2 more\nPosted 5 hours ago",
+      "title": "Senior Machine Learning Engineer\nUnited States, California, Mountain View + 2 more\nPosted 6 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556862590?domain=microsoft.com",
       "identifier": "Senior Machine Learning Engineer\nUnited States, Ca_556862590?domain=microsoft.com"
     },
@@ -27,13 +32,8 @@
       "title": "Principal Applied Scientist\nUnited States, Washington, Redmond\nPosted 6 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556864031?domain=microsoft.com",
       "identifier": "Principal Applied Scientist\nUnited States, Washing_556864031?domain=microsoft.com"
-    },
-    {
-      "title": "Software Engineer II - CTJ - Poly\nUnited States, Virginia, Reston + 1 more\nPosted 6 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556864006?domain=microsoft.com",
-      "identifier": "Software Engineer II - CTJ - Poly\nUnited States, V_556864006?domain=microsoft.com"
     }
   ],
-  "job_count_text": "543",
-  "timestamp": "2026-05-07T03:10:40.245626"
+  "job_count_text": "544",
+  "timestamp": "2026-05-07T03:27:47.625832"
 }

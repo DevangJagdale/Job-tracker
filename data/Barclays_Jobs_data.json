@@ -1,8 +1,28 @@
 {
   "page_title": "Search our Job Opportunities at Barclays",
   "url": "https://search.jobs.barclays/search-jobs/United%20States/13015/2/6252001/39x76/-98x5/50/2",
-  "total_jobs": 11,
+  "total_jobs": 15,
   "jobs": [
+    {
+      "title": "Service Manager - AVP",
+      "url": "https://search.jobs.barclays/job/whippany/service-manager-avp/13015/94791337632",
+      "identifier": "Service Manager - AVP_-manager-avp/13015/94791337632"
+    },
+    {
+      "title": "Application Support Analyst",
+      "url": "https://search.jobs.barclays/job/wilmington/application-support-analyst/13015/94791337584",
+      "identifier": "Application Support Analyst_port-analyst/13015/94791337584"
+    },
+    {
+      "title": "Technology Rigor Controls Specialist-AVP",
+      "url": "https://search.jobs.barclays/job/whippany/technology-rigor-controls-specialist-avp/13015/94791329744",
+      "identifier": "Technology Rigor Controls Specialist-AVP_ecialist-avp/13015/94791329744"
+    },
+    {
+      "title": "Distressed Loan Closer AVP",
+      "url": "https://search.jobs.barclays/job/whippany/distressed-loan-closer-avp/13015/94791326640",
+      "identifier": "Distressed Loan Closer AVP_n-closer-avp/13015/94791326640"
+    },
     {
       "title": "Internal Audit AVP- AI",
       "url": "https://search.jobs.barclays/job/whippany/internal-audit-avp-ai/13015/94778651216",
@@ -60,5 +80,5 @@
     }
   ],
   "job_count_text": "120",
-  "timestamp": "2026-05-07T11:19:18.073442"
+  "timestamp": "2026-05-07T11:36:35.254590"
 }

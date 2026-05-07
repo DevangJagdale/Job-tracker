@@ -4,11 +4,6 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "New College Grad - Pathfinding Device Integration Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
-      "url": "https://careers.micron.com/careers/job/41806529",
-      "identifier": "New College Grad - Pathfinding Device Integration _icron.com/careers/job/41806529"
-    },
-    {
       "title": "Idaho US Expansion Program Manager\nBoise, Idaho, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/41051353",
       "identifier": "Idaho US Expansion Program Manager\nBoise, Idaho, U_icron.com/careers/job/41051353"
@@ -29,6 +24,11 @@
       "identifier": "New College Grad - Engineer, Surface Lab\nBoise, Id_icron.com/careers/job/41824643"
     },
     {
+      "title": "New College Grad - Pathfinding Device Integration Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/41806529",
+      "identifier": "New College Grad - Pathfinding Device Integration _icron.com/careers/job/41806529"
+    },
+    {
       "title": "Pathfinding Device Integration Engineer\nBoise, Idaho, United States of America\nPosted 2 days ago",
       "url": "https://careers.micron.com/careers/job/41782272",
       "identifier": "Pathfinding Device Integration Engineer\nBoise, Ida_icron.com/careers/job/41782272"
@@ -44,16 +44,16 @@
       "identifier": "Memory Design Engineer, HBM\nRichardson, Texas, Uni_icron.com/careers/job/40709801"
     },
     {
-      "title": "Semiconductor Process Engineer, Metrology\nBoise, Idaho, United States of America\nPosted 6 days ago",
-      "url": "https://careers.micron.com/careers/job/39196650",
-      "identifier": "Semiconductor Process Engineer, Metrology\nBoise, I_icron.com/careers/job/39196650"
-    },
-    {
       "title": "Staff CAD Design Automation Engineer, Central Engineering\nBoise, Idaho, United States of America\nPosted 6 days ago",
       "url": "https://careers.micron.com/careers/job/30948222",
       "identifier": "Staff CAD Design Automation Engineer, Central Engi_icron.com/careers/job/30948222"
+    },
+    {
+      "title": "Process Integration Engineer | APTD\nBoise, Idaho, United States of America\nPosted 6 days ago",
+      "url": "https://careers.micron.com/careers/job/41288080",
+      "identifier": "Process Integration Engineer | APTD\nBoise, Idaho, _icron.com/careers/job/41288080"
     }
   ],
   "job_count_text": "80",
-  "timestamp": "2026-05-07T01:14:02.424328"
+  "timestamp": "2026-05-07T01:31:18.856598"
 }

@@ -4,6 +4,11 @@
   "total_jobs": 15,
   "jobs": [
     {
+      "title": "Sr Machine Learning Engineer, Proactive",
+      "url": "https://jobs.apple.com/en-us/details/200661999-3760/sr-machine-learning-engineer-proactive?team=MLAI",
+      "identifier": "Sr Machine Learning Engineer, Proactive_g-engineer-proactive?team=MLAI"
+    },
+    {
       "title": "Senior Product Manager, Business Commerce",
       "url": "https://jobs.apple.com/en-us/details/200661145-3337/senior-product-manager-business-commerce?team=SFTWR",
       "identifier": "Senior Product Manager, Business Commerce_r-business-commerce?team=SFTWR"
@@ -72,13 +77,8 @@
       "title": "Technical Writer",
       "url": "https://jobs.apple.com/en-us/details/200657704-3401/technical-writer?team=SFTWR",
       "identifier": "Technical Writer_01/technical-writer?team=SFTWR"
-    },
-    {
-      "title": "Senior Software Engineer - Regulatory AI & Connected Data",
-      "url": "https://jobs.apple.com/en-us/details/200661750-0836/senior-software-engineer-regulatory-ai-connected-data?team=SFTWR",
-      "identifier": "Senior Software Engineer - Regulatory AI & Connect_y-ai-connected-data?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-07T18:13:06.970015"
+  "timestamp": "2026-05-07T18:30:09.471068"
 }

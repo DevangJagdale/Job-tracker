@@ -4,6 +4,16 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Senior Product Manager, Business Commerce",
+      "url": "https://jobs.apple.com/en-us/details/200661145-3337/senior-product-manager-business-commerce?team=SFTWR",
+      "identifier": "Senior Product Manager, Business Commerce_r-business-commerce?team=SFTWR"
+    },
+    {
+      "title": "Engineering Project Manager (SAP Retail Payments Analyst), IS&T Enterprise Systems",
+      "url": "https://jobs.apple.com/en-us/details/200660947-3401/engineering-project-manager-sap-retail-payments-analyst-is-t-enterprise-systems?team=SFTWR",
+      "identifier": "Engineering Project Manager (SAP Retail Payments A_-enterprise-systems?team=SFTWR"
+    },
+    {
       "title": "Senior iOS Engineering Manager - AI Adoption",
       "url": "https://jobs.apple.com/en-us/details/200624967-3956/senior-ios-engineering-manager-ai-adoption?team=SFTWR",
       "identifier": "Senior iOS Engineering Manager - AI Adoption_manager-ai-adoption?team=SFTWR"
@@ -72,18 +82,8 @@
       "title": "Engineering Program Manager, visionOS",
       "url": "https://jobs.apple.com/en-us/details/200652194-0365/engineering-program-manager-visionos?team=SFTWR",
       "identifier": "Engineering Program Manager, visionOS_am-manager-visionos?team=SFTWR"
-    },
-    {
-      "title": "Data Incident Analyst",
-      "url": "https://jobs.apple.com/en-us/details/200661842-0836/data-incident-analyst?team=SFTWR",
-      "identifier": "Data Incident Analyst_ta-incident-analyst?team=SFTWR"
-    },
-    {
-      "title": "Engineering Program Manager, AI/ML, Apple Services Engineering (ASE)",
-      "url": "https://jobs.apple.com/en-us/details/200661975-0836/engineering-program-manager-ai-ml-apple-services-engineering-ase?team=SFTWR",
-      "identifier": "Engineering Program Manager, AI/ML, Apple Services_ces-engineering-ase?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-07T16:22:35.684405"
+  "timestamp": "2026-05-07T16:39:39.441582"
 }

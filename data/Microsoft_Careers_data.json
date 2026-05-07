@@ -1,8 +1,18 @@
 {
   "page_title": "| Microsoft Careers",
   "url": "https://apply.careers.microsoft.com/careers?domain=microsoft.com&start=0&location=United+States&sort_by=timestamp&filter_include_remote=1&filter_profession=software+engineering%2Cresearch%252C%2520applied%252C%2520%2526%2520data%2520sciences",
-  "total_jobs": 7,
+  "total_jobs": 9,
   "jobs": [
+    {
+      "title": "Senior Software Engineer - HR Employee Experience\nUnited States, Washington, Redmond\nPosted 12 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556850857?domain=microsoft.com",
+      "identifier": "Senior Software Engineer - HR Employee Experience\n_556850857?domain=microsoft.com"
+    },
+    {
+      "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted 19 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556755306?domain=microsoft.com",
+      "identifier": "Principal Software Engineer\nUnited States, Washing_556755306?domain=microsoft.com"
+    },
     {
       "title": "Principal Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556851517?domain=microsoft.com",
@@ -34,11 +44,11 @@
       "identifier": "Software Engineer II\nUnited States, Multiple Locat_556649786?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 17 hours ago",
+      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 18 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556863332?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Washington_556863332?domain=microsoft.com"
     }
   ],
-  "job_count_text": "535",
-  "timestamp": "2026-05-07T16:39:23.812165"
+  "job_count_text": "537",
+  "timestamp": "2026-05-07T16:56:30.338423"
 }

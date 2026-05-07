@@ -4,6 +4,11 @@
   "total_jobs": 18,
   "jobs": [
     {
+      "title": "ASIC Floorplan Design Engineer - New College Grad 2026",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Floorplan-Design-Engineer---New-College-Grad-2026_JR2012971?locationCountry=bc33aa3152ec42d4995f4791a106ed09&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&workerSubType=ab40a98049581037a3ada55b087049b7",
+      "identifier": "ASIC Floorplan Design Engineer - New College Grad _40a98049581037a3ada55b087049b7"
+    },
+    {
       "title": "ASIC Physical Design Engineer, Netlisting - New College Grad 2026",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Physical-Design-Engineer--Netlisting---New-College-Grad-2026_JR2017681?locationCountry=bc33aa3152ec42d4995f4791a106ed09&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&workerSubType=ab40a98049581037a3ada55b087049b7",
       "identifier": "ASIC Physical Design Engineer, Netlisting - New Co_40a98049581037a3ada55b087049b7"
@@ -87,13 +92,8 @@
       "title": "CAD Engineer - New College Grad 2026",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/CAD-Engineer---New-College-Grad-2026_JR2013740-1?locationCountry=bc33aa3152ec42d4995f4791a106ed09&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&workerSubType=ab40a98049581037a3ada55b087049b7",
       "identifier": "CAD Engineer - New College Grad 2026_40a98049581037a3ada55b087049b7"
-    },
-    {
-      "title": "Compiler Verification Engineer, Compute Performance \u2013 GPU- New College Grad 2026",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/Compiler-Verification-Engineer--Compute-Performance---GPU--New-College-Grad-2026_JR2016459?locationCountry=bc33aa3152ec42d4995f4791a106ed09&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&workerSubType=ab40a98049581037a3ada55b087049b7",
-      "identifier": "Compiler Verification Engineer, Compute Performanc_40a98049581037a3ada55b087049b7"
     }
   ],
-  "job_count_text": "56",
-  "timestamp": "2026-05-07T20:34:56.158179"
+  "job_count_text": "57",
+  "timestamp": "2026-05-07T20:51:56.930960"
 }

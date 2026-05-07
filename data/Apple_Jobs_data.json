@@ -4,6 +4,11 @@
   "total_jobs": 15,
   "jobs": [
     {
+      "title": "Software Development Engineer in Test, Retail and Marcom Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200649735-3956/software-development-engineer-in-test-retail-and-marcom-engineering?team=SFTWR",
+      "identifier": "Software Development Engineer in Test, Retail and _-marcom-engineering?team=SFTWR"
+    },
+    {
       "title": "Senior Software Engineer \u2014 Observability",
       "url": "https://jobs.apple.com/en-us/details/200661910-0157/senior-software-engineer-observability?team=SFTWR",
       "identifier": "Senior Software Engineer \u2014 Observability_ineer-observability?team=SFTWR"
@@ -72,13 +77,8 @@
       "title": "ML Data Science Manager, ISE Analytics and User Studies",
       "url": "https://jobs.apple.com/en-us/details/200642063-0836/ml-data-science-manager-ise-analytics-and-user-studies?team=SFTWR",
       "identifier": "ML Data Science Manager, ISE Analytics and User St_cs-and-user-studies?team=SFTWR"
-    },
-    {
-      "title": "Operations Critical Facilities Supervisor, Data Center Operations",
-      "url": "https://jobs.apple.com/en-us/details/200657375-2903/operations-critical-facilities-supervisor-data-center-operations?team=SFTWR",
-      "identifier": "Operations Critical Facilities Supervisor, Data Ce_a-center-operations?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-07T14:22:21.750818"
+  "timestamp": "2026-05-07T14:39:30.355911"
 }

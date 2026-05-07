@@ -4,11 +4,6 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "New College Grad - Pathfinding Device Integration Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
-      "url": "https://careers.micron.com/careers/job/41806529",
-      "identifier": "New College Grad - Pathfinding Device Integration _icron.com/careers/job/41806529"
-    },
-    {
       "title": "Idaho US Expansion Program Manager\nBoise, Idaho, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/41051353",
       "identifier": "Idaho US Expansion Program Manager\nBoise, Idaho, U_icron.com/careers/job/41051353"
@@ -27,6 +22,11 @@
       "title": "New College Grad - Engineer, Surface Lab\nBoise, Idaho, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/41824643",
       "identifier": "New College Grad - Engineer, Surface Lab\nBoise, Id_icron.com/careers/job/41824643"
+    },
+    {
+      "title": "New College Grad - Pathfinding Device Integration Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/41806529",
+      "identifier": "New College Grad - Pathfinding Device Integration _icron.com/careers/job/41806529"
     },
     {
       "title": "Pathfinding Device Integration Engineer\nBoise, Idaho, United States of America\nPosted 2 days ago",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "80",
-  "timestamp": "2026-05-07T02:05:36.231370"
+  "timestamp": "2026-05-07T02:22:43.526192"
 }

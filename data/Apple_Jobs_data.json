@@ -4,6 +4,11 @@
   "total_jobs": 15,
   "jobs": [
     {
+      "title": "Software Engineering Manager, Wallet Identity",
+      "url": "https://jobs.apple.com/en-us/details/200661876-0157/software-engineering-manager-wallet-identity?team=SFTWR",
+      "identifier": "Software Engineering Manager, Wallet Identity_ger-wallet-identity?team=SFTWR"
+    },
+    {
       "title": "AI/ML Tools and Automation Engineer",
       "url": "https://jobs.apple.com/en-us/details/200660856-3337/ai-ml-tools-and-automation-engineer?team=SFTWR",
       "identifier": "AI/ML Tools and Automation Engineer_automation-engineer?team=SFTWR"
@@ -27,11 +32,6 @@
       "title": "Senior iOS Engineering Manager - AI Adoption",
       "url": "https://jobs.apple.com/en-us/details/200624967-3956/senior-ios-engineering-manager-ai-adoption?team=SFTWR",
       "identifier": "Senior iOS Engineering Manager - AI Adoption_manager-ai-adoption?team=SFTWR"
-    },
-    {
-      "title": "Software Engineering Manager, Wallet Identity",
-      "url": "https://jobs.apple.com/en-us/details/200661876-0157/software-engineering-manager-wallet-identity?team=SFTWR",
-      "identifier": "Software Engineering Manager, Wallet Identity_ger-wallet-identity?team=SFTWR"
     },
     {
       "title": "Engineering Program Manager, Audio",
@@ -80,5 +80,5 @@
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-07T19:04:14.707423"
+  "timestamp": "2026-05-07T19:21:17.799206"
 }

@@ -14,11 +14,6 @@
       "identifier": "Field Service Technician -Indianapolis, IN Metro a_ian-Indianapolis-IN-Metro-area"
     },
     {
-      "title": "Senior Manager - Conversational Quality Engineering (QA)",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0892614/Senior-Manager-Conversational-Quality-Engineering-QA",
-      "identifier": "Senior Manager - Conversational Quality Engineerin_ational-Quality-Engineering-QA"
-    },
-    {
       "title": "Manager - Budget Planning and Execution",
       "url": "https://jobs.cvshealth.com/us/en/job/R0887200/Manager-Budget-Planning-and-Execution",
       "identifier": "Manager - Budget Planning and Execution_-Budget-Planning-and-Execution"
@@ -30,13 +25,18 @@
     },
     {
       "title": "Manager - Scrum Master",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0904962/Manager-Scrum-Master",
-      "identifier": "Manager - Scrum Master_/R0904962/Manager-Scrum-Master"
+      "url": "https://jobs.cvshealth.com/us/en/job/R0904934/Manager-Scrum-Master",
+      "identifier": "Manager - Scrum Master_/R0904934/Manager-Scrum-Master"
+    },
+    {
+      "title": "Senior Manager - Conversational Quality Engineering (QA)",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0892614/Senior-Manager-Conversational-Quality-Engineering-QA",
+      "identifier": "Senior Manager - Conversational Quality Engineerin_ational-Quality-Engineering-QA"
     },
     {
       "title": "Manager - Scrum Master",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0904934/Manager-Scrum-Master",
-      "identifier": "Manager - Scrum Master_/R0904934/Manager-Scrum-Master"
+      "url": "https://jobs.cvshealth.com/us/en/job/R0904962/Manager-Scrum-Master",
+      "identifier": "Manager - Scrum Master_/R0904962/Manager-Scrum-Master"
     },
     {
       "title": "Store Hardware Technician",
@@ -45,5 +45,5 @@
     }
   ],
   "job_count_text": "35",
-  "timestamp": "2026-05-07T19:05:14.700941"
+  "timestamp": "2026-05-07T19:22:17.111056"
 }

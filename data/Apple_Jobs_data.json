@@ -1,8 +1,13 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 16,
+  "total_jobs": 15,
   "jobs": [
+    {
+      "title": "Senior Software Engineer \u2014 Observability",
+      "url": "https://jobs.apple.com/en-us/details/200661910-0157/senior-software-engineer-observability?team=SFTWR",
+      "identifier": "Senior Software Engineer \u2014 Observability_ineer-observability?team=SFTWR"
+    },
     {
       "title": "Senior Software Engineer, Access/Car Keys Engineering",
       "url": "https://jobs.apple.com/en-us/details/200635185-0157/senior-software-engineer-access-car-keys-engineering?team=SFTWR",
@@ -72,18 +77,8 @@
       "title": "Operations Critical Facilities Supervisor, Data Center Operations",
       "url": "https://jobs.apple.com/en-us/details/200657375-2903/operations-critical-facilities-supervisor-data-center-operations?team=SFTWR",
       "identifier": "Operations Critical Facilities Supervisor, Data Ce_a-center-operations?team=SFTWR"
-    },
-    {
-      "title": "Software Automation Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200661716-0836/software-automation-engineer?team=SFTWR",
-      "identifier": "Software Automation Engineer_automation-engineer?team=SFTWR"
-    },
-    {
-      "title": "Senior Cybersecurity Expert \u2013 Supply Chain Resilience",
-      "url": "https://jobs.apple.com/en-us/details/200661655-0836/senior-cybersecurity-expert-supply-chain-resilience?team=OPMFG",
-      "identifier": "Senior Cybersecurity Expert \u2013 Supply Chain Resilie_ly-chain-resilience?team=OPMFG"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-07T03:45:10.964762"
+  "timestamp": "2026-05-07T04:02:22.156033"
 }

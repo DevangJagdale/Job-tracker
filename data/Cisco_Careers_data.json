@@ -4,14 +4,14 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "AI Go\u2011To\u2011Market (GTM) Operations I (Full Time) - United States",
-      "url": "https://careers.cisco.com/global/en/job/2006766/AI-Go%E2%80%91To%E2%80%91Market-GTM-Operations-I-Full-Time-United-States",
-      "identifier": "AI Go\u2011To\u2011Market (GTM) Operations I (Full Time) - U_ions-I-Full-Time-United-States"
-    },
-    {
       "title": "Software Engineer Full Stack & Application Development II (Full Time) \u2013 United States",
       "url": "https://careers.cisco.com/global/en/job/2000127/Software-Engineer-Full-Stack-Application-Development-II-Full-Time-United-States",
       "identifier": "Software Engineer Full Stack & Application Develop_ent-II-Full-Time-United-States"
+    },
+    {
+      "title": "AI Go\u2011To\u2011Market (GTM) Operations I (Full Time) - United States",
+      "url": "https://careers.cisco.com/global/en/job/2006766/AI-Go%E2%80%91To%E2%80%91Market-GTM-Operations-I-Full-Time-United-States",
+      "identifier": "AI Go\u2011To\u2011Market (GTM) Operations I (Full Time) - U_ions-I-Full-Time-United-States"
     },
     {
       "title": "Software QA Engineer II (Full Time) \u2013 United States",
@@ -19,9 +19,9 @@
       "identifier": "Software QA Engineer II (Full Time) \u2013 United State_eer-II-Full-Time-United-States"
     },
     {
-      "title": "AI Product Manager II (Full-Time) \u2013 United States",
-      "url": "https://careers.cisco.com/global/en/job/2012163/AI-Product-Manager-II-Full-Time-United-States",
-      "identifier": "AI Product Manager II (Full-Time) \u2013 United States_ger-II-Full-Time-United-States"
+      "title": "Software Engineer Data/AI/Intelligent Systems II (Full Time) \u2013 United States",
+      "url": "https://careers.cisco.com/global/en/job/2000137/Software-Engineer-Data-AI-Intelligent-Systems-II-Full-Time-United-States",
+      "identifier": "Software Engineer Data/AI/Intelligent Systems II (_ems-II-Full-Time-United-States"
     },
     {
       "title": "Strategy and Operations Manager MBA (Full Time) - United States",
@@ -29,9 +29,9 @@
       "identifier": "Strategy and Operations Manager MBA (Full Time) - _er-MBA-Full-Time-United-States"
     },
     {
-      "title": "Software Engineer Data/AI/Intelligent Systems II (Full Time) \u2013 United States",
-      "url": "https://careers.cisco.com/global/en/job/2000137/Software-Engineer-Data-AI-Intelligent-Systems-II-Full-Time-United-States",
-      "identifier": "Software Engineer Data/AI/Intelligent Systems II (_ems-II-Full-Time-United-States"
+      "title": "AI Product Manager II (Full-Time) \u2013 United States",
+      "url": "https://careers.cisco.com/global/en/job/2012163/AI-Product-Manager-II-Full-Time-United-States",
+      "identifier": "AI Product Manager II (Full-Time) \u2013 United States_ger-II-Full-Time-United-States"
     },
     {
       "title": "Sales Development Representative I (Full Time) - United States (Virtual Demand Center)",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "13",
-  "timestamp": "2026-05-07T21:57:08.223306"
+  "timestamp": "2026-05-07T22:14:10.651100"
 }

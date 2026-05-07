@@ -4,6 +4,11 @@
   "total_jobs": 14,
   "jobs": [
     {
+      "title": "Technical Operations Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200662212-0670/technical-operations-engineer?team=SFTWR",
+      "identifier": "Technical Operations Engineer_operations-engineer?team=SFTWR"
+    },
+    {
       "title": "The Spotlight UI Engineer",
       "url": "https://jobs.apple.com/en-us/details/200662189-0836/the-spotlight-ui-engineer?team=SFTWR",
       "identifier": "The Spotlight UI Engineer_otlight-ui-engineer?team=SFTWR"
@@ -67,13 +72,8 @@
       "title": "Senior Software Engineer \u2014 Observability",
       "url": "https://jobs.apple.com/en-us/details/200661910-0157/senior-software-engineer-observability?team=SFTWR",
       "identifier": "Senior Software Engineer \u2014 Observability_ineer-observability?team=SFTWR"
-    },
-    {
-      "title": "Senior Software Engineer, Access/Car Keys Engineering",
-      "url": "https://jobs.apple.com/en-us/details/200635185-0157/senior-software-engineer-access-car-keys-engineering?team=SFTWR",
-      "identifier": "Senior Software Engineer, Access/Car Keys Engineer_ar-keys-engineering?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-07T21:55:22.335102"
+  "timestamp": "2026-05-07T22:12:25.613872"
 }

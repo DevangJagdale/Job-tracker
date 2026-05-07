@@ -4,7 +4,17 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Software Engineer 2\nUnited States, Washington, Redmond\nPosted an hour ago",
+      "title": "Principal Data and Applied Scientist\nUnited States, Washington, Redmond\nPosted 9 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556643568?domain=microsoft.com",
+      "identifier": "Principal Data and Applied Scientist\nUnited States_556643568?domain=microsoft.com"
+    },
+    {
+      "title": "Applied Scientist\nUnited States, Washington, Redmond\nPosted 20 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556864459?domain=microsoft.com",
+      "identifier": "Applied Scientist\nUnited States, Washington, Redmo_556864459?domain=microsoft.com"
+    },
+    {
+      "title": "Software Engineer 2\nUnited States, Washington, Redmond\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556749568?domain=microsoft.com",
       "identifier": "Software Engineer 2\nUnited States, Washington, Red_556749568?domain=microsoft.com"
     },
@@ -19,7 +29,7 @@
       "identifier": "Senior Software Engineer\nUnited States, Washington_556749997?domain=microsoft.com"
     },
     {
-      "title": "Principal Software Engineer - Observability Common Infrastructure\nUnited States, Washington, Redmond\nPosted 3 hours ago",
+      "title": "Principal Software Engineer - Observability Common Infrastructure\nUnited States, Washington, Redmond\nPosted 4 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556824242?domain=microsoft.com",
       "identifier": "Principal Software Engineer - Observability Common_556824242?domain=microsoft.com"
     },
@@ -29,7 +39,7 @@
       "identifier": "Principal Software Engineer - Performance\nUnited S_556828256?domain=microsoft.com"
     },
     {
-      "title": "Principal Applied Scientist\nUnited States, Washington, Redmond + 1 more\nPosted 4 hours ago",
+      "title": "Principal Applied Scientist\nUnited States, Washington, Redmond + 1 more\nPosted 5 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556824053?domain=microsoft.com",
       "identifier": "Principal Applied Scientist\nUnited States, Washing_556824053?domain=microsoft.com"
     },
@@ -39,21 +49,11 @@
       "identifier": "Senior Software Engineer - HR Employee Experience\n_556850857?domain=microsoft.com"
     },
     {
-      "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted 5 hours ago",
+      "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted 6 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556755306?domain=microsoft.com",
       "identifier": "Principal Software Engineer\nUnited States, Washing_556755306?domain=microsoft.com"
-    },
-    {
-      "title": "Principal Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 6 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556851517?domain=microsoft.com",
-      "identifier": "Principal Software Engineer\nUnited States, Multipl_556851517?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Fullstack Engineer\nUnited States, Washington, Redmond\nPosted 7 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556864445?domain=microsoft.com",
-      "identifier": "Senior Fullstack Engineer\nUnited States, Washingto_556864445?domain=microsoft.com"
     }
   ],
-  "job_count_text": "535",
-  "timestamp": "2026-05-07T21:55:06.046924"
+  "job_count_text": "537",
+  "timestamp": "2026-05-07T22:12:08.963510"
 }

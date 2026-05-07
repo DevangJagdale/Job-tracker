@@ -29,19 +29,9 @@
       "identifier": "Sales Development Representative I (Full Time) - U_d-States-Virtual-Demand-Center"
     },
     {
-      "title": "Engineering Project Specialist II (Full Time) - United State",
-      "url": "https://careers.cisco.com/global/en/job/2013151/Engineering-Project-Specialist-II-Full-Time-United-State",
-      "identifier": "Engineering Project Specialist II (Full Time) - Un_list-II-Full-Time-United-State"
-    },
-    {
       "title": "Sales Development Representative Outbound Sales II (Full Time) - United States",
       "url": "https://careers.cisco.com/global/en/job/2003091/Sales-Development-Representative-Outbound-Sales-II-Full-Time-United-States",
       "identifier": "Sales Development Representative Outbound Sales II_les-II-Full-Time-United-States"
-    },
-    {
-      "title": "Sales Development Representative (Remote)",
-      "url": "https://careers.cisco.com/global/en/job/2006129/Sales-Development-Representative-Remote",
-      "identifier": "Sales Development Representative (Remote)_elopment-Representative-Remote"
     },
     {
       "title": "Account Development Representative II (Full Time) United States",
@@ -52,8 +42,18 @@
       "title": "Business Operations Analyst I (Full-Time) - United States",
       "url": "https://careers.cisco.com/global/en/job/2013105/Business-Operations-Analyst-I-Full-Time-United-States",
       "identifier": "Business Operations Analyst I (Full-Time) - United_lyst-I-Full-Time-United-States"
+    },
+    {
+      "title": "Software Engineer Embedded/Network Systems III (Full-Time) - United States",
+      "url": "https://careers.cisco.com/global/en/job/2013783/Software-Engineer-Embedded-Network-Systems-III-Full-Time-United-States",
+      "identifier": "Software Engineer Embedded/Network Systems III (Fu_ms-III-Full-Time-United-States"
+    },
+    {
+      "title": "Customer Experience Project Specialist I (Full-Time) - United States",
+      "url": "https://careers.cisco.com/global/en/job/2001576/Customer-Experience-Project-Specialist-I-Full-Time-United-States",
+      "identifier": "Customer Experience Project Specialist I (Full-Tim_list-I-Full-Time-United-States"
     }
   ],
-  "job_count_text": "13",
-  "timestamp": "2026-05-07T07:20:22.824220"
+  "job_count_text": "11",
+  "timestamp": "2026-05-07T07:37:32.600578"
 }

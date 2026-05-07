@@ -1,8 +1,13 @@
 {
   "page_title": "Search our Job Opportunities at Barclays",
   "url": "https://search.jobs.barclays/search-jobs/United%20States/13015/2/6252001/39x76/-98x5/50/2",
-  "total_jobs": 15,
+  "total_jobs": 14,
   "jobs": [
+    {
+      "title": "Investment Banking Associate, FIG",
+      "url": "https://search.jobs.barclays/job/new-york/investment-banking-associate-fig/13015/94817759392",
+      "identifier": "Investment Banking Associate, FIG_ssociate-fig/13015/94817759392"
+    },
     {
       "title": "Service Manager - AVP",
       "url": "https://search.jobs.barclays/job/whippany/service-manager-avp/13015/94791337632",
@@ -59,11 +64,6 @@
       "identifier": "ICB Coverage - Fintech VP_e-fintech-vp/13015/94712715264"
     },
     {
-      "title": "Application Security Specialist",
-      "url": "https://search.jobs.barclays/job/whippany/application-security-specialist/13015/94712706608",
-      "identifier": "Application Security Specialist_y-specialist/13015/94712706608"
-    },
-    {
       "title": "Quantitative Analytics Liquid Financing Prime VP",
       "url": "https://search.jobs.barclays/job/new-york/quantitative-analytics-liquid-financing-prime-vp/13015/94700301648",
       "identifier": "Quantitative Analytics Liquid Financing Prime VP_ing-prime-vp/13015/94700301648"
@@ -72,13 +72,8 @@
       "title": "Director - Corporate and Equity Derivatives Attorney",
       "url": "https://search.jobs.barclays/job/new-york/director-corporate-and-equity-derivatives-attorney/13015/94612624016",
       "identifier": "Director - Corporate and Equity Derivatives Attorn_ves-attorney/13015/94612624016"
-    },
-    {
-      "title": "Options and Structured Rates Quant, VP",
-      "url": "https://search.jobs.barclays/job/new-york/options-and-structured-rates-quant-vp/13015/94612623008",
-      "identifier": "Options and Structured Rates Quant, VP_tes-quant-vp/13015/94612623008"
     }
   ],
-  "job_count_text": "120",
-  "timestamp": "2026-05-07T17:30:29.720608"
+  "job_count_text": "119",
+  "timestamp": "2026-05-07T17:47:40.016175"
 }

@@ -4,7 +4,17 @@
   "total_jobs": 6,
   "jobs": [
     {
-      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 10 hours ago",
+      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 6 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556861066?domain=microsoft.com",
+      "identifier": "Software Engineer II\nUnited States, Washington, Re_556861066?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 14 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556862932?domain=microsoft.com",
+      "identifier": "Senior Software Engineer\nUnited States, Washington_556862932?domain=microsoft.com"
+    },
+    {
+      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 11 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556859896?domain=microsoft.com",
       "identifier": "Software Engineer II\nUnited States, Washington, Re_556859896?domain=microsoft.com"
     },
@@ -14,7 +24,7 @@
       "identifier": "Software Engineer II\nUnited States, Multiple Locat_556649786?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 14 hours ago",
+      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 15 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556863332?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Washington_556863332?domain=microsoft.com"
     },
@@ -22,18 +32,8 @@
       "title": "Senior Machine Learning Engineer\nUnited States, California, Mountain View + 2 more\nPosted 16 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556862590?domain=microsoft.com",
       "identifier": "Senior Machine Learning Engineer\nUnited States, Ca_556862590?domain=microsoft.com"
-    },
-    {
-      "title": "Member of Technical Staff - Full Stack Software Engineer\nUnited States, California, Mountain View + 1 more\nPosted 16 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556864475?domain=microsoft.com",
-      "identifier": "Member of Technical Staff - Full Stack Software En_556864475?domain=microsoft.com"
-    },
-    {
-      "title": "Principal Applied Scientist\nUnited States, Washington, Redmond\nPosted 16 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556864031?domain=microsoft.com",
-      "identifier": "Principal Applied Scientist\nUnited States, Washing_556864031?domain=microsoft.com"
     }
   ],
-  "job_count_text": "533",
-  "timestamp": "2026-05-07T13:29:59.365023"
+  "job_count_text": "535",
+  "timestamp": "2026-05-07T13:47:14.646134"
 }

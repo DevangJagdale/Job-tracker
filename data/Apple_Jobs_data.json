@@ -4,6 +4,11 @@
   "total_jobs": 19,
   "jobs": [
     {
+      "title": "Sr. / Staff ML Engineer, FM Training Integration - ML Compute",
+      "url": "https://jobs.apple.com/en-us/details/200661658-3760/sr-staff-ml-engineer-fm-training-integration-ml-compute?team=MLAI",
+      "identifier": "Sr. / Staff ML Engineer, FM Training Integration -_tegration-ml-compute?team=MLAI"
+    },
+    {
       "title": "Senior Software Engineer, Intelligent Automation & Developer Platforms",
       "url": "https://jobs.apple.com/en-us/details/200662429-0836/senior-software-engineer-intelligent-automation-developer-platforms?team=SFTWR",
       "identifier": "Senior Software Engineer, Intelligent Automation &_developer-platforms?team=SFTWR"
@@ -92,13 +97,8 @@
       "title": "AIML Data Operations - Annotations Production Team Manager",
       "url": "https://jobs.apple.com/en-us/details/200661924-0157/aiml-data-operations-annotations-production-team-manager?team=SFTWR",
       "identifier": "AIML Data Operations - Annotations Production Team_uction-team-manager?team=SFTWR"
-    },
-    {
-      "title": "Manager, Machine Learning Infrastructure - SIML",
-      "url": "https://jobs.apple.com/en-us/details/200661779-0836/manager-machine-learning-infrastructure-siml?team=SFTWR",
-      "identifier": "Manager, Machine Learning Infrastructure - SIML_infrastructure-siml?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-08T23:29:38.641275"
+  "timestamp": "2026-05-08T23:46:55.271594"
 }

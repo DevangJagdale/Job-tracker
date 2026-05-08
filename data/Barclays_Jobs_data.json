@@ -1,7 +1,7 @@
 {
   "page_title": "Search our Job Opportunities at Barclays",
   "url": "https://search.jobs.barclays/search-jobs/United%20States/13015/2/6252001/39x76/-98x5/50/2",
-  "total_jobs": 14,
+  "total_jobs": 12,
   "jobs": [
     {
       "title": "Delivery Lead/Senior Data Engineer",
@@ -54,11 +54,6 @@
       "identifier": "Principal Engineer - Director_eer-director/13015/94778628720"
     },
     {
-      "title": "Securitized Products Sales Analyst",
-      "url": "https://search.jobs.barclays/job/new-york/securitized-products-sales-analyst/13015/94752930864",
-      "identifier": "Securitized Products Sales Analyst_ales-analyst/13015/94752930864"
-    },
-    {
       "title": "Quantitative Analytics Liquid Financing VP",
       "url": "https://search.jobs.barclays/job/new-york/quantitative-analytics-liquid-financing-vp/13015/94739706128",
       "identifier": "Quantitative Analytics Liquid Financing VP_financing-vp/13015/94739706128"
@@ -67,13 +62,8 @@
       "title": "Internal Audit - VP US Finance & Tax",
       "url": "https://search.jobs.barclays/job/new-york/internal-audit-vp-us-finance-and-tax/13015/94712715312",
       "identifier": "Internal Audit - VP US Finance & Tax_ance-and-tax/13015/94712715312"
-    },
-    {
-      "title": "ICB Coverage - Fintech VP",
-      "url": "https://search.jobs.barclays/job/new-york/icb-coverage-fintech-vp/13015/94712715264",
-      "identifier": "ICB Coverage - Fintech VP_e-fintech-vp/13015/94712715264"
     }
   ],
-  "job_count_text": "118",
-  "timestamp": "2026-05-08T23:29:05.583973"
+  "job_count_text": "120",
+  "timestamp": "2026-05-08T23:46:22.402197"
 }

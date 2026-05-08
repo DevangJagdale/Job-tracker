@@ -4,6 +4,11 @@
   "total_jobs": 11,
   "jobs": [
     {
+      "title": "Senior Observability Engineer - ASE",
+      "url": "https://jobs.apple.com/en-us/details/200662235-3337/senior-observability-engineer-ase?team=SFTWR",
+      "identifier": "Senior Observability Engineer - ASE_bility-engineer-ase?team=SFTWR"
+    },
+    {
       "title": "Sr. Engineering Program Manager - Customer Systems",
       "url": "https://jobs.apple.com/en-us/details/200661711-3956/sr-engineering-program-manager-customer-systems?team=SFTWR",
       "identifier": "Sr. Engineering Program Manager - Customer Systems_er-customer-systems?team=SFTWR"
@@ -52,13 +57,8 @@
       "title": "Secure Systems Architect - Platform Architecture",
       "url": "https://jobs.apple.com/en-us/details/200660423-0157/secure-systems-architect-platform-architecture?team=SFTWR",
       "identifier": "Secure Systems Architect - Platform Architecture_atform-architecture?team=SFTWR"
-    },
-    {
-      "title": "Technical Operations Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200662212-0670/technical-operations-engineer?team=SFTWR",
-      "identifier": "Technical Operations Engineer_operations-engineer?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-08T17:01:33.861731"
+  "timestamp": "2026-05-08T17:18:43.809331"
 }

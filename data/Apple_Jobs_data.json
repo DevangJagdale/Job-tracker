@@ -1,8 +1,23 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 10,
+  "total_jobs": 9,
   "jobs": [
+    {
+      "title": "AIML Data Operations - Annotations Production Team Manager",
+      "url": "https://jobs.apple.com/en-us/details/200661924-0157/aiml-data-operations-annotations-production-team-manager?team=SFTWR",
+      "identifier": "AIML Data Operations - Annotations Production Team_uction-team-manager?team=SFTWR"
+    },
+    {
+      "title": "Manager, Machine Learning Infrastructure - SIML",
+      "url": "https://jobs.apple.com/en-us/details/200661779-0836/manager-machine-learning-infrastructure-siml?team=SFTWR",
+      "identifier": "Manager, Machine Learning Infrastructure - SIML_infrastructure-siml?team=SFTWR"
+    },
+    {
+      "title": "Sr. Machine Learning Engineer, Siri Speech",
+      "url": "https://jobs.apple.com/en-us/details/200662258-0836/sr-machine-learning-engineer-siri-speech?team=SFTWR",
+      "identifier": "Sr. Machine Learning Engineer, Siri Speech_ngineer-siri-speech?team=SFTWR"
+    },
     {
       "title": "Large Machine Learning Model Optimization Engineer, SIML",
       "url": "https://jobs.apple.com/en-us/details/200626700-3337/large-machine-learning-model-optimization-engineer-siml?team=SFTWR",
@@ -32,28 +47,8 @@
       "title": "iOS Application Developer - Health Software",
       "url": "https://jobs.apple.com/en-us/details/200661261-3956/ios-application-developer-health-software?team=SFTWR",
       "identifier": "iOS Application Developer - Health Software_per-health-software?team=SFTWR"
-    },
-    {
-      "title": "Senior Software Data Engineer, App Store",
-      "url": "https://jobs.apple.com/en-us/details/200662206-3577/senior-software-data-engineer-app-store?team=SFTWR",
-      "identifier": "Senior Software Data Engineer, App Store_-engineer-app-store?team=SFTWR"
-    },
-    {
-      "title": "Software Data Engineer, App Store",
-      "url": "https://jobs.apple.com/en-us/details/200661956-3577/software-data-engineer-app-store?team=SFTWR",
-      "identifier": "Software Data Engineer, App Store_-engineer-app-store?team=SFTWR"
-    },
-    {
-      "title": "Software Engineering Manager, Wallet Identity",
-      "url": "https://jobs.apple.com/en-us/details/200661876-0157/software-engineering-manager-wallet-identity?team=SFTWR",
-      "identifier": "Software Engineering Manager, Wallet Identity_ger-wallet-identity?team=SFTWR"
-    },
-    {
-      "title": "AI/ML Tools and Automation Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200660856-3337/ai-ml-tools-and-automation-engineer?team=SFTWR",
-      "identifier": "AI/ML Tools and Automation Engineer_automation-engineer?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-08T04:20:42.981467"
+  "timestamp": "2026-05-08T04:37:56.136748"
 }

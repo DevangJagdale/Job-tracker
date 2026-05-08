@@ -4,9 +4,19 @@
   "total_jobs": 10,
   "jobs": [
     {
+      "title": "Films Process Development Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/40987407",
+      "identifier": "Films Process Development Engineer\nBoise, Idaho, U_icron.com/careers/job/40987407"
+    },
+    {
       "title": "(New College Grad) Change Management Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/40986267",
       "identifier": "(New College Grad) Change Management Engineer\nBois_icron.com/careers/job/40986267"
+    },
+    {
+      "title": "Films Process Development Engineer\nRemote, New York, United States of America\nRemote\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/41816207",
+      "identifier": "Films Process Development Engineer\nRemote, New Yor_icron.com/careers/job/41816207"
     },
     {
       "title": "New College Grad - Engineer, Surface Lab\nBoise, Idaho, United States of America\nPosted a day ago",
@@ -17,16 +27,6 @@
       "title": "Memory Design Engineer | HBM - TPG\nRichardson, Texas, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/41851975",
       "identifier": "Memory Design Engineer | HBM - TPG\nRichardson, Tex_icron.com/careers/job/41851975"
-    },
-    {
-      "title": "Films Process Development Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
-      "url": "https://careers.micron.com/careers/job/40987407",
-      "identifier": "Films Process Development Engineer\nBoise, Idaho, U_icron.com/careers/job/40987407"
-    },
-    {
-      "title": "Films Process Development Engineer\nRemote, New York, United States of America\nRemote\nPosted a day ago",
-      "url": "https://careers.micron.com/careers/job/41816207",
-      "identifier": "Films Process Development Engineer\nRemote, New Yor_icron.com/careers/job/41816207"
     },
     {
       "title": "New College Grad - Supply Chain Planner\nBoise, Idaho, United States of America\nPosted 2 days ago",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "83",
-  "timestamp": "2026-05-08T03:32:31.536747"
+  "timestamp": "2026-05-08T03:49:39.561953"
 }

@@ -4,6 +4,11 @@
   "total_jobs": 10,
   "jobs": [
     {
+      "title": "Engineering Project Manager (SAP Vertex), IS&T Enterprise Systems",
+      "url": "https://jobs.apple.com/en-us/details/200656402-0157/engineering-project-manager-sap-vertex-is-t-enterprise-systems?team=SFTWR",
+      "identifier": "Engineering Project Manager (SAP Vertex), IS&T Ent_-enterprise-systems?team=SFTWR"
+    },
+    {
       "title": "Senior Program Manager, WW Retail Fulfillment Operations BPR",
       "url": "https://jobs.apple.com/en-us/details/200661191-3956/senior-program-manager-ww-retail-fulfillment-operations-bpr?team=OPMFG",
       "identifier": "Senior Program Manager, WW Retail Fulfillment Oper_ment-operations-bpr?team=OPMFG"
@@ -47,13 +52,8 @@
       "title": "The Spotlight UI Engineer",
       "url": "https://jobs.apple.com/en-us/details/200662189-0836/the-spotlight-ui-engineer?team=SFTWR",
       "identifier": "The Spotlight UI Engineer_otlight-ui-engineer?team=SFTWR"
-    },
-    {
-      "title": "iOS Application Developer - Health Software",
-      "url": "https://jobs.apple.com/en-us/details/200661261-3956/ios-application-developer-health-software?team=SFTWR",
-      "identifier": "iOS Application Developer - Health Software_per-health-software?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-08T14:36:25.161268"
+  "timestamp": "2026-05-08T14:53:33.277329"
 }

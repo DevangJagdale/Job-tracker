@@ -4,6 +4,11 @@
   "total_jobs": 8,
   "jobs": [
     {
+      "title": "Quality Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0901649/Quality-Engineer",
+      "identifier": "Quality Engineer_/job/R0901649/Quality-Engineer"
+    },
+    {
       "title": "Field Service Technician -Indianapolis, IN Metro area",
       "url": "https://jobs.cvshealth.com/us/en/job/R0893128/Field-Service-Technician-Indianapolis-IN-Metro-area",
       "identifier": "Field Service Technician -Indianapolis, IN Metro a_ian-Indianapolis-IN-Metro-area"
@@ -12,11 +17,6 @@
       "title": "Manager, Business Analysis",
       "url": "https://jobs.cvshealth.com/us/en/job/R0906521/Manager-Business-Analysis",
       "identifier": "Manager, Business Analysis_6521/Manager-Business-Analysis"
-    },
-    {
-      "title": "Quality Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0901649/Quality-Engineer",
-      "identifier": "Quality Engineer_/job/R0901649/Quality-Engineer"
     },
     {
       "title": "Manager - Budget Planning and Execution",
@@ -29,11 +29,6 @@
       "identifier": "Field Technician_/job/R0893632/Field-Technician"
     },
     {
-      "title": "Manager - Scrum Master",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0904962/Manager-Scrum-Master",
-      "identifier": "Manager - Scrum Master_/R0904962/Manager-Scrum-Master"
-    },
-    {
       "title": "Store Hardware Technician",
       "url": "https://jobs.cvshealth.com/us/en/job/R0846748/Store-Hardware-Technician",
       "identifier": "Store Hardware Technician_6748/Store-Hardware-Technician"
@@ -42,8 +37,13 @@
       "title": "Field Service Technician - Fort Wayne IN Metro area",
       "url": "https://jobs.cvshealth.com/us/en/job/R0895635/Field-Service-Technician-Fort-Wayne-IN-Metro-area",
       "identifier": "Field Service Technician - Fort Wayne IN Metro are_ician-Fort-Wayne-IN-Metro-area"
+    },
+    {
+      "title": "Technical Business Analyst",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0904808/Technical-Business-Analyst",
+      "identifier": "Technical Business Analyst_808/Technical-Business-Analyst"
     }
   ],
-  "job_count_text": "29",
-  "timestamp": "2026-05-08T07:03:04.734008"
+  "job_count_text": "28",
+  "timestamp": "2026-05-08T07:21:17.713981"
 }

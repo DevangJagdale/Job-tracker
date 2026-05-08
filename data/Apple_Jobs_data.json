@@ -1,8 +1,13 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 10,
+  "total_jobs": 11,
   "jobs": [
+    {
+      "title": "Sr. Engineering Program Manager - Customer Systems",
+      "url": "https://jobs.apple.com/en-us/details/200661711-3956/sr-engineering-program-manager-customer-systems?team=SFTWR",
+      "identifier": "Sr. Engineering Program Manager - Customer Systems_er-customer-systems?team=SFTWR"
+    },
     {
       "title": "Swift Compiler Backend Engineer, Languages & Runtimes",
       "url": "https://jobs.apple.com/en-us/details/200662176-0836/swift-compiler-backend-engineer-languages-runtimes?team=SFTWR",
@@ -55,5 +60,5 @@
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-08T16:09:51.763143"
+  "timestamp": "2026-05-08T16:27:05.728734"
 }

@@ -4,6 +4,16 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Machine Learning Engineer - Agentic AI",
+      "url": "https://jobs.apple.com/en-us/details/200662397-3956/machine-learning-engineer-agentic-ai?team=MLAI",
+      "identifier": "Machine Learning Engineer - Agentic AI_-engineer-agentic-ai?team=MLAI"
+    },
+    {
+      "title": "Senior Software Engineer - ASE",
+      "url": "https://jobs.apple.com/en-us/details/200662235-3337/senior-software-engineer-ase?team=SFTWR",
+      "identifier": "Senior Software Engineer - ASE_ftware-engineer-ase?team=SFTWR"
+    },
+    {
       "title": "Swift Frontend Engineer, Languages & Runtimes",
       "url": "https://jobs.apple.com/en-us/details/200661344-0836/swift-frontend-engineer-languages-runtimes?team=SFTWR",
       "identifier": "Swift Frontend Engineer, Languages & Runtimes_-languages-runtimes?team=SFTWR"
@@ -27,11 +37,6 @@
       "title": "iOS Native Apps Engineer, G&A Solutions Engineering (GSE)",
       "url": "https://jobs.apple.com/en-us/details/200657613-0157/ios-native-apps-engineer-g-a-solutions-engineering-gse?team=SFTWR",
       "identifier": "iOS Native Apps Engineer, G&A Solutions Engineerin_ons-engineering-gse?team=SFTWR"
-    },
-    {
-      "title": "Senior Observability Engineer - ASE",
-      "url": "https://jobs.apple.com/en-us/details/200662235-3337/senior-observability-engineer-ase?team=SFTWR",
-      "identifier": "Senior Observability Engineer - ASE_bility-engineer-ase?team=SFTWR"
     },
     {
       "title": "Sr. Engineering Program Manager - Customer Systems",
@@ -77,13 +82,8 @@
       "title": "Secure Systems Engineer - Platform Architecture",
       "url": "https://jobs.apple.com/en-us/details/200660421-0157/secure-systems-engineer-platform-architecture?team=SFTWR",
       "identifier": "Secure Systems Engineer - Platform Architecture_atform-architecture?team=SFTWR"
-    },
-    {
-      "title": "Secure Systems Architect - Platform Architecture",
-      "url": "https://jobs.apple.com/en-us/details/200660423-0157/secure-systems-architect-platform-architecture?team=SFTWR",
-      "identifier": "Secure Systems Architect - Platform Architecture_atform-architecture?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-08T19:55:42.276107"
+  "timestamp": "2026-05-08T20:12:54.309578"
 }

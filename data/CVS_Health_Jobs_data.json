@@ -4,16 +4,6 @@
   "total_jobs": 8,
   "jobs": [
     {
-      "title": "Staff Software Engineer - Java",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0884105/Staff-Software-Engineer-Java",
-      "identifier": "Staff Software Engineer - Java_5/Staff-Software-Engineer-Java"
-    },
-    {
-      "title": "Workforce Management Solutions Architect - Techo-Functional",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0895875/Workforce-Management-Solutions-Architect-Techo-Functional",
-      "identifier": "Workforce Management Solutions Architect - Techo-F_ons-Architect-Techo-Functional"
-    },
-    {
       "title": "Staff Software Development Engineer - Novologix",
       "url": "https://jobs.cvshealth.com/us/en/job/R0885509/Staff-Software-Development-Engineer-Novologix",
       "identifier": "Staff Software Development Engineer - Novologix_Development-Engineer-Novologix"
@@ -29,21 +19,31 @@
       "identifier": "Senior Analyst, Business Analysis_nior-Analyst-Business-Analysis"
     },
     {
+      "title": "Workforce Management Solutions Architect - Techo-Functional",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0895875/Workforce-Management-Solutions-Architect-Techo-Functional",
+      "identifier": "Workforce Management Solutions Architect - Techo-F_ons-Architect-Techo-Functional"
+    },
+    {
+      "title": "VP, Medicaid - Aetna Technology",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0903838/VP-Medicaid-Aetna-Technology",
+      "identifier": "VP, Medicaid - Aetna Technology_8/VP-Medicaid-Aetna-Technology"
+    },
+    {
       "title": "Senior Manager - RunOps - PBM-IT",
       "url": "https://jobs.cvshealth.com/us/en/job/R0906780/Senior-Manager-RunOps-PBM-IT",
       "identifier": "Senior Manager - RunOps - PBM-IT_0/Senior-Manager-RunOps-PBM-IT"
     },
     {
-      "title": "Staff Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0902819/Staff-Software-Development-Engineer",
-      "identifier": "Staff Software Development Engineer_-Software-Development-Engineer"
+      "title": "Staff Software Engineer - Java",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0884105/Staff-Software-Engineer-Java",
+      "identifier": "Staff Software Engineer - Java_5/Staff-Software-Engineer-Java"
     },
     {
-      "title": "Senior Web Developer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0879151/Senior-Web-Developer",
-      "identifier": "Senior Web Developer_/R0879151/Senior-Web-Developer"
+      "title": "Senior Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0900556/Senior-Software-Development-Engineer",
+      "identifier": "Senior Software Development Engineer_-Software-Development-Engineer"
     }
   ],
   "job_count_text": "43",
-  "timestamp": "2026-05-08T21:40:00.760991"
+  "timestamp": "2026-05-08T21:47:46.418324"
 }

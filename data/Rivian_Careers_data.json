@@ -9,14 +9,14 @@
       "identifier": "Check Application Status_ims.com/jobs/login?loginOnly=1"
     },
     {
-      "title": "Staff Cybersecurity Analyst, Risk Management",
-      "url": "https://careers.rivian.com/careers-home/jobs/30867?lang=en-us&previousLocale=en-US",
-      "identifier": "Staff Cybersecurity Analyst, Risk Management_ang=en-us&previousLocale=en-US"
-    },
-    {
       "title": "Leadership Administrative Partner",
       "url": "https://careers.rivian.com/careers-home/jobs/30755?lang=en-us&previousLocale=en-US",
       "identifier": "Leadership Administrative Partner_ang=en-us&previousLocale=en-US"
+    },
+    {
+      "title": "Staff Cybersecurity Analyst, Risk Management",
+      "url": "https://careers.rivian.com/careers-home/jobs/30867?lang=en-us&previousLocale=en-US",
+      "identifier": "Staff Cybersecurity Analyst, Risk Management_ang=en-us&previousLocale=en-US"
     },
     {
       "title": "Sr. Cybersecurity Engineer",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "41",
-  "timestamp": "2026-05-08T20:36:19.596361"
+  "timestamp": "2026-05-08T20:53:30.186434"
 }

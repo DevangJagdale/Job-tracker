@@ -4,14 +4,14 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "AI Go\u2011To\u2011Market (GTM) Operations I (Full Time) - United States",
-      "url": "https://careers.cisco.com/global/en/job/2006766/AI-Go%E2%80%91To%E2%80%91Market-GTM-Operations-I-Full-Time-United-States",
-      "identifier": "AI Go\u2011To\u2011Market (GTM) Operations I (Full Time) - U_ions-I-Full-Time-United-States"
-    },
-    {
       "title": "Software Engineer Full Stack & Application Development II (Full Time) \u2013 United States",
       "url": "https://careers.cisco.com/global/en/job/2000127/Software-Engineer-Full-Stack-Application-Development-II-Full-Time-United-States",
       "identifier": "Software Engineer Full Stack & Application Develop_ent-II-Full-Time-United-States"
+    },
+    {
+      "title": "AI Go\u2011To\u2011Market (GTM) Operations I (Full Time) - United States",
+      "url": "https://careers.cisco.com/global/en/job/2006766/AI-Go%E2%80%91To%E2%80%91Market-GTM-Operations-I-Full-Time-United-States",
+      "identifier": "AI Go\u2011To\u2011Market (GTM) Operations I (Full Time) - U_ions-I-Full-Time-United-States"
     },
     {
       "title": "Software QA Engineer II (Full Time) \u2013 United States",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "13",
-  "timestamp": "2026-05-08T05:21:32.957363"
+  "timestamp": "2026-05-08T05:38:40.113915"
 }

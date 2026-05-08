@@ -1,17 +1,12 @@
 {
   "page_title": "Search results | Find available job openings at Adobe",
   "url": "https://careers.adobe.com/us/en/search-results?qcountry=United%20States%20of%20America",
-  "total_jobs": 8,
+  "total_jobs": 7,
   "jobs": [
     {
       "title": "Applied Scientist",
       "url": "https://careers.adobe.com/us/en/job/R168609/Applied-Scientist",
       "identifier": "Applied Scientist_/job/R168609/Applied-Scientist"
-    },
-    {
-      "title": "Applied Scientist",
-      "url": "https://careers.adobe.com/us/en/job/R168162/Applied-Scientist",
-      "identifier": "Applied Scientist_/job/R168162/Applied-Scientist"
     },
     {
       "title": "Applied Scientist",
@@ -24,11 +19,6 @@
       "identifier": "Applied Scientist - Multimodal_4/Applied-Scientist-Multimodal"
     },
     {
-      "title": "2026 University Graduate - Applied Scientist",
-      "url": "https://careers.adobe.com/us/en/job/R160136/2026-University-Graduate-Applied-Scientist",
-      "identifier": "2026 University Graduate - Applied Scientist_ity-Graduate-Applied-Scientist"
-    },
-    {
       "title": "2026 University Graduate - Machine Learning Engineer",
       "url": "https://careers.adobe.com/us/en/job/R160133/2026-University-Graduate-Machine-Learning-Engineer",
       "identifier": "2026 University Graduate - Machine Learning Engine_uate-Machine-Learning-Engineer"
@@ -39,11 +29,16 @@
       "identifier": "Software Development Engineer_/Software-Development-Engineer"
     },
     {
+      "title": "2026 University Graduate - Applied Scientist",
+      "url": "https://careers.adobe.com/us/en/job/R160136/2026-University-Graduate-Applied-Scientist",
+      "identifier": "2026 University Graduate - Applied Scientist_ity-Graduate-Applied-Scientist"
+    },
+    {
       "title": "Applied Scientist 3",
       "url": "https://careers.adobe.com/us/en/job/R166095/Applied-Scientist-3",
       "identifier": "Applied Scientist 3_ob/R166095/Applied-Scientist-3"
     }
   ],
-  "job_count_text": "8",
-  "timestamp": "2026-05-08T21:26:01.057944"
+  "job_count_text": "7",
+  "timestamp": "2026-05-08T21:43:10.688611"
 }

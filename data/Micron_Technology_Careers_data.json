@@ -4,14 +4,14 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Films Process Development Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
-      "url": "https://careers.micron.com/careers/job/40987407",
-      "identifier": "Films Process Development Engineer\nBoise, Idaho, U_icron.com/careers/job/40987407"
-    },
-    {
       "title": "(New College Grad) Change Management Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/40986267",
       "identifier": "(New College Grad) Change Management Engineer\nBois_icron.com/careers/job/40986267"
+    },
+    {
+      "title": "Films Process Development Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/40987407",
+      "identifier": "Films Process Development Engineer\nBoise, Idaho, U_icron.com/careers/job/40987407"
     },
     {
       "title": "Films Process Development Engineer\nRemote, New York, United States of America\nRemote\nPosted a day ago",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "82",
-  "timestamp": "2026-05-08T01:31:46.833439"
+  "timestamp": "2026-05-08T01:48:56.540280"
 }

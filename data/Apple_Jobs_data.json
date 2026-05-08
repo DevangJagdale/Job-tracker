@@ -4,6 +4,11 @@
   "total_jobs": 10,
   "jobs": [
     {
+      "title": "Large Machine Learning Model Optimization Engineer, SIML",
+      "url": "https://jobs.apple.com/en-us/details/200626700-3337/large-machine-learning-model-optimization-engineer-siml?team=SFTWR",
+      "identifier": "Large Machine Learning Model Optimization Engineer_ation-engineer-siml?team=SFTWR"
+    },
+    {
       "title": "Secure Systems Engineer - Platform Architecture",
       "url": "https://jobs.apple.com/en-us/details/200660421-0157/secure-systems-engineer-platform-architecture?team=SFTWR",
       "identifier": "Secure Systems Engineer - Platform Architecture_atform-architecture?team=SFTWR"
@@ -47,13 +52,8 @@
       "title": "AI/ML Tools and Automation Engineer",
       "url": "https://jobs.apple.com/en-us/details/200660856-3337/ai-ml-tools-and-automation-engineer?team=SFTWR",
       "identifier": "AI/ML Tools and Automation Engineer_automation-engineer?team=SFTWR"
-    },
-    {
-      "title": "Sr Machine Learning Engineer, Proactive",
-      "url": "https://jobs.apple.com/en-us/details/200661999-3760/sr-machine-learning-engineer-proactive?team=MLAI",
-      "identifier": "Sr Machine Learning Engineer, Proactive_g-engineer-proactive?team=MLAI"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-07T23:45:46.923200"
+  "timestamp": "2026-05-08T00:02:54.774850"
 }

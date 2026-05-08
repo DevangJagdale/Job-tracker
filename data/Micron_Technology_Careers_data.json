@@ -4,6 +4,11 @@
   "total_jobs": 10,
   "jobs": [
     {
+      "title": "Memory Design Engineer | HBM - TPG\nRichardson, Texas, United States of America\nPosted 2 days ago",
+      "url": "https://careers.micron.com/careers/job/41851975",
+      "identifier": "Memory Design Engineer | HBM - TPG\nRichardson, Tex_icron.com/careers/job/41851975"
+    },
+    {
       "title": "Films Process Development Engineer\nRemote, New York, United States of America\nRemote\nPosted 2 days ago",
       "url": "https://careers.micron.com/careers/job/41816207",
       "identifier": "Films Process Development Engineer\nRemote, New Yor_icron.com/careers/job/41816207"
@@ -12,11 +17,6 @@
       "title": "New College Grad - Engineer, Surface Lab\nBoise, Idaho, United States of America\nPosted 2 days ago",
       "url": "https://careers.micron.com/careers/job/41824643",
       "identifier": "New College Grad - Engineer, Surface Lab\nBoise, Id_icron.com/careers/job/41824643"
-    },
-    {
-      "title": "Memory Design Engineer | HBM - TPG\nRichardson, Texas, United States of America\nPosted 2 days ago",
-      "url": "https://careers.micron.com/careers/job/41851975",
-      "identifier": "Memory Design Engineer | HBM - TPG\nRichardson, Tex_icron.com/careers/job/41851975"
     },
     {
       "title": "(New College Grad) Change Management Engineer\nBoise, Idaho, United States of America\nPosted 2 days ago",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "83",
-  "timestamp": "2026-05-08T18:30:43.308963"
+  "timestamp": "2026-05-08T18:50:03.298156"
 }

@@ -4,6 +4,11 @@
   "total_jobs": 8,
   "jobs": [
     {
+      "title": "Quality Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0901649/Quality-Engineer",
+      "identifier": "Quality Engineer_/job/R0901649/Quality-Engineer"
+    },
+    {
       "title": "Field Service Technician -Indianapolis, IN Metro area",
       "url": "https://jobs.cvshealth.com/us/en/job/R0893128/Field-Service-Technician-Indianapolis-IN-Metro-area",
       "identifier": "Field Service Technician -Indianapolis, IN Metro a_ian-Indianapolis-IN-Metro-area"
@@ -12,11 +17,6 @@
       "title": "Manager, Business Analysis",
       "url": "https://jobs.cvshealth.com/us/en/job/R0906521/Manager-Business-Analysis",
       "identifier": "Manager, Business Analysis_6521/Manager-Business-Analysis"
-    },
-    {
-      "title": "Quality Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0901649/Quality-Engineer",
-      "identifier": "Quality Engineer_/job/R0901649/Quality-Engineer"
     },
     {
       "title": "Manager - Budget Planning and Execution",
@@ -45,5 +45,5 @@
     }
   ],
   "job_count_text": "29",
-  "timestamp": "2026-05-08T10:37:54.566248"
+  "timestamp": "2026-05-08T10:54:59.025429"
 }

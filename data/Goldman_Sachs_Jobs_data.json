@@ -1,6 +1,6 @@
 {
   "page_title": "Opportunities | Goldman Sachs",
-  "url": "https://higher.gs.com/results?EXPERIENCE_LEVEL=Analyst|Associate&JOB_FUNCTION=Data%20Analytics|Data%20Analytics%20%26%20Reporting|Software%20Engineering&LOCATION=Newport%20Beach|Menlo%20Park|Newport%20Beach|San%20Francisco|Miami|West%20Palm%20Beach|Miami|West%20Palm%20Beach|Chicago|Chicago|Boston|Boston|Detroit|Jersey%20City|Albany|New%20York|Jersey%20City|Albany|New%20York|Dallas|Richardson|Dallas|Houston|Richardson|Salt%20Lake%20City|Salt%20Lake%20City&page=1&sort=POSTED_DATE",
+  "url": "https://higher.gs.com/results?EXPERIENCE_LEVEL=Analyst|Associate&JOB_FUNCTION=Data%20Analytics|Data%20Analytics%20%26%20Reporting|Software%20Engineering&LOCATION=Newport%20Beach|San%20Francisco|Menlo%20Park|Newport%20Beach|San%20Francisco|Miami|West%20Palm%20Beach|Miami|West%20Palm%20Beach|Chicago|Chicago|Boston|Boston|Detroit|Jersey%20City|Albany|New%20York|Jersey%20City|Albany|New%20York|Dallas|Richardson|Dallas|Houston|Richardson|Salt%20Lake%20City|Salt%20Lake%20City&page=1&sort=POSTED_DATE",
   "total_jobs": 20,
   "jobs": [
     {
@@ -27,11 +27,6 @@
       "title": "Asset & Wealth Management-Software Engineering-Associate-Dallas\nDallas\u00b7United States\n\u00b7Associate",
       "url": "https://higher.gs.com/roles/164028",
       "identifier": "Asset & Wealth Management-Software Engineering-Ass_s://higher.gs.com/roles/164028"
-    },
-    {
-      "title": "Data Engineering - Data, Lakehouse and AI Data Platform Engineer - Analyst - New York\nNew York\u00b7United States\n\u00b7Analyst",
-      "url": "https://higher.gs.com/roles/169310",
-      "identifier": "Data Engineering - Data, Lakehouse and AI Data Pla_s://higher.gs.com/roles/169310"
     },
     {
       "title": "MLOps Engineer - Machine Learning Platform - NY/NJ\nJersey City\u00b7United States\n\u00b7Associate",
@@ -102,8 +97,13 @@
       "title": "Asset & Wealth Management-Full Stack Engineer-Associate-Dallas\nDallas\u00b7United States\n\u00b7Associate",
       "url": "https://higher.gs.com/roles/168777",
       "identifier": "Asset & Wealth Management-Full Stack Engineer-Asso_s://higher.gs.com/roles/168777"
+    },
+    {
+      "title": "Asset & Wealth Management - Software Engineer - Associate - Dallas\nDallas\u00b7United States\n\u00b7Associate",
+      "url": "https://higher.gs.com/roles/166884",
+      "identifier": "Asset & Wealth Management - Software Engineer - As_s://higher.gs.com/roles/166884"
     }
   ],
-  "job_count_text": "53",
-  "timestamp": "2026-05-08T16:26:14.392686"
+  "job_count_text": "52",
+  "timestamp": "2026-05-08T16:43:24.187133"
 }

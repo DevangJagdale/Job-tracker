@@ -4,12 +4,17 @@
   "total_jobs": 10,
   "jobs": [
     {
+      "title": "Senior Software Engineer - Performance\nUnited States, California, Mountain View\nPosted 19 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556828255?domain=microsoft.com",
+      "identifier": "Senior Software Engineer - Performance\nUnited Stat_556828255?domain=microsoft.com"
+    },
+    {
       "title": "Member of Technical Staff\nUnited States, Multiple Locations, Multiple Locations + 3 more\nPosted 17 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556864768?domain=microsoft.com",
       "identifier": "Member of Technical Staff\nUnited States, Multiple _556864768?domain=microsoft.com"
     },
     {
-      "title": "Principal Data and Applied Scientist\nUnited States, Washington, Redmond\nPosted 18 hours ago",
+      "title": "Principal Data and Applied Scientist\nUnited States, Washington, Redmond\nPosted 19 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556643568?domain=microsoft.com",
       "identifier": "Principal Data and Applied Scientist\nUnited States_556643568?domain=microsoft.com"
     },
@@ -47,13 +52,8 @@
       "title": "Principal Applied Scientist\nUnited States, Washington, Redmond + 1 more\nPosted a day ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556824053?domain=microsoft.com",
       "identifier": "Principal Applied Scientist\nUnited States, Washing_556824053?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Software Engineer - HR Employee Experience\nUnited States, Washington, Redmond\nPosted a day ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556850857?domain=microsoft.com",
-      "identifier": "Senior Software Engineer - HR Employee Experience\n_556850857?domain=microsoft.com"
     }
   ],
-  "job_count_text": "522",
-  "timestamp": "2026-05-08T16:26:49.745973"
+  "job_count_text": "521",
+  "timestamp": "2026-05-08T16:44:00.852206"
 }

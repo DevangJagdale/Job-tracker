@@ -4,6 +4,11 @@
   "total_jobs": 15,
   "jobs": [
     {
+      "title": "Sr. Ruby on Rails Engineer, ASE",
+      "url": "https://jobs.apple.com/en-us/details/200654205-3337/sr-ruby-on-rails-engineer-ase?team=SFTWR",
+      "identifier": "Sr. Ruby on Rails Engineer, ASE_-rails-engineer-ase?team=SFTWR"
+    },
+    {
       "title": "Senior Site Reliability Engineer",
       "url": "https://jobs.apple.com/en-us/details/200645944-0157/senior-site-reliability-engineer?team=SFTWR",
       "identifier": "Senior Site Reliability Engineer_eliability-engineer?team=SFTWR"
@@ -72,13 +77,8 @@
       "title": "Secure Systems Engineer - Platform Architecture",
       "url": "https://jobs.apple.com/en-us/details/200660421-0157/secure-systems-engineer-platform-architecture?team=SFTWR",
       "identifier": "Secure Systems Engineer - Platform Architecture_atform-architecture?team=SFTWR"
-    },
-    {
-      "title": "Secure Systems Architect - Platform Architecture",
-      "url": "https://jobs.apple.com/en-us/details/200660423-0157/secure-systems-architect-platform-architecture?team=SFTWR",
-      "identifier": "Secure Systems Architect - Platform Architecture_atform-architecture?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-08T19:03:58.423493"
+  "timestamp": "2026-05-08T19:21:08.679852"
 }

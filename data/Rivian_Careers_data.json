@@ -9,6 +9,11 @@
       "identifier": "Check Application Status_ims.com/jobs/login?loginOnly=1"
     },
     {
+      "title": "Staff Cybersecurity Analyst, Risk Management",
+      "url": "https://careers.rivian.com/careers-home/jobs/30867?lang=en-us&previousLocale=en-US",
+      "identifier": "Staff Cybersecurity Analyst, Risk Management_ang=en-us&previousLocale=en-US"
+    },
+    {
       "title": "Leadership Administrative Partner",
       "url": "https://careers.rivian.com/careers-home/jobs/30755?lang=en-us&previousLocale=en-US",
       "identifier": "Leadership Administrative Partner_ang=en-us&previousLocale=en-US"
@@ -47,13 +52,8 @@
       "title": "Sr. AI Engineer, Enterprise Applied AI",
       "url": "https://careers.rivian.com/careers-home/jobs/26639?lang=en-us&previousLocale=en-US",
       "identifier": "Sr. AI Engineer, Enterprise Applied AI_ang=en-us&previousLocale=en-US"
-    },
-    {
-      "title": "Senior Android Engineer - Trip Planner Firmware",
-      "url": "https://careers.rivian.com/careers-home/jobs/26761?lang=en-us&previousLocale=en-US",
-      "identifier": "Senior Android Engineer - Trip Planner Firmware_ang=en-us&previousLocale=en-US"
     }
   ],
-  "job_count_text": "39",
-  "timestamp": "2026-05-08T19:10:00.318704"
+  "job_count_text": "41",
+  "timestamp": "2026-05-08T19:27:18.990645"
 }

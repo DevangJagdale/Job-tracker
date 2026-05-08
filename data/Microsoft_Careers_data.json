@@ -1,10 +1,10 @@
 {
   "page_title": "| Microsoft Careers",
   "url": "https://apply.careers.microsoft.com/careers?domain=microsoft.com&start=0&location=United+States&sort_by=timestamp&filter_include_remote=1&filter_profession=software+engineering%2Cresearch%252C%2520applied%252C%2520%2526%2520data%2520sciences",
-  "total_jobs": 10,
+  "total_jobs": 9,
   "jobs": [
     {
-      "title": "Principal Applied Scientist\nUnited States, Washington, Redmond + 1 more\nPosted an hour ago",
+      "title": "Principal Applied Scientist\nUnited States, Washington, Redmond + 1 more\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556834599?domain=microsoft.com",
       "identifier": "Principal Applied Scientist\nUnited States, Washing_556834599?domain=microsoft.com"
     },
@@ -19,7 +19,7 @@
       "identifier": "Senior Software Engineer - Performance\nUnited Stat_556828255?domain=microsoft.com"
     },
     {
-      "title": "Member of Technical Staff\nUnited States, Multiple Locations, Multiple Locations + 3 more\nPosted 19 hours ago",
+      "title": "Member of Technical Staff\nUnited States, Multiple Locations, Multiple Locations + 3 more\nPosted 20 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556864768?domain=microsoft.com",
       "identifier": "Member of Technical Staff\nUnited States, Multiple _556864768?domain=microsoft.com"
     },
@@ -47,13 +47,8 @@
       "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted a day ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556749997?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Washington_556749997?domain=microsoft.com"
-    },
-    {
-      "title": "Principal Software Engineer - Observability Common Infrastructure\nUnited States, Washington, Redmond\nPosted a day ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556824242?domain=microsoft.com",
-      "identifier": "Principal Software Engineer - Observability Common_556824242?domain=microsoft.com"
     }
   ],
-  "job_count_text": "523",
-  "timestamp": "2026-05-08T19:03:42.367691"
+  "job_count_text": "524",
+  "timestamp": "2026-05-08T19:20:52.851063"
 }

@@ -1,8 +1,18 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 13,
+  "total_jobs": 15,
   "jobs": [
+    {
+      "title": "Senior Site Reliability Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200645944-0157/senior-site-reliability-engineer?team=SFTWR",
+      "identifier": "Senior Site Reliability Engineer_eliability-engineer?team=SFTWR"
+    },
+    {
+      "title": "Computational Photography/Computer Vision Machine Learning Engineer, Camera & Photos",
+      "url": "https://jobs.apple.com/en-us/details/200634411-0836/computational-photography-computer-vision-machine-learning-engineer-camera-photos?team=SFTWR",
+      "identifier": "Computational Photography/Computer Vision Machine _ineer-camera-photos?team=SFTWR"
+    },
     {
       "title": "Senior Fullstack Software Engineer - Apple TV Sports",
       "url": "https://jobs.apple.com/en-us/details/200662384-2459/senior-fullstack-software-engineer-apple-tv-sports?team=SFTWR",
@@ -70,5 +80,5 @@
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-08T18:46:47.959115"
+  "timestamp": "2026-05-08T19:03:58.423493"
 }

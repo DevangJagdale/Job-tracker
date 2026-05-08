@@ -1,109 +1,14 @@
 {
   "page_title": "Salesforce Jobs | Salesforce Careers",
   "url": "https://careers.salesforce.com/en/jobs/?search=&country=United+States+of+America&team=Data&team=Enterprise+Technology+%26+Infrastructure&team=Software+Engineering&jobtype=New+Grads&pagesize=20#results",
-  "total_jobs": 20,
+  "total_jobs": 1,
   "jobs": [
     {
-      "title": "Account Executive CBU Data Cloud - Amsterdam",
-      "url": "https://careers.salesforce.com/en/jobs/jr331666/account-executive-cbu-data-cloud-amsterdam/",
-      "identifier": "Account Executive CBU Data Cloud - Amsterdam_tive-cbu-data-cloud-amsterdam/"
-    },
-    {
-      "title": "Account Executive, Agentforce Public Sector UKI-2",
-      "url": "https://careers.salesforce.com/en/jobs/jr340319/account-executive-agentforce-public-sector-uki-2/",
-      "identifier": "Account Executive, Agentforce Public Sector UKI-2_gentforce-public-sector-uki-2/"
-    },
-    {
-      "title": "Senior Manager, Software Engineering",
-      "url": "https://careers.salesforce.com/en/jobs/jr312176/senior-manager-software-engineering/",
-      "identifier": "Senior Manager, Software Engineering_-manager-software-engineering/"
-    },
-    {
-      "title": "Senior Manager User Experience",
-      "url": "https://careers.salesforce.com/en/jobs/jr336887/senior-manager-user-experience/",
-      "identifier": "Senior Manager User Experience_enior-manager-user-experience/"
-    },
-    {
-      "title": "Product Security Engineer, Infrastructure Security",
-      "url": "https://careers.salesforce.com/en/jobs/jr340729/product-security-engineer-infrastructure-security/",
-      "identifier": "Product Security Engineer, Infrastructure Security_ineer-infrastructure-security/"
-    },
-    {
-      "title": "Product Security Senior Penetration Tester",
-      "url": "https://careers.salesforce.com/en/jobs/jr328222/product-security-senior-penetration-tester/",
-      "identifier": "Product Security Senior Penetration Tester_ity-senior-penetration-tester/"
-    },
-    {
-      "title": "Threat Intelligence Automation Developer (Orchestration)",
-      "url": "https://careers.salesforce.com/en/jobs/jr340157/threat-intelligence-automation-developer-orchestration/",
-      "identifier": "Threat Intelligence Automation Developer (Orchestr_ation-developer-orchestration/"
-    },
-    {
-      "title": "Principal Business Consultant\uff08\u88fd\u9020 / \u5c0f\u58f2 / \u6d88\u8cbb\u8ca1 / \u30e9\u30a4\u30d5\u30b5\u30a4\u30a8\u30f3\u30b9\uff09",
-      "url": "https://careers.salesforce.com/en/jobs/jr340028/principal-business-consultant-%E8%A3%BD%E9%80%A0-%E5%B0%8F%E5%A3%B2-%E6%B6%88%E8%B2%BB%E8%B2%A1-%E3%83%A9%E3%82%A4%E3%83%95%E3%82%B5%E3%82%A4%E3%82%A8%E3%83%B3%E3%82%B9/",
-      "identifier": "Principal Business Consultant\uff08\u88fd\u9020 / \u5c0f\u58f2 / \u6d88\u8cbb\u8ca1 / \u30e9\u30a4\u30d5\u30b5_A4%E3%82%A8%E3%83%B3%E3%82%B9/"
-    },
-    {
-      "title": "Account Executive \u2013 Combatant Commands (COCOMs)",
-      "url": "https://careers.salesforce.com/en/jobs/jr341128/account-executive-combatant-commands-cocoms/",
-      "identifier": "Account Executive \u2013 Combatant Commands (COCOMs)_ive-combatant-commands-cocoms/"
-    },
-    {
-      "title": "Principal Insider Threat Analyst",
-      "url": "https://careers.salesforce.com/en/jobs/jr340306/principal-insider-threat-analyst/",
-      "identifier": "Principal Insider Threat Analyst_ncipal-insider-threat-analyst/"
-    },
-    {
-      "title": "Success Architect (Internal Only)",
-      "url": "https://careers.salesforce.com/en/jobs/jr338717/success-architect-internal-only/",
-      "identifier": "Success Architect (Internal Only)_ccess-architect-internal-only/"
-    },
-    {
       "title": "AI Builder, Emerging Talent",
-      "url": "https://careers.salesforce.com/en/jobs/jr341718/ai-builder-emerging-talent/",
-      "identifier": "AI Builder, Emerging Talent_18/ai-builder-emerging-talent/"
-    },
-    {
-      "title": "Product Security Engineer",
-      "url": "https://careers.salesforce.com/en/jobs/jr336350/product-security-engineer/",
-      "identifier": "Product Security Engineer_350/product-security-engineer/"
-    },
-    {
-      "title": "Manager Sales Development",
-      "url": "https://careers.salesforce.com/en/jobs/jr340444/manager-sales-development/",
-      "identifier": "Manager Sales Development_444/manager-sales-development/"
-    },
-    {
-      "title": "RVP, Sales, Higher Education",
-      "url": "https://careers.salesforce.com/en/jobs/jr341210/rvp-sales-higher-education/",
-      "identifier": "RVP, Sales, Higher Education_10/rvp-sales-higher-education/"
-    },
-    {
-      "title": "Software Engineering LMTS- ML Engineer",
-      "url": "https://careers.salesforce.com/en/jobs/jr332815/software-engineering-lmts-ml-engineer/",
-      "identifier": "Software Engineering LMTS- ML Engineer_-engineering-lmts-ml-engineer/"
-    },
-    {
-      "title": "Sales Strategy Manager - Global Programs: Tools & Infrastructure",
-      "url": "https://careers.salesforce.com/en/jobs/jr340675/sales-strategy-manager-global-programs-tools-infrastructure/",
-      "identifier": "Sales Strategy Manager - Global Programs: Tools & _programs-tools-infrastructure/"
-    },
-    {
-      "title": "\u30105\u670823\u65e5 Salesforce Architect \u30aa\u30f3\u30e9\u30a4\u30f3\u9078\u8003\u4f1a\u7528\u3011 Salesforce Architect & Trail Architect",
-      "url": "https://careers.salesforce.com/en/jobs/jr335020/5%E6%9C%8823%E6%97%A5-salesforce-architect-%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E9%81%B8%E8%80%83%E4%BC%9A%E7%94%A8-salesforce-architect-trail-architect/",
-      "identifier": "\u30105\u670823\u65e5 Salesforce Architect \u30aa\u30f3\u30e9\u30a4\u30f3\u9078\u8003\u4f1a\u7528\u3011 Salesforce _rce-architect-trail-architect/"
-    },
-    {
-      "title": "Sr Manager, Cloud ERP Systems Software Engineering",
-      "url": "https://careers.salesforce.com/en/jobs/jr317527/sr-manager-cloud-erp-systems-software-engineering/",
-      "identifier": "Sr Manager, Cloud ERP Systems Software Engineering_-systems-software-engineering/"
-    },
-    {
-      "title": "Manager - Global Programs: Tools & Infrastructure",
-      "url": "https://careers.salesforce.com/en/jobs/jr340673/manager-global-programs-tools-infrastructure/",
-      "identifier": "Manager - Global Programs: Tools & Infrastructure_programs-tools-infrastructure/"
+      "url": "https://careers.salesforce.com/en/jobs/jr341276/ai-builder-emerging-talent/",
+      "identifier": "AI Builder, Emerging Talent_76/ai-builder-emerging-talent/"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-08T00:23:31.783544"
+  "timestamp": "2026-05-08T00:40:41.204836"
 }

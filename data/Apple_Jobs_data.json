@@ -4,6 +4,11 @@
   "total_jobs": 18,
   "jobs": [
     {
+      "title": "Software Integrity Engineer, Cocoa",
+      "url": "https://jobs.apple.com/en-us/details/200662263-0836/software-integrity-engineer-cocoa?team=SFTWR",
+      "identifier": "Software Integrity Engineer, Cocoa_rity-engineer-cocoa?team=SFTWR"
+    },
+    {
       "title": "Software Engineer - Intelligent Engineering Workflows",
       "url": "https://jobs.apple.com/en-us/details/200655381-3543/software-engineer-intelligent-engineering-workflows?team=SFTWR",
       "identifier": "Software Engineer - Intelligent Engineering Workfl_gineering-workflows?team=SFTWR"
@@ -87,13 +92,8 @@
       "title": "Manager, Machine Learning Infrastructure - SIML",
       "url": "https://jobs.apple.com/en-us/details/200661779-0836/manager-machine-learning-infrastructure-siml?team=SFTWR",
       "identifier": "Manager, Machine Learning Infrastructure - SIML_infrastructure-siml?team=SFTWR"
-    },
-    {
-      "title": "Sr. Machine Learning Engineer, Siri Speech",
-      "url": "https://jobs.apple.com/en-us/details/200662258-0836/sr-machine-learning-engineer-siri-speech?team=SFTWR",
-      "identifier": "Sr. Machine Learning Engineer, Siri Speech_ngineer-siri-speech?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-08T21:46:45.311105"
+  "timestamp": "2026-05-08T22:03:54.488296"
 }

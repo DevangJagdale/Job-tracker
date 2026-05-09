@@ -4,14 +4,14 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Semiconductor Design Engineer\nBoise, Idaho, United States of America\nPosted 2 days ago",
-      "url": "https://careers.micron.com/careers/job/41862559",
-      "identifier": "Semiconductor Design Engineer\nBoise, Idaho, United_icron.com/careers/job/41862559"
-    },
-    {
       "title": "HIG Product Engineer - Media Health\nBoise, Idaho, United States of America\nPosted 2 days ago",
       "url": "https://careers.micron.com/careers/job/41830333",
       "identifier": "HIG Product Engineer - Media Health\nBoise, Idaho, _icron.com/careers/job/41830333"
+    },
+    {
+      "title": "Semiconductor Design Engineer\nBoise, Idaho, United States of America\nPosted 2 days ago",
+      "url": "https://careers.micron.com/careers/job/41862559",
+      "identifier": "Semiconductor Design Engineer\nBoise, Idaho, United_icron.com/careers/job/41862559"
     },
     {
       "title": "Films Process Development Engineer\nRemote, New York, United States of America\nRemote\nPosted 3 days ago",
@@ -44,9 +44,9 @@
       "identifier": "New College Grad - Supply Chain Planner\nBoise, Ida_icron.com/careers/job/41084880"
     },
     {
-      "title": "Analytical Chemist\nBoise, Idaho, United States of America\nPosted 4 days ago",
-      "url": "https://careers.micron.com/careers/job/41552713",
-      "identifier": "Analytical Chemist\nBoise, Idaho, United States of _icron.com/careers/job/41552713"
+      "title": "New College Grad - Pathfinding Device Integration Engineer\nBoise, Idaho, United States of America\nPosted 4 days ago",
+      "url": "https://careers.micron.com/careers/job/41806529",
+      "identifier": "New College Grad - Pathfinding Device Integration _icron.com/careers/job/41806529"
     },
     {
       "title": "Idaho US Expansion Program Manager\nBoise, Idaho, United States of America\nPosted 4 days ago",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "85",
-  "timestamp": "2026-05-09T16:43:39.528367"
+  "timestamp": "2026-05-09T17:00:40.908531"
 }

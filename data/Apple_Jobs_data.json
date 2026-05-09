@@ -4,6 +4,11 @@
   "total_jobs": 19,
   "jobs": [
     {
+      "title": "Software Engineering Systems Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200662186-0836/software-engineering-systems-engineer?team=SFTWR",
+      "identifier": "Software Engineering Systems Engineer_ng-systems-engineer?team=SFTWR"
+    },
+    {
       "title": "Sr. / Staff ML Engineer, FM Training Integration - ML Compute",
       "url": "https://jobs.apple.com/en-us/details/200661658-3760/sr-staff-ml-engineer-fm-training-integration-ml-compute?team=MLAI",
       "identifier": "Sr. / Staff ML Engineer, FM Training Integration -_tegration-ml-compute?team=MLAI"
@@ -92,13 +97,8 @@
       "title": "Senior Program Manager, WW Retail Fulfillment Operations BPR",
       "url": "https://jobs.apple.com/en-us/details/200661191-3956/senior-program-manager-ww-retail-fulfillment-operations-bpr?team=OPMFG",
       "identifier": "Senior Program Manager, WW Retail Fulfillment Oper_ment-operations-bpr?team=OPMFG"
-    },
-    {
-      "title": "AIML Data Operations - Annotations Production Team Manager",
-      "url": "https://jobs.apple.com/en-us/details/200661924-0157/aiml-data-operations-annotations-production-team-manager?team=SFTWR",
-      "identifier": "AIML Data Operations - Annotations Production Team_uction-team-manager?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-09T03:56:50.004766"
+  "timestamp": "2026-05-09T04:13:55.083051"
 }

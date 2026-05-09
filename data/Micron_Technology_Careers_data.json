@@ -4,19 +4,14 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "HIG Product Engineer - Media Health\nBoise, Idaho, United States of America\nPosted a day ago",
-      "url": "https://careers.micron.com/careers/job/41830333",
-      "identifier": "HIG Product Engineer - Media Health\nBoise, Idaho, _icron.com/careers/job/41830333"
-    },
-    {
       "title": "Semiconductor Design Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/41862559",
       "identifier": "Semiconductor Design Engineer\nBoise, Idaho, United_icron.com/careers/job/41862559"
     },
     {
-      "title": "Films Process Development Engineer\nBoise, Idaho, United States of America\nPosted 2 days ago",
-      "url": "https://careers.micron.com/careers/job/40987407",
-      "identifier": "Films Process Development Engineer\nBoise, Idaho, U_icron.com/careers/job/40987407"
+      "title": "HIG Product Engineer - Media Health\nBoise, Idaho, United States of America\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/41830333",
+      "identifier": "HIG Product Engineer - Media Health\nBoise, Idaho, _icron.com/careers/job/41830333"
     },
     {
       "title": "(New College Grad) Change Management Engineer\nBoise, Idaho, United States of America\nPosted 2 days ago",
@@ -29,24 +24,29 @@
       "identifier": "Memory Design Engineer | HBM - TPG\nRichardson, Tex_icron.com/careers/job/41851975"
     },
     {
-      "title": "New College Grad - Engineer, Surface Lab\nBoise, Idaho, United States of America\nPosted 2 days ago",
-      "url": "https://careers.micron.com/careers/job/41824643",
-      "identifier": "New College Grad - Engineer, Surface Lab\nBoise, Id_icron.com/careers/job/41824643"
-    },
-    {
       "title": "Films Process Development Engineer\nRemote, New York, United States of America\nRemote\nPosted 2 days ago",
       "url": "https://careers.micron.com/careers/job/41816207",
       "identifier": "Films Process Development Engineer\nRemote, New Yor_icron.com/careers/job/41816207"
     },
     {
-      "title": "Idaho US Expansion Program Manager\nBoise, Idaho, United States of America\nPosted 3 days ago",
-      "url": "https://careers.micron.com/careers/job/41051353",
-      "identifier": "Idaho US Expansion Program Manager\nBoise, Idaho, U_icron.com/careers/job/41051353"
+      "title": "Films Process Development Engineer\nBoise, Idaho, United States of America\nPosted 2 days ago",
+      "url": "https://careers.micron.com/careers/job/40987407",
+      "identifier": "Films Process Development Engineer\nBoise, Idaho, U_icron.com/careers/job/40987407"
+    },
+    {
+      "title": "New College Grad - Engineer, Surface Lab\nBoise, Idaho, United States of America\nPosted 2 days ago",
+      "url": "https://careers.micron.com/careers/job/41824643",
+      "identifier": "New College Grad - Engineer, Surface Lab\nBoise, Id_icron.com/careers/job/41824643"
     },
     {
       "title": "New College Grad - Pathfinding Device Integration Engineer\nBoise, Idaho, United States of America\nPosted 3 days ago",
       "url": "https://careers.micron.com/careers/job/41806529",
       "identifier": "New College Grad - Pathfinding Device Integration _icron.com/careers/job/41806529"
+    },
+    {
+      "title": "Idaho US Expansion Program Manager\nBoise, Idaho, United States of America\nPosted 3 days ago",
+      "url": "https://careers.micron.com/careers/job/41051353",
+      "identifier": "Idaho US Expansion Program Manager\nBoise, Idaho, U_icron.com/careers/job/41051353"
     },
     {
       "title": "New College Grad - Supply Chain Planner\nBoise, Idaho, United States of America\nPosted 3 days ago",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "85",
-  "timestamp": "2026-05-09T10:56:38.021120"
+  "timestamp": "2026-05-09T11:13:33.458555"
 }

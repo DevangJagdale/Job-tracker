@@ -4,24 +4,19 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Semiconductor Design Engineer\nBoise, Idaho, United States of America\nPosted 3 days ago",
-      "url": "https://careers.micron.com/careers/job/41862559",
-      "identifier": "Semiconductor Design Engineer\nBoise, Idaho, United_icron.com/careers/job/41862559"
-    },
-    {
       "title": "HIG Product Engineer - Media Health\nBoise, Idaho, United States of America\nPosted 3 days ago",
       "url": "https://careers.micron.com/careers/job/41830333",
       "identifier": "HIG Product Engineer - Media Health\nBoise, Idaho, _icron.com/careers/job/41830333"
     },
     {
+      "title": "Semiconductor Design Engineer\nBoise, Idaho, United States of America\nPosted 3 days ago",
+      "url": "https://careers.micron.com/careers/job/41862559",
+      "identifier": "Semiconductor Design Engineer\nBoise, Idaho, United_icron.com/careers/job/41862559"
+    },
+    {
       "title": "New College Grad - Engineer, Surface Lab\nBoise, Idaho, United States of America\nPosted 4 days ago",
       "url": "https://careers.micron.com/careers/job/41824643",
       "identifier": "New College Grad - Engineer, Surface Lab\nBoise, Id_icron.com/careers/job/41824643"
-    },
-    {
-      "title": "(New College Grad) Change Management Engineer\nBoise, Idaho, United States of America\nPosted 4 days ago",
-      "url": "https://careers.micron.com/careers/job/40986267",
-      "identifier": "(New College Grad) Change Management Engineer\nBois_icron.com/careers/job/40986267"
     },
     {
       "title": "Films Process Development Engineer\nBoise, Idaho, United States of America\nPosted 4 days ago",
@@ -37,6 +32,11 @@
       "title": "Memory Design Engineer | HBM - TPG\nRichardson, Texas, United States of America\nPosted 4 days ago",
       "url": "https://careers.micron.com/careers/job/41851975",
       "identifier": "Memory Design Engineer | HBM - TPG\nRichardson, Tex_icron.com/careers/job/41851975"
+    },
+    {
+      "title": "(New College Grad) Change Management Engineer\nBoise, Idaho, United States of America\nPosted 4 days ago",
+      "url": "https://careers.micron.com/careers/job/40986267",
+      "identifier": "(New College Grad) Change Management Engineer\nBois_icron.com/careers/job/40986267"
     },
     {
       "title": "Analytical Chemist\nBoise, Idaho, United States of America\nPosted 5 days ago",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "85",
-  "timestamp": "2026-05-10T23:02:22.594354"
+  "timestamp": "2026-05-10T23:19:26.476423"
 }

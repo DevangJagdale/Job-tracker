@@ -4,14 +4,14 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "HIG Product Engineer - Media Health\nBoise, Idaho, United States of America\nPosted 3 days ago",
-      "url": "https://careers.micron.com/careers/job/41830333",
-      "identifier": "HIG Product Engineer - Media Health\nBoise, Idaho, _icron.com/careers/job/41830333"
-    },
-    {
       "title": "Semiconductor Design Engineer\nBoise, Idaho, United States of America\nPosted 3 days ago",
       "url": "https://careers.micron.com/careers/job/41862559",
       "identifier": "Semiconductor Design Engineer\nBoise, Idaho, United_icron.com/careers/job/41862559"
+    },
+    {
+      "title": "HIG Product Engineer - Media Health\nBoise, Idaho, United States of America\nPosted 3 days ago",
+      "url": "https://careers.micron.com/careers/job/41830333",
+      "identifier": "HIG Product Engineer - Media Health\nBoise, Idaho, _icron.com/careers/job/41830333"
     },
     {
       "title": "New College Grad - Engineer, Surface Lab\nBoise, Idaho, United States of America\nPosted 4 days ago",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "86",
-  "timestamp": "2026-05-11T10:26:54.723072"
+  "timestamp": "2026-05-11T10:43:56.909618"
 }

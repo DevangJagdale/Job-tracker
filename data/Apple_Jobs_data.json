@@ -4,6 +4,16 @@
   "total_jobs": 19,
   "jobs": [
     {
+      "title": "Engineering Program Manager, AI and Data Platform, Apple Services Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200651225-3337/engineering-program-manager-ai-and-data-platform-apple-services-engineering?team=SFTWR",
+      "identifier": "Engineering Program Manager, AI and Data Platform,_ervices-engineering?team=SFTWR"
+    },
+    {
+      "title": "Payments Engineering Project Manager (Wallet, Payments & Commerce)",
+      "url": "https://jobs.apple.com/en-us/details/200662179-0836/payments-engineering-project-manager-wallet-payments-commerce?team=SFTWR",
+      "identifier": "Payments Engineering Project Manager (Wallet, Paym_t-payments-commerce?team=SFTWR"
+    },
+    {
       "title": "Finance Data Scientist - Enablement",
       "url": "https://jobs.apple.com/en-us/details/200659972-0836/finance-data-scientist-enablement?team=SFTWR",
       "identifier": "Finance Data Scientist - Enablement_cientist-enablement?team=SFTWR"
@@ -87,18 +97,8 @@
       "title": "Sr. Ruby on Rails Engineer, ASE",
       "url": "https://jobs.apple.com/en-us/details/200654205-3337/sr-ruby-on-rails-engineer-ase?team=SFTWR",
       "identifier": "Sr. Ruby on Rails Engineer, ASE_-rails-engineer-ase?team=SFTWR"
-    },
-    {
-      "title": "Computational Photography/Computer Vision Machine Learning Engineer, Camera & Photos",
-      "url": "https://jobs.apple.com/en-us/details/200634411-0836/computational-photography-computer-vision-machine-learning-engineer-camera-photos?team=SFTWR",
-      "identifier": "Computational Photography/Computer Vision Machine _ineer-camera-photos?team=SFTWR"
-    },
-    {
-      "title": "Senior Fullstack Software Engineer - Apple TV Sports",
-      "url": "https://jobs.apple.com/en-us/details/200662384-2459/senior-fullstack-software-engineer-apple-tv-sports?team=SFTWR",
-      "identifier": "Senior Fullstack Software Engineer - Apple TV Spor_eer-apple-tv-sports?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-11T19:46:21.601638"
+  "timestamp": "2026-05-11T20:03:32.048173"
 }

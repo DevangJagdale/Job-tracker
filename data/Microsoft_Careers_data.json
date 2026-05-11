@@ -4,12 +4,17 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Full Stack Engineer II\nUnited States, Washington, Redmond + 1 more\nPosted 8 minutes ago",
+      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 5 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556750009?domain=microsoft.com",
+      "identifier": "Senior Software Engineer\nUnited States, Washington_556750009?domain=microsoft.com"
+    },
+    {
+      "title": "Full Stack Engineer II\nUnited States, Washington, Redmond + 1 more\nPosted 25 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556823697?domain=microsoft.com",
       "identifier": "Full Stack Engineer II\nUnited States, Washington, _556823697?domain=microsoft.com"
     },
     {
-      "title": "Software Engineering II\nUnited States, Washington, Redmond\nPosted 31 minutes ago",
+      "title": "Software Engineering II\nUnited States, Washington, Redmond\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556637431?domain=microsoft.com",
       "identifier": "Software Engineering II\nUnited States, Washington,_556637431?domain=microsoft.com"
     },
@@ -44,16 +49,11 @@
       "identifier": "Principal Software Engineer - Copilot Identity\nUni_556628288?domain=microsoft.com"
     },
     {
-      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted an hour ago",
+      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556748565?domain=microsoft.com",
       "identifier": "Software Engineer II\nUnited States, Washington, Re_556748565?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Software Engineer - CTJ - Poly\nUnited States, Washington, Redmond + 1 more\nPosted 2 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556855969?domain=microsoft.com",
-      "identifier": "Senior Software Engineer - CTJ - Poly\nUnited State_556855969?domain=microsoft.com"
     }
   ],
-  "job_count_text": "493",
-  "timestamp": "2026-05-11T19:46:05.537878"
+  "job_count_text": "494",
+  "timestamp": "2026-05-11T20:03:15.135479"
 }

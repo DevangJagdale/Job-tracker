@@ -4,6 +4,11 @@
   "total_jobs": 19,
   "jobs": [
     {
+      "title": "Finance Data Scientist - Enablement",
+      "url": "https://jobs.apple.com/en-us/details/200659972-0836/finance-data-scientist-enablement?team=SFTWR",
+      "identifier": "Finance Data Scientist - Enablement_cientist-enablement?team=SFTWR"
+    },
+    {
       "title": "Wifi/Bluetooth Software Engineer - Wireless Technologies & Ecosystems",
       "url": "https://jobs.apple.com/en-us/details/200662395-3543/wifi-bluetooth-software-engineer-wireless-technologies-ecosystems?team=SFTWR",
       "identifier": "Wifi/Bluetooth Software Engineer - Wireless Techno_nologies-ecosystems?team=SFTWR"
@@ -92,13 +97,8 @@
       "title": "Senior Fullstack Software Engineer - Apple TV Sports",
       "url": "https://jobs.apple.com/en-us/details/200662384-2459/senior-fullstack-software-engineer-apple-tv-sports?team=SFTWR",
       "identifier": "Senior Fullstack Software Engineer - Apple TV Spor_eer-apple-tv-sports?team=SFTWR"
-    },
-    {
-      "title": "iOS Native Apps Engineer, G&A Solutions Engineering (GSE)",
-      "url": "https://jobs.apple.com/en-us/details/200657613-0157/ios-native-apps-engineer-g-a-solutions-engineering-gse?team=SFTWR",
-      "identifier": "iOS Native Apps Engineer, G&A Solutions Engineerin_ons-engineering-gse?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-11T18:03:40.529707"
+  "timestamp": "2026-05-11T18:20:42.550466"
 }

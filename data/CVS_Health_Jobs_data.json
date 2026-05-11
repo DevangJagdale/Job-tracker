@@ -4,14 +4,14 @@
   "total_jobs": 8,
   "jobs": [
     {
-      "title": "Senior Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0904032/Senior-Software-Development-Engineer",
-      "identifier": "Senior Software Development Engineer_-Software-Development-Engineer"
-    },
-    {
       "title": "Executive Director, Engineering - AI Automation",
       "url": "https://jobs.cvshealth.com/us/en/job/R0849706/Executive-Director-Engineering-AI-Automation",
       "identifier": "Executive Director, Engineering - AI Automation_ctor-Engineering-AI-Automation"
+    },
+    {
+      "title": "Senior Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0904032/Senior-Software-Development-Engineer",
+      "identifier": "Senior Software Development Engineer_-Software-Development-Engineer"
     },
     {
       "title": "Staff Observability Platform Engineer (SRE)",
@@ -24,26 +24,26 @@
       "identifier": "IT Customer Service Analyst_62/IT-Customer-Service-Analyst"
     },
     {
-      "title": "Senior Manager - RunOps - PBM-IT",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0906780/Senior-Manager-RunOps-PBM-IT",
-      "identifier": "Senior Manager - RunOps - PBM-IT_0/Senior-Manager-RunOps-PBM-IT"
-    },
-    {
       "title": "VP, Medicaid - Aetna Technology",
       "url": "https://jobs.cvshealth.com/us/en/job/R0903838/VP-Medicaid-Aetna-Technology",
       "identifier": "VP, Medicaid - Aetna Technology_8/VP-Medicaid-Aetna-Technology"
     },
     {
-      "title": "Senior Manager, Tech Client Services",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0901199/Senior-Manager-Tech-Client-Services",
-      "identifier": "Senior Manager, Tech Client Services_r-Manager-Tech-Client-Services"
+      "title": "Senior Manager - RunOps - PBM-IT",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0906780/Senior-Manager-RunOps-PBM-IT",
+      "identifier": "Senior Manager - RunOps - PBM-IT_0/Senior-Manager-RunOps-PBM-IT"
     },
     {
       "title": "Senior Analyst, Business Analysis",
       "url": "https://jobs.cvshealth.com/us/en/job/R0877444/Senior-Analyst-Business-Analysis",
       "identifier": "Senior Analyst, Business Analysis_nior-Analyst-Business-Analysis"
+    },
+    {
+      "title": "Senior Manager, Tech Client Services",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0901199/Senior-Manager-Tech-Client-Services",
+      "identifier": "Senior Manager, Tech Client Services_r-Manager-Tech-Client-Services"
     }
   ],
   "job_count_text": "34",
-  "timestamp": "2026-05-11T16:14:31.701141"
+  "timestamp": "2026-05-11T16:22:08.579928"
 }

@@ -34,6 +34,11 @@
       "identifier": "jpmc_210727914"
     },
     {
+      "title": "Software Engineer II - Fullstack - Python/React",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210728838/?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
+      "identifier": "jpmc_210728838"
+    },
+    {
       "title": "Agentic AI Data Lead Software Engineer",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210739347/?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
       "identifier": "jpmc_210739347"
@@ -99,11 +104,6 @@
       "identifier": "jpmc_210734316"
     },
     {
-      "title": "Software Engineer II",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210736653/?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
-      "identifier": "jpmc_210736653"
-    },
-    {
       "title": "Software Engineer II - Agentic AI Automation and AI Technologies",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210737901/?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
       "identifier": "jpmc_210737901"
@@ -130,5 +130,5 @@
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-11T15:41:13.131783"
+  "timestamp": "2026-05-11T15:58:21.369532"
 }

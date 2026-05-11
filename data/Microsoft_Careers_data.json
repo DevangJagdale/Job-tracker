@@ -1,7 +1,7 @@
 {
   "page_title": "| Microsoft Careers",
   "url": "https://apply.careers.microsoft.com/careers?domain=microsoft.com&start=0&location=United+States&sort_by=timestamp&filter_include_remote=1&filter_profession=software+engineering%2Cresearch%252C%2520applied%252C%2520%2526%2520data%2520sciences",
-  "total_jobs": 10,
+  "total_jobs": 9,
   "jobs": [
     {
       "title": "Software Engineer\nUnited States, Multiple Locations, Multiple Locations + 8 more\nPosted an hour ago",
@@ -47,13 +47,8 @@
       "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 3 days ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556857637?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Washington_556857637?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Site Reliability Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 3 days ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556754206?domain=microsoft.com",
-      "identifier": "Senior Site Reliability Engineer\nUnited States, Mu_556754206?domain=microsoft.com"
     }
   ],
-  "job_count_text": "490",
-  "timestamp": "2026-05-11T16:20:52.640795"
+  "job_count_text": "487",
+  "timestamp": "2026-05-11T16:37:58.477613"
 }

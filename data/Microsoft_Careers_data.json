@@ -1,10 +1,15 @@
 {
   "page_title": "| Microsoft Careers",
   "url": "https://apply.careers.microsoft.com/careers?domain=microsoft.com&start=0&location=United+States&sort_by=timestamp&filter_include_remote=1&filter_profession=software+engineering%2Cresearch%252C%2520applied%252C%2520%2526%2520data%2520sciences",
-  "total_jobs": 9,
+  "total_jobs": 10,
   "jobs": [
     {
-      "title": "Senior Software Engineer\nUnited States, Multiple Locations, Multiple Locations + 2 more\nPosted 7 minutes ago",
+      "title": "Software Engineer\nUnited States, Multiple Locations, Multiple Locations + 8 more\nPosted 22 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556855340?domain=microsoft.com",
+      "identifier": "Software Engineer\nUnited States, Multiple Location_556855340?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Software Engineer\nUnited States, Multiple Locations, Multiple Locations + 2 more\nPosted 24 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556641698?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Multiple L_556641698?domain=microsoft.com"
     },
@@ -50,5 +55,5 @@
     }
   ],
   "job_count_text": "491",
-  "timestamp": "2026-05-11T15:21:46.527926"
+  "timestamp": "2026-05-11T15:38:51.586412"
 }

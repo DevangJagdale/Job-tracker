@@ -1,8 +1,18 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 19,
+  "total_jobs": 15,
   "jobs": [
+    {
+      "title": "iOS Software Engineer - Creative Apps",
+      "url": "https://jobs.apple.com/en-us/details/200650345-1435/ios-software-engineer-creative-apps?team=SFTWR",
+      "identifier": "iOS Software Engineer - Creative Apps_ineer-creative-apps?team=SFTWR"
+    },
+    {
+      "title": "Sr Software Engineer (Platform Intelligence), Developer Workflows",
+      "url": "https://jobs.apple.com/en-us/details/200662563-0836/sr-software-engineer-platform-intelligence-developer-workflows?team=SFTWR",
+      "identifier": "Sr Software Engineer (Platform Intelligence), Deve_developer-workflows?team=SFTWR"
+    },
     {
       "title": "Software Engineer Apps Store",
       "url": "https://jobs.apple.com/en-us/details/200658570-3401/software-engineer-apps-store?team=SFTWR",
@@ -67,38 +77,8 @@
       "title": "Sr. Ruby on Rails Engineer, ASE",
       "url": "https://jobs.apple.com/en-us/details/200654205-3337/sr-ruby-on-rails-engineer-ase?team=SFTWR",
       "identifier": "Sr. Ruby on Rails Engineer, ASE_-rails-engineer-ase?team=SFTWR"
-    },
-    {
-      "title": "Computational Photography/Computer Vision Machine Learning Engineer, Camera & Photos",
-      "url": "https://jobs.apple.com/en-us/details/200634411-0836/computational-photography-computer-vision-machine-learning-engineer-camera-photos?team=SFTWR",
-      "identifier": "Computational Photography/Computer Vision Machine _ineer-camera-photos?team=SFTWR"
-    },
-    {
-      "title": "Senior Fullstack Software Engineer - Apple TV Sports",
-      "url": "https://jobs.apple.com/en-us/details/200662384-2459/senior-fullstack-software-engineer-apple-tv-sports?team=SFTWR",
-      "identifier": "Senior Fullstack Software Engineer - Apple TV Spor_eer-apple-tv-sports?team=SFTWR"
-    },
-    {
-      "title": "iOS Native Apps Engineer, G&A Solutions Engineering (GSE)",
-      "url": "https://jobs.apple.com/en-us/details/200657613-0157/ios-native-apps-engineer-g-a-solutions-engineering-gse?team=SFTWR",
-      "identifier": "iOS Native Apps Engineer, G&A Solutions Engineerin_ons-engineering-gse?team=SFTWR"
-    },
-    {
-      "title": "Sr. Engineering Program Manager - Customer Systems",
-      "url": "https://jobs.apple.com/en-us/details/200661711-3956/sr-engineering-program-manager-customer-systems?team=SFTWR",
-      "identifier": "Sr. Engineering Program Manager - Customer Systems_er-customer-systems?team=SFTWR"
-    },
-    {
-      "title": "Swift Compiler Backend Engineer, Languages & Runtimes",
-      "url": "https://jobs.apple.com/en-us/details/200662176-0836/swift-compiler-backend-engineer-languages-runtimes?team=SFTWR",
-      "identifier": "Swift Compiler Backend Engineer, Languages & Runti_-languages-runtimes?team=SFTWR"
-    },
-    {
-      "title": "Engineering Project Manager (SAP Vertex), IS&T Enterprise Systems",
-      "url": "https://jobs.apple.com/en-us/details/200656402-0157/engineering-project-manager-sap-vertex-is-t-enterprise-systems?team=SFTWR",
-      "identifier": "Engineering Project Manager (SAP Vertex), IS&T Ent_-enterprise-systems?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-11T15:22:02.615900"
+  "timestamp": "2026-05-11T15:39:07.742596"
 }

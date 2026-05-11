@@ -1,8 +1,13 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 19,
+  "total_jobs": 18,
   "jobs": [
+    {
+      "title": "Software Development Manager, Knowledge Management & Documentation",
+      "url": "https://jobs.apple.com/en-us/details/200662382-3337/software-development-manager-knowledge-management-documentation?team=SFTWR",
+      "identifier": "Software Development Manager, Knowledge Management_ement-documentation?team=SFTWR"
+    },
     {
       "title": "Engineering Program Manager, AI and Data Platform, Apple Services Engineering",
       "url": "https://jobs.apple.com/en-us/details/200651225-3337/engineering-program-manager-ai-and-data-platform-apple-services-engineering?team=SFTWR",
@@ -87,18 +92,8 @@
       "title": "Senior Software Engineer - ASE",
       "url": "https://jobs.apple.com/en-us/details/200662235-3337/senior-software-engineer-ase?team=SFTWR",
       "identifier": "Senior Software Engineer - ASE_ftware-engineer-ase?team=SFTWR"
-    },
-    {
-      "title": "Swift Frontend Engineer, Languages & Runtimes",
-      "url": "https://jobs.apple.com/en-us/details/200661344-0836/swift-frontend-engineer-languages-runtimes?team=SFTWR",
-      "identifier": "Swift Frontend Engineer, Languages & Runtimes_-languages-runtimes?team=SFTWR"
-    },
-    {
-      "title": "Sr. Ruby on Rails Engineer, ASE",
-      "url": "https://jobs.apple.com/en-us/details/200654205-3337/sr-ruby-on-rails-engineer-ase?team=SFTWR",
-      "identifier": "Sr. Ruby on Rails Engineer, ASE_-rails-engineer-ase?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-11T20:20:34.220389"
+  "timestamp": "2026-05-11T20:37:36.721005"
 }

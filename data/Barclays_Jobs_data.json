@@ -1,8 +1,18 @@
 {
   "page_title": "Search our Job Opportunities at Barclays",
   "url": "https://search.jobs.barclays/search-jobs/United%20States/13015/2/6252001/39x76/-98x5/50/2",
-  "total_jobs": 12,
+  "total_jobs": 14,
   "jobs": [
+    {
+      "title": "Investment Banking Analyst, Technology",
+      "url": "https://search.jobs.barclays/job/new-york/investment-banking-analyst-technology/13015/94869559840",
+      "identifier": "Investment Banking Analyst, Technology_t-technology/13015/94869559840"
+    },
+    {
+      "title": "Product Owner",
+      "url": "https://search.jobs.barclays/job/wilmington/product-owner/13015/94869552160",
+      "identifier": "Product Owner_roduct-owner/13015/94869552160"
+    },
     {
       "title": "Delivery Lead/Senior Data Engineer",
       "url": "https://search.jobs.barclays/job/whippany/delivery-lead-senior-data-engineer/13015/94838635760",
@@ -64,6 +74,6 @@
       "identifier": "Internal Audit - VP US Finance & Tax_ance-and-tax/13015/94712715312"
     }
   ],
-  "job_count_text": "114",
-  "timestamp": "2026-05-11T11:21:58.136290"
+  "job_count_text": "113",
+  "timestamp": "2026-05-11T11:39:05.513684"
 }

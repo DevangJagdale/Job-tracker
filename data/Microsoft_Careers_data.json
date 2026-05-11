@@ -4,7 +4,12 @@
   "total_jobs": 9,
   "jobs": [
     {
-      "title": "Senior Software Engineer - CTJ - Poly\nUnited States, Washington, Redmond + 1 more\nPosted 31 minutes ago",
+      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 20 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556748565?domain=microsoft.com",
+      "identifier": "Software Engineer II\nUnited States, Washington, Re_556748565?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Software Engineer - CTJ - Poly\nUnited States, Washington, Redmond + 1 more\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556855969?domain=microsoft.com",
       "identifier": "Senior Software Engineer - CTJ - Poly\nUnited State_556855969?domain=microsoft.com"
     },
@@ -42,13 +47,8 @@
       "title": "Software Engineer II\nUnited States, Multiple Locations, Multiple Locations\nPosted 3 days ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556863997?domain=microsoft.com",
       "identifier": "Software Engineer II\nUnited States, Multiple Locat_556863997?domain=microsoft.com"
-    },
-    {
-      "title": "Principal Data Scientist & Analytics\nUnited States, Washington, Redmond + 1 more\nPosted 3 days ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556864776?domain=microsoft.com",
-      "identifier": "Principal Data Scientist & Analytics\nUnited States_556864776?domain=microsoft.com"
     }
   ],
-  "job_count_text": "487",
-  "timestamp": "2026-05-11T18:20:26.843430"
+  "job_count_text": "488",
+  "timestamp": "2026-05-11T18:37:36.217019"
 }

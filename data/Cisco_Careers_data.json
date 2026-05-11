@@ -1,8 +1,13 @@
 {
   "page_title": "Job Openings - Cisco Careers",
   "url": "https://careers.cisco.com/global/en/search-results?s=1",
-  "total_jobs": 9,
+  "total_jobs": 10,
   "jobs": [
+    {
+      "title": "Product Management Specialist II (Full Time) - United States",
+      "url": "https://careers.cisco.com/global/en/job/2004282/Product-Management-Specialist-II-Full-Time-United-States",
+      "identifier": "Product Management Specialist II (Full Time) - Uni_ist-II-Full-Time-United-States"
+    },
     {
       "title": "Account Development Representative II (Full Time) United States",
       "url": "https://careers.cisco.com/global/en/job/2001887/Account-Development-Representative-II-Full-Time-United-States",
@@ -49,6 +54,6 @@
       "identifier": "Sales Development Representative II (Full Time) Un_al-Demand-Center-United-States"
     }
   ],
-  "job_count_text": "9",
-  "timestamp": "2026-05-11T18:22:28.380124"
+  "job_count_text": "10",
+  "timestamp": "2026-05-11T18:39:36.718721"
 }

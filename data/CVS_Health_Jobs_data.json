@@ -4,6 +4,26 @@
   "total_jobs": 8,
   "jobs": [
     {
+      "title": "Senior Manager - Agile Practice Management",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0882997/Senior-Manager-Agile-Practice-Management",
+      "identifier": "Senior Manager - Agile Practice Management_ager-Agile-Practice-Management"
+    },
+    {
+      "title": "Executive Director, Engineering - AI Automation",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0849706/Executive-Director-Engineering-AI-Automation",
+      "identifier": "Executive Director, Engineering - AI Automation_ctor-Engineering-AI-Automation"
+    },
+    {
+      "title": "Senior Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0904032/Senior-Software-Development-Engineer",
+      "identifier": "Senior Software Development Engineer_-Software-Development-Engineer"
+    },
+    {
+      "title": "Staff Observability Platform Engineer (SRE)",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0897987/Staff-Observability-Platform-Engineer-SRE",
+      "identifier": "Staff Observability Platform Engineer (SRE)_vability-Platform-Engineer-SRE"
+    },
+    {
       "title": "IT Customer Service Analyst",
       "url": "https://jobs.cvshealth.com/us/en/job/R0891762/IT-Customer-Service-Analyst",
       "identifier": "IT Customer Service Analyst_62/IT-Customer-Service-Analyst"
@@ -22,28 +42,8 @@
       "title": "Senior Analyst, Business Analysis",
       "url": "https://jobs.cvshealth.com/us/en/job/R0877444/Senior-Analyst-Business-Analysis",
       "identifier": "Senior Analyst, Business Analysis_nior-Analyst-Business-Analysis"
-    },
-    {
-      "title": "Senior Manager, Tech Client Services",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0901199/Senior-Manager-Tech-Client-Services",
-      "identifier": "Senior Manager, Tech Client Services_r-Manager-Tech-Client-Services"
-    },
-    {
-      "title": "Quality Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0901649/Quality-Engineer",
-      "identifier": "Quality Engineer_/job/R0901649/Quality-Engineer"
-    },
-    {
-      "title": "Field Service Technician -Indianapolis, IN Metro area",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0893128/Field-Service-Technician-Indianapolis-IN-Metro-area",
-      "identifier": "Field Service Technician -Indianapolis, IN Metro a_ian-Indianapolis-IN-Metro-area"
-    },
-    {
-      "title": "Manager, Business Analysis",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0906521/Manager-Business-Analysis",
-      "identifier": "Manager, Business Analysis_6521/Manager-Business-Analysis"
     }
   ],
-  "job_count_text": "30",
-  "timestamp": "2026-05-11T14:14:43.819785"
+  "job_count_text": "35",
+  "timestamp": "2026-05-11T14:31:47.580081"
 }

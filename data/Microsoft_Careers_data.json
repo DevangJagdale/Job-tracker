@@ -4,6 +4,11 @@
   "total_jobs": 10,
   "jobs": [
     {
+      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 11 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556749885?domain=microsoft.com",
+      "identifier": "Senior Software Engineer\nUnited States, Washington_556749885?domain=microsoft.com"
+    },
+    {
       "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556857309?domain=microsoft.com",
       "identifier": "Principal Software Engineer\nUnited States, Washing_556857309?domain=microsoft.com"
@@ -14,7 +19,7 @@
       "identifier": "Senior Software Engineer - Finance Data & Experien_556863496?domain=microsoft.com"
     },
     {
-      "title": "Applied Scientist II (Bing Places)\nUnited States, Washington, Redmond + 1 more\nPosted 3 hours ago",
+      "title": "Applied Scientist II (Bing Places)\nUnited States, Washington, Redmond + 1 more\nPosted 4 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556858338?domain=microsoft.com",
       "identifier": "Applied Scientist II (Bing Places)\nUnited States, _556858338?domain=microsoft.com"
     },
@@ -29,7 +34,7 @@
       "identifier": "Full Stack Engineer II\nUnited States, Washington, _556823697?domain=microsoft.com"
     },
     {
-      "title": "Software Engineering II\nUnited States, Washington, Redmond\nPosted 4 hours ago",
+      "title": "Software Engineering II\nUnited States, Washington, Redmond\nPosted 5 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556637431?domain=microsoft.com",
       "identifier": "Software Engineering II\nUnited States, Washington,_556637431?domain=microsoft.com"
     },
@@ -47,13 +52,8 @@
       "title": "Senior Applied Scientist (Bing Places)\nUnited States, Washington, Redmond\nPosted 5 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556856829?domain=microsoft.com",
       "identifier": "Senior Applied Scientist (Bing Places)\nUnited Stat_556856829?domain=microsoft.com"
-    },
-    {
-      "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted 5 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556852774?domain=microsoft.com",
-      "identifier": "Principal Software Engineer\nUnited States, Washing_556852774?domain=microsoft.com"
     }
   ],
-  "job_count_text": "496",
-  "timestamp": "2026-05-11T23:35:39.826183"
+  "job_count_text": "497",
+  "timestamp": "2026-05-11T23:52:46.571839"
 }

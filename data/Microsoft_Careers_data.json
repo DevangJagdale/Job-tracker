@@ -4,7 +4,12 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Applied Scientist II (Bing Places)\nUnited States, Washington, Redmond + 1 more\nPosted 37 minutes ago",
+      "title": "Senior Software Engineer - Finance Data & Experiences\nUnited States, Washington, Redmond\nPosted 9 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556863496?domain=microsoft.com",
+      "identifier": "Senior Software Engineer - Finance Data & Experien_556863496?domain=microsoft.com"
+    },
+    {
+      "title": "Applied Scientist II (Bing Places)\nUnited States, Washington, Redmond + 1 more\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556858338?domain=microsoft.com",
       "identifier": "Applied Scientist II (Bing Places)\nUnited States, _556858338?domain=microsoft.com"
     },
@@ -14,7 +19,7 @@
       "identifier": "Senior Software Engineer\nUnited States, Washington_556750009?domain=microsoft.com"
     },
     {
-      "title": "Full Stack Engineer II\nUnited States, Washington, Redmond + 1 more\nPosted an hour ago",
+      "title": "Full Stack Engineer II\nUnited States, Washington, Redmond + 1 more\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556823697?domain=microsoft.com",
       "identifier": "Full Stack Engineer II\nUnited States, Washington, _556823697?domain=microsoft.com"
     },
@@ -47,13 +52,8 @@
       "title": "Software Engineering IC4\nUnited States, Washington, Redmond\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556865046?domain=microsoft.com",
       "identifier": "Software Engineering IC4\nUnited States, Washington_556865046?domain=microsoft.com"
-    },
-    {
-      "title": "Principal Software Engineer - Copilot Identity\nUnited States, Washington, Redmond + 2 more\nPosted 2 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556628288?domain=microsoft.com",
-      "identifier": "Principal Software Engineer - Copilot Identity\nUni_556628288?domain=microsoft.com"
     }
   ],
-  "job_count_text": "495",
-  "timestamp": "2026-05-11T20:54:23.035214"
+  "job_count_text": "496",
+  "timestamp": "2026-05-11T21:11:27.612206"
 }

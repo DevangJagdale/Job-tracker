@@ -4,6 +4,11 @@
   "total_jobs": 19,
   "jobs": [
     {
+      "title": "Software Engineering Manager, Retail Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200661678-0157/software-engineering-manager-retail-engineering?team=SFTWR",
+      "identifier": "Software Engineering Manager, Retail Engineering_-retail-engineering?team=SFTWR"
+    },
+    {
       "title": "Sr Software Engineer (Platform Intelligence), Developer Workflows",
       "url": "https://jobs.apple.com/en-us/details/200662563-0836/sr-software-engineer-platform-intelligence-developer-workflows?team=SFTWR",
       "identifier": "Sr Software Engineer (Platform Intelligence), Deve_developer-workflows?team=SFTWR"
@@ -92,13 +97,8 @@
       "title": "Sr. Engineering Program Manager - Customer Systems",
       "url": "https://jobs.apple.com/en-us/details/200661711-3956/sr-engineering-program-manager-customer-systems?team=SFTWR",
       "identifier": "Sr. Engineering Program Manager - Customer Systems_er-customer-systems?team=SFTWR"
-    },
-    {
-      "title": "Swift Compiler Backend Engineer, Languages & Runtimes",
-      "url": "https://jobs.apple.com/en-us/details/200662176-0836/swift-compiler-backend-engineer-languages-runtimes?team=SFTWR",
-      "identifier": "Swift Compiler Backend Engineer, Languages & Runti_-languages-runtimes?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-11T16:55:16.251608"
+  "timestamp": "2026-05-11T17:12:24.573739"
 }

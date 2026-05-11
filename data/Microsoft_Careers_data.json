@@ -4,7 +4,22 @@
   "total_jobs": 9,
   "jobs": [
     {
-      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 20 minutes ago",
+      "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted 12 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556852774?domain=microsoft.com",
+      "identifier": "Principal Software Engineer\nUnited States, Washing_556852774?domain=microsoft.com"
+    },
+    {
+      "title": "Software Engineering IC4\nUnited States, Washington, Redmond\nPosted 12 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556865046?domain=microsoft.com",
+      "identifier": "Software Engineering IC4\nUnited States, Washington_556865046?domain=microsoft.com"
+    },
+    {
+      "title": "Principal Software Engineer - Copilot Identity\nUnited States, Washington, Redmond + 2 more\nPosted 21 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556628288?domain=microsoft.com",
+      "identifier": "Principal Software Engineer - Copilot Identity\nUni_556628288?domain=microsoft.com"
+    },
+    {
+      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 37 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556748565?domain=microsoft.com",
       "identifier": "Software Engineer II\nUnited States, Washington, Re_556748565?domain=microsoft.com"
     },
@@ -14,41 +29,26 @@
       "identifier": "Senior Software Engineer - CTJ - Poly\nUnited State_556855969?domain=microsoft.com"
     },
     {
-      "title": "Software Engineer\nUnited States, Multiple Locations, Multiple Locations + 8 more\nPosted 3 hours ago",
+      "title": "Software Engineer\nUnited States, Multiple Locations, Multiple Locations + 8 more\nPosted 4 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556855340?domain=microsoft.com",
       "identifier": "Software Engineer\nUnited States, Multiple Location_556855340?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer\nUnited States, Multiple Locations, Multiple Locations + 2 more\nPosted 3 hours ago",
+      "title": "Senior Software Engineer\nUnited States, Multiple Locations, Multiple Locations + 2 more\nPosted 4 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556641698?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Multiple L_556641698?domain=microsoft.com"
     },
     {
-      "title": "Principal Data Scientist - CoreAI\nUnited States, Washington, Redmond + 1 more\nPosted 4 hours ago",
+      "title": "Principal Data Scientist - CoreAI\nUnited States, Washington, Redmond + 1 more\nPosted 5 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556650820?domain=microsoft.com",
       "identifier": "Principal Data Scientist - CoreAI\nUnited States, W_556650820?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer, Foundry Agents - CoreAI\nUnited States, Washington, Redmond + 1 more\nPosted 6 hours ago",
+      "title": "Senior Software Engineer, Foundry Agents - CoreAI\nUnited States, Washington, Redmond + 1 more\nPosted 7 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556863221?domain=microsoft.com",
       "identifier": "Senior Software Engineer, Foundry Agents - CoreAI\n_556863221?domain=microsoft.com"
-    },
-    {
-      "title": "Principal Software Engineer - Finance Data & Experiences\nUnited States, Washington, Redmond\nPosted 3 days ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556863490?domain=microsoft.com",
-      "identifier": "Principal Software Engineer - Finance Data & Exper_556863490?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Software Engineer - Finance Data & Experiences\nUnited States, Washington, Redmond\nPosted 3 days ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556863487?domain=microsoft.com",
-      "identifier": "Senior Software Engineer - Finance Data & Experien_556863487?domain=microsoft.com"
-    },
-    {
-      "title": "Software Engineer II\nUnited States, Multiple Locations, Multiple Locations\nPosted 3 days ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556863997?domain=microsoft.com",
-      "identifier": "Software Engineer II\nUnited States, Multiple Locat_556863997?domain=microsoft.com"
     }
   ],
-  "job_count_text": "488",
-  "timestamp": "2026-05-11T18:37:36.217019"
+  "job_count_text": "490",
+  "timestamp": "2026-05-11T18:54:45.600728"
 }

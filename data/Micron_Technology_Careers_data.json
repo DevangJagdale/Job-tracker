@@ -4,11 +4,6 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Manufacturing Engineer - ID1 CMP\nBoise, Idaho, United States of America\nPosted a day ago",
-      "url": "https://careers.micron.com/careers/job/41720174",
-      "identifier": "Manufacturing Engineer - ID1 CMP\nBoise, Idaho, Uni_icron.com/careers/job/41720174"
-    },
-    {
       "title": "HBM Product Engineer\nRichardson, Texas, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/41907816",
       "identifier": "HBM Product Engineer\nRichardson, Texas, United Sta_icron.com/careers/job/41907816"
@@ -39,21 +34,26 @@
       "identifier": "Product Development Engineer\nBoise, Idaho, United _icron.com/careers/job/41907838"
     },
     {
+      "title": "Manufacturing Engineer - ID1 CMP\nBoise, Idaho, United States of America\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/41720174",
+      "identifier": "Manufacturing Engineer - ID1 CMP\nBoise, Idaho, Uni_icron.com/careers/job/41720174"
+    },
+    {
       "title": "Product Development Engineer 1\nBoise, Idaho, United States of America\nPosted 2 days ago",
       "url": "https://careers.micron.com/careers/job/41887799",
       "identifier": "Product Development Engineer 1\nBoise, Idaho, Unite_icron.com/careers/job/41887799"
     },
     {
-      "title": "Equipment Engineer\nBoise, Idaho, United States of America\nPosted 2 days ago",
-      "url": "https://careers.micron.com/careers/job/41887801",
-      "identifier": "Equipment Engineer\nBoise, Idaho, United States of _icron.com/careers/job/41887801"
-    },
-    {
       "title": "DRAM Design Engineer - TPG\nBoise, Idaho, United States of America\nPosted 2 days ago",
       "url": "https://careers.micron.com/careers/job/41887824",
       "identifier": "DRAM Design Engineer - TPG\nBoise, Idaho, United St_icron.com/careers/job/41887824"
+    },
+    {
+      "title": "Materials Planning Engineer - Front End US Expansion\nBoise, Idaho, United States of America\nPosted 2 days ago",
+      "url": "https://careers.micron.com/careers/job/41830407",
+      "identifier": "Materials Planning Engineer - Front End US Expansi_icron.com/careers/job/41830407"
     }
   ],
   "job_count_text": "91",
-  "timestamp": "2026-05-12T22:33:11.525659"
+  "timestamp": "2026-05-12T22:50:20.248056"
 }

@@ -1,8 +1,23 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 16,
+  "total_jobs": 14,
   "jobs": [
+    {
+      "title": "Principal ML Software Engineer, Creativity Apps",
+      "url": "https://jobs.apple.com/en-us/details/200661897-0836/principal-ml-software-engineer-creativity-apps?team=SFTWR",
+      "identifier": "Principal ML Software Engineer, Creativity Apps_eer-creativity-apps?team=SFTWR"
+    },
+    {
+      "title": "Software Engineer (iOS & Gen AI), Sales Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200648085-3401/software-engineer-ios-gen-ai-sales-engineering?team=SFTWR",
+      "identifier": "Software Engineer (iOS & Gen AI), Sales Engineerin_i-sales-engineering?team=SFTWR"
+    },
+    {
+      "title": "iOS Engineer - Wallet",
+      "url": "https://jobs.apple.com/en-us/details/200662761-0836/ios-engineer-wallet?team=SFTWR",
+      "identifier": "iOS Engineer - Wallet_ios-engineer-wallet?team=SFTWR"
+    },
     {
       "title": "Director of Algorithms, Ads Engineering",
       "url": "https://jobs.apple.com/en-us/details/200658682-0836/director-of-algorithms-ads-engineering?team=SFTWR",
@@ -57,33 +72,8 @@
       "title": "Partner and Performance Program Manager",
       "url": "https://jobs.apple.com/en-us/details/200661700-0157/partner-and-performance-program-manager?team=SFTWR",
       "identifier": "Partner and Performance Program Manager_nce-program-manager?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer, Accessibility",
-      "url": "https://jobs.apple.com/en-us/details/200649395-0836/software-engineer-accessibility?team=SFTWR",
-      "identifier": "Software Engineer, Accessibility_ineer-accessibility?team=SFTWR"
-    },
-    {
-      "title": "Senior Software Engineer, Backend",
-      "url": "https://jobs.apple.com/en-us/details/200662770-3337/senior-software-engineer-backend?team=SFTWR",
-      "identifier": "Senior Software Engineer, Backend_re-engineer-backend?team=SFTWR"
-    },
-    {
-      "title": "Sr. Software QA Engineer, Siri Speech",
-      "url": "https://jobs.apple.com/en-us/details/200643134-0836/sr-software-qa-engineer-siri-speech?team=SFTWR",
-      "identifier": "Sr. Software QA Engineer, Siri Speech_ngineer-siri-speech?team=SFTWR"
-    },
-    {
-      "title": "Sr Software Engineer (Platform Intelligence), Developer Workflows",
-      "url": "https://jobs.apple.com/en-us/details/200662563-0836/sr-software-engineer-platform-intelligence-developer-workflows?team=SFTWR",
-      "identifier": "Sr Software Engineer (Platform Intelligence), Deve_developer-workflows?team=SFTWR"
-    },
-    {
-      "title": "Senior Software Engineer (Observability Solutions) - Enterprise Technology Services",
-      "url": "https://jobs.apple.com/en-us/details/200661000-3956/senior-software-engineer-observability-solutions-enterprise-technology-services?team=SFTWR",
-      "identifier": "Senior Software Engineer (Observability Solutions)_technology-services?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-12T20:29:41.741757"
+  "timestamp": "2026-05-12T20:46:54.350528"
 }

@@ -4,24 +4,19 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Semiconductor Design Engineer\nRichardson, Texas, United States of America\nPosted 21 hours ago",
-      "url": "https://careers.micron.com/careers/job/41907830",
-      "identifier": "Semiconductor Design Engineer\nRichardson, Texas, U_icron.com/careers/job/41907830"
-    },
-    {
       "title": "Manufacturing Engineer - ID1 CMP\nBoise, Idaho, United States of America\nPosted 21 hours ago",
       "url": "https://careers.micron.com/careers/job/41720174",
       "identifier": "Manufacturing Engineer - ID1 CMP\nBoise, Idaho, Uni_icron.com/careers/job/41720174"
     },
     {
-      "title": "Product Yield Enhancement (PYE) Engineer\nBoise, Idaho, United States of America\nPosted 21 hours ago",
-      "url": "https://careers.micron.com/careers/job/41888675",
-      "identifier": "Product Yield Enhancement (PYE) Engineer\nBoise, Id_icron.com/careers/job/41888675"
-    },
-    {
       "title": "HBM Product Engineer\nRichardson, Texas, United States of America\nPosted 21 hours ago",
       "url": "https://careers.micron.com/careers/job/41907816",
       "identifier": "HBM Product Engineer\nRichardson, Texas, United Sta_icron.com/careers/job/41907816"
+    },
+    {
+      "title": "Semiconductor Design Engineer\nRichardson, Texas, United States of America\nPosted 21 hours ago",
+      "url": "https://careers.micron.com/careers/job/41907830",
+      "identifier": "Semiconductor Design Engineer\nRichardson, Texas, U_icron.com/careers/job/41907830"
     },
     {
       "title": "Idaho US Expansion Program Manager\nBoise, Idaho, United States of America\nPosted 21 hours ago",
@@ -32,6 +27,11 @@
       "title": "Project Planning Engineer, Global Facilities\nManassas, Virginia, United States of America\nPosted 21 hours ago",
       "url": "https://careers.micron.com/careers/job/41862529",
       "identifier": "Project Planning Engineer, Global Facilities\nManas_icron.com/careers/job/41862529"
+    },
+    {
+      "title": "Product Yield Enhancement (PYE) Engineer\nBoise, Idaho, United States of America\nPosted 21 hours ago",
+      "url": "https://careers.micron.com/careers/job/41888675",
+      "identifier": "Product Yield Enhancement (PYE) Engineer\nBoise, Id_icron.com/careers/job/41888675"
     },
     {
       "title": "Product Development Engineer\nBoise, Idaho, United States of America\nPosted 21 hours ago",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "91",
-  "timestamp": "2026-05-12T20:32:58.273735"
+  "timestamp": "2026-05-12T20:50:08.579732"
 }

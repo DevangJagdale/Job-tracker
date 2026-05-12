@@ -4,6 +4,11 @@
   "total_jobs": 18,
   "jobs": [
     {
+      "title": "Software Engineer, Accessibility",
+      "url": "https://jobs.apple.com/en-us/details/200649395-0836/software-engineer-accessibility?team=SFTWR",
+      "identifier": "Software Engineer, Accessibility_ineer-accessibility?team=SFTWR"
+    },
+    {
       "title": "Senior Software Engineer, Backend",
       "url": "https://jobs.apple.com/en-us/details/200662770-3337/senior-software-engineer-backend?team=SFTWR",
       "identifier": "Senior Software Engineer, Backend_re-engineer-backend?team=SFTWR"
@@ -87,13 +92,8 @@
       "title": "Senior Software Engineer, Intelligent Automation & Developer Platforms",
       "url": "https://jobs.apple.com/en-us/details/200662429-0836/senior-software-engineer-intelligent-automation-developer-platforms?team=SFTWR",
       "identifier": "Senior Software Engineer, Intelligent Automation &_developer-platforms?team=SFTWR"
-    },
-    {
-      "title": "Software Integrity Engineer, Cocoa",
-      "url": "https://jobs.apple.com/en-us/details/200662263-0836/software-integrity-engineer-cocoa?team=SFTWR",
-      "identifier": "Software Integrity Engineer, Cocoa_rity-engineer-cocoa?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-12T03:26:05.819701"
+  "timestamp": "2026-05-12T03:43:11.421599"
 }

@@ -1,8 +1,18 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 14,
+  "total_jobs": 12,
   "jobs": [
+    {
+      "title": "Sr. ML Optimization Engineer, iCloud",
+      "url": "https://jobs.apple.com/en-us/details/200631705-0836/sr-ml-optimization-engineer-icloud?team=SFTWR",
+      "identifier": "Sr. ML Optimization Engineer, iCloud_ion-engineer-icloud?team=SFTWR"
+    },
+    {
+      "title": "Software Development Engineer - Test, ASE Media Platform Quality - Apple Services Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200656090-3337/software-development-engineer-test-ase-media-platform-quality-apple-services-engineering?team=SFTWR",
+      "identifier": "Software Development Engineer - Test, ASE Media Pl_ervices-engineering?team=SFTWR"
+    },
     {
       "title": "Principal ML Software Engineer, Creativity Apps",
       "url": "https://jobs.apple.com/en-us/details/200661897-0836/principal-ml-software-engineer-creativity-apps?team=SFTWR",
@@ -52,28 +62,8 @@
       "title": "iOS Engineer - Apple TV",
       "url": "https://jobs.apple.com/en-us/details/200613725-0836/ios-engineer-apple-tv?team=SFTWR",
       "identifier": "iOS Engineer - Apple TV_s-engineer-apple-tv?team=SFTWR"
-    },
-    {
-      "title": "Bluetooth Software Performance Lead Engineer, Wireless Technologies & Ecosystems",
-      "url": "https://jobs.apple.com/en-us/details/200662011-3543/bluetooth-software-performance-lead-engineer-wireless-technologies-ecosystems?team=SFTWR",
-      "identifier": "Bluetooth Software Performance Lead Engineer, Wire_nologies-ecosystems?team=SFTWR"
-    },
-    {
-      "title": "Site Reliability Engineer - Apple Services Engineering (ASE) / iCloud",
-      "url": "https://jobs.apple.com/en-us/details/200662651-0836/site-reliability-engineer-apple-services-engineering-ase-icloud?team=SFTWR",
-      "identifier": "Site Reliability Engineer - Apple Services Enginee_ineering-ase-icloud?team=SFTWR"
-    },
-    {
-      "title": "Senior Software Engineer, Software Developer Foundation",
-      "url": "https://jobs.apple.com/en-us/details/200660873-0836/senior-software-engineer-software-developer-foundation?team=SFTWR",
-      "identifier": "Senior Software Engineer, Software Developer Found_eveloper-foundation?team=SFTWR"
-    },
-    {
-      "title": "Partner and Performance Program Manager",
-      "url": "https://jobs.apple.com/en-us/details/200661700-0157/partner-and-performance-program-manager?team=SFTWR",
-      "identifier": "Partner and Performance Program Manager_nce-program-manager?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-12T20:46:54.350528"
+  "timestamp": "2026-05-12T21:04:03.731892"
 }

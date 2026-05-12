@@ -4,12 +4,17 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Principal Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 13 minutes ago",
+      "title": "Principal Software Engineering-CoreAI\nUnited States, Washington, Redmond\nPosted 23 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556855315?domain=microsoft.com",
+      "identifier": "Principal Software Engineering-CoreAI\nUnited State_556855315?domain=microsoft.com"
+    },
+    {
+      "title": "Principal Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 30 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556620220?domain=microsoft.com",
       "identifier": "Principal Software Engineer\nUnited States, Multipl_556620220?domain=microsoft.com"
     },
     {
-      "title": "Principal Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 21 minutes ago",
+      "title": "Principal Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 38 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556768653?domain=microsoft.com",
       "identifier": "Principal Software Engineer\nUnited States, Multipl_556768653?domain=microsoft.com"
     },
@@ -47,13 +52,8 @@
       "title": "Software Engineer II - CoreAI\nUnited States, Washington, Redmond\nPosted 12 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556638528?domain=microsoft.com",
       "identifier": "Software Engineer II - CoreAI\nUnited States, Washi_556638528?domain=microsoft.com"
-    },
-    {
-      "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted 15 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556751374?domain=microsoft.com",
-      "identifier": "Principal Software Engineer\nUnited States, Washing_556751374?domain=microsoft.com"
     }
   ],
-  "job_count_text": "492",
-  "timestamp": "2026-05-12T16:37:04.956497"
+  "job_count_text": "493",
+  "timestamp": "2026-05-12T16:54:21.231847"
 }

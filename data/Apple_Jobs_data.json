@@ -4,6 +4,11 @@
   "total_jobs": 17,
   "jobs": [
     {
+      "title": "Cellular Software Enablement Engineer, Wireless Technologies & Ecosystems",
+      "url": "https://jobs.apple.com/en-us/details/200661207-3543/cellular-software-enablement-engineer-wireless-technologies-ecosystems?team=SFTWR",
+      "identifier": "Cellular Software Enablement Engineer, Wireless Te_nologies-ecosystems?team=SFTWR"
+    },
+    {
       "title": "Software Engineer - Secure Enclave, Core OS",
       "url": "https://jobs.apple.com/en-us/details/200662871-0836/software-engineer-secure-enclave-core-os?team=SFTWR",
       "identifier": "Software Engineer - Secure Enclave, Core OS_ure-enclave-core-os?team=SFTWR"
@@ -69,11 +74,6 @@
       "identifier": "Sr. Software QA Engineer, Siri Speech_ngineer-siri-speech?team=SFTWR"
     },
     {
-      "title": "Asset Data Analyst, Infrastructure Services",
-      "url": "https://jobs.apple.com/en-us/details/200656698-2903/asset-data-analyst-infrastructure-services?team=SFTWR",
-      "identifier": "Asset Data Analyst, Infrastructure Services_astructure-services?team=SFTWR"
-    },
-    {
       "title": "Sr Software Engineer (Platform Intelligence), Developer Workflows",
       "url": "https://jobs.apple.com/en-us/details/200662563-0836/sr-software-engineer-platform-intelligence-developer-workflows?team=SFTWR",
       "identifier": "Sr Software Engineer (Platform Intelligence), Deve_developer-workflows?team=SFTWR"
@@ -90,5 +90,5 @@
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-12T18:03:41.169087"
+  "timestamp": "2026-05-12T18:20:55.302261"
 }

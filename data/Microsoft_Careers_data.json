@@ -4,12 +4,12 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted an hour ago",
+      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556749885?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Washington_556749885?domain=microsoft.com"
     },
     {
-      "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted 3 hours ago",
+      "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted 4 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556857309?domain=microsoft.com",
       "identifier": "Principal Software Engineer\nUnited States, Washing_556857309?domain=microsoft.com"
     },
@@ -29,7 +29,7 @@
       "identifier": "Senior Software Engineer\nUnited States, Washington_556750009?domain=microsoft.com"
     },
     {
-      "title": "Full Stack Engineer II\nUnited States, Washington, Redmond + 1 more\nPosted 5 hours ago",
+      "title": "Full Stack Engineer II\nUnited States, Washington, Redmond + 1 more\nPosted 6 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556823697?domain=microsoft.com",
       "identifier": "Full Stack Engineer II\nUnited States, Washington, _556823697?domain=microsoft.com"
     },
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "496",
-  "timestamp": "2026-05-12T01:01:30.846648"
+  "timestamp": "2026-05-12T01:18:37.592186"
 }

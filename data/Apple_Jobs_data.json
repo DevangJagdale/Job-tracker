@@ -4,6 +4,11 @@
   "total_jobs": 18,
   "jobs": [
     {
+      "title": "Senior Software Engineer, Backend",
+      "url": "https://jobs.apple.com/en-us/details/200662770-3337/senior-software-engineer-backend?team=SFTWR",
+      "identifier": "Senior Software Engineer, Backend_re-engineer-backend?team=SFTWR"
+    },
+    {
       "title": "Software Engineering Manager, Mail Intelligence",
       "url": "https://jobs.apple.com/en-us/details/200662720-3543/software-engineering-manager-mail-intelligence?team=MLAI",
       "identifier": "Software Engineering Manager, Mail Intelligence_er-mail-intelligence?team=MLAI"
@@ -87,13 +92,8 @@
       "title": "Software Integrity Engineer, Cocoa",
       "url": "https://jobs.apple.com/en-us/details/200662263-0836/software-integrity-engineer-cocoa?team=SFTWR",
       "identifier": "Software Integrity Engineer, Cocoa_rity-engineer-cocoa?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer - Intelligent Engineering Workflows",
-      "url": "https://jobs.apple.com/en-us/details/200655381-3543/software-engineer-intelligent-engineering-workflows?team=SFTWR",
-      "identifier": "Software Engineer - Intelligent Engineering Workfl_gineering-workflows?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-12T01:01:46.429609"
+  "timestamp": "2026-05-12T01:18:53.153976"
 }

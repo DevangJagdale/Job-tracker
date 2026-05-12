@@ -4,6 +4,11 @@
   "total_jobs": 12,
   "jobs": [
     {
+      "title": "AIML - Sr Machine Learning Engineer, Data and ML Innovation",
+      "url": "https://jobs.apple.com/en-us/details/200656802-3956/aiml-sr-machine-learning-engineer-data-and-ml-innovation?team=MLAI",
+      "identifier": "AIML - Sr Machine Learning Engineer, Data and ML I_ta-and-ml-innovation?team=MLAI"
+    },
+    {
       "title": "System Software Engineer - Human Interface Devices",
       "url": "https://jobs.apple.com/en-us/details/200662405-0836/system-software-engineer-human-interface-devices?team=SFTWR",
       "identifier": "System Software Engineer - Human Interface Devices_n-interface-devices?team=SFTWR"
@@ -57,13 +62,8 @@
       "title": "Software Engineer (iOS & Gen AI), Sales Engineering",
       "url": "https://jobs.apple.com/en-us/details/200648085-3401/software-engineer-ios-gen-ai-sales-engineering?team=SFTWR",
       "identifier": "Software Engineer (iOS & Gen AI), Sales Engineerin_i-sales-engineering?team=SFTWR"
-    },
-    {
-      "title": "Director of Algorithms, Ads Engineering",
-      "url": "https://jobs.apple.com/en-us/details/200658682-0836/director-of-algorithms-ads-engineering?team=SFTWR",
-      "identifier": "Director of Algorithms, Ads Engineering_hms-ads-engineering?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-12T23:21:22.228488"
+  "timestamp": "2026-05-12T23:38:35.157294"
 }

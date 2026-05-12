@@ -4,16 +4,6 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Materials Planning Engineer - Front End US Expansion\nBoise, Idaho, United States of America\nPosted a day ago",
-      "url": "https://careers.micron.com/careers/job/41830407",
-      "identifier": "Materials Planning Engineer - Front End US Expansi_icron.com/careers/job/41830407"
-    },
-    {
-      "title": "Product Development Engineer 1\nBoise, Idaho, United States of America\nPosted a day ago",
-      "url": "https://careers.micron.com/careers/job/41887799",
-      "identifier": "Product Development Engineer 1\nBoise, Idaho, Unite_icron.com/careers/job/41887799"
-    },
-    {
       "title": "Equipment Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/41887801",
       "identifier": "Equipment Engineer\nBoise, Idaho, United States of _icron.com/careers/job/41887801"
@@ -27,6 +17,16 @@
       "title": "New College Grad - Design Engineer\nSan Jose, California, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/40431608",
       "identifier": "New College Grad - Design Engineer\nSan Jose, Calif_icron.com/careers/job/40431608"
+    },
+    {
+      "title": "Materials Planning Engineer - Front End US Expansion\nBoise, Idaho, United States of America\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/41830407",
+      "identifier": "Materials Planning Engineer - Front End US Expansi_icron.com/careers/job/41830407"
+    },
+    {
+      "title": "Product Development Engineer 1\nBoise, Idaho, United States of America\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/41887799",
+      "identifier": "Product Development Engineer 1\nBoise, Idaho, Unite_icron.com/careers/job/41887799"
     },
     {
       "title": "HIG Product Engineer - Media Health\nBoise, Idaho, United States of America\nPosted 4 days ago",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "88",
-  "timestamp": "2026-05-12T09:02:43.771292"
+  "timestamp": "2026-05-12T09:21:57.529820"
 }

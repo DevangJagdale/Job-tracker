@@ -4,9 +4,9 @@
   "total_jobs": 8,
   "jobs": [
     {
-      "title": "ServiceNow Risk Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0862141/ServiceNow-Risk-Engineer",
-      "identifier": "ServiceNow Risk Engineer_62141/ServiceNow-Risk-Engineer"
+      "title": "Senior Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0911332/Senior-Software-Development-Engineer",
+      "identifier": "Senior Software Development Engineer_-Software-Development-Engineer"
     },
     {
       "title": "Senior BackEnd Engineer",
@@ -14,19 +14,14 @@
       "identifier": "Senior BackEnd Engineer_861508/Senior-BackEnd-Engineer"
     },
     {
-      "title": "Senior Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0911332/Senior-Software-Development-Engineer",
-      "identifier": "Senior Software Development Engineer_-Software-Development-Engineer"
+      "title": "Staff Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0896379/Staff-Software-Development-Engineer",
+      "identifier": "Staff Software Development Engineer_-Software-Development-Engineer"
     },
     {
       "title": "Lead Director - Software Development Engineering",
       "url": "https://jobs.cvshealth.com/us/en/job/R0836642/Lead-Director-Software-Development-Engineering",
       "identifier": "Lead Director - Software Development Engineering_ftware-Development-Engineering"
-    },
-    {
-      "title": "Staff Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0896379/Staff-Software-Development-Engineer",
-      "identifier": "Staff Software Development Engineer_-Software-Development-Engineer"
     },
     {
       "title": "Lead Director \u2013 Software Engineering (Modernization & Reliability)",
@@ -39,11 +34,16 @@
       "identifier": "Executive Director, Adjudication Data Services_tor-Adjudication-Data-Services"
     },
     {
+      "title": "ServiceNow Risk Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0862141/ServiceNow-Risk-Engineer",
+      "identifier": "ServiceNow Risk Engineer_62141/ServiceNow-Risk-Engineer"
+    },
+    {
       "title": "Manager, Business Analysis",
       "url": "https://jobs.cvshealth.com/us/en/job/R0902210/Manager-Business-Analysis",
       "identifier": "Manager, Business Analysis_2210/Manager-Business-Analysis"
     }
   ],
   "job_count_text": "47",
-  "timestamp": "2026-05-12T23:05:15.229373"
+  "timestamp": "2026-05-12T23:22:22.944751"
 }

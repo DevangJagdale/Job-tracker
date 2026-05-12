@@ -14,14 +14,14 @@
       "identifier": "Product Management Specialist II (Full Time) - Uni_ist-II-Full-Time-United-States"
     },
     {
-      "title": "Account Development Representative II (Full Time) United States",
-      "url": "https://careers.cisco.com/global/en/job/2001887/Account-Development-Representative-II-Full-Time-United-States",
-      "identifier": "Account Development Representative II (Full Time) _ive-II-Full-Time-United-States"
-    },
-    {
       "title": "Software Engineer I (Full Time) \u2013 Devices Technology Group \u2013 United States",
       "url": "https://careers.cisco.com/global/en/job/2011256/Software-Engineer-I-Full-Time-Devices-Technology-Group-United-States",
       "identifier": "Software Engineer I (Full Time) \u2013 Devices Technolo_Technology-Group-United-States"
+    },
+    {
+      "title": "Account Development Representative II (Full Time) United States",
+      "url": "https://careers.cisco.com/global/en/job/2001887/Account-Development-Representative-II-Full-Time-United-States",
+      "identifier": "Account Development Representative II (Full Time) _ive-II-Full-Time-United-States"
     },
     {
       "title": "Sales Development Representative (Remote)",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "11",
-  "timestamp": "2026-05-12T10:28:46.109573"
+  "timestamp": "2026-05-12T10:45:54.048968"
 }

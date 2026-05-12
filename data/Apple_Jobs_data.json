@@ -4,6 +4,16 @@
   "total_jobs": 12,
   "jobs": [
     {
+      "title": "iOS Engineer - Wallet",
+      "url": "https://jobs.apple.com/en-us/details/200662757-0836/ios-engineer-wallet?team=SFTWR",
+      "identifier": "iOS Engineer - Wallet_ios-engineer-wallet?team=SFTWR"
+    },
+    {
+      "title": "Machine Learning Engineer - Health AIML",
+      "url": "https://jobs.apple.com/en-us/details/200662966-0836/machine-learning-engineer-health-aiml?team=MLAI",
+      "identifier": "Machine Learning Engineer - Health AIML_engineer-health-aiml?team=MLAI"
+    },
+    {
       "title": "Sr Software Engineer, Employee Experience & Productivity",
       "url": "https://jobs.apple.com/en-us/details/200662766-0670/sr-software-engineer-employee-experience-productivity?team=SFTWR",
       "identifier": "Sr Software Engineer, Employee Experience & Produc_rience-productivity?team=SFTWR"
@@ -29,11 +39,6 @@
       "identifier": "Software Engineer (iOS & Gen AI), Sales Engineerin_i-sales-engineering?team=SFTWR"
     },
     {
-      "title": "iOS Engineer - Wallet",
-      "url": "https://jobs.apple.com/en-us/details/200662761-0836/ios-engineer-wallet?team=SFTWR",
-      "identifier": "iOS Engineer - Wallet_ios-engineer-wallet?team=SFTWR"
-    },
-    {
       "title": "Director of Algorithms, Ads Engineering",
       "url": "https://jobs.apple.com/en-us/details/200658682-0836/director-of-algorithms-ads-engineering?team=SFTWR",
       "identifier": "Director of Algorithms, Ads Engineering_hms-ads-engineering?team=SFTWR"
@@ -57,13 +62,8 @@
       "title": "Apple Intelligence Senior Cloud Performance Engineer",
       "url": "https://jobs.apple.com/en-us/details/200631735-3337/apple-intelligence-senior-cloud-performance-engineer?team=MLAI",
       "identifier": "Apple Intelligence Senior Cloud Performance Engine_performance-engineer?team=MLAI"
-    },
-    {
-      "title": "Software Development Engineer - Frameworks & AI/ML, Wireless Technologies & Ecosystems",
-      "url": "https://jobs.apple.com/en-us/details/200646833-0836/software-development-engineer-frameworks-ai-ml-wireless-technologies-ecosystems?team=SFTWR",
-      "identifier": "Software Development Engineer - Frameworks & AI/ML_nologies-ecosystems?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-12T21:21:13.818654"
+  "timestamp": "2026-05-12T21:38:24.012822"
 }

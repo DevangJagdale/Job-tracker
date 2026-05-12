@@ -1,8 +1,18 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 16,
+  "total_jobs": 15,
   "jobs": [
+    {
+      "title": "Bluetooth Software Performance Lead Engineer, Wireless Technologies & Ecosystems",
+      "url": "https://jobs.apple.com/en-us/details/200662011-3543/bluetooth-software-performance-lead-engineer-wireless-technologies-ecosystems?team=SFTWR",
+      "identifier": "Bluetooth Software Performance Lead Engineer, Wire_nologies-ecosystems?team=SFTWR"
+    },
+    {
+      "title": "OS Performance Tools Engineer - Memory Diagnostics, CoreOS",
+      "url": "https://jobs.apple.com/en-us/details/200630953-0836/os-performance-tools-engineer-memory-diagnostics-coreos?team=SFTWR",
+      "identifier": "OS Performance Tools Engineer - Memory Diagnostics_-diagnostics-coreos?team=SFTWR"
+    },
     {
       "title": "Site Reliability Engineer - Apple Services Engineering (ASE) / iCloud",
       "url": "https://jobs.apple.com/en-us/details/200662651-0836/site-reliability-engineer-apple-services-engineering-ase-icloud?team=SFTWR",
@@ -67,23 +77,8 @@
       "title": "Engineering Program Manager, AI and Data Platform, Apple Services Engineering",
       "url": "https://jobs.apple.com/en-us/details/200651225-3337/engineering-program-manager-ai-and-data-platform-apple-services-engineering?team=SFTWR",
       "identifier": "Engineering Program Manager, AI and Data Platform,_ervices-engineering?team=SFTWR"
-    },
-    {
-      "title": "Payments Engineering Project Manager (Wallet, Payments & Commerce)",
-      "url": "https://jobs.apple.com/en-us/details/200662179-0836/payments-engineering-project-manager-wallet-payments-commerce?team=SFTWR",
-      "identifier": "Payments Engineering Project Manager (Wallet, Paym_t-payments-commerce?team=SFTWR"
-    },
-    {
-      "title": "Finance Data Scientist - Enablement",
-      "url": "https://jobs.apple.com/en-us/details/200659972-0836/finance-data-scientist-enablement?team=SFTWR",
-      "identifier": "Finance Data Scientist - Enablement_cientist-enablement?team=SFTWR"
-    },
-    {
-      "title": "Wifi/Bluetooth Software Engineer - Wireless Technologies & Ecosystems",
-      "url": "https://jobs.apple.com/en-us/details/200662395-3543/wifi-bluetooth-software-engineer-wireless-technologies-ecosystems?team=SFTWR",
-      "identifier": "Wifi/Bluetooth Software Engineer - Wireless Techno_nologies-ecosystems?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-12T15:45:27.995295"
+  "timestamp": "2026-05-12T16:02:44.257394"
 }

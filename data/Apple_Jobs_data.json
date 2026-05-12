@@ -4,6 +4,11 @@
   "total_jobs": 12,
   "jobs": [
     {
+      "title": "Sr Software Engineer, Employee Experience & Productivity",
+      "url": "https://jobs.apple.com/en-us/details/200662766-0670/sr-software-engineer-employee-experience-productivity?team=SFTWR",
+      "identifier": "Sr Software Engineer, Employee Experience & Produc_rience-productivity?team=SFTWR"
+    },
+    {
       "title": "Sr. ML Optimization Engineer, iCloud",
       "url": "https://jobs.apple.com/en-us/details/200631705-0836/sr-ml-optimization-engineer-icloud?team=SFTWR",
       "identifier": "Sr. ML Optimization Engineer, iCloud_ion-engineer-icloud?team=SFTWR"
@@ -57,13 +62,8 @@
       "title": "Software Development Engineer - Frameworks & AI/ML, Wireless Technologies & Ecosystems",
       "url": "https://jobs.apple.com/en-us/details/200646833-0836/software-development-engineer-frameworks-ai-ml-wireless-technologies-ecosystems?team=SFTWR",
       "identifier": "Software Development Engineer - Frameworks & AI/ML_nologies-ecosystems?team=SFTWR"
-    },
-    {
-      "title": "iOS Engineer - Apple TV",
-      "url": "https://jobs.apple.com/en-us/details/200613725-0836/ios-engineer-apple-tv?team=SFTWR",
-      "identifier": "iOS Engineer - Apple TV_s-engineer-apple-tv?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-12T21:04:03.731892"
+  "timestamp": "2026-05-12T21:21:13.818654"
 }

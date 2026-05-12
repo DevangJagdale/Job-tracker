@@ -4,11 +4,6 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "New College Grad - Design Engineer\nSan Jose, California, United States of America\nPosted a day ago",
-      "url": "https://careers.micron.com/careers/job/40431608",
-      "identifier": "New College Grad - Design Engineer\nSan Jose, Calif_icron.com/careers/job/40431608"
-    },
-    {
       "title": "Materials Planning Engineer - Front End US Expansion\nBoise, Idaho, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/41830407",
       "identifier": "Materials Planning Engineer - Front End US Expansi_icron.com/careers/job/41830407"
@@ -22,6 +17,11 @@
       "title": "Equipment Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/41887801",
       "identifier": "Equipment Engineer\nBoise, Idaho, United States of _icron.com/careers/job/41887801"
+    },
+    {
+      "title": "New College Grad - Design Engineer\nSan Jose, California, United States of America\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/40431608",
+      "identifier": "New College Grad - Design Engineer\nSan Jose, Calif_icron.com/careers/job/40431608"
     },
     {
       "title": "DRAM Design Engineer - TPG\nBoise, Idaho, United States of America\nPosted a day ago",
@@ -49,11 +49,11 @@
       "identifier": "Memory Design Engineer | HBM - TPG\nRichardson, Tex_icron.com/careers/job/41851975"
     },
     {
-      "title": "New College Grad - Engineer, Surface Lab\nBoise, Idaho, United States of America\nPosted 5 days ago",
-      "url": "https://careers.micron.com/careers/job/41824643",
-      "identifier": "New College Grad - Engineer, Surface Lab\nBoise, Id_icron.com/careers/job/41824643"
+      "title": "(New College Grad) Change Management Engineer\nBoise, Idaho, United States of America\nPosted 5 days ago",
+      "url": "https://careers.micron.com/careers/job/40986267",
+      "identifier": "(New College Grad) Change Management Engineer\nBois_icron.com/careers/job/40986267"
     }
   ],
   "job_count_text": "88",
-  "timestamp": "2026-05-12T04:54:40.110307"
+  "timestamp": "2026-05-12T05:11:47.725816"
 }

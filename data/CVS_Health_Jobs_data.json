@@ -34,16 +34,16 @@
       "identifier": "Executive Director, Adjudication Data Services_tor-Adjudication-Data-Services"
     },
     {
-      "title": "Sr. Manager - ACE Service Delivery",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0904551/Sr-Manager-ACE-Service-Delivery",
-      "identifier": "Sr. Manager - ACE Service Delivery_r-Manager-ACE-Service-Delivery"
-    },
-    {
       "title": "Software Development Engineer",
       "url": "https://jobs.cvshealth.com/us/en/job/R0896244/Software-Development-Engineer",
       "identifier": "Software Development Engineer_/Software-Development-Engineer"
+    },
+    {
+      "title": "Sr. Manager - ACE Service Delivery",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0904551/Sr-Manager-ACE-Service-Delivery",
+      "identifier": "Sr. Manager - ACE Service Delivery_r-Manager-ACE-Service-Delivery"
     }
   ],
   "job_count_text": "48",
-  "timestamp": "2026-05-12T18:21:57.136993"
+  "timestamp": "2026-05-12T18:39:14.509625"
 }

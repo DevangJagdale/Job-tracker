@@ -1,8 +1,13 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 17,
+  "total_jobs": 16,
   "jobs": [
+    {
+      "title": "Director of Algorithms, Ads Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200658682-0836/director-of-algorithms-ads-engineering?team=SFTWR",
+      "identifier": "Director of Algorithms, Ads Engineering_hms-ads-engineering?team=SFTWR"
+    },
     {
       "title": "Cellular Software Enablement Engineer, Wireless Technologies & Ecosystems",
       "url": "https://jobs.apple.com/en-us/details/200661207-3543/cellular-software-enablement-engineer-wireless-technologies-ecosystems?team=SFTWR",
@@ -64,11 +69,6 @@
       "identifier": "Senior Software Engineer, Backend_re-engineer-backend?team=SFTWR"
     },
     {
-      "title": "Software Engineering Manager, Mail Intelligence",
-      "url": "https://jobs.apple.com/en-us/details/200662720-3543/software-engineering-manager-mail-intelligence?team=MLAI",
-      "identifier": "Software Engineering Manager, Mail Intelligence_er-mail-intelligence?team=MLAI"
-    },
-    {
       "title": "Sr. Software QA Engineer, Siri Speech",
       "url": "https://jobs.apple.com/en-us/details/200643134-0836/sr-software-qa-engineer-siri-speech?team=SFTWR",
       "identifier": "Sr. Software QA Engineer, Siri Speech_ngineer-siri-speech?team=SFTWR"
@@ -82,13 +82,8 @@
       "title": "Senior Software Engineer (Observability Solutions) - Enterprise Technology Services",
       "url": "https://jobs.apple.com/en-us/details/200661000-3956/senior-software-engineer-observability-solutions-enterprise-technology-services?team=SFTWR",
       "identifier": "Senior Software Engineer (Observability Solutions)_technology-services?team=SFTWR"
-    },
-    {
-      "title": "Software Development Manager, Knowledge Management & Documentation",
-      "url": "https://jobs.apple.com/en-us/details/200662382-3337/software-development-manager-knowledge-management-documentation?team=SFTWR",
-      "identifier": "Software Development Manager, Knowledge Management_ement-documentation?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-12T18:20:55.302261"
+  "timestamp": "2026-05-12T18:38:11.671981"
 }

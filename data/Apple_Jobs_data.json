@@ -4,6 +4,11 @@
   "total_jobs": 12,
   "jobs": [
     {
+      "title": "Senior Software Development Engineer in Test",
+      "url": "https://jobs.apple.com/en-us/details/200662968-0836/senior-software-development-engineer-in-test?team=SFTWR",
+      "identifier": "Senior Software Development Engineer in Test_nt-engineer-in-test?team=SFTWR"
+    },
+    {
       "title": "iOS Engineer - Wallet",
       "url": "https://jobs.apple.com/en-us/details/200662757-0836/ios-engineer-wallet?team=SFTWR",
       "identifier": "iOS Engineer - Wallet_ios-engineer-wallet?team=SFTWR"
@@ -57,13 +62,8 @@
       "title": "OS Performance Tools Engineer - Memory Diagnostics, CoreOS",
       "url": "https://jobs.apple.com/en-us/details/200630953-3543/os-performance-tools-engineer-memory-diagnostics-coreos?team=SFTWR",
       "identifier": "OS Performance Tools Engineer - Memory Diagnostics_-diagnostics-coreos?team=SFTWR"
-    },
-    {
-      "title": "Apple Intelligence Senior Cloud Performance Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200631735-3337/apple-intelligence-senior-cloud-performance-engineer?team=MLAI",
-      "identifier": "Apple Intelligence Senior Cloud Performance Engine_performance-engineer?team=MLAI"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-12T21:38:24.012822"
+  "timestamp": "2026-05-12T21:55:37.708730"
 }

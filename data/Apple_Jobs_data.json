@@ -1,8 +1,18 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 15,
+  "total_jobs": 16,
   "jobs": [
+    {
+      "title": "Apple Intelligence Cloud Performance Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200631735-3337/apple-intelligence-cloud-performance-engineer?team=MLAI",
+      "identifier": "Apple Intelligence Cloud Performance Engineer_performance-engineer?team=MLAI"
+    },
+    {
+      "title": "Software Development Engineer - Frameworks & AI/ML, Wireless Technologies & Ecosystems",
+      "url": "https://jobs.apple.com/en-us/details/200646833-0836/software-development-engineer-frameworks-ai-ml-wireless-technologies-ecosystems?team=SFTWR",
+      "identifier": "Software Development Engineer - Frameworks & AI/ML_nologies-ecosystems?team=SFTWR"
+    },
     {
       "title": "iOS Engineer - Apple TV",
       "url": "https://jobs.apple.com/en-us/details/200613725-0836/ios-engineer-apple-tv?team=SFTWR",
@@ -72,13 +82,8 @@
       "title": "Software Engineer",
       "url": "https://jobs.apple.com/en-us/details/200653272-3337/software-engineer?team=SFTWR",
       "identifier": "Software Engineer_7/software-engineer?team=SFTWR"
-    },
-    {
-      "title": "Software Development Manager, Knowledge Management & Documentation",
-      "url": "https://jobs.apple.com/en-us/details/200662382-3337/software-development-manager-knowledge-management-documentation?team=SFTWR",
-      "identifier": "Software Development Manager, Knowledge Management_ement-documentation?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-12T16:54:37.896184"
+  "timestamp": "2026-05-12T17:11:50.806730"
 }

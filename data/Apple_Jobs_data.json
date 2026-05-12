@@ -4,6 +4,11 @@
   "total_jobs": 18,
   "jobs": [
     {
+      "title": "Sr. Software QA Engineer, Siri Speech",
+      "url": "https://jobs.apple.com/en-us/details/200643134-0836/sr-software-qa-engineer-siri-speech?team=SFTWR",
+      "identifier": "Sr. Software QA Engineer, Siri Speech_ngineer-siri-speech?team=SFTWR"
+    },
+    {
       "title": "Asset Data Analyst, Infrastructure Services",
       "url": "https://jobs.apple.com/en-us/details/200656698-2903/asset-data-analyst-infrastructure-services?team=SFTWR",
       "identifier": "Asset Data Analyst, Infrastructure Services_astructure-services?team=SFTWR"
@@ -87,13 +92,8 @@
       "title": "Sr Engineering Manager (Customer Engagement), AI & Data Platforms (AiDP)",
       "url": "https://jobs.apple.com/en-us/details/200662407-3956/sr-engineering-manager-customer-engagement-ai-data-platforms-aidp?team=SFTWR",
       "identifier": "Sr Engineering Manager (Customer Engagement), AI &_data-platforms-aidp?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer in Test, Cocoa",
-      "url": "https://jobs.apple.com/en-us/details/200662197-0836/software-engineer-in-test-cocoa?team=SFTWR",
-      "identifier": "Software Engineer in Test, Cocoa_ineer-in-test-cocoa?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-11T23:53:02.731040"
+  "timestamp": "2026-05-12T00:10:11.802807"
 }

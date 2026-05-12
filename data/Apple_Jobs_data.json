@@ -4,6 +4,11 @@
   "total_jobs": 15,
   "jobs": [
     {
+      "title": "iOS Engineer - Apple TV",
+      "url": "https://jobs.apple.com/en-us/details/200613725-0836/ios-engineer-apple-tv?team=SFTWR",
+      "identifier": "iOS Engineer - Apple TV_s-engineer-apple-tv?team=SFTWR"
+    },
+    {
       "title": "Bluetooth Software Performance Lead Engineer, Wireless Technologies & Ecosystems",
       "url": "https://jobs.apple.com/en-us/details/200662011-3543/bluetooth-software-performance-lead-engineer-wireless-technologies-ecosystems?team=SFTWR",
       "identifier": "Bluetooth Software Performance Lead Engineer, Wire_nologies-ecosystems?team=SFTWR"
@@ -72,13 +77,8 @@
       "title": "Software Development Manager, Knowledge Management & Documentation",
       "url": "https://jobs.apple.com/en-us/details/200662382-3337/software-development-manager-knowledge-management-documentation?team=SFTWR",
       "identifier": "Software Development Manager, Knowledge Management_ement-documentation?team=SFTWR"
-    },
-    {
-      "title": "Engineering Program Manager, AI and Data Platform, Apple Services Engineering",
-      "url": "https://jobs.apple.com/en-us/details/200651225-3337/engineering-program-manager-ai-and-data-platform-apple-services-engineering?team=SFTWR",
-      "identifier": "Engineering Program Manager, AI and Data Platform,_ervices-engineering?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-12T16:02:44.257394"
+  "timestamp": "2026-05-12T16:20:05.832306"
 }

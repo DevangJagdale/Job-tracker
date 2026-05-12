@@ -4,6 +4,16 @@
   "total_jobs": 15,
   "jobs": [
     {
+      "title": "AVP, Fraud Strategy Lead",
+      "url": "https://search.jobs.barclays/job/wilmington/avp-fraud-strategy-lead/13015/95010618928",
+      "identifier": "AVP, Fraud Strategy Lead_trategy-lead/13015/95010618928"
+    },
+    {
+      "title": "Test Engineer",
+      "url": "https://search.jobs.barclays/job/whippany/test-engineer/13015/95010618048",
+      "identifier": "Test Engineer_est-engineer/13015/95010618048"
+    },
+    {
       "title": "Regulatory Reporting Lead, AVP",
       "url": "https://search.jobs.barclays/job/whippany/regulatory-reporting-lead-avp/13015/94984180480",
       "identifier": "Regulatory Reporting Lead, AVP_ing-lead-avp/13015/94984180480"
@@ -67,18 +77,8 @@
       "title": "Product Owner",
       "url": "https://search.jobs.barclays/job/wilmington/product-owner/13015/94869552160",
       "identifier": "Product Owner_roduct-owner/13015/94869552160"
-    },
-    {
-      "title": "Investment Banking Associate, FIG",
-      "url": "https://search.jobs.barclays/job/new-york/investment-banking-associate-fig/13015/94817759392",
-      "identifier": "Investment Banking Associate, FIG_ssociate-fig/13015/94817759392"
-    },
-    {
-      "title": "Service Manager - AVP",
-      "url": "https://search.jobs.barclays/job/whippany/service-manager-avp/13015/94791337632",
-      "identifier": "Service Manager - AVP_-manager-avp/13015/94791337632"
     }
   ],
   "job_count_text": "128",
-  "timestamp": "2026-05-12T17:28:32.907768"
+  "timestamp": "2026-05-12T17:45:52.652013"
 }

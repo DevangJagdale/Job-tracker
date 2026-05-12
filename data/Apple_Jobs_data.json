@@ -4,9 +4,9 @@
   "total_jobs": 16,
   "jobs": [
     {
-      "title": "Apple Intelligence Cloud Performance Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200631735-3337/apple-intelligence-cloud-performance-engineer?team=MLAI",
-      "identifier": "Apple Intelligence Cloud Performance Engineer_performance-engineer?team=MLAI"
+      "title": "Apple Intelligence Senior Cloud Performance Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200631735-3337/apple-intelligence-senior-cloud-performance-engineer?team=MLAI",
+      "identifier": "Apple Intelligence Senior Cloud Performance Engine_performance-engineer?team=MLAI"
     },
     {
       "title": "Software Development Engineer - Frameworks & AI/ML, Wireless Technologies & Ecosystems",
@@ -85,5 +85,5 @@
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-12T17:11:50.806730"
+  "timestamp": "2026-05-12T17:29:06.931257"
 }

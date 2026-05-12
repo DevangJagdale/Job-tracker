@@ -4,19 +4,9 @@
   "total_jobs": 8,
   "jobs": [
     {
-      "title": "Principal Software Development Engineer - Flutter",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0767053/Principal-Software-Development-Engineer-Flutter",
-      "identifier": "Principal Software Development Engineer - Flutter_e-Development-Engineer-Flutter"
-    },
-    {
-      "title": "Staff Observability Platform Engineer (SRE)",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0897987/Staff-Observability-Platform-Engineer-SRE",
-      "identifier": "Staff Observability Platform Engineer (SRE)_vability-Platform-Engineer-SRE"
-    },
-    {
-      "title": "IT Customer Service Analyst",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0897105/IT-Customer-Service-Analyst",
-      "identifier": "IT Customer Service Analyst_05/IT-Customer-Service-Analyst"
+      "title": "Senior Software Development Engineer - Linux",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0910412/Senior-Software-Development-Engineer-Linux",
+      "identifier": "Senior Software Development Engineer - Linux_are-Development-Engineer-Linux"
     },
     {
       "title": "Senior Software Development Engineer",
@@ -29,14 +19,24 @@
       "identifier": "Manager - Application Development_anager-Application-Development"
     },
     {
+      "title": "IT Customer Service Analyst",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0897105/IT-Customer-Service-Analyst",
+      "identifier": "IT Customer Service Analyst_05/IT-Customer-Service-Analyst"
+    },
+    {
+      "title": "Staff Observability Platform Engineer (SRE)",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0897987/Staff-Observability-Platform-Engineer-SRE",
+      "identifier": "Staff Observability Platform Engineer (SRE)_vability-Platform-Engineer-SRE"
+    },
+    {
       "title": "Senior Software Engineering Manager",
       "url": "https://jobs.cvshealth.com/us/en/job/R0884073/Senior-Software-Engineering-Manager",
       "identifier": "Senior Software Engineering Manager_r-Software-Engineering-Manager"
     },
     {
-      "title": "Senior Software Development Engineer - Linux",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0910412/Senior-Software-Development-Engineer-Linux",
-      "identifier": "Senior Software Development Engineer - Linux_are-Development-Engineer-Linux"
+      "title": "Principal Software Development Engineer - Flutter",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0767053/Principal-Software-Development-Engineer-Flutter",
+      "identifier": "Principal Software Development Engineer - Flutter_e-Development-Engineer-Flutter"
     },
     {
       "title": "Staff Integration - Site Reliability Engineer (SRE)",
@@ -45,5 +45,5 @@
     }
   ],
   "job_count_text": "38",
-  "timestamp": "2026-05-12T07:44:46.782932"
+  "timestamp": "2026-05-12T08:01:50.549014"
 }

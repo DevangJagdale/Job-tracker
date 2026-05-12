@@ -4,14 +4,14 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Idaho US Expansion Program Manager\nBoise, Idaho, United States of America\nPosted 16 hours ago",
-      "url": "https://careers.micron.com/careers/job/41051353",
-      "identifier": "Idaho US Expansion Program Manager\nBoise, Idaho, U_icron.com/careers/job/41051353"
-    },
-    {
       "title": "Manufacturing Engineer - ID1 CMP\nBoise, Idaho, United States of America\nPosted 16 hours ago",
       "url": "https://careers.micron.com/careers/job/41720174",
       "identifier": "Manufacturing Engineer - ID1 CMP\nBoise, Idaho, Uni_icron.com/careers/job/41720174"
+    },
+    {
+      "title": "Idaho US Expansion Program Manager\nBoise, Idaho, United States of America\nPosted 16 hours ago",
+      "url": "https://careers.micron.com/careers/job/41051353",
+      "identifier": "Idaho US Expansion Program Manager\nBoise, Idaho, U_icron.com/careers/job/41051353"
     },
     {
       "title": "Product Development Engineer 1\nBoise, Idaho, United States of America\nPosted 2 days ago",
@@ -19,14 +19,14 @@
       "identifier": "Product Development Engineer 1\nBoise, Idaho, Unite_icron.com/careers/job/41887799"
     },
     {
-      "title": "Equipment Engineer\nBoise, Idaho, United States of America\nPosted 2 days ago",
-      "url": "https://careers.micron.com/careers/job/41887801",
-      "identifier": "Equipment Engineer\nBoise, Idaho, United States of _icron.com/careers/job/41887801"
-    },
-    {
       "title": "Materials Planning Engineer - Front End US Expansion\nBoise, Idaho, United States of America\nPosted 2 days ago",
       "url": "https://careers.micron.com/careers/job/41830407",
       "identifier": "Materials Planning Engineer - Front End US Expansi_icron.com/careers/job/41830407"
+    },
+    {
+      "title": "Equipment Engineer\nBoise, Idaho, United States of America\nPosted 2 days ago",
+      "url": "https://careers.micron.com/careers/job/41887801",
+      "identifier": "Equipment Engineer\nBoise, Idaho, United States of _icron.com/careers/job/41887801"
     },
     {
       "title": "DRAM Design Engineer - TPG\nBoise, Idaho, United States of America\nPosted 2 days ago",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "89",
-  "timestamp": "2026-05-12T15:31:29.191594"
+  "timestamp": "2026-05-12T15:48:47.674937"
 }

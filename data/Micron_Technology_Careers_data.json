@@ -4,14 +4,14 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "HBM Product Engineer\nRichardson, Texas, United States of America\nPosted 20 hours ago",
-      "url": "https://careers.micron.com/careers/job/41907816",
-      "identifier": "HBM Product Engineer\nRichardson, Texas, United Sta_icron.com/careers/job/41907816"
-    },
-    {
       "title": "Semiconductor Design Engineer\nRichardson, Texas, United States of America\nPosted 20 hours ago",
       "url": "https://careers.micron.com/careers/job/41907830",
       "identifier": "Semiconductor Design Engineer\nRichardson, Texas, U_icron.com/careers/job/41907830"
+    },
+    {
+      "title": "Manufacturing Engineer - ID1 CMP\nBoise, Idaho, United States of America\nPosted 20 hours ago",
+      "url": "https://careers.micron.com/careers/job/41720174",
+      "identifier": "Manufacturing Engineer - ID1 CMP\nBoise, Idaho, Uni_icron.com/careers/job/41720174"
     },
     {
       "title": "Product Yield Enhancement (PYE) Engineer\nBoise, Idaho, United States of America\nPosted 20 hours ago",
@@ -19,9 +19,9 @@
       "identifier": "Product Yield Enhancement (PYE) Engineer\nBoise, Id_icron.com/careers/job/41888675"
     },
     {
-      "title": "Manufacturing Engineer - ID1 CMP\nBoise, Idaho, United States of America\nPosted 20 hours ago",
-      "url": "https://careers.micron.com/careers/job/41720174",
-      "identifier": "Manufacturing Engineer - ID1 CMP\nBoise, Idaho, Uni_icron.com/careers/job/41720174"
+      "title": "HBM Product Engineer\nRichardson, Texas, United States of America\nPosted 20 hours ago",
+      "url": "https://careers.micron.com/careers/job/41907816",
+      "identifier": "HBM Product Engineer\nRichardson, Texas, United Sta_icron.com/careers/job/41907816"
     },
     {
       "title": "Idaho US Expansion Program Manager\nBoise, Idaho, United States of America\nPosted 20 hours ago",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "91",
-  "timestamp": "2026-05-12T19:33:15.128462"
+  "timestamp": "2026-05-12T19:50:31.739763"
 }

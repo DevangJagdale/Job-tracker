@@ -4,7 +4,12 @@
   "total_jobs": 9,
   "jobs": [
     {
-      "title": "Senior Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 29 minutes ago",
+      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 19 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556851579?domain=microsoft.com",
+      "identifier": "Senior Software Engineer\nUnited States, Washington_556851579?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556861873?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Multiple L_556861873?domain=microsoft.com"
     },
@@ -24,7 +29,7 @@
       "identifier": "Principal Software Engineer\nUnited States, Multipl_556620220?domain=microsoft.com"
     },
     {
-      "title": "Principal Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 3 hours ago",
+      "title": "Principal Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 4 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556768653?domain=microsoft.com",
       "identifier": "Principal Software Engineer\nUnited States, Multipl_556768653?domain=microsoft.com"
     },
@@ -39,16 +44,11 @@
       "identifier": "Principal, Data Science & Analytics\nUnited States,_556823722?domain=microsoft.com"
     },
     {
-      "title": "Sr. Service Engineer- CTJ- Poly\nUnited States, Multiple Locations, Multiple Locations + 4 more\nPosted 5 hours ago",
+      "title": "Sr. Service Engineer- CTJ- Poly\nUnited States, Multiple Locations, Multiple Locations + 4 more\nPosted 6 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556865812?domain=microsoft.com",
       "identifier": "Sr. Service Engineer- CTJ- Poly\nUnited States, Mul_556865812?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Software Engineer - CoreAI\nUnited States, Washington, Redmond\nPosted 15 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556620361?domain=microsoft.com",
-      "identifier": "Senior Software Engineer - CoreAI\nUnited States, W_556620361?domain=microsoft.com"
     }
   ],
   "job_count_text": "490",
-  "timestamp": "2026-05-12T19:29:42.208709"
+  "timestamp": "2026-05-12T19:46:55.564275"
 }

@@ -4,6 +4,11 @@
   "total_jobs": 10,
   "jobs": [
     {
+      "title": "Senior Applied Scientist\nUnited States, Washington, Redmond\nPosted 6 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556866161?domain=microsoft.com",
+      "identifier": "Senior Applied Scientist\nUnited States, Washington_556866161?domain=microsoft.com"
+    },
+    {
       "title": "Senior Software Engineer - AI Frameworks\nUnited States, Washington, Redmond\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556852816?domain=microsoft.com",
       "identifier": "Senior Software Engineer - AI Frameworks\nUnited St_556852816?domain=microsoft.com"
@@ -24,12 +29,12 @@
       "identifier": "Senior Software Engineer\nUnited States, California_556834733?domain=microsoft.com"
     },
     {
-      "title": "Senior Applied Scientist\nUnited States, Washington, Redmond\nPosted 4 hours ago",
+      "title": "Senior Applied Scientist\nUnited States, Washington, Redmond\nPosted 5 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556851873?domain=microsoft.com",
       "identifier": "Senior Applied Scientist\nUnited States, Washington_556851873?domain=microsoft.com"
     },
     {
-      "title": "Applied Scientist II\nUnited States, Washington, Redmond\nPosted 16 hours ago",
+      "title": "Applied Scientist II\nUnited States, Washington, Redmond\nPosted 17 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556866225?domain=microsoft.com",
       "identifier": "Applied Scientist II\nUnited States, Washington, Re_556866225?domain=microsoft.com"
     },
@@ -47,13 +52,8 @@
       "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted 19 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556866286?domain=microsoft.com",
       "identifier": "Principal Software Engineer\nUnited States, Washing_556866286?domain=microsoft.com"
-    },
-    {
-      "title": "Principal Software Engineer (Architect)\nUnited States, Washington, Redmond\nPosted 19 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556861640?domain=microsoft.com",
-      "identifier": "Principal Software Engineer (Architect)\nUnited Sta_556861640?domain=microsoft.com"
     }
   ],
-  "job_count_text": "486",
-  "timestamp": "2026-05-13T17:42:55.086992"
+  "job_count_text": "487",
+  "timestamp": "2026-05-13T18:00:08.138685"
 }

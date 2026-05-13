@@ -4,6 +4,16 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Technical Project Manager, Enterprise Technology Services",
+      "url": "https://jobs.apple.com/en-us/details/200663160-3956/technical-project-manager-enterprise-technology-services?team=SFTWR",
+      "identifier": "Technical Project Manager, Enterprise Technology S_technology-services?team=SFTWR"
+    },
+    {
+      "title": "Software Engineer, Freeform Application",
+      "url": "https://jobs.apple.com/en-us/details/200645690-2926/software-engineer-freeform-application?team=SFTWR",
+      "identifier": "Software Engineer, Freeform Application_reeform-application?team=SFTWR"
+    },
+    {
       "title": "Senior Software Engineer - Distributed Systems",
       "url": "https://jobs.apple.com/en-us/details/200663087-1435/senior-software-engineer-distributed-systems?team=SFTWR",
       "identifier": "Senior Software Engineer - Distributed Systems_distributed-systems?team=SFTWR"
@@ -69,21 +79,11 @@
       "identifier": "Director of Software Engineering - Security_ngineering-security?team=SFTWR"
     },
     {
-      "title": "Apps Accessibility Software Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200645690-2926/apps-accessibility-software-engineer?team=SFTWR",
-      "identifier": "Apps Accessibility Software Engineer_y-software-engineer?team=SFTWR"
-    },
-    {
       "title": "Software Security Engineer, Enterprise Technology Services",
       "url": "https://jobs.apple.com/en-us/details/200661977-0157/software-security-engineer-enterprise-technology-services?team=SFTWR",
       "identifier": "Software Security Engineer, Enterprise Technology _technology-services?team=SFTWR"
-    },
-    {
-      "title": "Applied Networking Quality Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200662980-0836/applied-networking-quality-engineer?team=SFTWR",
-      "identifier": "Applied Networking Quality Engineer_ng-quality-engineer?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-13T20:25:02.172699"
+  "timestamp": "2026-05-13T20:42:04.905944"
 }

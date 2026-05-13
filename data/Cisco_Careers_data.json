@@ -4,6 +4,11 @@
   "total_jobs": 10,
   "jobs": [
     {
+      "title": "Software Engineer Backend/Platform Systems II (Full Time) \u2013 United States",
+      "url": "https://careers.cisco.com/global/en/job/2000135/Software-Engineer-Backend-Platform-Systems-II-Full-Time-United-States",
+      "identifier": "Software Engineer Backend/Platform Systems II (Ful_ems-II-Full-Time-United-States"
+    },
+    {
       "title": "Software Development Engineer II (Full Time) \u2013 United States",
       "url": "https://careers.cisco.com/global/en/job/2014387/Software-Development-Engineer-II-Full-Time-United-States",
       "identifier": "Software Development Engineer II (Full Time) \u2013 Uni_eer-II-Full-Time-United-States"
@@ -47,13 +52,8 @@
       "title": "Sales Development Representative I (Full Time) - United States (Virtual Demand Center)",
       "url": "https://careers.cisco.com/global/en/job/2005272/Sales-Development-Representative-I-Full-Time-United-States-Virtual-Demand-Center",
       "identifier": "Sales Development Representative I (Full Time) - U_d-States-Virtual-Demand-Center"
-    },
-    {
-      "title": "Sales Development Representative Outbound Sales II (Full Time) - United States",
-      "url": "https://careers.cisco.com/global/en/job/2003091/Sales-Development-Representative-Outbound-Sales-II-Full-Time-United-States",
-      "identifier": "Sales Development Representative Outbound Sales II_les-II-Full-Time-United-States"
     }
   ],
-  "job_count_text": "11",
-  "timestamp": "2026-05-13T16:36:04.582814"
+  "job_count_text": "12",
+  "timestamp": "2026-05-13T16:53:18.207813"
 }

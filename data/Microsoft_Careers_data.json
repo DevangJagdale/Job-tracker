@@ -4,7 +4,12 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Senior Applied Scientist\nUnited States, Washington, Redmond\nPosted 35 minutes ago",
+      "title": "Senior Software Engineer\nUnited States, California, Mountain View + 1 more\nPosted 20 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556834733?domain=microsoft.com",
+      "identifier": "Senior Software Engineer\nUnited States, California_556834733?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Applied Scientist\nUnited States, Washington, Redmond\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556851873?domain=microsoft.com",
       "identifier": "Senior Applied Scientist\nUnited States, Washington_556851873?domain=microsoft.com"
     },
@@ -14,7 +19,7 @@
       "identifier": "Applied Scientist II\nUnited States, Washington, Re_556866225?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer - Surface Post-Launch Engineering\nUnited States, Washington, Redmond\nPosted 13 hours ago",
+      "title": "Senior Software Engineer - Surface Post-Launch Engineering\nUnited States, Washington, Redmond\nPosted 14 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556819794?domain=microsoft.com",
       "identifier": "Senior Software Engineer - Surface Post-Launch Eng_556819794?domain=microsoft.com"
     },
@@ -24,7 +29,7 @@
       "identifier": "Software Engineer II - BIC Foundations\nUnited Stat_556756098?domain=microsoft.com"
     },
     {
-      "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted 15 hours ago",
+      "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted 16 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556866286?domain=microsoft.com",
       "identifier": "Principal Software Engineer\nUnited States, Washing_556866286?domain=microsoft.com"
     },
@@ -47,13 +52,8 @@
       "title": "Sr. Software Engineer - Distributed Systems\nUnited States, Washington, Redmond\nPosted 18 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556864746?domain=microsoft.com",
       "identifier": "Sr. Software Engineer - Distributed Systems\nUnited_556864746?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 19 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556851579?domain=microsoft.com",
-      "identifier": "Senior Software Engineer\nUnited States, Washington_556851579?domain=microsoft.com"
     }
   ],
-  "job_count_text": "484",
-  "timestamp": "2026-05-13T13:59:09.242243"
+  "job_count_text": "485",
+  "timestamp": "2026-05-13T14:16:21.650088"
 }

@@ -4,9 +4,14 @@
   "total_jobs": 17,
   "jobs": [
     {
-      "title": "Keyboard SWE",
-      "url": "https://jobs.apple.com/en-us/details/200663112-0836/keyboard-swe?team=SFTWR",
-      "identifier": "Keyboard SWE_2-0836/keyboard-swe?team=SFTWR"
+      "title": "Software Development Engineer - iOS and MacOS for Keyboard",
+      "url": "https://jobs.apple.com/en-us/details/200663112-0836/software-development-engineer-ios-and-macos-for-keyboard?team=SFTWR",
+      "identifier": "Software Development Engineer - iOS and MacOS for _-macos-for-keyboard?team=SFTWR"
+    },
+    {
+      "title": "AR/VR Software Engineer - Capture, Vision Products Software",
+      "url": "https://jobs.apple.com/en-us/details/200663107-3401/ar-vr-software-engineer-capture-vision-products-software?team=SFTWR",
+      "identifier": "AR/VR Software Engineer - Capture, Vision Products_n-products-software?team=SFTWR"
     },
     {
       "title": "Software Engineer (Quality), Retail and Marcom Engineering",
@@ -82,13 +87,8 @@
       "title": "System Software Engineer - Human Interface Devices",
       "url": "https://jobs.apple.com/en-us/details/200662405-0836/system-software-engineer-human-interface-devices?team=SFTWR",
       "identifier": "System Software Engineer - Human Interface Devices_n-interface-devices?team=SFTWR"
-    },
-    {
-      "title": "AIML - Staff ML Infrastructure Engineer, ML Platform & Technology - Pre-training Infrastructure",
-      "url": "https://jobs.apple.com/en-us/details/200662426-3401/aiml-staff-ml-infrastructure-engineer-ml-platform-technology-pre-training-infrastructure?team=SFTWR",
-      "identifier": "AIML - Staff ML Infrastructure Engineer, ML Platfo_ning-infrastructure?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-13T18:25:21.501169"
+  "timestamp": "2026-05-13T18:42:29.164727"
 }

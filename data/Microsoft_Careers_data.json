@@ -4,7 +4,12 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 23 minutes ago",
+      "title": "Software Engineer 2\nUnited States, Washington, Redmond\nPosted 20 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556749568?domain=microsoft.com",
+      "identifier": "Software Engineer 2\nUnited States, Washington, Red_556749568?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 41 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556864381?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Washington_556864381?domain=microsoft.com"
     },
@@ -34,12 +39,12 @@
       "identifier": "Senior Software Engineer\nUnited States, California_556834733?domain=microsoft.com"
     },
     {
-      "title": "Senior Applied Scientist\nUnited States, Washington, Redmond\nPosted 5 hours ago",
+      "title": "Senior Applied Scientist\nUnited States, Washington, Redmond\nPosted 6 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556851873?domain=microsoft.com",
       "identifier": "Senior Applied Scientist\nUnited States, Washington_556851873?domain=microsoft.com"
     },
     {
-      "title": "Applied Scientist II\nUnited States, Washington, Redmond\nPosted 17 hours ago",
+      "title": "Applied Scientist II\nUnited States, Washington, Redmond\nPosted 18 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556866225?domain=microsoft.com",
       "identifier": "Applied Scientist II\nUnited States, Washington, Re_556866225?domain=microsoft.com"
     },
@@ -47,13 +52,8 @@
       "title": "Senior Software Engineer - Surface Post-Launch Engineering\nUnited States, Washington, Redmond\nPosted 18 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556819794?domain=microsoft.com",
       "identifier": "Senior Software Engineer - Surface Post-Launch Eng_556819794?domain=microsoft.com"
-    },
-    {
-      "title": "Software Engineer II - BIC Foundations\nUnited States, Washington, Redmond\nPosted 19 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556756098?domain=microsoft.com",
-      "identifier": "Software Engineer II - BIC Foundations\nUnited Stat_556756098?domain=microsoft.com"
     }
   ],
-  "job_count_text": "487",
-  "timestamp": "2026-05-13T18:42:12.871448"
+  "job_count_text": "488",
+  "timestamp": "2026-05-13T18:59:21.602097"
 }

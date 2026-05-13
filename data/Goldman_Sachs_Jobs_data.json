@@ -4,6 +4,11 @@
   "total_jobs": 20,
   "jobs": [
     {
+      "title": "AMD Public-Salt Lake City-Associate-Software Engineering\nSalt Lake City\u00b7United States\n\u00b7Associate",
+      "url": "https://higher.gs.com/roles/165919",
+      "identifier": "AMD Public-Salt Lake City-Associate-Software Engin_s://higher.gs.com/roles/165919"
+    },
+    {
       "title": "Corporate Planning & Management, Product & Reporting - BI Specialist, Associate, Dallas\nDallas\u00b7United States\n\u00b7Associate",
       "url": "https://higher.gs.com/roles/172617",
       "identifier": "Corporate Planning & Management, Product & Reporti_s://higher.gs.com/roles/172617"
@@ -97,13 +102,8 @@
       "title": "MLOps Engineer - Machine Learning Platform - NY/NJ\nJersey City\u00b7United States\n\u00b7Associate",
       "url": "https://higher.gs.com/roles/153822",
       "identifier": "MLOps Engineer - Machine Learning Platform - NY/NJ_s://higher.gs.com/roles/153822"
-    },
-    {
-      "title": "Asset & Wealth Management-Cloud Engineer-Analyst-Dallas\nDallas\u00b7United States\n\u00b7Analyst",
-      "url": "https://higher.gs.com/roles/168769",
-      "identifier": "Asset & Wealth Management-Cloud Engineer-Analyst-D_s://higher.gs.com/roles/168769"
     }
   ],
   "job_count_text": "53",
-  "timestamp": "2026-05-13T18:41:38.843340"
+  "timestamp": "2026-05-13T18:58:47.052253"
 }

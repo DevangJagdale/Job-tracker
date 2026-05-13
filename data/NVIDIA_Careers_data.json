@@ -4,6 +4,11 @@
   "total_jobs": 20,
   "jobs": [
     {
+      "title": "Circuit Design Engineer, Power Modeling and Simulation - New College Grad 2026",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Circuit-Design-Engineer--Power-Modeling-and-Simulation---New-College-Grad-2026_JR2009985?locationCountry=bc33aa3152ec42d4995f4791a106ed09&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&workerSubType=ab40a98049581037a3ada55b087049b7",
+      "identifier": "Circuit Design Engineer, Power Modeling and Simula_40a98049581037a3ada55b087049b7"
+    },
+    {
       "title": "Signal and Power Integrity Engineer - New College Grad 2026",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Signal-and-Power-Integrity-Engineer---New-College-Grad-2026_JR2017741?locationCountry=bc33aa3152ec42d4995f4791a106ed09&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&workerSubType=ab40a98049581037a3ada55b087049b7",
       "identifier": "Signal and Power Integrity Engineer - New College _40a98049581037a3ada55b087049b7"
@@ -97,13 +102,8 @@
       "title": "ASIC Verification Engineer - New College Grad 2026",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/ASIC-Verification-Engineer---New-College-Grad-2026_JR2012573?locationCountry=bc33aa3152ec42d4995f4791a106ed09&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&workerSubType=ab40a98049581037a3ada55b087049b7",
       "identifier": "ASIC Verification Engineer - New College Grad 2026_40a98049581037a3ada55b087049b7"
-    },
-    {
-      "title": "Deep Learning Architect, LLM Inference - New College Grad 2026",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Architect--LLM-Inference---New-College-Grad-2026_JR2016950?locationCountry=bc33aa3152ec42d4995f4791a106ed09&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&workerSubType=ab40a98049581037a3ada55b087049b7",
-      "identifier": "Deep Learning Architect, LLM Inference - New Colle_40a98049581037a3ada55b087049b7"
     }
   ],
-  "job_count_text": "57",
-  "timestamp": "2026-05-13T00:52:11.958093"
+  "job_count_text": "58",
+  "timestamp": "2026-05-13T01:09:18.637511"
 }

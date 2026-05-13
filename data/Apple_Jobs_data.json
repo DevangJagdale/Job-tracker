@@ -4,6 +4,11 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Media Intelligence Systems & Performance Software Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200661895-3543/media-intelligence-systems-performance-software-engineer?team=SFTWR",
+      "identifier": "Media Intelligence Systems & Performance Software _e-software-engineer?team=SFTWR"
+    },
+    {
       "title": "Site Reliability Engineer, Enterprise Technology Services",
       "url": "https://jobs.apple.com/en-us/details/200662016-3956/site-reliability-engineer-enterprise-technology-services?team=SFTWR",
       "identifier": "Site Reliability Engineer, Enterprise Technology S_technology-services?team=SFTWR"
@@ -77,13 +82,8 @@
       "title": "Senior AI/ML Software Development Engineer in Test",
       "url": "https://jobs.apple.com/en-us/details/200660852-0836/senior-ai-ml-software-development-engineer-in-test?team=SFTWR",
       "identifier": "Senior AI/ML Software Development Engineer in Test_nt-engineer-in-test?team=SFTWR"
-    },
-    {
-      "title": "Director of Software Engineering - Security",
-      "url": "https://jobs.apple.com/en-us/details/200663004-0836/director-of-software-engineering-security?team=SFTWR",
-      "identifier": "Director of Software Engineering - Security_ngineering-security?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-13T22:07:23.983727"
+  "timestamp": "2026-05-13T22:24:30.397795"
 }

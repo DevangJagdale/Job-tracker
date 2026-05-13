@@ -1,17 +1,12 @@
 {
   "page_title": "Amazon University Talent Acquisition (AUTA)",
   "url": "https://www.amazon.jobs/content/en/career-programs/university?country%5B%5D=US&employment-type%5B%5D=Full+time&team%5B%5D=studentprograms.team-jobs-for-grads",
-  "total_jobs": 10,
+  "total_jobs": 9,
   "jobs": [
     {
       "title": "Full-time roles for graduates",
       "url": "https://www.amazon.jobs/content/en/career-programs/student-programs/jobs-for-grads",
       "identifier": "Full-time roles for graduates_tudent-programs/jobs-for-grads"
-    },
-    {
-      "title": "Software Development Engineer \u2013 Amazon Leo (US)",
-      "url": "https://www.amazon.jobs/jobs/3144341",
-      "identifier": "Software Development Engineer \u2013 Amazon Leo (US)_//www.amazon.jobs/jobs/3144341"
     },
     {
       "title": "Software Development Engineer, AWS Data Services - 2026 (US)",
@@ -55,5 +50,5 @@
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-13T22:12:07.450789"
+  "timestamp": "2026-05-13T22:29:09.014421"
 }

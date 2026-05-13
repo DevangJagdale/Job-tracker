@@ -1,18 +1,8 @@
 {
   "page_title": "Search our Job Opportunities at Barclays",
   "url": "https://search.jobs.barclays/search-jobs/United%20States/13015/2/6252001/39x76/-98x5/50/2",
-  "total_jobs": 13,
+  "total_jobs": 12,
   "jobs": [
-    {
-      "title": "AVP, Fraud Strategy Lead",
-      "url": "https://search.jobs.barclays/job/wilmington/avp-fraud-strategy-lead/13015/95010618928",
-      "identifier": "AVP, Fraud Strategy Lead_trategy-lead/13015/95010618928"
-    },
-    {
-      "title": "Test Engineer",
-      "url": "https://search.jobs.barclays/job/whippany/test-engineer/13015/95010618048",
-      "identifier": "Test Engineer_est-engineer/13015/95010618048"
-    },
     {
       "title": "Regulatory Reporting Lead, AVP",
       "url": "https://search.jobs.barclays/job/whippany/regulatory-reporting-lead-avp/13015/94984180480",
@@ -67,8 +57,13 @@
       "title": "Senior Risk & Pricing Technology Developer",
       "url": "https://search.jobs.barclays/job/whippany/senior-risk-and-pricing-technology-developer/13015/94971578704",
       "identifier": "Senior Risk & Pricing Technology Developer_gy-developer/13015/94971578704"
+    },
+    {
+      "title": "Equities Quantitative Analyst, AVP",
+      "url": "https://search.jobs.barclays/job/new-york/equities-quantitative-analyst-avp/13015/94971578464",
+      "identifier": "Equities Quantitative Analyst, AVP_-analyst-avp/13015/94971578464"
     }
   ],
-  "job_count_text": "129",
-  "timestamp": "2026-05-13T05:28:00.932485"
+  "job_count_text": "125",
+  "timestamp": "2026-05-13T05:45:04.664622"
 }

@@ -1,8 +1,18 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 16,
+  "total_jobs": 15,
   "jobs": [
+    {
+      "title": "Software Engineer, watchOS Widgets & Live Activities - Watch Software",
+      "url": "https://jobs.apple.com/en-us/details/200663072-0836/software-engineer-watchos-widgets-live-activities-watch-software?team=SFTWR",
+      "identifier": "Software Engineer, watchOS Widgets & Live Activiti_ties-watch-software?team=SFTWR"
+    },
+    {
+      "title": "AppleCare Technologies BPR Project Manager, Service Repair",
+      "url": "https://jobs.apple.com/en-us/details/200663064-0240/applecare-technologies-bpr-project-manager-service-repair?team=SFTWR",
+      "identifier": "AppleCare Technologies BPR Project Manager, Servic_ager-service-repair?team=SFTWR"
+    },
     {
       "title": "Software Engineer - Strategic Data Solutions",
       "url": "https://jobs.apple.com/en-us/details/200663080-0157/software-engineer-strategic-data-solutions?team=SFTWR",
@@ -67,23 +77,8 @@
       "title": "iOS Engineer - Wallet",
       "url": "https://jobs.apple.com/en-us/details/200662757-0836/ios-engineer-wallet?team=SFTWR",
       "identifier": "iOS Engineer - Wallet_ios-engineer-wallet?team=SFTWR"
-    },
-    {
-      "title": "Machine Learning Engineer - Health AIML",
-      "url": "https://jobs.apple.com/en-us/details/200662966-0836/machine-learning-engineer-health-aiml?team=MLAI",
-      "identifier": "Machine Learning Engineer - Health AIML_engineer-health-aiml?team=MLAI"
-    },
-    {
-      "title": "Sr Software Engineer, Employee Experience & Productivity",
-      "url": "https://jobs.apple.com/en-us/details/200662766-0670/sr-software-engineer-employee-experience-productivity?team=SFTWR",
-      "identifier": "Sr Software Engineer, Employee Experience & Produc_rience-productivity?team=SFTWR"
-    },
-    {
-      "title": "Sr. ML Optimization Engineer, iCloud",
-      "url": "https://jobs.apple.com/en-us/details/200631705-0836/sr-ml-optimization-engineer-icloud?team=SFTWR",
-      "identifier": "Sr. ML Optimization Engineer, iCloud_ion-engineer-icloud?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-13T16:17:06.859008"
+  "timestamp": "2026-05-13T16:34:18.146742"
 }

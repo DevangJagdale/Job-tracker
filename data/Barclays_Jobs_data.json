@@ -1,8 +1,18 @@
 {
   "page_title": "Search our Job Opportunities at Barclays",
   "url": "https://search.jobs.barclays/search-jobs/United%20States/13015/2/6252001/39x76/-98x5/50/2",
-  "total_jobs": 15,
+  "total_jobs": 16,
   "jobs": [
+    {
+      "title": "VP, Structured Derivative Private Banks Sales",
+      "url": "https://search.jobs.barclays/job/new-york/vp-structured-derivative-private-banks-sales/13015/95049999216",
+      "identifier": "VP, Structured Derivative Private Banks Sales_-banks-sales/13015/95049999216"
+    },
+    {
+      "title": "Third Party - Quality Assurance Analyst",
+      "url": "https://search.jobs.barclays/job/whippany/third-party-quality-assurance-analyst/13015/95049998976",
+      "identifier": "Third Party - Quality Assurance Analyst_ance-analyst/13015/95049998976"
+    },
     {
       "title": "Debt Capital Markets, Associate",
       "url": "https://search.jobs.barclays/job/new-york/debt-capital-markets-associate/13015/95023310336",
@@ -17,6 +27,11 @@
       "title": "Credit Risk Specialist - SRE",
       "url": "https://search.jobs.barclays/job/whippany/credit-risk-specialist-sre/13015/95010628432",
       "identifier": "Credit Risk Specialist - SRE_ecialist-sre/13015/95010628432"
+    },
+    {
+      "title": "Test Engineer",
+      "url": "https://search.jobs.barclays/job/whippany/test-engineer/13015/95010618048",
+      "identifier": "Test Engineer_est-engineer/13015/95010618048"
     },
     {
       "title": "Regulatory Reporting Lead, AVP",
@@ -67,18 +82,8 @@
       "title": "Application Security Specialist",
       "url": "https://search.jobs.barclays/job/whippany/application-security-specialist/13015/94984153920",
       "identifier": "Application Security Specialist_y-specialist/13015/94984153920"
-    },
-    {
-      "title": "Senior Risk & Pricing Technology Developer",
-      "url": "https://search.jobs.barclays/job/whippany/senior-risk-and-pricing-technology-developer/13015/94971578704",
-      "identifier": "Senior Risk & Pricing Technology Developer_gy-developer/13015/94971578704"
-    },
-    {
-      "title": "Equities Quantitative Analyst, AVP",
-      "url": "https://search.jobs.barclays/job/new-york/equities-quantitative-analyst-avp/13015/94971578464",
-      "identifier": "Equities Quantitative Analyst, AVP_-analyst-avp/13015/94971578464"
     }
   ],
-  "job_count_text": "125",
-  "timestamp": "2026-05-13T17:25:19.301696"
+  "job_count_text": "126",
+  "timestamp": "2026-05-13T17:42:37.629498"
 }

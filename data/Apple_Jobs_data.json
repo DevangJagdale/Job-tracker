@@ -4,6 +4,16 @@
   "total_jobs": 17,
   "jobs": [
     {
+      "title": "Software Engineer (Quality), Retail and Marcom Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200663090-3956/software-engineer-quality-retail-and-marcom-engineering?team=SFTWR",
+      "identifier": "Software Engineer (Quality), Retail and Marcom Eng_-marcom-engineering?team=SFTWR"
+    },
+    {
+      "title": "Software Development Engineer in Test, Retail and Marcom Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200663088-3956/software-development-engineer-in-test-retail-and-marcom-engineering?team=SFTWR",
+      "identifier": "Software Development Engineer in Test, Retail and _-marcom-engineering?team=SFTWR"
+    },
+    {
       "title": "Sr. / Staff ML Engineer, FM Training Integration - ML Compute",
       "url": "https://jobs.apple.com/en-us/details/200663109-3760/sr-staff-ml-engineer-fm-training-integration-ml-compute?team=MLAI",
       "identifier": "Sr. / Staff ML Engineer, FM Training Integration -_tegration-ml-compute?team=MLAI"
@@ -77,18 +87,8 @@
       "title": "Software Engineer, Enterprise & Education Frameworks, CoreOS",
       "url": "https://jobs.apple.com/en-us/details/200662185-3543/software-engineer-enterprise-education-frameworks-coreos?team=SFTWR",
       "identifier": "Software Engineer, Enterprise & Education Framewor_n-frameworks-coreos?team=SFTWR"
-    },
-    {
-      "title": "Senior Software Development Engineer in Test",
-      "url": "https://jobs.apple.com/en-us/details/200662968-0836/senior-software-development-engineer-in-test?team=SFTWR",
-      "identifier": "Senior Software Development Engineer in Test_nt-engineer-in-test?team=SFTWR"
-    },
-    {
-      "title": "iOS Engineer - Wallet",
-      "url": "https://jobs.apple.com/en-us/details/200662757-0836/ios-engineer-wallet?team=SFTWR",
-      "identifier": "iOS Engineer - Wallet_ios-engineer-wallet?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-13T18:00:24.677397"
+  "timestamp": "2026-05-13T18:17:38.053583"
 }

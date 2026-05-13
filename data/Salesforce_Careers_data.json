@@ -1,109 +1,14 @@
 {
   "page_title": "Salesforce Jobs | Salesforce Careers",
   "url": "https://careers.salesforce.com/en/jobs/?search=&country=United+States+of+America&team=Data&team=Enterprise+Technology+%26+Infrastructure&team=Software+Engineering&jobtype=New+Grads&pagesize=20#results",
-  "total_jobs": 20,
+  "total_jobs": 1,
   "jobs": [
     {
-      "title": "TW BDR",
-      "url": "https://careers.salesforce.com/en/jobs/jr338418/tw-bdr/",
-      "identifier": "TW BDR_e.com/en/jobs/jr338418/tw-bdr/"
-    },
-    {
-      "title": "Customer Marketing Specialist",
-      "url": "https://careers.salesforce.com/en/jobs/jr341573/customer-marketing-specialist/",
-      "identifier": "Customer Marketing Specialist_customer-marketing-specialist/"
-    },
-    {
-      "title": "Software Engineering SMTS",
-      "url": "https://careers.salesforce.com/en/jobs/jr340791/software-engineering-smts/",
-      "identifier": "Software Engineering SMTS_791/software-engineering-smts/"
-    },
-    {
-      "title": "Enterprise Account Executive, Mulesoft - Singapore",
-      "url": "https://careers.salesforce.com/en/jobs/jr341598/enterprise-account-executive-mulesoft-singapore/",
-      "identifier": "Enterprise Account Executive, Mulesoft - Singapore_-executive-mulesoft-singapore/"
-    },
-    {
-      "title": "Account Executive (TTH) - Travel, Transport and Hospitality",
-      "url": "https://careers.salesforce.com/en/jobs/jr341586/account-executive-tth-travel-transport-and-hospitality/",
-      "identifier": "Account Executive (TTH) - Travel, Transport and Ho_vel-transport-and-hospitality/"
-    },
-    {
-      "title": "Director Technical Consulting (Salesforce exp mandate)",
-      "url": "https://careers.salesforce.com/en/jobs/jr319349/director-technical-consulting-salesforce-exp-mandate/",
-      "identifier": "Director Technical Consulting (Salesforce exp mand_ulting-salesforce-exp-mandate/"
-    },
-    {
-      "title": "Named Account Executive",
-      "url": "https://careers.salesforce.com/en/jobs/jr326990/named-account-executive/",
-      "identifier": "Named Account Executive_26990/named-account-executive/"
-    },
-    {
-      "title": "Senior Director, Product Management",
-      "url": "https://careers.salesforce.com/en/jobs/jr340542/senior-director-product-management/",
-      "identifier": "Senior Director, Product Management_r-director-product-management/"
-    },
-    {
-      "title": "Salesforce Success Architect",
-      "url": "https://careers.salesforce.com/en/jobs/jr322959/salesforce-success-architect/",
-      "identifier": "Salesforce Success Architect_/salesforce-success-architect/"
-    },
-    {
-      "title": "Senior Manager, Treasury",
-      "url": "https://careers.salesforce.com/en/jobs/jr321578/senior-manager-treasury/",
-      "identifier": "Senior Manager, Treasury_21578/senior-manager-treasury/"
-    },
-    {
-      "title": "Financial Planning & Analysis Lead (Manager)",
-      "url": "https://careers.salesforce.com/en/jobs/jr341773/financial-planning-analysis-lead-manager/",
-      "identifier": "Financial Planning & Analysis Lead (Manager)_lanning-analysis-lead-manager/"
-    },
-    {
-      "title": "Real Estate Project Delivery Associate Manager",
-      "url": "https://careers.salesforce.com/en/jobs/jr339896/real-estate-project-delivery-associate-manager/",
-      "identifier": "Real Estate Project Delivery Associate Manager_ct-delivery-associate-manager/"
-    },
-    {
-      "title": "Specialist Account Executive, Agentforce Marketing \u2013 Austria",
-      "url": "https://careers.salesforce.com/en/jobs/jr341295/specialist-account-executive-agentforce-marketing-austria/",
-      "identifier": "Specialist Account Executive, Agentforce Marketing_-agentforce-marketing-austria/"
-    },
-    {
-      "title": "Talent Advisor, ASEAN",
-      "url": "https://careers.salesforce.com/en/jobs/jr339668/talent-advisor-asean/",
-      "identifier": "Talent Advisor, ASEAN_jr339668/talent-advisor-asean/"
-    },
-    {
-      "title": "Senior Account Executive Data Foundation - Finland",
-      "url": "https://careers.salesforce.com/en/jobs/jr325599/senior-account-executive-data-foundation-finland/",
-      "identifier": "Senior Account Executive Data Foundation - Finland_utive-data-foundation-finland/"
-    },
-    {
-      "title": "Agentforce Account Executive",
-      "url": "https://careers.salesforce.com/en/jobs/jr331663/agentforce-account-executive/",
-      "identifier": "Agentforce Account Executive_/agentforce-account-executive/"
-    },
-    {
-      "title": "Account Executive, Slack",
-      "url": "https://careers.salesforce.com/en/jobs/jr341581/account-executive-slack/",
-      "identifier": "Account Executive, Slack_41581/account-executive-slack/"
-    },
-    {
-      "title": "Business Development Representative, Singapore Market (MuleSoft)",
-      "url": "https://careers.salesforce.com/en/jobs/jr342406/business-development-representative-singapore-market-mulesoft/",
-      "identifier": "Business Development Representative, Singapore Mar_ive-singapore-market-mulesoft/"
-    },
-    {
-      "title": "Account Solution Engineer, Malaysia",
-      "url": "https://careers.salesforce.com/en/jobs/jr338168/account-solution-engineer-malaysia/",
-      "identifier": "Account Solution Engineer, Malaysia_nt-solution-engineer-malaysia/"
-    },
-    {
-      "title": "Mid Level/Senior/Lead Full Stack Engineer, Backend Oriented",
-      "url": "https://careers.salesforce.com/en/jobs/jr339975/mid-levelseniorlead-full-stack-engineer-backend-oriented/",
-      "identifier": "Mid Level/Senior/Lead Full Stack Engineer, Backend_ack-engineer-backend-oriented/"
+      "title": "AI Builder, Emerging Talent",
+      "url": "https://careers.salesforce.com/en/jobs/jr341276/ai-builder-emerging-talent/",
+      "identifier": "AI Builder, Emerging Talent_76/ai-builder-emerging-talent/"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-13T13:45:41.991199"
+  "timestamp": "2026-05-13T14:02:56.630798"
 }

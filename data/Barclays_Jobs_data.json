@@ -1,8 +1,23 @@
 {
   "page_title": "Search our Job Opportunities at Barclays",
   "url": "https://search.jobs.barclays/search-jobs/United%20States/13015/2/6252001/39x76/-98x5/50/2",
-  "total_jobs": 12,
+  "total_jobs": 15,
   "jobs": [
+    {
+      "title": "Debt Capital Markets, Associate",
+      "url": "https://search.jobs.barclays/job/new-york/debt-capital-markets-associate/13015/95023310336",
+      "identifier": "Debt Capital Markets, Associate_ts-associate/13015/95023310336"
+    },
+    {
+      "title": "Credit Risk Support Lead- SRE",
+      "url": "https://search.jobs.barclays/job/whippany/credit-risk-support-lead-sre/13015/95023295184",
+      "identifier": "Credit Risk Support Lead- SRE_ort-lead-sre/13015/95023295184"
+    },
+    {
+      "title": "Credit Risk Specialist - SRE",
+      "url": "https://search.jobs.barclays/job/whippany/credit-risk-specialist-sre/13015/95010628432",
+      "identifier": "Credit Risk Specialist - SRE_ecialist-sre/13015/95010628432"
+    },
     {
       "title": "Regulatory Reporting Lead, AVP",
       "url": "https://search.jobs.barclays/job/whippany/regulatory-reporting-lead-avp/13015/94984180480",
@@ -65,5 +80,5 @@
     }
   ],
   "job_count_text": "125",
-  "timestamp": "2026-05-13T11:34:01.642926"
+  "timestamp": "2026-05-13T11:51:03.926842"
 }

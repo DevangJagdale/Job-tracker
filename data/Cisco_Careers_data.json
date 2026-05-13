@@ -4,6 +4,16 @@
   "total_jobs": 10,
   "jobs": [
     {
+      "title": "Software Development Engineer II (Full Time) \u2013 United States",
+      "url": "https://careers.cisco.com/global/en/job/2014387/Software-Development-Engineer-II-Full-Time-United-States",
+      "identifier": "Software Development Engineer II (Full Time) \u2013 Uni_eer-II-Full-Time-United-States"
+    },
+    {
+      "title": "Software Engineer Full Stack & Application Development II (Full Time) \u2013 United States",
+      "url": "https://careers.cisco.com/global/en/job/2000127/Software-Engineer-Full-Stack-Application-Development-II-Full-Time-United-States",
+      "identifier": "Software Engineer Full Stack & Application Develop_ent-II-Full-Time-United-States"
+    },
+    {
       "title": "Software Engineer Backend/Platform Systems I (Full Time) \u2013 United States",
       "url": "https://careers.cisco.com/global/en/job/2000046/Software-Engineer-Backend-Platform-Systems-I-Full-Time-United-States",
       "identifier": "Software Engineer Backend/Platform Systems I (Full_tems-I-Full-Time-United-States"
@@ -24,11 +34,6 @@
       "identifier": "Software Engineer I (Full Time) \u2013 Devices Technolo_Technology-Group-United-States"
     },
     {
-      "title": "Sales Development Representative (Remote)",
-      "url": "https://careers.cisco.com/global/en/job/2006129/Sales-Development-Representative-Remote",
-      "identifier": "Sales Development Representative (Remote)_elopment-Representative-Remote"
-    },
-    {
       "title": "Strategy and Operations Manager MBA (Full Time) - United States",
       "url": "https://careers.cisco.com/global/en/job/2011072/Strategy-and-Operations-Manager-MBA-Full-Time-United-States",
       "identifier": "Strategy and Operations Manager MBA (Full Time) - _er-MBA-Full-Time-United-States"
@@ -47,13 +52,8 @@
       "title": "Sales Development Representative Outbound Sales II (Full Time) - United States",
       "url": "https://careers.cisco.com/global/en/job/2003091/Sales-Development-Representative-Outbound-Sales-II-Full-Time-United-States",
       "identifier": "Sales Development Representative Outbound Sales II_les-II-Full-Time-United-States"
-    },
-    {
-      "title": "Software Engineer Embedded/Network Systems III (Full-Time) - United States",
-      "url": "https://careers.cisco.com/global/en/job/2013783/Software-Engineer-Embedded-Network-Systems-III-Full-Time-United-States",
-      "identifier": "Software Engineer Embedded/Network Systems III (Fu_ms-III-Full-Time-United-States"
     }
   ],
   "job_count_text": "11",
-  "timestamp": "2026-05-13T12:27:31.958030"
+  "timestamp": "2026-05-13T12:44:40.022728"
 }

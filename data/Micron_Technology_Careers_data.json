@@ -4,9 +4,14 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Product Yield Enhancement (PYE) Engineer\nBoise, Idaho, United States of America\nPosted 2 days ago",
-      "url": "https://careers.micron.com/careers/job/41888675",
-      "identifier": "Product Yield Enhancement (PYE) Engineer\nBoise, Id_icron.com/careers/job/41888675"
+      "title": "Project Planning Engineer, Global Facilities\nManassas, Virginia, United States of America\nPosted 2 days ago",
+      "url": "https://careers.micron.com/careers/job/41862529",
+      "identifier": "Project Planning Engineer, Global Facilities\nManas_icron.com/careers/job/41862529"
+    },
+    {
+      "title": "Product Development Engineer\nBoise, Idaho, United States of America\nPosted 2 days ago",
+      "url": "https://careers.micron.com/careers/job/41907838",
+      "identifier": "Product Development Engineer\nBoise, Idaho, United _icron.com/careers/job/41907838"
     },
     {
       "title": "HBM Product Engineer\nRichardson, Texas, United States of America\nPosted 2 days ago",
@@ -19,9 +24,9 @@
       "identifier": "Semiconductor Design Engineer\nRichardson, Texas, U_icron.com/careers/job/41907830"
     },
     {
-      "title": "Product Development Engineer\nBoise, Idaho, United States of America\nPosted 2 days ago",
-      "url": "https://careers.micron.com/careers/job/41907838",
-      "identifier": "Product Development Engineer\nBoise, Idaho, United _icron.com/careers/job/41907838"
+      "title": "Manufacturing Engineer - ID1 CMP\nBoise, Idaho, United States of America\nPosted 2 days ago",
+      "url": "https://careers.micron.com/careers/job/41720174",
+      "identifier": "Manufacturing Engineer - ID1 CMP\nBoise, Idaho, Uni_icron.com/careers/job/41720174"
     },
     {
       "title": "Idaho US Expansion Program Manager\nBoise, Idaho, United States of America\nPosted 2 days ago",
@@ -29,14 +34,9 @@
       "identifier": "Idaho US Expansion Program Manager\nBoise, Idaho, U_icron.com/careers/job/41051353"
     },
     {
-      "title": "Project Planning Engineer, Global Facilities\nManassas, Virginia, United States of America\nPosted 2 days ago",
-      "url": "https://careers.micron.com/careers/job/41862529",
-      "identifier": "Project Planning Engineer, Global Facilities\nManas_icron.com/careers/job/41862529"
-    },
-    {
-      "title": "Manufacturing Engineer - ID1 CMP\nBoise, Idaho, United States of America\nPosted 2 days ago",
-      "url": "https://careers.micron.com/careers/job/41720174",
-      "identifier": "Manufacturing Engineer - ID1 CMP\nBoise, Idaho, Uni_icron.com/careers/job/41720174"
+      "title": "Product Yield Enhancement (PYE) Engineer\nBoise, Idaho, United States of America\nPosted 2 days ago",
+      "url": "https://careers.micron.com/careers/job/41888675",
+      "identifier": "Product Yield Enhancement (PYE) Engineer\nBoise, Id_icron.com/careers/job/41888675"
     },
     {
       "title": "Equipment Engineer\nBoise, Idaho, United States of America\nPosted 3 days ago",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "91",
-  "timestamp": "2026-05-13T12:53:48.384845"
+  "timestamp": "2026-05-13T13:11:00.685666"
 }

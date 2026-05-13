@@ -79,11 +79,6 @@
       "identifier": "jpmc_210725648"
     },
     {
-      "title": "Backend Software Engineer III",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210731454/?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
-      "identifier": "jpmc_210731454"
-    },
-    {
       "title": "Senior Lead Software Engineer - Full Stack Engineer",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210736777/?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
       "identifier": "jpmc_210736777"
@@ -127,8 +122,13 @@
       "title": "Quantitative Trading & Research - SPG - Vice President",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210735941/?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
       "identifier": "jpmc_210735941"
+    },
+    {
+      "title": "Machine Learning Scientist - Natural Language Processing (NLP) - Vice President - Machine Learning Center of Excellence",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210681337/?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
+      "identifier": "jpmc_210681337"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-13T12:52:35.322344"
+  "timestamp": "2026-05-13T13:09:46.219274"
 }

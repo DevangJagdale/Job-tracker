@@ -4,6 +4,11 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Site Reliability Engineer, Enterprise Technology Services",
+      "url": "https://jobs.apple.com/en-us/details/200662016-3956/site-reliability-engineer-enterprise-technology-services?team=SFTWR",
+      "identifier": "Site Reliability Engineer, Enterprise Technology S_technology-services?team=SFTWR"
+    },
+    {
       "title": "Technical Project Manager, Enterprise Technology Services",
       "url": "https://jobs.apple.com/en-us/details/200663160-3956/technical-project-manager-enterprise-technology-services?team=SFTWR",
       "identifier": "Technical Project Manager, Enterprise Technology S_technology-services?team=SFTWR"
@@ -77,13 +82,8 @@
       "title": "Director of Software Engineering - Security",
       "url": "https://jobs.apple.com/en-us/details/200663004-0836/director-of-software-engineering-security?team=SFTWR",
       "identifier": "Director of Software Engineering - Security_ngineering-security?team=SFTWR"
-    },
-    {
-      "title": "Software Security Engineer, Enterprise Technology Services",
-      "url": "https://jobs.apple.com/en-us/details/200661977-0157/software-security-engineer-enterprise-technology-services?team=SFTWR",
-      "identifier": "Software Security Engineer, Enterprise Technology _technology-services?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-13T21:33:17.058861"
+  "timestamp": "2026-05-13T21:50:20.316697"
 }

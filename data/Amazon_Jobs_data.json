@@ -9,6 +9,11 @@
       "identifier": "Full-time roles for graduates_tudent-programs/jobs-for-grads"
     },
     {
+      "title": "Software Development Engineer \u2013 Amazon Leo (US)",
+      "url": "https://www.amazon.jobs/jobs/3144341",
+      "identifier": "Software Development Engineer \u2013 Amazon Leo (US)_//www.amazon.jobs/jobs/3144341"
+    },
+    {
       "title": "Software Development Engineer, AWS Data Services - 2026 (US)",
       "url": "https://www.amazon.jobs/jobs/10414316",
       "identifier": "Software Development Engineer, AWS Data Services -_/www.amazon.jobs/jobs/10414316"
@@ -17,11 +22,6 @@
       "title": "Software Development Engineer - 2026 (US)",
       "url": "https://www.amazon.jobs/jobs/3177934",
       "identifier": "Software Development Engineer - 2026 (US)_//www.amazon.jobs/jobs/3177934"
-    },
-    {
-      "title": "Software Development Engineer \u2013 Amazon Leo (US)",
-      "url": "https://www.amazon.jobs/jobs/3144341",
-      "identifier": "Software Development Engineer \u2013 Amazon Leo (US)_//www.amazon.jobs/jobs/3144341"
     },
     {
       "title": "ASIC Engineer, Project Leo",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-13T21:37:57.564565"
+  "timestamp": "2026-05-13T21:55:01.020701"
 }

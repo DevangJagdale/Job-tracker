@@ -4,6 +4,11 @@
   "total_jobs": 17,
   "jobs": [
     {
+      "title": "Keyboard SWE",
+      "url": "https://jobs.apple.com/en-us/details/200663112-0836/keyboard-swe?team=SFTWR",
+      "identifier": "Keyboard SWE_2-0836/keyboard-swe?team=SFTWR"
+    },
+    {
       "title": "Software Engineer (Quality), Retail and Marcom Engineering",
       "url": "https://jobs.apple.com/en-us/details/200663090-3956/software-engineer-quality-retail-and-marcom-engineering?team=SFTWR",
       "identifier": "Software Engineer (Quality), Retail and Marcom Eng_-marcom-engineering?team=SFTWR"
@@ -82,13 +87,8 @@
       "title": "AIML - Staff ML Infrastructure Engineer, ML Platform & Technology - Pre-training Infrastructure",
       "url": "https://jobs.apple.com/en-us/details/200662426-3401/aiml-staff-ml-infrastructure-engineer-ml-platform-technology-pre-training-infrastructure?team=SFTWR",
       "identifier": "AIML - Staff ML Infrastructure Engineer, ML Platfo_ning-infrastructure?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer, Enterprise & Education Frameworks, CoreOS",
-      "url": "https://jobs.apple.com/en-us/details/200662185-3543/software-engineer-enterprise-education-frameworks-coreos?team=SFTWR",
-      "identifier": "Software Engineer, Enterprise & Education Framewor_n-frameworks-coreos?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-13T18:17:38.053583"
+  "timestamp": "2026-05-13T18:25:21.501169"
 }

@@ -1,10 +1,15 @@
 {
   "page_title": "| Microsoft Careers",
   "url": "https://apply.careers.microsoft.com/careers?domain=microsoft.com&start=0&location=United+States&sort_by=timestamp&filter_include_remote=1&filter_profession=software+engineering%2Cresearch%252C%2520applied%252C%2520%2526%2520data%2520sciences",
-  "total_jobs": 9,
+  "total_jobs": 10,
   "jobs": [
     {
-      "title": "Software Engineer II - BIC Foundations\nUnited States, Washington, Redmond\nPosted 25 minutes ago",
+      "title": "Senior Software Engineer - Surface Post-Launch Engineering\nUnited States, Washington, Redmond\nPosted 9 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556819794?domain=microsoft.com",
+      "identifier": "Senior Software Engineer - Surface Post-Launch Eng_556819794?domain=microsoft.com"
+    },
+    {
+      "title": "Software Engineer II - BIC Foundations\nUnited States, Washington, Redmond\nPosted 42 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556756098?domain=microsoft.com",
       "identifier": "Software Engineer II - BIC Foundations\nUnited Stat_556756098?domain=microsoft.com"
     },
@@ -19,17 +24,17 @@
       "identifier": "Principal Software Engineer (Architect)\nUnited Sta_556861640?domain=microsoft.com"
     },
     {
-      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 2 hours ago",
+      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 3 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556863443?domain=microsoft.com",
       "identifier": "Software Engineer II\nUnited States, Washington, Re_556863443?domain=microsoft.com"
     },
     {
-      "title": "Applied Scientist II\nUnited States, Washington, Redmond\nPosted 4 hours ago",
+      "title": "Applied Scientist II\nUnited States, Washington, Redmond\nPosted 5 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556621351?domain=microsoft.com",
       "identifier": "Applied Scientist II\nUnited States, Washington, Re_556621351?domain=microsoft.com"
     },
     {
-      "title": "Sr. Software Engineer - Distributed Systems\nUnited States, Washington, Redmond\nPosted 4 hours ago",
+      "title": "Sr. Software Engineer - Distributed Systems\nUnited States, Washington, Redmond\nPosted 5 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556864746?domain=microsoft.com",
       "identifier": "Sr. Software Engineer - Distributed Systems\nUnited_556864746?domain=microsoft.com"
     },
@@ -39,7 +44,7 @@
       "identifier": "Senior Software Engineer\nUnited States, Washington_556851579?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 5 hours ago",
+      "title": "Senior Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 6 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556861873?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Multiple L_556861873?domain=microsoft.com"
     },
@@ -49,6 +54,6 @@
       "identifier": "Principal Software Engineer - Performance Tooling\n_556853718?domain=microsoft.com"
     }
   ],
-  "job_count_text": "492",
-  "timestamp": "2026-05-13T00:29:46.386337"
+  "job_count_text": "493",
+  "timestamp": "2026-05-13T00:46:57.513879"
 }

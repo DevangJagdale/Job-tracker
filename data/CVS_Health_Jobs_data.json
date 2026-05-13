@@ -4,14 +4,19 @@
   "total_jobs": 8,
   "jobs": [
     {
-      "title": "Senior Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0911332/Senior-Software-Development-Engineer",
-      "identifier": "Senior Software Development Engineer_-Software-Development-Engineer"
+      "title": "ServiceNow Risk Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0862141/ServiceNow-Risk-Engineer",
+      "identifier": "ServiceNow Risk Engineer_62141/ServiceNow-Risk-Engineer"
     },
     {
       "title": "Senior BackEnd Engineer",
       "url": "https://jobs.cvshealth.com/us/en/job/R0861508/Senior-BackEnd-Engineer",
       "identifier": "Senior BackEnd Engineer_861508/Senior-BackEnd-Engineer"
+    },
+    {
+      "title": "Senior Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0911332/Senior-Software-Development-Engineer",
+      "identifier": "Senior Software Development Engineer_-Software-Development-Engineer"
     },
     {
       "title": "Lead Director - Software Development Engineering",
@@ -29,11 +34,6 @@
       "identifier": "Executive Director, Adjudication Data Services_tor-Adjudication-Data-Services"
     },
     {
-      "title": "ServiceNow Risk Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0862141/ServiceNow-Risk-Engineer",
-      "identifier": "ServiceNow Risk Engineer_62141/ServiceNow-Risk-Engineer"
-    },
-    {
       "title": "Manager, Business Analysis",
       "url": "https://jobs.cvshealth.com/us/en/job/R0902210/Manager-Business-Analysis",
       "identifier": "Manager, Business Analysis_2210/Manager-Business-Analysis"
@@ -45,5 +45,5 @@
     }
   ],
   "job_count_text": "46",
-  "timestamp": "2026-05-13T05:46:36.046401"
+  "timestamp": "2026-05-13T06:03:38.434397"
 }

@@ -4,6 +4,11 @@
   "total_jobs": 14,
   "jobs": [
     {
+      "title": "Software Security Engineer, Enterprise Technology Services",
+      "url": "https://jobs.apple.com/en-us/details/200661977-0157/software-security-engineer-enterprise-technology-services?team=SFTWR",
+      "identifier": "Software Security Engineer, Enterprise Technology _technology-services?team=SFTWR"
+    },
+    {
       "title": "Applied Networking Quality Engineer",
       "url": "https://jobs.apple.com/en-us/details/200662980-0836/applied-networking-quality-engineer?team=SFTWR",
       "identifier": "Applied Networking Quality Engineer_ng-quality-engineer?team=SFTWR"
@@ -67,13 +72,8 @@
       "title": "Principal ML Software Engineer, Creativity Apps",
       "url": "https://jobs.apple.com/en-us/details/200661897-0836/principal-ml-software-engineer-creativity-apps?team=SFTWR",
       "identifier": "Principal ML Software Engineer, Creativity Apps_eer-creativity-apps?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer (iOS & Gen AI), Sales Engineering",
-      "url": "https://jobs.apple.com/en-us/details/200648085-3401/software-engineer-ios-gen-ai-sales-engineering?team=SFTWR",
-      "identifier": "Software Engineer (iOS & Gen AI), Sales Engineerin_i-sales-engineering?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-13T03:46:09.817515"
+  "timestamp": "2026-05-13T04:03:15.884363"
 }

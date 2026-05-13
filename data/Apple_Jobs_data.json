@@ -4,6 +4,11 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Senior Software Engineer - Distributed Systems",
+      "url": "https://jobs.apple.com/en-us/details/200663087-1435/senior-software-engineer-distributed-systems?team=SFTWR",
+      "identifier": "Senior Software Engineer - Distributed Systems_distributed-systems?team=SFTWR"
+    },
+    {
       "title": "Software Engineer - Capture, Vision Products Software",
       "url": "https://jobs.apple.com/en-us/details/200663107-3401/software-engineer-capture-vision-products-software?team=SFTWR",
       "identifier": "Software Engineer - Capture, Vision Products Softw_n-products-software?team=SFTWR"
@@ -77,13 +82,8 @@
       "title": "Applied Networking Quality Engineer",
       "url": "https://jobs.apple.com/en-us/details/200662980-0836/applied-networking-quality-engineer?team=SFTWR",
       "identifier": "Applied Networking Quality Engineer_ng-quality-engineer?team=SFTWR"
-    },
-    {
-      "title": "Sr. Software Engineer, Podcasts Team",
-      "url": "https://jobs.apple.com/en-us/details/200660354-3577/sr-software-engineer-podcasts-team?team=SFTWR",
-      "identifier": "Sr. Software Engineer, Podcasts Team_ineer-podcasts-team?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-13T19:16:42.260225"
+  "timestamp": "2026-05-13T19:33:49.112128"
 }

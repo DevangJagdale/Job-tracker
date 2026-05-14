@@ -4,14 +4,14 @@
   "total_jobs": 10,
   "jobs": [
     {
+      "title": "Supply Management Analyst\nBoise, Idaho, United States of America\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/41482847",
+      "identifier": "Supply Management Analyst\nBoise, Idaho, United Sta_icron.com/careers/job/41482847"
+    },
+    {
       "title": "New College Grad - Metrology Applications Engineer\nManassas, Virginia, United States of America\nPosted 2 days ago",
       "url": "https://careers.micron.com/careers/job/40100239",
       "identifier": "New College Grad - Metrology Applications Engineer_icron.com/careers/job/40100239"
-    },
-    {
-      "title": "US Expansion Layout Engineer\nBoise, Idaho, United States of America\nPosted 2 days ago",
-      "url": "https://careers.micron.com/careers/job/41229761",
-      "identifier": "US Expansion Layout Engineer\nBoise, Idaho, United _icron.com/careers/job/41229761"
     },
     {
       "title": "New College Grad - Photolithography Process Engineer\nBoise, Idaho, United States of America\nPosted 2 days ago",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "92",
-  "timestamp": "2026-05-14T21:46:27.951086"
+  "timestamp": "2026-05-14T22:03:21.930627"
 }

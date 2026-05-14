@@ -1,8 +1,28 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 11,
+  "total_jobs": 15,
   "jobs": [
+    {
+      "title": "Software Engineer, Triage Intelligence and Debug Engineering, CoreOS",
+      "url": "https://jobs.apple.com/en-us/details/200663192-0836/software-engineer-triage-intelligence-and-debug-engineering-coreos?team=SFTWR",
+      "identifier": "Software Engineer, Triage Intelligence and Debug E_-engineering-coreos?team=SFTWR"
+    },
+    {
+      "title": "Software Engineer, Device Management, CoreOS",
+      "url": "https://jobs.apple.com/en-us/details/200663201-0836/software-engineer-device-management-coreos?team=SFTWR",
+      "identifier": "Software Engineer, Device Management, CoreOS_e-management-coreos?team=SFTWR"
+    },
+    {
+      "title": "Senior UI and Full-Stack Software Engineer - Special Projects",
+      "url": "https://jobs.apple.com/en-us/details/200663347-0836/senior-ui-and-full-stack-software-engineer-special-projects?team=SFTWR",
+      "identifier": "Senior UI and Full-Stack Software Engineer - Speci_er-special-projects?team=SFTWR"
+    },
+    {
+      "title": "Software Engineering Manager \u2013 Apple OS Agentic Infrastructure",
+      "url": "https://jobs.apple.com/en-us/details/200663124-0836/software-engineering-manager-apple-os-agentic-infrastructure?team=SFTWR",
+      "identifier": "Software Engineering Manager \u2013 Apple OS Agentic In_ntic-infrastructure?team=SFTWR"
+    },
     {
       "title": "Senior Security Engineer - Red Team",
       "url": "https://jobs.apple.com/en-us/details/200654480-3337/senior-security-engineer-red-team?team=SFTWR",
@@ -60,5 +80,5 @@
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-14T18:54:19.484621"
+  "timestamp": "2026-05-14T19:11:11.683442"
 }

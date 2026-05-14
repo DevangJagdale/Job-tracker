@@ -4,19 +4,9 @@
   "total_jobs": 8,
   "jobs": [
     {
-      "title": "Senior Manager, Software Engineering \u2013 Agentic AI & Messaging Platforms",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0911156/Senior-Manager-Software-Engineering-Agentic-AI-Messaging-Platforms",
-      "identifier": "Senior Manager, Software Engineering \u2013 Agentic AI _Agentic-AI-Messaging-Platforms"
-    },
-    {
       "title": "Senior Software Development Engineer \u2013 Agentic AI & Messaging Platforms",
       "url": "https://jobs.cvshealth.com/us/en/job/R0911183/Senior-Software-Development-Engineer-Agentic-AI-Messaging-Platforms",
       "identifier": "Senior Software Development Engineer \u2013 Agentic AI _Agentic-AI-Messaging-Platforms"
-    },
-    {
-      "title": "Senior BackEnd Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0861508/Senior-BackEnd-Engineer",
-      "identifier": "Senior BackEnd Engineer_861508/Senior-BackEnd-Engineer"
     },
     {
       "title": "Field Technician",
@@ -24,9 +14,9 @@
       "identifier": "Field Technician_/job/R0893632/Field-Technician"
     },
     {
-      "title": "Lead Director, Site Reliability Engineering - Client Experience",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0902192/Lead-Director-Site-Reliability-Engineering-Client-Experience",
-      "identifier": "Lead Director, Site Reliability Engineering - Clie_-Engineering-Client-Experience"
+      "title": "Senior BackEnd Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0861508/Senior-BackEnd-Engineer",
+      "identifier": "Senior BackEnd Engineer_861508/Senior-BackEnd-Engineer"
     },
     {
       "title": "Senior Web Developer",
@@ -34,16 +24,26 @@
       "identifier": "Senior Web Developer_/R0879151/Senior-Web-Developer"
     },
     {
+      "title": "Senior Manager, Software Engineering \u2013 Agentic AI & Messaging Platforms",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0911156/Senior-Manager-Software-Engineering-Agentic-AI-Messaging-Platforms",
+      "identifier": "Senior Manager, Software Engineering \u2013 Agentic AI _Agentic-AI-Messaging-Platforms"
+    },
+    {
+      "title": "Lead Director, Site Reliability Engineering - Client Experience",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0902192/Lead-Director-Site-Reliability-Engineering-Client-Experience",
+      "identifier": "Lead Director, Site Reliability Engineering - Clie_-Engineering-Client-Experience"
+    },
+    {
       "title": "Lead Director - Portfolio and Program Delivery",
       "url": "https://jobs.cvshealth.com/us/en/job/R0910627/Lead-Director-Portfolio-and-Program-Delivery",
       "identifier": "Lead Director - Portfolio and Program Delivery_Portfolio-and-Program-Delivery"
     },
     {
-      "title": "Lead Director \u2013 Software Development Engineering (AI & Automation)",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0843277/Lead-Director-Software-Development-Engineering-AI-Automation",
-      "identifier": "Lead Director \u2013 Software Development Engineering (_ment-Engineering-AI-Automation"
+      "title": "Senior Analyst, Digital Operations",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0903783/Senior-Analyst-Digital-Operations",
+      "identifier": "Senior Analyst, Digital Operations_ior-Analyst-Digital-Operations"
     }
   ],
   "job_count_text": "44",
-  "timestamp": "2026-05-14T17:47:45.480486"
+  "timestamp": "2026-05-14T18:04:42.688609"
 }

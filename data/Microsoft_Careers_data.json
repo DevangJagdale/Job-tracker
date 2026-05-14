@@ -4,7 +4,12 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Senior Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 8 minutes ago",
+      "title": "Principal Software Engineer\nUnited States, California, Mountain View\nPosted 5 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556619480?domain=microsoft.com",
+      "identifier": "Principal Software Engineer\nUnited States, Califor_556619480?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 25 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556863506?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Multiple L_556863506?domain=microsoft.com"
     },
@@ -39,7 +44,7 @@
       "identifier": "Sr. Software Engineer - Azure Storage\nUnited State_556849534?domain=microsoft.com"
     },
     {
-      "title": "Back-End Software Engineer II\nUnited States, Washington, Redmond\nPosted 19 hours ago",
+      "title": "Back-End Software Engineer II\nUnited States, Washington, Redmond\nPosted 20 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556859034?domain=microsoft.com",
       "identifier": "Back-End Software Engineer II\nUnited States, Washi_556859034?domain=microsoft.com"
     },
@@ -47,13 +52,8 @@
       "title": "Software Engineer 2\nUnited States, Washington, Redmond\nPosted 20 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556749568?domain=microsoft.com",
       "identifier": "Software Engineer 2\nUnited States, Washington, Red_556749568?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 20 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556864381?domain=microsoft.com",
-      "identifier": "Senior Software Engineer\nUnited States, Washington_556864381?domain=microsoft.com"
     }
   ],
-  "job_count_text": "485",
-  "timestamp": "2026-05-14T14:30:07.885206"
+  "job_count_text": "486",
+  "timestamp": "2026-05-14T14:47:07.498400"
 }

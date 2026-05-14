@@ -1,8 +1,33 @@
 {
   "page_title": "Search our Job Opportunities at Barclays",
   "url": "https://search.jobs.barclays/search-jobs/United%20States/13015/2/6252001/39x76/-98x5/50/2",
-  "total_jobs": 13,
+  "total_jobs": 16,
   "jobs": [
+    {
+      "title": "Head of Banking Data, AI and Analytics Platform",
+      "url": "https://search.jobs.barclays/job/whippany/head-of-banking-data-ai-and-analytics-platform/13015/95078421648",
+      "identifier": "Head of Banking Data, AI and Analytics Platform_ics-platform/13015/95078421648"
+    },
+    {
+      "title": "Head of Banking AI Platform",
+      "url": "https://search.jobs.barclays/job/whippany/head-of-banking-ai-platform/13015/95078420624",
+      "identifier": "Head of Banking AI Platform_-ai-platform/13015/95078420624"
+    },
+    {
+      "title": "Quality Engineer",
+      "url": "https://search.jobs.barclays/job/whippany/quality-engineer/13015/95070782544",
+      "identifier": "Quality Engineer_ity-engineer/13015/95070782544"
+    },
+    {
+      "title": "Senior Analyst Transaction Monitoring Detection & Optimization",
+      "url": "https://search.jobs.barclays/job/new-york/senior-analyst-transaction-monitoring-detection-and-optimization/13015/95070777200",
+      "identifier": "Senior Analyst Transaction Monitoring Detection & _optimization/13015/95070777200"
+    },
+    {
+      "title": "VP Transaction Monitoring Detection & Optimization",
+      "url": "https://search.jobs.barclays/job/new-york/vp-transaction-monitoring-detection-and-optimization/13015/95070777168",
+      "identifier": "VP Transaction Monitoring Detection & Optimization_optimization/13015/95070777168"
+    },
     {
       "title": "VP, Structured Derivative Private Banks Sales",
       "url": "https://search.jobs.barclays/job/new-york/vp-structured-derivative-private-banks-sales/13015/95049999216",
@@ -57,18 +82,8 @@
       "title": "Market Risk Analyst-SRE",
       "url": "https://search.jobs.barclays/job/whippany/market-risk-analyst-sre/13015/94984158752",
       "identifier": "Market Risk Analyst-SRE_-analyst-sre/13015/94984158752"
-    },
-    {
-      "title": "Credit Risk Specialist - SRE",
-      "url": "https://search.jobs.barclays/job/whippany/credit-risk-specialist-sre/13015/94984158624",
-      "identifier": "Credit Risk Specialist - SRE_ecialist-sre/13015/94984158624"
-    },
-    {
-      "title": "Wholesale Credit Risk Analyst-SRE",
-      "url": "https://search.jobs.barclays/job/whippany/wholesale-credit-risk-analyst-sre/13015/94984158544",
-      "identifier": "Wholesale Credit Risk Analyst-SRE_-analyst-sre/13015/94984158544"
     }
   ],
-  "job_count_text": "126",
-  "timestamp": "2026-05-14T11:39:09.902500"
+  "job_count_text": "128",
+  "timestamp": "2026-05-14T11:56:20.117528"
 }

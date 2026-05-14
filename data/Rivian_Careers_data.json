@@ -34,14 +34,14 @@
       "identifier": "Operations Coordinator, Autonomy Systems Validatio_ang=en-us&previousLocale=en-US"
     },
     {
-      "title": "Sr. Engineering Technician II",
-      "url": "https://careers.rivian.com/careers-home/jobs/31019?lang=en-us&previousLocale=en-US",
-      "identifier": "Sr. Engineering Technician II_ang=en-us&previousLocale=en-US"
-    },
-    {
       "title": "Sr. IT Wireless Network Engineer",
       "url": "https://careers.rivian.com/careers-home/jobs/24321?lang=en-us&previousLocale=en-US",
       "identifier": "Sr. IT Wireless Network Engineer_ang=en-us&previousLocale=en-US"
+    },
+    {
+      "title": "Sr. Engineering Technician II",
+      "url": "https://careers.rivian.com/careers-home/jobs/31019?lang=en-us&previousLocale=en-US",
+      "identifier": "Sr. Engineering Technician II_ang=en-us&previousLocale=en-US"
     },
     {
       "title": "Senior Full Stack Software Engineer, Communications Platform",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "40",
-  "timestamp": "2026-05-14T18:09:27.270584"
+  "timestamp": "2026-05-14T18:26:18.816100"
 }

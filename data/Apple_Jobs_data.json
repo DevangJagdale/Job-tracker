@@ -4,6 +4,16 @@
   "total_jobs": 11,
   "jobs": [
     {
+      "title": "Core Audio Software Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200661515-3543/core-audio-software-engineer?team=SFTWR",
+      "identifier": "Core Audio Software Engineer_o-software-engineer?team=SFTWR"
+    },
+    {
+      "title": "Software Performance Engineer for Memory, CoreOS",
+      "url": "https://jobs.apple.com/en-us/details/200661974-0836/software-performance-engineer-for-memory-coreos?team=SFTWR",
+      "identifier": "Software Performance Engineer for Memory, CoreOS_r-for-memory-coreos?team=SFTWR"
+    },
+    {
       "title": "Quality & Test Automation Engineer \u2013 Xcode",
       "url": "https://jobs.apple.com/en-us/details/200654816-0836/quality-test-automation-engineer-xcode?team=SFTWR",
       "identifier": "Quality & Test Automation Engineer \u2013 Xcode_tion-engineer-xcode?team=SFTWR"
@@ -47,18 +57,8 @@
       "title": "Systems Software Engineer",
       "url": "https://jobs.apple.com/en-us/details/200663092-3543/systems-software-engineer?team=SFTWR",
       "identifier": "Systems Software Engineer_s-software-engineer?team=SFTWR"
-    },
-    {
-      "title": "Embedded Software Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200662979-0157/embedded-software-engineer?team=SFTWR",
-      "identifier": "Embedded Software Engineer_d-software-engineer?team=SFTWR"
-    },
-    {
-      "title": "OS Kernel Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200663229-0836/os-kernel-engineer?team=SFTWR",
-      "identifier": "OS Kernel Engineer_/os-kernel-engineer?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-14T18:03:43.388642"
+  "timestamp": "2026-05-14T18:20:33.078429"
 }

@@ -4,6 +4,11 @@
   "total_jobs": 10,
   "jobs": [
     {
+      "title": "Customer Experience Project Specialist I (Full-Time) - United States",
+      "url": "https://careers.cisco.com/global/en/job/2001576/Customer-Experience-Project-Specialist-I-Full-Time-United-States",
+      "identifier": "Customer Experience Project Specialist I (Full-Tim_list-I-Full-Time-United-States"
+    },
+    {
       "title": "Strategy & Planning Manager III (Full Time) - United States",
       "url": "https://careers.cisco.com/global/en/job/2013396/Strategy-Planning-Manager-III-Full-Time-United-States",
       "identifier": "Strategy & Planning Manager III (Full Time) - Unit_er-III-Full-Time-United-States"
@@ -47,13 +52,8 @@
       "title": "Sales Development Representative I (Full Time) - United States (Virtual Demand Center)",
       "url": "https://careers.cisco.com/global/en/job/2005272/Sales-Development-Representative-I-Full-Time-United-States-Virtual-Demand-Center",
       "identifier": "Sales Development Representative I (Full Time) - U_d-States-Virtual-Demand-Center"
-    },
-    {
-      "title": "Sales Development Representative Outbound Sales II (Full Time) - United States",
-      "url": "https://careers.cisco.com/global/en/job/2003091/Sales-Development-Representative-Outbound-Sales-II-Full-Time-United-States",
-      "identifier": "Sales Development Representative Outbound Sales II_les-II-Full-Time-United-States"
     }
   ],
-  "job_count_text": "11",
-  "timestamp": "2026-05-14T14:15:07.628102"
+  "job_count_text": "12",
+  "timestamp": "2026-05-14T14:32:06.483178"
 }

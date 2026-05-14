@@ -4,6 +4,11 @@
   "total_jobs": 17,
   "jobs": [
     {
+      "title": "Swift Compiler Engineering Manager, Languages & Runtimes",
+      "url": "https://jobs.apple.com/en-us/details/200663404-0836/swift-compiler-engineering-manager-languages-runtimes?team=SFTWR",
+      "identifier": "Swift Compiler Engineering Manager, Languages & Ru_-languages-runtimes?team=SFTWR"
+    },
+    {
       "title": "Manager, Product Management - AI & Data Platforms",
       "url": "https://jobs.apple.com/en-us/details/200662445-3956/manager-product-management-ai-data-platforms?team=SFTWR",
       "identifier": "Manager, Product Management - AI & Data Platforms_t-ai-data-platforms?team=SFTWR"
@@ -82,13 +87,8 @@
       "title": "Program Manager, Apple Health",
       "url": "https://jobs.apple.com/en-us/details/200663223-0836/program-manager-apple-health?team=SFTWR",
       "identifier": "Program Manager, Apple Health_anager-apple-health?team=SFTWR"
-    },
-    {
-      "title": "Backend Software Engineer, Creativity Apps",
-      "url": "https://jobs.apple.com/en-us/details/200663197-0836/backend-software-engineer-creativity-apps?team=SFTWR",
-      "identifier": "Backend Software Engineer, Creativity Apps_eer-creativity-apps?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-14T23:32:34.135783"
+  "timestamp": "2026-05-14T23:49:32.748557"
 }

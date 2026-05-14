@@ -1,8 +1,18 @@
 {
   "page_title": "Search our Job Opportunities at Barclays",
   "url": "https://search.jobs.barclays/search-jobs/United%20States/13015/2/6252001/39x76/-98x5/50/2",
-  "total_jobs": 14,
+  "total_jobs": 8,
   "jobs": [
+    {
+      "title": "M&A Business Manager AVP",
+      "url": "https://search.jobs.barclays/job/new-york/m-and-a-business-manager-avp/13015/95091012656",
+      "identifier": "M&A Business Manager AVP_-manager-avp/13015/95091012656"
+    },
+    {
+      "title": "Cash and Payments Sales Specialist - Financial Institutions and Non-Bank Financial Institutions, VP",
+      "url": "https://search.jobs.barclays/job/new-york/cash-and-payments-sales-specialist-financial-institutions-and-non-bank-financial-institutions-vp/13015/95091011136",
+      "identifier": "Cash and Payments Sales Specialist - Financial Ins_titutions-vp/13015/95091011136"
+    },
     {
       "title": "ICBA Coverage Insurance, Analyst",
       "url": "https://search.jobs.barclays/job/new-york/icba-coverage-insurance-analyst/13015/95091009488",
@@ -32,48 +42,8 @@
       "title": "VP Transaction Monitoring Detection & Optimization",
       "url": "https://search.jobs.barclays/job/new-york/vp-transaction-monitoring-detection-and-optimization/13015/95070777168",
       "identifier": "VP Transaction Monitoring Detection & Optimization_optimization/13015/95070777168"
-    },
-    {
-      "title": "VP, Structured Derivative Private Banks Sales",
-      "url": "https://search.jobs.barclays/job/new-york/vp-structured-derivative-private-banks-sales/13015/95049999216",
-      "identifier": "VP, Structured Derivative Private Banks Sales_-banks-sales/13015/95049999216"
-    },
-    {
-      "title": "Debt Capital Markets, Associate",
-      "url": "https://search.jobs.barclays/job/new-york/debt-capital-markets-associate/13015/95023310336",
-      "identifier": "Debt Capital Markets, Associate_ts-associate/13015/95023310336"
-    },
-    {
-      "title": "Credit Risk Support Lead- SRE",
-      "url": "https://search.jobs.barclays/job/whippany/credit-risk-support-lead-sre/13015/95023295184",
-      "identifier": "Credit Risk Support Lead- SRE_ort-lead-sre/13015/95023295184"
-    },
-    {
-      "title": "Credit Risk Specialist - SRE",
-      "url": "https://search.jobs.barclays/job/whippany/credit-risk-specialist-sre/13015/95010628432",
-      "identifier": "Credit Risk Specialist - SRE_ecialist-sre/13015/95010628432"
-    },
-    {
-      "title": "Regulatory Reporting Lead, AVP",
-      "url": "https://search.jobs.barclays/job/whippany/regulatory-reporting-lead-avp/13015/94984180480",
-      "identifier": "Regulatory Reporting Lead, AVP_ing-lead-avp/13015/94984180480"
-    },
-    {
-      "title": "Assistant VP - Global Markets",
-      "url": "https://search.jobs.barclays/job/new-york/assistant-vp-global-markets/13015/94984180416",
-      "identifier": "Assistant VP - Global Markets_obal-markets/13015/94984180416"
-    },
-    {
-      "title": "Quant Analyst, AVP",
-      "url": "https://search.jobs.barclays/job/new-york/quant-analyst-avp/13015/94984180368",
-      "identifier": "Quant Analyst, AVP_-analyst-avp/13015/94984180368"
-    },
-    {
-      "title": "Vice President, Capital Markets Advisory Lawyer",
-      "url": "https://search.jobs.barclays/job/new-york/vice-president-capital-markets-advisory-lawyer/13015/94984169440",
-      "identifier": "Vice President, Capital Markets Advisory Lawyer_isory-lawyer/13015/94984169440"
     }
   ],
-  "job_count_text": "132",
-  "timestamp": "2026-05-14T23:32:01.356039"
+  "job_count_text": "138",
+  "timestamp": "2026-05-14T23:48:59.815237"
 }

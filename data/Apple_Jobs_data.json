@@ -1,8 +1,18 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 16,
+  "total_jobs": 17,
   "jobs": [
+    {
+      "title": "OS Kernel Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200663229-0836/os-kernel-engineer?team=SFTWR",
+      "identifier": "OS Kernel Engineer_/os-kernel-engineer?team=SFTWR"
+    },
+    {
+      "title": "Software Engineer (Enablon), G&A Solutions Engineering (GSE)",
+      "url": "https://jobs.apple.com/en-us/details/200663195-0157/software-engineer-enablon-g-a-solutions-engineering-gse?team=SFTWR",
+      "identifier": "Software Engineer (Enablon), G&A Solutions Enginee_ons-engineering-gse?team=SFTWR"
+    },
     {
       "title": "Modem Software Power Engineer, Wireless Technologies & Ecosystems",
       "url": "https://jobs.apple.com/en-us/details/200662972-3956/modem-software-power-engineer-wireless-technologies-ecosystems?team=SFTWR",
@@ -77,13 +87,8 @@
       "title": "Health Software - iOS Engineer",
       "url": "https://jobs.apple.com/en-us/details/200662663-3543/health-software-ios-engineer?team=SFTWR",
       "identifier": "Health Software - iOS Engineer_ftware-ios-engineer?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer, watchOS Widgets & Live Activities - Watch Software",
-      "url": "https://jobs.apple.com/en-us/details/200663072-0836/software-engineer-watchos-widgets-live-activities-watch-software?team=SFTWR",
-      "identifier": "Software Engineer, watchOS Widgets & Live Activiti_ties-watch-software?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-14T00:32:21.918341"
+  "timestamp": "2026-05-14T00:49:31.874443"
 }

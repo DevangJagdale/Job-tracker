@@ -4,6 +4,11 @@
   "total_jobs": 15,
   "jobs": [
     {
+      "title": "Software Development Engineer - Test, Graphics, Games & ML",
+      "url": "https://jobs.apple.com/en-us/details/200663359-3337/software-development-engineer-test-graphics-games-ml?team=SFTWR",
+      "identifier": "Software Development Engineer - Test, Graphics, Ga_t-graphics-games-ml?team=SFTWR"
+    },
+    {
       "title": "Software Engineer, Triage Intelligence and Debug Engineering, CoreOS",
       "url": "https://jobs.apple.com/en-us/details/200663192-0836/software-engineer-triage-intelligence-and-debug-engineering-coreos?team=SFTWR",
       "identifier": "Software Engineer, Triage Intelligence and Debug E_-engineering-coreos?team=SFTWR"
@@ -72,13 +77,8 @@
       "title": "Senior Data Scientist, Marketing Analytics",
       "url": "https://jobs.apple.com/en-us/details/200661963-0836/senior-data-scientist-marketing-analytics?team=OPMFG",
       "identifier": "Senior Data Scientist, Marketing Analytics_marketing-analytics?team=OPMFG"
-    },
-    {
-      "title": "Engineering Program Manager, Data Center Operations",
-      "url": "https://jobs.apple.com/en-us/details/200636333-1336/engineering-program-manager-data-center-operations?team=SFTWR",
-      "identifier": "Engineering Program Manager, Data Center Operation_a-center-operations?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-14T19:11:11.683442"
+  "timestamp": "2026-05-14T19:28:03.587109"
 }

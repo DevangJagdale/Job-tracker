@@ -1,8 +1,18 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 14,
+  "total_jobs": 15,
   "jobs": [
+    {
+      "title": "Java Server Engineer-ASE",
+      "url": "https://jobs.apple.com/en-us/details/200663246-3543/java-server-engineer-ase?team=SFTWR",
+      "identifier": "Java Server Engineer-ASE_server-engineer-ase?team=SFTWR"
+    },
+    {
+      "title": "Front End SW Engineer - iOS / Web - iCloud",
+      "url": "https://jobs.apple.com/en-us/details/200663247-3543/front-end-sw-engineer-ios-web-icloud?team=SFTWR",
+      "identifier": "Front End SW Engineer - iOS / Web - iCloud_neer-ios-web-icloud?team=SFTWR"
+    },
     {
       "title": "Senior Data Scientist, Marketing Analytics",
       "url": "https://jobs.apple.com/en-us/details/200661963-0836/senior-data-scientist-marketing-analytics?team=OPMFG",
@@ -67,13 +77,8 @@
       "title": "Software Engineer, Freeform Application",
       "url": "https://jobs.apple.com/en-us/details/200645690-2926/software-engineer-freeform-application?team=SFTWR",
       "identifier": "Software Engineer, Freeform Application_reeform-application?team=SFTWR"
-    },
-    {
-      "title": "Senior Software Engineer - Distributed Systems",
-      "url": "https://jobs.apple.com/en-us/details/200663087-1435/senior-software-engineer-distributed-systems?team=SFTWR",
-      "identifier": "Senior Software Engineer - Distributed Systems_distributed-systems?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-14T05:07:17.062201"
+  "timestamp": "2026-05-14T05:24:29.628671"
 }

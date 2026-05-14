@@ -4,6 +4,31 @@
   "total_jobs": 8,
   "jobs": [
     {
+      "title": "Staff Software Development Engineer \u2013 Application Architecture",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0904335/Staff-Software-Development-Engineer-Application-Architecture",
+      "identifier": "Staff Software Development Engineer \u2013 Application _ineer-Application-Architecture"
+    },
+    {
+      "title": "Lead Director \u2013 Software Development Engineering (AI & Automation)",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0843277/Lead-Director-Software-Development-Engineering-AI-Automation",
+      "identifier": "Lead Director \u2013 Software Development Engineering (_ment-Engineering-AI-Automation"
+    },
+    {
+      "title": "Sr Analyst,Business Analysis",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0908770/Sr-Analyst-Business-Analysis",
+      "identifier": "Sr Analyst,Business Analysis_0/Sr-Analyst-Business-Analysis"
+    },
+    {
+      "title": "Software Development Engineer - Java",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0911264/Software-Development-Engineer-Java",
+      "identifier": "Software Development Engineer - Java_ware-Development-Engineer-Java"
+    },
+    {
+      "title": "Staff Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0834217/Staff-Software-Development-Engineer",
+      "identifier": "Staff Software Development Engineer_-Software-Development-Engineer"
+    },
+    {
       "title": "Manager, Business Analysis",
       "url": "https://jobs.cvshealth.com/us/en/job/R0902210/Manager-Business-Analysis",
       "identifier": "Manager, Business Analysis_2210/Manager-Business-Analysis"
@@ -17,33 +42,8 @@
       "title": "Lead Director \u2013 Software Engineering (Modernization & Reliability)",
       "url": "https://jobs.cvshealth.com/us/en/job/R0843276/Lead-Director-Software-Engineering-Modernization-Reliability",
       "identifier": "Lead Director \u2013 Software Engineering (Modernizatio_ring-Modernization-Reliability"
-    },
-    {
-      "title": "Executive Director, Adjudication Data Services",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0889257/Executive-Director-Adjudication-Data-Services",
-      "identifier": "Executive Director, Adjudication Data Services_tor-Adjudication-Data-Services"
-    },
-    {
-      "title": "Manager - Application Development",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0841409/Manager-Application-Development",
-      "identifier": "Manager - Application Development_anager-Application-Development"
-    },
-    {
-      "title": "IT Customer Service Analyst",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0897105/IT-Customer-Service-Analyst",
-      "identifier": "IT Customer Service Analyst_05/IT-Customer-Service-Analyst"
-    },
-    {
-      "title": "IT Customer Service Analyst",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0891762/IT-Customer-Service-Analyst",
-      "identifier": "IT Customer Service Analyst_62/IT-Customer-Service-Analyst"
-    },
-    {
-      "title": "Senior Manager - RunOps - PBM-IT",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0906780/Senior-Manager-RunOps-PBM-IT",
-      "identifier": "Senior Manager - RunOps - PBM-IT_0/Senior-Manager-RunOps-PBM-IT"
     }
   ],
-  "job_count_text": "32",
-  "timestamp": "2026-05-14T05:08:18.692554"
+  "job_count_text": "37",
+  "timestamp": "2026-05-14T05:25:33.479462"
 }

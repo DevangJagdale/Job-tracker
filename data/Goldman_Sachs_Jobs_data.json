@@ -24,11 +24,6 @@
       "identifier": "Corporate Planning & Management, Product & Reporti_s://higher.gs.com/roles/172617"
     },
     {
-      "title": "AWM, Marcus by Goldman Sachs, Pricing & Analytics, Analyst, Richardson, TX\nRichardson\u00b7United States\n\u00b7Analyst",
-      "url": "https://higher.gs.com/roles/151793",
-      "identifier": "AWM, Marcus by Goldman Sachs, Pricing & Analytics,_s://higher.gs.com/roles/151793"
-    },
-    {
       "title": "Asset & Wealth Management-Software Engineering-Associate-Dallas\nDallas\u00b7United States\n\u00b7Associate",
       "url": "https://higher.gs.com/roles/146664",
       "identifier": "Asset & Wealth Management-Software Engineering-Ass_s://higher.gs.com/roles/146664"
@@ -102,8 +97,13 @@
       "title": "Asset & Wealth Management-Cloud Engineer-Analyst-Dallas\nDallas\u00b7United States\n\u00b7Analyst",
       "url": "https://higher.gs.com/roles/168769",
       "identifier": "Asset & Wealth Management-Cloud Engineer-Analyst-D_s://higher.gs.com/roles/168769"
+    },
+    {
+      "title": "Asset & Wealth Management - Software Engineer - Analyst - New York\nNew York\u00b7United States\n\u00b7Analyst",
+      "url": "https://higher.gs.com/roles/166075",
+      "identifier": "Asset & Wealth Management - Software Engineer - An_s://higher.gs.com/roles/166075"
     }
   ],
-  "job_count_text": "52",
-  "timestamp": "2026-05-14T22:57:45.322601"
+  "job_count_text": "51",
+  "timestamp": "2026-05-14T23:14:46.316045"
 }

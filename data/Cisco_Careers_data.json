@@ -29,11 +29,6 @@
       "identifier": "Software Engineer Backend/Platform Systems I (Full_tems-I-Full-Time-United-States"
     },
     {
-      "title": "Product Management Specialist II (Full Time) - United States",
-      "url": "https://careers.cisco.com/global/en/job/2004282/Product-Management-Specialist-II-Full-Time-United-States",
-      "identifier": "Product Management Specialist II (Full Time) - Uni_ist-II-Full-Time-United-States"
-    },
-    {
       "title": "Account Development Representative II (Full Time) United States",
       "url": "https://careers.cisco.com/global/en/job/2001887/Account-Development-Representative-II-Full-Time-United-States",
       "identifier": "Account Development Representative II (Full Time) _ive-II-Full-Time-United-States"
@@ -52,8 +47,13 @@
       "title": "Sales Development Representative I (Full Time) - United States (Virtual Demand Center)",
       "url": "https://careers.cisco.com/global/en/job/2005272/Sales-Development-Representative-I-Full-Time-United-States-Virtual-Demand-Center",
       "identifier": "Sales Development Representative I (Full Time) - U_d-States-Virtual-Demand-Center"
+    },
+    {
+      "title": "Sales Development Representative Outbound Sales II (Full Time) - United States",
+      "url": "https://careers.cisco.com/global/en/job/2003091/Sales-Development-Representative-Outbound-Sales-II-Full-Time-United-States",
+      "identifier": "Sales Development Representative Outbound Sales II_les-II-Full-Time-United-States"
     }
   ],
-  "job_count_text": "12",
-  "timestamp": "2026-05-14T07:16:54.480166"
+  "job_count_text": "11",
+  "timestamp": "2026-05-14T07:34:02.364460"
 }

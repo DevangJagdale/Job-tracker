@@ -4,9 +4,14 @@
   "total_jobs": 8,
   "jobs": [
     {
-      "title": "Staff Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0834217/Staff-Software-Development-Engineer",
-      "identifier": "Staff Software Development Engineer_-Software-Development-Engineer"
+      "title": "Staff Software Development Engineer \u2013 Application Architecture",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0904335/Staff-Software-Development-Engineer-Application-Architecture",
+      "identifier": "Staff Software Development Engineer \u2013 Application _ineer-Application-Architecture"
+    },
+    {
+      "title": "Senior Data Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0860934/Senior-Data-Engineer",
+      "identifier": "Senior Data Engineer_/R0860934/Senior-Data-Engineer"
     },
     {
       "title": "Lead Director \u2013 Software Development Engineering (AI & Automation)",
@@ -14,9 +19,9 @@
       "identifier": "Lead Director \u2013 Software Development Engineering (_ment-Engineering-AI-Automation"
     },
     {
-      "title": "Staff Software Development Engineer \u2013 Application Architecture",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0904335/Staff-Software-Development-Engineer-Application-Architecture",
-      "identifier": "Staff Software Development Engineer \u2013 Application _ineer-Application-Architecture"
+      "title": "Staff Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0834217/Staff-Software-Development-Engineer",
+      "identifier": "Staff Software Development Engineer_-Software-Development-Engineer"
     },
     {
       "title": "Sr Analyst,Business Analysis",
@@ -29,21 +34,16 @@
       "identifier": "Software Development Engineer - Java_ware-Development-Engineer-Java"
     },
     {
-      "title": "Senior Data Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0860934/Senior-Data-Engineer",
-      "identifier": "Senior Data Engineer_/R0860934/Senior-Data-Engineer"
+      "title": "Senior Analyst, Digital Operations",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0903783/Senior-Analyst-Digital-Operations",
+      "identifier": "Senior Analyst, Digital Operations_ior-Analyst-Digital-Operations"
     },
     {
-      "title": "Senior Manager-Quality Engineering and Automation",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0839142/Senior-Manager-Quality-Engineering-and-Automation",
-      "identifier": "Senior Manager-Quality Engineering and Automation_ity-Engineering-and-Automation"
-    },
-    {
-      "title": "Senior Manager- Software Development Engineering-AI",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0884170/Senior-Manager-Software-Development-Engineering-AI",
-      "identifier": "Senior Manager- Software Development Engineering-A_are-Development-Engineering-AI"
+      "title": "Senior Agentic AI Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0893553/Senior-Agentic-AI-Engineer",
+      "identifier": "Senior Agentic AI Engineer_553/Senior-Agentic-AI-Engineer"
     }
   ],
   "job_count_text": "46",
-  "timestamp": "2026-05-14T05:33:20.152782"
+  "timestamp": "2026-05-14T05:50:23.581625"
 }

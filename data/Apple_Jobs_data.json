@@ -4,6 +4,11 @@
   "total_jobs": 11,
   "jobs": [
     {
+      "title": "Senior Security Engineer - Red Team",
+      "url": "https://jobs.apple.com/en-us/details/200654480-3337/senior-security-engineer-red-team?team=SFTWR",
+      "identifier": "Senior Security Engineer - Red Team_y-engineer-red-team?team=SFTWR"
+    },
+    {
       "title": "Core Audio Software Engineer",
       "url": "https://jobs.apple.com/en-us/details/200661515-3543/core-audio-software-engineer?team=SFTWR",
       "identifier": "Core Audio Software Engineer_o-software-engineer?team=SFTWR"
@@ -52,13 +57,8 @@
       "title": "Engineering Program Manager, Data Center Operations",
       "url": "https://jobs.apple.com/en-us/details/200636333-1336/engineering-program-manager-data-center-operations?team=SFTWR",
       "identifier": "Engineering Program Manager, Data Center Operation_a-center-operations?team=SFTWR"
-    },
-    {
-      "title": "Systems Software Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200663092-3543/systems-software-engineer?team=SFTWR",
-      "identifier": "Systems Software Engineer_s-software-engineer?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-14T18:37:23.943674"
+  "timestamp": "2026-05-14T18:54:19.484621"
 }

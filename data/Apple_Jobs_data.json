@@ -4,6 +4,11 @@
   "total_jobs": 15,
   "jobs": [
     {
+      "title": "Software Engineer, Accessability",
+      "url": "https://jobs.apple.com/en-us/details/200661027-3401/software-engineer-accessability?team=SFTWR",
+      "identifier": "Software Engineer, Accessability_ineer-accessability?team=SFTWR"
+    },
+    {
       "title": "Software Development Engineer - Test, Graphics, Games & ML",
       "url": "https://jobs.apple.com/en-us/details/200663359-3337/software-development-engineer-test-graphics-games-ml?team=SFTWR",
       "identifier": "Software Development Engineer - Test, Graphics, Ga_t-graphics-games-ml?team=SFTWR"
@@ -72,13 +77,8 @@
       "title": "Front End SW Engineer - iOS / Web - iCloud",
       "url": "https://jobs.apple.com/en-us/details/200663247-3543/front-end-sw-engineer-ios-web-icloud?team=SFTWR",
       "identifier": "Front End SW Engineer - iOS / Web - iCloud_neer-ios-web-icloud?team=SFTWR"
-    },
-    {
-      "title": "Senior Data Scientist, Marketing Analytics",
-      "url": "https://jobs.apple.com/en-us/details/200661963-0836/senior-data-scientist-marketing-analytics?team=OPMFG",
-      "identifier": "Senior Data Scientist, Marketing Analytics_marketing-analytics?team=OPMFG"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-14T20:35:43.185421"
+  "timestamp": "2026-05-14T20:52:34.888125"
 }

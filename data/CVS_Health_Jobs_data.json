@@ -4,9 +4,14 @@
   "total_jobs": 8,
   "jobs": [
     {
-      "title": "Lead Director - Portfolio and Program Delivery",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0910627/Lead-Director-Portfolio-and-Program-Delivery",
-      "identifier": "Lead Director - Portfolio and Program Delivery_Portfolio-and-Program-Delivery"
+      "title": "Senior Analyst, Digital Operations",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0903783/Senior-Analyst-Digital-Operations",
+      "identifier": "Senior Analyst, Digital Operations_ior-Analyst-Digital-Operations"
+    },
+    {
+      "title": "Sr Analyst,Business Analysis",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0908770/Sr-Analyst-Business-Analysis",
+      "identifier": "Sr Analyst,Business Analysis_0/Sr-Analyst-Business-Analysis"
     },
     {
       "title": "Lead Director \u2013 Software Development Engineering (AI & Automation)",
@@ -19,14 +24,9 @@
       "identifier": "Senior Quality Engineer_914109/Senior-Quality-Engineer"
     },
     {
-      "title": "Sr Analyst,Business Analysis",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0908770/Sr-Analyst-Business-Analysis",
-      "identifier": "Sr Analyst,Business Analysis_0/Sr-Analyst-Business-Analysis"
-    },
-    {
-      "title": "Senior Analyst, Digital Operations",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0903783/Senior-Analyst-Digital-Operations",
-      "identifier": "Senior Analyst, Digital Operations_ior-Analyst-Digital-Operations"
+      "title": "Lead Director - Portfolio and Program Delivery",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0910627/Lead-Director-Portfolio-and-Program-Delivery",
+      "identifier": "Lead Director - Portfolio and Program Delivery_Portfolio-and-Program-Delivery"
     },
     {
       "title": "Manager, Business Analysis",
@@ -45,5 +45,5 @@
     }
   ],
   "job_count_text": "36",
-  "timestamp": "2026-05-14T09:50:35.050534"
+  "timestamp": "2026-05-14T10:07:39.496366"
 }

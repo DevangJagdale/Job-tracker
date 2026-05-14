@@ -4,6 +4,11 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Senior Engineering Manager, Platform Engineering - iCloud",
+      "url": "https://jobs.apple.com/en-us/details/200633146-3337/senior-engineering-manager-platform-engineering-icloud?team=SFTWR",
+      "identifier": "Senior Engineering Manager, Platform Engineering -_-engineering-icloud?team=SFTWR"
+    },
+    {
       "title": "Software Integrity Engineer, Camera & Photos",
       "url": "https://jobs.apple.com/en-us/details/200653661-0836/software-integrity-engineer-camera-photos?team=SFTWR",
       "identifier": "Software Integrity Engineer, Camera & Photos_ineer-camera-photos?team=SFTWR"
@@ -77,13 +82,8 @@
       "title": "Backend Software Engineer, Creativity Apps",
       "url": "https://jobs.apple.com/en-us/details/200663197-0836/backend-software-engineer-creativity-apps?team=SFTWR",
       "identifier": "Backend Software Engineer, Creativity Apps_eer-creativity-apps?team=SFTWR"
-    },
-    {
-      "title": "Multimodal Generative Modeling Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200663082-0836/multimodal-generative-modeling-engineer?team=SFTWR",
-      "identifier": "Multimodal Generative Modeling Engineer_e-modeling-engineer?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-14T22:41:37.535671"
+  "timestamp": "2026-05-14T22:58:35.006886"
 }

@@ -1,8 +1,13 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 15,
+  "total_jobs": 14,
   "jobs": [
+    {
+      "title": "Backend Software Engineer, Creativity Apps",
+      "url": "https://jobs.apple.com/en-us/details/200663197-0836/backend-software-engineer-creativity-apps?team=SFTWR",
+      "identifier": "Backend Software Engineer, Creativity Apps_eer-creativity-apps?team=SFTWR"
+    },
     {
       "title": "Multimodal Generative Modeling Engineer",
       "url": "https://jobs.apple.com/en-us/details/200663082-0836/multimodal-generative-modeling-engineer?team=SFTWR",
@@ -67,18 +72,8 @@
       "title": "Media Intelligence Systems & Performance Software Engineer",
       "url": "https://jobs.apple.com/en-us/details/200661895-3543/media-intelligence-systems-performance-software-engineer?team=SFTWR",
       "identifier": "Media Intelligence Systems & Performance Software _e-software-engineer?team=SFTWR"
-    },
-    {
-      "title": "Site Reliability Engineer, Enterprise Technology Services",
-      "url": "https://jobs.apple.com/en-us/details/200662016-3956/site-reliability-engineer-enterprise-technology-services?team=SFTWR",
-      "identifier": "Site Reliability Engineer, Enterprise Technology S_technology-services?team=SFTWR"
-    },
-    {
-      "title": "Technical Project Manager, Enterprise Technology Services",
-      "url": "https://jobs.apple.com/en-us/details/200663160-3956/technical-project-manager-enterprise-technology-services?team=SFTWR",
-      "identifier": "Technical Project Manager, Enterprise Technology S_technology-services?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-14T14:47:23.632875"
+  "timestamp": "2026-05-14T15:04:28.213874"
 }

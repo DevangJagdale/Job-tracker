@@ -4,7 +4,12 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Principal Software Engineer\nUnited States, California, Mountain View\nPosted 2 hours ago",
+      "title": "Senior Applied Scientist\nUnited States, Washington, Redmond + 1 more\nPosted 6 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556751830?domain=microsoft.com",
+      "identifier": "Senior Applied Scientist\nUnited States, Washington_556751830?domain=microsoft.com"
+    },
+    {
+      "title": "Principal Software Engineer\nUnited States, California, Mountain View\nPosted 3 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556619480?domain=microsoft.com",
       "identifier": "Principal Software Engineer\nUnited States, Califor_556619480?domain=microsoft.com"
     },
@@ -14,22 +19,22 @@
       "identifier": "Senior Software Engineer\nUnited States, Multiple L_556863506?domain=microsoft.com"
     },
     {
-      "title": "Software Engineer 2\nUnited States, Washington, Redmond\nPosted 12 hours ago",
+      "title": "Software Engineer 2\nUnited States, Washington, Redmond\nPosted 13 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556866801?domain=microsoft.com",
       "identifier": "Software Engineer 2\nUnited States, Washington, Red_556866801?domain=microsoft.com"
     },
     {
-      "title": "Member of Technical Staff, Developer Experience Engineering Manager\nUnited States, California, Mountain View\nPosted 15 hours ago",
+      "title": "Member of Technical Staff, Developer Experience Engineering Manager\nUnited States, California, Mountain View\nPosted 16 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556866747?domain=microsoft.com",
       "identifier": "Member of Technical Staff, Developer Experience En_556866747?domain=microsoft.com"
     },
     {
-      "title": "Software Engineer II, Foundry Agents - CoreAI\nUnited States, Washington, Redmond + 2 more\nPosted 17 hours ago",
+      "title": "Software Engineer II, Foundry Agents - CoreAI\nUnited States, Washington, Redmond + 2 more\nPosted 18 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556863227?domain=microsoft.com",
       "identifier": "Software Engineer II, Foundry Agents - CoreAI\nUnit_556863227?domain=microsoft.com"
     },
     {
-      "title": "Software Engineer Edge\nUnited States, Washington, Redmond\nPosted 18 hours ago",
+      "title": "Software Engineer Edge\nUnited States, Washington, Redmond\nPosted 19 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556866571?domain=microsoft.com",
       "identifier": "Software Engineer Edge\nUnited States, Washington, _556866571?domain=microsoft.com"
     },
@@ -47,13 +52,8 @@
       "title": "Back-End Software Engineer II\nUnited States, Washington, Redmond\nPosted a day ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556859034?domain=microsoft.com",
       "identifier": "Back-End Software Engineer II\nUnited States, Washi_556859034?domain=microsoft.com"
-    },
-    {
-      "title": "Software Engineer 2\nUnited States, Washington, Redmond\nPosted a day ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556749568?domain=microsoft.com",
-      "identifier": "Software Engineer 2\nUnited States, Washington, Red_556749568?domain=microsoft.com"
     }
   ],
-  "job_count_text": "484",
-  "timestamp": "2026-05-14T16:55:49.210399"
+  "job_count_text": "485",
+  "timestamp": "2026-05-14T17:12:42.144844"
 }

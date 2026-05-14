@@ -4,6 +4,11 @@
   "total_jobs": 12,
   "jobs": [
     {
+      "title": "Senior ML Infrastructure SRE",
+      "url": "https://jobs.apple.com/en-us/details/200663204-0157/senior-ml-infrastructure-sre?team=SFTWR",
+      "identifier": "Senior ML Infrastructure SRE_-infrastructure-sre?team=SFTWR"
+    },
+    {
       "title": "Quality & Test Automation Engineer \u2013 Xcode",
       "url": "https://jobs.apple.com/en-us/details/200654816-0836/quality-test-automation-engineer-xcode?team=SFTWR",
       "identifier": "Quality & Test Automation Engineer \u2013 Xcode_tion-engineer-xcode?team=SFTWR"
@@ -57,13 +62,8 @@
       "title": "OS Kernel Engineer",
       "url": "https://jobs.apple.com/en-us/details/200663229-0836/os-kernel-engineer?team=SFTWR",
       "identifier": "OS Kernel Engineer_/os-kernel-engineer?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer (Enablon), G&A Solutions Engineering (GSE)",
-      "url": "https://jobs.apple.com/en-us/details/200663195-0157/software-engineer-enablon-g-a-solutions-engineering-gse?team=SFTWR",
-      "identifier": "Software Engineer (Enablon), G&A Solutions Enginee_ons-engineering-gse?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-14T17:29:51.524344"
+  "timestamp": "2026-05-14T17:46:45.845917"
 }

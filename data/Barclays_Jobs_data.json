@@ -1,8 +1,13 @@
 {
   "page_title": "Search our Job Opportunities at Barclays",
   "url": "https://search.jobs.barclays/search-jobs/United%20States/13015/2/6252001/39x76/-98x5/50/2",
-  "total_jobs": 16,
+  "total_jobs": 14,
   "jobs": [
+    {
+      "title": "ICBA Coverage Insurance, Analyst",
+      "url": "https://search.jobs.barclays/job/new-york/icba-coverage-insurance-analyst/13015/95091009488",
+      "identifier": "ICBA Coverage Insurance, Analyst_ance-analyst/13015/95091009488"
+    },
     {
       "title": "Head of Banking Data, AI and Analytics Platform",
       "url": "https://search.jobs.barclays/job/whippany/head-of-banking-data-ai-and-analytics-platform/13015/95078421648",
@@ -49,11 +54,6 @@
       "identifier": "Credit Risk Specialist - SRE_ecialist-sre/13015/95010628432"
     },
     {
-      "title": "Test Engineer",
-      "url": "https://search.jobs.barclays/job/whippany/test-engineer/13015/95010618048",
-      "identifier": "Test Engineer_est-engineer/13015/95010618048"
-    },
-    {
       "title": "Regulatory Reporting Lead, AVP",
       "url": "https://search.jobs.barclays/job/whippany/regulatory-reporting-lead-avp/13015/94984180480",
       "identifier": "Regulatory Reporting Lead, AVP_ing-lead-avp/13015/94984180480"
@@ -72,18 +72,8 @@
       "title": "Vice President, Capital Markets Advisory Lawyer",
       "url": "https://search.jobs.barclays/job/new-york/vice-president-capital-markets-advisory-lawyer/13015/94984169440",
       "identifier": "Vice President, Capital Markets Advisory Lawyer_isory-lawyer/13015/94984169440"
-    },
-    {
-      "title": "Wholesale Credit Risk Specialist-SRE",
-      "url": "https://search.jobs.barclays/job/whippany/wholesale-credit-risk-specialist-sre/13015/94984158800",
-      "identifier": "Wholesale Credit Risk Specialist-SRE_ecialist-sre/13015/94984158800"
-    },
-    {
-      "title": "Market Risk Analyst-SRE",
-      "url": "https://search.jobs.barclays/job/whippany/market-risk-analyst-sre/13015/94984158752",
-      "identifier": "Market Risk Analyst-SRE_-analyst-sre/13015/94984158752"
     }
   ],
-  "job_count_text": "128",
-  "timestamp": "2026-05-14T17:29:19.523050"
+  "job_count_text": "132",
+  "timestamp": "2026-05-14T17:46:13.428244"
 }

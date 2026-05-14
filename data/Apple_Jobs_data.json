@@ -4,6 +4,11 @@
   "total_jobs": 15,
   "jobs": [
     {
+      "title": "Senior iCloud Solutions Engineer, Apple Services Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200663394-3337/senior-icloud-solutions-engineer-apple-services-engineering?team=SFTWR",
+      "identifier": "Senior iCloud Solutions Engineer, Apple Services E_ervices-engineering?team=SFTWR"
+    },
+    {
       "title": "Software Engineer, Accessability",
       "url": "https://jobs.apple.com/en-us/details/200661027-3401/software-engineer-accessability?team=SFTWR",
       "identifier": "Software Engineer, Accessability_ineer-accessability?team=SFTWR"
@@ -72,13 +77,8 @@
       "title": "Java Server Engineer-ASE",
       "url": "https://jobs.apple.com/en-us/details/200663246-3543/java-server-engineer-ase?team=SFTWR",
       "identifier": "Java Server Engineer-ASE_server-engineer-ase?team=SFTWR"
-    },
-    {
-      "title": "Front End SW Engineer - iOS / Web - iCloud",
-      "url": "https://jobs.apple.com/en-us/details/200663247-3543/front-end-sw-engineer-ios-web-icloud?team=SFTWR",
-      "identifier": "Front End SW Engineer - iOS / Web - iCloud_neer-ios-web-icloud?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-14T20:52:34.888125"
+  "timestamp": "2026-05-14T21:09:25.485039"
 }

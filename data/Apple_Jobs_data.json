@@ -4,6 +4,16 @@
   "total_jobs": 17,
   "jobs": [
     {
+      "title": "ML Engineer, Proactive - Agentic Systems Evaluation",
+      "url": "https://jobs.apple.com/en-us/details/200656115-0836/ml-engineer-proactive-agentic-systems-evaluation?team=SFTWR",
+      "identifier": "ML Engineer, Proactive - Agentic Systems Evaluatio_-systems-evaluation?team=SFTWR"
+    },
+    {
+      "title": "ASE Compute - Site Reliability Engineering (SRE) Manager",
+      "url": "https://jobs.apple.com/en-us/details/200662234-3337/ase-compute-site-reliability-engineering-sre-manager?team=SFTWR",
+      "identifier": "ASE Compute - Site Reliability Engineering (SRE) M_neering-sre-manager?team=SFTWR"
+    },
+    {
       "title": "Swift Compiler Engineering Manager, Languages & Runtimes",
       "url": "https://jobs.apple.com/en-us/details/200663404-0836/swift-compiler-engineering-manager-languages-runtimes?team=SFTWR",
       "identifier": "Swift Compiler Engineering Manager, Languages & Ru_-languages-runtimes?team=SFTWR"
@@ -77,18 +87,8 @@
       "title": "Software Performance Engineer for Memory, CoreOS",
       "url": "https://jobs.apple.com/en-us/details/200661974-0836/software-performance-engineer-for-memory-coreos?team=SFTWR",
       "identifier": "Software Performance Engineer for Memory, CoreOS_r-for-memory-coreos?team=SFTWR"
-    },
-    {
-      "title": "Quality & Test Automation Engineer \u2013 Xcode",
-      "url": "https://jobs.apple.com/en-us/details/200654816-0836/quality-test-automation-engineer-xcode?team=SFTWR",
-      "identifier": "Quality & Test Automation Engineer \u2013 Xcode_tion-engineer-xcode?team=SFTWR"
-    },
-    {
-      "title": "Program Manager, Apple Health",
-      "url": "https://jobs.apple.com/en-us/details/200663223-0836/program-manager-apple-health?team=SFTWR",
-      "identifier": "Program Manager, Apple Health_anager-apple-health?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-14T23:49:32.748557"
+  "timestamp": "2026-05-15T00:06:35.799815"
 }

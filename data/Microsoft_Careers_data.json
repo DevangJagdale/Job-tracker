@@ -4,7 +4,12 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 13 hours ago",
+      "title": "Principal Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 19 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556863486?domain=microsoft.com",
+      "identifier": "Principal Software Engineer\nUnited States, Multipl_556863486?domain=microsoft.com"
+    },
+    {
+      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 14 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556861703?domain=microsoft.com",
       "identifier": "Software Engineer II\nUnited States, Washington, Re_556861703?domain=microsoft.com"
     },
@@ -19,7 +24,7 @@
       "identifier": "Software Engineering IC4\nUnited States, Washington_556852468?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer - AI Frameworks\nUnited States, Washington, Redmond + 1 more\nPosted 20 hours ago",
+      "title": "Senior Software Engineer - AI Frameworks\nUnited States, Washington, Redmond + 1 more\nPosted 21 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556857279?domain=microsoft.com",
       "identifier": "Senior Software Engineer - AI Frameworks\nUnited St_556857279?domain=microsoft.com"
     },
@@ -47,13 +52,8 @@
       "title": "Software Engineer 2\nUnited States, Washington, Redmond\nPosted a day ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556866801?domain=microsoft.com",
       "identifier": "Software Engineer 2\nUnited States, Washington, Red_556866801?domain=microsoft.com"
-    },
-    {
-      "title": "Member of Technical Staff, Developer Experience Engineering Manager\nUnited States, California, Mountain View\nPosted 2 days ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556866747?domain=microsoft.com",
-      "identifier": "Member of Technical Staff, Developer Experience En_556866747?domain=microsoft.com"
     }
   ],
-  "job_count_text": "477",
-  "timestamp": "2026-05-15T15:48:48.298625"
+  "job_count_text": "478",
+  "timestamp": "2026-05-15T16:05:59.218049"
 }

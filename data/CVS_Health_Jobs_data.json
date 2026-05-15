@@ -4,6 +4,26 @@
   "total_jobs": 8,
   "jobs": [
     {
+      "title": "Senior Software Development Engineer \u2013 Agentic AI & Messaging Platforms",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0911183/Senior-Software-Development-Engineer-Agentic-AI-Messaging-Platforms",
+      "identifier": "Senior Software Development Engineer \u2013 Agentic AI _Agentic-AI-Messaging-Platforms"
+    },
+    {
+      "title": "Field Technician",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0893632/Field-Technician",
+      "identifier": "Field Technician_/job/R0893632/Field-Technician"
+    },
+    {
+      "title": "Senior BackEnd Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0861508/Senior-BackEnd-Engineer",
+      "identifier": "Senior BackEnd Engineer_861508/Senior-BackEnd-Engineer"
+    },
+    {
+      "title": "Senior Web Developer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0879151/Senior-Web-Developer",
+      "identifier": "Senior Web Developer_/R0879151/Senior-Web-Developer"
+    },
+    {
       "title": "Senior Manager, Software Engineering \u2013 Agentic AI & Messaging Platforms",
       "url": "https://jobs.cvshealth.com/us/en/job/R0911156/Senior-Manager-Software-Engineering-Agentic-AI-Messaging-Platforms",
       "identifier": "Senior Manager, Software Engineering \u2013 Agentic AI _Agentic-AI-Messaging-Platforms"
@@ -22,28 +42,8 @@
       "title": "Senior Software Development Engineer (DevOps)",
       "url": "https://jobs.cvshealth.com/us/en/job/R0774075/Senior-Software-Development-Engineer-DevOps",
       "identifier": "Senior Software Development Engineer (DevOps)_re-Development-Engineer-DevOps"
-    },
-    {
-      "title": "Senior Web Developer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0879151/Senior-Web-Developer",
-      "identifier": "Senior Web Developer_/R0879151/Senior-Web-Developer"
-    },
-    {
-      "title": "Senior Software Development Engineer \u2013 Agentic AI & Messaging Platforms",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0911183/Senior-Software-Development-Engineer-Agentic-AI-Messaging-Platforms",
-      "identifier": "Senior Software Development Engineer \u2013 Agentic AI _Agentic-AI-Messaging-Platforms"
-    },
-    {
-      "title": "Senior BackEnd Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0861508/Senior-BackEnd-Engineer",
-      "identifier": "Senior BackEnd Engineer_861508/Senior-BackEnd-Engineer"
-    },
-    {
-      "title": "Field Technician",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0893632/Field-Technician",
-      "identifier": "Field Technician_/job/R0893632/Field-Technician"
     }
   ],
   "job_count_text": "45",
-  "timestamp": "2026-05-15T02:40:26.717376"
+  "timestamp": "2026-05-15T02:57:23.752679"
 }

@@ -1,8 +1,43 @@
 {
   "page_title": "Search our Job Opportunities at Barclays",
   "url": "https://search.jobs.barclays/search-jobs/United%20States/13015/2/6252001/39x76/-98x5/50/2",
-  "total_jobs": 8,
+  "total_jobs": 15,
   "jobs": [
+    {
+      "title": "Sr. Broadridge Settlements Specialist, AVP",
+      "url": "https://search.jobs.barclays/job/whippany/sr-broadridge-settlements-specialist-avp/13015/95104606608",
+      "identifier": "Sr. Broadridge Settlements Specialist, AVP_ecialist-avp/13015/95104606608"
+    },
+    {
+      "title": "Joint Operations Centre Specialist - AVP",
+      "url": "https://search.jobs.barclays/job/whippany/joint-operations-centre-specialist-avp/13015/95104606560",
+      "identifier": "Joint Operations Centre Specialist - AVP_ecialist-avp/13015/95104606560"
+    },
+    {
+      "title": "Software Engineer",
+      "url": "https://search.jobs.barclays/job/whippany/software-engineer/13015/95104606528",
+      "identifier": "Software Engineer_are-engineer/13015/95104606528"
+    },
+    {
+      "title": "Sr Application Developer",
+      "url": "https://search.jobs.barclays/job/whippany/sr-application-developer/13015/95104606448",
+      "identifier": "Sr Application Developer_on-developer/13015/95104606448"
+    },
+    {
+      "title": "Unix System Administrator, AVP",
+      "url": "https://search.jobs.barclays/job/whippany/unix-system-administrator-avp/13015/95104606400",
+      "identifier": "Unix System Administrator, AVP_istrator-avp/13015/95104606400"
+    },
+    {
+      "title": "Senior Software Engineer/Architect",
+      "url": "https://search.jobs.barclays/job/whippany/senior-software-engineer-architect/13015/95104599520",
+      "identifier": "Senior Software Engineer/Architect_er-architect/13015/95104599520"
+    },
+    {
+      "title": "USCB Controls Assurance Portfolio Lead",
+      "url": "https://search.jobs.barclays/job/wilmington/uscb-controls-assurance-portfolio-lead/13015/95104599200",
+      "identifier": "USCB Controls Assurance Portfolio Lead_rtfolio-lead/13015/95104599200"
+    },
     {
       "title": "M&A Business Manager AVP",
       "url": "https://search.jobs.barclays/job/new-york/m-and-a-business-manager-avp/13015/95091012656",
@@ -45,5 +80,5 @@
     }
   ],
   "job_count_text": "135",
-  "timestamp": "2026-05-15T11:23:59.704501"
+  "timestamp": "2026-05-15T11:41:00.421103"
 }

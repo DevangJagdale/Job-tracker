@@ -1,8 +1,13 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 17,
+  "total_jobs": 16,
   "jobs": [
+    {
+      "title": "iOS Frameworks Engineer - HealthKit",
+      "url": "https://jobs.apple.com/en-us/details/200662668-3543/ios-frameworks-engineer-healthkit?team=SFTWR",
+      "identifier": "iOS Frameworks Engineer - HealthKit_-engineer-healthkit?team=SFTWR"
+    },
     {
       "title": "Senior Software Engineer, Enterprise Technology Services",
       "url": "https://jobs.apple.com/en-us/details/200657296-3956/senior-software-engineer-enterprise-technology-services?team=SFTWR",
@@ -77,18 +82,8 @@
       "title": "ML Engineer, Proactive - Agentic Systems Evaluation",
       "url": "https://jobs.apple.com/en-us/details/200656115-0836/ml-engineer-proactive-agentic-systems-evaluation?team=SFTWR",
       "identifier": "ML Engineer, Proactive - Agentic Systems Evaluatio_-systems-evaluation?team=SFTWR"
-    },
-    {
-      "title": "ASE Compute - Site Reliability Engineering (SRE) Manager",
-      "url": "https://jobs.apple.com/en-us/details/200662234-3337/ase-compute-site-reliability-engineering-sre-manager?team=SFTWR",
-      "identifier": "ASE Compute - Site Reliability Engineering (SRE) M_neering-sre-manager?team=SFTWR"
-    },
-    {
-      "title": "Swift Compiler Engineering Manager, Languages & Runtimes",
-      "url": "https://jobs.apple.com/en-us/details/200663404-0836/swift-compiler-engineering-manager-languages-runtimes?team=SFTWR",
-      "identifier": "Swift Compiler Engineering Manager, Languages & Ru_-languages-runtimes?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-15T23:04:37.622445"
+  "timestamp": "2026-05-15T23:21:51.966791"
 }

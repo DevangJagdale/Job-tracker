@@ -4,11 +4,6 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Design Characterization Engineer\nSan Jose, California, United States of America\nPosted a day ago",
-      "url": "https://careers.micron.com/careers/job/41139984",
-      "identifier": "Design Characterization Engineer\nSan Jose, Califor_icron.com/careers/job/41139984"
-    },
-    {
       "title": "Supply Management Analyst\nBoise, Idaho, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/41482847",
       "identifier": "Supply Management Analyst\nBoise, Idaho, United Sta_icron.com/careers/job/41482847"
@@ -17,6 +12,11 @@
       "title": "Dry Etch Process Develop Engineer\nRemote, New York, United States of America\nRemote\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/41806530",
       "identifier": "Dry Etch Process Develop Engineer\nRemote, New York_icron.com/careers/job/41806530"
+    },
+    {
+      "title": "Design Characterization Engineer\nSan Jose, California, United States of America\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/41139984",
+      "identifier": "Design Characterization Engineer\nSan Jose, Califor_icron.com/careers/job/41139984"
     },
     {
       "title": "Dry Etch Process Develop Engineer\nRemote, New York, United States of America\nRemote\nPosted a day ago",
@@ -29,21 +29,6 @@
       "identifier": "Semiconductor Design Engineer\nBoise, Idaho, United_icron.com/careers/job/41862559"
     },
     {
-      "title": "Product Development Engineer 1\nBoise, Idaho, United States of America\nPosted 2 days ago",
-      "url": "https://careers.micron.com/careers/job/41887799",
-      "identifier": "Product Development Engineer 1\nBoise, Idaho, Unite_icron.com/careers/job/41887799"
-    },
-    {
-      "title": "Semiconductor Design Engineer\nRichardson, Texas, United States of America\nPosted 2 days ago",
-      "url": "https://careers.micron.com/careers/job/41907830",
-      "identifier": "Semiconductor Design Engineer\nRichardson, Texas, U_icron.com/careers/job/41907830"
-    },
-    {
-      "title": "Semiconductor Design Engineer\nRichardson, Texas, United States of America\nPosted 2 days ago",
-      "url": "https://careers.micron.com/careers/job/41923925",
-      "identifier": "Semiconductor Design Engineer\nRichardson, Texas, U_icron.com/careers/job/41923925"
-    },
-    {
       "title": "New College Grad - Metrology Applications Engineer\nManassas, Virginia, United States of America\nPosted 2 days ago",
       "url": "https://careers.micron.com/careers/job/40100239",
       "identifier": "New College Grad - Metrology Applications Engineer_icron.com/careers/job/40100239"
@@ -52,8 +37,23 @@
       "title": "New College Grad - Photolithography Process Engineer\nBoise, Idaho, United States of America\nPosted 2 days ago",
       "url": "https://careers.micron.com/careers/job/41923169",
       "identifier": "New College Grad - Photolithography Process Engine_icron.com/careers/job/41923169"
+    },
+    {
+      "title": "US Expansion Layout Engineer\nBoise, Idaho, United States of America\nPosted 2 days ago",
+      "url": "https://careers.micron.com/careers/job/41229761",
+      "identifier": "US Expansion Layout Engineer\nBoise, Idaho, United _icron.com/careers/job/41229761"
+    },
+    {
+      "title": "Equipment Engineer\nBoise, Idaho, United States of America\nPosted 2 days ago",
+      "url": "https://careers.micron.com/careers/job/41887801",
+      "identifier": "Equipment Engineer\nBoise, Idaho, United States of _icron.com/careers/job/41887801"
+    },
+    {
+      "title": "DRAM Design Engineer - TPG\nBoise, Idaho, United States of America\nPosted 2 days ago",
+      "url": "https://careers.micron.com/careers/job/41887824",
+      "identifier": "DRAM Design Engineer - TPG\nBoise, Idaho, United St_icron.com/careers/job/41887824"
     }
   ],
   "job_count_text": "94",
-  "timestamp": "2026-05-15T03:16:25.525725"
+  "timestamp": "2026-05-15T03:33:24.711318"
 }

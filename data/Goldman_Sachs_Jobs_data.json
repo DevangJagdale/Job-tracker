@@ -1,8 +1,13 @@
 {
   "page_title": "Opportunities | Goldman Sachs",
-  "url": "https://higher.gs.com/results?EXPERIENCE_LEVEL=Analyst|Associate&JOB_FUNCTION=Data%20Analytics|Data%20Analytics%20%26%20Reporting|Software%20Engineering&LOCATION=Newport%20Beach|San%20Francisco|Menlo%20Park|Newport%20Beach|San%20Francisco|Miami|West%20Palm%20Beach|Miami|West%20Palm%20Beach|Chicago|Chicago|Boston|Boston|Detroit|Jersey%20City|Albany|New%20York|Jersey%20City|Albany|New%20York|Dallas|Houston|Richardson|Dallas|Houston|Richardson|Salt%20Lake%20City|Salt%20Lake%20City&page=1&sort=POSTED_DATE",
+  "url": "https://higher.gs.com/results?EXPERIENCE_LEVEL=Analyst|Associate&JOB_FUNCTION=Data%20Analytics|Data%20Analytics%20%26%20Reporting|Software%20Engineering&LOCATION=Menlo%20Park|Newport%20Beach|San%20Francisco|Menlo%20Park|Newport%20Beach|San%20Francisco|Miami|West%20Palm%20Beach|Miami|West%20Palm%20Beach|Chicago|Chicago|Boston|Boston|Detroit|Jersey%20City|Albany|New%20York|Jersey%20City|Albany|New%20York|Dallas|Houston|Richardson|Dallas|Houston|Richardson|Salt%20Lake%20City|Salt%20Lake%20City&page=1&sort=POSTED_DATE",
   "total_jobs": 20,
   "jobs": [
+    {
+      "title": "Corporate Treasury, Payments Platform, Software Engineering, Associate, Dallas\nDallas\u00b7United States\n\u00b7Associate",
+      "url": "https://higher.gs.com/roles/170575",
+      "identifier": "Corporate Treasury, Payments Platform, Software En_s://higher.gs.com/roles/170575"
+    },
     {
       "title": "Engineering-Dallas-Associate-Software Engineering\nDallas\u00b7United States\n\u00b7Associate",
       "url": "https://higher.gs.com/roles/153020",
@@ -97,13 +102,8 @@
       "title": "Software Engineering - Data, Lakehouse and AI Data Platform Engineer - Associate - Dallas\nDallas\u00b7United States\n\u00b7Associate",
       "url": "https://higher.gs.com/roles/153361",
       "identifier": "Software Engineering - Data, Lakehouse and AI Data_s://higher.gs.com/roles/153361"
-    },
-    {
-      "title": "Compliance, Senior Backend Engineer (Java & ETL Specialist), Dallas, Associate\nDallas\u00b7United States\n\u00b7Associate",
-      "url": "https://higher.gs.com/roles/168652",
-      "identifier": "Compliance, Senior Backend Engineer (Java & ETL Sp_s://higher.gs.com/roles/168652"
     }
   ],
-  "job_count_text": "53",
-  "timestamp": "2026-05-15T20:46:49.329856"
+  "job_count_text": "54",
+  "timestamp": "2026-05-15T21:03:55.280724"
 }

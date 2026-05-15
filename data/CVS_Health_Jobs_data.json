@@ -4,14 +4,14 @@
   "total_jobs": 6,
   "jobs": [
     {
-      "title": "Field Technician",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0893632/Field-Technician",
-      "identifier": "Field Technician_/job/R0893632/Field-Technician"
-    },
-    {
       "title": "Senior Software Development Engineer",
       "url": "https://jobs.cvshealth.com/us/en/job/R0748826/Senior-Software-Development-Engineer",
       "identifier": "Senior Software Development Engineer_-Software-Development-Engineer"
+    },
+    {
+      "title": "Field Technician",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0893632/Field-Technician",
+      "identifier": "Field Technician_/job/R0893632/Field-Technician"
     },
     {
       "title": "Principal Software Development Engineer",
@@ -35,5 +35,5 @@
     }
   ],
   "job_count_text": "45",
-  "timestamp": "2026-05-15T08:27:51.722188"
+  "timestamp": "2026-05-15T08:44:49.594689"
 }

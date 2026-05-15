@@ -4,6 +4,11 @@
   "total_jobs": 18,
   "jobs": [
     {
+      "title": "Software Engineer, Employee Experience & Productivity",
+      "url": "https://jobs.apple.com/en-us/details/200660609-0670/software-engineer-employee-experience-productivity?team=SFTWR",
+      "identifier": "Software Engineer, Employee Experience & Productiv_rience-productivity?team=SFTWR"
+    },
+    {
       "title": "Senior Software Engineer, Ads",
       "url": "https://jobs.apple.com/en-us/details/200598196-0836/senior-software-engineer-ads?team=SFTWR",
       "identifier": "Senior Software Engineer, Ads_ftware-engineer-ads?team=SFTWR"
@@ -87,13 +92,8 @@
       "title": "Software Engineer, Accessibility",
       "url": "https://jobs.apple.com/en-us/details/200661027-3401/software-engineer-accessibility?team=SFTWR",
       "identifier": "Software Engineer, Accessibility_ineer-accessibility?team=SFTWR"
-    },
-    {
-      "title": "Software Development Engineer - Test, Graphics, Games & ML",
-      "url": "https://jobs.apple.com/en-us/details/200663359-3337/software-development-engineer-test-graphics-games-ml?team=SFTWR",
-      "identifier": "Software Development Engineer - Test, Graphics, Ga_t-graphics-games-ml?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-15T17:48:54.037685"
+  "timestamp": "2026-05-15T18:06:04.847406"
 }

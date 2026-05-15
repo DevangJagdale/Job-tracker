@@ -4,6 +4,11 @@
   "total_jobs": 17,
   "jobs": [
     {
+      "title": "Wi-Fi UI Engineer, Wireless Technologies & Ecosystems",
+      "url": "https://jobs.apple.com/en-us/details/200663633-0836/wi-fi-ui-engineer-wireless-technologies-ecosystems?team=SFTWR",
+      "identifier": "Wi-Fi UI Engineer, Wireless Technologies & Ecosyst_nologies-ecosystems?team=SFTWR"
+    },
+    {
       "title": "Site Reliability Engineering Manager, Storage - Apple Services Engineering",
       "url": "https://jobs.apple.com/en-us/details/200620738-0836/site-reliability-engineering-manager-storage-apple-services-engineering?team=SFTWR",
       "identifier": "Site Reliability Engineering Manager, Storage - Ap_ervices-engineering?team=SFTWR"
@@ -82,13 +87,8 @@
       "title": "Manager, Product Management - AI & Data Platforms",
       "url": "https://jobs.apple.com/en-us/details/200662445-3956/manager-product-management-ai-data-platforms?team=SFTWR",
       "identifier": "Manager, Product Management - AI & Data Platforms_t-ai-data-platforms?team=SFTWR"
-    },
-    {
-      "title": "Senior Engineering Manager, Platform Engineering - iCloud",
-      "url": "https://jobs.apple.com/en-us/details/200633146-3337/senior-engineering-manager-platform-engineering-icloud?team=SFTWR",
-      "identifier": "Senior Engineering Manager, Platform Engineering -_-engineering-icloud?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-15T22:13:16.094570"
+  "timestamp": "2026-05-15T22:30:21.783484"
 }

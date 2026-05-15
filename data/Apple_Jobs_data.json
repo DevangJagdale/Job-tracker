@@ -4,6 +4,11 @@
   "total_jobs": 18,
   "jobs": [
     {
+      "title": "Site Reliability Engineering Manager, Storage - Apple Services Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200620738-0836/site-reliability-engineering-manager-storage-apple-services-engineering?team=SFTWR",
+      "identifier": "Site Reliability Engineering Manager, Storage - Ap_ervices-engineering?team=SFTWR"
+    },
+    {
       "title": "AIML Data Operations - Account & Program Manager",
       "url": "https://jobs.apple.com/en-us/details/200661723-0836/aiml-data-operations-account-program-manager?team=SFTWR",
       "identifier": "AIML Data Operations - Account & Program Manager_unt-program-manager?team=SFTWR"
@@ -87,13 +92,8 @@
       "title": "Software Engineering Manager \u2013 Apple OS Agentic Infrastructure",
       "url": "https://jobs.apple.com/en-us/details/200663124-0836/software-engineering-manager-apple-os-agentic-infrastructure?team=SFTWR",
       "identifier": "Software Engineering Manager \u2013 Apple OS Agentic In_ntic-infrastructure?team=SFTWR"
-    },
-    {
-      "title": "Senior Security Engineer - Red Team",
-      "url": "https://jobs.apple.com/en-us/details/200654480-3337/senior-security-engineer-red-team?team=SFTWR",
-      "identifier": "Senior Security Engineer - Red Team_y-engineer-red-team?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-15T14:14:55.176507"
+  "timestamp": "2026-05-15T14:31:54.809550"
 }

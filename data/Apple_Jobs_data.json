@@ -4,6 +4,11 @@
   "total_jobs": 17,
   "jobs": [
     {
+      "title": "Senior Software Engineer, Enterprise Technology Services",
+      "url": "https://jobs.apple.com/en-us/details/200657296-3956/senior-software-engineer-enterprise-technology-services?team=SFTWR",
+      "identifier": "Senior Software Engineer, Enterprise Technology Se_technology-services?team=SFTWR"
+    },
+    {
       "title": "Wi-Fi UI Engineer, Wireless Technologies & Ecosystems",
       "url": "https://jobs.apple.com/en-us/details/200663633-0836/wi-fi-ui-engineer-wireless-technologies-ecosystems?team=SFTWR",
       "identifier": "Wi-Fi UI Engineer, Wireless Technologies & Ecosyst_nologies-ecosystems?team=SFTWR"
@@ -82,13 +87,8 @@
       "title": "Swift Compiler Engineering Manager, Languages & Runtimes",
       "url": "https://jobs.apple.com/en-us/details/200663404-0836/swift-compiler-engineering-manager-languages-runtimes?team=SFTWR",
       "identifier": "Swift Compiler Engineering Manager, Languages & Ru_-languages-runtimes?team=SFTWR"
-    },
-    {
-      "title": "Manager, Product Management - AI & Data Platforms",
-      "url": "https://jobs.apple.com/en-us/details/200662445-3956/manager-product-management-ai-data-platforms?team=SFTWR",
-      "identifier": "Manager, Product Management - AI & Data Platforms_t-ai-data-platforms?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-15T22:30:21.783484"
+  "timestamp": "2026-05-15T22:47:29.491705"
 }

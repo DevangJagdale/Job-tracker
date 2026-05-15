@@ -4,6 +4,16 @@
   "total_jobs": 18,
   "jobs": [
     {
+      "title": "Software Engineer, Employee Experience & Productivity",
+      "url": "https://jobs.apple.com/en-us/details/200660609-0670/software-engineer-employee-experience-productivity?team=SFTWR",
+      "identifier": "Software Engineer, Employee Experience & Productiv_rience-productivity?team=SFTWR"
+    },
+    {
+      "title": "Network Framework and Device Connectivity Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200663573-3401/network-framework-and-device-connectivity-engineer?team=SFTWR",
+      "identifier": "Network Framework and Device Connectivity Engineer_nnectivity-engineer?team=SFTWR"
+    },
+    {
       "title": "Machine Learning Engineer",
       "url": "https://jobs.apple.com/en-us/details/200663254-3543/machine-learning-engineer?team=SFTWR",
       "identifier": "Machine Learning Engineer_e-learning-engineer?team=SFTWR"
@@ -12,11 +22,6 @@
       "title": "AI Engineering Manager - GenAI Platform , Infra & AIOps",
       "url": "https://jobs.apple.com/en-us/details/200646708-0836/ai-engineering-manager-genai-platform-infra-aiops?team=MLAI",
       "identifier": "AI Engineering Manager - GenAI Platform , Infra & _platform-infra-aiops?team=MLAI"
-    },
-    {
-      "title": "Software Engineer, Employee Experience & Productivity",
-      "url": "https://jobs.apple.com/en-us/details/200660609-0670/software-engineer-employee-experience-productivity?team=SFTWR",
-      "identifier": "Software Engineer, Employee Experience & Productiv_rience-productivity?team=SFTWR"
     },
     {
       "title": "Senior Software Engineer, Ads",
@@ -87,13 +92,8 @@
       "title": "Software Integrity Engineer, Camera & Photos",
       "url": "https://jobs.apple.com/en-us/details/200653661-0836/software-integrity-engineer-camera-photos?team=SFTWR",
       "identifier": "Software Integrity Engineer, Camera & Photos_ineer-camera-photos?team=SFTWR"
-    },
-    {
-      "title": "Architect, Perimeter and Network Security, Enterprise Technology Services",
-      "url": "https://jobs.apple.com/en-us/details/200663398-3956/architect-perimeter-and-network-security-enterprise-technology-services?team=SFTWR",
-      "identifier": "Architect, Perimeter and Network Security, Enterpr_technology-services?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-15T19:14:42.201244"
+  "timestamp": "2026-05-15T19:31:48.788601"
 }

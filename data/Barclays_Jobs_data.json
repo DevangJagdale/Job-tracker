@@ -4,6 +4,21 @@
   "total_jobs": 15,
   "jobs": [
     {
+      "title": "Data Scientist, AVP",
+      "url": "https://search.jobs.barclays/job/new-york/data-scientist-avp/13015/95132408608",
+      "identifier": "Data Scientist, AVP_cientist-avp/13015/95132408608"
+    },
+    {
+      "title": "ICB Insurance Coverage AVP",
+      "url": "https://search.jobs.barclays/job/new-york/icb-insurance-coverage-avp/13015/95132408544",
+      "identifier": "ICB Insurance Coverage AVP_coverage-avp/13015/95132408544"
+    },
+    {
+      "title": "Physical Security Access Control Systems Operator",
+      "url": "https://search.jobs.barclays/job/wilmington/physical-security-access-control-systems-operator/13015/95132394672",
+      "identifier": "Physical Security Access Control Systems Operator_ems-operator/13015/95132394672"
+    },
+    {
       "title": "Sr. Broadridge Settlements Specialist, AVP",
       "url": "https://search.jobs.barclays/job/whippany/sr-broadridge-settlements-specialist-avp/13015/95104606608",
       "identifier": "Sr. Broadridge Settlements Specialist, AVP_ecialist-avp/13015/95104606608"
@@ -27,11 +42,6 @@
       "title": "Unix System Administrator, AVP",
       "url": "https://search.jobs.barclays/job/whippany/unix-system-administrator-avp/13015/95104606400",
       "identifier": "Unix System Administrator, AVP_istrator-avp/13015/95104606400"
-    },
-    {
-      "title": "Senior Software Engineer/Architect",
-      "url": "https://search.jobs.barclays/job/whippany/senior-software-engineer-architect/13015/95104599520",
-      "identifier": "Senior Software Engineer/Architect_er-architect/13015/95104599520"
     },
     {
       "title": "USCB Controls Assurance Portfolio Lead",
@@ -67,18 +77,8 @@
       "title": "Quality Engineer",
       "url": "https://search.jobs.barclays/job/whippany/quality-engineer/13015/95070782544",
       "identifier": "Quality Engineer_ity-engineer/13015/95070782544"
-    },
-    {
-      "title": "Senior Analyst Transaction Monitoring Detection & Optimization",
-      "url": "https://search.jobs.barclays/job/new-york/senior-analyst-transaction-monitoring-detection-and-optimization/13015/95070777200",
-      "identifier": "Senior Analyst Transaction Monitoring Detection & _optimization/13015/95070777200"
-    },
-    {
-      "title": "VP Transaction Monitoring Detection & Optimization",
-      "url": "https://search.jobs.barclays/job/new-york/vp-transaction-monitoring-detection-and-optimization/13015/95070777168",
-      "identifier": "VP Transaction Monitoring Detection & Optimization_optimization/13015/95070777168"
     }
   ],
-  "job_count_text": "135",
-  "timestamp": "2026-05-15T17:31:13.165130"
+  "job_count_text": "139",
+  "timestamp": "2026-05-15T17:48:20.625990"
 }

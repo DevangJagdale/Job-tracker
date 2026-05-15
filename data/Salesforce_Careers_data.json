@@ -1,14 +1,109 @@
 {
   "page_title": "Salesforce Jobs | Salesforce Careers",
   "url": "https://careers.salesforce.com/en/jobs/?search=&country=United+States+of+America&team=Data&team=Enterprise+Technology+%26+Infrastructure&team=Software+Engineering&jobtype=New+Grads&pagesize=20#results",
-  "total_jobs": 1,
+  "total_jobs": 20,
   "jobs": [
     {
-      "title": "AI Builder, Emerging Talent",
-      "url": "https://careers.salesforce.com/en/jobs/jr341276/ai-builder-emerging-talent/",
-      "identifier": "AI Builder, Emerging Talent_76/ai-builder-emerging-talent/"
+      "title": "User Interface/User Experience Senior Designer",
+      "url": "https://careers.salesforce.com/en/jobs/jr342222/user-interfaceuser-experience-senior-designer/",
+      "identifier": "User Interface/User Experience Senior Designer_er-experience-senior-designer/"
+    },
+    {
+      "title": "Customer Success Manager - Core (Sales & Service) Clouds - Missionforce - TS/SCI Clearance",
+      "url": "https://careers.salesforce.com/en/jobs/jr342302/customer-success-manager-core-sales-service-clouds-missionforce-tssci-clearance/",
+      "identifier": "Customer Success Manager - Core (Sales & Service) _-missionforce-tssci-clearance/"
+    },
+    {
+      "title": "Senior Lifecycle Automation Manager, Slack",
+      "url": "https://careers.salesforce.com/en/jobs/jr340490/senior-lifecycle-automation-manager-slack/",
+      "identifier": "Senior Lifecycle Automation Manager, Slack_ycle-automation-manager-slack/"
+    },
+    {
+      "title": "Content Design Program Manager",
+      "url": "https://careers.salesforce.com/en/jobs/jr340165/content-design-program-manager/",
+      "identifier": "Content Design Program Manager_ontent-design-program-manager/"
+    },
+    {
+      "title": "Customer Success Manager - Data360 - Missionforce - TS/SCI Clearance",
+      "url": "https://careers.salesforce.com/en/jobs/jr340656/customer-success-manager-data360-missionforce-tssci-clearance/",
+      "identifier": "Customer Success Manager - Data360 - Missionforce _-missionforce-tssci-clearance/"
+    },
+    {
+      "title": "Customer Success Manager - Core (Sales & Service) Clouds - Missionforce",
+      "url": "https://careers.salesforce.com/en/jobs/jr342355/customer-success-manager-core-sales-service-clouds-missionforce/",
+      "identifier": "Customer Success Manager - Core (Sales & Service) _s-service-clouds-missionforce/"
+    },
+    {
+      "title": "Customer Success Manager - Director - Slack",
+      "url": "https://careers.salesforce.com/en/jobs/jr339729/customer-success-manager-director-slack/",
+      "identifier": "Customer Success Manager - Director - Slack_uccess-manager-director-slack/"
+    },
+    {
+      "title": "Principal Design Program Manager",
+      "url": "https://careers.salesforce.com/en/jobs/jr339197/principal-design-program-manager/",
+      "identifier": "Principal Design Program Manager_ncipal-design-program-manager/"
+    },
+    {
+      "title": "Principal Product Designer, Agentforce Revenue Management",
+      "url": "https://careers.salesforce.com/en/jobs/jr327071/principal-product-designer-agentforce-revenue-management/",
+      "identifier": "Principal Product Designer, Agentforce Revenue Man_agentforce-revenue-management/"
+    },
+    {
+      "title": "VP, Alliances - Partner Account Management, Accenture",
+      "url": "https://careers.salesforce.com/en/jobs/jr341265/vp-alliances-partner-account-management-accenture/",
+      "identifier": "VP, Alliances - Partner Account Management, Accent_-account-management-accenture/"
+    },
+    {
+      "title": "Technical Curriculum Development Lead",
+      "url": "https://careers.salesforce.com/en/jobs/jr340050/technical-curriculum-development-lead/",
+      "identifier": "Technical Curriculum Development Lead_l-curriculum-development-lead/"
+    },
+    {
+      "title": "Product Security Lead",
+      "url": "https://careers.salesforce.com/en/jobs/jr328223/product-security-lead/",
+      "identifier": "Product Security Lead_r328223/product-security-lead/"
+    },
+    {
+      "title": "Slack Ecosystem Senior Manager",
+      "url": "https://careers.salesforce.com/en/jobs/jr341820/slack-ecosystem-senior-manager/",
+      "identifier": "Slack Ecosystem Senior Manager_lack-ecosystem-senior-manager/"
+    },
+    {
+      "title": "Success Architect / Senior Success Architect",
+      "url": "https://careers.salesforce.com/en/jobs/jr320532/success-architect-senior-success-architect/",
+      "identifier": "Success Architect / Senior Success Architect_tect-senior-success-architect/"
+    },
+    {
+      "title": "Corporate Counsel, Product Legal",
+      "url": "https://careers.salesforce.com/en/jobs/jr340073/corporate-counsel-product-legal/",
+      "identifier": "Corporate Counsel, Product Legal_rporate-counsel-product-legal/"
+    },
+    {
+      "title": "Lead, Specialist Slack SE",
+      "url": "https://careers.salesforce.com/en/jobs/jr341853/lead-specialist-slack-se/",
+      "identifier": "Lead, Specialist Slack SE_1853/lead-specialist-slack-se/"
+    },
+    {
+      "title": "Partner Technical Architect - Agentforce",
+      "url": "https://careers.salesforce.com/en/jobs/jr328759/partner-technical-architect-agentforce/",
+      "identifier": "Partner Technical Architect - Agentforce_echnical-architect-agentforce/"
+    },
+    {
+      "title": "VP, Agentic Strategy",
+      "url": "https://careers.salesforce.com/en/jobs/jr342224/vp-agentic-strategy/",
+      "identifier": "VP, Agentic Strategy_/jr342224/vp-agentic-strategy/"
+    },
+    {
+      "title": "CSG Director, Attrition Programs \u2013 Product Adoption",
+      "url": "https://careers.salesforce.com/en/jobs/jr339371/csg-director-attrition-programs-product-adoption/",
+      "identifier": "CSG Director, Attrition Programs \u2013 Product Adoptio_ion-programs-product-adoption/"
+    },
+    {
+      "title": "VP & CMO, Developer & Trusted Services",
+      "url": "https://careers.salesforce.com/en/jobs/jr339797/vp-cmo-developer-trusted-services/",
+      "identifier": "VP & CMO, Developer & Trusted Services_mo-developer-trusted-services/"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-15T03:58:13.882265"
+  "timestamp": "2026-05-15T04:15:13.310032"
 }

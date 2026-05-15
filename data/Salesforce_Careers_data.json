@@ -1,109 +1,14 @@
 {
   "page_title": "Salesforce Jobs | Salesforce Careers",
   "url": "https://careers.salesforce.com/en/jobs/?search=&country=United+States+of+America&team=Data&team=Enterprise+Technology+%26+Infrastructure&team=Software+Engineering&jobtype=New+Grads&pagesize=20#results",
-  "total_jobs": 20,
+  "total_jobs": 1,
   "jobs": [
     {
-      "title": "Lead Solution Engineer (B2C Commercial)",
-      "url": "https://careers.salesforce.com/en/jobs/jr341983/lead-solution-engineer-b2c-commercial/",
-      "identifier": "Lead Solution Engineer (B2C Commercial)_ution-engineer-b2c-commercial/"
-    },
-    {
-      "title": "Solution Engineer - Agentforce & Data 360 Specialist",
-      "url": "https://careers.salesforce.com/en/jobs/jr336043/solution-engineer-agentforce-data-360-specialist/",
-      "identifier": "Solution Engineer - Agentforce & Data 360 Speciali_gentforce-data-360-specialist/"
-    },
-    {
-      "title": "Technical Consultant / Senior Technical Consultant - Salesforce Loyalty Cloud",
-      "url": "https://careers.salesforce.com/en/jobs/jr326381/technical-consultant-senior-technical-consultant-salesforce-loyalty-cloud/",
-      "identifier": "Technical Consultant / Senior Technical Consultant_tant-salesforce-loyalty-cloud/"
-    },
-    {
-      "title": "SMTS Workday Integration Engineer",
-      "url": "https://careers.salesforce.com/en/jobs/jr335221/smts-workday-integration-engineer/",
-      "identifier": "SMTS Workday Integration Engineer_-workday-integration-engineer/"
-    },
-    {
-      "title": "Solution Engineer - Marketing Cloud",
-      "url": "https://careers.salesforce.com/en/jobs/jr338317/solution-engineer-marketing-cloud/",
-      "identifier": "Solution Engineer - Marketing Cloud_tion-engineer-marketing-cloud/"
-    },
-    {
-      "title": "Senior Technical Writer",
-      "url": "https://careers.salesforce.com/en/jobs/jr336886/senior-technical-writer/",
-      "identifier": "Senior Technical Writer_36886/senior-technical-writer/"
-    },
-    {
-      "title": "Real Estate Project Delivery Associate Manager",
-      "url": "https://careers.salesforce.com/en/jobs/jr339896/real-estate-project-delivery-associate-manager/",
-      "identifier": "Real Estate Project Delivery Associate Manager_ct-delivery-associate-manager/"
-    },
-    {
-      "title": "Principal Solution Engineer",
-      "url": "https://careers.salesforce.com/en/jobs/jr342753/principal-solution-engineer/",
-      "identifier": "Principal Solution Engineer_3/principal-solution-engineer/"
-    },
-    {
-      "title": "AFD360 Solution Engineer",
-      "url": "https://careers.salesforce.com/en/jobs/jr342690/afd360-solution-engineer/",
-      "identifier": "AFD360 Solution Engineer_2690/afd360-solution-engineer/"
-    },
-    {
-      "title": "Senior Solution Engineer",
-      "url": "https://careers.salesforce.com/en/jobs/jr340045/senior-solution-engineer/",
-      "identifier": "Senior Solution Engineer_0045/senior-solution-engineer/"
-    },
-    {
-      "title": "Mulesoft Technical Architect",
-      "url": "https://careers.salesforce.com/en/jobs/jr342624/mulesoft-technical-architect/",
-      "identifier": "Mulesoft Technical Architect_/mulesoft-technical-architect/"
-    },
-    {
-      "title": "Financial Planning & Analysis Manager",
-      "url": "https://careers.salesforce.com/en/jobs/jr340181/financial-planning-analysis-manager/",
-      "identifier": "Financial Planning & Analysis Manager_ial-planning-analysis-manager/"
-    },
-    {
-      "title": "Software Engineer \u2014 New Graduate, Full-Stack",
-      "url": "https://careers.salesforce.com/en/jobs/jr342639/software-engineer-new-graduate-full-stack/",
-      "identifier": "Software Engineer \u2014 New Graduate, Full-Stack_ineer-new-graduate-full-stack/"
-    },
-    {
-      "title": "Sales Strategy Analyst",
-      "url": "https://careers.salesforce.com/en/jobs/jr341579/sales-strategy-analyst/",
-      "identifier": "Sales Strategy Analyst_341579/sales-strategy-analyst/"
-    },
-    {
-      "title": "Senior Manager User Experience",
-      "url": "https://careers.salesforce.com/en/jobs/jr336887/senior-manager-user-experience/",
-      "identifier": "Senior Manager User Experience_enior-manager-user-experience/"
-    },
-    {
-      "title": "Account Executive - SMB Denmark (Danish Speaking)",
-      "url": "https://careers.salesforce.com/en/jobs/jr338675/account-executive-smb-denmark-danish-speaking/",
-      "identifier": "Account Executive - SMB Denmark (Danish Speaking)_e-smb-denmark-danish-speaking/"
-    },
-    {
-      "title": "Lead, Workforce Intelligence",
-      "url": "https://careers.salesforce.com/en/jobs/jr341318/lead-workforce-intelligence/",
-      "identifier": "Lead, Workforce Intelligence_8/lead-workforce-intelligence/"
-    },
-    {
-      "title": "SRE Systems Engineer",
-      "url": "https://careers.salesforce.com/en/jobs/jr341343/sre-systems-engineer/",
-      "identifier": "SRE Systems Engineer_jr341343/sre-systems-engineer/"
-    },
-    {
-      "title": "Manager, Marketing Analytics & Reporting \u2013 Campaign Intelligence",
-      "url": "https://careers.salesforce.com/en/jobs/jr341903/manager-marketing-analytics-reporting-campaign-intelligence/",
-      "identifier": "Manager, Marketing Analytics & Reporting \u2013 Campaig_porting-campaign-intelligence/"
-    },
-    {
-      "title": "Software Engineering SMTS - LLM Gateway",
-      "url": "https://careers.salesforce.com/en/jobs/jr340791/software-engineering-smts-llm-gateway/",
-      "identifier": "Software Engineering SMTS - LLM Gateway_-engineering-smts-llm-gateway/"
+      "title": "AI Builder, Emerging Talent",
+      "url": "https://careers.salesforce.com/en/jobs/jr341276/ai-builder-emerging-talent/",
+      "identifier": "AI Builder, Emerging Talent_76/ai-builder-emerging-talent/"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-15T10:02:43.831341"
+  "timestamp": "2026-05-15T10:19:50.813559"
 }

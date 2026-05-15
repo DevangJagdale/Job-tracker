@@ -4,6 +4,16 @@
   "total_jobs": 10,
   "jobs": [
     {
+      "title": "New College Grad - New Product Operations (NPO) Supply Planner\nBoise, Idaho, United States of America\nPosted 19 hours ago",
+      "url": "https://careers.micron.com/careers/job/41926377",
+      "identifier": "New College Grad - New Product Operations (NPO) Su_icron.com/careers/job/41926377"
+    },
+    {
+      "title": "New College Grad - Process Integration Engineer\nBoise, Idaho, United States of America\nPosted 19 hours ago",
+      "url": "https://careers.micron.com/careers/job/40475196",
+      "identifier": "New College Grad - Process Integration Engineer\nBo_icron.com/careers/job/40475196"
+    },
+    {
       "title": "Customer and System Enablement Engineer\nBoise, Idaho, United States of America + 3 more\nPosted 19 hours ago",
       "url": "https://careers.micron.com/careers/job/41847847",
       "identifier": "Customer and System Enablement Engineer\nBoise, Ida_icron.com/careers/job/41847847"
@@ -14,29 +24,19 @@
       "identifier": "DRAM Product Engineer Media Health Probe\nBoise, Id_icron.com/careers/job/41848061"
     },
     {
-      "title": "New College Grad - New Product Operations (NPO) Supply Planner\nBoise, Idaho, United States of America\nPosted 19 hours ago",
-      "url": "https://careers.micron.com/careers/job/41926377",
-      "identifier": "New College Grad - New Product Operations (NPO) Su_icron.com/careers/job/41926377"
-    },
-    {
       "title": "Specialist, Global Facilities Operations Systems\nBoise, Idaho, United States of America\nPosted 19 hours ago",
       "url": "https://careers.micron.com/careers/job/41943252",
       "identifier": "Specialist, Global Facilities Operations Systems\nB_icron.com/careers/job/41943252"
     },
     {
-      "title": "Product Development Engineer\nSan Jose, California, United States of America\nPosted 19 hours ago",
-      "url": "https://careers.micron.com/careers/job/41954264",
-      "identifier": "Product Development Engineer\nSan Jose, California,_icron.com/careers/job/41954264"
-    },
-    {
-      "title": "New College Grad - Process Integration Engineer\nBoise, Idaho, United States of America\nPosted 19 hours ago",
-      "url": "https://careers.micron.com/careers/job/40475196",
-      "identifier": "New College Grad - Process Integration Engineer\nBo_icron.com/careers/job/40475196"
-    },
-    {
       "title": "ASIC Engineer 2\nLongmont, Colorado, United States of America\nPosted 19 hours ago",
       "url": "https://careers.micron.com/careers/job/41954073",
       "identifier": "ASIC Engineer 2\nLongmont, Colorado, United States _icron.com/careers/job/41954073"
+    },
+    {
+      "title": "Product Development Engineer\nSan Jose, California, United States of America\nPosted 19 hours ago",
+      "url": "https://careers.micron.com/careers/job/41954264",
+      "identifier": "Product Development Engineer\nSan Jose, California,_icron.com/careers/job/41954264"
     },
     {
       "title": "Dry Etch Process Develop Engineer\nRemote, New York, United States of America\nRemote\nPosted 2 days ago",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "101",
-  "timestamp": "2026-05-15T19:00:42.700191"
+  "timestamp": "2026-05-15T19:17:53.892543"
 }

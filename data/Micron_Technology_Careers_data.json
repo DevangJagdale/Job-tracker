@@ -4,14 +4,14 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Supply Management Analyst\nBoise, Idaho, United States of America\nPosted a day ago",
-      "url": "https://careers.micron.com/careers/job/41482847",
-      "identifier": "Supply Management Analyst\nBoise, Idaho, United Sta_icron.com/careers/job/41482847"
-    },
-    {
       "title": "Design Characterization Engineer\nSan Jose, California, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/41139984",
       "identifier": "Design Characterization Engineer\nSan Jose, Califor_icron.com/careers/job/41139984"
+    },
+    {
+      "title": "Supply Management Analyst\nBoise, Idaho, United States of America\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/41482847",
+      "identifier": "Supply Management Analyst\nBoise, Idaho, United Sta_icron.com/careers/job/41482847"
     },
     {
       "title": "Dry Etch Process Develop Engineer\nRemote, New York, United States of America\nRemote\nPosted a day ago",
@@ -54,6 +54,6 @@
       "identifier": "New College Grad - Photolithography Process Engine_icron.com/careers/job/41923169"
     }
   ],
-  "job_count_text": "93",
-  "timestamp": "2026-05-15T02:59:28.901742"
+  "job_count_text": "94",
+  "timestamp": "2026-05-15T03:16:25.525725"
 }

@@ -1,7 +1,7 @@
 {
   "page_title": "Search CVS Health Jobs | Find Your Next Career Opportunity",
   "url": "https://jobs.cvshealth.com/us/en/search-results",
-  "total_jobs": 8,
+  "total_jobs": 6,
   "jobs": [
     {
       "title": "Field Technician",
@@ -9,41 +9,31 @@
       "identifier": "Field Technician_/job/R0893632/Field-Technician"
     },
     {
+      "title": "Senior Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0748826/Senior-Software-Development-Engineer",
+      "identifier": "Senior Software Development Engineer_-Software-Development-Engineer"
+    },
+    {
+      "title": "Principal Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0882873/Principal-Software-Development-Engineer",
+      "identifier": "Principal Software Development Engineer_-Software-Development-Engineer"
+    },
+    {
+      "title": "Senior Software Development Engineer \u2013 Agentic AI & Messaging Platforms",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0911183/Senior-Software-Development-Engineer-Agentic-AI-Messaging-Platforms",
+      "identifier": "Senior Software Development Engineer \u2013 Agentic AI _Agentic-AI-Messaging-Platforms"
+    },
+    {
+      "title": "Senior Manager, Software Engineering \u2013 Agentic AI & Messaging Platforms",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0911156/Senior-Manager-Software-Engineering-Agentic-AI-Messaging-Platforms",
+      "identifier": "Senior Manager, Software Engineering \u2013 Agentic AI _Agentic-AI-Messaging-Platforms"
+    },
+    {
       "title": "Senior Compute Engineer (Apple Platforms and Automation)",
       "url": "https://jobs.cvshealth.com/us/en/job/R0878389/Senior-Compute-Engineer-Apple-Platforms-and-Automation",
       "identifier": "Senior Compute Engineer (Apple Platforms and Autom_Apple-Platforms-and-Automation"
-    },
-    {
-      "title": "Lead Director - Portfolio and Program Delivery",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0910627/Lead-Director-Portfolio-and-Program-Delivery",
-      "identifier": "Lead Director - Portfolio and Program Delivery_Portfolio-and-Program-Delivery"
-    },
-    {
-      "title": "Senior Analyst, Digital Operations",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0903783/Senior-Analyst-Digital-Operations",
-      "identifier": "Senior Analyst, Digital Operations_ior-Analyst-Digital-Operations"
-    },
-    {
-      "title": "Sr Analyst,Business Analysis",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0908770/Sr-Analyst-Business-Analysis",
-      "identifier": "Sr Analyst,Business Analysis_0/Sr-Analyst-Business-Analysis"
-    },
-    {
-      "title": "Lead Director \u2013 Software Development Engineering (AI & Automation)",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0843277/Lead-Director-Software-Development-Engineering-AI-Automation",
-      "identifier": "Lead Director \u2013 Software Development Engineering (_ment-Engineering-AI-Automation"
-    },
-    {
-      "title": "Senior Quality Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0914109/Senior-Quality-Engineer",
-      "identifier": "Senior Quality Engineer_914109/Senior-Quality-Engineer"
-    },
-    {
-      "title": "Manager, Business Analysis",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0902210/Manager-Business-Analysis",
-      "identifier": "Manager, Business Analysis_2210/Manager-Business-Analysis"
     }
   ],
-  "job_count_text": "35",
-  "timestamp": "2026-05-15T08:10:54.677435"
+  "job_count_text": "45",
+  "timestamp": "2026-05-15T08:27:51.722188"
 }

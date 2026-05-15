@@ -4,6 +4,16 @@
   "total_jobs": 18,
   "jobs": [
     {
+      "title": "Machine Learning Engineer - iCloud Anti-Abuse",
+      "url": "https://jobs.apple.com/en-us/details/200663430-3543/machine-learning-engineer-icloud-anti-abuse?team=SFTWR",
+      "identifier": "Machine Learning Engineer - iCloud Anti-Abuse_r-icloud-anti-abuse?team=SFTWR"
+    },
+    {
+      "title": "Sr. Software Engineer - Apple Cloud Product Services",
+      "url": "https://jobs.apple.com/en-us/details/200663453-3543/sr-software-engineer-apple-cloud-product-services?team=SFTWR",
+      "identifier": "Sr. Software Engineer - Apple Cloud Product Servic_ud-product-services?team=SFTWR"
+    },
+    {
       "title": "Site Reliability Engineering Manager, Storage - Apple Services Engineering",
       "url": "https://jobs.apple.com/en-us/details/200620738-0836/site-reliability-engineering-manager-storage-apple-services-engineering?team=SFTWR",
       "identifier": "Site Reliability Engineering Manager, Storage - Ap_ervices-engineering?team=SFTWR"
@@ -82,18 +92,8 @@
       "title": "Software Engineer, Device Management, CoreOS",
       "url": "https://jobs.apple.com/en-us/details/200663201-0836/software-engineer-device-management-coreos?team=SFTWR",
       "identifier": "Software Engineer, Device Management, CoreOS_e-management-coreos?team=SFTWR"
-    },
-    {
-      "title": "Senior UI and Full-Stack Software Engineer - Special Projects",
-      "url": "https://jobs.apple.com/en-us/details/200663347-0836/senior-ui-and-full-stack-software-engineer-special-projects?team=SFTWR",
-      "identifier": "Senior UI and Full-Stack Software Engineer - Speci_er-special-projects?team=SFTWR"
-    },
-    {
-      "title": "Software Engineering Manager \u2013 Apple OS Agentic Infrastructure",
-      "url": "https://jobs.apple.com/en-us/details/200663124-0836/software-engineering-manager-apple-os-agentic-infrastructure?team=SFTWR",
-      "identifier": "Software Engineering Manager \u2013 Apple OS Agentic In_ntic-infrastructure?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-15T14:40:09.284897"
+  "timestamp": "2026-05-15T14:57:19.244355"
 }

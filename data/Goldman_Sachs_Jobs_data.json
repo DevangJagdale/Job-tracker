@@ -4,6 +4,11 @@
   "total_jobs": 20,
   "jobs": [
     {
+      "title": "Corporate Treasury, Payments Platform, Software Engineering, Associate, NY\nNew York\u00b7United States\n\u00b7Associate",
+      "url": "https://higher.gs.com/roles/170578",
+      "identifier": "Corporate Treasury, Payments Platform, Software En_s://higher.gs.com/roles/170578"
+    },
+    {
       "title": "Wealth Management-Software Engineering-Associate-Richardson\nRichardson\u00b7United States\n\u00b7Associate",
       "url": "https://higher.gs.com/roles/164029",
       "identifier": "Wealth Management-Software Engineering-Associate-R_s://higher.gs.com/roles/164029"
@@ -97,13 +102,8 @@
       "title": "MLOps Engineer - Machine Learning Platform - NY/NJ\nJersey City\u00b7United States\n\u00b7Associate",
       "url": "https://higher.gs.com/roles/153822",
       "identifier": "MLOps Engineer - Machine Learning Platform - NY/NJ_s://higher.gs.com/roles/153822"
-    },
-    {
-      "title": "Asset & Wealth Management-Cloud Engineer-Analyst-Dallas\nDallas\u00b7United States\n\u00b7Analyst",
-      "url": "https://higher.gs.com/roles/168769",
-      "identifier": "Asset & Wealth Management-Cloud Engineer-Analyst-D_s://higher.gs.com/roles/168769"
     }
   ],
-  "job_count_text": "52",
-  "timestamp": "2026-05-15T14:39:17.345707"
+  "job_count_text": "53",
+  "timestamp": "2026-05-15T14:56:27.708604"
 }

@@ -4,14 +4,19 @@
   "total_jobs": 20,
   "jobs": [
     {
+      "title": "Corporate Treasury, Payments Platform, Software Engineering, Associate, Dallas\nDallas\u00b7United States\n\u00b7Associate",
+      "url": "https://higher.gs.com/roles/170575",
+      "identifier": "Corporate Treasury, Payments Platform, Software En_s://higher.gs.com/roles/170575"
+    },
+    {
+      "title": "Engineering-Dallas-Associate-Software Engineering\nDallas\u00b7United States\n\u00b7Associate",
+      "url": "https://higher.gs.com/roles/153020",
+      "identifier": "Engineering-Dallas-Associate-Software Engineering\n_s://higher.gs.com/roles/153020"
+    },
+    {
       "title": "Corporate Treasury, Payments Platform, Software Engineering, Associate, NY\nNew York\u00b7United States\n\u00b7Associate",
       "url": "https://higher.gs.com/roles/170578",
       "identifier": "Corporate Treasury, Payments Platform, Software En_s://higher.gs.com/roles/170578"
-    },
-    {
-      "title": "Wealth Management-Software Engineering-Associate-Richardson\nRichardson\u00b7United States\n\u00b7Associate",
-      "url": "https://higher.gs.com/roles/164029",
-      "identifier": "Wealth Management-Software Engineering-Associate-R_s://higher.gs.com/roles/164029"
     },
     {
       "title": "AI/ML Engineer, Global Banking & Markets, Investment Banking\nDallas\u00b7United States\n\u00b7Associate",
@@ -97,13 +102,8 @@
       "title": "Compliance, Senior Backend Engineer (Java & ETL Specialist), Dallas, Associate\nDallas\u00b7United States\n\u00b7Associate",
       "url": "https://higher.gs.com/roles/168652",
       "identifier": "Compliance, Senior Backend Engineer (Java & ETL Sp_s://higher.gs.com/roles/168652"
-    },
-    {
-      "title": "MLOps Engineer - Machine Learning Platform - NY/NJ\nJersey City\u00b7United States\n\u00b7Associate",
-      "url": "https://higher.gs.com/roles/153822",
-      "identifier": "MLOps Engineer - Machine Learning Platform - NY/NJ_s://higher.gs.com/roles/153822"
     }
   ],
   "job_count_text": "53",
-  "timestamp": "2026-05-15T15:13:58.637954"
+  "timestamp": "2026-05-15T15:31:06.526576"
 }

@@ -1,7 +1,7 @@
 {
   "page_title": "Search our Job Opportunities at Barclays",
   "url": "https://search.jobs.barclays/search-jobs/United%20States/13015/2/6252001/39x76/-98x5/50/2",
-  "total_jobs": 15,
+  "total_jobs": 14,
   "jobs": [
     {
       "title": "Data Scientist, AVP",
@@ -12,11 +12,6 @@
       "title": "ICB Insurance Coverage AVP",
       "url": "https://search.jobs.barclays/job/new-york/icb-insurance-coverage-avp/13015/95132408544",
       "identifier": "ICB Insurance Coverage AVP_coverage-avp/13015/95132408544"
-    },
-    {
-      "title": "Physical Security Access Control Systems Operator",
-      "url": "https://search.jobs.barclays/job/wilmington/physical-security-access-control-systems-operator/13015/95132394672",
-      "identifier": "Physical Security Access Control Systems Operator_ems-operator/13015/95132394672"
     },
     {
       "title": "Sr. Broadridge Settlements Specialist, AVP",
@@ -79,6 +74,6 @@
       "identifier": "Quality Engineer_ity-engineer/13015/95070782544"
     }
   ],
-  "job_count_text": "139",
-  "timestamp": "2026-05-15T23:21:19.134473"
+  "job_count_text": "140",
+  "timestamp": "2026-05-15T23:38:27.419305"
 }

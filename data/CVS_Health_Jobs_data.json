@@ -1,7 +1,7 @@
 {
   "page_title": "Search CVS Health Jobs | Find Your Next Career Opportunity",
   "url": "https://jobs.cvshealth.com/us/en/search-results",
-  "total_jobs": 8,
+  "total_jobs": 6,
   "jobs": [
     {
       "title": "Senior Software Development Engineer (DevOps)",
@@ -24,26 +24,16 @@
       "identifier": "Senior Software Development Engineer_-Software-Development-Engineer"
     },
     {
-      "title": "Principal Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0882873/Principal-Software-Development-Engineer",
-      "identifier": "Principal Software Development Engineer_-Software-Development-Engineer"
+      "title": "Senior Compute Engineer (Apple Platforms and Automation)",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0878389/Senior-Compute-Engineer-Apple-Platforms-and-Automation",
+      "identifier": "Senior Compute Engineer (Apple Platforms and Autom_Apple-Platforms-and-Automation"
     },
     {
       "title": "Senior Software Development Engineer \u2013 Agentic AI & Messaging Platforms",
       "url": "https://jobs.cvshealth.com/us/en/job/R0911183/Senior-Software-Development-Engineer-Agentic-AI-Messaging-Platforms",
       "identifier": "Senior Software Development Engineer \u2013 Agentic AI _Agentic-AI-Messaging-Platforms"
-    },
-    {
-      "title": "Senior Manager, Software Engineering \u2013 Agentic AI & Messaging Platforms",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0911156/Senior-Manager-Software-Engineering-Agentic-AI-Messaging-Platforms",
-      "identifier": "Senior Manager, Software Engineering \u2013 Agentic AI _Agentic-AI-Messaging-Platforms"
-    },
-    {
-      "title": "Senior Compute Engineer (Apple Platforms and Automation)",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0878389/Senior-Compute-Engineer-Apple-Platforms-and-Automation",
-      "identifier": "Senior Compute Engineer (Apple Platforms and Autom_Apple-Platforms-and-Automation"
     }
   ],
   "job_count_text": "45",
-  "timestamp": "2026-05-15T21:05:46.714858"
+  "timestamp": "2026-05-15T21:22:54.136854"
 }

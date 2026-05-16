@@ -4,11 +4,6 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Staff CAD Design Automation Engineer\nBoise, Idaho, United States of America\nPosted 2 days ago",
-      "url": "https://careers.micron.com/careers/job/30948222",
-      "identifier": "Staff CAD Design Automation Engineer\nBoise, Idaho,_icron.com/careers/job/30948222"
-    },
-    {
       "title": "New College Grad - New Product Operations (NPO) Supply Planner\nBoise, Idaho, United States of America\nPosted 2 days ago",
       "url": "https://careers.micron.com/careers/job/41926377",
       "identifier": "New College Grad - New Product Operations (NPO) Su_icron.com/careers/job/41926377"
@@ -44,6 +39,11 @@
       "identifier": "New College Grad - Process Integration Engineer\nBo_icron.com/careers/job/40475196"
     },
     {
+      "title": "Staff CAD Design Automation Engineer\nBoise, Idaho, United States of America\nPosted 2 days ago",
+      "url": "https://careers.micron.com/careers/job/30948222",
+      "identifier": "Staff CAD Design Automation Engineer\nBoise, Idaho,_icron.com/careers/job/30948222"
+    },
+    {
       "title": "Supply Management Analyst\nBoise, Idaho, United States of America\nPosted 3 days ago",
       "url": "https://careers.micron.com/careers/job/41482847",
       "identifier": "Supply Management Analyst\nBoise, Idaho, United Sta_icron.com/careers/job/41482847"
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "101",
-  "timestamp": "2026-05-16T22:52:27.376053"
+  "timestamp": "2026-05-16T23:11:33.031118"
 }

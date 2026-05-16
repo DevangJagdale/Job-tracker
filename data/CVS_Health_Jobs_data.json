@@ -1,18 +1,8 @@
 {
   "page_title": "Search CVS Health Jobs | Find Your Next Career Opportunity",
   "url": "https://jobs.cvshealth.com/us/en/search-results",
-  "total_jobs": 6,
+  "total_jobs": 7,
   "jobs": [
-    {
-      "title": "Senior Software Development Engineer (DevOps)",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0774075/Senior-Software-Development-Engineer-DevOps",
-      "identifier": "Senior Software Development Engineer (DevOps)_re-Development-Engineer-DevOps"
-    },
-    {
-      "title": "Senior Manager - Software Development Engineering",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0823566/Senior-Manager-Software-Development-Engineering",
-      "identifier": "Senior Manager - Software Development Engineering_ftware-Development-Engineering"
-    },
     {
       "title": "Field Technician",
       "url": "https://jobs.cvshealth.com/us/en/job/R0893632/Field-Technician",
@@ -20,20 +10,35 @@
     },
     {
       "title": "Senior Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0876779/Senior-Software-Development-Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0748826/Senior-Software-Development-Engineer",
       "identifier": "Senior Software Development Engineer_-Software-Development-Engineer"
     },
     {
-      "title": "Senior Compute Engineer (Apple Platforms and Automation)",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0878389/Senior-Compute-Engineer-Apple-Platforms-and-Automation",
-      "identifier": "Senior Compute Engineer (Apple Platforms and Autom_Apple-Platforms-and-Automation"
+      "title": "Principal Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0882873/Principal-Software-Development-Engineer",
+      "identifier": "Principal Software Development Engineer_-Software-Development-Engineer"
     },
     {
       "title": "Senior Software Development Engineer \u2013 Agentic AI & Messaging Platforms",
       "url": "https://jobs.cvshealth.com/us/en/job/R0911183/Senior-Software-Development-Engineer-Agentic-AI-Messaging-Platforms",
       "identifier": "Senior Software Development Engineer \u2013 Agentic AI _Agentic-AI-Messaging-Platforms"
+    },
+    {
+      "title": "Senior Manager, Software Engineering \u2013 Agentic AI & Messaging Platforms",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0911156/Senior-Manager-Software-Engineering-Agentic-AI-Messaging-Platforms",
+      "identifier": "Senior Manager, Software Engineering \u2013 Agentic AI _Agentic-AI-Messaging-Platforms"
+    },
+    {
+      "title": "Senior Manager - Software Development Engineering",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0823566/Senior-Manager-Software-Development-Engineering",
+      "identifier": "Senior Manager - Software Development Engineering_ftware-Development-Engineering"
+    },
+    {
+      "title": "Senior Software Development Engineer (DevOps)",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0774075/Senior-Software-Development-Engineer-DevOps",
+      "identifier": "Senior Software Development Engineer (DevOps)_re-Development-Engineer-DevOps"
     }
   ],
   "job_count_text": "45",
-  "timestamp": "2026-05-16T04:03:33.408443"
+  "timestamp": "2026-05-16T04:20:28.437823"
 }

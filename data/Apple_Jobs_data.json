@@ -4,6 +4,11 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Sr. Machine Learning Engineer, ASR Infrastructure and Tools, Siri Speech",
+      "url": "https://jobs.apple.com/en-us/details/200628190-0836/sr-machine-learning-engineer-asr-infrastructure-and-tools-siri-speech?team=SFTWR",
+      "identifier": "Sr. Machine Learning Engineer, ASR Infrastructure _d-tools-siri-speech?team=SFTWR"
+    },
+    {
       "title": "Software Engineer, Calls Security",
       "url": "https://jobs.apple.com/en-us/details/200663651-3543/software-engineer-calls-security?team=SFTWR",
       "identifier": "Software Engineer, Calls Security_neer-calls-security?team=SFTWR"
@@ -77,13 +82,8 @@
       "title": "Senior Design Engineer / Prototyper ISE Incubation-Proactive",
       "url": "https://jobs.apple.com/en-us/details/200663459-0836/senior-design-engineer-prototyper-ise-incubation-proactive?team=SFTWR",
       "identifier": "Senior Design Engineer / Prototyper ISE Incubation_ncubation-proactive?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer, Information Systems & Technology",
-      "url": "https://jobs.apple.com/en-us/details/200653729-0157/software-engineer-information-systems-technology?team=SFTWR",
-      "identifier": "Software Engineer, Information Systems & Technolog_-systems-technology?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-16T00:13:14.528784"
+  "timestamp": "2026-05-16T00:30:19.510969"
 }

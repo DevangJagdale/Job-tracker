@@ -1,8 +1,89 @@
 {
-  "page_title": "Maintenance - Careers at Apple",
-  "url": "https://www.apple.com/careers/us/maintenance.html",
-  "total_jobs": 0,
-  "jobs": [],
+  "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
+  "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
+  "total_jobs": 16,
+  "jobs": [
+    {
+      "title": "Sr. Machine Learning Engineer, ASR Infrastructure and Tools, Siri Speech",
+      "url": "https://jobs.apple.com/en-us/details/200628190-0836/sr-machine-learning-engineer-asr-infrastructure-and-tools-siri-speech?team=SFTWR",
+      "identifier": "Sr. Machine Learning Engineer, ASR Infrastructure _d-tools-siri-speech?team=SFTWR"
+    },
+    {
+      "title": "Software Engineer, Calls Security",
+      "url": "https://jobs.apple.com/en-us/details/200663651-3543/software-engineer-calls-security?team=SFTWR",
+      "identifier": "Software Engineer, Calls Security_neer-calls-security?team=SFTWR"
+    },
+    {
+      "title": "iOS Frameworks Engineer - HealthKit",
+      "url": "https://jobs.apple.com/en-us/details/200662668-3543/ios-frameworks-engineer-healthkit?team=SFTWR",
+      "identifier": "iOS Frameworks Engineer - HealthKit_-engineer-healthkit?team=SFTWR"
+    },
+    {
+      "title": "Senior Software Engineer, Enterprise Technology Services",
+      "url": "https://jobs.apple.com/en-us/details/200657296-3956/senior-software-engineer-enterprise-technology-services?team=SFTWR",
+      "identifier": "Senior Software Engineer, Enterprise Technology Se_technology-services?team=SFTWR"
+    },
+    {
+      "title": "Wi-Fi UI Engineer, Wireless Technologies & Ecosystems",
+      "url": "https://jobs.apple.com/en-us/details/200663633-0836/wi-fi-ui-engineer-wireless-technologies-ecosystems?team=SFTWR",
+      "identifier": "Wi-Fi UI Engineer, Wireless Technologies & Ecosyst_nologies-ecosystems?team=SFTWR"
+    },
+    {
+      "title": "Site Reliability Engineering Manager, Storage - Apple Services Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200620738-0836/site-reliability-engineering-manager-storage-apple-services-engineering?team=SFTWR",
+      "identifier": "Site Reliability Engineering Manager, Storage - Ap_ervices-engineering?team=SFTWR"
+    },
+    {
+      "title": "Software Engineer, Employee Experience & Productivity",
+      "url": "https://jobs.apple.com/en-us/details/200660609-0670/software-engineer-employee-experience-productivity?team=SFTWR",
+      "identifier": "Software Engineer, Employee Experience & Productiv_rience-productivity?team=SFTWR"
+    },
+    {
+      "title": "Network Framework and Device Connectivity Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200663573-3401/network-framework-and-device-connectivity-engineer?team=SFTWR",
+      "identifier": "Network Framework and Device Connectivity Engineer_nnectivity-engineer?team=SFTWR"
+    },
+    {
+      "title": "Machine Learning Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200663254-3543/machine-learning-engineer?team=SFTWR",
+      "identifier": "Machine Learning Engineer_e-learning-engineer?team=SFTWR"
+    },
+    {
+      "title": "AI Engineering Manager - GenAI Platform , Infra & AIOps",
+      "url": "https://jobs.apple.com/en-us/details/200646708-0836/ai-engineering-manager-genai-platform-infra-aiops?team=MLAI",
+      "identifier": "AI Engineering Manager - GenAI Platform , Infra & _platform-infra-aiops?team=MLAI"
+    },
+    {
+      "title": "Senior Software Engineer, Ads",
+      "url": "https://jobs.apple.com/en-us/details/200598196-0836/senior-software-engineer-ads?team=SFTWR",
+      "identifier": "Senior Software Engineer, Ads_ftware-engineer-ads?team=SFTWR"
+    },
+    {
+      "title": "Incubation Software Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200663466-0836/incubation-software-engineer?team=SFTWR",
+      "identifier": "Incubation Software Engineer_n-software-engineer?team=SFTWR"
+    },
+    {
+      "title": "Machine Learning Engineer - iCloud Anti-Abuse",
+      "url": "https://jobs.apple.com/en-us/details/200663430-3543/machine-learning-engineer-icloud-anti-abuse?team=SFTWR",
+      "identifier": "Machine Learning Engineer - iCloud Anti-Abuse_r-icloud-anti-abuse?team=SFTWR"
+    },
+    {
+      "title": "Sr. Software Engineer - Apple Cloud Product Services",
+      "url": "https://jobs.apple.com/en-us/details/200663453-3543/sr-software-engineer-apple-cloud-product-services?team=SFTWR",
+      "identifier": "Sr. Software Engineer - Apple Cloud Product Servic_ud-product-services?team=SFTWR"
+    },
+    {
+      "title": "AIML Data Operations - Account & Program Manager",
+      "url": "https://jobs.apple.com/en-us/details/200661723-0836/aiml-data-operations-account-program-manager?team=SFTWR",
+      "identifier": "AIML Data Operations - Account & Program Manager_unt-program-manager?team=SFTWR"
+    },
+    {
+      "title": "Senior Design Engineer / Prototyper ISE Incubation-Proactive",
+      "url": "https://jobs.apple.com/en-us/details/200663459-0836/senior-design-engineer-prototyper-ise-incubation-proactive?team=SFTWR",
+      "identifier": "Senior Design Engineer / Prototyper ISE Incubation_ncubation-proactive?team=SFTWR"
+    }
+  ],
   "job_count_text": "",
-  "timestamp": "2026-05-16T23:08:31.592327"
+  "timestamp": "2026-05-16T23:25:26.394174"
 }

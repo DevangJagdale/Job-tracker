@@ -4,24 +4,9 @@
   "total_jobs": 8,
   "jobs": [
     {
-      "title": "AI Engineer - Microsoft Power Platform",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0895940/AI-Engineer-Microsoft-Power-Platform",
-      "identifier": "AI Engineer - Microsoft Power Platform_ineer-Microsoft-Power-Platform"
-    },
-    {
       "title": "Senior Manager Quality Assurance",
       "url": "https://jobs.cvshealth.com/us/en/job/R0903292/Senior-Manager-Quality-Assurance",
       "identifier": "Senior Manager Quality Assurance_nior-Manager-Quality-Assurance"
-    },
-    {
-      "title": "Executive Director, Engineering - AI Automation",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0849706/Executive-Director-Engineering-AI-Automation",
-      "identifier": "Executive Director, Engineering - AI Automation_ctor-Engineering-AI-Automation"
-    },
-    {
-      "title": "Staff Software Development Engineer - Automation",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0890126/Staff-Software-Development-Engineer-Automation",
-      "identifier": "Staff Software Development Engineer - Automation_evelopment-Engineer-Automation"
     },
     {
       "title": "Field Service Technician - Egg Harbor Township, NJ",
@@ -29,21 +14,36 @@
       "identifier": "Field Service Technician - Egg Harbor Township, NJ_hnician-Egg-Harbor-Township-NJ"
     },
     {
-      "title": "Senior Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0907355/Senior-Software-Development-Engineer",
-      "identifier": "Senior Software Development Engineer_-Software-Development-Engineer"
-    },
-    {
       "title": "Field Service Technician - Summerlin, Las Vegas, Henderson, Nevada area",
       "url": "https://jobs.cvshealth.com/us/en/job/R0914800/Field-Service-Technician-Summerlin-Las-Vegas-Henderson-Nevada-area",
       "identifier": "Field Service Technician - Summerlin, Las Vegas, H_as-Vegas-Henderson-Nevada-area"
     },
     {
+      "title": "Field Technician",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0893632/Field-Technician",
+      "identifier": "Field Technician_/job/R0893632/Field-Technician"
+    },
+    {
       "title": "Senior Compute Engineer (Apple Platforms and Automation)",
       "url": "https://jobs.cvshealth.com/us/en/job/R0878389/Senior-Compute-Engineer-Apple-Platforms-and-Automation",
       "identifier": "Senior Compute Engineer (Apple Platforms and Autom_Apple-Platforms-and-Automation"
+    },
+    {
+      "title": "Senior Analyst, Digital Operations",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0903783/Senior-Analyst-Digital-Operations",
+      "identifier": "Senior Analyst, Digital Operations_ior-Analyst-Digital-Operations"
+    },
+    {
+      "title": "Lead Director \u2013 Software Development Engineering (AI & Automation)",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0843277/Lead-Director-Software-Development-Engineering-AI-Automation",
+      "identifier": "Lead Director \u2013 Software Development Engineering (_ment-Engineering-AI-Automation"
+    },
+    {
+      "title": "Senior Quality Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0914109/Senior-Quality-Engineer",
+      "identifier": "Senior Quality Engineer_914109/Senior-Quality-Engineer"
     }
   ],
-  "job_count_text": "40",
-  "timestamp": "2026-05-17T05:57:07.874557"
+  "job_count_text": "33",
+  "timestamp": "2026-05-17T06:14:11.400253"
 }

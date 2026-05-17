@@ -4,11 +4,6 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Staff CAD Design Automation Engineer\nBoise, Idaho, United States of America\nPosted 3 days ago",
-      "url": "https://careers.micron.com/careers/job/30948222",
-      "identifier": "Staff CAD Design Automation Engineer\nBoise, Idaho,_icron.com/careers/job/30948222"
-    },
-    {
       "title": "ASIC Engineer 2\nLongmont, Colorado, United States of America\nPosted 3 days ago",
       "url": "https://careers.micron.com/careers/job/41954073",
       "identifier": "ASIC Engineer 2\nLongmont, Colorado, United States _icron.com/careers/job/41954073"
@@ -44,6 +39,11 @@
       "identifier": "New College Grad - New Product Operations (NPO) Su_icron.com/careers/job/41926377"
     },
     {
+      "title": "Staff CAD Design Automation Engineer\nBoise, Idaho, United States of America\nPosted 3 days ago",
+      "url": "https://careers.micron.com/careers/job/30948222",
+      "identifier": "Staff CAD Design Automation Engineer\nBoise, Idaho,_icron.com/careers/job/30948222"
+    },
+    {
       "title": "Dry Etch Process Develop Engineer\nRemote, New York, United States of America\nRemote\nPosted 4 days ago",
       "url": "https://careers.micron.com/careers/job/41806531",
       "identifier": "Dry Etch Process Develop Engineer\nRemote, New York_icron.com/careers/job/41806531"
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "101",
-  "timestamp": "2026-05-17T15:44:37.842293"
+  "timestamp": "2026-05-17T16:01:37.613151"
 }

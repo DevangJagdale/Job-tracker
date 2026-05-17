@@ -4,14 +4,14 @@
   "total_jobs": 8,
   "jobs": [
     {
-      "title": "Staff Software Development Engineer - Automation",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0890126/Staff-Software-Development-Engineer-Automation",
-      "identifier": "Staff Software Development Engineer - Automation_evelopment-Engineer-Automation"
-    },
-    {
       "title": "AI Engineer - Microsoft Power Platform",
       "url": "https://jobs.cvshealth.com/us/en/job/R0895940/AI-Engineer-Microsoft-Power-Platform",
       "identifier": "AI Engineer - Microsoft Power Platform_ineer-Microsoft-Power-Platform"
+    },
+    {
+      "title": "Staff Software Development Engineer - Automation",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0890126/Staff-Software-Development-Engineer-Automation",
+      "identifier": "Staff Software Development Engineer - Automation_evelopment-Engineer-Automation"
     },
     {
       "title": "Executive Director, Engineering - AI Automation",
@@ -39,11 +39,11 @@
       "identifier": "Field Service Technician - Summerlin, Las Vegas, H_as-Vegas-Henderson-Nevada-area"
     },
     {
-      "title": "Field Technician",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0893632/Field-Technician",
-      "identifier": "Field Technician_/job/R0893632/Field-Technician"
+      "title": "Senior Compute Engineer (Apple Platforms and Automation)",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0878389/Senior-Compute-Engineer-Apple-Platforms-and-Automation",
+      "identifier": "Senior Compute Engineer (Apple Platforms and Autom_Apple-Platforms-and-Automation"
     }
   ],
   "job_count_text": "40",
-  "timestamp": "2026-05-17T02:58:49.498018"
+  "timestamp": "2026-05-17T03:16:02.011591"
 }

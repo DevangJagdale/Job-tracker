@@ -4,6 +4,11 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Software Development Engineer Test - Customer Systems",
+      "url": "https://jobs.apple.com/en-us/details/200663027-3956/software-development-engineer-test-customer-systems?team=SFTWR",
+      "identifier": "Software Development Engineer Test - Customer Syst_st-customer-systems?team=SFTWR"
+    },
+    {
       "title": "Sr. Machine Learning Engineer, ASR Infrastructure and Tools, Siri Speech",
       "url": "https://jobs.apple.com/en-us/details/200628190-0836/sr-machine-learning-engineer-asr-infrastructure-and-tools-siri-speech?team=SFTWR",
       "identifier": "Sr. Machine Learning Engineer, ASR Infrastructure _d-tools-siri-speech?team=SFTWR"
@@ -77,13 +82,8 @@
       "title": "AIML Data Operations - Account & Program Manager",
       "url": "https://jobs.apple.com/en-us/details/200661723-0836/aiml-data-operations-account-program-manager?team=SFTWR",
       "identifier": "AIML Data Operations - Account & Program Manager_unt-program-manager?team=SFTWR"
-    },
-    {
-      "title": "Senior Design Engineer / Prototyper ISE Incubation-Proactive",
-      "url": "https://jobs.apple.com/en-us/details/200663459-0836/senior-design-engineer-prototyper-ise-incubation-proactive?team=SFTWR",
-      "identifier": "Senior Design Engineer / Prototyper ISE Incubation_ncubation-proactive?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-17T19:48:20.145977"
+  "timestamp": "2026-05-17T20:05:24.718094"
 }

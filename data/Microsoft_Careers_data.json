@@ -4,6 +4,11 @@
   "total_jobs": 10,
   "jobs": [
     {
+      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 5 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556859896?domain=microsoft.com",
+      "identifier": "Software Engineer II\nUnited States, Washington, Re_556859896?domain=microsoft.com"
+    },
+    {
       "title": "Member of Technical Staff - Copilot\nUnited States, Washington, Redmond\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556867694?domain=microsoft.com",
       "identifier": "Member of Technical Staff - Copilot\nUnited States,_556867694?domain=microsoft.com"
@@ -19,7 +24,7 @@
       "identifier": "Applied Scientist II\nUnited States, Washington, Re_556621351?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer - Performance Tooling\nUnited States, Washington, Redmond + 1 more\nPosted 2 hours ago",
+      "title": "Senior Software Engineer - Performance Tooling\nUnited States, Washington, Redmond + 1 more\nPosted 3 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556853720?domain=microsoft.com",
       "identifier": "Senior Software Engineer - Performance Tooling\nUni_556853720?domain=microsoft.com"
     },
@@ -47,13 +52,8 @@
       "title": "Software Engineer\nUnited States, Washington, Redmond\nPosted 3 days ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556867170?domain=microsoft.com",
       "identifier": "Software Engineer\nUnited States, Washington, Redmo_556867170?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Applied Scientist\nUnited States, Washington, Redmond\nPosted 3 days ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556866472?domain=microsoft.com",
-      "identifier": "Senior Applied Scientist\nUnited States, Washington_556866472?domain=microsoft.com"
     }
   ],
   "job_count_text": "446",
-  "timestamp": "2026-05-18T20:55:24.533397"
+  "timestamp": "2026-05-18T21:12:28.323672"
 }

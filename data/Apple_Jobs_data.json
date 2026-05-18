@@ -4,6 +4,11 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Mail Data Foundations Engineering Manager",
+      "url": "https://jobs.apple.com/en-us/details/200662720-3543/mail-data-foundations-engineering-manager?team=MLAI",
+      "identifier": "Mail Data Foundations Engineering Manager_-engineering-manager?team=MLAI"
+    },
+    {
       "title": "Senior Privacy QA Engineer, User Privacy",
       "url": "https://jobs.apple.com/en-us/details/200663896-3543/senior-privacy-qa-engineer-user-privacy?team=SFTWR",
       "identifier": "Senior Privacy QA Engineer, User Privacy_gineer-user-privacy?team=SFTWR"
@@ -77,13 +82,8 @@
       "title": "Software Development Engineer - Platform Productization, Core OS",
       "url": "https://jobs.apple.com/en-us/details/200663599-3543/software-development-engineer-platform-productization-core-os?team=SFTWR",
       "identifier": "Software Development Engineer - Platform Productiz_ductization-core-os?team=SFTWR"
-    },
-    {
-      "title": "Tools and Automation Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200663616-0365/tools-and-automation-engineer?team=SFTWR",
-      "identifier": "Tools and Automation Engineer_automation-engineer?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-18T20:55:40.441826"
+  "timestamp": "2026-05-18T21:12:44.971959"
 }

@@ -4,6 +4,11 @@
   "total_jobs": 10,
   "jobs": [
     {
+      "title": "Sr. Software Engineer -CTJ- Poly\nUnited States, Washington, Redmond + 1 more\nPosted 9 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556863239?domain=microsoft.com",
+      "identifier": "Sr. Software Engineer -CTJ- Poly\nUnited States, Wa_556863239?domain=microsoft.com"
+    },
+    {
       "title": "Software Engineer\nUnited States, Washington, Redmond\nPosted 3 days ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556867170?domain=microsoft.com",
       "identifier": "Software Engineer\nUnited States, Washington, Redmo_556867170?domain=microsoft.com"
@@ -47,13 +52,8 @@
       "title": "Software Engineering IC4\nUnited States, Washington, Redmond + 2 more\nPosted 4 days ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556852468?domain=microsoft.com",
       "identifier": "Software Engineering IC4\nUnited States, Washington_556852468?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Software Engineer - AI Frameworks\nUnited States, Washington, Redmond + 1 more\nPosted 4 days ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556857279?domain=microsoft.com",
-      "identifier": "Senior Software Engineer - AI Frameworks\nUnited St_556857279?domain=microsoft.com"
     }
   ],
-  "job_count_text": "445",
-  "timestamp": "2026-05-18T13:12:35.221462"
+  "job_count_text": "446",
+  "timestamp": "2026-05-18T13:29:37.596614"
 }

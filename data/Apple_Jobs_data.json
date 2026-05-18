@@ -4,6 +4,16 @@
   "total_jobs": 13,
   "jobs": [
     {
+      "title": "Software Engineer - AI Agents & Automation, Maps Data Tooling",
+      "url": "https://jobs.apple.com/en-us/details/200663946-0836/software-engineer-ai-agents-automation-maps-data-tooling?team=SFTWR",
+      "identifier": "Software Engineer - AI Agents & Automation, Maps D_n-maps-data-tooling?team=SFTWR"
+    },
+    {
+      "title": "Senior Software Engineer - Routing Intelligence",
+      "url": "https://jobs.apple.com/en-us/details/200663950-0836/senior-software-engineer-routing-intelligence?team=SFTWR",
+      "identifier": "Senior Software Engineer - Routing Intelligence_outing-intelligence?team=SFTWR"
+    },
+    {
       "title": "Sr. Engineering Program Manager, Security, Apple Services Engineering",
       "url": "https://jobs.apple.com/en-us/details/200663998-3337/sr-engineering-program-manager-security-apple-services-engineering?team=SFTWR",
       "identifier": "Sr. Engineering Program Manager, Security, Apple S_ervices-engineering?team=SFTWR"
@@ -57,18 +67,8 @@
       "title": "Software Engineer - Host Access",
       "url": "https://jobs.apple.com/en-us/details/200663184-3337/software-engineer-host-access?team=SFTWR",
       "identifier": "Software Engineer - Host Access_ngineer-host-access?team=SFTWR"
-    },
-    {
-      "title": "Senior Machine Learning Engineer, Apple Services Engineering",
-      "url": "https://jobs.apple.com/en-us/details/200663898-3337/senior-machine-learning-engineer-apple-services-engineering?team=SFTWR",
-      "identifier": "Senior Machine Learning Engineer, Apple Services E_ervices-engineering?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer, Apple Services Engineering - Commerce",
-      "url": "https://jobs.apple.com/en-us/details/200663550-0836/software-engineer-apple-services-engineering-commerce?team=SFTWR",
-      "identifier": "Software Engineer, Apple Services Engineering - Co_ngineering-commerce?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-18T22:39:03.116842"
+  "timestamp": "2026-05-18T22:56:08.337678"
 }

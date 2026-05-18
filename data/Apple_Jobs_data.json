@@ -1,8 +1,18 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 17,
+  "total_jobs": 16,
   "jobs": [
+    {
+      "title": "Site Reliability Engineer (Edge Services), Infrastructure Services",
+      "url": "https://jobs.apple.com/en-us/details/200663929-0157/site-reliability-engineer-edge-services-infrastructure-services?team=SFTWR",
+      "identifier": "Site Reliability Engineer (Edge Services), Infrast_astructure-services?team=SFTWR"
+    },
+    {
+      "title": "Computational Linguist, Proactive",
+      "url": "https://jobs.apple.com/en-us/details/200650142-0836/computational-linguist-proactive?team=SFTWR",
+      "identifier": "Computational Linguist, Proactive_-linguist-proactive?team=SFTWR"
+    },
     {
       "title": "Production Services Engineer - Apple Services Engineering",
       "url": "https://jobs.apple.com/en-us/details/200663488-3337/production-services-engineer-apple-services-engineering?team=SFTWR",
@@ -72,23 +82,8 @@
       "title": "Sr. Machine Learning Engineer, ASR Infrastructure and Tools, Siri Speech",
       "url": "https://jobs.apple.com/en-us/details/200628190-0836/sr-machine-learning-engineer-asr-infrastructure-and-tools-siri-speech?team=SFTWR",
       "identifier": "Sr. Machine Learning Engineer, ASR Infrastructure _d-tools-siri-speech?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer, Calls Security",
-      "url": "https://jobs.apple.com/en-us/details/200663651-3543/software-engineer-calls-security?team=SFTWR",
-      "identifier": "Software Engineer, Calls Security_neer-calls-security?team=SFTWR"
-    },
-    {
-      "title": "iOS Frameworks Engineer - HealthKit",
-      "url": "https://jobs.apple.com/en-us/details/200662668-3543/ios-frameworks-engineer-healthkit?team=SFTWR",
-      "identifier": "iOS Frameworks Engineer - HealthKit_-engineer-healthkit?team=SFTWR"
-    },
-    {
-      "title": "Senior Software Engineer, Enterprise Technology Services",
-      "url": "https://jobs.apple.com/en-us/details/200657296-3956/senior-software-engineer-enterprise-technology-services?team=SFTWR",
-      "identifier": "Senior Software Engineer, Enterprise Technology Se_technology-services?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-18T19:03:14.644526"
+  "timestamp": "2026-05-18T19:20:17.205934"
 }

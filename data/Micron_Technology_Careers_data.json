@@ -4,16 +4,6 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "ASIC Engineer 2\nLongmont, Colorado, United States of America\nPosted 3 days ago",
-      "url": "https://careers.micron.com/careers/job/41954073",
-      "identifier": "ASIC Engineer 2\nLongmont, Colorado, United States _icron.com/careers/job/41954073"
-    },
-    {
-      "title": "Product Development Engineer\nSan Jose, California, United States of America\nPosted 3 days ago",
-      "url": "https://careers.micron.com/careers/job/41954264",
-      "identifier": "Product Development Engineer\nSan Jose, California,_icron.com/careers/job/41954264"
-    },
-    {
       "title": "Staff CAD Design Automation Engineer\nBoise, Idaho, United States of America\nPosted 3 days ago",
       "url": "https://careers.micron.com/careers/job/30948222",
       "identifier": "Staff CAD Design Automation Engineer\nBoise, Idaho,_icron.com/careers/job/30948222"
@@ -32,6 +22,16 @@
       "title": "Customer and System Enablement Engineer\nBoise, Idaho, United States of America + 3 more\nPosted 3 days ago",
       "url": "https://careers.micron.com/careers/job/41847847",
       "identifier": "Customer and System Enablement Engineer\nBoise, Ida_icron.com/careers/job/41847847"
+    },
+    {
+      "title": "ASIC Engineer 2\nLongmont, Colorado, United States of America\nPosted 3 days ago",
+      "url": "https://careers.micron.com/careers/job/41954073",
+      "identifier": "ASIC Engineer 2\nLongmont, Colorado, United States _icron.com/careers/job/41954073"
+    },
+    {
+      "title": "Product Development Engineer\nSan Jose, California, United States of America\nPosted 3 days ago",
+      "url": "https://careers.micron.com/careers/job/41954264",
+      "identifier": "Product Development Engineer\nSan Jose, California,_icron.com/careers/job/41954264"
     },
     {
       "title": "New College Grad - Process Integration Engineer\nBoise, Idaho, United States of America\nPosted 3 days ago",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "101",
-  "timestamp": "2026-05-18T09:34:14.467790"
+  "timestamp": "2026-05-18T09:51:18.008116"
 }

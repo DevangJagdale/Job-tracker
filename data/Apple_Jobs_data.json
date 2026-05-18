@@ -4,6 +4,11 @@
   "total_jobs": 17,
   "jobs": [
     {
+      "title": "Tools and Automation Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200663616-3956/tools-and-automation-engineer?team=SFTWR",
+      "identifier": "Tools and Automation Engineer_automation-engineer?team=SFTWR"
+    },
+    {
       "title": "Software Engineer iCloud- Apple Services Engineering",
       "url": "https://jobs.apple.com/en-us/details/200663794-0157/software-engineer-icloud-apple-services-engineering?team=SFTWR",
       "identifier": "Software Engineer iCloud- Apple Services Engineeri_ervices-engineering?team=SFTWR"
@@ -82,13 +87,8 @@
       "title": "Sr. Software Engineer - Apple Cloud Product Services",
       "url": "https://jobs.apple.com/en-us/details/200663453-3543/sr-software-engineer-apple-cloud-product-services?team=SFTWR",
       "identifier": "Sr. Software Engineer - Apple Cloud Product Servic_ud-product-services?team=SFTWR"
-    },
-    {
-      "title": "AIML Data Operations - Account & Program Manager",
-      "url": "https://jobs.apple.com/en-us/details/200661723-0836/aiml-data-operations-account-program-manager?team=SFTWR",
-      "identifier": "AIML Data Operations - Account & Program Manager_unt-program-manager?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-18T17:01:46.474916"
+  "timestamp": "2026-05-18T17:18:46.059234"
 }

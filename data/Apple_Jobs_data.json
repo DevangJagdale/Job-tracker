@@ -4,6 +4,16 @@
   "total_jobs": 13,
   "jobs": [
     {
+      "title": "Sr Site Reliability Engineer, Customer Systems",
+      "url": "https://jobs.apple.com/en-us/details/200662993-0157/sr-site-reliability-engineer-customer-systems?team=SFTWR",
+      "identifier": "Sr Site Reliability Engineer, Customer Systems_er-customer-systems?team=SFTWR"
+    },
+    {
+      "title": "Principal Security Software Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200654159-3337/principal-security-software-engineer?team=SFTWR",
+      "identifier": "Principal Security Software Engineer_y-software-engineer?team=SFTWR"
+    },
+    {
       "title": "Software Engineer - AI Agents & Automation, Maps Data Tooling",
       "url": "https://jobs.apple.com/en-us/details/200663946-0836/software-engineer-ai-agents-automation-maps-data-tooling?team=SFTWR",
       "identifier": "Software Engineer - AI Agents & Automation, Maps D_n-maps-data-tooling?team=SFTWR"
@@ -57,18 +67,8 @@
       "title": "Production Services Engineer - Apple Services Engineering",
       "url": "https://jobs.apple.com/en-us/details/200663488-3337/production-services-engineer-apple-services-engineering?team=SFTWR",
       "identifier": "Production Services Engineer - Apple Services Engi_ervices-engineering?team=SFTWR"
-    },
-    {
-      "title": "Storage Infrastructure - ASE",
-      "url": "https://jobs.apple.com/en-us/details/200661012/storage-infrastructure-ase?team=SFTWR",
-      "identifier": "Storage Infrastructure - ASE_-infrastructure-ase?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer - Host Access",
-      "url": "https://jobs.apple.com/en-us/details/200663184-3337/software-engineer-host-access?team=SFTWR",
-      "identifier": "Software Engineer - Host Access_ngineer-host-access?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-18T23:13:15.659476"
+  "timestamp": "2026-05-18T23:30:19.488661"
 }

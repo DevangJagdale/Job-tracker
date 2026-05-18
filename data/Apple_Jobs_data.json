@@ -1,11 +1,11 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 17,
+  "total_jobs": 16,
   "jobs": [
     {
       "title": "Tools and Automation Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200663616-3956/tools-and-automation-engineer?team=SFTWR",
+      "url": "https://jobs.apple.com/en-us/details/200663616-0365/tools-and-automation-engineer?team=SFTWR",
       "identifier": "Tools and Automation Engineer_automation-engineer?team=SFTWR"
     },
     {
@@ -82,13 +82,8 @@
       "title": "Machine Learning Engineer - iCloud Anti-Abuse",
       "url": "https://jobs.apple.com/en-us/details/200663430-3543/machine-learning-engineer-icloud-anti-abuse?team=SFTWR",
       "identifier": "Machine Learning Engineer - iCloud Anti-Abuse_r-icloud-anti-abuse?team=SFTWR"
-    },
-    {
-      "title": "Sr. Software Engineer - Apple Cloud Product Services",
-      "url": "https://jobs.apple.com/en-us/details/200663453-3543/sr-software-engineer-apple-cloud-product-services?team=SFTWR",
-      "identifier": "Sr. Software Engineer - Apple Cloud Product Servic_ud-product-services?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-18T17:18:46.059234"
+  "timestamp": "2026-05-18T17:35:47.557659"
 }

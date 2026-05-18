@@ -4,11 +4,6 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "New College Grad - Process Integration Engineer\nBoise, Idaho, United States of America\nPosted 4 days ago",
-      "url": "https://careers.micron.com/careers/job/40475196",
-      "identifier": "New College Grad - Process Integration Engineer\nBo_icron.com/careers/job/40475196"
-    },
-    {
       "title": "ASIC Engineer 2\nLongmont, Colorado, United States of America\nPosted 4 days ago",
       "url": "https://careers.micron.com/careers/job/41954073",
       "identifier": "ASIC Engineer 2\nLongmont, Colorado, United States _icron.com/careers/job/41954073"
@@ -17,11 +12,6 @@
       "title": "Product Development Engineer\nSan Jose, California, United States of America\nPosted 4 days ago",
       "url": "https://careers.micron.com/careers/job/41954264",
       "identifier": "Product Development Engineer\nSan Jose, California,_icron.com/careers/job/41954264"
-    },
-    {
-      "title": "DRAM Product Engineer Media Health Probe\nBoise, Idaho, United States of America\nPosted 4 days ago",
-      "url": "https://careers.micron.com/careers/job/41848061",
-      "identifier": "DRAM Product Engineer Media Health Probe\nBoise, Id_icron.com/careers/job/41848061"
     },
     {
       "title": "Staff CAD Design Automation Engineer\nBoise, Idaho, United States of America\nPosted 4 days ago",
@@ -44,16 +34,26 @@
       "identifier": "Customer and System Enablement Engineer\nBoise, Ida_icron.com/careers/job/41847847"
     },
     {
-      "title": "Dry Etch Process Develop Engineer\nRemote, New York, United States of America\nRemote\nPosted 5 days ago",
-      "url": "https://careers.micron.com/careers/job/41806531",
-      "identifier": "Dry Etch Process Develop Engineer\nRemote, New York_icron.com/careers/job/41806531"
+      "title": "New College Grad - Process Integration Engineer\nBoise, Idaho, United States of America\nPosted 4 days ago",
+      "url": "https://careers.micron.com/careers/job/40475196",
+      "identifier": "New College Grad - Process Integration Engineer\nBo_icron.com/careers/job/40475196"
     },
     {
-      "title": "Dry Etch Process Develop Engineer\nRemote, New York, United States of America\nRemote\nPosted 5 days ago",
-      "url": "https://careers.micron.com/careers/job/41806530",
-      "identifier": "Dry Etch Process Develop Engineer\nRemote, New York_icron.com/careers/job/41806530"
+      "title": "DRAM Product Engineer Media Health Probe\nBoise, Idaho, United States of America\nPosted 4 days ago",
+      "url": "https://careers.micron.com/careers/job/41848061",
+      "identifier": "DRAM Product Engineer Media Health Probe\nBoise, Id_icron.com/careers/job/41848061"
+    },
+    {
+      "title": "Design Characterization Engineer\nSan Jose, California, United States of America\nPosted 5 days ago",
+      "url": "https://careers.micron.com/careers/job/41139984",
+      "identifier": "Design Characterization Engineer\nSan Jose, Califor_icron.com/careers/job/41139984"
+    },
+    {
+      "title": "Supply Management Analyst\nBoise, Idaho, United States of America\nPosted 5 days ago",
+      "url": "https://careers.micron.com/careers/job/41482847",
+      "identifier": "Supply Management Analyst\nBoise, Idaho, United Sta_icron.com/careers/job/41482847"
     }
   ],
   "job_count_text": "101",
-  "timestamp": "2026-05-18T12:58:54.300730"
+  "timestamp": "2026-05-18T13:15:58.496055"
 }

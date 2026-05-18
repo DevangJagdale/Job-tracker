@@ -4,6 +4,21 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Senior Software Engineer, Machine Learning Infrastructure and Quality",
+      "url": "https://jobs.apple.com/en-us/details/200663885-3337/senior-software-engineer-machine-learning-infrastructure-and-quality?team=SFTWR",
+      "identifier": "Senior Software Engineer, Machine Learning Infrast_ructure-and-quality?team=SFTWR"
+    },
+    {
+      "title": "Senior Product Manager, Claris",
+      "url": "https://jobs.apple.com/en-us/details/200652607-3956/senior-product-manager-claris?team=SFTWR",
+      "identifier": "Senior Product Manager, Claris_duct-manager-claris?team=SFTWR"
+    },
+    {
+      "title": "Software Development Engineer - Platform Productization, Core OS",
+      "url": "https://jobs.apple.com/en-us/details/200663599-3543/software-development-engineer-platform-productization-core-os?team=SFTWR",
+      "identifier": "Software Development Engineer - Platform Productiz_ductization-core-os?team=SFTWR"
+    },
+    {
       "title": "Tools and Automation Engineer",
       "url": "https://jobs.apple.com/en-us/details/200663616-0365/tools-and-automation-engineer?team=SFTWR",
       "identifier": "Tools and Automation Engineer_automation-engineer?team=SFTWR"
@@ -67,23 +82,8 @@
       "title": "AI Engineering Manager - GenAI Platform , Infra & AIOps",
       "url": "https://jobs.apple.com/en-us/details/200646708-0836/ai-engineering-manager-genai-platform-infra-aiops?team=MLAI",
       "identifier": "AI Engineering Manager - GenAI Platform , Infra & _platform-infra-aiops?team=MLAI"
-    },
-    {
-      "title": "Senior Software Engineer, Ads",
-      "url": "https://jobs.apple.com/en-us/details/200598196-0836/senior-software-engineer-ads?team=SFTWR",
-      "identifier": "Senior Software Engineer, Ads_ftware-engineer-ads?team=SFTWR"
-    },
-    {
-      "title": "Incubation Software Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200663466-0836/incubation-software-engineer?team=SFTWR",
-      "identifier": "Incubation Software Engineer_n-software-engineer?team=SFTWR"
-    },
-    {
-      "title": "Machine Learning Engineer - iCloud Anti-Abuse",
-      "url": "https://jobs.apple.com/en-us/details/200663430-3543/machine-learning-engineer-icloud-anti-abuse?team=SFTWR",
-      "identifier": "Machine Learning Engineer - iCloud Anti-Abuse_r-icloud-anti-abuse?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-18T17:35:47.557659"
+  "timestamp": "2026-05-18T17:52:54.074733"
 }

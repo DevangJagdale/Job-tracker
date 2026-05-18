@@ -4,6 +4,11 @@
   "total_jobs": 13,
   "jobs": [
     {
+      "title": "Sr. Engineering Program Manager, Security, Apple Services Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200663998-3337/sr-engineering-program-manager-security-apple-services-engineering?team=SFTWR",
+      "identifier": "Sr. Engineering Program Manager, Security, Apple S_ervices-engineering?team=SFTWR"
+    },
+    {
       "title": "Wireless Bluetooth Quality Engineer, Wireless Technologies & Ecosystems",
       "url": "https://jobs.apple.com/en-us/details/200663462-0836/wireless-bluetooth-quality-engineer-wireless-technologies-ecosystems?team=SFTWR",
       "identifier": "Wireless Bluetooth Quality Engineer, Wireless Tech_nologies-ecosystems?team=SFTWR"
@@ -12,11 +17,6 @@
       "title": "Wireless Bluetooth QA Engineer, Wireless Technologies & Ecosystems",
       "url": "https://jobs.apple.com/en-us/details/200663697-0836/wireless-bluetooth-qa-engineer-wireless-technologies-ecosystems?team=SFTWR",
       "identifier": "Wireless Bluetooth QA Engineer, Wireless Technolog_nologies-ecosystems?team=SFTWR"
-    },
-    {
-      "title": "Sr. Engineering Program Manager, Security, Apple Services Engineering",
-      "url": "https://jobs.apple.com/en-us/details/200663998-3337/sr-engineering-program-manager-security-apple-services-engineering?team=SFTWR",
-      "identifier": "Sr. Engineering Program Manager, Security, Apple S_ervices-engineering?team=SFTWR"
     },
     {
       "title": "Mail Data Foundations Engineering Manager",
@@ -70,5 +70,5 @@
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-18T22:21:58.934515"
+  "timestamp": "2026-05-18T22:39:03.116842"
 }

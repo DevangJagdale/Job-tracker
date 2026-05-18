@@ -4,6 +4,11 @@
   "total_jobs": 17,
   "jobs": [
     {
+      "title": "Production Services Engineer - Apple Services Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200663488-3337/production-services-engineer-apple-services-engineering?team=SFTWR",
+      "identifier": "Production Services Engineer - Apple Services Engi_ervices-engineering?team=SFTWR"
+    },
+    {
       "title": "Storage Infrastructure - ASE",
       "url": "https://jobs.apple.com/en-us/details/200661012/storage-infrastructure-ase?team=SFTWR",
       "identifier": "Storage Infrastructure - ASE_-infrastructure-ase?team=SFTWR"
@@ -22,11 +27,6 @@
       "title": "Software Engineer, Apple Services Engineering - Commerce",
       "url": "https://jobs.apple.com/en-us/details/200663550-0836/software-engineer-apple-services-engineering-commerce?team=SFTWR",
       "identifier": "Software Engineer, Apple Services Engineering - Co_ngineering-commerce?team=SFTWR"
-    },
-    {
-      "title": "Production Services Engineer - Apple Services Engineering",
-      "url": "https://jobs.apple.com/en-us/details/200663488-3337/production-services-engineer-apple-services-engineering?team=SFTWR",
-      "identifier": "Production Services Engineer - Apple Services Engi_ervices-engineering?team=SFTWR"
     },
     {
       "title": "Software Engineer, G&A Solutions Engineering (GSE)",
@@ -90,5 +90,5 @@
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-18T18:44:01.580510"
+  "timestamp": "2026-05-18T19:03:14.644526"
 }

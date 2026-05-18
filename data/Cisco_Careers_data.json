@@ -1,8 +1,28 @@
 {
   "page_title": "Job Openings - Cisco Careers",
   "url": "https://careers.cisco.com/global/en/search-results?s=1",
-  "total_jobs": 10,
+  "total_jobs": 9,
   "jobs": [
+    {
+      "title": "Customer Experience Project Specialist I (Full-Time) - United States",
+      "url": "https://careers.cisco.com/global/en/job/2001576/Customer-Experience-Project-Specialist-I-Full-Time-United-States",
+      "identifier": "Customer Experience Project Specialist I (Full-Tim_list-I-Full-Time-United-States"
+    },
+    {
+      "title": "Engineering Project Specialist II (Full Time) - United States",
+      "url": "https://careers.cisco.com/global/en/job/2014971/Engineering-Project-Specialist-II-Full-Time-United-States",
+      "identifier": "Engineering Project Specialist II (Full Time) - Un_ist-II-Full-Time-United-States"
+    },
+    {
+      "title": "Software Development Engineer II (Full Time) \u2013 United States",
+      "url": "https://careers.cisco.com/global/en/job/2014387/Software-Development-Engineer-II-Full-Time-United-States",
+      "identifier": "Software Development Engineer II (Full Time) \u2013 Uni_eer-II-Full-Time-United-States"
+    },
+    {
+      "title": "Account Development Representative II (Full Time) United States",
+      "url": "https://careers.cisco.com/global/en/job/2001887/Account-Development-Representative-II-Full-Time-United-States",
+      "identifier": "Account Development Representative II (Full Time) _ive-II-Full-Time-United-States"
+    },
     {
       "title": "Strategy and Operations Manager MBA (Full Time) - United States",
       "url": "https://careers.cisco.com/global/en/job/2011072/Strategy-and-Operations-Manager-MBA-Full-Time-United-States",
@@ -14,9 +34,9 @@
       "identifier": "AI Product Manager II (Full-Time) \u2013 United States_ger-II-Full-Time-United-States"
     },
     {
-      "title": "Engineering Project Specialist II (Full Time) - United States",
-      "url": "https://careers.cisco.com/global/en/job/2014971/Engineering-Project-Specialist-II-Full-Time-United-States",
-      "identifier": "Engineering Project Specialist II (Full Time) - Un_ist-II-Full-Time-United-States"
+      "title": "Sales Development Representative I (Full Time) - United States (Virtual Demand Center)",
+      "url": "https://careers.cisco.com/global/en/job/2005272/Sales-Development-Representative-I-Full-Time-United-States-Virtual-Demand-Center",
+      "identifier": "Sales Development Representative I (Full Time) - U_d-States-Virtual-Demand-Center"
     },
     {
       "title": "Sales Development Representative Outbound Sales II (Full Time) - United States",
@@ -24,36 +44,11 @@
       "identifier": "Sales Development Representative Outbound Sales II_les-II-Full-Time-United-States"
     },
     {
-      "title": "Customer Experience Project Specialist I (Full-Time) - United States",
-      "url": "https://careers.cisco.com/global/en/job/2001576/Customer-Experience-Project-Specialist-I-Full-Time-United-States",
-      "identifier": "Customer Experience Project Specialist I (Full-Tim_list-I-Full-Time-United-States"
-    },
-    {
-      "title": "Software Development Engineer II (Full Time) \u2013 United States",
-      "url": "https://careers.cisco.com/global/en/job/2014387/Software-Development-Engineer-II-Full-Time-United-States",
-      "identifier": "Software Development Engineer II (Full Time) \u2013 Uni_eer-II-Full-Time-United-States"
-    },
-    {
-      "title": "Sales Development Representative I (Full Time) - United States (Virtual Demand Center)",
-      "url": "https://careers.cisco.com/global/en/job/2005272/Sales-Development-Representative-I-Full-Time-United-States-Virtual-Demand-Center",
-      "identifier": "Sales Development Representative I (Full Time) - U_d-States-Virtual-Demand-Center"
-    },
-    {
-      "title": "Account Development Representative II (Full Time) United States",
-      "url": "https://careers.cisco.com/global/en/job/2001887/Account-Development-Representative-II-Full-Time-United-States",
-      "identifier": "Account Development Representative II (Full Time) _ive-II-Full-Time-United-States"
-    },
-    {
       "title": "Sales Development Representative II (Full Time) United States (Virtual Demand Center) - United States",
       "url": "https://careers.cisco.com/global/en/job/2008662/Sales-Development-Representative-II-Full-Time-United-States-Virtual-Demand-Center-United-States",
       "identifier": "Sales Development Representative II (Full Time) Un_al-Demand-Center-United-States"
-    },
-    {
-      "title": "Software Engineer - Graduate - Slovakia",
-      "url": "https://careers.cisco.com/global/en/job/2013016/Software-Engineer-Graduate-Slovakia",
-      "identifier": "Software Engineer - Graduate - Slovakia_are-Engineer-Graduate-Slovakia"
     }
   ],
-  "job_count_text": "32",
-  "timestamp": "2026-05-18T07:43:40.401948"
+  "job_count_text": "9",
+  "timestamp": "2026-05-18T08:00:38.872988"
 }

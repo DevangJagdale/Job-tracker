@@ -4,29 +4,14 @@
   "total_jobs": 8,
   "jobs": [
     {
-      "title": "Senior Software Engineering Manager",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0884073/Senior-Software-Engineering-Manager",
-      "identifier": "Senior Software Engineering Manager_r-Software-Engineering-Manager"
-    },
-    {
       "title": "Lead Director - Software Development Engineering (RxClaims Adjudication)",
       "url": "https://jobs.cvshealth.com/us/en/job/R0875710/Lead-Director-Software-Development-Engineering-RxClaims-Adjudication",
       "identifier": "Lead Director - Software Development Engineering (_ineering-RxClaims-Adjudication"
     },
     {
-      "title": "Senior Manager - Software Development Engineering",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0915200/Senior-Manager-Software-Development-Engineering",
-      "identifier": "Senior Manager - Software Development Engineering_ftware-Development-Engineering"
-    },
-    {
-      "title": "Staff Solutions Engineer - Manhattan Active Warehouse Management",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0859681/Staff-Solutions-Engineer-Manhattan-Active-Warehouse-Management",
-      "identifier": "Staff Solutions Engineer - Manhattan Active Wareho_an-Active-Warehouse-Management"
-    },
-    {
-      "title": "Senior Manager - Software Engineering (Health100 Platform)",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0863062/Senior-Manager-Software-Engineering-Health100-Platform",
-      "identifier": "Senior Manager - Software Engineering (Health100 P_Engineering-Health100-Platform"
+      "title": "Senior Software Engineering Manager",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0884073/Senior-Software-Engineering-Manager",
+      "identifier": "Senior Software Engineering Manager_r-Software-Engineering-Manager"
     },
     {
       "title": "Senior Software Development Engineer",
@@ -34,16 +19,31 @@
       "identifier": "Senior Software Development Engineer_-Software-Development-Engineer"
     },
     {
-      "title": "Field Service Technician - Summerlin, Las Vegas, Henderson, Nevada area",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0914800/Field-Service-Technician-Summerlin-Las-Vegas-Henderson-Nevada-area",
-      "identifier": "Field Service Technician - Summerlin, Las Vegas, H_as-Vegas-Henderson-Nevada-area"
+      "title": "Senior Manager - Software Engineering (Health100 Platform)",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0863062/Senior-Manager-Software-Engineering-Health100-Platform",
+      "identifier": "Senior Manager - Software Engineering (Health100 P_Engineering-Health100-Platform"
+    },
+    {
+      "title": "Staff Solutions Engineer - Manhattan Active Warehouse Management",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0859681/Staff-Solutions-Engineer-Manhattan-Active-Warehouse-Management",
+      "identifier": "Staff Solutions Engineer - Manhattan Active Wareho_an-Active-Warehouse-Management"
+    },
+    {
+      "title": "Senior Manager - Software Development Engineering",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0915200/Senior-Manager-Software-Development-Engineering",
+      "identifier": "Senior Manager - Software Development Engineering_ftware-Development-Engineering"
     },
     {
       "title": "Senior Manager Quality Assurance",
       "url": "https://jobs.cvshealth.com/us/en/job/R0903292/Senior-Manager-Quality-Assurance",
       "identifier": "Senior Manager Quality Assurance_nior-Manager-Quality-Assurance"
+    },
+    {
+      "title": "Field Service Technician - Summerlin, Las Vegas, Henderson, Nevada area",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0914800/Field-Service-Technician-Summerlin-Las-Vegas-Henderson-Nevada-area",
+      "identifier": "Field Service Technician - Summerlin, Las Vegas, H_as-Vegas-Henderson-Nevada-area"
     }
   ],
   "job_count_text": "38",
-  "timestamp": "2026-05-18T18:27:59.918304"
+  "timestamp": "2026-05-18T18:45:02.337767"
 }

@@ -1,8 +1,18 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 16,
+  "total_jobs": 13,
   "jobs": [
+    {
+      "title": "Wireless Bluetooth Quality Engineer, Wireless Technologies & Ecosystems",
+      "url": "https://jobs.apple.com/en-us/details/200663462-0836/wireless-bluetooth-quality-engineer-wireless-technologies-ecosystems?team=SFTWR",
+      "identifier": "Wireless Bluetooth Quality Engineer, Wireless Tech_nologies-ecosystems?team=SFTWR"
+    },
+    {
+      "title": "Wireless Bluetooth QA Engineer, Wireless Technologies & Ecosystems",
+      "url": "https://jobs.apple.com/en-us/details/200663697-0836/wireless-bluetooth-qa-engineer-wireless-technologies-ecosystems?team=SFTWR",
+      "identifier": "Wireless Bluetooth QA Engineer, Wireless Technolog_nologies-ecosystems?team=SFTWR"
+    },
     {
       "title": "Sr. Engineering Program Manager, Security, Apple Services Engineering",
       "url": "https://jobs.apple.com/en-us/details/200663998-3337/sr-engineering-program-manager-security-apple-services-engineering?team=SFTWR",
@@ -17,11 +27,6 @@
       "title": "Senior Privacy QA Engineer, User Privacy",
       "url": "https://jobs.apple.com/en-us/details/200663896-3543/senior-privacy-qa-engineer-user-privacy?team=SFTWR",
       "identifier": "Senior Privacy QA Engineer, User Privacy_gineer-user-privacy?team=SFTWR"
-    },
-    {
-      "title": "Wireless Bluetooth Quality Engineer, Wireless Technologies & Ecosystems",
-      "url": "https://jobs.apple.com/en-us/details/200663462-0836/wireless-bluetooth-quality-engineer-wireless-technologies-ecosystems?team=SFTWR",
-      "identifier": "Wireless Bluetooth Quality Engineer, Wireless Tech_nologies-ecosystems?team=SFTWR"
     },
     {
       "title": "Partner Content Manager",
@@ -62,28 +67,8 @@
       "title": "Software Engineer, Apple Services Engineering - Commerce",
       "url": "https://jobs.apple.com/en-us/details/200663550-0836/software-engineer-apple-services-engineering-commerce?team=SFTWR",
       "identifier": "Software Engineer, Apple Services Engineering - Co_ngineering-commerce?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer, G&A Solutions Engineering (GSE)",
-      "url": "https://jobs.apple.com/en-us/details/200655905-0157/software-engineer-g-a-solutions-engineering-gse?team=SFTWR",
-      "identifier": "Software Engineer, G&A Solutions Engineering (GSE)_ons-engineering-gse?team=SFTWR"
-    },
-    {
-      "title": "AI/ML - Senior OS Software Engineer, Evaluation",
-      "url": "https://jobs.apple.com/en-us/details/200658427-0836/ai-ml-senior-os-software-engineer-evaluation?team=SFTWR",
-      "identifier": "AI/ML - Senior OS Software Engineer, Evaluation_engineer-evaluation?team=SFTWR"
-    },
-    {
-      "title": "Senior Software Engineer, Machine Learning Infrastructure and Quality",
-      "url": "https://jobs.apple.com/en-us/details/200663885-3337/senior-software-engineer-machine-learning-infrastructure-and-quality?team=SFTWR",
-      "identifier": "Senior Software Engineer, Machine Learning Infrast_ructure-and-quality?team=SFTWR"
-    },
-    {
-      "title": "Senior Product Manager, Claris",
-      "url": "https://jobs.apple.com/en-us/details/200652607-3956/senior-product-manager-claris?team=SFTWR",
-      "identifier": "Senior Product Manager, Claris_duct-manager-claris?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-18T22:04:25.631007"
+  "timestamp": "2026-05-18T22:21:58.934515"
 }

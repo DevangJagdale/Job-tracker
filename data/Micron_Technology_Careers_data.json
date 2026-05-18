@@ -4,14 +4,14 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Signal and Power Integrity Lab Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
-      "url": "https://careers.micron.com/careers/job/41839528",
-      "identifier": "Signal and Power Integrity Lab Engineer\nBoise, Ida_icron.com/careers/job/41839528"
-    },
-    {
       "title": "Quality Engineer\nLongmont, Colorado, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/41978275",
       "identifier": "Quality Engineer\nLongmont, Colorado, United States_icron.com/careers/job/41978275"
+    },
+    {
+      "title": "Signal and Power Integrity Lab Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/41839528",
+      "identifier": "Signal and Power Integrity Lab Engineer\nBoise, Ida_icron.com/careers/job/41839528"
     },
     {
       "title": "Customer and System Enablement Engineer\nBoise, Idaho, United States of America + 3 more\nPosted 4 days ago",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "101",
-  "timestamp": "2026-05-18T22:07:58.803235"
+  "timestamp": "2026-05-18T22:25:07.133670"
 }

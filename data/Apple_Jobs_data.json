@@ -4,6 +4,11 @@
   "total_jobs": 15,
   "jobs": [
     {
+      "title": "Wireless Bluetooth Quality Engineer, Wireless Technologies & Ecosystems",
+      "url": "https://jobs.apple.com/en-us/details/200663462-0836/wireless-bluetooth-quality-engineer-wireless-technologies-ecosystems?team=SFTWR",
+      "identifier": "Wireless Bluetooth Quality Engineer, Wireless Tech_nologies-ecosystems?team=SFTWR"
+    },
+    {
       "title": "Partner Content Manager",
       "url": "https://jobs.apple.com/en-us/details/200663751-0670/partner-content-manager?team=SFTWR",
       "identifier": "Partner Content Manager_ner-content-manager?team=SFTWR"
@@ -72,13 +77,8 @@
       "title": "Tools and Automation Engineer",
       "url": "https://jobs.apple.com/en-us/details/200663616-0365/tools-and-automation-engineer?team=SFTWR",
       "identifier": "Tools and Automation Engineer_automation-engineer?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer iCloud- Apple Services Engineering",
-      "url": "https://jobs.apple.com/en-us/details/200663794-0157/software-engineer-icloud-apple-services-engineering?team=SFTWR",
-      "identifier": "Software Engineer iCloud- Apple Services Engineeri_ervices-engineering?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-18T19:56:32.720049"
+  "timestamp": "2026-05-18T20:04:10.010820"
 }

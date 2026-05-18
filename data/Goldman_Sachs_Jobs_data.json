@@ -54,11 +54,6 @@
       "identifier": "Asset & Wealth Management-Software Engineering-Ass_s://higher.gs.com/roles/163040"
     },
     {
-      "title": "Asset & Wealth Management-Software Engineering-Associate-Albany\nAlbany\u00b7United States\n\u00b7Associate",
-      "url": "https://higher.gs.com/roles/163039",
-      "identifier": "Asset & Wealth Management-Software Engineering-Ass_s://higher.gs.com/roles/163039"
-    },
-    {
       "title": "Asset & Wealth Management-Generative AI Software Engineer-Associate-Albany\nAlbany\u00b7United States\n\u00b7Associate",
       "url": "https://higher.gs.com/roles/162184",
       "identifier": "Asset & Wealth Management-Generative AI Software E_s://higher.gs.com/roles/162184"
@@ -67,21 +62,6 @@
       "title": "Asset & Wealth Management-Scrum Master Engineer-Associate-Albany\nAlbany\u00b7United States\n\u00b7Associate",
       "url": "https://higher.gs.com/roles/158357",
       "identifier": "Asset & Wealth Management-Scrum Master Engineer-As_s://higher.gs.com/roles/158357"
-    },
-    {
-      "title": "Asset & Wealth Management-DevOps Cloud Engineer-Associate-Richardson\nRichardson\u00b7United States\n\u00b7Associate",
-      "url": "https://higher.gs.com/roles/159167",
-      "identifier": "Asset & Wealth Management-DevOps Cloud Engineer-As_s://higher.gs.com/roles/159167"
-    },
-    {
-      "title": "Asset & Wealth Management-Software Engineering-Associate-Richardson\nRichardson\u00b7United States\n\u00b7Associate",
-      "url": "https://higher.gs.com/roles/164031",
-      "identifier": "Asset & Wealth Management-Software Engineering-Ass_s://higher.gs.com/roles/164031"
-    },
-    {
-      "title": "Asset & Wealth Management-Software Engineering-Associate-Richardson\nRichardson\u00b7United States\n\u00b7Associate",
-      "url": "https://higher.gs.com/roles/164034",
-      "identifier": "Asset & Wealth Management-Software Engineering-Ass_s://higher.gs.com/roles/164034"
     },
     {
       "title": "Software Engineering - Data, Lakehouse and AI Data Platform Engineer - Associate - Dallas\nDallas\u00b7United States\n\u00b7Associate",
@@ -102,8 +82,28 @@
       "title": "Asset & Wealth Management - Software Engineer - Associate - Salt Lake City\nSalt Lake City\u00b7United States\n\u00b7Associate",
       "url": "https://higher.gs.com/roles/159035",
       "identifier": "Asset & Wealth Management - Software Engineer - As_s://higher.gs.com/roles/159035"
+    },
+    {
+      "title": "Asset & Wealth Management-Software Engineering-Associate-Dallas\nDallas\u00b7United States\n\u00b7Associate",
+      "url": "https://higher.gs.com/roles/163546",
+      "identifier": "Asset & Wealth Management-Software Engineering-Ass_s://higher.gs.com/roles/163546"
+    },
+    {
+      "title": "Asset & Wealth Management-Software Engineering-Associate-Dallas\nDallas\u00b7United States\n\u00b7Associate",
+      "url": "https://higher.gs.com/roles/165889",
+      "identifier": "Asset & Wealth Management-Software Engineering-Ass_s://higher.gs.com/roles/165889"
+    },
+    {
+      "title": "AMD Public-Dallas-Associate-Software Engineering\nDallas\u00b7United States\n\u00b7Associate",
+      "url": "https://higher.gs.com/roles/161567",
+      "identifier": "AMD Public-Dallas-Associate-Software Engineering\nD_s://higher.gs.com/roles/161567"
+    },
+    {
+      "title": "Asset & Wealth Management - AI Solutions Engineer - Associate - Dallas\nDallas\u00b7United States\n\u00b7Associate",
+      "url": "https://higher.gs.com/roles/168764",
+      "identifier": "Asset & Wealth Management - AI Solutions Engineer _s://higher.gs.com/roles/168764"
     }
   ],
-  "job_count_text": "48",
-  "timestamp": "2026-05-18T19:36:31.389863"
+  "job_count_text": "44",
+  "timestamp": "2026-05-18T19:55:42.257873"
 }

@@ -1,8 +1,13 @@
 {
   "page_title": "Search our Job Opportunities at Barclays",
   "url": "https://search.jobs.barclays/search-jobs/United%20States/13015/2/6252001/39x76/-98x5/50/2",
-  "total_jobs": 14,
+  "total_jobs": 15,
   "jobs": [
+    {
+      "title": "Post Trade Applications Production Engineer",
+      "url": "https://search.jobs.barclays/job/whippany/post-trade-applications-production-engineer/13015/95147278192",
+      "identifier": "Post Trade Applications Production Engineer_ion-engineer/13015/95147278192"
+    },
     {
       "title": "Data Scientist, AVP",
       "url": "https://search.jobs.barclays/job/new-york/data-scientist-avp/13015/95132408608",
@@ -74,6 +79,6 @@
       "identifier": "Senior Analyst Transaction Monitoring Detection & _optimization/13015/95070777200"
     }
   ],
-  "job_count_text": "127",
-  "timestamp": "2026-05-18T11:29:46.339584"
+  "job_count_text": "125",
+  "timestamp": "2026-05-18T11:46:49.825462"
 }

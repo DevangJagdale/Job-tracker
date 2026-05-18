@@ -1,8 +1,23 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 16,
+  "total_jobs": 17,
   "jobs": [
+    {
+      "title": "Storage Infrastructure - ASE",
+      "url": "https://jobs.apple.com/en-us/details/200661012/storage-infrastructure-ase?team=SFTWR",
+      "identifier": "Storage Infrastructure - ASE_-infrastructure-ase?team=SFTWR"
+    },
+    {
+      "title": "Software Engineer - Host Access",
+      "url": "https://jobs.apple.com/en-us/details/200663184-3337/software-engineer-host-access?team=SFTWR",
+      "identifier": "Software Engineer - Host Access_ngineer-host-access?team=SFTWR"
+    },
+    {
+      "title": "Senior Machine Learning Engineer, Apple Services Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200663898-3337/senior-machine-learning-engineer-apple-services-engineering?team=SFTWR",
+      "identifier": "Senior Machine Learning Engineer, Apple Services E_ervices-engineering?team=SFTWR"
+    },
     {
       "title": "Software Engineer, Apple Services Engineering - Commerce",
       "url": "https://jobs.apple.com/en-us/details/200663550-0836/software-engineer-apple-services-engineering-commerce?team=SFTWR",
@@ -72,18 +87,8 @@
       "title": "Senior Software Engineer, Enterprise Technology Services",
       "url": "https://jobs.apple.com/en-us/details/200657296-3956/senior-software-engineer-enterprise-technology-services?team=SFTWR",
       "identifier": "Senior Software Engineer, Enterprise Technology Se_technology-services?team=SFTWR"
-    },
-    {
-      "title": "Wi-Fi UI Engineer, Wireless Technologies & Ecosystems",
-      "url": "https://jobs.apple.com/en-us/details/200663633-0836/wi-fi-ui-engineer-wireless-technologies-ecosystems?team=SFTWR",
-      "identifier": "Wi-Fi UI Engineer, Wireless Technologies & Ecosyst_nologies-ecosystems?team=SFTWR"
-    },
-    {
-      "title": "Site Reliability Engineering Manager, Storage - Apple Services Engineering",
-      "url": "https://jobs.apple.com/en-us/details/200620738-0836/site-reliability-engineering-manager-storage-apple-services-engineering?team=SFTWR",
-      "identifier": "Site Reliability Engineering Manager, Storage - Ap_ervices-engineering?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-18T18:09:57.545861"
+  "timestamp": "2026-05-18T18:27:00.501053"
 }

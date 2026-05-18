@@ -4,6 +4,11 @@
   "total_jobs": 10,
   "jobs": [
     {
+      "title": "Quality Engineer\nLongmont, Colorado, United States of America\nPosted 18 hours ago",
+      "url": "https://careers.micron.com/careers/job/41978275",
+      "identifier": "Quality Engineer\nLongmont, Colorado, United States_icron.com/careers/job/41978275"
+    },
+    {
       "title": "ASIC Engineer 2\nLongmont, Colorado, United States of America\nPosted 4 days ago",
       "url": "https://careers.micron.com/careers/job/41954073",
       "identifier": "ASIC Engineer 2\nLongmont, Colorado, United States _icron.com/careers/job/41954073"
@@ -47,13 +52,8 @@
       "title": "Design Characterization Engineer\nSan Jose, California, United States of America\nPosted 5 days ago",
       "url": "https://careers.micron.com/careers/job/41139984",
       "identifier": "Design Characterization Engineer\nSan Jose, Califor_icron.com/careers/job/41139984"
-    },
-    {
-      "title": "Dry Etch Process Develop Engineer\nRemote, New York, United States of America\nRemote\nPosted 5 days ago",
-      "url": "https://careers.micron.com/careers/job/41806530",
-      "identifier": "Dry Etch Process Develop Engineer\nRemote, New York_icron.com/careers/job/41806530"
     }
   ],
-  "job_count_text": "100",
-  "timestamp": "2026-05-18T18:13:06.059055"
+  "job_count_text": "101",
+  "timestamp": "2026-05-18T18:30:06.744367"
 }

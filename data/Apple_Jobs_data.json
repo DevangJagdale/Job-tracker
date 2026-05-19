@@ -4,6 +4,11 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "iOS Engineer- iCloud",
+      "url": "https://jobs.apple.com/en-us/details/200663795-3543/ios-engineer-icloud?team=SFTWR",
+      "identifier": "iOS Engineer- iCloud_ios-engineer-icloud?team=SFTWR"
+    },
+    {
       "title": "Machine Learning (ML) Data Scientist - ISE Analytics and User Studies, Input Experience",
       "url": "https://jobs.apple.com/en-us/details/200663930-0836/machine-learning-ml-data-scientist-ise-analytics-and-user-studies-input-experience?team=SFTWR",
       "identifier": "Machine Learning (ML) Data Scientist - ISE Analyti_es-input-experience?team=SFTWR"
@@ -77,13 +82,8 @@
       "title": "Senior Privacy QA Engineer, User Privacy",
       "url": "https://jobs.apple.com/en-us/details/200663896-3543/senior-privacy-qa-engineer-user-privacy?team=SFTWR",
       "identifier": "Senior Privacy QA Engineer, User Privacy_gineer-user-privacy?team=SFTWR"
-    },
-    {
-      "title": "Partner Content Manager",
-      "url": "https://jobs.apple.com/en-us/details/200663751-0670/partner-content-manager?team=SFTWR",
-      "identifier": "Partner Content Manager_ner-content-manager?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-19T02:49:34.640561"
+  "timestamp": "2026-05-19T03:07:27.111685"
 }

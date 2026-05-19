@@ -4,17 +4,22 @@
   "total_jobs": 9,
   "jobs": [
     {
-      "title": "Principal Engineer - Identity Services\nUnited States, Washington, Redmond\nPosted 12 minutes ago",
+      "title": "Principal Software Engineer - Identity\nUnited States, Washington, Redmond\nPosted 15 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556623151?domain=microsoft.com",
+      "identifier": "Principal Software Engineer - Identity\nUnited Stat_556623151?domain=microsoft.com"
+    },
+    {
+      "title": "Principal Engineer - Identity Services\nUnited States, Washington, Redmond\nPosted 29 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556852373?domain=microsoft.com",
       "identifier": "Principal Engineer - Identity Services\nUnited Stat_556852373?domain=microsoft.com"
     },
     {
-      "title": "Software Engineer\nUnited States, Multiple Locations, Multiple Locations + 8 more\nPosted an hour ago",
+      "title": "Software Engineer\nUnited States, Multiple Locations, Multiple Locations + 8 more\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556862958?domain=microsoft.com",
       "identifier": "Software Engineer\nUnited States, Multiple Location_556862958?domain=microsoft.com"
     },
     {
-      "title": "Applied Scientist\nUnited States, Washington, Redmond\nPosted an hour ago",
+      "title": "Applied Scientist\nUnited States, Washington, Redmond\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556864459?domain=microsoft.com",
       "identifier": "Applied Scientist\nUnited States, Washington, Redmo_556864459?domain=microsoft.com"
     },
@@ -29,7 +34,7 @@
       "identifier": "Senior Software Engineer - M365 Core\nUnited States_556825807?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 4 hours ago",
+      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 5 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556856513?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Washington_556856513?domain=microsoft.com"
     },
@@ -42,13 +47,8 @@
       "title": "Principal Engineering - Azure Storage\nUnited States, Multiple Locations, Multiple Locations\nPosted 6 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556856008?domain=microsoft.com",
       "identifier": "Principal Engineering - Azure Storage\nUnited State_556856008?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Software Engineer - CoreAI\nUnited States, Washington, Redmond\nPosted 6 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556620361?domain=microsoft.com",
-      "identifier": "Senior Software Engineer - CoreAI\nUnited States, W_556620361?domain=microsoft.com"
     }
   ],
-  "job_count_text": "447",
-  "timestamp": "2026-05-19T20:55:02.358053"
+  "job_count_text": "448",
+  "timestamp": "2026-05-19T21:12:18.474222"
 }

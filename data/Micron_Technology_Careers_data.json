@@ -4,9 +4,9 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Engineer/Sr. Engineer, Central PIE Yield Enhancement\nBoise, Idaho, United States of America\nPosted 19 hours ago",
-      "url": "https://careers.micron.com/careers/job/41158237",
-      "identifier": "Engineer/Sr. Engineer, Central PIE Yield Enhanceme_icron.com/careers/job/41158237"
+      "title": "New College Grad - Metrology Applications Engineer\nManassas, Virginia, United States of America\nPosted 19 hours ago",
+      "url": "https://careers.micron.com/careers/job/40100239",
+      "identifier": "New College Grad - Metrology Applications Engineer_icron.com/careers/job/40100239"
     },
     {
       "title": "New College Grad - Process Integration Engineer\nBoise, Idaho, United States of America\nPosted 19 hours ago",
@@ -14,14 +14,24 @@
       "identifier": "New College Grad - Process Integration Engineer\nBo_icron.com/careers/job/40475196"
     },
     {
+      "title": "Engineer/Sr. Engineer, Central PIE Yield Enhancement\nBoise, Idaho, United States of America\nPosted 19 hours ago",
+      "url": "https://careers.micron.com/careers/job/41158237",
+      "identifier": "Engineer/Sr. Engineer, Central PIE Yield Enhanceme_icron.com/careers/job/41158237"
+    },
+    {
       "title": "Manufacturing Engineer - ID1 CMP\nBoise, Idaho, United States of America\nPosted 19 hours ago",
       "url": "https://careers.micron.com/careers/job/41720174",
       "identifier": "Manufacturing Engineer - ID1 CMP\nBoise, Idaho, Uni_icron.com/careers/job/41720174"
     },
     {
-      "title": "New College Grad - Metrology Applications Engineer\nManassas, Virginia, United States of America\nPosted 19 hours ago",
-      "url": "https://careers.micron.com/careers/job/40100239",
-      "identifier": "New College Grad - Metrology Applications Engineer_icron.com/careers/job/40100239"
+      "title": "ASIC Engineer 2\nLongmont, Colorado, United States of America\nPosted 19 hours ago",
+      "url": "https://careers.micron.com/careers/job/41954073",
+      "identifier": "ASIC Engineer 2\nLongmont, Colorado, United States _icron.com/careers/job/41954073"
+    },
+    {
+      "title": "Product Development Engineer\nSan Jose, California, United States of America\nPosted 19 hours ago",
+      "url": "https://careers.micron.com/careers/job/41954264",
+      "identifier": "Product Development Engineer\nSan Jose, California,_icron.com/careers/job/41954264"
     },
     {
       "title": "Quality Engineer\nLongmont, Colorado, United States of America\nPosted 19 hours ago",
@@ -32,16 +42,6 @@
       "title": "Signal and Power Integrity Lab Engineer\nBoise, Idaho, United States of America\nPosted 2 days ago",
       "url": "https://careers.micron.com/careers/job/41839528",
       "identifier": "Signal and Power Integrity Lab Engineer\nBoise, Ida_icron.com/careers/job/41839528"
-    },
-    {
-      "title": "ASIC Engineer 2\nLongmont, Colorado, United States of America\nPosted 5 days ago",
-      "url": "https://careers.micron.com/careers/job/41954073",
-      "identifier": "ASIC Engineer 2\nLongmont, Colorado, United States _icron.com/careers/job/41954073"
-    },
-    {
-      "title": "Product Development Engineer\nSan Jose, California, United States of America\nPosted 5 days ago",
-      "url": "https://careers.micron.com/careers/job/41954264",
-      "identifier": "Product Development Engineer\nSan Jose, California,_icron.com/careers/job/41954264"
     },
     {
       "title": "Customer and System Enablement Engineer\nBoise, Idaho, United States of America + 3 more\nPosted 5 days ago",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "100",
-  "timestamp": "2026-05-19T18:41:01.349575"
+  "timestamp": "2026-05-19T18:58:12.650226"
 }

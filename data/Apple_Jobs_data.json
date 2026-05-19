@@ -4,6 +4,11 @@
   "total_jobs": 19,
   "jobs": [
     {
+      "title": "iOS Software Engineer, Siri Devices",
+      "url": "https://jobs.apple.com/en-us/details/200664256-3337/ios-software-engineer-siri-devices?team=SFTWR",
+      "identifier": "iOS Software Engineer, Siri Devices_gineer-siri-devices?team=SFTWR"
+    },
+    {
       "title": "Machine Learning Platform Engineer, Apple Services Engineering",
       "url": "https://jobs.apple.com/en-us/details/200664012-3337/machine-learning-platform-engineer-apple-services-engineering?team=SFTWR",
       "identifier": "Machine Learning Platform Engineer, Apple Services_ervices-engineering?team=SFTWR"
@@ -92,13 +97,8 @@
       "title": "Sr. Engineering Program Manager, Security, Apple Services Engineering",
       "url": "https://jobs.apple.com/en-us/details/200663998-3337/sr-engineering-program-manager-security-apple-services-engineering?team=SFTWR",
       "identifier": "Sr. Engineering Program Manager, Security, Apple S_ervices-engineering?team=SFTWR"
-    },
-    {
-      "title": "Wireless Bluetooth Quality Engineer, Wireless Technologies & Ecosystems",
-      "url": "https://jobs.apple.com/en-us/details/200663462-0836/wireless-bluetooth-quality-engineer-wireless-technologies-ecosystems?team=SFTWR",
-      "identifier": "Wireless Bluetooth Quality Engineer, Wireless Tech_nologies-ecosystems?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-19T18:55:00.275661"
+  "timestamp": "2026-05-19T19:12:12.418351"
 }

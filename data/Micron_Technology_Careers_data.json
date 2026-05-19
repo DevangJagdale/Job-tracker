@@ -4,17 +4,17 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Software Development Engineer\nBoise, Idaho, United States of America\nPosted 17 hours ago",
-      "url": "https://careers.micron.com/careers/job/40899241",
-      "identifier": "Software Development Engineer\nBoise, Idaho, United_icron.com/careers/job/40899241"
-    },
-    {
-      "title": "New College Grad - Metrology Applications Engineer\nManassas, Virginia, United States of America\nPosted 17 hours ago",
+      "title": "New College Grad - Metrology Applications Engineer\nManassas, Virginia, United States of America\nPosted 18 hours ago",
       "url": "https://careers.micron.com/careers/job/40100239",
       "identifier": "New College Grad - Metrology Applications Engineer_icron.com/careers/job/40100239"
     },
     {
-      "title": "New College Grad - Process Integration Engineer\nBoise, Idaho, United States of America\nPosted 17 hours ago",
+      "title": "Software Development Engineer\nBoise, Idaho, United States of America\nPosted 2 months ago",
+      "url": "https://careers.micron.com/careers/job/40899241",
+      "identifier": "Software Development Engineer\nBoise, Idaho, United_icron.com/careers/job/40899241"
+    },
+    {
+      "title": "New College Grad - Process Integration Engineer\nBoise, Idaho, United States of America\nPosted 18 hours ago",
       "url": "https://careers.micron.com/careers/job/40475196",
       "identifier": "New College Grad - Process Integration Engineer\nBo_icron.com/careers/job/40475196"
     },
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "99",
-  "timestamp": "2026-05-19T17:24:38.304532"
+  "timestamp": "2026-05-19T17:41:39.290521"
 }

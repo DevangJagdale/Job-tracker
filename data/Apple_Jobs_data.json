@@ -1,8 +1,13 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 16,
+  "total_jobs": 17,
   "jobs": [
+    {
+      "title": "Annotation Data Scientist, Evaluation Integrity (Siri)",
+      "url": "https://jobs.apple.com/en-us/details/200664186-1242/annotation-data-scientist-evaluation-integrity-siri?team=MLAI",
+      "identifier": "Annotation Data Scientist, Evaluation Integrity (S_ation-integrity-siri?team=MLAI"
+    },
     {
       "title": "Software Engineer - Core OS Telemetry, CoreOS",
       "url": "https://jobs.apple.com/en-us/details/200664148-3543/software-engineer-core-os-telemetry-coreos?team=SFTWR",
@@ -85,5 +90,5 @@
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-19T17:21:31.278369"
+  "timestamp": "2026-05-19T17:38:31.093784"
 }

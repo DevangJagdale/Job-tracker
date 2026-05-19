@@ -1,12 +1,27 @@
 {
   "page_title": "Job Openings - Cisco Careers",
   "url": "https://careers.cisco.com/global/en/search-results?s=1",
-  "total_jobs": 9,
+  "total_jobs": 10,
   "jobs": [
+    {
+      "title": "Software Engineer",
+      "url": "https://careers.cisco.com/global/en/job/2014365/Software-Engineer",
+      "identifier": "Software Engineer_/job/2014365/Software-Engineer"
+    },
     {
       "title": "ASIC Design Verfication Engineer II (Full Time) - United States",
       "url": "https://careers.cisco.com/global/en/job/2002902/ASIC-Design-Verfication-Engineer-II-Full-Time-United-States",
       "identifier": "ASIC Design Verfication Engineer II (Full Time) - _eer-II-Full-Time-United-States"
+    },
+    {
+      "title": "Data Engineer",
+      "url": "https://careers.cisco.com/global/en/job/2014509/Data-Engineer",
+      "identifier": "Data Engineer_l/en/job/2014509/Data-Engineer"
+    },
+    {
+      "title": "Software Engineer",
+      "url": "https://careers.cisco.com/global/en/job/2014363/Software-Engineer",
+      "identifier": "Software Engineer_/job/2014363/Software-Engineer"
     },
     {
       "title": "Customer Experience Project Specialist I (Full-Time) - United States",
@@ -19,36 +34,26 @@
       "identifier": "Engineering Project Specialist II (Full Time) - Un_ist-II-Full-Time-United-States"
     },
     {
+      "title": "Junior Hardware Engineer - Signal & Power Integrity - Israel - ETR",
+      "url": "https://careers.cisco.com/global/en/job/2010153/Junior-Hardware-Engineer-Signal-Power-Integrity-Israel-ETR",
+      "identifier": "Junior Hardware Engineer - Signal & Power Integrit_nal-Power-Integrity-Israel-ETR"
+    },
+    {
       "title": "Account Development Representative II (Full Time) United States",
       "url": "https://careers.cisco.com/global/en/job/2001887/Account-Development-Representative-II-Full-Time-United-States",
       "identifier": "Account Development Representative II (Full Time) _ive-II-Full-Time-United-States"
     },
     {
-      "title": "Strategy and Operations Manager MBA (Full Time) - United States",
-      "url": "https://careers.cisco.com/global/en/job/2011072/Strategy-and-Operations-Manager-MBA-Full-Time-United-States",
-      "identifier": "Strategy and Operations Manager MBA (Full Time) - _er-MBA-Full-Time-United-States"
+      "title": "28\u5352\u5bfe\u8c61 CX\u30b5\u30de\u30fc\u30a4\u30f3\u30bf\u30fc\u30f3\u30b7\u30c3\u30d7 - \u30c6\u30af\u30cb\u30ab\u30eb\u30b3\u30f3\u30b5\u30eb\u30c6\u30a3\u30f3\u30b0\u30a8\u30f3\u30b8\u30cb\u30a2\u8077 (Technical Consulting Engineer)",
+      "url": "https://careers.cisco.com/global/en/job/2013135/28%E5%8D%92%E5%AF%BE%E8%B1%A1-CX%E3%82%B5%E3%83%9E%E3%83%BC%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%83%E3%83%97-%E3%83%86%E3%82%AF%E3%83%8B%E3%82%AB%E3%83%AB%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%AB%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E8%81%B7-Technical-Consulting-Engineer",
+      "identifier": "28\u5352\u5bfe\u8c61 CX\u30b5\u30de\u30fc\u30a4\u30f3\u30bf\u30fc\u30f3\u30b7\u30c3\u30d7 - \u30c6\u30af\u30cb\u30ab\u30eb\u30b3\u30f3\u30b5\u30eb\u30c6\u30a3\u30f3\u30b0\u30a8\u30f3\u30b8\u30cb\u30a2\u8077 (Technic_-Technical-Consulting-Engineer"
     },
     {
-      "title": "AI Product Manager II (Full-Time) \u2013 United States",
-      "url": "https://careers.cisco.com/global/en/job/2012163/AI-Product-Manager-II-Full-Time-United-States",
-      "identifier": "AI Product Manager II (Full-Time) \u2013 United States_ger-II-Full-Time-United-States"
-    },
-    {
-      "title": "Sales Development Representative I (Full Time) - United States (Virtual Demand Center)",
-      "url": "https://careers.cisco.com/global/en/job/2005272/Sales-Development-Representative-I-Full-Time-United-States-Virtual-Demand-Center",
-      "identifier": "Sales Development Representative I (Full Time) - U_d-States-Virtual-Demand-Center"
-    },
-    {
-      "title": "Sales Development Representative Outbound Sales II (Full Time) - United States",
-      "url": "https://careers.cisco.com/global/en/job/2003091/Sales-Development-Representative-Outbound-Sales-II-Full-Time-United-States",
-      "identifier": "Sales Development Representative Outbound Sales II_les-II-Full-Time-United-States"
-    },
-    {
-      "title": "Sales Development Representative II (Full Time) United States (Virtual Demand Center) - United States",
-      "url": "https://careers.cisco.com/global/en/job/2008662/Sales-Development-Representative-II-Full-Time-United-States-Virtual-Demand-Center-United-States",
-      "identifier": "Sales Development Representative II (Full Time) Un_al-Demand-Center-United-States"
+      "title": "SDWAN Security Test Software Engineer",
+      "url": "https://careers.cisco.com/global/en/job/2008347/SDWAN-Security-Test-Software-Engineer",
+      "identifier": "SDWAN Security Test Software Engineer_ecurity-Test-Software-Engineer"
     }
   ],
-  "job_count_text": "9",
-  "timestamp": "2026-05-19T14:49:48.295038"
+  "job_count_text": "30",
+  "timestamp": "2026-05-19T15:06:56.809642"
 }

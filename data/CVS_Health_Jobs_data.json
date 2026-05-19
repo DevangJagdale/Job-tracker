@@ -4,14 +4,14 @@
   "total_jobs": 8,
   "jobs": [
     {
-      "title": "Field Service Technician - Fort Wayne IN Metro area",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0895635/Field-Service-Technician-Fort-Wayne-IN-Metro-area",
-      "identifier": "Field Service Technician - Fort Wayne IN Metro are_ician-Fort-Wayne-IN-Metro-area"
-    },
-    {
       "title": "Exchange & Copilot Operations Support Engineer",
       "url": "https://jobs.cvshealth.com/us/en/job/R0857628/Exchange-Copilot-Operations-Support-Engineer",
       "identifier": "Exchange & Copilot Operations Support Engineer_ot-Operations-Support-Engineer"
+    },
+    {
+      "title": "Field Service Technician - Fort Wayne IN Metro area",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0895635/Field-Service-Technician-Fort-Wayne-IN-Metro-area",
+      "identifier": "Field Service Technician - Fort Wayne IN Metro are_ician-Fort-Wayne-IN-Metro-area"
     },
     {
       "title": "Lead Director - Mainframe Systems Engineering",
@@ -24,6 +24,11 @@
       "identifier": "Mgr,Business Analysis (IC)_05301/Mgr-Business-Analysis-IC"
     },
     {
+      "title": "Senior Manager Quality Assurance",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0903292/Senior-Manager-Quality-Assurance",
+      "identifier": "Senior Manager Quality Assurance_nior-Manager-Quality-Assurance"
+    },
+    {
       "title": "Field Service Technician - Egg Harbor Township, NJ",
       "url": "https://jobs.cvshealth.com/us/en/job/R0916517/Field-Service-Technician-Egg-Harbor-Township-NJ",
       "identifier": "Field Service Technician - Egg Harbor Township, NJ_hnician-Egg-Harbor-Township-NJ"
@@ -34,16 +39,11 @@
       "identifier": "Field Service Technician - Summerlin, Las Vegas, H_as-Vegas-Henderson-Nevada-area"
     },
     {
-      "title": "Senior Manager Quality Assurance",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0903292/Senior-Manager-Quality-Assurance",
-      "identifier": "Senior Manager Quality Assurance_nior-Manager-Quality-Assurance"
-    },
-    {
       "title": "Senior Compute Engineer (Apple Platforms and Automation)",
       "url": "https://jobs.cvshealth.com/us/en/job/R0878389/Senior-Compute-Engineer-Apple-Platforms-and-Automation",
       "identifier": "Senior Compute Engineer (Apple Platforms and Autom_Apple-Platforms-and-Automation"
     }
   ],
   "job_count_text": "34",
-  "timestamp": "2026-05-19T14:48:59.890922"
+  "timestamp": "2026-05-19T15:06:13.226243"
 }

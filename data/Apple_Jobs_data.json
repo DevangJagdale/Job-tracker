@@ -4,6 +4,11 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "UI Frameworks Senior Engineer, Swift Platform Experience",
+      "url": "https://jobs.apple.com/en-us/details/200664165-0836/ui-frameworks-senior-engineer-swift-platform-experience?team=SFTWR",
+      "identifier": "UI Frameworks Senior Engineer, Swift Platform Expe_platform-experience?team=SFTWR"
+    },
+    {
       "title": "Software Development Engineer - Traffic Network Proxying, ASE",
       "url": "https://jobs.apple.com/en-us/details/200664341-3337/software-development-engineer-traffic-network-proxying-ase?team=SFTWR",
       "identifier": "Software Development Engineer - Traffic Network Pr_etwork-proxying-ase?team=SFTWR"
@@ -77,13 +82,8 @@
       "title": "Senior Engineering Program Manager - AdDelivery, Apple Ads",
       "url": "https://jobs.apple.com/en-us/details/200660750-0836/senior-engineering-program-manager-addelivery-apple-ads?team=SFTWR",
       "identifier": "Senior Engineering Program Manager - AdDelivery, A_ddelivery-apple-ads?team=SFTWR"
-    },
-    {
-      "title": "Annotation Data Scientist, Evaluation Integrity (Siri)",
-      "url": "https://jobs.apple.com/en-us/details/200664186-1242/annotation-data-scientist-evaluation-integrity-siri?team=MLAI",
-      "identifier": "Annotation Data Scientist, Evaluation Integrity (S_ation-integrity-siri?team=MLAI"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-19T22:38:16.169918"
+  "timestamp": "2026-05-19T22:55:25.593409"
 }

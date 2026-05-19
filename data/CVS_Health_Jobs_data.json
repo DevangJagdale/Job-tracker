@@ -4,6 +4,11 @@
   "total_jobs": 8,
   "jobs": [
     {
+      "title": "Staff Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0916896/Staff-Software-Development-Engineer",
+      "identifier": "Staff Software Development Engineer_-Software-Development-Engineer"
+    },
+    {
       "title": "Senior Software Development Engineer",
       "url": "https://jobs.cvshealth.com/us/en/job/R0916589/Senior-Software-Development-Engineer",
       "identifier": "Senior Software Development Engineer_-Software-Development-Engineer"
@@ -14,9 +19,9 @@
       "identifier": "Staff Software Engineer - Java Cloud (Health100 Pl_-Java-Cloud-Health100-Platform"
     },
     {
-      "title": "Staff Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0916896/Staff-Software-Development-Engineer",
-      "identifier": "Staff Software Development Engineer_-Software-Development-Engineer"
+      "title": "Mgr,Business Analysis (IC)",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0905301/Mgr-Business-Analysis-IC",
+      "identifier": "Mgr,Business Analysis (IC)_05301/Mgr-Business-Analysis-IC"
     },
     {
       "title": "Exchange & Copilot Operations Support Engineer",
@@ -24,26 +29,21 @@
       "identifier": "Exchange & Copilot Operations Support Engineer_ot-Operations-Support-Engineer"
     },
     {
-      "title": "Lead Director - Mainframe Systems Engineering",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0888773/Lead-Director-Mainframe-Systems-Engineering",
-      "identifier": "Lead Director - Mainframe Systems Engineering_-Mainframe-Systems-Engineering"
-    },
-    {
       "title": "Field Service Technician - Fort Wayne IN Metro area",
       "url": "https://jobs.cvshealth.com/us/en/job/R0895635/Field-Service-Technician-Fort-Wayne-IN-Metro-area",
       "identifier": "Field Service Technician - Fort Wayne IN Metro are_ician-Fort-Wayne-IN-Metro-area"
     },
     {
-      "title": "Mgr,Business Analysis (IC)",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0905301/Mgr-Business-Analysis-IC",
-      "identifier": "Mgr,Business Analysis (IC)_05301/Mgr-Business-Analysis-IC"
+      "title": "Lead Director - Mainframe Systems Engineering",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0888773/Lead-Director-Mainframe-Systems-Engineering",
+      "identifier": "Lead Director - Mainframe Systems Engineering_-Mainframe-Systems-Engineering"
     },
     {
-      "title": "Field Service Technician - Egg Harbor Township, NJ",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0916517/Field-Service-Technician-Egg-Harbor-Township-NJ",
-      "identifier": "Field Service Technician - Egg Harbor Township, NJ_hnician-Egg-Harbor-Township-NJ"
+      "title": "Senior Manager Quality Assurance",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0903292/Senior-Manager-Quality-Assurance",
+      "identifier": "Senior Manager Quality Assurance_nior-Manager-Quality-Assurance"
     }
   ],
   "job_count_text": "38",
-  "timestamp": "2026-05-19T22:39:18.594345"
+  "timestamp": "2026-05-19T22:56:27.907015"
 }

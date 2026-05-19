@@ -4,14 +4,14 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Quality Engineer\nLongmont, Colorado, United States of America\nPosted a day ago",
-      "url": "https://careers.micron.com/careers/job/41978275",
-      "identifier": "Quality Engineer\nLongmont, Colorado, United States_icron.com/careers/job/41978275"
-    },
-    {
       "title": "Signal and Power Integrity Lab Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/41839528",
       "identifier": "Signal and Power Integrity Lab Engineer\nBoise, Ida_icron.com/careers/job/41839528"
+    },
+    {
+      "title": "Quality Engineer\nLongmont, Colorado, United States of America\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/41978275",
+      "identifier": "Quality Engineer\nLongmont, Colorado, United States_icron.com/careers/job/41978275"
     },
     {
       "title": "New College Grad - New Product Operations (NPO) Supply Planner\nBoise, Idaho, United States of America\nPosted 4 days ago",
@@ -44,16 +44,16 @@
       "identifier": "Staff CAD Design Automation Engineer\nBoise, Idaho,_icron.com/careers/job/30948222"
     },
     {
-      "title": "DRAM Product Engineer Media Health Probe\nBoise, Idaho, United States of America\nPosted 4 days ago",
-      "url": "https://careers.micron.com/careers/job/41848061",
-      "identifier": "DRAM Product Engineer Media Health Probe\nBoise, Id_icron.com/careers/job/41848061"
-    },
-    {
       "title": "Customer and System Enablement Engineer\nBoise, Idaho, United States of America + 3 more\nPosted 4 days ago",
       "url": "https://careers.micron.com/careers/job/41847847",
       "identifier": "Customer and System Enablement Engineer\nBoise, Ida_icron.com/careers/job/41847847"
+    },
+    {
+      "title": "DRAM Product Engineer Media Health Probe\nBoise, Idaho, United States of America\nPosted 4 days ago",
+      "url": "https://careers.micron.com/careers/job/41848061",
+      "identifier": "DRAM Product Engineer Media Health Probe\nBoise, Id_icron.com/careers/job/41848061"
     }
   ],
   "job_count_text": "101",
-  "timestamp": "2026-05-18T23:50:39.433219"
+  "timestamp": "2026-05-19T00:07:49.804711"
 }

@@ -4,6 +4,16 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Software Engineer - Core OS Telemetry, CoreOS",
+      "url": "https://jobs.apple.com/en-us/details/200664148-3543/software-engineer-core-os-telemetry-coreos?team=SFTWR",
+      "identifier": "Software Engineer - Core OS Telemetry, CoreOS_os-telemetry-coreos?team=SFTWR"
+    },
+    {
+      "title": "System Software Performance Engineer, Home Platform, CoreOS",
+      "url": "https://jobs.apple.com/en-us/details/200664145-0836/system-software-performance-engineer-home-platform-coreos?team=SFTWR",
+      "identifier": "System Software Performance Engineer, Home Platfor_ome-platform-coreos?team=SFTWR"
+    },
+    {
       "title": "iOS Engineer- iCloud",
       "url": "https://jobs.apple.com/en-us/details/200663795-3543/ios-engineer-icloud?team=SFTWR",
       "identifier": "iOS Engineer- iCloud_ios-engineer-icloud?team=SFTWR"
@@ -72,18 +82,8 @@
       "title": "Wireless Bluetooth QA Engineer, Wireless Technologies & Ecosystems",
       "url": "https://jobs.apple.com/en-us/details/200663697-0836/wireless-bluetooth-qa-engineer-wireless-technologies-ecosystems?team=SFTWR",
       "identifier": "Wireless Bluetooth QA Engineer, Wireless Technolog_nologies-ecosystems?team=SFTWR"
-    },
-    {
-      "title": "Mail Data Foundations Engineering Manager",
-      "url": "https://jobs.apple.com/en-us/details/200662720-3543/mail-data-foundations-engineering-manager?team=MLAI",
-      "identifier": "Mail Data Foundations Engineering Manager_-engineering-manager?team=MLAI"
-    },
-    {
-      "title": "Senior Privacy QA Engineer, User Privacy",
-      "url": "https://jobs.apple.com/en-us/details/200663896-3543/senior-privacy-qa-engineer-user-privacy?team=SFTWR",
-      "identifier": "Senior Privacy QA Engineer, User Privacy_gineer-user-privacy?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-19T13:39:36.530958"
+  "timestamp": "2026-05-19T13:56:37.002798"
 }

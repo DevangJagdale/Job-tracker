@@ -4,12 +4,17 @@
   "total_jobs": 10,
   "jobs": [
     {
+      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 10 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556856513?domain=microsoft.com",
+      "identifier": "Senior Software Engineer\nUnited States, Washington_556856513?domain=microsoft.com"
+    },
+    {
       "title": "Parent | Sr. Software Engineer - Azure Storage\nUnited States, Multiple Locations, Multiple Locations\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556849539?domain=microsoft.com",
       "identifier": "Parent | Sr. Software Engineer - Azure Storage\nUni_556849539?domain=microsoft.com"
     },
     {
-      "title": "Principal Engineering - Azure Storage\nUnited States, Multiple Locations, Multiple Locations\nPosted an hour ago",
+      "title": "Principal Engineering - Azure Storage\nUnited States, Multiple Locations, Multiple Locations\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556856008?domain=microsoft.com",
       "identifier": "Principal Engineering - Azure Storage\nUnited State_556856008?domain=microsoft.com"
     },
@@ -47,13 +52,8 @@
       "title": "Senior Software Engineer\nUnited States, Washington, Redmond + 1 more\nPosted 17 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556746669?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Washington_556746669?domain=microsoft.com"
-    },
-    {
-      "title": "Applied AI Engineer II\nUnited States, Washington, Redmond + 1 more\nPosted 17 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556864775?domain=microsoft.com",
-      "identifier": "Applied AI Engineer II\nUnited States, Washington, _556864775?domain=microsoft.com"
     }
   ],
   "job_count_text": "442",
-  "timestamp": "2026-05-19T16:30:12.108221"
+  "timestamp": "2026-05-19T16:47:18.720815"
 }

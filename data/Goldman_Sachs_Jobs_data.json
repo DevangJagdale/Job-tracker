@@ -4,6 +4,11 @@
   "total_jobs": 20,
   "jobs": [
     {
+      "title": "AMD Public-Salt Lake City-Associate-Software Engineering\nSalt Lake City\u00b7United States\n\u00b7Associate",
+      "url": "https://higher.gs.com/roles/165919",
+      "identifier": "AMD Public-Salt Lake City-Associate-Software Engin_s://higher.gs.com/roles/165919"
+    },
+    {
       "title": "Asset & Wealth Management-DevOps Cloud Engineer-Associate-Richardson\nRichardson\u00b7United States\n\u00b7Associate",
       "url": "https://higher.gs.com/roles/159167",
       "identifier": "Asset & Wealth Management-DevOps Cloud Engineer-As_s://higher.gs.com/roles/159167"
@@ -42,11 +47,6 @@
       "title": "Software Engineer, Global Banking & Markets, Front Office Technology\nDallas\u00b7United States\n\u00b7Associate",
       "url": "https://higher.gs.com/roles/161630",
       "identifier": "Software Engineer, Global Banking & Markets, Front_s://higher.gs.com/roles/161630"
-    },
-    {
-      "title": "AMD Public-Salt Lake City-Associate-Software Engineering\nSalt Lake City\u00b7United States\n\u00b7Associate",
-      "url": "https://higher.gs.com/roles/165919",
-      "identifier": "AMD Public-Salt Lake City-Associate-Software Engin_s://higher.gs.com/roles/165919"
     },
     {
       "title": "Corporate Planning & Management, Product & Reporting - BI Specialist, Associate, Dallas\nDallas\u00b7United States\n\u00b7Associate",
@@ -105,5 +105,5 @@
     }
   ],
   "job_count_text": "45",
-  "timestamp": "2026-05-19T20:37:16.443625"
+  "timestamp": "2026-05-19T20:54:26.945276"
 }

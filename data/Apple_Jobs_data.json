@@ -4,6 +4,26 @@
   "total_jobs": 18,
   "jobs": [
     {
+      "title": "Senior OS Software Engineer, Evaluation",
+      "url": "https://jobs.apple.com/en-us/details/200664269-3337/senior-os-software-engineer-evaluation?team=SFTWR",
+      "identifier": "Senior OS Software Engineer, Evaluation_engineer-evaluation?team=SFTWR"
+    },
+    {
+      "title": "GenAI Solutions Architect, Customer Systems",
+      "url": "https://jobs.apple.com/en-us/details/200650607-3956/genai-solutions-architect-customer-systems?team=SFTWR",
+      "identifier": "GenAI Solutions Architect, Customer Systems_ct-customer-systems?team=SFTWR"
+    },
+    {
+      "title": "Health iOS Software Engineer - AI Adoption",
+      "url": "https://jobs.apple.com/en-us/details/200662663-0017/health-ios-software-engineer-ai-adoption?team=SFTWR",
+      "identifier": "Health iOS Software Engineer - AI Adoption_ngineer-ai-adoption?team=SFTWR"
+    },
+    {
+      "title": "Site Reliability Engineer, Teamcenter, Enterprise Technology Services",
+      "url": "https://jobs.apple.com/en-us/details/200663858-0157/site-reliability-engineer-teamcenter-enterprise-technology-services?team=SFTWR",
+      "identifier": "Site Reliability Engineer, Teamcenter, Enterprise _technology-services?team=SFTWR"
+    },
+    {
       "title": "Senior Realtime Rendering and Graphics Software Engineer",
       "url": "https://jobs.apple.com/en-us/details/200649467-0836/senior-realtime-rendering-and-graphics-software-engineer?team=SFTWR",
       "identifier": "Senior Realtime Rendering and Graphics Software En_s-software-engineer?team=SFTWR"
@@ -72,28 +92,8 @@
       "title": "SDET(Full Stack), Creativity Apps",
       "url": "https://jobs.apple.com/en-us/details/200663636-0836/sdet-full-stack-creativity-apps?team=SFTWR",
       "identifier": "SDET(Full Stack), Creativity Apps_ack-creativity-apps?team=SFTWR"
-    },
-    {
-      "title": "Machine Learning Engineer, Apple Services Engineering",
-      "url": "https://jobs.apple.com/en-us/details/200663898-3337/machine-learning-engineer-apple-services-engineering?team=SFTWR",
-      "identifier": "Machine Learning Engineer, Apple Services Engineer_ervices-engineering?team=SFTWR"
-    },
-    {
-      "title": "Site Reliability Engineer, Customer Systems",
-      "url": "https://jobs.apple.com/en-us/details/200663091-3956/site-reliability-engineer-customer-systems?team=SFTWR",
-      "identifier": "Site Reliability Engineer, Customer Systems_er-customer-systems?team=SFTWR"
-    },
-    {
-      "title": "Sr Site Reliability Engineer, Customer Systems",
-      "url": "https://jobs.apple.com/en-us/details/200662993-0157/sr-site-reliability-engineer-customer-systems?team=SFTWR",
-      "identifier": "Sr Site Reliability Engineer, Customer Systems_er-customer-systems?team=SFTWR"
-    },
-    {
-      "title": "Principal Security Software Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200654159-3337/principal-security-software-engineer?team=SFTWR",
-      "identifier": "Principal Security Software Engineer_y-software-engineer?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-19T20:38:07.090049"
+  "timestamp": "2026-05-19T20:55:19.143196"
 }

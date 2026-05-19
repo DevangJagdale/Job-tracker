@@ -4,14 +4,14 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Signal and Power Integrity Lab Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
-      "url": "https://careers.micron.com/careers/job/41839528",
-      "identifier": "Signal and Power Integrity Lab Engineer\nBoise, Ida_icron.com/careers/job/41839528"
-    },
-    {
       "title": "Quality Engineer\nLongmont, Colorado, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/41978275",
       "identifier": "Quality Engineer\nLongmont, Colorado, United States_icron.com/careers/job/41978275"
+    },
+    {
+      "title": "Signal and Power Integrity Lab Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/41839528",
+      "identifier": "Signal and Power Integrity Lab Engineer\nBoise, Ida_icron.com/careers/job/41839528"
     },
     {
       "title": "Specialist, Global Facilities Operations Systems\nBoise, Idaho, United States of America\nPosted 4 days ago",
@@ -34,16 +34,6 @@
       "identifier": "DRAM Product Engineer Media Health Probe\nBoise, Id_icron.com/careers/job/41848061"
     },
     {
-      "title": "ASIC Engineer 2\nLongmont, Colorado, United States of America\nPosted 4 days ago",
-      "url": "https://careers.micron.com/careers/job/41954073",
-      "identifier": "ASIC Engineer 2\nLongmont, Colorado, United States _icron.com/careers/job/41954073"
-    },
-    {
-      "title": "Product Development Engineer\nSan Jose, California, United States of America\nPosted 4 days ago",
-      "url": "https://careers.micron.com/careers/job/41954264",
-      "identifier": "Product Development Engineer\nSan Jose, California,_icron.com/careers/job/41954264"
-    },
-    {
       "title": "Customer and System Enablement Engineer\nBoise, Idaho, United States of America + 3 more\nPosted 4 days ago",
       "url": "https://careers.micron.com/careers/job/41847847",
       "identifier": "Customer and System Enablement Engineer\nBoise, Ida_icron.com/careers/job/41847847"
@@ -52,8 +42,18 @@
       "title": "New College Grad - New Product Operations (NPO) Supply Planner\nBoise, Idaho, United States of America\nPosted 4 days ago",
       "url": "https://careers.micron.com/careers/job/41926377",
       "identifier": "New College Grad - New Product Operations (NPO) Su_icron.com/careers/job/41926377"
+    },
+    {
+      "title": "ASIC Engineer 2\nLongmont, Colorado, United States of America\nPosted 4 days ago",
+      "url": "https://careers.micron.com/careers/job/41954073",
+      "identifier": "ASIC Engineer 2\nLongmont, Colorado, United States _icron.com/careers/job/41954073"
+    },
+    {
+      "title": "Product Development Engineer\nSan Jose, California, United States of America\nPosted 4 days ago",
+      "url": "https://careers.micron.com/careers/job/41954264",
+      "identifier": "Product Development Engineer\nSan Jose, California,_icron.com/careers/job/41954264"
     }
   ],
   "job_count_text": "101",
-  "timestamp": "2026-05-19T00:25:05.342149"
+  "timestamp": "2026-05-19T00:42:16.793964"
 }

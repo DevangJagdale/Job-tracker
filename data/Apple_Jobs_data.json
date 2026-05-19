@@ -4,6 +4,11 @@
   "total_jobs": 15,
   "jobs": [
     {
+      "title": "Wi-Fi/Bluetooth Software System Performance Engineer, Wireless Technologies & Ecosystems",
+      "url": "https://jobs.apple.com/en-us/details/200662246-3543/wi-fi-bluetooth-software-system-performance-engineer-wireless-technologies-ecosystems?team=SFTWR",
+      "identifier": "Wi-Fi/Bluetooth Software System Performance Engine_nologies-ecosystems?team=SFTWR"
+    },
+    {
       "title": "Pre-Silicon Infrastructure Software Engineer, Core OS",
       "url": "https://jobs.apple.com/en-us/details/200663685-0836/pre-silicon-infrastructure-software-engineer-core-os?team=SFTWR",
       "identifier": "Pre-Silicon Infrastructure Software Engineer, Core_re-engineer-core-os?team=SFTWR"
@@ -72,13 +77,8 @@
       "title": "Partner Content Manager",
       "url": "https://jobs.apple.com/en-us/details/200663751-0670/partner-content-manager?team=SFTWR",
       "identifier": "Partner Content Manager_ner-content-manager?team=SFTWR"
-    },
-    {
-      "title": "Site Reliability Engineer (Edge Services), Infrastructure Services",
-      "url": "https://jobs.apple.com/en-us/details/200663929-0157/site-reliability-engineer-edge-services-infrastructure-services?team=SFTWR",
-      "identifier": "Site Reliability Engineer (Edge Services), Infrast_astructure-services?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-19T00:21:51.214291"
+  "timestamp": "2026-05-19T00:39:06.413735"
 }

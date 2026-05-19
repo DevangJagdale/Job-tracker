@@ -4,14 +4,14 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "New College Grad - Metrology Applications Engineer\nManassas, Virginia, United States of America\nPosted 18 hours ago",
-      "url": "https://careers.micron.com/careers/job/40100239",
-      "identifier": "New College Grad - Metrology Applications Engineer_icron.com/careers/job/40100239"
-    },
-    {
       "title": "Software Development Engineer\nBoise, Idaho, United States of America\nPosted 2 months ago",
       "url": "https://careers.micron.com/careers/job/40899241",
       "identifier": "Software Development Engineer\nBoise, Idaho, United_icron.com/careers/job/40899241"
+    },
+    {
+      "title": "New College Grad - Metrology Applications Engineer\nManassas, Virginia, United States of America\nPosted 18 hours ago",
+      "url": "https://careers.micron.com/careers/job/40100239",
+      "identifier": "New College Grad - Metrology Applications Engineer_icron.com/careers/job/40100239"
     },
     {
       "title": "New College Grad - Process Integration Engineer\nBoise, Idaho, United States of America\nPosted 18 hours ago",
@@ -19,7 +19,7 @@
       "identifier": "New College Grad - Process Integration Engineer\nBo_icron.com/careers/job/40475196"
     },
     {
-      "title": "Quality Engineer\nLongmont, Colorado, United States of America\nPosted 2 days ago",
+      "title": "Quality Engineer\nLongmont, Colorado, United States of America\nPosted 18 hours ago",
       "url": "https://careers.micron.com/careers/job/41978275",
       "identifier": "Quality Engineer\nLongmont, Colorado, United States_icron.com/careers/job/41978275"
     },
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "99",
-  "timestamp": "2026-05-19T17:41:39.290521"
+  "timestamp": "2026-05-19T17:58:47.648337"
 }

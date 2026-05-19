@@ -4,6 +4,11 @@
   "total_jobs": 19,
   "jobs": [
     {
+      "title": "Wireless Networking Software Engineer, Wireless Technologies & Ecosystems",
+      "url": "https://jobs.apple.com/en-us/details/200664228-0836/wireless-networking-software-engineer-wireless-technologies-ecosystems?team=SFTWR",
+      "identifier": "Wireless Networking Software Engineer, Wireless Te_nologies-ecosystems?team=SFTWR"
+    },
+    {
       "title": "iOS Engineer, Visual Productivity",
       "url": "https://jobs.apple.com/en-us/details/200663978-0836/ios-engineer-visual-productivity?team=SFTWR",
       "identifier": "iOS Engineer, Visual Productivity_visual-productivity?team=SFTWR"
@@ -92,13 +97,8 @@
       "title": "Sr. Engineering Program Manager, Security, Apple Services Engineering",
       "url": "https://jobs.apple.com/en-us/details/200663998-3337/sr-engineering-program-manager-security-apple-services-engineering?team=SFTWR",
       "identifier": "Sr. Engineering Program Manager, Security, Apple S_ervices-engineering?team=SFTWR"
-    },
-    {
-      "title": "Wireless Bluetooth Quality Engineer, Wireless Technologies & Ecosystems",
-      "url": "https://jobs.apple.com/en-us/details/200663462-0836/wireless-bluetooth-quality-engineer-wireless-technologies-ecosystems?team=SFTWR",
-      "identifier": "Wireless Bluetooth Quality Engineer, Wireless Tech_nologies-ecosystems?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-19T18:20:38.051221"
+  "timestamp": "2026-05-19T18:37:50.691265"
 }

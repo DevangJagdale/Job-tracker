@@ -4,6 +4,11 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "AIML - Sr. Software Development Engineer, Evaluation",
+      "url": "https://jobs.apple.com/en-us/details/200631643-3401/aiml-sr-software-development-engineer-evaluation?team=SFTWR",
+      "identifier": "AIML - Sr. Software Development Engineer, Evaluati_engineer-evaluation?team=SFTWR"
+    },
+    {
       "title": "UI Frameworks Senior Engineer, Swift Platform Experience",
       "url": "https://jobs.apple.com/en-us/details/200664165-0836/ui-frameworks-senior-engineer-swift-platform-experience?team=SFTWR",
       "identifier": "UI Frameworks Senior Engineer, Swift Platform Expe_platform-experience?team=SFTWR"
@@ -77,13 +82,8 @@
       "title": "Sr. Software Reliability & Stability Quality Engineer, Siri Speech",
       "url": "https://jobs.apple.com/en-us/details/200623092-3401/sr-software-reliability-stability-quality-engineer-siri-speech?team=SFTWR",
       "identifier": "Sr. Software Reliability & Stability Quality Engin_ngineer-siri-speech?team=SFTWR"
-    },
-    {
-      "title": "Senior Engineering Program Manager - AdDelivery, Apple Ads",
-      "url": "https://jobs.apple.com/en-us/details/200660750-0836/senior-engineering-program-manager-addelivery-apple-ads?team=SFTWR",
-      "identifier": "Senior Engineering Program Manager - AdDelivery, A_ddelivery-apple-ads?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-19T23:12:31.740178"
+  "timestamp": "2026-05-19T23:29:39.039448"
 }

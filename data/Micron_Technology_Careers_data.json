@@ -4,6 +4,16 @@
   "total_jobs": 10,
   "jobs": [
     {
+      "title": "New College Grad - Metrology Applications Engineer\nManassas, Virginia, United States of America\nPosted 16 hours ago",
+      "url": "https://careers.micron.com/careers/job/40100239",
+      "identifier": "New College Grad - Metrology Applications Engineer_icron.com/careers/job/40100239"
+    },
+    {
+      "title": "New College Grad - Process Integration Engineer\nBoise, Idaho, United States of America\nPosted 16 hours ago",
+      "url": "https://careers.micron.com/careers/job/40475196",
+      "identifier": "New College Grad - Process Integration Engineer\nBo_icron.com/careers/job/40475196"
+    },
+    {
       "title": "Software Development Engineer\nBoise, Idaho, United States of America\nPosted 16 hours ago",
       "url": "https://careers.micron.com/careers/job/40899228",
       "identifier": "Software Development Engineer\nBoise, Idaho, United_icron.com/careers/job/40899228"
@@ -14,11 +24,6 @@
       "identifier": "Software Development Engineer\nBoise, Idaho, United_icron.com/careers/job/40899241"
     },
     {
-      "title": "New College Grad - Metrology Applications Engineer\nManassas, Virginia, United States of America\nPosted 16 hours ago",
-      "url": "https://careers.micron.com/careers/job/40100239",
-      "identifier": "New College Grad - Metrology Applications Engineer_icron.com/careers/job/40100239"
-    },
-    {
       "title": "Quality Engineer\nLongmont, Colorado, United States of America\nPosted 2 days ago",
       "url": "https://careers.micron.com/careers/job/41978275",
       "identifier": "Quality Engineer\nLongmont, Colorado, United States_icron.com/careers/job/41978275"
@@ -27,16 +32,6 @@
       "title": "Signal and Power Integrity Lab Engineer\nBoise, Idaho, United States of America\nPosted 2 days ago",
       "url": "https://careers.micron.com/careers/job/41839528",
       "identifier": "Signal and Power Integrity Lab Engineer\nBoise, Ida_icron.com/careers/job/41839528"
-    },
-    {
-      "title": "Specialist, Global Facilities Operations Systems\nBoise, Idaho, United States of America\nPosted 5 days ago",
-      "url": "https://careers.micron.com/careers/job/41943252",
-      "identifier": "Specialist, Global Facilities Operations Systems\nB_icron.com/careers/job/41943252"
-    },
-    {
-      "title": "New College Grad - Process Integration Engineer\nBoise, Idaho, United States of America\nPosted 16 hours ago",
-      "url": "https://careers.micron.com/careers/job/40475196",
-      "identifier": "New College Grad - Process Integration Engineer\nBo_icron.com/careers/job/40475196"
     },
     {
       "title": "DRAM Product Engineer Media Health Probe\nBoise, Idaho, United States of America\nPosted 5 days ago",
@@ -52,8 +47,13 @@
       "title": "ASIC Engineer 2\nLongmont, Colorado, United States of America\nPosted 5 days ago",
       "url": "https://careers.micron.com/careers/job/41954073",
       "identifier": "ASIC Engineer 2\nLongmont, Colorado, United States _icron.com/careers/job/41954073"
+    },
+    {
+      "title": "Product Development Engineer\nSan Jose, California, United States of America\nPosted 5 days ago",
+      "url": "https://careers.micron.com/careers/job/41954264",
+      "identifier": "Product Development Engineer\nSan Jose, California,_icron.com/careers/job/41954264"
     }
   ],
   "job_count_text": "100",
-  "timestamp": "2026-05-19T15:59:31.519334"
+  "timestamp": "2026-05-19T16:16:34.038832"
 }

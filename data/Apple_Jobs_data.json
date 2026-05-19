@@ -1,8 +1,18 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 19,
+  "total_jobs": 16,
   "jobs": [
+    {
+      "title": "Software Development Engineer - Traffic Network Proxying, ASE",
+      "url": "https://jobs.apple.com/en-us/details/200664341-3337/software-development-engineer-traffic-network-proxying-ase?team=SFTWR",
+      "identifier": "Software Development Engineer - Traffic Network Pr_etwork-proxying-ase?team=SFTWR"
+    },
+    {
+      "title": "iOS Software Engineer - Video Applications",
+      "url": "https://jobs.apple.com/en-us/details/200662789-0365/ios-software-engineer-video-applications?team=SFTWR",
+      "identifier": "iOS Software Engineer - Video Applications_-video-applications?team=SFTWR"
+    },
     {
       "title": "Technical Product Manager- Issuers (Wallet, Payments & Commerce)",
       "url": "https://jobs.apple.com/en-us/details/200664301-0836/technical-product-manager-issuers-wallet-payments-commerce?team=SFTWR",
@@ -72,33 +82,8 @@
       "title": "Annotation Data Scientist, Evaluation Integrity (Siri)",
       "url": "https://jobs.apple.com/en-us/details/200664186-1242/annotation-data-scientist-evaluation-integrity-siri?team=MLAI",
       "identifier": "Annotation Data Scientist, Evaluation Integrity (S_ation-integrity-siri?team=MLAI"
-    },
-    {
-      "title": "Software Engineer - Core OS Telemetry, CoreOS",
-      "url": "https://jobs.apple.com/en-us/details/200664148-3543/software-engineer-core-os-telemetry-coreos?team=SFTWR",
-      "identifier": "Software Engineer - Core OS Telemetry, CoreOS_os-telemetry-coreos?team=SFTWR"
-    },
-    {
-      "title": "System Software Performance Engineer, Home Platform, CoreOS",
-      "url": "https://jobs.apple.com/en-us/details/200664145-0836/system-software-performance-engineer-home-platform-coreos?team=SFTWR",
-      "identifier": "System Software Performance Engineer, Home Platfor_ome-platform-coreos?team=SFTWR"
-    },
-    {
-      "title": "iOS Engineer- iCloud",
-      "url": "https://jobs.apple.com/en-us/details/200663795-3543/ios-engineer-icloud?team=SFTWR",
-      "identifier": "iOS Engineer- iCloud_ios-engineer-icloud?team=SFTWR"
-    },
-    {
-      "title": "Machine Learning (ML) Data Scientist - ISE Analytics and User Studies, Input Experience",
-      "url": "https://jobs.apple.com/en-us/details/200663930-0836/machine-learning-ml-data-scientist-ise-analytics-and-user-studies-input-experience?team=SFTWR",
-      "identifier": "Machine Learning (ML) Data Scientist - ISE Analyti_es-input-experience?team=SFTWR"
-    },
-    {
-      "title": "Wi-Fi/Bluetooth Software System Performance Engineer, Wireless Technologies & Ecosystems",
-      "url": "https://jobs.apple.com/en-us/details/200662246-3543/wi-fi-bluetooth-software-system-performance-engineer-wireless-technologies-ecosystems?team=SFTWR",
-      "identifier": "Wi-Fi/Bluetooth Software System Performance Engine_nologies-ecosystems?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-19T22:21:08.501196"
+  "timestamp": "2026-05-19T22:38:16.169918"
 }

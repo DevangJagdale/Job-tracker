@@ -1,7 +1,7 @@
 {
   "page_title": "Search our Job Opportunities at Barclays",
   "url": "https://search.jobs.barclays/search-jobs/United%20States/13015/2/6252001/39x76/-98x5/50/2",
-  "total_jobs": 15,
+  "total_jobs": 14,
   "jobs": [
     {
       "title": "Senior Test Automation Engineer (QA/SDET)",
@@ -27,11 +27,6 @@
       "title": "Post Trade Applications Production Engineer",
       "url": "https://search.jobs.barclays/job/whippany/post-trade-applications-production-engineer/13015/95147278192",
       "identifier": "Post Trade Applications Production Engineer_ion-engineer/13015/95147278192"
-    },
-    {
-      "title": "Data Scientist, AVP",
-      "url": "https://search.jobs.barclays/job/new-york/data-scientist-avp/13015/95132408608",
-      "identifier": "Data Scientist, AVP_cientist-avp/13015/95132408608"
     },
     {
       "title": "ICB Insurance Coverage AVP",
@@ -64,11 +59,6 @@
       "identifier": "Unix System Administrator, AVP_istrator-avp/13015/95104606400"
     },
     {
-      "title": "USCB Controls Assurance Portfolio Lead",
-      "url": "https://search.jobs.barclays/job/wilmington/uscb-controls-assurance-portfolio-lead/13015/95104599200",
-      "identifier": "USCB Controls Assurance Portfolio Lead_rtfolio-lead/13015/95104599200"
-    },
-    {
       "title": "M&A Business Manager AVP",
       "url": "https://search.jobs.barclays/job/new-york/m-and-a-business-manager-avp/13015/95091012656",
       "identifier": "M&A Business Manager AVP_-manager-avp/13015/95091012656"
@@ -77,8 +67,13 @@
       "title": "Cash and Payments Sales Specialist - Financial Institutions and Non-Bank Financial Institutions, VP",
       "url": "https://search.jobs.barclays/job/new-york/cash-and-payments-sales-specialist-financial-institutions-and-non-bank-financial-institutions-vp/13015/95091011136",
       "identifier": "Cash and Payments Sales Specialist - Financial Ins_titutions-vp/13015/95091011136"
+    },
+    {
+      "title": "ICBA Coverage Insurance, Analyst",
+      "url": "https://search.jobs.barclays/job/new-york/icba-coverage-insurance-analyst/13015/95091009488",
+      "identifier": "ICBA Coverage Insurance, Analyst_ance-analyst/13015/95091009488"
     }
   ],
-  "job_count_text": "127",
-  "timestamp": "2026-05-19T23:29:05.670888"
+  "job_count_text": "126",
+  "timestamp": "2026-05-19T23:36:48.718568"
 }

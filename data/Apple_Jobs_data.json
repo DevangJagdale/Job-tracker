@@ -4,6 +4,11 @@
   "total_jobs": 19,
   "jobs": [
     {
+      "title": "Technical Product Manager- Issuers (Wallet, Payments & Commerce)",
+      "url": "https://jobs.apple.com/en-us/details/200664301-0836/technical-product-manager-issuers-wallet-payments-commerce?team=SFTWR",
+      "identifier": "Technical Product Manager- Issuers (Wallet, Paymen_t-payments-commerce?team=SFTWR"
+    },
+    {
       "title": "Engineering Program Manager, Application Platform",
       "url": "https://jobs.apple.com/en-us/details/200662881-0836/engineering-program-manager-application-platform?team=SFTWR",
       "identifier": "Engineering Program Manager, Application Platform_pplication-platform?team=SFTWR"
@@ -92,13 +97,8 @@
       "title": "Wi-Fi/Bluetooth Software System Performance Engineer, Wireless Technologies & Ecosystems",
       "url": "https://jobs.apple.com/en-us/details/200662246-3543/wi-fi-bluetooth-software-system-performance-engineer-wireless-technologies-ecosystems?team=SFTWR",
       "identifier": "Wi-Fi/Bluetooth Software System Performance Engine_nologies-ecosystems?team=SFTWR"
-    },
-    {
-      "title": "Pre-Silicon Infrastructure Software Engineer, Core OS",
-      "url": "https://jobs.apple.com/en-us/details/200663685-0836/pre-silicon-infrastructure-software-engineer-core-os?team=SFTWR",
-      "identifier": "Pre-Silicon Infrastructure Software Engineer, Core_re-engineer-core-os?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-19T21:29:45.177860"
+  "timestamp": "2026-05-19T21:46:53.525675"
 }

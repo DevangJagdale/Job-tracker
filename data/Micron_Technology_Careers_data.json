@@ -4,24 +4,24 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "New College Grad - Metrology Applications Engineer\nManassas, Virginia, United States of America\nPosted 16 hours ago",
-      "url": "https://careers.micron.com/careers/job/40100239",
-      "identifier": "New College Grad - Metrology Applications Engineer_icron.com/careers/job/40100239"
-    },
-    {
-      "title": "New College Grad - Process Integration Engineer\nBoise, Idaho, United States of America\nPosted 16 hours ago",
+      "title": "New College Grad - Process Integration Engineer\nBoise, Idaho, United States of America\nPosted 17 hours ago",
       "url": "https://careers.micron.com/careers/job/40475196",
       "identifier": "New College Grad - Process Integration Engineer\nBo_icron.com/careers/job/40475196"
     },
     {
-      "title": "Software Development Engineer\nBoise, Idaho, United States of America\nPosted 16 hours ago",
+      "title": "Software Development Engineer\nBoise, Idaho, United States of America\nPosted 17 hours ago",
       "url": "https://careers.micron.com/careers/job/40899228",
       "identifier": "Software Development Engineer\nBoise, Idaho, United_icron.com/careers/job/40899228"
     },
     {
-      "title": "Software Development Engineer\nBoise, Idaho, United States of America\nPosted 16 hours ago",
+      "title": "Software Development Engineer\nBoise, Idaho, United States of America\nPosted 17 hours ago",
       "url": "https://careers.micron.com/careers/job/40899241",
       "identifier": "Software Development Engineer\nBoise, Idaho, United_icron.com/careers/job/40899241"
+    },
+    {
+      "title": "New College Grad - Metrology Applications Engineer\nManassas, Virginia, United States of America\nPosted 17 hours ago",
+      "url": "https://careers.micron.com/careers/job/40100239",
+      "identifier": "New College Grad - Metrology Applications Engineer_icron.com/careers/job/40100239"
     },
     {
       "title": "Quality Engineer\nLongmont, Colorado, United States of America\nPosted 2 days ago",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "100",
-  "timestamp": "2026-05-19T16:16:34.038832"
+  "timestamp": "2026-05-19T16:33:41.463641"
 }

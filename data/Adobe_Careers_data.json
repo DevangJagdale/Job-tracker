@@ -4,6 +4,21 @@
   "total_jobs": 6,
   "jobs": [
     {
+      "title": "Applied Scientist",
+      "url": "https://careers.adobe.com/us/en/job/R168609/Applied-Scientist",
+      "identifier": "Applied Scientist_/job/R168609/Applied-Scientist"
+    },
+    {
+      "title": "Applied Scientist",
+      "url": "https://careers.adobe.com/us/en/job/R166888/Applied-Scientist",
+      "identifier": "Applied Scientist_/job/R166888/Applied-Scientist"
+    },
+    {
+      "title": "Applied Scientist - Multimodal",
+      "url": "https://careers.adobe.com/us/en/job/R166734/Applied-Scientist-Multimodal",
+      "identifier": "Applied Scientist - Multimodal_4/Applied-Scientist-Multimodal"
+    },
+    {
       "title": "2026 University Graduate - Machine Learning Engineer",
       "url": "https://careers.adobe.com/us/en/job/R160133/2026-University-Graduate-Machine-Learning-Engineer",
       "identifier": "2026 University Graduate - Machine Learning Engine_uate-Machine-Learning-Engineer"
@@ -14,26 +29,11 @@
       "identifier": "Software Development Engineer_/Software-Development-Engineer"
     },
     {
-      "title": "2026 University Graduate \u2013Business Development Representative",
-      "url": "https://careers.adobe.com/us/en/job/R159369/2026-University-Graduate-Business-Development-Representative",
-      "identifier": "2026 University Graduate \u2013Business Development Rep_ess-Development-Representative"
-    },
-    {
       "title": "Applied Scientist 3",
       "url": "https://careers.adobe.com/us/en/job/R166095/Applied-Scientist-3",
       "identifier": "Applied Scientist 3_ob/R166095/Applied-Scientist-3"
-    },
-    {
-      "title": "Applied Scientist - Multimodal",
-      "url": "https://careers.adobe.com/us/en/job/R166734/Applied-Scientist-Multimodal",
-      "identifier": "Applied Scientist - Multimodal_4/Applied-Scientist-Multimodal"
-    },
-    {
-      "title": "Applied Scientist",
-      "url": "https://careers.adobe.com/us/en/job/R168609/Applied-Scientist",
-      "identifier": "Applied Scientist_/job/R168609/Applied-Scientist"
     }
   ],
-  "job_count_text": "12",
-  "timestamp": "2026-05-19T14:17:46.555277"
+  "job_count_text": "6",
+  "timestamp": "2026-05-19T14:34:57.360756"
 }

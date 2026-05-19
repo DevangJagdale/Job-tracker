@@ -1,8 +1,13 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 19,
+  "total_jobs": 18,
   "jobs": [
+    {
+      "title": "Senior Realtime Rendering and Graphics Software Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200649467-0836/senior-realtime-rendering-and-graphics-software-engineer?team=SFTWR",
+      "identifier": "Senior Realtime Rendering and Graphics Software En_s-software-engineer?team=SFTWR"
+    },
     {
       "title": "iOS Software Engineer, Siri Devices",
       "url": "https://jobs.apple.com/en-us/details/200664256-3337/ios-software-engineer-siri-devices?team=SFTWR",
@@ -87,18 +92,8 @@
       "title": "Principal Security Software Engineer",
       "url": "https://jobs.apple.com/en-us/details/200654159-3337/principal-security-software-engineer?team=SFTWR",
       "identifier": "Principal Security Software Engineer_y-software-engineer?team=SFTWR"
-    },
-    {
-      "title": "Senior Software Engineer - Routing Intelligence",
-      "url": "https://jobs.apple.com/en-us/details/200663950-0836/senior-software-engineer-routing-intelligence?team=SFTWR",
-      "identifier": "Senior Software Engineer - Routing Intelligence_outing-intelligence?team=SFTWR"
-    },
-    {
-      "title": "Sr. Engineering Program Manager, Security, Apple Services Engineering",
-      "url": "https://jobs.apple.com/en-us/details/200663998-3337/sr-engineering-program-manager-security-apple-services-engineering?team=SFTWR",
-      "identifier": "Sr. Engineering Program Manager, Security, Apple S_ervices-engineering?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-19T19:12:12.418351"
+  "timestamp": "2026-05-19T19:29:22.456596"
 }

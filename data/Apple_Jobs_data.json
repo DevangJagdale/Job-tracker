@@ -1,8 +1,13 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 16,
+  "total_jobs": 14,
   "jobs": [
+    {
+      "title": "Swift Compiler Engineer, Languages & Runtimes",
+      "url": "https://jobs.apple.com/en-us/details/200663563-0836/swift-compiler-engineer-languages-runtimes?team=SFTWR",
+      "identifier": "Swift Compiler Engineer, Languages & Runtimes_-languages-runtimes?team=SFTWR"
+    },
     {
       "title": "Engineering Program Manager - Generative AI - Special Projects",
       "url": "https://jobs.apple.com/en-us/details/200663889-0836/engineering-program-manager-generative-ai-special-projects?team=SFTWR",
@@ -67,23 +72,8 @@
       "title": "Health iOS Software Engineer - AI Adoption",
       "url": "https://jobs.apple.com/en-us/details/200662663-0017/health-ios-software-engineer-ai-adoption?team=SFTWR",
       "identifier": "Health iOS Software Engineer - AI Adoption_ngineer-ai-adoption?team=SFTWR"
-    },
-    {
-      "title": "Site Reliability Engineer, Teamcenter, Enterprise Technology Services",
-      "url": "https://jobs.apple.com/en-us/details/200663858-0157/site-reliability-engineer-teamcenter-enterprise-technology-services?team=SFTWR",
-      "identifier": "Site Reliability Engineer, Teamcenter, Enterprise _technology-services?team=SFTWR"
-    },
-    {
-      "title": "Senior Realtime Rendering and Graphics Software Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200649467-0836/senior-realtime-rendering-and-graphics-software-engineer?team=SFTWR",
-      "identifier": "Senior Realtime Rendering and Graphics Software En_s-software-engineer?team=SFTWR"
-    },
-    {
-      "title": "iOS Software Engineer, Siri Devices",
-      "url": "https://jobs.apple.com/en-us/details/200664256-3337/ios-software-engineer-siri-devices?team=SFTWR",
-      "identifier": "iOS Software Engineer, Siri Devices_gineer-siri-devices?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-20T03:53:09.266432"
+  "timestamp": "2026-05-20T04:10:12.735783"
 }

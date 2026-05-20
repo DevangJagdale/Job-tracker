@@ -4,6 +4,11 @@
   "total_jobs": 20,
   "jobs": [
     {
+      "title": "Asset & Wealth Management-Generative AI Software Engineer-Associate-Albany\nAlbany\u00b7United States\n\u00b7Associate",
+      "url": "https://higher.gs.com/roles/162184",
+      "identifier": "Asset & Wealth Management-Generative AI Software E_s://higher.gs.com/roles/162184"
+    },
+    {
       "title": "AMD Public-Salt Lake City-Associate-Software Engineering\nSalt Lake City\u00b7United States\n\u00b7Associate",
       "url": "https://higher.gs.com/roles/165919",
       "identifier": "AMD Public-Salt Lake City-Associate-Software Engin_s://higher.gs.com/roles/165919"
@@ -69,11 +74,6 @@
       "identifier": "Asset & Wealth Management-Software Engineering-Ass_s://higher.gs.com/roles/163040"
     },
     {
-      "title": "Asset & Wealth Management-Generative AI Software Engineer-Associate-Albany\nAlbany\u00b7United States\n\u00b7Associate",
-      "url": "https://higher.gs.com/roles/162184",
-      "identifier": "Asset & Wealth Management-Generative AI Software E_s://higher.gs.com/roles/162184"
-    },
-    {
       "title": "Asset & Wealth Management-Scrum Master Engineer-Associate-Albany\nAlbany\u00b7United States\n\u00b7Associate",
       "url": "https://higher.gs.com/roles/158357",
       "identifier": "Asset & Wealth Management-Scrum Master Engineer-As_s://higher.gs.com/roles/158357"
@@ -105,5 +105,5 @@
     }
   ],
   "job_count_text": "45",
-  "timestamp": "2026-05-20T01:18:48.641081"
+  "timestamp": "2026-05-20T01:35:51.575209"
 }

@@ -1,10 +1,10 @@
 {
   "page_title": "| Microsoft Careers",
   "url": "https://apply.careers.microsoft.com/careers?domain=microsoft.com&start=0&location=United+States&sort_by=timestamp&filter_include_remote=1&filter_profession=software+engineering%2Cresearch%252C%2520applied%252C%2520%2526%2520data%2520sciences",
-  "total_jobs": 9,
+  "total_jobs": 8,
   "jobs": [
     {
-      "title": "Principal Software Engineer\nUnited States, California, Mountain View + 1 more\nPosted 33 minutes ago",
+      "title": "Principal Software Engineer\nUnited States, California, Mountain View + 1 more\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556630574?domain=microsoft.com",
       "identifier": "Principal Software Engineer\nUnited States, Califor_556630574?domain=microsoft.com"
     },
@@ -24,7 +24,7 @@
       "identifier": "Software Engineer - CTJ - Poly\nUnited States, Wash_556867395?domain=microsoft.com"
     },
     {
-      "title": "Software Engineer II or Senior Software Engineer - Simulation Platform\nUnited States, Washington, Redmond + 1 more\nPosted 2 hours ago",
+      "title": "Software Engineer II or Senior Software Engineer - Simulation Platform\nUnited States, Washington, Redmond + 1 more\nPosted 3 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556851852?domain=microsoft.com",
       "identifier": "Software Engineer II or Senior Software Engineer -_556851852?domain=microsoft.com"
     },
@@ -42,13 +42,8 @@
       "title": "Software Engineer - CTJ - Poly\nUnited States, Washington, Redmond + 1 more\nPosted 18 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556859432?domain=microsoft.com",
       "identifier": "Software Engineer - CTJ - Poly\nUnited States, Wash_556859432?domain=microsoft.com"
-    },
-    {
-      "title": "Principal Software Engineer - Identity\nUnited States, Washington, Redmond\nPosted a day ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556623151?domain=microsoft.com",
-      "identifier": "Principal Software Engineer - Identity\nUnited Stat_556623151?domain=microsoft.com"
     }
   ],
-  "job_count_text": "443",
-  "timestamp": "2026-05-20T18:30:03.504348"
+  "job_count_text": "444",
+  "timestamp": "2026-05-20T18:47:05.756983"
 }

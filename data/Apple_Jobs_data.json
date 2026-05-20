@@ -4,6 +4,11 @@
   "total_jobs": 14,
   "jobs": [
     {
+      "title": "Software Engineer - AI Agents & Automation, Maps Data Tooling",
+      "url": "https://jobs.apple.com/en-us/details/200663946-0836/software-engineer-ai-agents-automation-maps-data-tooling?team=SFTWR",
+      "identifier": "Software Engineer - AI Agents & Automation, Maps D_n-maps-data-tooling?team=SFTWR"
+    },
+    {
       "title": "Staff Software Engineer - FoundationDB",
       "url": "https://jobs.apple.com/en-us/details/200664497-0836/staff-software-engineer-foundationdb?team=SFTWR",
       "identifier": "Staff Software Engineer - FoundationDB_gineer-foundationdb?team=SFTWR"
@@ -67,13 +72,8 @@
       "title": "AIML - Sr. Software Development Engineer, Evaluation",
       "url": "https://jobs.apple.com/en-us/details/200631643-3401/aiml-sr-software-development-engineer-evaluation?team=SFTWR",
       "identifier": "AIML - Sr. Software Development Engineer, Evaluati_engineer-evaluation?team=SFTWR"
-    },
-    {
-      "title": "Software Development Engineer - Traffic Network Proxying, ASE",
-      "url": "https://jobs.apple.com/en-us/details/200664341-3337/software-development-engineer-traffic-network-proxying-ase?team=SFTWR",
-      "identifier": "Software Development Engineer - Traffic Network Pr_etwork-proxying-ase?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-20T19:55:26.399039"
+  "timestamp": "2026-05-20T20:12:28.758818"
 }

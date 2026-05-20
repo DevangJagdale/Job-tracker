@@ -4,6 +4,11 @@
   "total_jobs": 20,
   "jobs": [
     {
+      "title": "AI/ML Engineer, Global Banking & Markets, Investment Banking\nDallas\u00b7United States\n\u00b7Associate",
+      "url": "https://higher.gs.com/roles/161628",
+      "identifier": "AI/ML Engineer, Global Banking & Markets, Investme_s://higher.gs.com/roles/161628"
+    },
+    {
       "title": "Asset & Wealth Management, Business Analytics, Associate - New York\nNew York\u00b7United States\n\u00b7Associate",
       "url": "https://higher.gs.com/roles/168993",
       "identifier": "Asset & Wealth Management, Business Analytics, Ass_s://higher.gs.com/roles/168993"
@@ -47,11 +52,6 @@
       "title": "Corporate Treasury, Payments Platform, Software Engineering, Associate, NY\nNew York\u00b7United States\n\u00b7Associate",
       "url": "https://higher.gs.com/roles/170578",
       "identifier": "Corporate Treasury, Payments Platform, Software En_s://higher.gs.com/roles/170578"
-    },
-    {
-      "title": "AI/ML Engineer, Global Banking & Markets, Investment Banking\nDallas\u00b7United States\n\u00b7Associate",
-      "url": "https://higher.gs.com/roles/161628",
-      "identifier": "AI/ML Engineer, Global Banking & Markets, Investme_s://higher.gs.com/roles/161628"
     },
     {
       "title": "Software Engineer, Global Banking & Markets, Front Office Technology\nDallas\u00b7United States\n\u00b7Associate",
@@ -105,5 +105,5 @@
     }
   ],
   "job_count_text": "44",
-  "timestamp": "2026-05-20T17:38:20.015638"
+  "timestamp": "2026-05-20T17:55:22.869725"
 }

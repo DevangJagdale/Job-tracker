@@ -1,7 +1,7 @@
 {
   "page_title": "Job Openings - Cisco Careers",
   "url": "https://careers.cisco.com/global/en/search-results?s=1",
-  "total_jobs": 10,
+  "total_jobs": 9,
   "jobs": [
     {
       "title": "Software Development Engineer II (Full Time) \u2013 United States",
@@ -22,11 +22,6 @@
       "title": "Customer Experience Project Specialist I (Full-Time) - United States",
       "url": "https://careers.cisco.com/global/en/job/2001576/Customer-Experience-Project-Specialist-I-Full-Time-United-States",
       "identifier": "Customer Experience Project Specialist I (Full-Tim_list-I-Full-Time-United-States"
-    },
-    {
-      "title": "Engineering Project Specialist II (Full Time) - United States",
-      "url": "https://careers.cisco.com/global/en/job/2014971/Engineering-Project-Specialist-II-Full-Time-United-States",
-      "identifier": "Engineering Project Specialist II (Full Time) - Un_ist-II-Full-Time-United-States"
     },
     {
       "title": "Account Development Representative II (Full Time) United States",
@@ -54,6 +49,6 @@
       "identifier": "Sales Development Representative II (Full Time) Un_al-Demand-Center-United-States"
     }
   ],
-  "job_count_text": "10",
-  "timestamp": "2026-05-20T17:40:56.205385"
+  "job_count_text": "9",
+  "timestamp": "2026-05-20T17:57:57.750405"
 }

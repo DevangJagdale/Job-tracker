@@ -4,6 +4,11 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Product Manager, Apple Wallet",
+      "url": "https://jobs.apple.com/en-us/details/200663893-0836/product-manager-apple-wallet?team=SFTWR",
+      "identifier": "Product Manager, Apple Wallet_anager-apple-wallet?team=SFTWR"
+    },
+    {
       "title": "AIML - Sr. Software Development Engineer, Evaluation",
       "url": "https://jobs.apple.com/en-us/details/200631643-3401/aiml-sr-software-development-engineer-evaluation?team=SFTWR",
       "identifier": "AIML - Sr. Software Development Engineer, Evaluati_engineer-evaluation?team=SFTWR"
@@ -77,13 +82,8 @@
       "title": "Wireless Networking Software Engineer, Wireless Technologies & Ecosystems",
       "url": "https://jobs.apple.com/en-us/details/200664228-0836/wireless-networking-software-engineer-wireless-technologies-ecosystems?team=SFTWR",
       "identifier": "Wireless Networking Software Engineer, Wireless Te_nologies-ecosystems?team=SFTWR"
-    },
-    {
-      "title": "Sr. Software Reliability & Stability Quality Engineer, Siri Speech",
-      "url": "https://jobs.apple.com/en-us/details/200623092-3401/sr-software-reliability-stability-quality-engineer-siri-speech?team=SFTWR",
-      "identifier": "Sr. Software Reliability & Stability Quality Engin_ngineer-siri-speech?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-20T00:28:30.714495"
+  "timestamp": "2026-05-20T00:45:33.741242"
 }

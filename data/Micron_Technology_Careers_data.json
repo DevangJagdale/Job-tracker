@@ -4,11 +4,6 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "New College Grad - Process Integration Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
-      "url": "https://careers.micron.com/careers/job/40475196",
-      "identifier": "New College Grad - Process Integration Engineer\nBo_icron.com/careers/job/40475196"
-    },
-    {
       "title": "Engineer/Sr. Engineer, Central PIE Yield Enhancement\nBoise, Idaho, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/41158237",
       "identifier": "Engineer/Sr. Engineer, Central PIE Yield Enhanceme_icron.com/careers/job/41158237"
@@ -24,24 +19,29 @@
       "identifier": "ASIC Engineer 2\nLongmont, Colorado, United States _icron.com/careers/job/41954073"
     },
     {
-      "title": "New College Grad - Supply Management Analyst\nManassas, Virginia, United States of America\nPosted a day ago",
-      "url": "https://careers.micron.com/careers/job/41979554",
-      "identifier": "New College Grad - Supply Management Analyst\nManas_icron.com/careers/job/41979554"
-    },
-    {
       "title": "New College Grad - Metrology Applications Engineer\nManassas, Virginia, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/40100239",
       "identifier": "New College Grad - Metrology Applications Engineer_icron.com/careers/job/40100239"
     },
     {
-      "title": "New College Grad - Photolithography Process Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
-      "url": "https://careers.micron.com/careers/job/41923169",
-      "identifier": "New College Grad - Photolithography Process Engine_icron.com/careers/job/41923169"
-    },
-    {
       "title": "Product Development Engineer\nSan Jose, California, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/41954264",
       "identifier": "Product Development Engineer\nSan Jose, California,_icron.com/careers/job/41954264"
+    },
+    {
+      "title": "New College Grad - Process Integration Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/40475196",
+      "identifier": "New College Grad - Process Integration Engineer\nBo_icron.com/careers/job/40475196"
+    },
+    {
+      "title": "New College Grad - Supply Management Analyst\nManassas, Virginia, United States of America\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/41979554",
+      "identifier": "New College Grad - Supply Management Analyst\nManas_icron.com/careers/job/41979554"
+    },
+    {
+      "title": "New College Grad - Photolithography Process Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/41923169",
+      "identifier": "New College Grad - Photolithography Process Engine_icron.com/careers/job/41923169"
     },
     {
       "title": "Quality Engineer\nLongmont, Colorado, United States of America\nPosted a day ago",
@@ -54,6 +54,6 @@
       "identifier": "Signal and Power Integrity Lab Engineer\nBoise, Ida_icron.com/careers/job/41839528"
     }
   ],
-  "job_count_text": "100",
-  "timestamp": "2026-05-20T02:13:57.950738"
+  "job_count_text": "99",
+  "timestamp": "2026-05-20T02:31:00.356194"
 }

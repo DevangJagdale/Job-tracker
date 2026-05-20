@@ -4,6 +4,11 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Engineering Program Manager - Generative AI - Special Projects",
+      "url": "https://jobs.apple.com/en-us/details/200663889-0836/engineering-program-manager-generative-ai-special-projects?team=SFTWR",
+      "identifier": "Engineering Program Manager - Generative AI - Spec_ai-special-projects?team=SFTWR"
+    },
+    {
       "title": "AIML Engineer Lead - Human Perception",
       "url": "https://jobs.apple.com/en-us/details/200664371-3956/aiml-engineer-lead-human-perception?team=MLAI",
       "identifier": "AIML Engineer Lead - Human Perception_ead-human-perception?team=MLAI"
@@ -77,13 +82,8 @@
       "title": "iOS Software Engineer, Siri Devices",
       "url": "https://jobs.apple.com/en-us/details/200664256-3337/ios-software-engineer-siri-devices?team=SFTWR",
       "identifier": "iOS Software Engineer, Siri Devices_gineer-siri-devices?team=SFTWR"
-    },
-    {
-      "title": "Machine Learning Platform Engineer, Apple Services Engineering",
-      "url": "https://jobs.apple.com/en-us/details/200664012-3337/machine-learning-platform-engineer-apple-services-engineering?team=SFTWR",
-      "identifier": "Machine Learning Platform Engineer, Apple Services_ervices-engineering?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-20T02:10:49.452178"
+  "timestamp": "2026-05-20T02:27:51.185425"
 }

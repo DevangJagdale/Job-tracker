@@ -4,6 +4,11 @@
   "total_jobs": 13,
   "jobs": [
     {
+      "title": "Technical Operations Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200662212-0670/technical-operations-engineer?team=SFTWR",
+      "identifier": "Technical Operations Engineer_operations-engineer?team=SFTWR"
+    },
+    {
       "title": "Solution Engineer, Corporate Systems Engineering",
       "url": "https://jobs.apple.com/en-us/details/200626160-0157/solution-engineer-corporate-systems-engineering?team=SFTWR",
       "identifier": "Solution Engineer, Corporate Systems Engineering_systems-engineering?team=SFTWR"
@@ -62,13 +67,8 @@
       "title": "Swift Compiler Engineer, Languages & Runtimes",
       "url": "https://jobs.apple.com/en-us/details/200663563-0836/swift-compiler-engineer-languages-runtimes?team=SFTWR",
       "identifier": "Swift Compiler Engineer, Languages & Runtimes_-languages-runtimes?team=SFTWR"
-    },
-    {
-      "title": "Engineering Program Manager - Generative AI - Special Projects",
-      "url": "https://jobs.apple.com/en-us/details/200663889-0836/engineering-program-manager-generative-ai-special-projects?team=SFTWR",
-      "identifier": "Engineering Program Manager - Generative AI - Spec_ai-special-projects?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-20T21:37:43.750200"
+  "timestamp": "2026-05-20T21:45:16.508298"
 }

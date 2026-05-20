@@ -4,14 +4,14 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Sales Development Representative (Remote)",
-      "url": "https://careers.cisco.com/global/en/job/2006129/Sales-Development-Representative-Remote",
-      "identifier": "Sales Development Representative (Remote)_elopment-Representative-Remote"
-    },
-    {
       "title": "Software Development Engineer II (Full Time) \u2013 United States",
       "url": "https://careers.cisco.com/global/en/job/2014387/Software-Development-Engineer-II-Full-Time-United-States",
       "identifier": "Software Development Engineer II (Full Time) \u2013 Uni_eer-II-Full-Time-United-States"
+    },
+    {
+      "title": "Sales Development Representative (Remote)",
+      "url": "https://careers.cisco.com/global/en/job/2006129/Sales-Development-Representative-Remote",
+      "identifier": "Sales Development Representative (Remote)_elopment-Representative-Remote"
     },
     {
       "title": "Workday Security Administrator II (Full-Time) - United States",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "11",
-  "timestamp": "2026-05-20T17:06:43.645135"
+  "timestamp": "2026-05-20T17:23:53.721238"
 }

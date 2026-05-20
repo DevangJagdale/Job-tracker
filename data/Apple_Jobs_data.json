@@ -1,8 +1,18 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 14,
+  "total_jobs": 13,
   "jobs": [
+    {
+      "title": "Solution Engineer, Corporate Systems Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200626160-0157/solution-engineer-corporate-systems-engineering?team=SFTWR",
+      "identifier": "Solution Engineer, Corporate Systems Engineering_systems-engineering?team=SFTWR"
+    },
+    {
+      "title": "Machine Learning Engineer, Foundation Model Services",
+      "url": "https://jobs.apple.com/en-us/details/200664569-3760/machine-learning-engineer-foundation-model-services?team=MLAI",
+      "identifier": "Machine Learning Engineer, Foundation Model Servic_ation-model-services?team=MLAI"
+    },
     {
       "title": "Software Engineer - AI Agents & Automation, Maps Data Tooling",
       "url": "https://jobs.apple.com/en-us/details/200663946-0836/software-engineer-ai-agents-automation-maps-data-tooling?team=SFTWR",
@@ -57,23 +67,8 @@
       "title": "Engineering Program Manager - Generative AI - Special Projects",
       "url": "https://jobs.apple.com/en-us/details/200663889-0836/engineering-program-manager-generative-ai-special-projects?team=SFTWR",
       "identifier": "Engineering Program Manager - Generative AI - Spec_ai-special-projects?team=SFTWR"
-    },
-    {
-      "title": "AIML Engineer Lead - Human Perception",
-      "url": "https://jobs.apple.com/en-us/details/200664371-3956/aiml-engineer-lead-human-perception?team=MLAI",
-      "identifier": "AIML Engineer Lead - Human Perception_ead-human-perception?team=MLAI"
-    },
-    {
-      "title": "Product Manager, Apple Wallet",
-      "url": "https://jobs.apple.com/en-us/details/200663893-0836/product-manager-apple-wallet?team=SFTWR",
-      "identifier": "Product Manager, Apple Wallet_anager-apple-wallet?team=SFTWR"
-    },
-    {
-      "title": "AIML - Sr. Software Development Engineer, Evaluation",
-      "url": "https://jobs.apple.com/en-us/details/200631643-3401/aiml-sr-software-development-engineer-evaluation?team=SFTWR",
-      "identifier": "AIML - Sr. Software Development Engineer, Evaluati_engineer-evaluation?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-20T21:03:42.835908"
+  "timestamp": "2026-05-20T21:20:40.715209"
 }

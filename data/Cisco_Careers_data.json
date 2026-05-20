@@ -1,12 +1,12 @@
 {
   "page_title": "Job Openings - Cisco Careers",
   "url": "https://careers.cisco.com/global/en/search-results?s=1",
-  "total_jobs": 10,
+  "total_jobs": 9,
   "jobs": [
     {
-      "title": "AI Product Manager II (Full-Time) \u2013 United States",
-      "url": "https://careers.cisco.com/global/en/job/2012163/AI-Product-Manager-II-Full-Time-United-States",
-      "identifier": "AI Product Manager II (Full-Time) \u2013 United States_ger-II-Full-Time-United-States"
+      "title": "Workday Security Administrator II (Full-Time) - United States",
+      "url": "https://careers.cisco.com/global/en/job/2013460/Workday-Security-Administrator-II-Full-Time-United-States",
+      "identifier": "Workday Security Administrator II (Full-Time) - Un_tor-II-Full-Time-United-States"
     },
     {
       "title": "ASIC Design Verfication Engineer II (Full Time) - United States",
@@ -14,9 +14,29 @@
       "identifier": "ASIC Design Verfication Engineer II (Full Time) - _eer-II-Full-Time-United-States"
     },
     {
+      "title": "Customer Experience Project Specialist I (Full-Time) - United States",
+      "url": "https://careers.cisco.com/global/en/job/2001576/Customer-Experience-Project-Specialist-I-Full-Time-United-States",
+      "identifier": "Customer Experience Project Specialist I (Full-Tim_list-I-Full-Time-United-States"
+    },
+    {
       "title": "Engineering Project Specialist II (Full Time) - United States",
       "url": "https://careers.cisco.com/global/en/job/2014971/Engineering-Project-Specialist-II-Full-Time-United-States",
       "identifier": "Engineering Project Specialist II (Full Time) - Un_ist-II-Full-Time-United-States"
+    },
+    {
+      "title": "Account Development Representative II (Full Time) United States",
+      "url": "https://careers.cisco.com/global/en/job/2001887/Account-Development-Representative-II-Full-Time-United-States",
+      "identifier": "Account Development Representative II (Full Time) _ive-II-Full-Time-United-States"
+    },
+    {
+      "title": "AI Product Manager II (Full-Time) \u2013 United States",
+      "url": "https://careers.cisco.com/global/en/job/2012163/AI-Product-Manager-II-Full-Time-United-States",
+      "identifier": "AI Product Manager II (Full-Time) \u2013 United States_ger-II-Full-Time-United-States"
+    },
+    {
+      "title": "Sales Development Representative I (Full Time) - United States (Virtual Demand Center)",
+      "url": "https://careers.cisco.com/global/en/job/2005272/Sales-Development-Representative-I-Full-Time-United-States-Virtual-Demand-Center",
+      "identifier": "Sales Development Representative I (Full Time) - U_d-States-Virtual-Demand-Center"
     },
     {
       "title": "Sales Development Representative Outbound Sales II (Full Time) - United States",
@@ -24,36 +44,11 @@
       "identifier": "Sales Development Representative Outbound Sales II_les-II-Full-Time-United-States"
     },
     {
-      "title": "Customer Experience Project Specialist I (Full-Time) - United States",
-      "url": "https://careers.cisco.com/global/en/job/2001576/Customer-Experience-Project-Specialist-I-Full-Time-United-States",
-      "identifier": "Customer Experience Project Specialist I (Full-Tim_list-I-Full-Time-United-States"
-    },
-    {
-      "title": "Software Engineer - Graduate - Slovakia",
-      "url": "https://careers.cisco.com/global/en/job/2013016/Software-Engineer-Graduate-Slovakia",
-      "identifier": "Software Engineer - Graduate - Slovakia_are-Engineer-Graduate-Slovakia"
-    },
-    {
-      "title": "Commercial Finance Analyst, Australia - Full Time",
-      "url": "https://careers.cisco.com/global/en/job/2013056/Commercial-Finance-Analyst-Australia-Full-Time",
-      "identifier": "Commercial Finance Analyst, Australia - Full Time_ce-Analyst-Australia-Full-Time"
-    },
-    {
-      "title": "28\u5352\u5bfe\u8c61 CX\u30b5\u30de\u30fc\u30a4\u30f3\u30bf\u30fc\u30f3\u30b7\u30c3\u30d7 - \u30c6\u30af\u30cb\u30ab\u30eb\u30b3\u30f3\u30b5\u30eb\u30c6\u30a3\u30f3\u30b0\u30a8\u30f3\u30b8\u30cb\u30a2\u8077 (Technical Consulting Engineer)",
-      "url": "https://careers.cisco.com/global/en/job/2013135/28%E5%8D%92%E5%AF%BE%E8%B1%A1-CX%E3%82%B5%E3%83%9E%E3%83%BC%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%83%E3%83%97-%E3%83%86%E3%82%AF%E3%83%8B%E3%82%AB%E3%83%AB%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%AB%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E8%81%B7-Technical-Consulting-Engineer",
-      "identifier": "28\u5352\u5bfe\u8c61 CX\u30b5\u30de\u30fc\u30a4\u30f3\u30bf\u30fc\u30f3\u30b7\u30c3\u30d7 - \u30c6\u30af\u30cb\u30ab\u30eb\u30b3\u30f3\u30b5\u30eb\u30c6\u30a3\u30f3\u30b0\u30a8\u30f3\u30b8\u30cb\u30a2\u8077 (Technic_-Technical-Consulting-Engineer"
-    },
-    {
-      "title": "Product Management Specialist - Graduate - Norway",
-      "url": "https://careers.cisco.com/global/en/job/2010368/Product-Management-Specialist-Graduate-Norway",
-      "identifier": "Product Management Specialist - Graduate - Norway_ent-Specialist-Graduate-Norway"
-    },
-    {
-      "title": "Software Engineer",
-      "url": "https://careers.cisco.com/global/en/job/2006629/Software-Engineer",
-      "identifier": "Software Engineer_/job/2006629/Software-Engineer"
+      "title": "Sales Development Representative II (Full Time) United States (Virtual Demand Center) - United States",
+      "url": "https://careers.cisco.com/global/en/job/2008662/Sales-Development-Representative-II-Full-Time-United-States-Virtual-Demand-Center-United-States",
+      "identifier": "Sales Development Representative II (Full Time) Un_al-Demand-Center-United-States"
     }
   ],
-  "job_count_text": "31",
-  "timestamp": "2026-05-20T09:58:06.602159"
+  "job_count_text": "9",
+  "timestamp": "2026-05-20T10:15:01.259736"
 }

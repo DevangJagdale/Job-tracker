@@ -4,31 +4,6 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "New College Grad - Process Integration Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
-      "url": "https://careers.micron.com/careers/job/40475196",
-      "identifier": "New College Grad - Process Integration Engineer\nBo_icron.com/careers/job/40475196"
-    },
-    {
-      "title": "Manufacturing Engineer - ID1 CMP\nBoise, Idaho, United States of America\nPosted a day ago",
-      "url": "https://careers.micron.com/careers/job/41720174",
-      "identifier": "Manufacturing Engineer - ID1 CMP\nBoise, Idaho, Uni_icron.com/careers/job/41720174"
-    },
-    {
-      "title": "Engineer/Sr. Engineer, Central PIE Yield Enhancement\nBoise, Idaho, United States of America\nPosted a day ago",
-      "url": "https://careers.micron.com/careers/job/41158237",
-      "identifier": "Engineer/Sr. Engineer, Central PIE Yield Enhanceme_icron.com/careers/job/41158237"
-    },
-    {
-      "title": "ASIC Engineer 2\nLongmont, Colorado, United States of America\nPosted a day ago",
-      "url": "https://careers.micron.com/careers/job/41954073",
-      "identifier": "ASIC Engineer 2\nLongmont, Colorado, United States _icron.com/careers/job/41954073"
-    },
-    {
-      "title": "New College Grad - Supply Management Analyst\nManassas, Virginia, United States of America\nPosted a day ago",
-      "url": "https://careers.micron.com/careers/job/41979554",
-      "identifier": "New College Grad - Supply Management Analyst\nManas_icron.com/careers/job/41979554"
-    },
-    {
       "title": "New College Grad - Metrology Applications Engineer\nManassas, Virginia, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/40100239",
       "identifier": "New College Grad - Metrology Applications Engineer_icron.com/careers/job/40100239"
@@ -49,11 +24,36 @@
       "identifier": "Quality Engineer\nLongmont, Colorado, United States_icron.com/careers/job/41978275"
     },
     {
+      "title": "New College Grad - Process Integration Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/40475196",
+      "identifier": "New College Grad - Process Integration Engineer\nBo_icron.com/careers/job/40475196"
+    },
+    {
+      "title": "Engineer/Sr. Engineer, Central PIE Yield Enhancement\nBoise, Idaho, United States of America\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/41158237",
+      "identifier": "Engineer/Sr. Engineer, Central PIE Yield Enhanceme_icron.com/careers/job/41158237"
+    },
+    {
+      "title": "Manufacturing Engineer - ID1 CMP\nBoise, Idaho, United States of America\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/41720174",
+      "identifier": "Manufacturing Engineer - ID1 CMP\nBoise, Idaho, Uni_icron.com/careers/job/41720174"
+    },
+    {
+      "title": "ASIC Engineer 2\nLongmont, Colorado, United States of America\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/41954073",
+      "identifier": "ASIC Engineer 2\nLongmont, Colorado, United States _icron.com/careers/job/41954073"
+    },
+    {
+      "title": "New College Grad - Supply Management Analyst\nManassas, Virginia, United States of America\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/41979554",
+      "identifier": "New College Grad - Supply Management Analyst\nManas_icron.com/careers/job/41979554"
+    },
+    {
       "title": "Signal and Power Integrity Lab Engineer\nBoise, Idaho, United States of America\nPosted 2 days ago",
       "url": "https://careers.micron.com/careers/job/41839528",
       "identifier": "Signal and Power Integrity Lab Engineer\nBoise, Ida_icron.com/careers/job/41839528"
     }
   ],
   "job_count_text": "100",
-  "timestamp": "2026-05-20T01:05:45.358391"
+  "timestamp": "2026-05-20T01:22:47.976486"
 }

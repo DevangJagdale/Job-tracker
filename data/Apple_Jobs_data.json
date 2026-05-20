@@ -4,6 +4,11 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "AIML Engineer Lead - Human Perception",
+      "url": "https://jobs.apple.com/en-us/details/200664371-3956/aiml-engineer-lead-human-perception?team=MLAI",
+      "identifier": "AIML Engineer Lead - Human Perception_ead-human-perception?team=MLAI"
+    },
+    {
       "title": "Product Manager, Apple Wallet",
       "url": "https://jobs.apple.com/en-us/details/200663893-0836/product-manager-apple-wallet?team=SFTWR",
       "identifier": "Product Manager, Apple Wallet_anager-apple-wallet?team=SFTWR"
@@ -77,13 +82,8 @@
       "title": "Machine Learning Platform Engineer, Apple Services Engineering",
       "url": "https://jobs.apple.com/en-us/details/200664012-3337/machine-learning-platform-engineer-apple-services-engineering?team=SFTWR",
       "identifier": "Machine Learning Platform Engineer, Apple Services_ervices-engineering?team=SFTWR"
-    },
-    {
-      "title": "Wireless Networking Software Engineer, Wireless Technologies & Ecosystems",
-      "url": "https://jobs.apple.com/en-us/details/200664228-0836/wireless-networking-software-engineer-wireless-technologies-ecosystems?team=SFTWR",
-      "identifier": "Wireless Networking Software Engineer, Wireless Te_nologies-ecosystems?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-20T01:02:37.107562"
+  "timestamp": "2026-05-20T01:19:38.623408"
 }

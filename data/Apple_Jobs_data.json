@@ -4,6 +4,11 @@
   "total_jobs": 14,
   "jobs": [
     {
+      "title": "UI Frameworks Senior Engineer, Swift Platform Experience",
+      "url": "https://jobs.apple.com/en-us/details/200664165-0836/ui-frameworks-senior-engineer-swift-platform-experience?team=SFTWR",
+      "identifier": "UI Frameworks Senior Engineer, Swift Platform Expe_platform-experience?team=SFTWR"
+    },
+    {
       "title": "Principal AI Architect, App Store Data",
       "url": "https://jobs.apple.com/en-us/details/200664236-0836/principal-ai-architect-app-store-data?team=SFTWR",
       "identifier": "Principal AI Architect, App Store Data_tect-app-store-data?team=SFTWR"
@@ -39,11 +44,6 @@
       "identifier": "AIML - Sr. Software Development Engineer, Evaluati_engineer-evaluation?team=SFTWR"
     },
     {
-      "title": "UI Frameworks Senior Engineer, Swift Platform Experience",
-      "url": "https://jobs.apple.com/en-us/details/200664165-0836/ui-frameworks-senior-engineer-swift-platform-experience?team=SFTWR",
-      "identifier": "UI Frameworks Senior Engineer, Swift Platform Expe_platform-experience?team=SFTWR"
-    },
-    {
       "title": "Software Development Engineer - Traffic Network Proxying, ASE",
       "url": "https://jobs.apple.com/en-us/details/200664341-3337/software-development-engineer-traffic-network-proxying-ase?team=SFTWR",
       "identifier": "Software Development Engineer - Traffic Network Pr_etwork-proxying-ase?team=SFTWR"
@@ -75,5 +75,5 @@
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-20T14:39:56.968173"
+  "timestamp": "2026-05-20T14:57:06.991749"
 }

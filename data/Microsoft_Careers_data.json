@@ -4,14 +4,19 @@
   "total_jobs": 8,
   "jobs": [
     {
-      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 20 minutes ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556864745?domain=microsoft.com",
-      "identifier": "Senior Software Engineer\nUnited States, Washington_556864745?domain=microsoft.com"
+      "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted 19 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556867661?domain=microsoft.com",
+      "identifier": "Principal Software Engineer\nUnited States, Washing_556867661?domain=microsoft.com"
     },
     {
-      "title": "Senior Data Engineer\nUnited States, Washington, Redmond\nPosted 20 minutes ago",
+      "title": "Senior Data Engineer\nUnited States, Washington, Redmond\nPosted 37 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556864744?domain=microsoft.com",
       "identifier": "Senior Data Engineer\nUnited States, Washington, Re_556864744?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 37 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556864745?domain=microsoft.com",
+      "identifier": "Senior Software Engineer\nUnited States, Washington_556864745?domain=microsoft.com"
     },
     {
       "title": "Software Engineer 2\nUnited States, Washington, Redmond\nPosted an hour ago",
@@ -37,13 +42,8 @@
       "title": "Applied Scientist II and Senior Applied Scientist\nUnited States, Washington, Redmond\nPosted 4 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556826534?domain=microsoft.com",
       "identifier": "Applied Scientist II and Senior Applied Scientist\n_556826534?domain=microsoft.com"
-    },
-    {
-      "title": "Principal Software Engineer\nUnited States, California, Mountain View + 1 more\nPosted 5 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556630574?domain=microsoft.com",
-      "identifier": "Principal Software Engineer\nUnited States, Califor_556630574?domain=microsoft.com"
     }
   ],
-  "job_count_text": "450",
-  "timestamp": "2026-05-20T22:36:01.110870"
+  "job_count_text": "451",
+  "timestamp": "2026-05-20T22:53:01.391318"
 }

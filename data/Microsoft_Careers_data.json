@@ -1,15 +1,15 @@
 {
   "page_title": "| Microsoft Careers",
   "url": "https://apply.careers.microsoft.com/careers?domain=microsoft.com&start=0&location=United+States&sort_by=timestamp&filter_include_remote=1&filter_profession=software+engineering%2Cresearch%252C%2520applied%252C%2520%2526%2520data%2520sciences",
-  "total_jobs": 8,
+  "total_jobs": 9,
   "jobs": [
     {
-      "title": "Principal Software Engineer\nUnited States, California, Mountain View + 1 more\nPosted 16 minutes ago",
+      "title": "Principal Software Engineer\nUnited States, California, Mountain View + 1 more\nPosted 33 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556630574?domain=microsoft.com",
       "identifier": "Principal Software Engineer\nUnited States, Califor_556630574?domain=microsoft.com"
     },
     {
-      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 41 minutes ago",
+      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556753717?domain=microsoft.com",
       "identifier": "Software Engineer II\nUnited States, Washington, Re_556753717?domain=microsoft.com"
     },
@@ -19,7 +19,7 @@
       "identifier": "Senior Software Engineer\nUnited States, Multiple L_556768585?domain=microsoft.com"
     },
     {
-      "title": "Software Engineer - CTJ - Poly\nUnited States, Washington, Redmond\nPosted an hour ago",
+      "title": "Software Engineer - CTJ - Poly\nUnited States, Washington, Redmond\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556867395?domain=microsoft.com",
       "identifier": "Software Engineer - CTJ - Poly\nUnited States, Wash_556867395?domain=microsoft.com"
     },
@@ -34,7 +34,7 @@
       "identifier": "Software Engineer 2\nUnited States, Washington, Red_556749568?domain=microsoft.com"
     },
     {
-      "title": "Principal Data Scientist\nUnited States, Multiple Locations, Multiple Locations + 8 more\nPosted 4 hours ago",
+      "title": "Principal Data Scientist\nUnited States, Multiple Locations, Multiple Locations + 8 more\nPosted 5 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556868060?domain=microsoft.com",
       "identifier": "Principal Data Scientist\nUnited States, Multiple L_556868060?domain=microsoft.com"
     },
@@ -42,8 +42,13 @@
       "title": "Software Engineer - CTJ - Poly\nUnited States, Washington, Redmond + 1 more\nPosted 18 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556859432?domain=microsoft.com",
       "identifier": "Software Engineer - CTJ - Poly\nUnited States, Wash_556859432?domain=microsoft.com"
+    },
+    {
+      "title": "Principal Software Engineer - Identity\nUnited States, Washington, Redmond\nPosted a day ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556623151?domain=microsoft.com",
+      "identifier": "Principal Software Engineer - Identity\nUnited Stat_556623151?domain=microsoft.com"
     }
   ],
-  "job_count_text": "444",
-  "timestamp": "2026-05-20T18:12:58.775137"
+  "job_count_text": "443",
+  "timestamp": "2026-05-20T18:30:03.504348"
 }

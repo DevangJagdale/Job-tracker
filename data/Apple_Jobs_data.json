@@ -4,6 +4,11 @@
   "total_jobs": 12,
   "jobs": [
     {
+      "title": "Software Engineer, Crypto Services - Key Management, Enterpise Technology Services",
+      "url": "https://jobs.apple.com/en-us/details/200664495-0157/software-engineer-crypto-services-key-management-enterpise-technology-services?team=SFTWR",
+      "identifier": "Software Engineer, Crypto Services - Key Managemen_technology-services?team=SFTWR"
+    },
+    {
       "title": "Software Quality Engineer, Wallet Payments & Commerce",
       "url": "https://jobs.apple.com/en-us/details/200663910-0157/software-quality-engineer-wallet-payments-commerce?team=SFTWR",
       "identifier": "Software Quality Engineer, Wallet Payments & Comme_t-payments-commerce?team=SFTWR"
@@ -57,13 +62,8 @@
       "title": "iOS Software Engineer - Video Applications",
       "url": "https://jobs.apple.com/en-us/details/200662789-0365/ios-software-engineer-video-applications?team=SFTWR",
       "identifier": "iOS Software Engineer - Video Applications_-video-applications?team=SFTWR"
-    },
-    {
-      "title": "Technical Product Manager- Issuers (Wallet, Payments & Commerce)",
-      "url": "https://jobs.apple.com/en-us/details/200664301-0836/technical-product-manager-issuers-wallet-payments-commerce?team=SFTWR",
-      "identifier": "Technical Product Manager- Issuers (Wallet, Paymen_t-payments-commerce?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-20T17:56:12.171124"
+  "timestamp": "2026-05-20T18:13:14.875856"
 }

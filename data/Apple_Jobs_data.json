@@ -1,8 +1,13 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 14,
+  "total_jobs": 13,
   "jobs": [
+    {
+      "title": "Software Quality Engineer, Wallet Payments & Commerce",
+      "url": "https://jobs.apple.com/en-us/details/200663910-0157/software-quality-engineer-wallet-payments-commerce?team=SFTWR",
+      "identifier": "Software Quality Engineer, Wallet Payments & Comme_t-payments-commerce?team=SFTWR"
+    },
     {
       "title": "UI Frameworks Senior Engineer, Swift Platform Experience",
       "url": "https://jobs.apple.com/en-us/details/200664165-0836/ui-frameworks-senior-engineer-swift-platform-experience?team=SFTWR",
@@ -62,18 +67,8 @@
       "title": "Engineering Program Manager, Application Platform",
       "url": "https://jobs.apple.com/en-us/details/200662881-0836/engineering-program-manager-application-platform?team=SFTWR",
       "identifier": "Engineering Program Manager, Application Platform_pplication-platform?team=SFTWR"
-    },
-    {
-      "title": "DevOps Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200642859-0836/devops-engineer?team=SFTWR",
-      "identifier": "DevOps Engineer_836/devops-engineer?team=SFTWR"
-    },
-    {
-      "title": "Senior OS Software Engineer, Evaluation",
-      "url": "https://jobs.apple.com/en-us/details/200664269-3337/senior-os-software-engineer-evaluation?team=SFTWR",
-      "identifier": "Senior OS Software Engineer, Evaluation_engineer-evaluation?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-20T16:06:11.515468"
+  "timestamp": "2026-05-20T16:13:49.885876"
 }

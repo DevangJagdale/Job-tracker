@@ -4,11 +4,6 @@
   "total_jobs": 8,
   "jobs": [
     {
-      "title": "Staff Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0916896/Staff-Software-Development-Engineer",
-      "identifier": "Staff Software Development Engineer_-Software-Development-Engineer"
-    },
-    {
       "title": "Senior Software Development Engineer",
       "url": "https://jobs.cvshealth.com/us/en/job/R0916589/Senior-Software-Development-Engineer",
       "identifier": "Senior Software Development Engineer_-Software-Development-Engineer"
@@ -19,14 +14,14 @@
       "identifier": "Staff Software Engineer - Java Cloud (Health100 Pl_-Java-Cloud-Health100-Platform"
     },
     {
+      "title": "Staff Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0916896/Staff-Software-Development-Engineer",
+      "identifier": "Staff Software Development Engineer_-Software-Development-Engineer"
+    },
+    {
       "title": "Senior Manager - SRE - RunOps - PBM-IT",
       "url": "https://jobs.cvshealth.com/us/en/job/R0906780/Senior-Manager-SRE-RunOps-PBM-IT",
       "identifier": "Senior Manager - SRE - RunOps - PBM-IT_nior-Manager-SRE-RunOps-PBM-IT"
-    },
-    {
-      "title": "Mgr,Business Analysis (IC)",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0905301/Mgr-Business-Analysis-IC",
-      "identifier": "Mgr,Business Analysis (IC)_05301/Mgr-Business-Analysis-IC"
     },
     {
       "title": "Exchange & Copilot Operations Support Engineer",
@@ -39,11 +34,16 @@
       "identifier": "Lead Director - Mainframe Systems Engineering_-Mainframe-Systems-Engineering"
     },
     {
+      "title": "Mgr,Business Analysis (IC)",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0905301/Mgr-Business-Analysis-IC",
+      "identifier": "Mgr,Business Analysis (IC)_05301/Mgr-Business-Analysis-IC"
+    },
+    {
       "title": "Field Service Technician - Fort Wayne IN Metro area",
       "url": "https://jobs.cvshealth.com/us/en/job/R0895635/Field-Service-Technician-Fort-Wayne-IN-Metro-area",
       "identifier": "Field Service Technician - Fort Wayne IN Metro are_ician-Fort-Wayne-IN-Metro-area"
     }
   ],
   "job_count_text": "38",
-  "timestamp": "2026-05-20T14:58:08.522245"
+  "timestamp": "2026-05-20T15:15:16.625256"
 }

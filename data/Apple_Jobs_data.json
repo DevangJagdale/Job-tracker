@@ -1,8 +1,18 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 13,
+  "total_jobs": 15,
   "jobs": [
+    {
+      "title": "Senior Software Engineer, Enterprise Technology Services",
+      "url": "https://jobs.apple.com/en-us/details/200664502-3956/senior-software-engineer-enterprise-technology-services?team=SFTWR",
+      "identifier": "Senior Software Engineer, Enterprise Technology Se_technology-services?team=SFTWR"
+    },
+    {
+      "title": "Engineering Program Manager - Generative AI - Special Projects",
+      "url": "https://jobs.apple.com/en-us/details/200663889-0836/engineering-program-manager-generative-ai-special-projects?team=SFTWR",
+      "identifier": "Engineering Program Manager - Generative AI - Spec_ai-special-projects?team=SFTWR"
+    },
     {
       "title": "Technical Operations Engineer",
       "url": "https://jobs.apple.com/en-us/details/200662212-0670/technical-operations-engineer?team=SFTWR",
@@ -70,5 +80,5 @@
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-20T21:45:16.508298"
+  "timestamp": "2026-05-20T22:02:17.581602"
 }

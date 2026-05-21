@@ -4,6 +4,16 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Computer Vision and Machine Learning Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200664595-3956/computer-vision-and-machine-learning-engineer?team=HRDWR",
+      "identifier": "Computer Vision and Machine Learning Engineer_e-learning-engineer?team=HRDWR"
+    },
+    {
+      "title": "Senior Software Engineer, On-Device Health Agentic Systems",
+      "url": "https://jobs.apple.com/en-us/details/200652252-0836/senior-software-engineer-on-device-health-agentic-systems?team=SFTWR",
+      "identifier": "Senior Software Engineer, On-Device Health Agentic_lth-agentic-systems?team=SFTWR"
+    },
+    {
       "title": "AIML Privacy & Data Governance Eng Lead, Evaluation",
       "url": "https://jobs.apple.com/en-us/details/200664385-0836/aiml-privacy-data-governance-eng-lead-evaluation?team=SFTWR",
       "identifier": "AIML Privacy & Data Governance Eng Lead, Evaluatio_eng-lead-evaluation?team=SFTWR"
@@ -72,18 +82,8 @@
       "title": "Sr. Applied AI Software Engineer- Vision Products Group & Siri",
       "url": "https://jobs.apple.com/en-us/details/200646379-2605/sr-applied-ai-software-engineer-vision-products-group-siri?team=SFTWR",
       "identifier": "Sr. Applied AI Software Engineer- Vision Products _products-group-siri?team=SFTWR"
-    },
-    {
-      "title": "Senior Software Engineer, Enterprise Technology Services",
-      "url": "https://jobs.apple.com/en-us/details/200664502-3956/senior-software-engineer-enterprise-technology-services?team=SFTWR",
-      "identifier": "Senior Software Engineer, Enterprise Technology Se_technology-services?team=SFTWR"
-    },
-    {
-      "title": "Training Lead, IS&T Help Line",
-      "url": "https://jobs.apple.com/en-us/details/200663473-0776/training-lead-is-t-help-line?team=SFTWR",
-      "identifier": "Training Lead, IS&T Help Line_lead-is-t-help-line?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-21T16:42:00.979151"
+  "timestamp": "2026-05-21T16:59:08.431416"
 }

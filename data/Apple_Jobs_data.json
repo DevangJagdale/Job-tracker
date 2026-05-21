@@ -4,6 +4,11 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Senior Software Engineer, On-Device Health Agentic Systems",
+      "url": "https://jobs.apple.com/en-us/details/200652252-0836/senior-software-engineer-on-device-health-agentic-systems?team=SFTWR",
+      "identifier": "Senior Software Engineer, On-Device Health Agentic_lth-agentic-systems?team=SFTWR"
+    },
+    {
       "title": "Business Development & Partnership Manager (Merchant)",
       "url": "https://jobs.apple.com/en-us/details/200664793-0836/business-development-partnership-manager-merchant?team=SFTWR",
       "identifier": "Business Development & Partnership Manager (Mercha_ip-manager-merchant?team=SFTWR"
@@ -49,11 +54,6 @@
       "identifier": "Senior Engineering Manager, Apple Data Platform_apple-data-platform?team=SFTWR"
     },
     {
-      "title": "Senior Software Engineer, On-Device Health Agentic Systems",
-      "url": "https://jobs.apple.com/en-us/details/200652252-0836/senior-software-engineer-on-device-health-agentic-systems?team=SFTWR",
-      "identifier": "Senior Software Engineer, On-Device Health Agentic_lth-agentic-systems?team=SFTWR"
-    },
-    {
       "title": "AIML Privacy & Data Governance Eng Lead, Evaluation",
       "url": "https://jobs.apple.com/en-us/details/200664385-0836/aiml-privacy-data-governance-eng-lead-evaluation?team=SFTWR",
       "identifier": "AIML Privacy & Data Governance Eng Lead, Evaluatio_eng-lead-evaluation?team=SFTWR"
@@ -85,5 +85,5 @@
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-21T20:14:51.299307"
+  "timestamp": "2026-05-21T20:31:57.548866"
 }

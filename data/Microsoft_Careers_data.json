@@ -1,10 +1,15 @@
 {
   "page_title": "| Microsoft Careers",
   "url": "https://apply.careers.microsoft.com/careers?domain=microsoft.com&start=0&location=United+States&sort_by=timestamp&filter_include_remote=1&filter_profession=software+engineering%2Cresearch%252C%2520applied%252C%2520%2526%2520data%2520sciences",
-  "total_jobs": 9,
+  "total_jobs": 10,
   "jobs": [
     {
-      "title": "Senior Software Engineer - Native\nUnited States, Washington, Redmond\nPosted 5 hours ago",
+      "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted 16 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556867667?domain=microsoft.com",
+      "identifier": "Principal Software Engineer\nUnited States, Washing_556867667?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Software Engineer - Native\nUnited States, Washington, Redmond\nPosted 6 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556867830?domain=microsoft.com",
       "identifier": "Senior Software Engineer - Native\nUnited States, W_556867830?domain=microsoft.com"
     },
@@ -19,7 +24,7 @@
       "identifier": "Software Engineer II\nUnited States, Washington, Re_556868080?domain=microsoft.com"
     },
     {
-      "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted 7 hours ago",
+      "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted 8 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556867661?domain=microsoft.com",
       "identifier": "Principal Software Engineer\nUnited States, Washing_556867661?domain=microsoft.com"
     },
@@ -44,11 +49,11 @@
       "identifier": "Principal Group Software Engineering Manager\nUnite_556868212?domain=microsoft.com"
     },
     {
-      "title": "Principal Software Engineering Manager, Windows Platform & Developer Team\nUnited States, Washington, Redmond\nPosted 9 hours ago",
+      "title": "Principal Software Engineering Manager, Windows Platform & Developer Team\nUnited States, Washington, Redmond\nPosted 10 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556867683?domain=microsoft.com",
       "identifier": "Principal Software Engineering Manager, Windows Pl_556867683?domain=microsoft.com"
     }
   ],
-  "job_count_text": "448",
-  "timestamp": "2026-05-21T05:52:06.157376"
+  "job_count_text": "447",
+  "timestamp": "2026-05-21T06:09:10.311898"
 }

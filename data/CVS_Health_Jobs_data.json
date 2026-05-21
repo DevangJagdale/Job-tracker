@@ -14,6 +14,16 @@
       "identifier": "Senior Manager - Software Development Engineering_ftware-Development-Engineering"
     },
     {
+      "title": "Senior Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0914911/Senior-Software-Development-Engineer",
+      "identifier": "Senior Software Development Engineer_-Software-Development-Engineer"
+    },
+    {
+      "title": "Senior Engineering Manager - Developer Tooling",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0910675/Senior-Engineering-Manager-Developer-Tooling",
+      "identifier": "Senior Engineering Manager - Developer Tooling_ring-Manager-Developer-Tooling"
+    },
+    {
       "title": "Staff Software Development Engineer (Mainframe)",
       "url": "https://jobs.cvshealth.com/us/en/job/R0898903/Staff-Software-Development-Engineer-Mainframe",
       "identifier": "Staff Software Development Engineer (Mainframe)_Development-Engineer-Mainframe"
@@ -24,26 +34,16 @@
       "identifier": "Executive Director, Client Experience Engineering_-Client-Experience-Engineering"
     },
     {
-      "title": "Senior Manager - IT Operations (IC)",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0905301/Senior-Manager-IT-Operations-IC",
-      "identifier": "Senior Manager - IT Operations (IC)_enior-Manager-IT-Operations-IC"
-    },
-    {
-      "title": "Executive Director, Software Engineering",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0920486/Executive-Director-Software-Engineering",
-      "identifier": "Executive Director, Software Engineering_-Director-Software-Engineering"
-    },
-    {
       "title": "Manager - Software Development Engineering (AI/ML)",
       "url": "https://jobs.cvshealth.com/us/en/job/R0888022/Manager-Software-Development-Engineering-AI-ML",
       "identifier": "Manager - Software Development Engineering (AI/ML)_-Development-Engineering-AI-ML"
     },
     {
-      "title": "Head of HR Data Governance - Workday",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0918538/Head-of-HR-Data-Governance-Workday",
-      "identifier": "Head of HR Data Governance - Workday_-of-HR-Data-Governance-Workday"
+      "title": "Executive Director, Software Engineering",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0920486/Executive-Director-Software-Engineering",
+      "identifier": "Executive Director, Software Engineering_-Director-Software-Engineering"
     }
   ],
-  "job_count_text": "43",
-  "timestamp": "2026-05-21T14:01:27.370489"
+  "job_count_text": "47",
+  "timestamp": "2026-05-21T14:18:29.240428"
 }

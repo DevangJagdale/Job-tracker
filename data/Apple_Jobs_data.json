@@ -4,6 +4,11 @@
   "total_jobs": 17,
   "jobs": [
     {
+      "title": "Engineering Program Manager, Cloud Capacity and Cost Optimization, Apple Services Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200664802-0836/engineering-program-manager-cloud-capacity-and-cost-optimization-apple-services-engineering?team=SFTWR",
+      "identifier": "Engineering Program Manager, Cloud Capacity and Co_ervices-engineering?team=SFTWR"
+    },
+    {
       "title": "Business Development & Partnership Manager (Fintech)",
       "url": "https://jobs.apple.com/en-us/details/200664797-0836/business-development-partnership-manager-fintech?team=SFTWR",
       "identifier": "Business Development & Partnership Manager (Fintec_hip-manager-fintech?team=SFTWR"
@@ -82,13 +87,8 @@
       "title": "Engineering Program Manager, iCloud Mail, Apple Services Engineering",
       "url": "https://jobs.apple.com/en-us/details/200664688-3543/engineering-program-manager-icloud-mail-apple-services-engineering?team=SFTWR",
       "identifier": "Engineering Program Manager, iCloud Mail, Apple Se_ervices-engineering?team=SFTWR"
-    },
-    {
-      "title": "AIML - Head of Data Science and Insights",
-      "url": "https://jobs.apple.com/en-us/details/200664287-0836/aiml-head-of-data-science-and-insights?team=SFTWR",
-      "identifier": "AIML - Head of Data Science and Insights_cience-and-insights?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-21T21:24:39.960838"
+  "timestamp": "2026-05-21T21:41:42.062970"
 }

@@ -4,6 +4,16 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "AIML Privacy & Data Governance Eng Lead, Evaluation",
+      "url": "https://jobs.apple.com/en-us/details/200664385-0836/aiml-privacy-data-governance-eng-lead-evaluation?team=SFTWR",
+      "identifier": "AIML Privacy & Data Governance Eng Lead, Evaluatio_eng-lead-evaluation?team=SFTWR"
+    },
+    {
+      "title": "On-Device ML Integration Engineer, Graphics, Games and Machine Learning",
+      "url": "https://jobs.apple.com/en-us/details/200642883-0836/on-device-ml-integration-engineer-graphics-games-and-machine-learning?team=MLAI",
+      "identifier": "On-Device ML Integration Engineer, Graphics, Games_and-machine-learning?team=MLAI"
+    },
+    {
       "title": "Engineering Program Manager, iCloud Mail, Apple Services Engineering",
       "url": "https://jobs.apple.com/en-us/details/200664688-3543/engineering-program-manager-icloud-mail-apple-services-engineering?team=SFTWR",
       "identifier": "Engineering Program Manager, iCloud Mail, Apple Se_ervices-engineering?team=SFTWR"
@@ -72,18 +82,8 @@
       "title": "Training Lead, IS&T Help Line",
       "url": "https://jobs.apple.com/en-us/details/200663473-0776/training-lead-is-t-help-line?team=SFTWR",
       "identifier": "Training Lead, IS&T Help Line_lead-is-t-help-line?team=SFTWR"
-    },
-    {
-      "title": "Engineering Program Manager - Generative AI - Special Projects",
-      "url": "https://jobs.apple.com/en-us/details/200663889-0836/engineering-program-manager-generative-ai-special-projects?team=SFTWR",
-      "identifier": "Engineering Program Manager - Generative AI - Spec_ai-special-projects?team=SFTWR"
-    },
-    {
-      "title": "Technical Operations Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200662212-0670/technical-operations-engineer?team=SFTWR",
-      "identifier": "Technical Operations Engineer_operations-engineer?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-21T16:24:56.717232"
+  "timestamp": "2026-05-21T16:42:00.979151"
 }

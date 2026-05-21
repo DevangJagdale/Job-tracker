@@ -4,14 +4,14 @@
   "total_jobs": 16,
   "jobs": [
     {
-      "title": "Accessibility Software Quality Engineer - Physical & Motor Tools and Framework",
-      "url": "https://jobs.apple.com/en-us/details/200663437-0836/accessibility-software-quality-engineer-physical-motor-tools-and-framework?team=SFTWR",
-      "identifier": "Accessibility Software Quality Engineer - Physical_tools-and-framework?team=SFTWR"
-    },
-    {
       "title": "Sr. Manager, Automation & Tools - Camera & Photos",
       "url": "https://jobs.apple.com/en-us/details/200660461-0836/sr-manager-automation-tools-camera-photos?team=SFTWR",
       "identifier": "Sr. Manager, Automation & Tools - Camera & Photos_tools-camera-photos?team=SFTWR"
+    },
+    {
+      "title": "Accessibility Software Quality Engineer - Physical & Motor Tools and Framework",
+      "url": "https://jobs.apple.com/en-us/details/200663437-0836/accessibility-software-quality-engineer-physical-motor-tools-and-framework?team=SFTWR",
+      "identifier": "Accessibility Software Quality Engineer - Physical_tools-and-framework?team=SFTWR"
     },
     {
       "title": "Software Engineer, Crypto Services - Key Management, Enterprise Technology Services",
@@ -85,5 +85,5 @@
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-21T03:18:25.113397"
+  "timestamp": "2026-05-21T03:35:33.908425"
 }

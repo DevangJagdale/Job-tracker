@@ -1,8 +1,13 @@
 {
   "page_title": "Search our Job Opportunities at Barclays",
   "url": "https://search.jobs.barclays/search-jobs/United%20States/13015/2/6252001/39x76/-98x5/50/2",
-  "total_jobs": 14,
+  "total_jobs": 13,
   "jobs": [
+    {
+      "title": "Senior Full Stack Developer - Electronic Trading - AVP",
+      "url": "https://search.jobs.barclays/job/whippany/senior-full-stack-developer-electronic-trading-avp/13015/95382279024",
+      "identifier": "Senior Full Stack Developer - Electronic Trading -_-trading-avp/13015/95382279024"
+    },
     {
       "title": "Reliability Engineer \u2013 Markets RTB",
       "url": "https://search.jobs.barclays/job/whippany/reliability-engineer-markets-rtb/13015/95353590368",
@@ -17,16 +22,6 @@
       "title": "ICB Coverage \u2013 Banks, VP",
       "url": "https://search.jobs.barclays/job/new-york/icb-coverage-banks-vp/13015/95312005152",
       "identifier": "ICB Coverage \u2013 Banks, VP_age-banks-vp/13015/95312005152"
-    },
-    {
-      "title": "Senior Test Automation Engineer (QA/SDET)",
-      "url": "https://search.jobs.barclays/job/whippany/senior-test-automation-engineer-qa-sdet/13015/95298255984",
-      "identifier": "Senior Test Automation Engineer (QA/SDET)_neer-qa-sdet/13015/95298255984"
-    },
-    {
-      "title": "QA Automation Engineer",
-      "url": "https://search.jobs.barclays/job/whippany/qa-automation-engineer/13015/95298255920",
-      "identifier": "QA Automation Engineer_ion-engineer/13015/95298255920"
     },
     {
       "title": "Leveraged Finance Capital Markets, Vice President",
@@ -74,6 +69,6 @@
       "identifier": "Unix System Administrator, AVP_istrator-avp/13015/95104606400"
     }
   ],
-  "job_count_text": "121",
-  "timestamp": "2026-05-21T23:23:27.015704"
+  "job_count_text": "125",
+  "timestamp": "2026-05-21T23:40:32.546750"
 }

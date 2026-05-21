@@ -24,14 +24,9 @@
       "identifier": "Senior Engineering Manager - Developer Tooling_ring-Manager-Developer-Tooling"
     },
     {
-      "title": "Staff Software Development Engineer (Mainframe)",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0898903/Staff-Software-Development-Engineer-Mainframe",
-      "identifier": "Staff Software Development Engineer (Mainframe)_Development-Engineer-Mainframe"
-    },
-    {
-      "title": "Executive Director, Client Experience Engineering",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0891832/Executive-Director-Client-Experience-Engineering",
-      "identifier": "Executive Director, Client Experience Engineering_-Client-Experience-Engineering"
+      "title": "Executive Director, Software Engineering",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0920486/Executive-Director-Software-Engineering",
+      "identifier": "Executive Director, Software Engineering_-Director-Software-Engineering"
     },
     {
       "title": "Manager - Software Development Engineering (AI/ML)",
@@ -39,11 +34,16 @@
       "identifier": "Manager - Software Development Engineering (AI/ML)_-Development-Engineering-AI-ML"
     },
     {
-      "title": "Executive Director, Software Engineering",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0920486/Executive-Director-Software-Engineering",
-      "identifier": "Executive Director, Software Engineering_-Director-Software-Engineering"
+      "title": "Head of HR Data Governance - Workday",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0918538/Head-of-HR-Data-Governance-Workday",
+      "identifier": "Head of HR Data Governance - Workday_-of-HR-Data-Governance-Workday"
+    },
+    {
+      "title": "Staff AI Software Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0916756/Staff-AI-Software-Engineer",
+      "identifier": "Staff AI Software Engineer_756/Staff-AI-Software-Engineer"
     }
   ],
   "job_count_text": "47",
-  "timestamp": "2026-05-21T14:18:29.240428"
+  "timestamp": "2026-05-21T14:26:13.059799"
 }

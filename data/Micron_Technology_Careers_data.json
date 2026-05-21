@@ -4,14 +4,14 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Product Yield & Analytics ESDA Engineer\nBoise, Idaho, United States of America\nPosted 2 days ago",
-      "url": "https://careers.micron.com/careers/job/40795739",
-      "identifier": "Product Yield & Analytics ESDA Engineer\nBoise, Ida_icron.com/careers/job/40795739"
-    },
-    {
       "title": "FE Automotive Product Quality Engineer\nManassas, Virginia, United States of America\nPosted 2 days ago",
       "url": "https://careers.micron.com/careers/job/42003176",
       "identifier": "FE Automotive Product Quality Engineer\nManassas, V_icron.com/careers/job/42003176"
+    },
+    {
+      "title": "Product Yield & Analytics ESDA Engineer\nBoise, Idaho, United States of America\nPosted 2 days ago",
+      "url": "https://careers.micron.com/careers/job/40795739",
+      "identifier": "Product Yield & Analytics ESDA Engineer\nBoise, Ida_icron.com/careers/job/40795739"
     },
     {
       "title": "Quality Engineer\nLongmont, Colorado, United States of America\nPosted 3 days ago",
@@ -29,6 +29,11 @@
       "identifier": "New College Grad - Process Integration Engineer\nBo_icron.com/careers/job/40475196"
     },
     {
+      "title": "New College Grad - Photolithography Process Engineer\nBoise, Idaho, United States of America\nPosted 3 days ago",
+      "url": "https://careers.micron.com/careers/job/41923169",
+      "identifier": "New College Grad - Photolithography Process Engine_icron.com/careers/job/41923169"
+    },
+    {
       "title": "New College Grad - Supply Management Analyst\nManassas, Virginia, United States of America\nPosted 3 days ago",
       "url": "https://careers.micron.com/careers/job/41979554",
       "identifier": "New College Grad - Supply Management Analyst\nManas_icron.com/careers/job/41979554"
@@ -44,16 +49,11 @@
       "identifier": "Product Development Engineer\nSan Jose, California,_icron.com/careers/job/41954264"
     },
     {
-      "title": "New College Grad - Photolithography Process Engineer\nBoise, Idaho, United States of America\nPosted 3 days ago",
-      "url": "https://careers.micron.com/careers/job/41923169",
-      "identifier": "New College Grad - Photolithography Process Engine_icron.com/careers/job/41923169"
-    },
-    {
       "title": "US FE Expansion Planning Engineer\nBoise, Idaho, United States of America\nPosted 4 days ago",
       "url": "https://careers.micron.com/careers/job/40986798",
       "identifier": "US FE Expansion Planning Engineer\nBoise, Idaho, Un_icron.com/careers/job/40986798"
     }
   ],
   "job_count_text": "97",
-  "timestamp": "2026-05-21T13:12:24.477193"
+  "timestamp": "2026-05-21T13:29:27.407752"
 }

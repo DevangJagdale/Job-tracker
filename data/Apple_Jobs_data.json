@@ -4,6 +4,11 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Senior Manager, Product Health - Apple Ads",
+      "url": "https://jobs.apple.com/en-us/details/200664664-0836/senior-manager-product-health-apple-ads?team=SFTWR",
+      "identifier": "Senior Manager, Product Health - Apple Ads_ct-health-apple-ads?team=SFTWR"
+    },
+    {
       "title": "UI Frameworks Engineer, Swift Platform Experience",
       "url": "https://jobs.apple.com/en-us/details/200661354-0836/ui-frameworks-engineer-swift-platform-experience?team=SFTWR",
       "identifier": "UI Frameworks Engineer, Swift Platform Experience_platform-experience?team=SFTWR"
@@ -77,13 +82,8 @@
       "title": "Staff Software Engineer - FoundationDB",
       "url": "https://jobs.apple.com/en-us/details/200664497-0836/staff-software-engineer-foundationdb?team=SFTWR",
       "identifier": "Staff Software Engineer - FoundationDB_gineer-foundationdb?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer, Core Services - Apple Services Engineering",
-      "url": "https://jobs.apple.com/en-us/details/200664369-3337/software-engineer-core-services-apple-services-engineering?team=SFTWR",
-      "identifier": "Software Engineer, Core Services - Apple Services _ervices-engineering?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-21T13:09:13.084545"
+  "timestamp": "2026-05-21T13:26:18.965801"
 }

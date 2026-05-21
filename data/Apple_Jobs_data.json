@@ -4,6 +4,11 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Engineering Manager, Data Protection - FoundationDB",
+      "url": "https://jobs.apple.com/en-us/details/200661187-0836/engineering-manager-data-protection-foundationdb?team=SFTWR",
+      "identifier": "Engineering Manager, Data Protection - FoundationD_ection-foundationdb?team=SFTWR"
+    },
+    {
       "title": "Lead Forward Deployed Engineer, AI Evaluation Platform",
       "url": "https://jobs.apple.com/en-us/details/200664455-3337/lead-forward-deployed-engineer-ai-evaluation-platform?team=SFTWR",
       "identifier": "Lead Forward Deployed Engineer, AI Evaluation Plat_evaluation-platform?team=SFTWR"
@@ -77,13 +82,8 @@
       "title": "Software Engineer, Crypto Services - Key Management, Enterprise Technology Services",
       "url": "https://jobs.apple.com/en-us/details/200664495-0157/software-engineer-crypto-services-key-management-enterprise-technology-services?team=SFTWR",
       "identifier": "Software Engineer, Crypto Services - Key Managemen_technology-services?team=SFTWR"
-    },
-    {
-      "title": "DevOps Engineer , Employee Experience & Productivity",
-      "url": "https://jobs.apple.com/en-us/details/200664573-0157/devops-engineer-employee-experience-productivity?team=SFTWR",
-      "identifier": "DevOps Engineer , Employee Experience & Productivi_rience-productivity?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-21T18:07:38.464655"
+  "timestamp": "2026-05-21T18:24:42.557275"
 }

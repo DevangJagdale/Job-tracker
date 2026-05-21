@@ -4,6 +4,11 @@
   "total_jobs": 15,
   "jobs": [
     {
+      "title": "Sr. Manager, Automation & Tools - Camera & Photos",
+      "url": "https://jobs.apple.com/en-us/details/200660461-0836/sr-manager-automation-tools-camera-photos?team=SFTWR",
+      "identifier": "Sr. Manager, Automation & Tools - Camera & Photos_tools-camera-photos?team=SFTWR"
+    },
+    {
       "title": "Software Engineer, Crypto Services - Key Management, Enterprise Technology Services",
       "url": "https://jobs.apple.com/en-us/details/200664495-0157/software-engineer-crypto-services-key-management-enterprise-technology-services?team=SFTWR",
       "identifier": "Software Engineer, Crypto Services - Key Managemen_technology-services?team=SFTWR"
@@ -72,13 +77,8 @@
       "title": "Software Quality Engineer, Wallet Payments & Commerce",
       "url": "https://jobs.apple.com/en-us/details/200663910-0157/software-quality-engineer-wallet-payments-commerce?team=SFTWR",
       "identifier": "Software Quality Engineer, Wallet Payments & Comme_t-payments-commerce?team=SFTWR"
-    },
-    {
-      "title": "UI Frameworks Senior Engineer, Swift Platform Experience",
-      "url": "https://jobs.apple.com/en-us/details/200664165-0836/ui-frameworks-senior-engineer-swift-platform-experience?team=SFTWR",
-      "identifier": "UI Frameworks Senior Engineer, Swift Platform Expe_platform-experience?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-21T00:20:39.725061"
+  "timestamp": "2026-05-21T00:37:44.815931"
 }

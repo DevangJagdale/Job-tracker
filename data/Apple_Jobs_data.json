@@ -4,6 +4,11 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Engineering Program Manager, iCloud Mail, Apple Services Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200664688-3543/engineering-program-manager-icloud-mail-apple-services-engineering?team=SFTWR",
+      "identifier": "Engineering Program Manager, iCloud Mail, Apple Se_ervices-engineering?team=SFTWR"
+    },
+    {
       "title": "AIML - Head of Data Science and Insights",
       "url": "https://jobs.apple.com/en-us/details/200664287-0836/aiml-head-of-data-science-and-insights?team=SFTWR",
       "identifier": "AIML - Head of Data Science and Insights_cience-and-insights?team=SFTWR"
@@ -77,13 +82,8 @@
       "title": "Technical Operations Engineer",
       "url": "https://jobs.apple.com/en-us/details/200662212-0670/technical-operations-engineer?team=SFTWR",
       "identifier": "Technical Operations Engineer_operations-engineer?team=SFTWR"
-    },
-    {
-      "title": "Solution Engineer, Corporate Systems Engineering",
-      "url": "https://jobs.apple.com/en-us/details/200626160-0157/solution-engineer-corporate-systems-engineering?team=SFTWR",
-      "identifier": "Solution Engineer, Corporate Systems Engineering_systems-engineering?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-21T15:50:51.041965"
+  "timestamp": "2026-05-21T16:07:53.945085"
 }

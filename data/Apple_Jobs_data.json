@@ -4,6 +4,11 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Software Engineer, Agentic Evaluation",
+      "url": "https://jobs.apple.com/en-us/details/200664500-0836/software-engineer-agentic-evaluation?team=MLAI",
+      "identifier": "Software Engineer, Agentic Evaluation_r-agentic-evaluation?team=MLAI"
+    },
+    {
       "title": "Sr. Manager, Automation & Tools - Camera & Photos",
       "url": "https://jobs.apple.com/en-us/details/200660461-0836/sr-manager-automation-tools-camera-photos?team=SFTWR",
       "identifier": "Sr. Manager, Automation & Tools - Camera & Photos_tools-camera-photos?team=SFTWR"
@@ -77,13 +82,8 @@
       "title": "Software Engineer, Data Solutions ASE",
       "url": "https://jobs.apple.com/en-us/details/200664338-2459/software-engineer-data-solutions-ase?team=SFTWR",
       "identifier": "Software Engineer, Data Solutions ASE_-data-solutions-ase?team=SFTWR"
-    },
-    {
-      "title": "Software Quality Engineer, Wallet Payments & Commerce",
-      "url": "https://jobs.apple.com/en-us/details/200663910-0157/software-quality-engineer-wallet-payments-commerce?team=SFTWR",
-      "identifier": "Software Quality Engineer, Wallet Payments & Comme_t-payments-commerce?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-21T03:52:38.018138"
+  "timestamp": "2026-05-21T04:09:42.687869"
 }

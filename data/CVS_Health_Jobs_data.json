@@ -4,6 +4,16 @@
   "total_jobs": 8,
   "jobs": [
     {
+      "title": "Executive Director, Software Engineering",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0920486/Executive-Director-Software-Engineering",
+      "identifier": "Executive Director, Software Engineering_-Director-Software-Engineering"
+    },
+    {
+      "title": "Manager - Software Development Engineering (AI/ML)",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0888022/Manager-Software-Development-Engineering-AI-ML",
+      "identifier": "Manager - Software Development Engineering (AI/ML)_-Development-Engineering-AI-ML"
+    },
+    {
       "title": "Staff Software Development Engineer (Mainframe)",
       "url": "https://jobs.cvshealth.com/us/en/job/R0898903/Staff-Software-Development-Engineer-Mainframe",
       "identifier": "Staff Software Development Engineer (Mainframe)_Development-Engineer-Mainframe"
@@ -12,16 +22,6 @@
       "title": "Executive Director, Client Experience Engineering",
       "url": "https://jobs.cvshealth.com/us/en/job/R0891832/Executive-Director-Client-Experience-Engineering",
       "identifier": "Executive Director, Client Experience Engineering_-Client-Experience-Engineering"
-    },
-    {
-      "title": "Manager - Software Development Engineering (AI/ML)",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0888022/Manager-Software-Development-Engineering-AI-ML",
-      "identifier": "Manager - Software Development Engineering (AI/ML)_-Development-Engineering-AI-ML"
-    },
-    {
-      "title": "Executive Director, Software Engineering",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0920486/Executive-Director-Software-Engineering",
-      "identifier": "Executive Director, Software Engineering_-Director-Software-Engineering"
     },
     {
       "title": "Senior Manager - IT Operations (IC)",
@@ -45,5 +45,5 @@
     }
   ],
   "job_count_text": "41",
-  "timestamp": "2026-05-21T08:27:15.181303"
+  "timestamp": "2026-05-21T08:44:19.938418"
 }

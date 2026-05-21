@@ -4,14 +4,29 @@
   "total_jobs": 16,
   "jobs": [
     {
-      "title": "Senior Software Engineer, On-Device Health Agentic Systems",
-      "url": "https://jobs.apple.com/en-us/details/200652252-0836/senior-software-engineer-on-device-health-agentic-systems?team=SFTWR",
-      "identifier": "Senior Software Engineer, On-Device Health Agentic_lth-agentic-systems?team=SFTWR"
+      "title": "Business Development & Partnership Manager (Fintech)",
+      "url": "https://jobs.apple.com/en-us/details/200664797-0836/business-development-partnership-manager-fintech?team=SFTWR",
+      "identifier": "Business Development & Partnership Manager (Fintec_hip-manager-fintech?team=SFTWR"
+    },
+    {
+      "title": "Senior Software Engineer (Voice Platform), Customer Systems",
+      "url": "https://jobs.apple.com/en-us/details/200663101-0157/senior-software-engineer-voice-platform-customer-systems?team=SFTWR",
+      "identifier": "Senior Software Engineer (Voice Platform), Custome_rm-customer-systems?team=SFTWR"
     },
     {
       "title": "Business Development & Partnership Manager (Merchant)",
       "url": "https://jobs.apple.com/en-us/details/200664793-0836/business-development-partnership-manager-merchant?team=SFTWR",
       "identifier": "Business Development & Partnership Manager (Mercha_ip-manager-merchant?team=SFTWR"
+    },
+    {
+      "title": "Voice Platform Software Engineer, Customer Systems",
+      "url": "https://jobs.apple.com/en-us/details/200663115-0157/voice-platform-software-engineer-customer-systems?team=SFTWR",
+      "identifier": "Voice Platform Software Engineer, Customer Systems_er-customer-systems?team=SFTWR"
+    },
+    {
+      "title": "Senior Software Engineer, On-Device Health Agentic Systems",
+      "url": "https://jobs.apple.com/en-us/details/200652252-0836/senior-software-engineer-on-device-health-agentic-systems?team=SFTWR",
+      "identifier": "Senior Software Engineer, On-Device Health Agentic_lth-agentic-systems?team=SFTWR"
     },
     {
       "title": "Senior Software Development Engineer - Data",
@@ -67,23 +82,8 @@
       "title": "Engineering Program Manager, iCloud Mail, Apple Services Engineering",
       "url": "https://jobs.apple.com/en-us/details/200664688-3543/engineering-program-manager-icloud-mail-apple-services-engineering?team=SFTWR",
       "identifier": "Engineering Program Manager, iCloud Mail, Apple Se_ervices-engineering?team=SFTWR"
-    },
-    {
-      "title": "AIML - Head of Data Science and Insights",
-      "url": "https://jobs.apple.com/en-us/details/200664287-0836/aiml-head-of-data-science-and-insights?team=SFTWR",
-      "identifier": "AIML - Head of Data Science and Insights_cience-and-insights?team=SFTWR"
-    },
-    {
-      "title": "Senior CoreOS Engineer - Enterprise Services",
-      "url": "https://jobs.apple.com/en-us/details/200659687-0240/senior-coreos-engineer-enterprise-services?team=SFTWR",
-      "identifier": "Senior CoreOS Engineer - Enterprise Services_enterprise-services?team=SFTWR"
-    },
-    {
-      "title": "Senior Network Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200644392-1124/senior-network-engineer?team=SFTWR",
-      "identifier": "Senior Network Engineer_or-network-engineer?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-21T20:50:27.997844"
+  "timestamp": "2026-05-21T21:07:33.825156"
 }

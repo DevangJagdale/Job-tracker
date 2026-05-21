@@ -4,6 +4,11 @@
   "total_jobs": 20,
   "jobs": [
     {
+      "title": "AWM, Marcus by Goldman Sachs, Pricing & Analytics, Analyst, Richardson, TX\nRichardson\u00b7United States\n\u00b7Analyst",
+      "url": "https://higher.gs.com/roles/151793",
+      "identifier": "AWM, Marcus by Goldman Sachs, Pricing & Analytics,_s://higher.gs.com/roles/151793"
+    },
+    {
       "title": "Asset & Wealth Management-Scrum Master Engineer-Associate-Albany\nAlbany\u00b7United States\n\u00b7Associate",
       "url": "https://higher.gs.com/roles/158357",
       "identifier": "Asset & Wealth Management-Scrum Master Engineer-As_s://higher.gs.com/roles/158357"
@@ -97,13 +102,8 @@
       "title": "Asset & Wealth Management-Software Engineering-Associate-Dallas\nDallas\u00b7United States\n\u00b7Associate",
       "url": "https://higher.gs.com/roles/163040",
       "identifier": "Asset & Wealth Management-Software Engineering-Ass_s://higher.gs.com/roles/163040"
-    },
-    {
-      "title": "Software Engineering - Data, Lakehouse and AI Data Platform Engineer - Associate - Dallas\nDallas\u00b7United States\n\u00b7Associate",
-      "url": "https://higher.gs.com/roles/153361",
-      "identifier": "Software Engineering - Data, Lakehouse and AI Data_s://higher.gs.com/roles/153361"
     }
   ],
-  "job_count_text": "46",
-  "timestamp": "2026-05-21T15:15:58.248601"
+  "job_count_text": "47",
+  "timestamp": "2026-05-21T15:32:57.890449"
 }

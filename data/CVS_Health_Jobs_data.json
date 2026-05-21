@@ -4,14 +4,19 @@
   "total_jobs": 8,
   "jobs": [
     {
+      "title": "Staff Software Development Engineer (Mainframe)",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0898903/Staff-Software-Development-Engineer-Mainframe",
+      "identifier": "Staff Software Development Engineer (Mainframe)_Development-Engineer-Mainframe"
+    },
+    {
       "title": "Executive Director, Client Experience Engineering",
       "url": "https://jobs.cvshealth.com/us/en/job/R0891832/Executive-Director-Client-Experience-Engineering",
       "identifier": "Executive Director, Client Experience Engineering_-Client-Experience-Engineering"
     },
     {
-      "title": "Senior Manager - IT Operations (IC)",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0905301/Senior-Manager-IT-Operations-IC",
-      "identifier": "Senior Manager - IT Operations (IC)_enior-Manager-IT-Operations-IC"
+      "title": "Manager - Software Development Engineering (AI/ML)",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0888022/Manager-Software-Development-Engineering-AI-ML",
+      "identifier": "Manager - Software Development Engineering (AI/ML)_-Development-Engineering-AI-ML"
     },
     {
       "title": "Executive Director, Software Engineering",
@@ -19,31 +24,26 @@
       "identifier": "Executive Director, Software Engineering_-Director-Software-Engineering"
     },
     {
+      "title": "Senior Manager - IT Operations (IC)",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0905301/Senior-Manager-IT-Operations-IC",
+      "identifier": "Senior Manager - IT Operations (IC)_enior-Manager-IT-Operations-IC"
+    },
+    {
       "title": "Head of HR Data Governance - Workday",
       "url": "https://jobs.cvshealth.com/us/en/job/R0918538/Head-of-HR-Data-Governance-Workday",
       "identifier": "Head of HR Data Governance - Workday_-of-HR-Data-Governance-Workday"
     },
     {
-      "title": "Senior Manager - SRE - RunOps - PBM-IT",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0906780/Senior-Manager-SRE-RunOps-PBM-IT",
-      "identifier": "Senior Manager - SRE - RunOps - PBM-IT_nior-Manager-SRE-RunOps-PBM-IT"
+      "title": "Staff AI Software Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0916756/Staff-AI-Software-Engineer",
+      "identifier": "Staff AI Software Engineer_756/Staff-AI-Software-Engineer"
     },
     {
-      "title": "Field Service Technician - Fort Wayne IN Metro area",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0895635/Field-Service-Technician-Fort-Wayne-IN-Metro-area",
-      "identifier": "Field Service Technician - Fort Wayne IN Metro are_ician-Fort-Wayne-IN-Metro-area"
-    },
-    {
-      "title": "Lead Director - Mainframe Systems Engineering",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0888773/Lead-Director-Mainframe-Systems-Engineering",
-      "identifier": "Lead Director - Mainframe Systems Engineering_-Mainframe-Systems-Engineering"
-    },
-    {
-      "title": "Exchange & Copilot Operations Support Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0857628/Exchange-Copilot-Operations-Support-Engineer",
-      "identifier": "Exchange & Copilot Operations Support Engineer_ot-Operations-Support-Engineer"
+      "title": "Principal Software Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0910155/Principal-Software-Engineer",
+      "identifier": "Principal Software Engineer_55/Principal-Software-Engineer"
     }
   ],
-  "job_count_text": "35",
-  "timestamp": "2026-05-21T07:18:54.110569"
+  "job_count_text": "41",
+  "timestamp": "2026-05-21T07:36:01.183216"
 }

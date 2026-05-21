@@ -4,6 +4,11 @@
   "total_jobs": 8,
   "jobs": [
     {
+      "title": "Staff Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0916241/Staff-Software-Development-Engineer",
+      "identifier": "Staff Software Development Engineer_-Software-Development-Engineer"
+    },
+    {
       "title": "Staff Software Development Engineer (Mainframe)",
       "url": "https://jobs.cvshealth.com/us/en/job/R0898903/Staff-Software-Development-Engineer-Mainframe",
       "identifier": "Staff Software Development Engineer (Mainframe)_Development-Engineer-Mainframe"
@@ -37,13 +42,8 @@
       "title": "Staff AI Software Engineer",
       "url": "https://jobs.cvshealth.com/us/en/job/R0916756/Staff-AI-Software-Engineer",
       "identifier": "Staff AI Software Engineer_756/Staff-AI-Software-Engineer"
-    },
-    {
-      "title": "Principal Software Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0910155/Principal-Software-Engineer",
-      "identifier": "Principal Software Engineer_55/Principal-Software-Engineer"
     }
   ],
-  "job_count_text": "41",
-  "timestamp": "2026-05-21T12:01:54.813229"
+  "job_count_text": "42",
+  "timestamp": "2026-05-21T12:19:08.732222"
 }

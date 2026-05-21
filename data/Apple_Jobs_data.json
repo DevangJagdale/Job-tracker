@@ -4,6 +4,11 @@
   "total_jobs": 15,
   "jobs": [
     {
+      "title": "Software Engineer, Apps",
+      "url": "https://jobs.apple.com/en-us/details/200661273-2926/software-engineer-apps?team=SFTWR",
+      "identifier": "Software Engineer, Apps_tware-engineer-apps?team=SFTWR"
+    },
+    {
       "title": "Senior iCloud Engineering Program Manager - Identity and Messaging Services",
       "url": "https://jobs.apple.com/en-us/details/200664777-0836/senior-icloud-engineering-program-manager-identity-and-messaging-services?team=SFTWR",
       "identifier": "Senior iCloud Engineering Program Manager - Identi_-messaging-services?team=SFTWR"
@@ -72,13 +77,8 @@
       "title": "UI Frameworks Engineer, Swift Platform Experience",
       "url": "https://jobs.apple.com/en-us/details/200661354-0836/ui-frameworks-engineer-swift-platform-experience?team=SFTWR",
       "identifier": "UI Frameworks Engineer, Swift Platform Experience_platform-experience?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer, Agentic Evaluation",
-      "url": "https://jobs.apple.com/en-us/details/200664500-0836/software-engineer-agentic-evaluation?team=MLAI",
-      "identifier": "Software Engineer, Agentic Evaluation_r-agentic-evaluation?team=MLAI"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-21T18:58:52.491387"
+  "timestamp": "2026-05-21T19:16:00.611322"
 }

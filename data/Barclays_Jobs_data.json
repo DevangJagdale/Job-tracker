@@ -1,7 +1,7 @@
 {
   "page_title": "Search our Job Opportunities at Barclays",
   "url": "https://search.jobs.barclays/search-jobs/United%20States/13015/2/6252001/39x76/-98x5/50/2",
-  "total_jobs": 15,
+  "total_jobs": 14,
   "jobs": [
     {
       "title": "Reliability Engineer \u2013 Markets RTB",
@@ -72,13 +72,8 @@
       "title": "Unix System Administrator, AVP",
       "url": "https://search.jobs.barclays/job/whippany/unix-system-administrator-avp/13015/95104606400",
       "identifier": "Unix System Administrator, AVP_istrator-avp/13015/95104606400"
-    },
-    {
-      "title": "M&A Business Manager AVP",
-      "url": "https://search.jobs.barclays/job/new-york/m-and-a-business-manager-avp/13015/95091012656",
-      "identifier": "M&A Business Manager AVP_-manager-avp/13015/95091012656"
     }
   ],
-  "job_count_text": "122",
-  "timestamp": "2026-05-21T17:32:41.151157"
+  "job_count_text": "121",
+  "timestamp": "2026-05-21T17:49:46.967598"
 }

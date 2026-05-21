@@ -4,16 +4,6 @@
   "total_jobs": 8,
   "jobs": [
     {
-      "title": "Senior Analyst, Business Analysis",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0908169/Senior-Analyst-Business-Analysis",
-      "identifier": "Senior Analyst, Business Analysis_nior-Analyst-Business-Analysis"
-    },
-    {
-      "title": "Senior Manager - Software Development Engineering",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0786035/Senior-Manager-Software-Development-Engineering",
-      "identifier": "Senior Manager - Software Development Engineering_ftware-Development-Engineering"
-    },
-    {
       "title": "Staff Software Development Engineer",
       "url": "https://jobs.cvshealth.com/us/en/job/R0916241/Staff-Software-Development-Engineer",
       "identifier": "Staff Software Development Engineer_-Software-Development-Engineer"
@@ -24,26 +14,36 @@
       "identifier": "Senior Software Development Engineer_-Software-Development-Engineer"
     },
     {
+      "title": "Senior Manager - Software Development Engineering",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0786035/Senior-Manager-Software-Development-Engineering",
+      "identifier": "Senior Manager - Software Development Engineering_ftware-Development-Engineering"
+    },
+    {
       "title": "Senior Engineering Manager - Developer Tooling",
       "url": "https://jobs.cvshealth.com/us/en/job/R0910675/Senior-Engineering-Manager-Developer-Tooling",
       "identifier": "Senior Engineering Manager - Developer Tooling_ring-Manager-Developer-Tooling"
     },
     {
-      "title": "Staff Software Development Engineer (Mainframe)",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0898903/Staff-Software-Development-Engineer-Mainframe",
-      "identifier": "Staff Software Development Engineer (Mainframe)_Development-Engineer-Mainframe"
+      "title": "Senior Analyst, Business Analysis",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0908169/Senior-Analyst-Business-Analysis",
+      "identifier": "Senior Analyst, Business Analysis_nior-Analyst-Business-Analysis"
     },
     {
-      "title": "Executive Director, Client Experience Engineering",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0891832/Executive-Director-Client-Experience-Engineering",
-      "identifier": "Executive Director, Client Experience Engineering_-Client-Experience-Engineering"
+      "title": "Executive Director, Software Engineering",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0920486/Executive-Director-Software-Engineering",
+      "identifier": "Executive Director, Software Engineering_-Director-Software-Engineering"
     },
     {
       "title": "Manager - Software Development Engineering (AI/ML)",
       "url": "https://jobs.cvshealth.com/us/en/job/R0888022/Manager-Software-Development-Engineering-AI-ML",
       "identifier": "Manager - Software Development Engineering (AI/ML)_-Development-Engineering-AI-ML"
+    },
+    {
+      "title": "Head of HR Data Governance - Workday",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0918538/Head-of-HR-Data-Governance-Workday",
+      "identifier": "Head of HR Data Governance - Workday_-of-HR-Data-Governance-Workday"
     }
   ],
   "job_count_text": "47",
-  "timestamp": "2026-05-21T17:34:14.416638"
+  "timestamp": "2026-05-21T17:51:22.073942"
 }

@@ -4,6 +4,16 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Lead Forward Deployed Engineer, AI Evaluation Platform",
+      "url": "https://jobs.apple.com/en-us/details/200664455-3337/lead-forward-deployed-engineer-ai-evaluation-platform?team=SFTWR",
+      "identifier": "Lead Forward Deployed Engineer, AI Evaluation Plat_evaluation-platform?team=SFTWR"
+    },
+    {
+      "title": "Senior Engineering Manager, Apple Data Platform",
+      "url": "https://jobs.apple.com/en-us/details/200664513-3337/senior-engineering-manager-apple-data-platform?team=SFTWR",
+      "identifier": "Senior Engineering Manager, Apple Data Platform_apple-data-platform?team=SFTWR"
+    },
+    {
       "title": "Computer Vision and Machine Learning Engineer",
       "url": "https://jobs.apple.com/en-us/details/200664595-3956/computer-vision-and-machine-learning-engineer?team=HRDWR",
       "identifier": "Computer Vision and Machine Learning Engineer_e-learning-engineer?team=HRDWR"
@@ -44,11 +54,6 @@
       "identifier": "Senior Network Engineer_or-network-engineer?team=SFTWR"
     },
     {
-      "title": "Senior Manager, Product Health - Apple Ads",
-      "url": "https://jobs.apple.com/en-us/details/200664664-0836/senior-manager-product-health-apple-ads?team=SFTWR",
-      "identifier": "Senior Manager, Product Health - Apple Ads_ct-health-apple-ads?team=SFTWR"
-    },
-    {
       "title": "UI Frameworks Engineer, Swift Platform Experience",
       "url": "https://jobs.apple.com/en-us/details/200661354-0836/ui-frameworks-engineer-swift-platform-experience?team=SFTWR",
       "identifier": "UI Frameworks Engineer, Swift Platform Experience_platform-experience?team=SFTWR"
@@ -77,13 +82,8 @@
       "title": "DevOps Engineer , Employee Experience & Productivity",
       "url": "https://jobs.apple.com/en-us/details/200664573-0157/devops-engineer-employee-experience-productivity?team=SFTWR",
       "identifier": "DevOps Engineer , Employee Experience & Productivi_rience-productivity?team=SFTWR"
-    },
-    {
-      "title": "Sr. Applied AI Software Engineer- Vision Products Group & Siri",
-      "url": "https://jobs.apple.com/en-us/details/200646379-2605/sr-applied-ai-software-engineer-vision-products-group-siri?team=SFTWR",
-      "identifier": "Sr. Applied AI Software Engineer- Vision Products _products-group-siri?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-21T17:33:13.626165"
+  "timestamp": "2026-05-21T17:50:19.936285"
 }

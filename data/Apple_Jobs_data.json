@@ -4,6 +4,11 @@
   "total_jobs": 15,
   "jobs": [
     {
+      "title": "Senior iCloud Engineering Program Manager - Identity and Messaging Services",
+      "url": "https://jobs.apple.com/en-us/details/200664777-0836/senior-icloud-engineering-program-manager-identity-and-messaging-services?team=SFTWR",
+      "identifier": "Senior iCloud Engineering Program Manager - Identi_-messaging-services?team=SFTWR"
+    },
+    {
       "title": "Computer Vision and Machine Learning Engineer",
       "url": "https://jobs.apple.com/en-us/details/200664595-3956/computer-vision-and-machine-learning-engineer?team=HRDWR",
       "identifier": "Computer Vision and Machine Learning Engineer_e-learning-engineer?team=HRDWR"
@@ -72,13 +77,8 @@
       "title": "Software Engineer, Agentic Evaluation",
       "url": "https://jobs.apple.com/en-us/details/200664500-0836/software-engineer-agentic-evaluation?team=MLAI",
       "identifier": "Software Engineer, Agentic Evaluation_r-agentic-evaluation?team=MLAI"
-    },
-    {
-      "title": "Sr. Manager, Automation & Tools - Camera & Photos",
-      "url": "https://jobs.apple.com/en-us/details/200660461-0836/sr-manager-automation-tools-camera-photos?team=SFTWR",
-      "identifier": "Sr. Manager, Automation & Tools - Camera & Photos_tools-camera-photos?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-21T18:41:45.940446"
+  "timestamp": "2026-05-21T18:58:52.491387"
 }

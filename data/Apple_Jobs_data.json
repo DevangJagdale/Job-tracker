@@ -4,6 +4,11 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "UI Frameworks Engineer, Swift Platform Experience",
+      "url": "https://jobs.apple.com/en-us/details/200661354-0836/ui-frameworks-engineer-swift-platform-experience?team=SFTWR",
+      "identifier": "UI Frameworks Engineer, Swift Platform Experience_platform-experience?team=SFTWR"
+    },
+    {
       "title": "Software Engineer, Agentic Evaluation",
       "url": "https://jobs.apple.com/en-us/details/200664500-0836/software-engineer-agentic-evaluation?team=MLAI",
       "identifier": "Software Engineer, Agentic Evaluation_r-agentic-evaluation?team=MLAI"
@@ -77,13 +82,8 @@
       "title": "Software Engineer, Core Services - Apple Services Engineering",
       "url": "https://jobs.apple.com/en-us/details/200664369-3337/software-engineer-core-services-apple-services-engineering?team=SFTWR",
       "identifier": "Software Engineer, Core Services - Apple Services _ervices-engineering?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer, Data Solutions ASE",
-      "url": "https://jobs.apple.com/en-us/details/200664338-2459/software-engineer-data-solutions-ase?team=SFTWR",
-      "identifier": "Software Engineer, Data Solutions ASE_-data-solutions-ase?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-21T05:01:02.087405"
+  "timestamp": "2026-05-21T05:18:08.828841"
 }

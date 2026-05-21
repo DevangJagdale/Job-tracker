@@ -1,8 +1,13 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 16,
+  "total_jobs": 15,
   "jobs": [
+    {
+      "title": "Senior Network Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200644392-1124/senior-network-engineer?team=SFTWR",
+      "identifier": "Senior Network Engineer_or-network-engineer?team=SFTWR"
+    },
     {
       "title": "Senior Manager, Product Health - Apple Ads",
       "url": "https://jobs.apple.com/en-us/details/200664664-0836/senior-manager-product-health-apple-ads?team=SFTWR",
@@ -72,18 +77,8 @@
       "title": "Machine Learning Engineer, Foundation Model Services",
       "url": "https://jobs.apple.com/en-us/details/200664569-3760/machine-learning-engineer-foundation-model-services?team=MLAI",
       "identifier": "Machine Learning Engineer, Foundation Model Servic_ation-model-services?team=MLAI"
-    },
-    {
-      "title": "Software Engineer - AI Agents & Automation, Maps Data Tooling",
-      "url": "https://jobs.apple.com/en-us/details/200663946-0836/software-engineer-ai-agents-automation-maps-data-tooling?team=SFTWR",
-      "identifier": "Software Engineer - AI Agents & Automation, Maps D_n-maps-data-tooling?team=SFTWR"
-    },
-    {
-      "title": "Staff Software Engineer - FoundationDB",
-      "url": "https://jobs.apple.com/en-us/details/200664497-0836/staff-software-engineer-foundationdb?team=SFTWR",
-      "identifier": "Staff Software Engineer - FoundationDB_gineer-foundationdb?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-21T13:26:18.965801"
+  "timestamp": "2026-05-21T13:43:23.490338"
 }

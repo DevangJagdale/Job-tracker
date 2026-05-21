@@ -1,8 +1,18 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 16,
+  "total_jobs": 15,
   "jobs": [
+    {
+      "title": "Computer Vision and Machine Learning Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200664595-3956/computer-vision-and-machine-learning-engineer?team=HRDWR",
+      "identifier": "Computer Vision and Machine Learning Engineer_e-learning-engineer?team=HRDWR"
+    },
+    {
+      "title": "Anti Abuse Lead, Mail Operations (Trust & Safety)",
+      "url": "https://jobs.apple.com/en-us/details/200646760-0157/anti-abuse-lead-mail-operations-trust-safety?team=SFTWR",
+      "identifier": "Anti Abuse Lead, Mail Operations (Trust & Safety)_ations-trust-safety?team=SFTWR"
+    },
     {
       "title": "Engineering Manager, Data Protection - FoundationDB",
       "url": "https://jobs.apple.com/en-us/details/200661187-0836/engineering-manager-data-protection-foundationdb?team=SFTWR",
@@ -17,11 +27,6 @@
       "title": "Senior Engineering Manager, Apple Data Platform",
       "url": "https://jobs.apple.com/en-us/details/200664513-3337/senior-engineering-manager-apple-data-platform?team=SFTWR",
       "identifier": "Senior Engineering Manager, Apple Data Platform_apple-data-platform?team=SFTWR"
-    },
-    {
-      "title": "Computer Vision and Machine Learning Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200664595-3956/computer-vision-and-machine-learning-engineer?team=HRDWR",
-      "identifier": "Computer Vision and Machine Learning Engineer_e-learning-engineer?team=HRDWR"
     },
     {
       "title": "Senior Software Engineer, On-Device Health Agentic Systems",
@@ -72,18 +77,8 @@
       "title": "Sr. Manager, Automation & Tools - Camera & Photos",
       "url": "https://jobs.apple.com/en-us/details/200660461-0836/sr-manager-automation-tools-camera-photos?team=SFTWR",
       "identifier": "Sr. Manager, Automation & Tools - Camera & Photos_tools-camera-photos?team=SFTWR"
-    },
-    {
-      "title": "Accessibility Software Quality Engineer - Physical & Motor Tools and Framework",
-      "url": "https://jobs.apple.com/en-us/details/200663437-0836/accessibility-software-quality-engineer-physical-motor-tools-and-framework?team=SFTWR",
-      "identifier": "Accessibility Software Quality Engineer - Physical_tools-and-framework?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer, Crypto Services - Key Management, Enterprise Technology Services",
-      "url": "https://jobs.apple.com/en-us/details/200664495-0157/software-engineer-crypto-services-key-management-enterprise-technology-services?team=SFTWR",
-      "identifier": "Software Engineer, Crypto Services - Key Managemen_technology-services?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-21T18:24:42.557275"
+  "timestamp": "2026-05-21T18:41:45.940446"
 }

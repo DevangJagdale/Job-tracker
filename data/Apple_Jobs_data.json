@@ -1,8 +1,18 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 15,
+  "total_jobs": 16,
   "jobs": [
+    {
+      "title": "Business Development & Partnership Manager (Merchant)",
+      "url": "https://jobs.apple.com/en-us/details/200664793-0836/business-development-partnership-manager-merchant?team=SFTWR",
+      "identifier": "Business Development & Partnership Manager (Mercha_ip-manager-merchant?team=SFTWR"
+    },
+    {
+      "title": "Senior Software Development Engineer - Data",
+      "url": "https://jobs.apple.com/en-us/details/200663993-0836/senior-software-development-engineer-data?team=SFTWR",
+      "identifier": "Senior Software Development Engineer - Data_pment-engineer-data?team=SFTWR"
+    },
     {
       "title": "Software Engineer, Apps",
       "url": "https://jobs.apple.com/en-us/details/200661273-2926/software-engineer-apps?team=SFTWR",
@@ -72,13 +82,8 @@
       "title": "Senior Network Engineer",
       "url": "https://jobs.apple.com/en-us/details/200644392-1124/senior-network-engineer?team=SFTWR",
       "identifier": "Senior Network Engineer_or-network-engineer?team=SFTWR"
-    },
-    {
-      "title": "UI Frameworks Engineer, Swift Platform Experience",
-      "url": "https://jobs.apple.com/en-us/details/200661354-0836/ui-frameworks-engineer-swift-platform-experience?team=SFTWR",
-      "identifier": "UI Frameworks Engineer, Swift Platform Experience_platform-experience?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-21T19:57:47.940705"
+  "timestamp": "2026-05-21T20:14:51.299307"
 }

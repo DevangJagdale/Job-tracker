@@ -4,6 +4,11 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "AIML - Head of Data Science and Insights",
+      "url": "https://jobs.apple.com/en-us/details/200664287-0836/aiml-head-of-data-science-and-insights?team=SFTWR",
+      "identifier": "AIML - Head of Data Science and Insights_cience-and-insights?team=SFTWR"
+    },
+    {
       "title": "Senior CoreOS Engineer - Enterprise Services",
       "url": "https://jobs.apple.com/en-us/details/200659687-0240/senior-coreos-engineer-enterprise-services?team=SFTWR",
       "identifier": "Senior CoreOS Engineer - Enterprise Services_enterprise-services?team=SFTWR"
@@ -77,13 +82,8 @@
       "title": "Solution Engineer, Corporate Systems Engineering",
       "url": "https://jobs.apple.com/en-us/details/200626160-0157/solution-engineer-corporate-systems-engineering?team=SFTWR",
       "identifier": "Solution Engineer, Corporate Systems Engineering_systems-engineering?team=SFTWR"
-    },
-    {
-      "title": "Machine Learning Engineer, Foundation Model Services",
-      "url": "https://jobs.apple.com/en-us/details/200664569-3760/machine-learning-engineer-foundation-model-services?team=MLAI",
-      "identifier": "Machine Learning Engineer, Foundation Model Servic_ation-model-services?team=MLAI"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-21T15:33:48.688012"
+  "timestamp": "2026-05-21T15:50:51.041965"
 }

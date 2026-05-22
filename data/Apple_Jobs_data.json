@@ -4,6 +4,11 @@
   "total_jobs": 18,
   "jobs": [
     {
+      "title": "Principal Product Manager - Claris",
+      "url": "https://jobs.apple.com/en-us/details/200643356-3956/principal-product-manager-claris?team=SFTWR",
+      "identifier": "Principal Product Manager - Claris_duct-manager-claris?team=SFTWR"
+    },
+    {
       "title": "Strategic Demand Planner & Capacity Analyst",
       "url": "https://jobs.apple.com/en-us/details/200664709-0836/strategic-demand-planner-capacity-analyst?team=SFTWR",
       "identifier": "Strategic Demand Planner & Capacity Analyst_er-capacity-analyst?team=SFTWR"
@@ -87,13 +92,8 @@
       "title": "AIML Privacy & Data Governance Eng Lead, Evaluation",
       "url": "https://jobs.apple.com/en-us/details/200664385-0836/aiml-privacy-data-governance-eng-lead-evaluation?team=SFTWR",
       "identifier": "AIML Privacy & Data Governance Eng Lead, Evaluatio_eng-lead-evaluation?team=SFTWR"
-    },
-    {
-      "title": "On-Device ML Integration Engineer, Graphics, Games and Machine Learning",
-      "url": "https://jobs.apple.com/en-us/details/200642883-0836/on-device-ml-integration-engineer-graphics-games-and-machine-learning?team=MLAI",
-      "identifier": "On-Device ML Integration Engineer, Graphics, Games_and-machine-learning?team=MLAI"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-21T23:58:04.198996"
+  "timestamp": "2026-05-22T00:15:06.229310"
 }

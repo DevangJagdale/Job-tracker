@@ -4,6 +4,11 @@
   "total_jobs": 10,
   "jobs": [
     {
+      "title": "Engineer, RDA DRAM\nBoise, Idaho, United States of America\nPosted 19 hours ago",
+      "url": "https://careers.micron.com/careers/job/42043666",
+      "identifier": "Engineer, RDA DRAM\nBoise, Idaho, United States of _icron.com/careers/job/42043666"
+    },
+    {
       "title": "New College Grad - DRAM Product Reliability Characterization Engineer\nBoise, Idaho, United States of America\nPosted 19 hours ago",
       "url": "https://careers.micron.com/careers/job/41806502",
       "identifier": "New College Grad - DRAM Product Reliability Charac_icron.com/careers/job/41806502"
@@ -14,19 +19,14 @@
       "identifier": "Semiconductor Design Engineer\nBoise, Idaho, United_icron.com/careers/job/42044099"
     },
     {
-      "title": "Engineer, RDA DRAM\nBoise, Idaho, United States of America\nPosted 19 hours ago",
-      "url": "https://careers.micron.com/careers/job/42043666",
-      "identifier": "Engineer, RDA DRAM\nBoise, Idaho, United States of _icron.com/careers/job/42043666"
+      "title": "Product Yield & Analytics ESDA Engineer\nBoise, Idaho, United States of America\nPosted 3 days ago",
+      "url": "https://careers.micron.com/careers/job/40795739",
+      "identifier": "Product Yield & Analytics ESDA Engineer\nBoise, Ida_icron.com/careers/job/40795739"
     },
     {
       "title": "FE Automotive Product Quality Engineer\nManassas, Virginia, United States of America\nPosted 3 days ago",
       "url": "https://careers.micron.com/careers/job/42003176",
       "identifier": "FE Automotive Product Quality Engineer\nManassas, V_icron.com/careers/job/42003176"
-    },
-    {
-      "title": "Product Yield & Analytics ESDA Engineer\nBoise, Idaho, United States of America\nPosted 3 days ago",
-      "url": "https://careers.micron.com/careers/job/40795739",
-      "identifier": "Product Yield & Analytics ESDA Engineer\nBoise, Ida_icron.com/careers/job/40795739"
     },
     {
       "title": "New College Grad - Supply Management Analyst\nManassas, Virginia, United States of America\nPosted 4 days ago",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "98",
-  "timestamp": "2026-05-22T18:31:08.007962"
+  "timestamp": "2026-05-22T18:48:26.388445"
 }

@@ -1,8 +1,18 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 19,
+  "total_jobs": 18,
   "jobs": [
+    {
+      "title": "Senior Software Engineer, Apple Services Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200664943-3577/senior-software-engineer-apple-services-engineering?team=SFTWR",
+      "identifier": "Senior Software Engineer, Apple Services Engineeri_ervices-engineering?team=SFTWR"
+    },
+    {
+      "title": "Software Engineer, Apple Services Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200664944-3577/software-engineer-apple-services-engineering?team=SFTWR",
+      "identifier": "Software Engineer, Apple Services Engineering_ervices-engineering?team=SFTWR"
+    },
     {
       "title": "Staff AI Software Engineer, Siri User Experiences",
       "url": "https://jobs.apple.com/en-us/details/200664946-0836/staff-ai-software-engineer-siri-user-experiences?team=SFTWR",
@@ -82,23 +92,8 @@
       "title": "Engineering Program Manager, Cloud Capacity and Cost Optimization, Apple Services Engineering",
       "url": "https://jobs.apple.com/en-us/details/200664802-0836/engineering-program-manager-cloud-capacity-and-cost-optimization-apple-services-engineering?team=SFTWR",
       "identifier": "Engineering Program Manager, Cloud Capacity and Co_ervices-engineering?team=SFTWR"
-    },
-    {
-      "title": "Business Development & Partnership Manager (Fintech)",
-      "url": "https://jobs.apple.com/en-us/details/200664797-0836/business-development-partnership-manager-fintech?team=SFTWR",
-      "identifier": "Business Development & Partnership Manager (Fintec_hip-manager-fintech?team=SFTWR"
-    },
-    {
-      "title": "Senior Software Engineer (Voice Platform), Customer Systems",
-      "url": "https://jobs.apple.com/en-us/details/200663101-0157/senior-software-engineer-voice-platform-customer-systems?team=SFTWR",
-      "identifier": "Senior Software Engineer (Voice Platform), Custome_rm-customer-systems?team=SFTWR"
-    },
-    {
-      "title": "Business Development & Partnership Manager (Merchant)",
-      "url": "https://jobs.apple.com/en-us/details/200664793-0836/business-development-partnership-manager-merchant?team=SFTWR",
-      "identifier": "Business Development & Partnership Manager (Mercha_ip-manager-merchant?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-22T20:10:57.096515"
+  "timestamp": "2026-05-22T20:28:06.844394"
 }

@@ -4,19 +4,14 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "FE Automotive Product Quality Engineer\nManassas, Virginia, United States of America\nPosted 3 days ago",
-      "url": "https://careers.micron.com/careers/job/42003176",
-      "identifier": "FE Automotive Product Quality Engineer\nManassas, V_icron.com/careers/job/42003176"
-    },
-    {
       "title": "Product Yield & Analytics ESDA Engineer\nBoise, Idaho, United States of America\nPosted 3 days ago",
       "url": "https://careers.micron.com/careers/job/40795739",
       "identifier": "Product Yield & Analytics ESDA Engineer\nBoise, Ida_icron.com/careers/job/40795739"
     },
     {
-      "title": "New College Grad - Process Integration Engineer\nBoise, Idaho, United States of America\nPosted 4 days ago",
-      "url": "https://careers.micron.com/careers/job/40475196",
-      "identifier": "New College Grad - Process Integration Engineer\nBo_icron.com/careers/job/40475196"
+      "title": "FE Automotive Product Quality Engineer\nManassas, Virginia, United States of America\nPosted 3 days ago",
+      "url": "https://careers.micron.com/careers/job/42003176",
+      "identifier": "FE Automotive Product Quality Engineer\nManassas, V_icron.com/careers/job/42003176"
     },
     {
       "title": "New College Grad - Photolithography Process Engineer\nBoise, Idaho, United States of America\nPosted 4 days ago",
@@ -49,11 +44,16 @@
       "identifier": "Engineer/Sr. Engineer, Central PIE Yield Enhanceme_icron.com/careers/job/41158237"
     },
     {
+      "title": "New College Grad - Process Integration Engineer\nBoise, Idaho, United States of America\nPosted 4 days ago",
+      "url": "https://careers.micron.com/careers/job/40475196",
+      "identifier": "New College Grad - Process Integration Engineer\nBo_icron.com/careers/job/40475196"
+    },
+    {
       "title": "US FE Expansion Planning Engineer\nBoise, Idaho, United States of America\nPosted 5 days ago",
       "url": "https://careers.micron.com/careers/job/40986798",
       "identifier": "US FE Expansion Planning Engineer\nBoise, Idaho, Un_icron.com/careers/job/40986798"
     }
   ],
   "job_count_text": "95",
-  "timestamp": "2026-05-22T12:57:04.004703"
+  "timestamp": "2026-05-22T13:14:11.125859"
 }

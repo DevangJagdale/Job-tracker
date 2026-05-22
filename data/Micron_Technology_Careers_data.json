@@ -4,9 +4,14 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Engineer, RDA DRAM\nBoise, Idaho, United States of America\nPosted 17 hours ago",
+      "title": "Engineer, RDA DRAM\nBoise, Idaho, United States of America\nPosted 18 hours ago",
       "url": "https://careers.micron.com/careers/job/42043666",
       "identifier": "Engineer, RDA DRAM\nBoise, Idaho, United States of _icron.com/careers/job/42043666"
+    },
+    {
+      "title": "New College Grad - DRAM Product Reliability Characterization Engineer\nBoise, Idaho, United States of America\nPosted 18 hours ago",
+      "url": "https://careers.micron.com/careers/job/41806502",
+      "identifier": "New College Grad - DRAM Product Reliability Charac_icron.com/careers/job/41806502"
     },
     {
       "title": "FE Automotive Product Quality Engineer\nManassas, Virginia, United States of America\nPosted 3 days ago",
@@ -47,13 +52,8 @@
       "title": "New College Grad - Supply Management Analyst\nManassas, Virginia, United States of America\nPosted 4 days ago",
       "url": "https://careers.micron.com/careers/job/41979554",
       "identifier": "New College Grad - Supply Management Analyst\nManas_icron.com/careers/job/41979554"
-    },
-    {
-      "title": "Engineer/Sr. Engineer, Central PIE Yield Enhancement\nBoise, Idaho, United States of America\nPosted 4 days ago",
-      "url": "https://careers.micron.com/careers/job/41158237",
-      "identifier": "Engineer/Sr. Engineer, Central PIE Yield Enhanceme_icron.com/careers/job/41158237"
     }
   ],
-  "job_count_text": "96",
-  "timestamp": "2026-05-22T17:14:30.129427"
+  "job_count_text": "97",
+  "timestamp": "2026-05-22T17:31:38.766703"
 }

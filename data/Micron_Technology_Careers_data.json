@@ -4,16 +4,6 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Engineer, RDA DRAM\nBoise, Idaho, United States of America\nPosted a day ago",
-      "url": "https://careers.micron.com/careers/job/42043666",
-      "identifier": "Engineer, RDA DRAM\nBoise, Idaho, United States of _icron.com/careers/job/42043666"
-    },
-    {
-      "title": "Semiconductor Design Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
-      "url": "https://careers.micron.com/careers/job/42044099",
-      "identifier": "Semiconductor Design Engineer\nBoise, Idaho, United_icron.com/careers/job/42044099"
-    },
-    {
       "title": "Design Verification Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/41980073",
       "identifier": "Design Verification Engineer\nBoise, Idaho, United _icron.com/careers/job/41980073"
@@ -27,6 +17,16 @@
       "title": "MTS, DEG Design Verification\nBoise, Idaho, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/41980120",
       "identifier": "MTS, DEG Design Verification\nBoise, Idaho, United _icron.com/careers/job/41980120"
+    },
+    {
+      "title": "Engineer, RDA DRAM\nBoise, Idaho, United States of America\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/42043666",
+      "identifier": "Engineer, RDA DRAM\nBoise, Idaho, United States of _icron.com/careers/job/42043666"
+    },
+    {
+      "title": "Semiconductor Design Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/42044099",
+      "identifier": "Semiconductor Design Engineer\nBoise, Idaho, United_icron.com/careers/job/42044099"
     },
     {
       "title": "ENGINEER, ID1 DRAM PI\nBoise, Idaho, United States of America\nPosted a day ago",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "102",
-  "timestamp": "2026-05-22T22:31:21.768016"
+  "timestamp": "2026-05-22T22:48:29.408622"
 }

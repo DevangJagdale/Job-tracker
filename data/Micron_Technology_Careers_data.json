@@ -4,14 +4,14 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Product Yield & Analytics ESDA Engineer\nBoise, Idaho, United States of America\nPosted 2 days ago",
-      "url": "https://careers.micron.com/careers/job/40795739",
-      "identifier": "Product Yield & Analytics ESDA Engineer\nBoise, Ida_icron.com/careers/job/40795739"
-    },
-    {
       "title": "FE Automotive Product Quality Engineer\nManassas, Virginia, United States of America\nPosted 2 days ago",
       "url": "https://careers.micron.com/careers/job/42003176",
       "identifier": "FE Automotive Product Quality Engineer\nManassas, V_icron.com/careers/job/42003176"
+    },
+    {
+      "title": "Product Yield & Analytics ESDA Engineer\nBoise, Idaho, United States of America\nPosted 2 days ago",
+      "url": "https://careers.micron.com/careers/job/40795739",
+      "identifier": "Product Yield & Analytics ESDA Engineer\nBoise, Ida_icron.com/careers/job/40795739"
     },
     {
       "title": "New College Grad - Supply Management Analyst\nManassas, Virginia, United States of America\nPosted 3 days ago",
@@ -34,6 +34,11 @@
       "identifier": "ASIC Engineer 2\nLongmont, Colorado, United States _icron.com/careers/job/41954073"
     },
     {
+      "title": "Product Development Engineer\nSan Jose, California, United States of America\nPosted 3 days ago",
+      "url": "https://careers.micron.com/careers/job/41954264",
+      "identifier": "Product Development Engineer\nSan Jose, California,_icron.com/careers/job/41954264"
+    },
+    {
       "title": "Quality Engineer\nLongmont, Colorado, United States of America\nPosted 3 days ago",
       "url": "https://careers.micron.com/careers/job/41978275",
       "identifier": "Quality Engineer\nLongmont, Colorado, United States_icron.com/careers/job/41978275"
@@ -44,16 +49,11 @@
       "identifier": "New College Grad - Photolithography Process Engine_icron.com/careers/job/41923169"
     },
     {
-      "title": "Product Development Engineer\nSan Jose, California, United States of America\nPosted 3 days ago",
-      "url": "https://careers.micron.com/careers/job/41954264",
-      "identifier": "Product Development Engineer\nSan Jose, California,_icron.com/careers/job/41954264"
-    },
-    {
-      "title": "Signal and Power Integrity Lab Engineer\nBoise, Idaho, United States of America\nPosted 4 days ago",
-      "url": "https://careers.micron.com/careers/job/41839528",
-      "identifier": "Signal and Power Integrity Lab Engineer\nBoise, Ida_icron.com/careers/job/41839528"
+      "title": "US FE Expansion Planning Engineer\nBoise, Idaho, United States of America\nPosted 4 days ago",
+      "url": "https://careers.micron.com/careers/job/40986798",
+      "identifier": "US FE Expansion Planning Engineer\nBoise, Idaho, Un_icron.com/careers/job/40986798"
     }
   ],
   "job_count_text": "96",
-  "timestamp": "2026-05-22T09:23:49.570372"
+  "timestamp": "2026-05-22T09:40:54.601907"
 }

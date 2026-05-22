@@ -4,6 +4,16 @@
   "total_jobs": 19,
   "jobs": [
     {
+      "title": "Perception Systems Software Engineer, Audio & Media Technologies",
+      "url": "https://jobs.apple.com/en-us/details/200664926-3543/perception-systems-software-engineer-audio-media-technologies?team=SFTWR",
+      "identifier": "Perception Systems Software Engineer, Audio & Medi_-media-technologies?team=SFTWR"
+    },
+    {
+      "title": "Software Engineer - Customer Systems, Information Systems & Technology (IS&T)",
+      "url": "https://jobs.apple.com/en-us/details/200663125-3956/software-engineer-customer-systems-information-systems-technology-is-t?team=SFTWR",
+      "identifier": "Software Engineer - Customer Systems, Information _ems-technology-is-t?team=SFTWR"
+    },
+    {
       "title": "Sr Software Engineer - Customer Systems, Information Systems & Technology (IS&T)",
       "url": "https://jobs.apple.com/en-us/details/200663132-0157/sr-software-engineer-customer-systems-information-systems-technology-is-t?team=SFTWR",
       "identifier": "Sr Software Engineer - Customer Systems, Informati_ems-technology-is-t?team=SFTWR"
@@ -87,18 +97,8 @@
       "title": "Voice Platform Software Engineer, Customer Systems",
       "url": "https://jobs.apple.com/en-us/details/200663115-0157/voice-platform-software-engineer-customer-systems?team=SFTWR",
       "identifier": "Voice Platform Software Engineer, Customer Systems_er-customer-systems?team=SFTWR"
-    },
-    {
-      "title": "Senior Software Engineer, On-Device Health Agentic Systems",
-      "url": "https://jobs.apple.com/en-us/details/200652252-0836/senior-software-engineer-on-device-health-agentic-systems?team=SFTWR",
-      "identifier": "Senior Software Engineer, On-Device Health Agentic_lth-agentic-systems?team=SFTWR"
-    },
-    {
-      "title": "Senior Software Development Engineer - Data",
-      "url": "https://jobs.apple.com/en-us/details/200663993-0836/senior-software-development-engineer-data?team=SFTWR",
-      "identifier": "Senior Software Development Engineer - Data_pment-engineer-data?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-22T19:36:40.508062"
+  "timestamp": "2026-05-22T19:53:48.948175"
 }

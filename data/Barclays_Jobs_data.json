@@ -1,8 +1,23 @@
 {
   "page_title": "Search our Job Opportunities at Barclays",
   "url": "https://search.jobs.barclays/search-jobs/United%20States/13015/2/6252001/39x76/-98x5/50/2",
-  "total_jobs": 13,
+  "total_jobs": 16,
   "jobs": [
+    {
+      "title": "Security Engineer",
+      "url": "https://search.jobs.barclays/job/whippany/security-engineer/13015/95396055088",
+      "identifier": "Security Engineer_ity-engineer/13015/95396055088"
+    },
+    {
+      "title": "Onboarding Manager",
+      "url": "https://search.jobs.barclays/job/whippany/onboarding-manager/13015/95396054928",
+      "identifier": "Onboarding Manager_ding-manager/13015/95396054928"
+    },
+    {
+      "title": "Structured Derivatives Sales, Analyst",
+      "url": "https://search.jobs.barclays/job/new-york/structured-derivatives-sales-analyst/13015/95396042464",
+      "identifier": "Structured Derivatives Sales, Analyst_ales-analyst/13015/95396042464"
+    },
     {
       "title": "Senior Full Stack Developer - Electronic Trading - AVP",
       "url": "https://search.jobs.barclays/job/whippany/senior-full-stack-developer-electronic-trading-avp/13015/95382279024",
@@ -70,5 +85,5 @@
     }
   ],
   "job_count_text": "124",
-  "timestamp": "2026-05-22T11:36:48.207790"
+  "timestamp": "2026-05-22T11:53:53.116068"
 }

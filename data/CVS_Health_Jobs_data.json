@@ -1,7 +1,7 @@
 {
   "page_title": "Search CVS Health Jobs | Find Your Next Career Opportunity",
   "url": "https://jobs.cvshealth.com/us/en/search-results",
-  "total_jobs": 7,
+  "total_jobs": 8,
   "jobs": [
     {
       "title": "Senior Engineering Manager - Developer Tooling",
@@ -34,11 +34,16 @@
       "identifier": "Principal Software Development Engineer (Customer _-Customer-Insight-AI-Solutions"
     },
     {
-      "title": "Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0916666/Software-Development-Engineer",
-      "identifier": "Software Development Engineer_/Software-Development-Engineer"
+      "title": "Sr. Manager, Digital Product - Conversational AI Strategy",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0859851/Sr-Manager-Digital-Product-Conversational-AI-Strategy",
+      "identifier": "Sr. Manager, Digital Product - Conversational AI S_uct-Conversational-AI-Strategy"
+    },
+    {
+      "title": "Software Quality Automation Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0897984/Software-Quality-Automation-Engineer",
+      "identifier": "Software Quality Automation Engineer_re-Quality-Automation-Engineer"
     }
   ],
-  "job_count_text": "53",
-  "timestamp": "2026-05-22T20:46:17.394638"
+  "job_count_text": "236",
+  "timestamp": "2026-05-22T21:03:25.768978"
 }

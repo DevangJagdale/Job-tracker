@@ -4,6 +4,11 @@
   "total_jobs": 18,
   "jobs": [
     {
+      "title": "Software Engineer, Big Data - Apple Services Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200664567-3337/software-engineer-big-data-apple-services-engineering?team=SFTWR",
+      "identifier": "Software Engineer, Big Data - Apple Services Engin_ervices-engineering?team=SFTWR"
+    },
+    {
       "title": "International Engineering Lead - Intelligence Features",
       "url": "https://jobs.apple.com/en-us/details/200659194-0836/international-engineering-lead-intelligence-features?team=SFTWR",
       "identifier": "International Engineering Lead - Intelligence Feat_telligence-features?team=SFTWR"
@@ -87,13 +92,8 @@
       "title": "Lead Forward Deployed Engineer, AI Evaluation Platform",
       "url": "https://jobs.apple.com/en-us/details/200664455-3337/lead-forward-deployed-engineer-ai-evaluation-platform?team=SFTWR",
       "identifier": "Lead Forward Deployed Engineer, AI Evaluation Plat_evaluation-platform?team=SFTWR"
-    },
-    {
-      "title": "Senior Engineering Manager, Apple Data Platform",
-      "url": "https://jobs.apple.com/en-us/details/200664513-3337/senior-engineering-manager-apple-data-platform?team=SFTWR",
-      "identifier": "Senior Engineering Manager, Apple Data Platform_apple-data-platform?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-22T04:21:11.604517"
+  "timestamp": "2026-05-22T04:38:13.799788"
 }

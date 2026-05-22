@@ -1,10 +1,15 @@
 {
   "page_title": "| Microsoft Careers",
   "url": "https://apply.careers.microsoft.com/careers?domain=microsoft.com&start=0&location=United+States&sort_by=timestamp&filter_include_remote=1&filter_profession=software+engineering%2Cresearch%252C%2520applied%252C%2520%2526%2520data%2520sciences",
-  "total_jobs": 9,
+  "total_jobs": 10,
   "jobs": [
     {
-      "title": "Principal Applied Scientist\nUnited States, Washington, Redmond + 1 more\nPosted 4 minutes ago",
+      "title": "Senior/Principal Software Engineer\nUnited States, Washington, Redmond\nPosted 19 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556868903?domain=microsoft.com",
+      "identifier": "Senior/Principal Software Engineer\nUnited States, _556868903?domain=microsoft.com"
+    },
+    {
+      "title": "Principal Applied Scientist\nUnited States, Washington, Redmond + 1 more\nPosted 21 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556638572?domain=microsoft.com",
       "identifier": "Principal Applied Scientist\nUnited States, Washing_556638572?domain=microsoft.com"
     },
@@ -24,7 +29,7 @@
       "identifier": "Software Engineer - Driver Platform\nUnited States,_556868720?domain=microsoft.com"
     },
     {
-      "title": "Principal Software Engineering Manager - Substrate Efficiency\nUnited States, Washington, Redmond\nPosted 17 hours ago",
+      "title": "Principal Software Engineering Manager - Substrate Efficiency\nUnited States, Washington, Redmond\nPosted 18 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556867651?domain=microsoft.com",
       "identifier": "Principal Software Engineering Manager - Substrate_556867651?domain=microsoft.com"
     },
@@ -49,6 +54,6 @@
       "identifier": "Principal Applied Scientist (CoreAI)\nUnited States_556836404?domain=microsoft.com"
     }
   ],
-  "job_count_text": "449",
-  "timestamp": "2026-05-22T15:45:25.259968"
+  "job_count_text": "450",
+  "timestamp": "2026-05-22T16:02:31.291547"
 }

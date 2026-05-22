@@ -1,7 +1,7 @@
 {
   "page_title": "Job Openings - Cisco Careers",
   "url": "https://careers.cisco.com/global/en/search-results?s=1",
-  "total_jobs": 9,
+  "total_jobs": 8,
   "jobs": [
     {
       "title": "Software Development Engineer II (Full Time) \u2013 United States",
@@ -12,11 +12,6 @@
       "title": "Physical Design Engineer II (Full Time) - United States",
       "url": "https://careers.cisco.com/global/en/job/2013120/Physical-Design-Engineer-II-Full-Time-United-States",
       "identifier": "Physical Design Engineer II (Full Time) - United S_eer-II-Full-Time-United-States"
-    },
-    {
-      "title": "Workday Security Administrator II (Full-Time) - United States",
-      "url": "https://careers.cisco.com/global/en/job/2013460/Workday-Security-Administrator-II-Full-Time-United-States",
-      "identifier": "Workday Security Administrator II (Full-Time) - Un_tor-II-Full-Time-United-States"
     },
     {
       "title": "Customer Experience Project Specialist I (Full-Time) - United States",
@@ -49,6 +44,6 @@
       "identifier": "Sales Development Representative II (Full Time) Un_al-Demand-Center-United-States"
     }
   ],
-  "job_count_text": "9",
-  "timestamp": "2026-05-22T06:05:12.648005"
+  "job_count_text": "8",
+  "timestamp": "2026-05-22T06:22:12.380702"
 }

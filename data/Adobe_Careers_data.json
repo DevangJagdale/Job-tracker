@@ -1,7 +1,7 @@
 {
   "page_title": "Search results | Find available job openings at Adobe",
   "url": "https://careers.adobe.com/us/en/search-results?qcountry=United%20States%20of%20America",
-  "total_jobs": 5,
+  "total_jobs": 4,
   "jobs": [
     {
       "title": "Applied Scientist",
@@ -9,9 +9,9 @@
       "identifier": "Applied Scientist_/job/R166888/Applied-Scientist"
     },
     {
-      "title": "Applied Scientist - Multimodal",
-      "url": "https://careers.adobe.com/us/en/job/R166734/Applied-Scientist-Multimodal",
-      "identifier": "Applied Scientist - Multimodal_4/Applied-Scientist-Multimodal"
+      "title": "Applied Scientist 3",
+      "url": "https://careers.adobe.com/us/en/job/R166095/Applied-Scientist-3",
+      "identifier": "Applied Scientist 3_ob/R166095/Applied-Scientist-3"
     },
     {
       "title": "2026 University Graduate - Machine Learning Engineer",
@@ -22,13 +22,8 @@
       "title": "Software Development Engineer",
       "url": "https://careers.adobe.com/us/en/job/R161750/Software-Development-Engineer",
       "identifier": "Software Development Engineer_/Software-Development-Engineer"
-    },
-    {
-      "title": "Applied Scientist 3",
-      "url": "https://careers.adobe.com/us/en/job/R166095/Applied-Scientist-3",
-      "identifier": "Applied Scientist 3_ob/R166095/Applied-Scientist-3"
     }
   ],
-  "job_count_text": "5",
-  "timestamp": "2026-05-22T23:06:34.420181"
+  "job_count_text": "4",
+  "timestamp": "2026-05-22T23:23:45.309016"
 }

@@ -4,6 +4,11 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Software Engineer, Core Services - Apple Services Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200664855-3337/software-engineer-core-services-apple-services-engineering?team=SFTWR",
+      "identifier": "Software Engineer, Core Services - Apple Services _ervices-engineering?team=SFTWR"
+    },
+    {
       "title": "Software Engineer, Infrastructure Services",
       "url": "https://jobs.apple.com/en-us/details/200648325-0157/software-engineer-infrastructure-services?team=SFTWR",
       "identifier": "Software Engineer, Infrastructure Services_astructure-services?team=SFTWR"
@@ -77,13 +82,8 @@
       "title": "Software Engineer, Big Data - Apple Services Engineering",
       "url": "https://jobs.apple.com/en-us/details/200664567-3337/software-engineer-big-data-apple-services-engineering?team=SFTWR",
       "identifier": "Software Engineer, Big Data - Apple Services Engin_ervices-engineering?team=SFTWR"
-    },
-    {
-      "title": "International Engineering Lead - Intelligence Features",
-      "url": "https://jobs.apple.com/en-us/details/200659194-0836/international-engineering-lead-intelligence-features?team=SFTWR",
-      "identifier": "International Engineering Lead - Intelligence Feat_telligence-features?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-22T23:02:24.338643"
+  "timestamp": "2026-05-22T23:19:35.447739"
 }

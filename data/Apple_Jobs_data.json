@@ -4,6 +4,16 @@
   "total_jobs": 19,
   "jobs": [
     {
+      "title": "Staff AI Software Engineer, Siri User Experiences",
+      "url": "https://jobs.apple.com/en-us/details/200664946-0836/staff-ai-software-engineer-siri-user-experiences?team=SFTWR",
+      "identifier": "Staff AI Software Engineer, Siri User Experiences_ri-user-experiences?team=SFTWR"
+    },
+    {
+      "title": "Internationalization Engineering Manager - Intelligence Features",
+      "url": "https://jobs.apple.com/en-us/details/200664938-0836/internationalization-engineering-manager-intelligence-features?team=SFTWR",
+      "identifier": "Internationalization Engineering Manager - Intelli_telligence-features?team=SFTWR"
+    },
+    {
       "title": "Perception Systems Software Engineer, Audio & Media Technologies",
       "url": "https://jobs.apple.com/en-us/details/200664926-3543/perception-systems-software-engineer-audio-media-technologies?team=SFTWR",
       "identifier": "Perception Systems Software Engineer, Audio & Medi_-media-technologies?team=SFTWR"
@@ -22,11 +32,6 @@
       "title": "Lead, Strategic Planning & Finance Operations, Apple Services Engineering",
       "url": "https://jobs.apple.com/en-us/details/200664536-0836/lead-strategic-planning-finance-operations-apple-services-engineering?team=SFTWR",
       "identifier": "Lead, Strategic Planning & Finance Operations, App_ervices-engineering?team=SFTWR"
-    },
-    {
-      "title": "Internationalization Engineering Manager - Intelligence Features, Localization & Release Engineering",
-      "url": "https://jobs.apple.com/en-us/details/200664938-0836/internationalization-engineering-manager-intelligence-features-localization-release-engineering?team=SFTWR",
-      "identifier": "Internationalization Engineering Manager - Intelli_release-engineering?team=SFTWR"
     },
     {
       "title": "Machine Learning Engineer",
@@ -92,13 +97,8 @@
       "title": "Business Development & Partnership Manager (Merchant)",
       "url": "https://jobs.apple.com/en-us/details/200664793-0836/business-development-partnership-manager-merchant?team=SFTWR",
       "identifier": "Business Development & Partnership Manager (Mercha_ip-manager-merchant?team=SFTWR"
-    },
-    {
-      "title": "Voice Platform Software Engineer, Customer Systems",
-      "url": "https://jobs.apple.com/en-us/details/200663115-0157/voice-platform-software-engineer-customer-systems?team=SFTWR",
-      "identifier": "Voice Platform Software Engineer, Customer Systems_er-customer-systems?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-22T19:53:48.948175"
+  "timestamp": "2026-05-22T20:10:57.096515"
 }

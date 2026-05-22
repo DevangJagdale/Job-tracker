@@ -4,6 +4,21 @@
   "total_jobs": 19,
   "jobs": [
     {
+      "title": "Sr Software Engineer - Customer Systems, Information Systems & Technology (IS&T)",
+      "url": "https://jobs.apple.com/en-us/details/200663132-0157/sr-software-engineer-customer-systems-information-systems-technology-is-t?team=SFTWR",
+      "identifier": "Sr Software Engineer - Customer Systems, Informati_ems-technology-is-t?team=SFTWR"
+    },
+    {
+      "title": "Lead, Strategic Planning & Finance Operations, Apple Services Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200664536-0836/lead-strategic-planning-finance-operations-apple-services-engineering?team=SFTWR",
+      "identifier": "Lead, Strategic Planning & Finance Operations, App_ervices-engineering?team=SFTWR"
+    },
+    {
+      "title": "Internationalization Engineering Manager - Intelligence Features, Localization & Release Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200664938-0836/internationalization-engineering-manager-intelligence-features-localization-release-engineering?team=SFTWR",
+      "identifier": "Internationalization Engineering Manager - Intelli_release-engineering?team=SFTWR"
+    },
+    {
       "title": "Machine Learning Engineer",
       "url": "https://jobs.apple.com/en-us/details/200641514-0836/machine-learning-engineer?team=OPMFG",
       "identifier": "Machine Learning Engineer_e-learning-engineer?team=OPMFG"
@@ -82,23 +97,8 @@
       "title": "Senior Software Development Engineer - Data",
       "url": "https://jobs.apple.com/en-us/details/200663993-0836/senior-software-development-engineer-data?team=SFTWR",
       "identifier": "Senior Software Development Engineer - Data_pment-engineer-data?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer, Apps",
-      "url": "https://jobs.apple.com/en-us/details/200661273-2926/software-engineer-apps?team=SFTWR",
-      "identifier": "Software Engineer, Apps_tware-engineer-apps?team=SFTWR"
-    },
-    {
-      "title": "Senior iCloud Engineering Program Manager - Identity and Messaging Services",
-      "url": "https://jobs.apple.com/en-us/details/200664777-0836/senior-icloud-engineering-program-manager-identity-and-messaging-services?team=SFTWR",
-      "identifier": "Senior iCloud Engineering Program Manager - Identi_-messaging-services?team=SFTWR"
-    },
-    {
-      "title": "Computer Vision and Machine Learning Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200664595-3956/computer-vision-and-machine-learning-engineer?team=HRDWR",
-      "identifier": "Computer Vision and Machine Learning Engineer_e-learning-engineer?team=HRDWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-22T19:19:31.457935"
+  "timestamp": "2026-05-22T19:36:40.508062"
 }

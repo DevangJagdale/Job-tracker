@@ -4,6 +4,11 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Sr. Software Engineer - Data, Siri Speech",
+      "url": "https://jobs.apple.com/en-us/details/200651524-0836/sr-software-engineer-data-siri-speech?team=SFTWR",
+      "identifier": "Sr. Software Engineer - Data, Siri Speech_er-data-siri-speech?team=SFTWR"
+    },
+    {
       "title": "Software Engineer, Core Services - Apple Services Engineering",
       "url": "https://jobs.apple.com/en-us/details/200664855-3337/software-engineer-core-services-apple-services-engineering?team=SFTWR",
       "identifier": "Software Engineer, Core Services - Apple Services _ervices-engineering?team=SFTWR"
@@ -77,13 +82,8 @@
       "title": "Machine Learning Engineer \u2014 Generative Models, Productivity Apps",
       "url": "https://jobs.apple.com/en-us/details/200662933-0836/machine-learning-engineer-generative-models-productivity-apps?team=SFTWR",
       "identifier": "Machine Learning Engineer \u2014 Generative Models, Pro_s-productivity-apps?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer, Big Data - Apple Services Engineering",
-      "url": "https://jobs.apple.com/en-us/details/200664567-3337/software-engineer-big-data-apple-services-engineering?team=SFTWR",
-      "identifier": "Software Engineer, Big Data - Apple Services Engin_ervices-engineering?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-22T23:19:35.447739"
+  "timestamp": "2026-05-22T23:36:43.317296"
 }

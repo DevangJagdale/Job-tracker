@@ -4,6 +4,11 @@
   "total_jobs": 18,
   "jobs": [
     {
+      "title": "Machine Learning Engineer \u2014 Generative Models, Productivity Apps",
+      "url": "https://jobs.apple.com/en-us/details/200662933-0836/machine-learning-engineer-generative-models-productivity-apps?team=SFTWR",
+      "identifier": "Machine Learning Engineer \u2014 Generative Models, Pro_s-productivity-apps?team=SFTWR"
+    },
+    {
       "title": "Software Engineer, Big Data - Apple Services Engineering",
       "url": "https://jobs.apple.com/en-us/details/200664567-3337/software-engineer-big-data-apple-services-engineering?team=SFTWR",
       "identifier": "Software Engineer, Big Data - Apple Services Engin_ervices-engineering?team=SFTWR"
@@ -87,13 +92,8 @@
       "title": "Engineering Manager, Data Protection - FoundationDB",
       "url": "https://jobs.apple.com/en-us/details/200661187-0836/engineering-manager-data-protection-foundationdb?team=SFTWR",
       "identifier": "Engineering Manager, Data Protection - FoundationD_ection-foundationdb?team=SFTWR"
-    },
-    {
-      "title": "Lead Forward Deployed Engineer, AI Evaluation Platform",
-      "url": "https://jobs.apple.com/en-us/details/200664455-3337/lead-forward-deployed-engineer-ai-evaluation-platform?team=SFTWR",
-      "identifier": "Lead Forward Deployed Engineer, AI Evaluation Plat_evaluation-platform?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-22T05:46:26.344082"
+  "timestamp": "2026-05-22T06:03:28.400911"
 }

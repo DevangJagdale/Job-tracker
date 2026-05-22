@@ -4,17 +4,32 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Principal Software Engineering\nUnited States, Multiple Locations, Multiple Locations + 5 more\nPosted 7 minutes ago",
+      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 8 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556620506?domain=microsoft.com",
+      "identifier": "Senior Software Engineer\nUnited States, Washington_556620506?domain=microsoft.com"
+    },
+    {
+      "title": "Principal Data Scientist\nUnited States, Multiple Locations, Multiple Locations + 4 more\nPosted 14 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556868948?domain=microsoft.com",
+      "identifier": "Principal Data Scientist\nUnited States, Multiple L_556868948?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Software Engineer\nUnited States, Texas, Houston\nPosted 22 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556868947?domain=microsoft.com",
+      "identifier": "Senior Software Engineer\nUnited States, Texas, Hou_556868947?domain=microsoft.com"
+    },
+    {
+      "title": "Principal Software Engineering\nUnited States, Multiple Locations, Multiple Locations + 5 more\nPosted 24 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556868945?domain=microsoft.com",
       "identifier": "Principal Software Engineering\nUnited States, Mult_556868945?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer\nUnited States, Texas, Houston\nPosted 11 minutes ago",
+      "title": "Senior Software Engineer\nUnited States, Texas, Houston\nPosted 28 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556868950?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Texas, Hou_556868950?domain=microsoft.com"
     },
     {
-      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 43 minutes ago",
+      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556861512?domain=microsoft.com",
       "identifier": "Software Engineer II\nUnited States, Washington, Re_556861512?domain=microsoft.com"
     },
@@ -37,23 +52,8 @@
       "title": "Principal Applied Scientist\nUnited States, Washington, Redmond + 1 more\nPosted 3 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556638572?domain=microsoft.com",
       "identifier": "Principal Applied Scientist\nUnited States, Washing_556638572?domain=microsoft.com"
-    },
-    {
-      "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted 5 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556868041?domain=microsoft.com",
-      "identifier": "Principal Software Engineer\nUnited States, Washing_556868041?domain=microsoft.com"
-    },
-    {
-      "title": "Principal Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 6 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556851517?domain=microsoft.com",
-      "identifier": "Principal Software Engineer\nUnited States, Multipl_556851517?domain=microsoft.com"
-    },
-    {
-      "title": "Principal Software Engineering Manager - Substrate Efficiency\nUnited States, Washington, Redmond\nPosted 20 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556867651?domain=microsoft.com",
-      "identifier": "Principal Software Engineering Manager - Substrate_556867651?domain=microsoft.com"
     }
   ],
-  "job_count_text": "454",
-  "timestamp": "2026-05-22T18:44:56.108141"
+  "job_count_text": "456",
+  "timestamp": "2026-05-22T19:02:05.842355"
 }

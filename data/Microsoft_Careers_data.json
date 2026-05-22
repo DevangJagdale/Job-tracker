@@ -4,6 +4,11 @@
   "total_jobs": 9,
   "jobs": [
     {
+      "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted 8 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556868041?domain=microsoft.com",
+      "identifier": "Principal Software Engineer\nUnited States, Washing_556868041?domain=microsoft.com"
+    },
+    {
       "title": "Principal Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556851517?domain=microsoft.com",
       "identifier": "Principal Software Engineer\nUnited States, Multipl_556851517?domain=microsoft.com"
@@ -29,12 +34,12 @@
       "identifier": "Principal Data Scientist\nUnited States, Washington_556868711?domain=microsoft.com"
     },
     {
-      "title": "Senior Machine Learning Engineer\nUnited States, California, Mountain View + 2 more\nPosted 16 hours ago",
+      "title": "Senior Machine Learning Engineer\nUnited States, California, Mountain View + 2 more\nPosted 17 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556862590?domain=microsoft.com",
       "identifier": "Senior Machine Learning Engineer\nUnited States, Ca_556862590?domain=microsoft.com"
     },
     {
-      "title": "Principal Applied Scientist (CoreAI)\nUnited States, Washington, Redmond\nPosted 17 hours ago",
+      "title": "Principal Applied Scientist (CoreAI)\nUnited States, Washington, Redmond\nPosted 18 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556836404?domain=microsoft.com",
       "identifier": "Principal Applied Scientist (CoreAI)\nUnited States_556836404?domain=microsoft.com"
     },
@@ -42,13 +47,8 @@
       "title": "Senior Applied Scientist\nUnited States, Washington, Redmond\nPosted 20 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556851873?domain=microsoft.com",
       "identifier": "Senior Applied Scientist\nUnited States, Washington_556851873?domain=microsoft.com"
-    },
-    {
-      "title": "Senior or Principal Build Engineer- AI Frameworks\nUnited States, Multiple Locations, Multiple Locations\nPosted 21 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556868016?domain=microsoft.com",
-      "identifier": "Senior or Principal Build Engineer- AI Frameworks\n_556868016?domain=microsoft.com"
     }
   ],
-  "job_count_text": "447",
-  "timestamp": "2026-05-22T14:02:08.211819"
+  "job_count_text": "448",
+  "timestamp": "2026-05-22T14:19:19.047375"
 }

@@ -4,6 +4,11 @@
   "total_jobs": 18,
   "jobs": [
     {
+      "title": "International Engineering Lead - Intelligence Features",
+      "url": "https://jobs.apple.com/en-us/details/200659194-0836/international-engineering-lead-intelligence-features?team=SFTWR",
+      "identifier": "International Engineering Lead - Intelligence Feat_telligence-features?team=SFTWR"
+    },
+    {
       "title": "Principal Product Manager - Claris",
       "url": "https://jobs.apple.com/en-us/details/200643356-3956/principal-product-manager-claris?team=SFTWR",
       "identifier": "Principal Product Manager - Claris_duct-manager-claris?team=SFTWR"
@@ -87,13 +92,8 @@
       "title": "Senior Engineering Manager, Apple Data Platform",
       "url": "https://jobs.apple.com/en-us/details/200664513-3337/senior-engineering-manager-apple-data-platform?team=SFTWR",
       "identifier": "Senior Engineering Manager, Apple Data Platform_apple-data-platform?team=SFTWR"
-    },
-    {
-      "title": "AIML Privacy & Data Governance Eng Lead, Evaluation",
-      "url": "https://jobs.apple.com/en-us/details/200664385-0836/aiml-privacy-data-governance-eng-lead-evaluation?team=SFTWR",
-      "identifier": "AIML Privacy & Data Governance Eng Lead, Evaluatio_eng-lead-evaluation?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-22T01:06:24.360437"
+  "timestamp": "2026-05-22T01:23:30.406322"
 }

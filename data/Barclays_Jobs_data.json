@@ -1,8 +1,18 @@
 {
   "page_title": "Search our Job Opportunities at Barclays",
   "url": "https://search.jobs.barclays/search-jobs/United%20States/13015/2/6252001/39x76/-98x5/50/2",
-  "total_jobs": 16,
+  "total_jobs": 11,
   "jobs": [
+    {
+      "title": "Equities Derivatives Strat, VP",
+      "url": "https://search.jobs.barclays/job/new-york/equities-derivatives-strat-vp/13015/95424170528",
+      "identifier": "Equities Derivatives Strat, VP_ves-strat-vp/13015/95424170528"
+    },
+    {
+      "title": "Model Risk Management - Model Validation VP",
+      "url": "https://search.jobs.barclays/job/wilmington/model-risk-management-model-validation-vp/13015/95424141376",
+      "identifier": "Model Risk Management - Model Validation VP_alidation-vp/13015/95424141376"
+    },
     {
       "title": "Security Engineer",
       "url": "https://search.jobs.barclays/job/whippany/security-engineer/13015/95396055088",
@@ -47,43 +57,8 @@
       "title": "Vice President - Americas Loans, Leveraged Finance & ICB Legal",
       "url": "https://search.jobs.barclays/job/new-york/vice-president-americas-loans-leveraged-finance-and-icb-legal/13015/95257282496",
       "identifier": "Vice President - Americas Loans, Leveraged Finance_nd-icb-legal/13015/95257282496"
-    },
-    {
-      "title": "Post Trade Applications Production Engineer",
-      "url": "https://search.jobs.barclays/job/whippany/post-trade-applications-production-engineer/13015/95147278192",
-      "identifier": "Post Trade Applications Production Engineer_ion-engineer/13015/95147278192"
-    },
-    {
-      "title": "ICB Insurance Coverage AVP",
-      "url": "https://search.jobs.barclays/job/new-york/icb-insurance-coverage-avp/13015/95132408544",
-      "identifier": "ICB Insurance Coverage AVP_coverage-avp/13015/95132408544"
-    },
-    {
-      "title": "Sr. Broadridge Settlements Specialist, AVP",
-      "url": "https://search.jobs.barclays/job/whippany/sr-broadridge-settlements-specialist-avp/13015/95104606608",
-      "identifier": "Sr. Broadridge Settlements Specialist, AVP_ecialist-avp/13015/95104606608"
-    },
-    {
-      "title": "Joint Operations Centre Specialist - AVP",
-      "url": "https://search.jobs.barclays/job/whippany/joint-operations-centre-specialist-avp/13015/95104606560",
-      "identifier": "Joint Operations Centre Specialist - AVP_ecialist-avp/13015/95104606560"
-    },
-    {
-      "title": "Software Engineer",
-      "url": "https://search.jobs.barclays/job/whippany/software-engineer/13015/95104606528",
-      "identifier": "Software Engineer_are-engineer/13015/95104606528"
-    },
-    {
-      "title": "Sr Application Developer",
-      "url": "https://search.jobs.barclays/job/whippany/sr-application-developer/13015/95104606448",
-      "identifier": "Sr Application Developer_on-developer/13015/95104606448"
-    },
-    {
-      "title": "Unix System Administrator, AVP",
-      "url": "https://search.jobs.barclays/job/whippany/unix-system-administrator-avp/13015/95104606400",
-      "identifier": "Unix System Administrator, AVP_istrator-avp/13015/95104606400"
     }
   ],
-  "job_count_text": "124",
-  "timestamp": "2026-05-22T17:27:55.272026"
+  "job_count_text": "132",
+  "timestamp": "2026-05-22T17:45:02.820338"
 }

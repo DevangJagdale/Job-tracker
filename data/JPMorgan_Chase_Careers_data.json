@@ -19,11 +19,6 @@
       "identifier": "jpmc_210696244"
     },
     {
-      "title": "Lead Software Engineer Full Stack - Java / React",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210701728/?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
-      "identifier": "jpmc_210701728"
-    },
-    {
       "title": "Lead Software Engineer - Markets, Java, AWS, SpringBoot, Terraform",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210745416/?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
       "identifier": "jpmc_210745416"
@@ -127,8 +122,13 @@
       "title": "Lead Software Engineer - Java, Distributed Systems, AI/ML",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210747375/?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
       "identifier": "jpmc_210747375"
+    },
+    {
+      "title": "FIX Onboarding Specialist - Sr Lead Software Engineer",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210749192/?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
+      "identifier": "jpmc_210749192"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-22T15:13:26.755578"
+  "timestamp": "2026-05-22T15:30:33.956534"
 }

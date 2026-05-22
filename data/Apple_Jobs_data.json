@@ -9,11 +9,6 @@
       "identifier": "Software Engineer, Infrastructure Services_astructure-services?team=SFTWR"
     },
     {
-      "title": "DevOps Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200642859-0836/devops-engineer?team=SFTWR",
-      "identifier": "DevOps Engineer_836/devops-engineer?team=SFTWR"
-    },
-    {
       "title": "Program Manager, IT SOX Compliance \u2013 Apple Ads",
       "url": "https://jobs.apple.com/en-us/details/200664954-0157/program-manager-it-sox-compliance-apple-ads?team=SFTWR",
       "identifier": "Program Manager, IT SOX Compliance \u2013 Apple Ads_ompliance-apple-ads?team=SFTWR"
@@ -82,8 +77,13 @@
       "title": "Software Engineer, Big Data - Apple Services Engineering",
       "url": "https://jobs.apple.com/en-us/details/200664567-3337/software-engineer-big-data-apple-services-engineering?team=SFTWR",
       "identifier": "Software Engineer, Big Data - Apple Services Engin_ervices-engineering?team=SFTWR"
+    },
+    {
+      "title": "International Engineering Lead - Intelligence Features",
+      "url": "https://jobs.apple.com/en-us/details/200659194-0836/international-engineering-lead-intelligence-features?team=SFTWR",
+      "identifier": "International Engineering Lead - Intelligence Feat_telligence-features?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-22T22:45:16.824283"
+  "timestamp": "2026-05-22T23:02:24.338643"
 }

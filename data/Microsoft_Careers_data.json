@@ -4,12 +4,22 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Senior/Principal Software Engineer\nUnited States, Washington, Redmond\nPosted 19 minutes ago",
+      "title": "Senior Software Engineering-CoreAI\nUnited States, Washington, Redmond + 1 more\nPosted 15 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556858430?domain=microsoft.com",
+      "identifier": "Senior Software Engineering-CoreAI\nUnited States, _556858430?domain=microsoft.com"
+    },
+    {
+      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 18 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556761675?domain=microsoft.com",
+      "identifier": "Software Engineer II\nUnited States, Washington, Re_556761675?domain=microsoft.com"
+    },
+    {
+      "title": "Senior/Principal Software Engineer\nUnited States, Washington, Redmond\nPosted 36 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556868903?domain=microsoft.com",
       "identifier": "Senior/Principal Software Engineer\nUnited States, _556868903?domain=microsoft.com"
     },
     {
-      "title": "Principal Applied Scientist\nUnited States, Washington, Redmond + 1 more\nPosted 21 minutes ago",
+      "title": "Principal Applied Scientist\nUnited States, Washington, Redmond + 1 more\nPosted 38 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556638572?domain=microsoft.com",
       "identifier": "Principal Applied Scientist\nUnited States, Washing_556638572?domain=microsoft.com"
     },
@@ -42,18 +52,8 @@
       "title": "Principal Data Scientist\nUnited States, Washington, Redmond\nPosted 18 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556868711?domain=microsoft.com",
       "identifier": "Principal Data Scientist\nUnited States, Washington_556868711?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Machine Learning Engineer\nUnited States, California, Mountain View + 2 more\nPosted 18 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556862590?domain=microsoft.com",
-      "identifier": "Senior Machine Learning Engineer\nUnited States, Ca_556862590?domain=microsoft.com"
-    },
-    {
-      "title": "Principal Applied Scientist (CoreAI)\nUnited States, Washington, Redmond\nPosted 19 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556836404?domain=microsoft.com",
-      "identifier": "Principal Applied Scientist (CoreAI)\nUnited States_556836404?domain=microsoft.com"
     }
   ],
-  "job_count_text": "450",
-  "timestamp": "2026-05-22T16:02:31.291547"
+  "job_count_text": "452",
+  "timestamp": "2026-05-22T16:19:38.937513"
 }

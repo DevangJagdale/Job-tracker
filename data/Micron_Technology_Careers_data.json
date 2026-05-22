@@ -4,14 +4,14 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Product Yield & Analytics ESDA Engineer\nBoise, Idaho, United States of America\nPosted 3 days ago",
-      "url": "https://careers.micron.com/careers/job/40795739",
-      "identifier": "Product Yield & Analytics ESDA Engineer\nBoise, Ida_icron.com/careers/job/40795739"
-    },
-    {
       "title": "FE Automotive Product Quality Engineer\nManassas, Virginia, United States of America\nPosted 3 days ago",
       "url": "https://careers.micron.com/careers/job/42003176",
       "identifier": "FE Automotive Product Quality Engineer\nManassas, V_icron.com/careers/job/42003176"
+    },
+    {
+      "title": "Product Yield & Analytics ESDA Engineer\nBoise, Idaho, United States of America\nPosted 3 days ago",
+      "url": "https://careers.micron.com/careers/job/40795739",
+      "identifier": "Product Yield & Analytics ESDA Engineer\nBoise, Ida_icron.com/careers/job/40795739"
     },
     {
       "title": "Engineer/Sr. Engineer, Central PIE Yield Enhancement\nBoise, Idaho, United States of America\nPosted 4 days ago",
@@ -39,14 +39,14 @@
       "identifier": "New College Grad - Process Integration Engineer\nBo_icron.com/careers/job/40475196"
     },
     {
-      "title": "New College Grad - Supply Management Analyst\nManassas, Virginia, United States of America\nPosted 4 days ago",
-      "url": "https://careers.micron.com/careers/job/41979554",
-      "identifier": "New College Grad - Supply Management Analyst\nManas_icron.com/careers/job/41979554"
-    },
-    {
       "title": "Quality Engineer\nLongmont, Colorado, United States of America\nPosted 4 days ago",
       "url": "https://careers.micron.com/careers/job/41978275",
       "identifier": "Quality Engineer\nLongmont, Colorado, United States_icron.com/careers/job/41978275"
+    },
+    {
+      "title": "New College Grad - Supply Management Analyst\nManassas, Virginia, United States of America\nPosted 4 days ago",
+      "url": "https://careers.micron.com/careers/job/41979554",
+      "identifier": "New College Grad - Supply Management Analyst\nManas_icron.com/careers/job/41979554"
     },
     {
       "title": "Signal and Power Integrity Lab Engineer\nBoise, Idaho, United States of America\nPosted 5 days ago",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "95",
-  "timestamp": "2026-05-22T16:05:56.214147"
+  "timestamp": "2026-05-22T16:23:07.007159"
 }

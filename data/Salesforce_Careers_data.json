@@ -1,104 +1,19 @@
 {
   "page_title": "Salesforce Jobs | Salesforce Careers",
   "url": "https://careers.salesforce.com/en/jobs/?search=&country=United+States+of+America&team=Data&team=Enterprise+Technology+%26+Infrastructure&team=Software+Engineering&jobtype=New+Grads&pagesize=20#results",
-  "total_jobs": 19,
+  "total_jobs": 2,
   "jobs": [
     {
-      "title": "Success Architect - Tableau",
-      "url": "https://careers.salesforce.com/en/jobs/jr339531/success-architect-tableau/",
-      "identifier": "Success Architect - Tableau_531/success-architect-tableau/"
+      "title": "DevOps Engineering AMTS",
+      "url": "https://careers.salesforce.com/en/jobs/jr343354/devops-engineering-amts/",
+      "identifier": "DevOps Engineering AMTS_43354/devops-engineering-amts/"
     },
     {
-      "title": "Specialist Solution Engineer - Tableau",
-      "url": "https://careers.salesforce.com/en/jobs/jr327399/specialist-solution-engineer-tableau/",
-      "identifier": "Specialist Solution Engineer - Tableau_ist-solution-engineer-tableau/"
-    },
-    {
-      "title": "Regional Sales Director - Tableau & Analytics",
-      "url": "https://careers.salesforce.com/en/jobs/jr338345/regional-sales-director-tableau-analytics/",
-      "identifier": "Regional Sales Director - Tableau & Analytics_es-director-tableau-analytics/"
-    },
-    {
-      "title": "Customer Success Manager - Tableau",
-      "url": "https://careers.salesforce.com/en/jobs/jr333847/customer-success-manager-tableau/",
-      "identifier": "Customer Success Manager - Tableau_tomer-success-manager-tableau/"
-    },
-    {
-      "title": "Regional Sales Director - Tableau, Indonesia",
-      "url": "https://careers.salesforce.com/en/jobs/jr332589/regional-sales-director-tableau-indonesia/",
-      "identifier": "Regional Sales Director - Tableau, Indonesia_es-director-tableau-indonesia/"
-    },
-    {
-      "title": "Tableau Technical Architect (TS/SCI clearance)",
-      "url": "https://careers.salesforce.com/en/jobs/jr333434/tableau-technical-architect-tssci-clearance/",
-      "identifier": "Tableau Technical Architect (TS/SCI clearance)_cal-architect-tssci-clearance/"
-    },
-    {
-      "title": "Account Executive, Tableau (Service Industry)",
-      "url": "https://careers.salesforce.com/en/jobs/jr328596/account-executive-tableau-service-industry/",
-      "identifier": "Account Executive, Tableau (Service Industry)_tive-tableau-service-industry/"
-    },
-    {
-      "title": "Tableau Account Executive - Public Sector",
-      "url": "https://careers.salesforce.com/en/jobs/jr341071/tableau-account-executive-public-sector/",
-      "identifier": "Tableau Account Executive - Public Sector_count-executive-public-sector/"
-    },
-    {
-      "title": "Prime Territory Account Executive - Tableau (Enterprise market)",
-      "url": "https://careers.salesforce.com/en/jobs/jr326218/prime-territory-account-executive-tableau-enterprise-market/",
-      "identifier": "Prime Territory Account Executive - Tableau (Enter_ive-tableau-enterprise-market/"
-    },
-    {
-      "title": "Regional Sales Director - Tableau, Philippines & Vietnam",
-      "url": "https://careers.salesforce.com/en/jobs/jr332370/regional-sales-director-tableau-philippines-vietnam/",
-      "identifier": "Regional Sales Director - Tableau, Philippines & V_r-tableau-philippines-vietnam/"
-    },
-    {
-      "title": "Tableau Account Executive | Federal Defence and Security",
-      "url": "https://careers.salesforce.com/en/jobs/jr336686/tableau-account-executive-federal-defence-and-security/",
-      "identifier": "Tableau Account Executive | Federal Defence and Se_-federal-defence-and-security/"
-    },
-    {
-      "title": "Tableau Account Executive Account Executive | Government & Education",
-      "url": "https://careers.salesforce.com/en/jobs/jr338024/tableau-account-executive-account-executive-government-education/",
-      "identifier": "Tableau Account Executive Account Executive | Gove_xecutive-government-education/"
-    },
-    {
-      "title": "Prime Territory Account Executive - Tableau, Commercial",
-      "url": "https://careers.salesforce.com/en/jobs/jr326219/prime-territory-account-executive-tableau-commercial/",
-      "identifier": "Prime Territory Account Executive - Tableau, Comme_-executive-tableau-commercial/"
-    },
-    {
-      "title": "Senior Account Executive, Tableau, Aerospace/Federal Systems Integrators",
-      "url": "https://careers.salesforce.com/en/jobs/jr333394/senior-account-executive-tableau-aerospacefederal-systems-integrators/",
-      "identifier": "Senior Account Executive, Tableau, Aerospace/Feder_cefederal-systems-integrators/"
-    },
-    {
-      "title": "Named Account Executive - Healthcare/Real Estate/Edtech - Tableau",
-      "url": "https://careers.salesforce.com/en/jobs/jr334864/named-account-executive-healthcarereal-estateedtech-tableau/",
-      "identifier": "Named Account Executive - Healthcare/Real Estate/E_carereal-estateedtech-tableau/"
-    },
-    {
-      "title": "Cloud Account Executive, Mid-Market Non-Profit: Tableau",
-      "url": "https://careers.salesforce.com/en/jobs/jr340423/cloud-account-executive-mid-market-non-profit-tableau/",
-      "identifier": "Cloud Account Executive, Mid-Market Non-Profit: Ta_mid-market-non-profit-tableau/"
-    },
-    {
-      "title": "Commercial/Enterprise Account Executive -Tableau - Consumer Business Services",
-      "url": "https://careers.salesforce.com/en/jobs/jr329820/commercialenterprise-account-executive-tableau-consumer-business-services/",
-      "identifier": "Commercial/Enterprise Account Executive -Tableau -_au-consumer-business-services/"
-    },
-    {
-      "title": "Account Executive, Tableau (MidMarket, Commercial Sales, \u5730\u65b9\u30a8\u30ea\u30a2\u62c5\u5f53)",
-      "url": "https://careers.salesforce.com/en/jobs/jr325084/account-executive-tableau-midmarket-commercial-sales-%E5%9C%B0%E6%96%B9%E3%82%A8%E3%83%AA%E3%82%A2%E6%8B%85%E5%BD%93/",
-      "identifier": "Account Executive, Tableau (MidMarket, Commercial _AA%E3%82%A2%E6%8B%85%E5%BD%93/"
-    },
-    {
-      "title": "Specialist Solution Engineer",
-      "url": "https://careers.salesforce.com/en/jobs/jr343253/specialist-solution-engineer/",
-      "identifier": "Specialist Solution Engineer_/specialist-solution-engineer/"
+      "title": "AI Builder, Emerging Talent",
+      "url": "https://careers.salesforce.com/en/jobs/jr341276/ai-builder-emerging-talent/",
+      "identifier": "AI Builder, Emerging Talent_76/ai-builder-emerging-talent/"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-22T16:06:11.753305"
+  "timestamp": "2026-05-22T16:23:21.909030"
 }

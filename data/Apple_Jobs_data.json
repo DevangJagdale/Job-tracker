@@ -4,6 +4,11 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Principal Audio Engineer, Production Studio, Siri Speech",
+      "url": "https://jobs.apple.com/en-us/details/200664991-1756/principal-audio-engineer-production-studio-siri-speech?team=SFTWR",
+      "identifier": "Principal Audio Engineer, Production Studio, Siri _-studio-siri-speech?team=SFTWR"
+    },
+    {
       "title": "Sr. Software Engineer - Data, Siri Speech",
       "url": "https://jobs.apple.com/en-us/details/200651524-0836/sr-software-engineer-data-siri-speech?team=SFTWR",
       "identifier": "Sr. Software Engineer - Data, Siri Speech_er-data-siri-speech?team=SFTWR"
@@ -77,13 +82,8 @@
       "title": "Machine Learning Engineer, Video Engineering",
       "url": "https://jobs.apple.com/en-us/details/200664594-3956/machine-learning-engineer-video-engineering?team=HRDWR",
       "identifier": "Machine Learning Engineer, Video Engineering_r-video-engineering?team=HRDWR"
-    },
-    {
-      "title": "Machine Learning Engineer \u2014 Generative Models, Productivity Apps",
-      "url": "https://jobs.apple.com/en-us/details/200662933-0836/machine-learning-engineer-generative-models-productivity-apps?team=SFTWR",
-      "identifier": "Machine Learning Engineer \u2014 Generative Models, Pro_s-productivity-apps?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-22T23:44:21.742212"
+  "timestamp": "2026-05-23T00:01:26.737629"
 }

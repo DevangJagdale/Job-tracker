@@ -4,11 +4,6 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "New College Grad - DRAM Product Reliability Characterization Engineer\nBoise, Idaho, United States of America\nPosted 3 days ago",
-      "url": "https://careers.micron.com/careers/job/41806502",
-      "identifier": "New College Grad - DRAM Product Reliability Charac_icron.com/careers/job/41806502"
-    },
-    {
       "title": "Design Verification Engineer\nBoise, Idaho, United States of America\nPosted 3 days ago",
       "url": "https://careers.micron.com/careers/job/41980073",
       "identifier": "Design Verification Engineer\nBoise, Idaho, United _icron.com/careers/job/41980073"
@@ -44,6 +39,11 @@
       "identifier": "DRAM Design Engineer\nBoise, Idaho, United States o_icron.com/careers/job/41980082"
     },
     {
+      "title": "New College Grad - DRAM Product Reliability Characterization Engineer\nBoise, Idaho, United States of America\nPosted 3 days ago",
+      "url": "https://careers.micron.com/careers/job/41806502",
+      "identifier": "New College Grad - DRAM Product Reliability Charac_icron.com/careers/job/41806502"
+    },
+    {
       "title": "FE Automotive Product Quality Engineer\nManassas, Virginia, United States of America\nPosted 5 days ago",
       "url": "https://careers.micron.com/careers/job/42003176",
       "identifier": "FE Automotive Product Quality Engineer\nManassas, V_icron.com/careers/job/42003176"
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "102",
-  "timestamp": "2026-05-24T23:06:07.676679"
+  "timestamp": "2026-05-24T23:23:14.748614"
 }

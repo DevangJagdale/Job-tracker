@@ -19,14 +19,14 @@
       "identifier": "Staff Cybersecurity Analyst, Risk Management_ang=en-us&previousLocale=en-US"
     },
     {
-      "title": "Cybersecurity Application Security Engineer",
-      "url": "https://careers.rivian.com/careers-home/jobs/31067?lang=en-us&previousLocale=en-US",
-      "identifier": "Cybersecurity Application Security Engineer_ang=en-us&previousLocale=en-US"
-    },
-    {
       "title": "Sr. Cybersecurity Engineer",
       "url": "https://careers.rivian.com/careers-home/jobs/28786?lang=en-us&previousLocale=en-US",
       "identifier": "Sr. Cybersecurity Engineer_ang=en-us&previousLocale=en-US"
+    },
+    {
+      "title": "Cybersecurity Application Security Engineer",
+      "url": "https://careers.rivian.com/careers-home/jobs/31067?lang=en-us&previousLocale=en-US",
+      "identifier": "Cybersecurity Application Security Engineer_ang=en-us&previousLocale=en-US"
     },
     {
       "title": "Staff IT Solutions Engineer, Collaboration Platforms",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "45",
-  "timestamp": "2026-05-24T11:13:47.035341"
+  "timestamp": "2026-05-24T11:30:43.916107"
 }

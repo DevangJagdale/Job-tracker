@@ -4,6 +4,11 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Sr. Engineering Program Manager - Customer Systems",
+      "url": "https://jobs.apple.com/en-us/details/200664723-0157/sr-engineering-program-manager-customer-systems?team=SFTWR",
+      "identifier": "Sr. Engineering Program Manager - Customer Systems_er-customer-systems?team=SFTWR"
+    },
+    {
       "title": "Principal Audio Engineer, Production Studio, Siri Speech",
       "url": "https://jobs.apple.com/en-us/details/200664991-1756/principal-audio-engineer-production-studio-siri-speech?team=SFTWR",
       "identifier": "Principal Audio Engineer, Production Studio, Siri _-studio-siri-speech?team=SFTWR"
@@ -77,13 +82,8 @@
       "title": "CVML Engineer - 3D Reconstruction",
       "url": "https://jobs.apple.com/en-us/details/200664328-3956/cvml-engineer-3d-reconstruction?team=MLAI",
       "identifier": "CVML Engineer - 3D Reconstruction_er-3d-reconstruction?team=MLAI"
-    },
-    {
-      "title": "Machine Learning Engineer, Video Engineering",
-      "url": "https://jobs.apple.com/en-us/details/200664594-3956/machine-learning-engineer-video-engineering?team=HRDWR",
-      "identifier": "Machine Learning Engineer, Video Engineering_r-video-engineering?team=HRDWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-24T01:31:19.861641"
+  "timestamp": "2026-05-24T01:48:18.496959"
 }

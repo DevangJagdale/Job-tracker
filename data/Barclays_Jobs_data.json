@@ -1,13 +1,8 @@
 {
   "page_title": "Search our Job Opportunities at Barclays",
   "url": "https://search.jobs.barclays/search-jobs/United%20States/13015/2/6252001/39x76/-98x5/50/2",
-  "total_jobs": 12,
+  "total_jobs": 11,
   "jobs": [
-    {
-      "title": "Product Analyst",
-      "url": "https://search.jobs.barclays/job/whippany/product-analyst/13015/95424182528",
-      "identifier": "Product Analyst_duct-analyst/13015/95424182528"
-    },
     {
       "title": "Data Analyst, AVP",
       "url": "https://search.jobs.barclays/job/whippany/data-analyst-avp/13015/95424182480",
@@ -64,6 +59,6 @@
       "identifier": "Vice President - Americas Loans, Leveraged Finance_nd-icb-legal/13015/95257282496"
     }
   ],
-  "job_count_text": "131",
-  "timestamp": "2026-05-24T11:24:21.527831"
+  "job_count_text": "129",
+  "timestamp": "2026-05-24T11:41:19.223109"
 }

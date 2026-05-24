@@ -4,11 +4,6 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "New College Grad - DRAM Product Reliability Characterization Engineer\nBoise, Idaho, United States of America\nPosted 2 days ago",
-      "url": "https://careers.micron.com/careers/job/41806502",
-      "identifier": "New College Grad - DRAM Product Reliability Charac_icron.com/careers/job/41806502"
-    },
-    {
       "title": "Design Verification Engineer\nBoise, Idaho, United States of America\nPosted 2 days ago",
       "url": "https://careers.micron.com/careers/job/41980073",
       "identifier": "Design Verification Engineer\nBoise, Idaho, United _icron.com/careers/job/41980073"
@@ -44,6 +39,11 @@
       "identifier": "Engineer, RDA DRAM\nBoise, Idaho, United States of _icron.com/careers/job/42043666"
     },
     {
+      "title": "New College Grad - DRAM Product Reliability Characterization Engineer\nBoise, Idaho, United States of America\nPosted 2 days ago",
+      "url": "https://careers.micron.com/careers/job/41806502",
+      "identifier": "New College Grad - DRAM Product Reliability Charac_icron.com/careers/job/41806502"
+    },
+    {
       "title": "Product Yield & Analytics ESDA Engineer\nBoise, Idaho, United States of America\nPosted 4 days ago",
       "url": "https://careers.micron.com/careers/job/40795739",
       "identifier": "Product Yield & Analytics ESDA Engineer\nBoise, Ida_icron.com/careers/job/40795739"
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "102",
-  "timestamp": "2026-05-24T06:47:57.160835"
+  "timestamp": "2026-05-24T07:04:59.722560"
 }

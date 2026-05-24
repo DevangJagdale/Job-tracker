@@ -4,6 +4,11 @@
   "total_jobs": 8,
   "jobs": [
     {
+      "title": "Associate Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0913086/Associate-Software-Development-Engineer",
+      "identifier": "Associate Software Development Engineer_-Software-Development-Engineer"
+    },
+    {
       "title": "Executive Director, Adjudication Software Engineering & Transformation",
       "url": "https://jobs.cvshealth.com/us/en/job/R0889257/Executive-Director-Adjudication-Software-Engineering-Transformation",
       "identifier": "Executive Director, Adjudication Software Engineer_are-Engineering-Transformation"
@@ -37,13 +42,8 @@
       "title": "IT Manager, Release Management",
       "url": "https://jobs.cvshealth.com/us/en/job/R0915610/IT-Manager-Release-Management",
       "identifier": "IT Manager, Release Management_/IT-Manager-Release-Management"
-    },
-    {
-      "title": "Senior Manager - IT Operations (IC)",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0905301/Senior-Manager-IT-Operations-IC",
-      "identifier": "Senior Manager - IT Operations (IC)_enior-Manager-IT-Operations-IC"
     }
   ],
-  "job_count_text": "33",
-  "timestamp": "2026-05-24T22:12:36.426182"
+  "job_count_text": "34",
+  "timestamp": "2026-05-24T22:29:43.320534"
 }

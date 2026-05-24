@@ -14,21 +14,6 @@
       "identifier": "Staff Observability Platform Engineer (SRE)_vability-Platform-Engineer-SRE"
     },
     {
-      "title": "Staff Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0910884/Staff-Software-Development-Engineer",
-      "identifier": "Staff Software Development Engineer_-Software-Development-Engineer"
-    },
-    {
-      "title": "Senior Java Software Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0911884/Senior-Java-Software-Engineer",
-      "identifier": "Senior Java Software Engineer_/Senior-Java-Software-Engineer"
-    },
-    {
-      "title": "Staff Software Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0920505/Staff-Software-Engineer",
-      "identifier": "Staff Software Engineer_920505/Staff-Software-Engineer"
-    },
-    {
       "title": "IT Manager, Release Management",
       "url": "https://jobs.cvshealth.com/us/en/job/R0915610/IT-Manager-Release-Management",
       "identifier": "IT Manager, Release Management_/IT-Manager-Release-Management"
@@ -39,11 +24,26 @@
       "identifier": "Executive Director, Adjudication Software Engineer_are-Engineering-Transformation"
     },
     {
+      "title": "Staff Software Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0920505/Staff-Software-Engineer",
+      "identifier": "Staff Software Engineer_920505/Staff-Software-Engineer"
+    },
+    {
+      "title": "Staff Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0910884/Staff-Software-Development-Engineer",
+      "identifier": "Staff Software Development Engineer_-Software-Development-Engineer"
+    },
+    {
+      "title": "Senior Java Software Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0911884/Senior-Java-Software-Engineer",
+      "identifier": "Senior Java Software Engineer_/Senior-Java-Software-Engineer"
+    },
+    {
       "title": "Head of HR Data Governance - Workday",
       "url": "https://jobs.cvshealth.com/us/en/job/R0918538/Head-of-HR-Data-Governance-Workday",
       "identifier": "Head of HR Data Governance - Workday_-of-HR-Data-Governance-Workday"
     }
   ],
   "job_count_text": "33",
-  "timestamp": "2026-05-24T12:50:34.765136"
+  "timestamp": "2026-05-24T13:07:32.583302"
 }

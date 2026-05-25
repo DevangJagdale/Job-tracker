@@ -1,8 +1,13 @@
 {
   "page_title": "Search our Job Opportunities at Barclays",
   "url": "https://search.jobs.barclays/search-jobs/United%20States/13015/2/6252001/39x76/-98x5/50/2",
-  "total_jobs": 13,
+  "total_jobs": 14,
   "jobs": [
+    {
+      "title": "Vice President, Investment Banking",
+      "url": "https://search.jobs.barclays/job/new-york/vice-president-investment-banking/13015/95424182608",
+      "identifier": "Vice President, Investment Banking_ment-banking/13015/95424182608"
+    },
     {
       "title": "Application Developer AVP",
       "url": "https://search.jobs.barclays/job/new-york/application-developer-avp/13015/95424182544",
@@ -70,5 +75,5 @@
     }
   ],
   "job_count_text": "127",
-  "timestamp": "2026-05-25T08:05:41.339331"
+  "timestamp": "2026-05-25T08:22:46.985366"
 }

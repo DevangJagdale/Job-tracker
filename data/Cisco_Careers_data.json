@@ -4,29 +4,9 @@
   "total_jobs": 9,
   "jobs": [
     {
-      "title": "Software QA Engineer",
-      "url": "https://careers.cisco.com/global/en/job/2014608/Software-QA-Engineer",
-      "identifier": "Software QA Engineer_b/2014608/Software-QA-Engineer"
-    },
-    {
-      "title": "Consulting Engineer",
-      "url": "https://careers.cisco.com/global/en/job/2015808/Consulting-Engineer",
-      "identifier": "Consulting Engineer_ob/2015808/Consulting-Engineer"
-    },
-    {
-      "title": "Consulting Engineer - India Customer Experience/Global CXC",
-      "url": "https://careers.cisco.com/global/en/job/2015680/Consulting-Engineer-India-Customer-Experience-Global-CXC",
-      "identifier": "Consulting Engineer - India Customer Experience/Gl_Customer-Experience-Global-CXC"
-    },
-    {
       "title": "Software Engineer Backend/Platform II (Full Time)- United States ENG/CPO/WTG ETR",
       "url": "https://careers.cisco.com/global/en/job/2011251/Software-Engineer-Backend-Platform-II-Full-Time-United-States-ENG-CPO-WTG-ETR",
       "identifier": "Software Engineer Backend/Platform II (Full Time)-_-United-States-ENG-CPO-WTG-ETR"
-    },
-    {
-      "title": "Consulting Engineer",
-      "url": "https://careers.cisco.com/global/en/job/2015644/Consulting-Engineer",
-      "identifier": "Consulting Engineer_ob/2015644/Consulting-Engineer"
     },
     {
       "title": "Workday Security Administrator II (Full-Time) - United States",
@@ -34,21 +14,41 @@
       "identifier": "Workday Security Administrator II (Full-Time) - Un_tor-II-Full-Time-United-States"
     },
     {
-      "title": "Consulting Engineer",
-      "url": "https://careers.cisco.com/global/en/job/2015682/Consulting-Engineer",
-      "identifier": "Consulting Engineer_ob/2015682/Consulting-Engineer"
+      "title": "Software Development Engineer II (Full Time) \u2013 United States",
+      "url": "https://careers.cisco.com/global/en/job/2014387/Software-Development-Engineer-II-Full-Time-United-States",
+      "identifier": "Software Development Engineer II (Full Time) \u2013 Uni_eer-II-Full-Time-United-States"
     },
     {
-      "title": "Consulting Engineer",
-      "url": "https://careers.cisco.com/global/en/job/2015647/Consulting-Engineer",
-      "identifier": "Consulting Engineer_ob/2015647/Consulting-Engineer"
+      "title": "Customer Experience Project Specialist I (Full-Time) - United States",
+      "url": "https://careers.cisco.com/global/en/job/2001576/Customer-Experience-Project-Specialist-I-Full-Time-United-States",
+      "identifier": "Customer Experience Project Specialist I (Full-Tim_list-I-Full-Time-United-States"
     },
     {
-      "title": "Consulting Engineer - CX- Enterprise",
-      "url": "https://careers.cisco.com/global/en/job/2015675/Consulting-Engineer-CX-Enterprise",
-      "identifier": "Consulting Engineer - CX- Enterprise_sulting-Engineer-CX-Enterprise"
+      "title": "Account Development Representative II (Full Time) United States",
+      "url": "https://careers.cisco.com/global/en/job/2001887/Account-Development-Representative-II-Full-Time-United-States",
+      "identifier": "Account Development Representative II (Full Time) _ive-II-Full-Time-United-States"
+    },
+    {
+      "title": "AI Product Manager II (Full-Time) \u2013 United States",
+      "url": "https://careers.cisco.com/global/en/job/2012163/AI-Product-Manager-II-Full-Time-United-States",
+      "identifier": "AI Product Manager II (Full-Time) \u2013 United States_ger-II-Full-Time-United-States"
+    },
+    {
+      "title": "Sales Development Representative I (Full Time) - United States (Virtual Demand Center)",
+      "url": "https://careers.cisco.com/global/en/job/2005272/Sales-Development-Representative-I-Full-Time-United-States-Virtual-Demand-Center",
+      "identifier": "Sales Development Representative I (Full Time) - U_d-States-Virtual-Demand-Center"
+    },
+    {
+      "title": "Sales Development Representative Outbound Sales II (Full Time) - United States",
+      "url": "https://careers.cisco.com/global/en/job/2003091/Sales-Development-Representative-Outbound-Sales-II-Full-Time-United-States",
+      "identifier": "Sales Development Representative Outbound Sales II_les-II-Full-Time-United-States"
+    },
+    {
+      "title": "Sales Development Representative II (Full Time) United States (Virtual Demand Center) - United States",
+      "url": "https://careers.cisco.com/global/en/job/2008662/Sales-Development-Representative-II-Full-Time-United-States-Virtual-Demand-Center-United-States",
+      "identifier": "Sales Development Representative II (Full Time) Un_al-Demand-Center-United-States"
     }
   ],
-  "job_count_text": "40",
-  "timestamp": "2026-05-25T17:40:55.424430"
+  "job_count_text": "9",
+  "timestamp": "2026-05-25T17:58:03.989528"
 }

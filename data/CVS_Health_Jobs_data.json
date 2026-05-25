@@ -9,24 +9,14 @@
       "identifier": "Executive Director, Adjudication Software Engineer_are-Engineering-Transformation"
     },
     {
-      "title": "IT Manager, Release Management",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0915610/IT-Manager-Release-Management",
-      "identifier": "IT Manager, Release Management_/IT-Manager-Release-Management"
-    },
-    {
       "title": "Senior Quality Engineer",
       "url": "https://jobs.cvshealth.com/us/en/job/R0908671/Senior-Quality-Engineer",
       "identifier": "Senior Quality Engineer_908671/Senior-Quality-Engineer"
     },
     {
-      "title": "Executive Director, Client Experience Engineering",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0891832/Executive-Director-Client-Experience-Engineering",
-      "identifier": "Executive Director, Client Experience Engineering_-Client-Experience-Engineering"
-    },
-    {
-      "title": "Executive Director, Software Engineering",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0920486/Executive-Director-Software-Engineering",
-      "identifier": "Executive Director, Software Engineering_-Director-Software-Engineering"
+      "title": "IT Manager, Release Management",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0915610/IT-Manager-Release-Management",
+      "identifier": "IT Manager, Release Management_/IT-Manager-Release-Management"
     },
     {
       "title": "Senior Manager - IT Operations (IC)",
@@ -39,11 +29,21 @@
       "identifier": "Head of HR Data Governance - Workday_-of-HR-Data-Governance-Workday"
     },
     {
+      "title": "Executive Director, Client Experience Engineering",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0891832/Executive-Director-Client-Experience-Engineering",
+      "identifier": "Executive Director, Client Experience Engineering_-Client-Experience-Engineering"
+    },
+    {
+      "title": "Executive Director, Software Engineering",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0920486/Executive-Director-Software-Engineering",
+      "identifier": "Executive Director, Software Engineering_-Director-Software-Engineering"
+    },
+    {
       "title": "Senior Manager - SRE - RunOps - PBM-IT",
       "url": "https://jobs.cvshealth.com/us/en/job/R0906780/Senior-Manager-SRE-RunOps-PBM-IT",
       "identifier": "Senior Manager - SRE - RunOps - PBM-IT_nior-Manager-SRE-RunOps-PBM-IT"
     }
   ],
   "job_count_text": "29",
-  "timestamp": "2026-05-25T20:20:49.300825"
+  "timestamp": "2026-05-25T20:37:47.837233"
 }

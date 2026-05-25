@@ -29,11 +29,6 @@
       "identifier": "Engineer - Operations Improvement\nBoise, Idaho, Un_icron.com/careers/job/42044751"
     },
     {
-      "title": "Engineer, RDA DRAM\nBoise, Idaho, United States of America\nPosted 3 days ago",
-      "url": "https://careers.micron.com/careers/job/42043666",
-      "identifier": "Engineer, RDA DRAM\nBoise, Idaho, United States of _icron.com/careers/job/42043666"
-    },
-    {
       "title": "Semiconductor Design Engineer\nBoise, Idaho, United States of America\nPosted 3 days ago",
       "url": "https://careers.micron.com/careers/job/42044099",
       "identifier": "Semiconductor Design Engineer\nBoise, Idaho, United_icron.com/careers/job/42044099"
@@ -42,6 +37,11 @@
       "title": "New College Grad - DRAM Product Reliability Characterization Engineer\nBoise, Idaho, United States of America\nPosted 3 days ago",
       "url": "https://careers.micron.com/careers/job/41806502",
       "identifier": "New College Grad - DRAM Product Reliability Charac_icron.com/careers/job/41806502"
+    },
+    {
+      "title": "Engineer, RDA DRAM\nBoise, Idaho, United States of America\nPosted 3 days ago",
+      "url": "https://careers.micron.com/careers/job/42043666",
+      "identifier": "Engineer, RDA DRAM\nBoise, Idaho, United States of _icron.com/careers/job/42043666"
     },
     {
       "title": "Product Yield & Analytics ESDA Engineer\nBoise, Idaho, United States of America\nPosted 5 days ago",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "102",
-  "timestamp": "2026-05-25T03:12:43.159381"
+  "timestamp": "2026-05-25T03:29:44.262387"
 }

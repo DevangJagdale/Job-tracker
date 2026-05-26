@@ -4,7 +4,12 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Principal Applied Scientist\nUnited States, Washington, Redmond + 1 more\nPosted 24 minutes ago",
+      "title": "Senior Software Engineer - CTJ - Poly\nUnited States, Washington, Redmond + 1 more\nPosted 14 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556855969?domain=microsoft.com",
+      "identifier": "Senior Software Engineer - CTJ - Poly\nUnited State_556855969?domain=microsoft.com"
+    },
+    {
+      "title": "Principal Applied Scientist\nUnited States, Washington, Redmond + 1 more\nPosted 41 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556869617?domain=microsoft.com",
       "identifier": "Principal Applied Scientist\nUnited States, Washing_556869617?domain=microsoft.com"
     },
@@ -44,16 +49,11 @@
       "identifier": "Data & Applied Scientist II\nUnited States, Washing_556852372?domain=microsoft.com"
     },
     {
-      "title": "Software Engineer II\nUnited States, California, Mountain View + 2 more\nPosted 7 hours ago",
+      "title": "Software Engineer II\nUnited States, California, Mountain View + 2 more\nPosted 8 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556863569?domain=microsoft.com",
       "identifier": "Software Engineer II\nUnited States, California, Mo_556863569?domain=microsoft.com"
-    },
-    {
-      "title": "Multidisciplinary Manager, Industry Solutions Engineering (ISE) / Data Science\nUnited States, Multiple Locations, Multiple Locations\nPosted 9 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556652525?domain=microsoft.com",
-      "identifier": "Multidisciplinary Manager, Industry Solutions Engi_556652525?domain=microsoft.com"
     }
   ],
-  "job_count_text": "426",
-  "timestamp": "2026-05-26T23:10:55.012963"
+  "job_count_text": "427",
+  "timestamp": "2026-05-26T23:27:53.438762"
 }

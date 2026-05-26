@@ -1,59 +1,14 @@
 {
   "page_title": "Rivian Automotive",
   "url": "https://careers.rivian.com/careers-home/jobs?page=1&categories=Information%20Technology%7CSoftware%20Engineering%7CTest%20and%20Development",
-  "total_jobs": 10,
+  "total_jobs": 1,
   "jobs": [
     {
       "title": "Check Application Status",
       "url": "https://us-careers-rivian.icims.com/jobs/login?loginOnly=1",
       "identifier": "Check Application Status_ims.com/jobs/login?loginOnly=1"
-    },
-    {
-      "title": "Leadership Administrative Partner",
-      "url": "https://careers.rivian.com/careers-home/jobs/30755?lang=en-us&previousLocale=en-US",
-      "identifier": "Leadership Administrative Partner_ang=en-us&previousLocale=en-US"
-    },
-    {
-      "title": "Staff Cybersecurity Analyst, Risk Management",
-      "url": "https://careers.rivian.com/careers-home/jobs/30867?lang=en-us&previousLocale=en-US",
-      "identifier": "Staff Cybersecurity Analyst, Risk Management_ang=en-us&previousLocale=en-US"
-    },
-    {
-      "title": "Sr. Cybersecurity Engineer",
-      "url": "https://careers.rivian.com/careers-home/jobs/28786?lang=en-us&previousLocale=en-US",
-      "identifier": "Sr. Cybersecurity Engineer_ang=en-us&previousLocale=en-US"
-    },
-    {
-      "title": "Cybersecurity Application Security Engineer",
-      "url": "https://careers.rivian.com/careers-home/jobs/31067?lang=en-us&previousLocale=en-US",
-      "identifier": "Cybersecurity Application Security Engineer_ang=en-us&previousLocale=en-US"
-    },
-    {
-      "title": "Staff IT Solutions Engineer, Collaboration Platforms",
-      "url": "https://careers.rivian.com/careers-home/jobs/28983?lang=en-us&previousLocale=en-US",
-      "identifier": "Staff IT Solutions Engineer, Collaboration Platfor_ang=en-us&previousLocale=en-US"
-    },
-    {
-      "title": "Operations Coordinator, Autonomy Systems Validation",
-      "url": "https://careers.rivian.com/careers-home/jobs/30550?lang=en-us&previousLocale=en-US",
-      "identifier": "Operations Coordinator, Autonomy Systems Validatio_ang=en-us&previousLocale=en-US"
-    },
-    {
-      "title": "Senior Embedded Software Engineer - Vehicle Access Systems",
-      "url": "https://careers.rivian.com/careers-home/jobs/30955?lang=en-us&previousLocale=en-US",
-      "identifier": "Senior Embedded Software Engineer - Vehicle Access_ang=en-us&previousLocale=en-US"
-    },
-    {
-      "title": "Sr. IT Wireless Network Engineer",
-      "url": "https://careers.rivian.com/careers-home/jobs/24321?lang=en-us&previousLocale=en-US",
-      "identifier": "Sr. IT Wireless Network Engineer_ang=en-us&previousLocale=en-US"
-    },
-    {
-      "title": "Sr. Engineering Technician II",
-      "url": "https://careers.rivian.com/careers-home/jobs/31019?lang=en-us&previousLocale=en-US",
-      "identifier": "Sr. Engineering Technician II_ang=en-us&previousLocale=en-US"
     }
   ],
-  "job_count_text": "45",
-  "timestamp": "2026-05-26T19:43:34.038571"
+  "job_count_text": "",
+  "timestamp": "2026-05-26T20:01:35.970627"
 }

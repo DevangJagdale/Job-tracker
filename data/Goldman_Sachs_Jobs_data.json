@@ -4,6 +4,16 @@
   "total_jobs": 20,
   "jobs": [
     {
+      "title": "AI/ML Engineer, Global Banking & Markets, Investment Banking\nDallas\u00b7United States\n\u00b7Associate",
+      "url": "https://higher.gs.com/roles/161628",
+      "identifier": "AI/ML Engineer, Global Banking & Markets, Investme_s://higher.gs.com/roles/161628"
+    },
+    {
+      "title": "Software Engineer, Global Banking & Markets, Front Office Technology\nDallas\u00b7United States\n\u00b7Associate",
+      "url": "https://higher.gs.com/roles/161630",
+      "identifier": "Software Engineer, Global Banking & Markets, Front_s://higher.gs.com/roles/161630"
+    },
+    {
       "title": "AWM, Marcus by Goldman Sachs, Pricing & Analytics, Analyst, Richardson, TX\nRichardson\u00b7United States\n\u00b7Analyst",
       "url": "https://higher.gs.com/roles/151793",
       "identifier": "AWM, Marcus by Goldman Sachs, Pricing & Analytics,_s://higher.gs.com/roles/151793"
@@ -27,11 +37,6 @@
       "title": "Asset & Wealth Management - Scrum Master - Associate - Dallas\nDallas\u00b7United States\n\u00b7Associate",
       "url": "https://higher.gs.com/roles/154066",
       "identifier": "Asset & Wealth Management - Scrum Master - Associa_s://higher.gs.com/roles/154066"
-    },
-    {
-      "title": "AI/ML Engineer, Global Banking & Markets, Investment Banking\nDallas\u00b7United States\n\u00b7Associate",
-      "url": "https://higher.gs.com/roles/161628",
-      "identifier": "AI/ML Engineer, Global Banking & Markets, Investme_s://higher.gs.com/roles/161628"
     },
     {
       "title": "Asset & Wealth Management, Business Analytics, Associate - New York\nNew York\u00b7United States\n\u00b7Associate",
@@ -69,11 +74,6 @@
       "identifier": "Corporate Treasury, Payments Platform, Software En_s://higher.gs.com/roles/170578"
     },
     {
-      "title": "Software Engineer, Global Banking & Markets, Front Office Technology\nDallas\u00b7United States\n\u00b7Associate",
-      "url": "https://higher.gs.com/roles/161630",
-      "identifier": "Software Engineer, Global Banking & Markets, Front_s://higher.gs.com/roles/161630"
-    },
-    {
       "title": "Corporate Planning & Management, Product & Reporting - BI Specialist, Associate, Dallas\nDallas\u00b7United States\n\u00b7Associate",
       "url": "https://higher.gs.com/roles/172617",
       "identifier": "Corporate Planning & Management, Product & Reporti_s://higher.gs.com/roles/172617"
@@ -105,5 +105,5 @@
     }
   ],
   "job_count_text": "44",
-  "timestamp": "2026-05-26T04:42:02.520473"
+  "timestamp": "2026-05-26T04:59:06.878338"
 }

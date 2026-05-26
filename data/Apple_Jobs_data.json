@@ -4,6 +4,11 @@
   "total_jobs": 19,
   "jobs": [
     {
+      "title": "Wi-Fi Software Engineer, Wireless Technologies & Ecosystems",
+      "url": "https://jobs.apple.com/en-us/details/200665281-0836/wi-fi-software-engineer-wireless-technologies-ecosystems?team=SFTWR",
+      "identifier": "Wi-Fi Software Engineer, Wireless Technologies & E_nologies-ecosystems?team=SFTWR"
+    },
+    {
       "title": "US Security Incident Response Team (SIRT) Manager",
       "url": "https://jobs.apple.com/en-us/details/200664488-0836/us-security-incident-response-team-sirt-manager?team=SFTWR",
       "identifier": "US Security Incident Response Team (SIRT) Manager_e-team-sirt-manager?team=SFTWR"
@@ -92,13 +97,8 @@
       "title": "Software Engineer, Core Services - Apple Services Engineering",
       "url": "https://jobs.apple.com/en-us/details/200664855-3337/software-engineer-core-services-apple-services-engineering?team=SFTWR",
       "identifier": "Software Engineer, Core Services - Apple Services _ervices-engineering?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer, Infrastructure Services",
-      "url": "https://jobs.apple.com/en-us/details/200648325-0157/software-engineer-infrastructure-services?team=SFTWR",
-      "identifier": "Software Engineer, Infrastructure Services_astructure-services?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-26T20:29:47.840445"
+  "timestamp": "2026-05-26T20:46:53.917024"
 }

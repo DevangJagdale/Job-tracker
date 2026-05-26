@@ -4,6 +4,11 @@
   "total_jobs": 18,
   "jobs": [
     {
+      "title": "Computer Vision and Machine Learning Engineer, Creativity Apps",
+      "url": "https://jobs.apple.com/en-us/details/200661630-0836/computer-vision-and-machine-learning-engineer-creativity-apps?team=SFTWR",
+      "identifier": "Computer Vision and Machine Learning Engineer, Cre_eer-creativity-apps?team=SFTWR"
+    },
+    {
       "title": "Sr Application Engineer \u2014 IT Inventory Platform, IS&T",
       "url": "https://jobs.apple.com/en-us/details/200664459-0157/sr-application-engineer-it-inventory-platform-is-t?team=SFTWR",
       "identifier": "Sr Application Engineer \u2014 IT Inventory Platform, I_ntory-platform-is-t?team=SFTWR"
@@ -87,13 +92,8 @@
       "title": "Sr. Engineering Program Manager - Customer Systems",
       "url": "https://jobs.apple.com/en-us/details/200664723-0157/sr-engineering-program-manager-customer-systems?team=SFTWR",
       "identifier": "Sr. Engineering Program Manager - Customer Systems_er-customer-systems?team=SFTWR"
-    },
-    {
-      "title": "Principal Audio Engineer, Production Studio, Siri Speech",
-      "url": "https://jobs.apple.com/en-us/details/200664991-1756/principal-audio-engineer-production-studio-siri-speech?team=SFTWR",
-      "identifier": "Principal Audio Engineer, Production Studio, Siri _-studio-siri-speech?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-26T21:45:32.981845"
+  "timestamp": "2026-05-26T22:03:04.008415"
 }

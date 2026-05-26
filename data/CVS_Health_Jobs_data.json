@@ -4,6 +4,16 @@
   "total_jobs": 8,
   "jobs": [
     {
+      "title": "Senior Software Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0816592/Senior-Software-Engineer",
+      "identifier": "Senior Software Engineer_16592/Senior-Software-Engineer"
+    },
+    {
+      "title": "Senior Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0878110/Senior-Software-Development-Engineer",
+      "identifier": "Senior Software Development Engineer_-Software-Development-Engineer"
+    },
+    {
       "title": "Principal Software Development Engineer - Flutter",
       "url": "https://jobs.cvshealth.com/us/en/job/R0767053/Principal-Software-Development-Engineer-Flutter",
       "identifier": "Principal Software Development Engineer - Flutter_e-Development-Engineer-Flutter"
@@ -19,16 +29,6 @@
       "identifier": "Associate Software Development Engineer_-Software-Development-Engineer"
     },
     {
-      "title": "Senior Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0878110/Senior-Software-Development-Engineer",
-      "identifier": "Senior Software Development Engineer_-Software-Development-Engineer"
-    },
-    {
-      "title": "Senior Software Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0816592/Senior-Software-Engineer",
-      "identifier": "Senior Software Engineer_16592/Senior-Software-Engineer"
-    },
-    {
       "title": "Executive Director, Adjudication Software Engineering & Transformation",
       "url": "https://jobs.cvshealth.com/us/en/job/R0889257/Executive-Director-Adjudication-Software-Engineering-Transformation",
       "identifier": "Executive Director, Adjudication Software Engineer_are-Engineering-Transformation"
@@ -39,11 +39,11 @@
       "identifier": "Senior Quality Engineer_908671/Senior-Quality-Engineer"
     },
     {
-      "title": "Executive Director, Client Experience Engineering",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0891832/Executive-Director-Client-Experience-Engineering",
-      "identifier": "Executive Director, Client Experience Engineering_-Client-Experience-Engineering"
+      "title": "Head of HR Data Governance - Workday",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0918538/Head-of-HR-Data-Governance-Workday",
+      "identifier": "Head of HR Data Governance - Workday_-of-HR-Data-Governance-Workday"
     }
   ],
-  "job_count_text": "34",
-  "timestamp": "2026-05-26T18:12:24.332189"
+  "job_count_text": "35",
+  "timestamp": "2026-05-26T18:29:31.871243"
 }

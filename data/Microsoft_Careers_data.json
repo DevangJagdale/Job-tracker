@@ -1,10 +1,15 @@
 {
   "page_title": "| Microsoft Careers",
   "url": "https://apply.careers.microsoft.com/careers?domain=microsoft.com&start=0&location=United+States&sort_by=timestamp&filter_include_remote=1&filter_profession=software+engineering%2Cresearch%252C%2520applied%252C%2520%2526%2520data%2520sciences",
-  "total_jobs": 9,
+  "total_jobs": 10,
   "jobs": [
     {
-      "title": "Senior Software Engineer\nUnited States, Washington, Redmond + 1 more\nPosted 14 minutes ago",
+      "title": "Principal Applied Scientist\nUnited States, Washington, Redmond + 1 more\nPosted 9 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556862646?domain=microsoft.com",
+      "identifier": "Principal Applied Scientist\nUnited States, Washing_556862646?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Software Engineer\nUnited States, Washington, Redmond + 1 more\nPosted 31 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556753224?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Washington_556753224?domain=microsoft.com"
     },
@@ -19,7 +24,7 @@
       "identifier": "Data & Applied Scientist II\nUnited States, Washing_556852372?domain=microsoft.com"
     },
     {
-      "title": "Software Engineer II\nUnited States, California, Mountain View + 2 more\nPosted an hour ago",
+      "title": "Software Engineer II\nUnited States, California, Mountain View + 2 more\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556863569?domain=microsoft.com",
       "identifier": "Software Engineer II\nUnited States, California, Mo_556863569?domain=microsoft.com"
     },
@@ -50,5 +55,5 @@
     }
   ],
   "job_count_text": "426",
-  "timestamp": "2026-05-26T17:19:40.209403"
+  "timestamp": "2026-05-26T17:36:52.462825"
 }

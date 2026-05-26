@@ -1,17 +1,32 @@
 {
   "page_title": "Search our Job Opportunities at Barclays",
   "url": "https://search.jobs.barclays/search-jobs/United%20States/13015/2/6252001/39x76/-98x5/50/2",
-  "total_jobs": 12,
+  "total_jobs": 16,
   "jobs": [
+    {
+      "title": "AVP - Digital Product Owner",
+      "url": "https://search.jobs.barclays/job/wilmington/avp-digital-product-owner/13015/95437655584",
+      "identifier": "AVP - Digital Product Owner_roduct-owner/13015/95437655584"
+    },
     {
       "title": "Developer",
       "url": "https://search.jobs.barclays/job/whippany/developer/13015/95424182640",
       "identifier": "Developer_ny/developer/13015/95424182640"
     },
     {
+      "title": "Vice President, Investment Banking",
+      "url": "https://search.jobs.barclays/job/new-york/vice-president-investment-banking/13015/95424182608",
+      "identifier": "Vice President, Investment Banking_ment-banking/13015/95424182608"
+    },
+    {
       "title": "Application Developer AVP",
       "url": "https://search.jobs.barclays/job/new-york/application-developer-avp/13015/95424182544",
       "identifier": "Application Developer AVP_eveloper-avp/13015/95424182544"
+    },
+    {
+      "title": "Product Analyst",
+      "url": "https://search.jobs.barclays/job/whippany/product-analyst/13015/95424182528",
+      "identifier": "Product Analyst_duct-analyst/13015/95424182528"
     },
     {
       "title": "Data Analyst, AVP",
@@ -49,6 +64,11 @@
       "identifier": "Senior Full Stack Developer - Electronic Trading -_-trading-avp/13015/95382279024"
     },
     {
+      "title": "Reliability Engineer \u2013 Markets RTB",
+      "url": "https://search.jobs.barclays/job/whippany/reliability-engineer-markets-rtb/13015/95353590368",
+      "identifier": "Reliability Engineer \u2013 Markets RTB_-markets-rtb/13015/95353590368"
+    },
+    {
       "title": "API Governance Engineer",
       "url": "https://search.jobs.barclays/job/whippany/api-governance-engineer/13015/95353590336",
       "identifier": "API Governance Engineer_nce-engineer/13015/95353590336"
@@ -64,6 +84,6 @@
       "identifier": "Vice President - Americas Loans, Leveraged Finance_nd-icb-legal/13015/95257282496"
     }
   ],
-  "job_count_text": "124",
-  "timestamp": "2026-05-26T17:19:21.101390"
+  "job_count_text": "123",
+  "timestamp": "2026-05-26T17:36:35.344190"
 }

@@ -1,8 +1,23 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 14,
+  "total_jobs": 16,
   "jobs": [
+    {
+      "title": "Clinical Specialist - Health",
+      "url": "https://jobs.apple.com/en-us/details/200665229-0836/clinical-specialist-health?team=SFTWR",
+      "identifier": "Clinical Specialist - Health_l-specialist-health?team=SFTWR"
+    },
+    {
+      "title": "Software Engineering Manager (Supply Chain Solutions), Supply Chain Integration",
+      "url": "https://jobs.apple.com/en-us/details/200663948-0157/software-engineering-manager-supply-chain-solutions-supply-chain-integration?team=SFTWR",
+      "identifier": "Software Engineering Manager (Supply Chain Solutio_y-chain-integration?team=SFTWR"
+    },
+    {
+      "title": "Senior Software QA Engineer, Siri Client Platforms",
+      "url": "https://jobs.apple.com/en-us/details/200664913-0836/senior-software-qa-engineer-siri-client-platforms?team=SFTWR",
+      "identifier": "Senior Software QA Engineer, Siri Client Platforms_ri-client-platforms?team=SFTWR"
+    },
     {
       "title": "Senior Systems Engineer, Watch Software",
       "url": "https://jobs.apple.com/en-us/details/200662376-0365/senior-systems-engineer-watch-software?team=SFTWR",
@@ -67,13 +82,8 @@
       "title": "Senior Software Engineer, Apple Services Engineering",
       "url": "https://jobs.apple.com/en-us/details/200664943-3577/senior-software-engineer-apple-services-engineering?team=SFTWR",
       "identifier": "Senior Software Engineer, Apple Services Engineeri_ervices-engineering?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer, Apple Services Engineering",
-      "url": "https://jobs.apple.com/en-us/details/200664944-3577/software-engineer-apple-services-engineering?team=SFTWR",
-      "identifier": "Software Engineer, Apple Services Engineering_ervices-engineering?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-26T17:19:56.431965"
+  "timestamp": "2026-05-26T17:37:08.582407"
 }

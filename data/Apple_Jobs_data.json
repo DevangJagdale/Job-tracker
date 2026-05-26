@@ -4,6 +4,11 @@
   "total_jobs": 17,
   "jobs": [
     {
+      "title": "UI Software Engineer, Camera & Photos",
+      "url": "https://jobs.apple.com/en-us/details/200660343-0836/ui-software-engineer-camera-photos?team=SFTWR",
+      "identifier": "UI Software Engineer, Camera & Photos_ineer-camera-photos?team=SFTWR"
+    },
+    {
       "title": "Software Engineer (Security & Reliability Operations), IS&T Enterprise Systems",
       "url": "https://jobs.apple.com/en-us/details/200664835-0240/software-engineer-security-reliability-operations-is-t-enterprise-systems?team=SFTWR",
       "identifier": "Software Engineer (Security & Reliability Operatio_-enterprise-systems?team=SFTWR"
@@ -82,13 +87,8 @@
       "title": "Senior Software Engineer, Apple Services Engineering",
       "url": "https://jobs.apple.com/en-us/details/200664943-3577/senior-software-engineer-apple-services-engineering?team=SFTWR",
       "identifier": "Senior Software Engineer, Apple Services Engineeri_ervices-engineering?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer, Apple Services Engineering",
-      "url": "https://jobs.apple.com/en-us/details/200664944-3577/software-engineer-apple-services-engineering?team=SFTWR",
-      "identifier": "Software Engineer, Apple Services Engineering_ervices-engineering?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-26T18:45:42.291428"
+  "timestamp": "2026-05-26T19:02:48.261237"
 }

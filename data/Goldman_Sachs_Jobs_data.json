@@ -89,11 +89,6 @@
       "identifier": "Corporate Planning & Management, Product & Reporti_s://higher.gs.com/roles/172617"
     },
     {
-      "title": "Asset & Wealth Management-Software Engineering-Associate-Dallas\nDallas\u00b7United States\n\u00b7Associate",
-      "url": "https://higher.gs.com/roles/163040",
-      "identifier": "Asset & Wealth Management-Software Engineering-Ass_s://higher.gs.com/roles/163040"
-    },
-    {
       "title": "Software Engineering - Data, Lakehouse and AI Data Platform Engineer - Associate - Dallas\nDallas\u00b7United States\n\u00b7Associate",
       "url": "https://higher.gs.com/roles/153361",
       "identifier": "Software Engineering - Data, Lakehouse and AI Data_s://higher.gs.com/roles/153361"
@@ -102,8 +97,13 @@
       "title": "Compliance, Senior Backend Engineer (Java & ETL Specialist), Dallas, Associate\nDallas\u00b7United States\n\u00b7Associate",
       "url": "https://higher.gs.com/roles/168652",
       "identifier": "Compliance, Senior Backend Engineer (Java & ETL Sp_s://higher.gs.com/roles/168652"
+    },
+    {
+      "title": "MLOps Engineer - Machine Learning Platform - NY/NJ\nJersey City\u00b7United States\n\u00b7Associate",
+      "url": "https://higher.gs.com/roles/153822",
+      "identifier": "MLOps Engineer - Machine Learning Platform - NY/NJ_s://higher.gs.com/roles/153822"
     }
   ],
-  "job_count_text": "42",
-  "timestamp": "2026-05-26T19:53:50.980923"
+  "job_count_text": "41",
+  "timestamp": "2026-05-26T20:11:52.039362"
 }

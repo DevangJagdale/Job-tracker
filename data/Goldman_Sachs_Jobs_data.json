@@ -4,6 +4,11 @@
   "total_jobs": 20,
   "jobs": [
     {
+      "title": "AWM, Marcus by Goldman Sachs, Pricing & Analytics, Analyst - Richardson, TX\nRichardson\u00b7United States\n\u00b7Analyst",
+      "url": "https://higher.gs.com/roles/151793",
+      "identifier": "AWM, Marcus by Goldman Sachs, Pricing & Analytics,_s://higher.gs.com/roles/151793"
+    },
+    {
       "title": "Internal Audit, Software Engineering, New York, Associate\nNew York\u00b7United States\n\u00b7Associate",
       "url": "https://higher.gs.com/roles/174519",
       "identifier": "Internal Audit, Software Engineering, New York, As_s://higher.gs.com/roles/174519"
@@ -17,11 +22,6 @@
       "title": "Software Engineer, Global Banking & Markets, Front Office Technology\nDallas\u00b7United States\n\u00b7Associate",
       "url": "https://higher.gs.com/roles/161630",
       "identifier": "Software Engineer, Global Banking & Markets, Front_s://higher.gs.com/roles/161630"
-    },
-    {
-      "title": "AWM, Marcus by Goldman Sachs, Pricing & Analytics, Analyst, Richardson, TX\nRichardson\u00b7United States\n\u00b7Analyst",
-      "url": "https://higher.gs.com/roles/151793",
-      "identifier": "AWM, Marcus by Goldman Sachs, Pricing & Analytics,_s://higher.gs.com/roles/151793"
     },
     {
       "title": "Asset & Wealth Management-Scrum Master Engineer-Associate-Albany\nAlbany\u00b7United States\n\u00b7Associate",
@@ -105,5 +105,5 @@
     }
   ],
   "job_count_text": "42",
-  "timestamp": "2026-05-26T15:28:14.796476"
+  "timestamp": "2026-05-26T15:45:27.320225"
 }

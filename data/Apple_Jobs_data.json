@@ -4,6 +4,16 @@
   "total_jobs": 18,
   "jobs": [
     {
+      "title": "Software Development Engineer in Test, Swift Platform Experience",
+      "url": "https://jobs.apple.com/en-us/details/200665196-0836/software-development-engineer-in-test-swift-platform-experience?team=SFTWR",
+      "identifier": "Software Development Engineer in Test, Swift Platf_platform-experience?team=SFTWR"
+    },
+    {
+      "title": "Senior Engineering Program Manager - ASE / PCC",
+      "url": "https://jobs.apple.com/en-us/details/200665306-0836/senior-engineering-program-manager-ase-pcc?team=SFTWR",
+      "identifier": "Senior Engineering Program Manager - ASE / PCC_ram-manager-ase-pcc?team=SFTWR"
+    },
+    {
       "title": "HomeKit Software Engineer, Wireless Technologies & Ecosystems",
       "url": "https://jobs.apple.com/en-us/details/200665300-3543/homekit-software-engineer-wireless-technologies-ecosystems?team=SFTWR",
       "identifier": "HomeKit Software Engineer, Wireless Technologies &_nologies-ecosystems?team=SFTWR"
@@ -82,18 +92,8 @@
       "title": "Machine Translation Quality Engineer",
       "url": "https://jobs.apple.com/en-us/details/200664318-3337/machine-translation-quality-engineer?team=SFTWR",
       "identifier": "Machine Translation Quality Engineer_on-quality-engineer?team=SFTWR"
-    },
-    {
-      "title": "Engineering Program Manager, Quality Assurance - Customer Systems",
-      "url": "https://jobs.apple.com/en-us/details/200663756-0157/engineering-program-manager-quality-assurance-customer-systems?team=SFTWR",
-      "identifier": "Engineering Program Manager, Quality Assurance - C_ce-customer-systems?team=SFTWR"
-    },
-    {
-      "title": "Full Stack Software Engineer - Camera & Photos Tools & AI Team",
-      "url": "https://jobs.apple.com/en-us/details/200665015-0836/full-stack-software-engineer-camera-photos-tools-ai-team?team=SFTWR",
-      "identifier": "Full Stack Software Engineer - Camera & Photos Too_hotos-tools-ai-team?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-26T22:20:07.950830"
+  "timestamp": "2026-05-26T22:37:06.659559"
 }

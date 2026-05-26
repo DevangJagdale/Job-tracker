@@ -4,6 +4,16 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Embedded Software Engineer, Find My",
+      "url": "https://jobs.apple.com/en-us/details/200651749-0836/embedded-software-engineer-find-my?team=SFTWR",
+      "identifier": "Embedded Software Engineer, Find My_re-engineer-find-my?team=SFTWR"
+    },
+    {
+      "title": "Machine Translation Quality Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200664318-3337/machine-translation-quality-engineer?team=SFTWR",
+      "identifier": "Machine Translation Quality Engineer_on-quality-engineer?team=SFTWR"
+    },
+    {
       "title": "DevOps Engineer",
       "url": "https://jobs.apple.com/en-us/details/200642859-0836/devops-engineer?team=SFTWR",
       "identifier": "DevOps Engineer_836/devops-engineer?team=SFTWR"
@@ -72,18 +82,8 @@
       "title": "Perception Systems Software Engineer, Audio & Media Technologies",
       "url": "https://jobs.apple.com/en-us/details/200664926-3543/perception-systems-software-engineer-audio-media-technologies?team=SFTWR",
       "identifier": "Perception Systems Software Engineer, Audio & Medi_-media-technologies?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer - Customer Systems, Information Systems & Technology (IS&T)",
-      "url": "https://jobs.apple.com/en-us/details/200663125-3956/software-engineer-customer-systems-information-systems-technology-is-t?team=SFTWR",
-      "identifier": "Software Engineer - Customer Systems, Information _ems-technology-is-t?team=SFTWR"
-    },
-    {
-      "title": "Sr Software Engineer - Customer Systems, Information Systems & Technology (IS&T)",
-      "url": "https://jobs.apple.com/en-us/details/200663132-0157/sr-software-engineer-customer-systems-information-systems-technology-is-t?team=SFTWR",
-      "identifier": "Sr Software Engineer - Customer Systems, Informati_ems-technology-is-t?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-26T16:45:39.442223"
+  "timestamp": "2026-05-26T17:02:46.803552"
 }

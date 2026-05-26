@@ -4,6 +4,11 @@
   "total_jobs": 20,
   "jobs": [
     {
+      "title": "Controllers, Software Engineering, Salt Lake City, Associate\nSalt Lake City\u00b7United States\n\u00b7Associate",
+      "url": "https://higher.gs.com/roles/174449",
+      "identifier": "Controllers, Software Engineering, Salt Lake City,_s://higher.gs.com/roles/174449"
+    },
+    {
       "title": "AWM, Marcus by Goldman Sachs, Pricing & Analytics, Analyst - Richardson, TX\nRichardson\u00b7United States\n\u00b7Analyst",
       "url": "https://higher.gs.com/roles/151793",
       "identifier": "AWM, Marcus by Goldman Sachs, Pricing & Analytics,_s://higher.gs.com/roles/151793"
@@ -97,13 +102,8 @@
       "title": "Compliance, Senior Backend Engineer (Java & ETL Specialist), Dallas, Associate\nDallas\u00b7United States\n\u00b7Associate",
       "url": "https://higher.gs.com/roles/168652",
       "identifier": "Compliance, Senior Backend Engineer (Java & ETL Sp_s://higher.gs.com/roles/168652"
-    },
-    {
-      "title": "MLOps Engineer - Machine Learning Platform - NY/NJ\nJersey City\u00b7United States\n\u00b7Associate",
-      "url": "https://higher.gs.com/roles/153822",
-      "identifier": "MLOps Engineer - Machine Learning Platform - NY/NJ_s://higher.gs.com/roles/153822"
     }
   ],
-  "job_count_text": "42",
-  "timestamp": "2026-05-26T16:10:30.251423"
+  "job_count_text": "43",
+  "timestamp": "2026-05-26T16:27:45.132468"
 }

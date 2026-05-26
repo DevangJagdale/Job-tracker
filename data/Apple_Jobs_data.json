@@ -4,6 +4,11 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "DevOps Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200642859-0836/devops-engineer?team=SFTWR",
+      "identifier": "DevOps Engineer_836/devops-engineer?team=SFTWR"
+    },
+    {
       "title": "Engineering Program Manager, Quality Assurance - Customer Systems",
       "url": "https://jobs.apple.com/en-us/details/200663756-0157/engineering-program-manager-quality-assurance-customer-systems?team=SFTWR",
       "identifier": "Engineering Program Manager, Quality Assurance - C_ce-customer-systems?team=SFTWR"
@@ -77,13 +82,8 @@
       "title": "Sr Software Engineer - Customer Systems, Information Systems & Technology (IS&T)",
       "url": "https://jobs.apple.com/en-us/details/200663132-0157/sr-software-engineer-customer-systems-information-systems-technology-is-t?team=SFTWR",
       "identifier": "Sr Software Engineer - Customer Systems, Informati_ems-technology-is-t?team=SFTWR"
-    },
-    {
-      "title": "Lead, Strategic Planning & Finance Operations, Apple Services Engineering",
-      "url": "https://jobs.apple.com/en-us/details/200664536-0836/lead-strategic-planning-finance-operations-apple-services-engineering?team=SFTWR",
-      "identifier": "Lead, Strategic Planning & Finance Operations, App_ervices-engineering?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-26T16:28:36.475663"
+  "timestamp": "2026-05-26T16:45:39.442223"
 }

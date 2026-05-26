@@ -4,6 +4,11 @@
   "total_jobs": 20,
   "jobs": [
     {
+      "title": "Internal Audit, Software Engineering, New York, Associate\nNew York\u00b7United States\n\u00b7Associate",
+      "url": "https://higher.gs.com/roles/174519",
+      "identifier": "Internal Audit, Software Engineering, New York, As_s://higher.gs.com/roles/174519"
+    },
+    {
       "title": "AI/ML Engineer, Global Banking & Markets, Investment Banking\nDallas\u00b7United States\n\u00b7Associate",
       "url": "https://higher.gs.com/roles/161628",
       "identifier": "AI/ML Engineer, Global Banking & Markets, Investme_s://higher.gs.com/roles/161628"
@@ -97,13 +102,8 @@
       "title": "Software Engineering - Data, Lakehouse and AI Data Platform Engineer - Associate - Dallas\nDallas\u00b7United States\n\u00b7Associate",
       "url": "https://higher.gs.com/roles/153361",
       "identifier": "Software Engineering - Data, Lakehouse and AI Data_s://higher.gs.com/roles/153361"
-    },
-    {
-      "title": "Compliance, Senior Backend Engineer (Java & ETL Specialist), Dallas, Associate\nDallas\u00b7United States\n\u00b7Associate",
-      "url": "https://higher.gs.com/roles/168652",
-      "identifier": "Compliance, Senior Backend Engineer (Java & ETL Sp_s://higher.gs.com/roles/168652"
     }
   ],
   "job_count_text": "44",
-  "timestamp": "2026-05-26T14:02:30.133862"
+  "timestamp": "2026-05-26T14:19:37.877436"
 }

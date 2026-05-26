@@ -4,6 +4,11 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Data Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200643156-0836/data-engineer?team=SFTWR",
+      "identifier": "Data Engineer_-0836/data-engineer?team=SFTWR"
+    },
+    {
       "title": "Manager - WW Ops BPR - Business Operations Strategy & Support",
       "url": "https://jobs.apple.com/en-us/details/200659423-0157/manager-ww-ops-bpr-business-operations-strategy-support?team=OPMFG",
       "identifier": "Manager - WW Ops BPR - Business Operations Strateg_ns-strategy-support?team=OPMFG"
@@ -77,13 +82,8 @@
       "title": "Software Engineer (Security & Reliability Operations), IS&T Enterprise Systems",
       "url": "https://jobs.apple.com/en-us/details/200664835-0240/software-engineer-security-reliability-operations-is-t-enterprise-systems?team=SFTWR",
       "identifier": "Software Engineer (Security & Reliability Operatio_-enterprise-systems?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer (SAP Basis Administrator), IS&T Enterprise Systems",
-      "url": "https://jobs.apple.com/en-us/details/200664848-0240/software-engineer-sap-basis-administrator-is-t-enterprise-systems?team=SFTWR",
-      "identifier": "Software Engineer (SAP Basis Administrator), IS&T _-enterprise-systems?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-26T23:28:09.676872"
+  "timestamp": "2026-05-26T23:45:13.664714"
 }

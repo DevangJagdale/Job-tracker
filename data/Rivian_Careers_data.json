@@ -1,6 +1,59 @@
 {
-  "error": "Message: no such element: Unable to locate element: {\"method\":\"tag name\",\"selector\":\"body\"}\n  (Session info: chrome=148.0.7778.167); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception\nStacktrace:\n#0 0x560e334ad22a <unknown>\n#1 0x560e32eabab9 <unknown>\n#2 0x560e32f00046 <unknown>\n#3 0x560e32f00281 <unknown>\n#4 0x560e32f4af74 <unknown>\n#5 0x560e32f48116 <unknown>\n#6 0x560e32ef3662 <unknown>\n#7 0x560e32ef4451 <unknown>\n#8 0x560e33470d8b <unknown>\n#9 0x560e33473c65 <unknown>\n#10 0x560e3345d458 <unknown>\n#11 0x560e334747f0 <unknown>\n#12 0x560e334441c0 <unknown>\n#13 0x560e3349a168 <unknown>\n#14 0x560e3349a305 <unknown>\n#15 0x560e334abc5e <unknown>\n#16 0x7fdb7329caa4 <unknown>\n#17 0x7fdb73329c6c <unknown>\n",
-  "jobs": [],
-  "total_jobs": 0,
-  "timestamp": "2026-05-26T19:26:25.636847"
+  "page_title": "Rivian Automotive",
+  "url": "https://careers.rivian.com/careers-home/jobs?page=1&categories=Information%20Technology%7CSoftware%20Engineering%7CTest%20and%20Development",
+  "total_jobs": 10,
+  "jobs": [
+    {
+      "title": "Check Application Status",
+      "url": "https://us-careers-rivian.icims.com/jobs/login?loginOnly=1",
+      "identifier": "Check Application Status_ims.com/jobs/login?loginOnly=1"
+    },
+    {
+      "title": "Leadership Administrative Partner",
+      "url": "https://careers.rivian.com/careers-home/jobs/30755?lang=en-us&previousLocale=en-US",
+      "identifier": "Leadership Administrative Partner_ang=en-us&previousLocale=en-US"
+    },
+    {
+      "title": "Staff Cybersecurity Analyst, Risk Management",
+      "url": "https://careers.rivian.com/careers-home/jobs/30867?lang=en-us&previousLocale=en-US",
+      "identifier": "Staff Cybersecurity Analyst, Risk Management_ang=en-us&previousLocale=en-US"
+    },
+    {
+      "title": "Sr. Cybersecurity Engineer",
+      "url": "https://careers.rivian.com/careers-home/jobs/28786?lang=en-us&previousLocale=en-US",
+      "identifier": "Sr. Cybersecurity Engineer_ang=en-us&previousLocale=en-US"
+    },
+    {
+      "title": "Cybersecurity Application Security Engineer",
+      "url": "https://careers.rivian.com/careers-home/jobs/31067?lang=en-us&previousLocale=en-US",
+      "identifier": "Cybersecurity Application Security Engineer_ang=en-us&previousLocale=en-US"
+    },
+    {
+      "title": "Staff IT Solutions Engineer, Collaboration Platforms",
+      "url": "https://careers.rivian.com/careers-home/jobs/28983?lang=en-us&previousLocale=en-US",
+      "identifier": "Staff IT Solutions Engineer, Collaboration Platfor_ang=en-us&previousLocale=en-US"
+    },
+    {
+      "title": "Operations Coordinator, Autonomy Systems Validation",
+      "url": "https://careers.rivian.com/careers-home/jobs/30550?lang=en-us&previousLocale=en-US",
+      "identifier": "Operations Coordinator, Autonomy Systems Validatio_ang=en-us&previousLocale=en-US"
+    },
+    {
+      "title": "Senior Embedded Software Engineer - Vehicle Access Systems",
+      "url": "https://careers.rivian.com/careers-home/jobs/30955?lang=en-us&previousLocale=en-US",
+      "identifier": "Senior Embedded Software Engineer - Vehicle Access_ang=en-us&previousLocale=en-US"
+    },
+    {
+      "title": "Sr. IT Wireless Network Engineer",
+      "url": "https://careers.rivian.com/careers-home/jobs/24321?lang=en-us&previousLocale=en-US",
+      "identifier": "Sr. IT Wireless Network Engineer_ang=en-us&previousLocale=en-US"
+    },
+    {
+      "title": "Sr. Engineering Technician II",
+      "url": "https://careers.rivian.com/careers-home/jobs/31019?lang=en-us&previousLocale=en-US",
+      "identifier": "Sr. Engineering Technician II_ang=en-us&previousLocale=en-US"
+    }
+  ],
+  "job_count_text": "45",
+  "timestamp": "2026-05-26T19:43:34.038571"
 }

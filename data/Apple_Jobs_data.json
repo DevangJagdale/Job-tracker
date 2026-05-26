@@ -1,8 +1,18 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 19,
+  "total_jobs": 18,
   "jobs": [
+    {
+      "title": "Sr Application Engineer \u2014 IT Inventory Platform, IS&T",
+      "url": "https://jobs.apple.com/en-us/details/200664459-0157/sr-application-engineer-it-inventory-platform-is-t?team=SFTWR",
+      "identifier": "Sr Application Engineer \u2014 IT Inventory Platform, I_ntory-platform-is-t?team=SFTWR"
+    },
+    {
+      "title": "Senior Software Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200664840-3956/senior-software-engineer?team=SFTWR",
+      "identifier": "Senior Software Engineer_r-software-engineer?team=SFTWR"
+    },
     {
       "title": "Wi-Fi Software Engineer, Wireless Technologies & Ecosystems",
       "url": "https://jobs.apple.com/en-us/details/200665281-0836/wi-fi-software-engineer-wireless-technologies-ecosystems?team=SFTWR",
@@ -12,11 +22,6 @@
       "title": "US Security Incident Response Team (SIRT) Manager",
       "url": "https://jobs.apple.com/en-us/details/200664488-0836/us-security-incident-response-team-sirt-manager?team=SFTWR",
       "identifier": "US Security Incident Response Team (SIRT) Manager_e-team-sirt-manager?team=SFTWR"
-    },
-    {
-      "title": "Sr Application Engineer \u2014 IT Inventory Platform, IS&T",
-      "url": "https://jobs.apple.com/en-us/details/200664459-3956/sr-application-engineer-it-inventory-platform-is-t?team=SFTWR",
-      "identifier": "Sr Application Engineer \u2014 IT Inventory Platform, I_ntory-platform-is-t?team=SFTWR"
     },
     {
       "title": "Hardware Engineer - Apple Maps",
@@ -87,18 +92,8 @@
       "title": "Principal Audio Engineer, Production Studio, Siri Speech",
       "url": "https://jobs.apple.com/en-us/details/200664991-1756/principal-audio-engineer-production-studio-siri-speech?team=SFTWR",
       "identifier": "Principal Audio Engineer, Production Studio, Siri _-studio-siri-speech?team=SFTWR"
-    },
-    {
-      "title": "Sr. Software Engineer - Data, Siri Speech",
-      "url": "https://jobs.apple.com/en-us/details/200651524-0836/sr-software-engineer-data-siri-speech?team=SFTWR",
-      "identifier": "Sr. Software Engineer - Data, Siri Speech_er-data-siri-speech?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer, Core Services - Apple Services Engineering",
-      "url": "https://jobs.apple.com/en-us/details/200664855-3337/software-engineer-core-services-apple-services-engineering?team=SFTWR",
-      "identifier": "Software Engineer, Core Services - Apple Services _ervices-engineering?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-26T21:03:54.625017"
+  "timestamp": "2026-05-26T21:20:56.305638"
 }

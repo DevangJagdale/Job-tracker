@@ -1,8 +1,18 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 16,
+  "total_jobs": 17,
   "jobs": [
+    {
+      "title": "Software Engineer (Security & Reliability Operations), IS&T Enterprise Systems",
+      "url": "https://jobs.apple.com/en-us/details/200664835-0240/software-engineer-security-reliability-operations-is-t-enterprise-systems?team=SFTWR",
+      "identifier": "Software Engineer (Security & Reliability Operatio_-enterprise-systems?team=SFTWR"
+    },
+    {
+      "title": "Software Engineer (SAP Basis Administrator), IS&T Enterprise Systems",
+      "url": "https://jobs.apple.com/en-us/details/200664848-0240/software-engineer-sap-basis-administrator-is-t-enterprise-systems?team=SFTWR",
+      "identifier": "Software Engineer (SAP Basis Administrator), IS&T _-enterprise-systems?team=SFTWR"
+    },
     {
       "title": "Clinical Specialist - Health",
       "url": "https://jobs.apple.com/en-us/details/200665229-0836/clinical-specialist-health?team=SFTWR",
@@ -77,13 +87,8 @@
       "title": "Software Engineer, Apple Services Engineering",
       "url": "https://jobs.apple.com/en-us/details/200664944-3577/software-engineer-apple-services-engineering?team=SFTWR",
       "identifier": "Software Engineer, Apple Services Engineering_ervices-engineering?team=SFTWR"
-    },
-    {
-      "title": "Staff AI Software Engineer, Siri User Experiences",
-      "url": "https://jobs.apple.com/en-us/details/200664946-0836/staff-ai-software-engineer-siri-user-experiences?team=SFTWR",
-      "identifier": "Staff AI Software Engineer, Siri User Experiences_ri-user-experiences?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-26T18:28:28.107402"
+  "timestamp": "2026-05-26T18:45:42.291428"
 }

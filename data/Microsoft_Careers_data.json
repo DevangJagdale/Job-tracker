@@ -4,6 +4,11 @@
   "total_jobs": 10,
   "jobs": [
     {
+      "title": "Principal Software Engineer\nUnited States, Multiple Locations, Multiple Locations + 8 more\nPosted 32 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556869611?domain=microsoft.com",
+      "identifier": "Principal Software Engineer\nUnited States, Multipl_556869611?domain=microsoft.com"
+    },
+    {
       "title": "Principal Data and Applied Scientist\nUnited States, Washington, Redmond\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556643568?domain=microsoft.com",
       "identifier": "Principal Data and Applied Scientist\nUnited States_556643568?domain=microsoft.com"
@@ -29,7 +34,7 @@
       "identifier": "Data Engineer II\nUnited States, Multiple Locations_556869637?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer - CTJ - Poly\nUnited States, Washington, Redmond + 1 more\nPosted 18 hours ago",
+      "title": "Senior Software Engineer - CTJ - Poly\nUnited States, Washington, Redmond + 1 more\nPosted 19 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556855969?domain=microsoft.com",
       "identifier": "Senior Software Engineer - CTJ - Poly\nUnited State_556855969?domain=microsoft.com"
     },
@@ -47,13 +52,8 @@
       "title": "Senior Data Scientist\nUnited States, Washington, Redmond\nPosted a day ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556749812?domain=microsoft.com",
       "identifier": "Senior Data Scientist\nUnited States, Washington, R_556749812?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Software Engineer - Azure Storage\nUnited States, Multiple Locations, Multiple Locations\nPosted a day ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556855993?domain=microsoft.com",
-      "identifier": "Senior Software Engineer - Azure Storage\nUnited St_556855993?domain=microsoft.com"
     }
   ],
   "job_count_text": "423",
-  "timestamp": "2026-05-27T17:35:57.288542"
+  "timestamp": "2026-05-27T17:53:03.577200"
 }

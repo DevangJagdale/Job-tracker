@@ -4,6 +4,11 @@
   "total_jobs": 15,
   "jobs": [
     {
+      "title": "Senior Media Applications Engineer, Audio & Media Technologies",
+      "url": "https://jobs.apple.com/en-us/details/200657151-3543/senior-media-applications-engineer-audio-media-technologies?team=SFTWR",
+      "identifier": "Senior Media Applications Engineer, Audio & Media _-media-technologies?team=SFTWR"
+    },
+    {
       "title": "Media Conferencing Quality Test Engineer",
       "url": "https://jobs.apple.com/en-us/details/200665280-3543/media-conferencing-quality-test-engineer?team=SFTWR",
       "identifier": "Media Conferencing Quality Test Engineer_ality-test-engineer?team=SFTWR"
@@ -72,13 +77,8 @@
       "title": "Senior Software Engineer",
       "url": "https://jobs.apple.com/en-us/details/200664840-3956/senior-software-engineer?team=SFTWR",
       "identifier": "Senior Software Engineer_r-software-engineer?team=SFTWR"
-    },
-    {
-      "title": "Software Engineering Manager - Telephony, Wireless Technologies & Ecosystems",
-      "url": "https://jobs.apple.com/en-us/details/200663941-3543/software-engineering-manager-telephony-wireless-technologies-ecosystems?team=SFTWR",
-      "identifier": "Software Engineering Manager - Telephony, Wireless_nologies-ecosystems?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-27T17:36:12.942052"
+  "timestamp": "2026-05-27T17:53:19.997265"
 }

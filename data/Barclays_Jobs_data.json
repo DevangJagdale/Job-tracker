@@ -1,8 +1,13 @@
 {
   "page_title": "Search our Job Opportunities at Barclays",
   "url": "https://search.jobs.barclays/search-jobs/United%20States/13015/2/6252001/39x76/-98x5/50/2",
-  "total_jobs": 16,
+  "total_jobs": 14,
   "jobs": [
+    {
+      "title": "Senior Site Reliability Engineer - AVP",
+      "url": "https://search.jobs.barclays/job/whippany/senior-site-reliability-engineer-avp/13015/95633295552",
+      "identifier": "Senior Site Reliability Engineer - AVP_engineer-avp/13015/95633295552"
+    },
     {
       "title": "Sr. Tech Lead \u2013 AWS",
       "url": "https://search.jobs.barclays/job/whippany/sr-tech-lead-aws/13015/95604579104",
@@ -67,23 +72,8 @@
       "title": "Onboarding Manager",
       "url": "https://search.jobs.barclays/job/whippany/onboarding-manager/13015/95396054928",
       "identifier": "Onboarding Manager_ding-manager/13015/95396054928"
-    },
-    {
-      "title": "Reliability Engineer \u2013 Markets RTB",
-      "url": "https://search.jobs.barclays/job/whippany/reliability-engineer-markets-rtb/13015/95353590368",
-      "identifier": "Reliability Engineer \u2013 Markets RTB_-markets-rtb/13015/95353590368"
-    },
-    {
-      "title": "API Governance Engineer",
-      "url": "https://search.jobs.barclays/job/whippany/api-governance-engineer/13015/95353590336",
-      "identifier": "API Governance Engineer_nce-engineer/13015/95353590336"
-    },
-    {
-      "title": "ICB Coverage \u2013 Banks, VP",
-      "url": "https://search.jobs.barclays/job/new-york/icb-coverage-banks-vp/13015/95312005152",
-      "identifier": "ICB Coverage \u2013 Banks, VP_age-banks-vp/13015/95312005152"
     }
   ],
-  "job_count_text": "125",
-  "timestamp": "2026-05-27T17:18:21.403152"
+  "job_count_text": "129",
+  "timestamp": "2026-05-27T17:35:39.436217"
 }

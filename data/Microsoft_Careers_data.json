@@ -4,12 +4,17 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Senior Software Engineer\nUnited States, New York, New York + 1 more\nPosted 29 minutes ago",
+      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 5 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556868613?domain=microsoft.com",
+      "identifier": "Senior Software Engineer\nUnited States, Washington_556868613?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Software Engineer\nUnited States, New York, New York + 1 more\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556748077?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, New York, _556748077?domain=microsoft.com"
     },
     {
-      "title": "Site Reliability Engineer - CTJ - Poly\nUnited States, Multiple Locations, Multiple Locations + 4 more\nPosted 33 minutes ago",
+      "title": "Site Reliability Engineer - CTJ - Poly\nUnited States, Multiple Locations, Multiple Locations + 4 more\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556867078?domain=microsoft.com",
       "identifier": "Site Reliability Engineer - CTJ - Poly\nUnited Stat_556867078?domain=microsoft.com"
     },
@@ -34,7 +39,7 @@
       "identifier": "Principal Software Engineer\nUnited States, Multipl_556855360?domain=microsoft.com"
     },
     {
-      "title": "Data Engineer II\nUnited States, Multiple Locations, Multiple Locations\nPosted 18 hours ago",
+      "title": "Data Engineer II\nUnited States, Multiple Locations, Multiple Locations\nPosted 19 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556869637?domain=microsoft.com",
       "identifier": "Data Engineer II\nUnited States, Multiple Locations_556869637?domain=microsoft.com"
     },
@@ -44,16 +49,11 @@
       "identifier": "Senior Software Engineer - CTJ - Poly\nUnited State_556855969?domain=microsoft.com"
     },
     {
-      "title": "Principal Applied Scientist\nUnited States, Washington, Redmond + 1 more\nPosted 19 hours ago",
+      "title": "Principal Applied Scientist\nUnited States, Washington, Redmond + 1 more\nPosted 20 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556869617?domain=microsoft.com",
       "identifier": "Principal Applied Scientist\nUnited States, Washing_556869617?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Software Engineer, Data Platforms and Services - Minecraft\nUnited States, Washington, Redmond\nPosted a day ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556868744?domain=microsoft.com",
-      "identifier": "Senior Software Engineer, Data Platforms and Servi_556868744?domain=microsoft.com"
     }
   ],
-  "job_count_text": "424",
-  "timestamp": "2026-05-27T18:10:08.679857"
+  "job_count_text": "425",
+  "timestamp": "2026-05-27T18:27:12.050745"
 }

@@ -4,6 +4,11 @@
   "total_jobs": 8,
   "jobs": [
     {
+      "title": "Manager - Scrum Master",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0922627/Manager-Scrum-Master",
+      "identifier": "Manager - Scrum Master_/R0922627/Manager-Scrum-Master"
+    },
+    {
       "title": "Senior Business Analyst - SAP",
       "url": "https://jobs.cvshealth.com/us/en/job/R0921233/Senior-Business-Analyst-SAP",
       "identifier": "Senior Business Analyst - SAP_33/Senior-Business-Analyst-SAP"
@@ -29,11 +34,6 @@
       "identifier": "Senior Full Stack Software Development Engineer - _ngineer-React-GCP-Node-Angular"
     },
     {
-      "title": "Manager - Scrum Master",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0922627/Manager-Scrum-Master",
-      "identifier": "Manager - Scrum Master_/R0922627/Manager-Scrum-Master"
-    },
-    {
       "title": "Staff Software Development Engineer (Lead Backend - NestJs)",
       "url": "https://jobs.cvshealth.com/us/en/job/R0863219/Staff-Software-Development-Engineer-Lead-Backend-NestJs",
       "identifier": "Staff Software Development Engineer (Lead Backend _t-Engineer-Lead-Backend-NestJs"
@@ -45,5 +45,5 @@
     }
   ],
   "job_count_text": "35",
-  "timestamp": "2026-05-27T14:20:23.204360"
+  "timestamp": "2026-05-27T14:28:16.998904"
 }

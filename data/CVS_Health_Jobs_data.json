@@ -9,24 +9,24 @@
       "identifier": "Manager - Scrum Master_/R0922627/Manager-Scrum-Master"
     },
     {
+      "title": "Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0868131/Software-Development-Engineer",
+      "identifier": "Software Development Engineer_/Software-Development-Engineer"
+    },
+    {
       "title": "Senior Business Analyst - SAP",
       "url": "https://jobs.cvshealth.com/us/en/job/R0921233/Senior-Business-Analyst-SAP",
       "identifier": "Senior Business Analyst - SAP_33/Senior-Business-Analyst-SAP"
     },
     {
-      "title": "Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0916742/Software-Development-Engineer",
-      "identifier": "Software Development Engineer_/Software-Development-Engineer"
+      "title": "Senior Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0876754/Senior-Software-Development-Engineer",
+      "identifier": "Senior Software Development Engineer_-Software-Development-Engineer"
     },
     {
       "title": "Director of Engineering - SRE & Operations",
       "url": "https://jobs.cvshealth.com/us/en/job/R0890408/Director-of-Engineering-SRE-Operations",
       "identifier": "Director of Engineering - SRE & Operations_-of-Engineering-SRE-Operations"
-    },
-    {
-      "title": "Senior Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0876754/Senior-Software-Development-Engineer",
-      "identifier": "Senior Software Development Engineer_-Software-Development-Engineer"
     },
     {
       "title": "Principal Software Development Engineer (Solutions and Automation)",
@@ -45,5 +45,5 @@
     }
   ],
   "job_count_text": "37",
-  "timestamp": "2026-05-27T21:45:13.011677"
+  "timestamp": "2026-05-27T22:06:45.815254"
 }

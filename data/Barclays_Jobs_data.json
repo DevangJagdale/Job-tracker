@@ -1,8 +1,18 @@
 {
   "page_title": "Search our Job Opportunities at Barclays",
   "url": "https://search.jobs.barclays/search-jobs/United%20States/13015/2/6252001/39x76/-98x5/50/2",
-  "total_jobs": 13,
+  "total_jobs": 16,
   "jobs": [
+    {
+      "title": "Sr. Tech Lead \u2013 AWS",
+      "url": "https://search.jobs.barclays/job/whippany/sr-tech-lead-aws/13015/95604579104",
+      "identifier": "Sr. Tech Lead \u2013 AWS_ech-lead-aws/13015/95604579104"
+    },
+    {
+      "title": "Sr. AWS Cloud Engineer",
+      "url": "https://search.jobs.barclays/job/whippany/sr-aws-cloud-engineer/13015/95604579056",
+      "identifier": "Sr. AWS Cloud Engineer_oud-engineer/13015/95604579056"
+    },
     {
       "title": "AVP - Digital Product Owner",
       "url": "https://search.jobs.barclays/job/wilmington/avp-digital-product-owner/13015/95437655584",
@@ -44,6 +54,11 @@
       "identifier": "Model Risk Management - Model Validation VP_alidation-vp/13015/95424141376"
     },
     {
+      "title": "Director, Markets Audit - Securitised Products",
+      "url": "https://search.jobs.barclays/job/london/director-markets-audit-securitised-products/13015/95411383488",
+      "identifier": "Director, Markets Audit - Securitised Products_sed-products/13015/95411383488"
+    },
+    {
       "title": "Security Engineer",
       "url": "https://search.jobs.barclays/job/whippany/security-engineer/13015/95396055088",
       "identifier": "Security Engineer_ity-engineer/13015/95396055088"
@@ -70,5 +85,5 @@
     }
   ],
   "job_count_text": "125",
-  "timestamp": "2026-05-27T11:23:50.829650"
+  "timestamp": "2026-05-27T11:40:59.561048"
 }

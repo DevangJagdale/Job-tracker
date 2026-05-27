@@ -4,6 +4,21 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Human Interface Designer - Instructional Products",
+      "url": "https://jobs.apple.com/en-us/details/200613718-0836/human-interface-designer-instructional-products?team=SFTWR",
+      "identifier": "Human Interface Designer - Instructional Products_tructional-products?team=SFTWR"
+    },
+    {
+      "title": "Software Device Driver Engineer - Core I/O, Core OS",
+      "url": "https://jobs.apple.com/en-us/details/200658892-0157/software-device-driver-engineer-core-i-o-core-os?team=SFTWR",
+      "identifier": "Software Device Driver Engineer - Core I/O, Core O_er-core-i-o-core-os?team=SFTWR"
+    },
+    {
+      "title": "Content Engineering Author - Developer Publications",
+      "url": "https://jobs.apple.com/en-us/details/200663455-2535/content-engineering-author-developer-publications?team=SFTWR",
+      "identifier": "Content Engineering Author - Developer Publication_eloper-publications?team=SFTWR"
+    },
+    {
       "title": "Database Systems SRE, ASE Cassandra SRE",
       "url": "https://jobs.apple.com/en-us/details/200665417-3337/database-systems-sre-ase-cassandra-sre?team=SFTWR",
       "identifier": "Database Systems SRE, ASE Cassandra SRE_e-ase-cassandra-sre?team=SFTWR"
@@ -67,23 +82,8 @@
       "title": "Sr Staff Machine Learning Engineer, ML Platform",
       "url": "https://jobs.apple.com/en-us/details/200641072-0836/sr-staff-machine-learning-engineer-ml-platform?team=MLAI",
       "identifier": "Sr Staff Machine Learning Engineer, ML Platform_engineer-ml-platform?team=MLAI"
-    },
-    {
-      "title": "Senior Engineering Program Manager - ASE / PCC",
-      "url": "https://jobs.apple.com/en-us/details/200665306-0836/senior-engineering-program-manager-ase-pcc?team=SFTWR",
-      "identifier": "Senior Engineering Program Manager - ASE / PCC_ram-manager-ase-pcc?team=SFTWR"
-    },
-    {
-      "title": "HomeKit Software Engineer, Wireless Technologies & Ecosystems",
-      "url": "https://jobs.apple.com/en-us/details/200665300-3543/homekit-software-engineer-wireless-technologies-ecosystems?team=SFTWR",
-      "identifier": "HomeKit Software Engineer, Wireless Technologies &_nologies-ecosystems?team=SFTWR"
-    },
-    {
-      "title": "Computer Vision and Machine Learning Engineer, Creativity Apps",
-      "url": "https://jobs.apple.com/en-us/details/200661630-0836/computer-vision-and-machine-learning-engineer-creativity-apps?team=SFTWR",
-      "identifier": "Computer Vision and Machine Learning Engineer, Cre_eer-creativity-apps?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-27T18:44:33.195622"
+  "timestamp": "2026-05-27T19:01:43.028585"
 }

@@ -1,8 +1,13 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 17,
+  "total_jobs": 16,
   "jobs": [
+    {
+      "title": "Software Development Engineer in Test - Core I/O Transports Quality Engineering, Core OS",
+      "url": "https://jobs.apple.com/en-us/details/200665472-0836/software-development-engineer-in-test-core-i-o-transports-quality-engineering-core-os?team=SFTWR",
+      "identifier": "Software Development Engineer in Test - Core I/O T_engineering-core-os?team=SFTWR"
+    },
     {
       "title": "Senior Media Applications Engineer, Audio & Media Technologies",
       "url": "https://jobs.apple.com/en-us/details/200657151-3543/senior-media-applications-engineer-audio-media-technologies?team=SFTWR",
@@ -12,11 +17,6 @@
       "title": "Engineering Manager, Platform Services",
       "url": "https://jobs.apple.com/en-us/details/200663131-0157/engineering-manager-platform-services?team=SFTWR",
       "identifier": "Engineering Manager, Platform Services_r-platform-services?team=SFTWR"
-    },
-    {
-      "title": "Software Development Engineer in Test - Core I/O Transports Quality Engineering, Core OS",
-      "url": "https://jobs.apple.com/en-us/details/200665480-0836/software-development-engineer-in-test-core-i-o-transports-quality-engineering-core-os?team=SFTWR",
-      "identifier": "Software Development Engineer in Test - Core I/O T_engineering-core-os?team=SFTWR"
     },
     {
       "title": "Continuous Integration Software Engineer, Audio & Media Technologies",
@@ -82,13 +82,8 @@
       "title": "Site Reliability Engineering Manager, Storage - Apple Services Engineering",
       "url": "https://jobs.apple.com/en-us/details/200665408-0836/site-reliability-engineering-manager-storage-apple-services-engineering?team=SFTWR",
       "identifier": "Site Reliability Engineering Manager, Storage - Ap_ervices-engineering?team=SFTWR"
-    },
-    {
-      "title": "Media Conferencing Quality Test Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200665280-3543/media-conferencing-quality-test-engineer?team=SFTWR",
-      "identifier": "Media Conferencing Quality Test Engineer_ality-test-engineer?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-27T20:36:18.802576"
+  "timestamp": "2026-05-27T20:53:17.049654"
 }

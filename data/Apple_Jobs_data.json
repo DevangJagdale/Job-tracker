@@ -1,8 +1,28 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 16,
+  "total_jobs": 17,
   "jobs": [
+    {
+      "title": "Audio Software Quality Manager, Apple Vision Pro",
+      "url": "https://jobs.apple.com/en-us/details/200654571-0365/audio-software-quality-manager-apple-vision-pro?team=SFTWR",
+      "identifier": "Audio Software Quality Manager, Apple Vision Pro_er-apple-vision-pro?team=SFTWR"
+    },
+    {
+      "title": "Director of Software Engineering, Comms Apps Teams",
+      "url": "https://jobs.apple.com/en-us/details/200631981-0836/director-of-software-engineering-comms-apps-teams?team=SFTWR",
+      "identifier": "Director of Software Engineering, Comms Apps Teams_ng-comms-apps-teams?team=SFTWR"
+    },
+    {
+      "title": "Engineering Manager, Data for Applied AI Models",
+      "url": "https://jobs.apple.com/en-us/details/200648101-0836/engineering-manager-data-for-applied-ai-models?team=SFTWR",
+      "identifier": "Engineering Manager, Data for Applied AI Models_r-applied-ai-models?team=SFTWR"
+    },
+    {
+      "title": "Metal Frameworks Engineering Manager",
+      "url": "https://jobs.apple.com/en-us/details/200638759-0836/metal-frameworks-engineering-manager?team=SFTWR",
+      "identifier": "Metal Frameworks Engineering Manager_engineering-manager?team=SFTWR"
+    },
     {
       "title": "Sr Software Engineering Manager, UI Rendering",
       "url": "https://jobs.apple.com/en-us/details/200631982-0836/sr-software-engineering-manager-ui-rendering?team=SFTWR",
@@ -67,23 +87,8 @@
       "title": "Data Engineer",
       "url": "https://jobs.apple.com/en-us/details/200643156-0836/data-engineer?team=SFTWR",
       "identifier": "Data Engineer_-0836/data-engineer?team=SFTWR"
-    },
-    {
-      "title": "Manager - WW Ops BPR - Business Operations Strategy & Support",
-      "url": "https://jobs.apple.com/en-us/details/200659423-0157/manager-ww-ops-bpr-business-operations-strategy-support?team=OPMFG",
-      "identifier": "Manager - WW Ops BPR - Business Operations Strateg_ns-strategy-support?team=OPMFG"
-    },
-    {
-      "title": "iOS Software Engineer, Image Generation",
-      "url": "https://jobs.apple.com/en-us/details/200625215-0836/ios-software-engineer-image-generation?team=SFTWR",
-      "identifier": "iOS Software Engineer, Image Generation_er-image-generation?team=SFTWR"
-    },
-    {
-      "title": "Software Development Engineer in Test, Swift Platform Experience",
-      "url": "https://jobs.apple.com/en-us/details/200665196-0836/software-development-engineer-in-test-swift-platform-experience?team=SFTWR",
-      "identifier": "Software Development Engineer in Test, Swift Platf_platform-experience?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-27T19:53:32.525987"
+  "timestamp": "2026-05-27T20:01:51.730426"
 }

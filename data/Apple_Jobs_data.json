@@ -4,6 +4,16 @@
   "total_jobs": 15,
   "jobs": [
     {
+      "title": "Media Conferencing Quality Test Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200665280-3543/media-conferencing-quality-test-engineer?team=SFTWR",
+      "identifier": "Media Conferencing Quality Test Engineer_ality-test-engineer?team=SFTWR"
+    },
+    {
+      "title": "Engineering Manager, Platform Services",
+      "url": "https://jobs.apple.com/en-us/details/200663131-0157/engineering-manager-platform-services?team=SFTWR",
+      "identifier": "Engineering Manager, Platform Services_r-platform-services?team=SFTWR"
+    },
+    {
       "title": "Software Engineer (SAP SLT Administrator), IS&T Enterprise Systems",
       "url": "https://jobs.apple.com/en-us/details/200664845-0240/software-engineer-sap-slt-administrator-is-t-enterprise-systems?team=SFTWR",
       "identifier": "Software Engineer (SAP SLT Administrator), IS&T En_-enterprise-systems?team=SFTWR"
@@ -67,18 +77,8 @@
       "title": "Software Engineering Manager - Telephony, Wireless Technologies & Ecosystems",
       "url": "https://jobs.apple.com/en-us/details/200663941-3543/software-engineering-manager-telephony-wireless-technologies-ecosystems?team=SFTWR",
       "identifier": "Software Engineering Manager - Telephony, Wireless_nologies-ecosystems?team=SFTWR"
-    },
-    {
-      "title": "Wi-Fi Software Engineer, Wireless Technologies & Ecosystems",
-      "url": "https://jobs.apple.com/en-us/details/200665281-0836/wi-fi-software-engineer-wireless-technologies-ecosystems?team=SFTWR",
-      "identifier": "Wi-Fi Software Engineer, Wireless Technologies & E_nologies-ecosystems?team=SFTWR"
-    },
-    {
-      "title": "US Security Incident Response Team (SIRT) Manager",
-      "url": "https://jobs.apple.com/en-us/details/200664488-0836/us-security-incident-response-team-sirt-manager?team=SFTWR",
-      "identifier": "US Security Incident Response Team (SIRT) Manager_e-team-sirt-manager?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-27T16:10:17.592056"
+  "timestamp": "2026-05-27T16:27:31.713532"
 }

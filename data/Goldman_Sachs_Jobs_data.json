@@ -4,14 +4,14 @@
   "total_jobs": 20,
   "jobs": [
     {
-      "title": "Controllers, Software Engineering, Salt Lake City, Associate\nSalt Lake City\u00b7United States\n\u00b7Associate",
-      "url": "https://higher.gs.com/roles/174449",
-      "identifier": "Controllers, Software Engineering, Salt Lake City,_s://higher.gs.com/roles/174449"
-    },
-    {
       "title": "AWM, Marcus by Goldman Sachs, Pricing & Analytics, Analyst - Richardson, TX\nRichardson\u00b7United States\n\u00b7Analyst",
       "url": "https://higher.gs.com/roles/151793",
       "identifier": "AWM, Marcus by Goldman Sachs, Pricing & Analytics,_s://higher.gs.com/roles/151793"
+    },
+    {
+      "title": "Controllers, Software Engineering, Salt Lake City, Associate\nSalt Lake City\u00b7United States\n\u00b7Associate",
+      "url": "https://higher.gs.com/roles/174449",
+      "identifier": "Controllers, Software Engineering, Salt Lake City,_s://higher.gs.com/roles/174449"
     },
     {
       "title": "Internal Audit, Software Engineering, New York, Associate\nNew York\u00b7United States\n\u00b7Associate",
@@ -105,5 +105,5 @@
     }
   ],
   "job_count_text": "41",
-  "timestamp": "2026-05-27T16:09:27.109749"
+  "timestamp": "2026-05-27T16:26:41.598959"
 }

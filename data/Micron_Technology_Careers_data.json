@@ -4,6 +4,11 @@
   "total_jobs": 10,
   "jobs": [
     {
+      "title": "ENGINEER, DEMQRA AUTOMOTIVE PQRE\nManassas, Virginia, United States of America + 1 more\nPosted 2 days ago",
+      "url": "https://careers.micron.com/careers/job/42076135",
+      "identifier": "ENGINEER, DEMQRA AUTOMOTIVE PQRE\nManassas, Virgini_icron.com/careers/job/42076135"
+    },
+    {
       "title": "Computer Engineer, CE\nRichardson, Texas, United States of America\nPosted 2 days ago",
       "url": "https://careers.micron.com/careers/job/41736690",
       "identifier": "Computer Engineer, CE\nRichardson, Texas, United St_icron.com/careers/job/41736690"
@@ -17,11 +22,6 @@
       "title": "New College Grad - Metrology Applications Engineer\nManassas, Virginia, United States of America\nPosted 2 days ago",
       "url": "https://careers.micron.com/careers/job/40100239",
       "identifier": "New College Grad - Metrology Applications Engineer_icron.com/careers/job/40100239"
-    },
-    {
-      "title": "ENGINEER, DEMQRA AUTOMOTIVE PQRE\nManassas, Virginia, United States of America + 1 more\nPosted 2 days ago",
-      "url": "https://careers.micron.com/careers/job/42076135",
-      "identifier": "ENGINEER, DEMQRA AUTOMOTIVE PQRE\nManassas, Virgini_icron.com/careers/job/42076135"
     },
     {
       "title": "Design Verification Engineer\nBoise, Idaho, United States of America\nPosted 6 days ago",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "101",
-  "timestamp": "2026-05-27T12:56:09.774697"
+  "timestamp": "2026-05-27T13:13:30.529580"
 }

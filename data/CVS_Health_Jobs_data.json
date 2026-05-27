@@ -4,6 +4,11 @@
   "total_jobs": 8,
   "jobs": [
     {
+      "title": "Senior Full Stack Software Development Engineer - (React, GCP, Node, Angular)",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0851822/Senior-Full-Stack-Software-Development-Engineer-React-GCP-Node-Angular",
+      "identifier": "Senior Full Stack Software Development Engineer - _ngineer-React-GCP-Node-Angular"
+    },
+    {
       "title": "Manager - Scrum Master",
       "url": "https://jobs.cvshealth.com/us/en/job/R0922627/Manager-Scrum-Master",
       "identifier": "Manager - Scrum Master_/R0922627/Manager-Scrum-Master"
@@ -29,11 +34,6 @@
       "identifier": "Manager - Scrum Master_/R0916455/Manager-Scrum-Master"
     },
     {
-      "title": "Senior Full Stack Software Development Engineer - (React, GCP, Node, Angular)",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0851822/Senior-Full-Stack-Software-Development-Engineer-React-GCP-Node-Angular",
-      "identifier": "Senior Full Stack Software Development Engineer - _ngineer-React-GCP-Node-Angular"
-    },
-    {
       "title": "Staff Software Development Engineer (Lead Backend - NestJs)",
       "url": "https://jobs.cvshealth.com/us/en/job/R0863219/Staff-Software-Development-Engineer-Lead-Backend-NestJs",
       "identifier": "Staff Software Development Engineer (Lead Backend _t-Engineer-Lead-Backend-NestJs"
@@ -45,5 +45,5 @@
     }
   ],
   "job_count_text": "35",
-  "timestamp": "2026-05-27T14:28:16.998904"
+  "timestamp": "2026-05-27T14:45:23.952858"
 }

@@ -4,46 +4,46 @@
   "total_jobs": 8,
   "jobs": [
     {
+      "title": "Senior Business Analyst - SAP",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0921233/Senior-Business-Analyst-SAP",
+      "identifier": "Senior Business Analyst - SAP_33/Senior-Business-Analyst-SAP"
+    },
+    {
+      "title": "Senior Manager - Scrum Master",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0921855/Senior-Manager-Scrum-Master",
+      "identifier": "Senior Manager - Scrum Master_55/Senior-Manager-Scrum-Master"
+    },
+    {
+      "title": "Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0916742/Software-Development-Engineer",
+      "identifier": "Software Development Engineer_/Software-Development-Engineer"
+    },
+    {
+      "title": "Manager - Scrum Master",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0916455/Manager-Scrum-Master",
+      "identifier": "Manager - Scrum Master_/R0916455/Manager-Scrum-Master"
+    },
+    {
+      "title": "Senior Full Stack Software Development Engineer - (React, GCP, Node, Angular)",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0851822/Senior-Full-Stack-Software-Development-Engineer-React-GCP-Node-Angular",
+      "identifier": "Senior Full Stack Software Development Engineer - _ngineer-React-GCP-Node-Angular"
+    },
+    {
+      "title": "Manager - Scrum Master",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0922627/Manager-Scrum-Master",
+      "identifier": "Manager - Scrum Master_/R0922627/Manager-Scrum-Master"
+    },
+    {
       "title": "Staff Software Development Engineer (Lead Backend - NestJs)",
       "url": "https://jobs.cvshealth.com/us/en/job/R0863219/Staff-Software-Development-Engineer-Lead-Backend-NestJs",
       "identifier": "Staff Software Development Engineer (Lead Backend _t-Engineer-Lead-Backend-NestJs"
     },
     {
-      "title": "Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0921062/Software-Development-Engineer",
-      "identifier": "Software Development Engineer_/Software-Development-Engineer"
-    },
-    {
       "title": "Senior Software Development Engineer",
       "url": "https://jobs.cvshealth.com/us/en/job/R0834643/Senior-Software-Development-Engineer",
       "identifier": "Senior Software Development Engineer_-Software-Development-Engineer"
-    },
-    {
-      "title": "Executive Director, Adjudication Software Engineering & Transformation",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0889257/Executive-Director-Adjudication-Software-Engineering-Transformation",
-      "identifier": "Executive Director, Adjudication Software Engineer_are-Engineering-Transformation"
-    },
-    {
-      "title": "Senior Quality Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0908671/Senior-Quality-Engineer",
-      "identifier": "Senior Quality Engineer_908671/Senior-Quality-Engineer"
-    },
-    {
-      "title": "Executive Director, Client Experience Engineering",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0891832/Executive-Director-Client-Experience-Engineering",
-      "identifier": "Executive Director, Client Experience Engineering_-Client-Experience-Engineering"
-    },
-    {
-      "title": "Executive Director, Software Engineering",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0920486/Executive-Director-Software-Engineering",
-      "identifier": "Executive Director, Software Engineering_-Director-Software-Engineering"
-    },
-    {
-      "title": "Head of HR Data Governance - Workday",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0918538/Head-of-HR-Data-Governance-Workday",
-      "identifier": "Head of HR Data Governance - Workday_-of-HR-Data-Governance-Workday"
     }
   ],
-  "job_count_text": "29",
-  "timestamp": "2026-05-27T14:03:04.881864"
+  "job_count_text": "35",
+  "timestamp": "2026-05-27T14:20:23.204360"
 }

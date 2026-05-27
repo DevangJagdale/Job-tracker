@@ -4,6 +4,11 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Sr Software Engineering Manager, UI Rendering",
+      "url": "https://jobs.apple.com/en-us/details/200631982-0836/sr-software-engineering-manager-ui-rendering?team=SFTWR",
+      "identifier": "Sr Software Engineering Manager, UI Rendering_anager-ui-rendering?team=SFTWR"
+    },
+    {
       "title": "Human Interface Designer - Instructional Products",
       "url": "https://jobs.apple.com/en-us/details/200613718-0836/human-interface-designer-instructional-products?team=SFTWR",
       "identifier": "Human Interface Designer - Instructional Products_tructional-products?team=SFTWR"
@@ -77,13 +82,8 @@
       "title": "Software Development Engineer in Test, Swift Platform Experience",
       "url": "https://jobs.apple.com/en-us/details/200665196-0836/software-development-engineer-in-test-swift-platform-experience?team=SFTWR",
       "identifier": "Software Development Engineer in Test, Swift Platf_platform-experience?team=SFTWR"
-    },
-    {
-      "title": "Sr Staff Machine Learning Engineer, ML Platform",
-      "url": "https://jobs.apple.com/en-us/details/200641072-0836/sr-staff-machine-learning-engineer-ml-platform?team=MLAI",
-      "identifier": "Sr Staff Machine Learning Engineer, ML Platform_engineer-ml-platform?team=MLAI"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-27T19:36:10.520250"
+  "timestamp": "2026-05-27T19:53:32.525987"
 }

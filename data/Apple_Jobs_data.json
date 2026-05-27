@@ -4,6 +4,21 @@
   "total_jobs": 17,
   "jobs": [
     {
+      "title": "Senior Media Applications Engineer, Audio & Media Technologies",
+      "url": "https://jobs.apple.com/en-us/details/200657151-3543/senior-media-applications-engineer-audio-media-technologies?team=SFTWR",
+      "identifier": "Senior Media Applications Engineer, Audio & Media _-media-technologies?team=SFTWR"
+    },
+    {
+      "title": "Engineering Manager, Platform Services",
+      "url": "https://jobs.apple.com/en-us/details/200663131-0157/engineering-manager-platform-services?team=SFTWR",
+      "identifier": "Engineering Manager, Platform Services_r-platform-services?team=SFTWR"
+    },
+    {
+      "title": "Software Development Engineer in Test - Core I/O Transports Quality Engineering, Core OS",
+      "url": "https://jobs.apple.com/en-us/details/200665480-0836/software-development-engineer-in-test-core-i-o-transports-quality-engineering-core-os?team=SFTWR",
+      "identifier": "Software Development Engineer in Test - Core I/O T_engineering-core-os?team=SFTWR"
+    },
+    {
       "title": "Continuous Integration Software Engineer, Audio & Media Technologies",
       "url": "https://jobs.apple.com/en-us/details/200634333-3543/continuous-integration-software-engineer-audio-media-technologies?team=SFTWR",
       "identifier": "Continuous Integration Software Engineer, Audio & _-media-technologies?team=SFTWR"
@@ -69,26 +84,11 @@
       "identifier": "Site Reliability Engineering Manager, Storage - Ap_ervices-engineering?team=SFTWR"
     },
     {
-      "title": "Engineering Manager, Platform Services",
-      "url": "https://jobs.apple.com/en-us/details/200663131-0157/engineering-manager-platform-services?team=SFTWR",
-      "identifier": "Engineering Manager, Platform Services_r-platform-services?team=SFTWR"
-    },
-    {
-      "title": "Senior Media Applications Engineer, Audio & Media Technologies",
-      "url": "https://jobs.apple.com/en-us/details/200657151-3543/senior-media-applications-engineer-audio-media-technologies?team=SFTWR",
-      "identifier": "Senior Media Applications Engineer, Audio & Media _-media-technologies?team=SFTWR"
-    },
-    {
       "title": "Media Conferencing Quality Test Engineer",
       "url": "https://jobs.apple.com/en-us/details/200665280-3543/media-conferencing-quality-test-engineer?team=SFTWR",
       "identifier": "Media Conferencing Quality Test Engineer_ality-test-engineer?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer (SAP SLT Administrator), IS&T Enterprise Systems",
-      "url": "https://jobs.apple.com/en-us/details/200664845-0240/software-engineer-sap-slt-administrator-is-t-enterprise-systems?team=SFTWR",
-      "identifier": "Software Engineer (SAP SLT Administrator), IS&T En_-enterprise-systems?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-27T20:19:21.396848"
+  "timestamp": "2026-05-27T20:36:18.802576"
 }

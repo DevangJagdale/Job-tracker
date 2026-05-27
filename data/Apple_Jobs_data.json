@@ -4,6 +4,16 @@
   "total_jobs": 17,
   "jobs": [
     {
+      "title": "Continuous Integration Software Engineer, Audio & Media Technologies",
+      "url": "https://jobs.apple.com/en-us/details/200634333-3543/continuous-integration-software-engineer-audio-media-technologies?team=SFTWR",
+      "identifier": "Continuous Integration Software Engineer, Audio & _-media-technologies?team=SFTWR"
+    },
+    {
+      "title": "Software Engineer, Infrastructure Services",
+      "url": "https://jobs.apple.com/en-us/details/200648019-0157/software-engineer-infrastructure-services?team=SFTWR",
+      "identifier": "Software Engineer, Infrastructure Services_astructure-services?team=SFTWR"
+    },
+    {
       "title": "Audio Software Quality Manager, Apple Vision Pro",
       "url": "https://jobs.apple.com/en-us/details/200654571-0365/audio-software-quality-manager-apple-vision-pro?team=SFTWR",
       "identifier": "Audio Software Quality Manager, Apple Vision Pro_er-apple-vision-pro?team=SFTWR"
@@ -77,18 +87,8 @@
       "title": "Software Engineer (SAP SLT Administrator), IS&T Enterprise Systems",
       "url": "https://jobs.apple.com/en-us/details/200664845-0240/software-engineer-sap-slt-administrator-is-t-enterprise-systems?team=SFTWR",
       "identifier": "Software Engineer (SAP SLT Administrator), IS&T En_-enterprise-systems?team=SFTWR"
-    },
-    {
-      "title": "Senior Cloud Security Engineer - Design Review",
-      "url": "https://jobs.apple.com/en-us/details/200635090-3337/senior-cloud-security-engineer-design-review?team=SFTWR",
-      "identifier": "Senior Cloud Security Engineer - Design Review_ineer-design-review?team=SFTWR"
-    },
-    {
-      "title": "Data Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200643156-0836/data-engineer?team=SFTWR",
-      "identifier": "Data Engineer_-0836/data-engineer?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-27T20:01:51.730426"
+  "timestamp": "2026-05-27T20:19:21.396848"
 }

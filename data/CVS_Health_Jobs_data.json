@@ -1,7 +1,7 @@
 {
   "page_title": "Search CVS Health Jobs | Find Your Next Career Opportunity",
   "url": "https://jobs.cvshealth.com/us/en/search-results",
-  "total_jobs": 8,
+  "total_jobs": 7,
   "jobs": [
     {
       "title": "Manager - Scrum Master",
@@ -9,14 +9,14 @@
       "identifier": "Manager - Scrum Master_/R0922627/Manager-Scrum-Master"
     },
     {
-      "title": "Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0868131/Software-Development-Engineer",
-      "identifier": "Software Development Engineer_/Software-Development-Engineer"
-    },
-    {
       "title": "Senior Manager - Scrum Master",
       "url": "https://jobs.cvshealth.com/us/en/job/R0921855/Senior-Manager-Scrum-Master",
       "identifier": "Senior Manager - Scrum Master_55/Senior-Manager-Scrum-Master"
+    },
+    {
+      "title": "Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0916742/Software-Development-Engineer",
+      "identifier": "Software Development Engineer_/Software-Development-Engineer"
     },
     {
       "title": "Manager - Scrum Master",
@@ -29,21 +29,16 @@
       "identifier": "Senior Business Analyst - SAP_33/Senior-Business-Analyst-SAP"
     },
     {
-      "title": "Staff Software Development Engineer (Lead Backend - NestJs)",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0863219/Staff-Software-Development-Engineer-Lead-Backend-NestJs",
-      "identifier": "Staff Software Development Engineer (Lead Backend _t-Engineer-Lead-Backend-NestJs"
-    },
-    {
       "title": "Senior Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0834643/Senior-Software-Development-Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0876754/Senior-Software-Development-Engineer",
       "identifier": "Senior Software Development Engineer_-Software-Development-Engineer"
     },
     {
-      "title": "Executive Director, Adjudication Software Engineering & Transformation",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0889257/Executive-Director-Adjudication-Software-Engineering-Transformation",
-      "identifier": "Executive Director, Adjudication Software Engineer_are-Engineering-Transformation"
+      "title": "Staff Software Development Engineer (Lead Backend - NestJs)",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0863219/Staff-Software-Development-Engineer-Lead-Backend-NestJs",
+      "identifier": "Staff Software Development Engineer (Lead Backend _t-Engineer-Lead-Backend-NestJs"
     }
   ],
-  "job_count_text": "35",
-  "timestamp": "2026-05-27T19:20:02.930119"
+  "job_count_text": "36",
+  "timestamp": "2026-05-27T19:37:12.826956"
 }

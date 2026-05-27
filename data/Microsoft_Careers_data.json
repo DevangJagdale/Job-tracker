@@ -4,12 +4,17 @@
   "total_jobs": 10,
   "jobs": [
     {
+      "title": "Principal Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 16 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556855360?domain=microsoft.com",
+      "identifier": "Principal Software Engineer\nUnited States, Multipl_556855360?domain=microsoft.com"
+    },
+    {
       "title": "Data Engineer II\nUnited States, Multiple Locations, Multiple Locations\nPosted 14 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556869637?domain=microsoft.com",
       "identifier": "Data Engineer II\nUnited States, Multiple Locations_556869637?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer - CTJ - Poly\nUnited States, Washington, Redmond + 1 more\nPosted 14 hours ago",
+      "title": "Senior Software Engineer - CTJ - Poly\nUnited States, Washington, Redmond + 1 more\nPosted 15 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556855969?domain=microsoft.com",
       "identifier": "Senior Software Engineer - CTJ - Poly\nUnited State_556855969?domain=microsoft.com"
     },
@@ -39,7 +44,7 @@
       "identifier": "Principal Applied Scientist\nUnited States, Washing_556862646?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer\nUnited States, Washington, Redmond + 1 more\nPosted 20 hours ago",
+      "title": "Senior Software Engineer\nUnited States, Washington, Redmond + 1 more\nPosted 21 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556753224?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Washington_556753224?domain=microsoft.com"
     },
@@ -47,13 +52,8 @@
       "title": "Principal Software Engineer Manager- CTJ - Poly\nUnited States, Virginia, Reston + 3 more\nPosted 21 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556868701?domain=microsoft.com",
       "identifier": "Principal Software Engineer Manager- CTJ - Poly\nUn_556868701?domain=microsoft.com"
-    },
-    {
-      "title": "Data & Applied Scientist II\nUnited States, Washington, Redmond\nPosted 21 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556852372?domain=microsoft.com",
-      "identifier": "Data & Applied Scientist II\nUnited States, Washing_556852372?domain=microsoft.com"
     }
   ],
-  "job_count_text": "421",
-  "timestamp": "2026-05-27T13:27:14.002812"
+  "job_count_text": "422",
+  "timestamp": "2026-05-27T13:44:29.910663"
 }

@@ -1,8 +1,13 @@
 {
   "page_title": "Job Openings - Cisco Careers",
   "url": "https://careers.cisco.com/global/en/search-results?s=1",
-  "total_jobs": 9,
+  "total_jobs": 10,
   "jobs": [
+    {
+      "title": "Strategy & Planning Manager III (Full Time) - United States",
+      "url": "https://careers.cisco.com/global/en/job/2013396/Strategy-Planning-Manager-III-Full-Time-United-States",
+      "identifier": "Strategy & Planning Manager III (Full Time) - Unit_er-III-Full-Time-United-States"
+    },
     {
       "title": "ASIC Design Verfication Engineer II (Full Time) - United States",
       "url": "https://careers.cisco.com/global/en/job/2002902/ASIC-Design-Verfication-Engineer-II-Full-Time-United-States",
@@ -49,6 +54,6 @@
       "identifier": "Sales Development Representative II (Full Time) Un_al-Demand-Center-United-States"
     }
   ],
-  "job_count_text": "9",
-  "timestamp": "2026-05-27T14:46:11.221815"
+  "job_count_text": "10",
+  "timestamp": "2026-05-27T15:03:25.257636"
 }

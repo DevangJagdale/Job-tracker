@@ -4,9 +4,19 @@
   "total_jobs": 8,
   "jobs": [
     {
-      "title": "Quality Engineer - IBMi",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0880639/Quality-Engineer-IBMi",
-      "identifier": "Quality Engineer - IBMi_R0880639/Quality-Engineer-IBMi"
+      "title": "Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0921062/Software-Development-Engineer",
+      "identifier": "Software Development Engineer_/Software-Development-Engineer"
+    },
+    {
+      "title": "Senior Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0834643/Senior-Software-Development-Engineer",
+      "identifier": "Senior Software Development Engineer_-Software-Development-Engineer"
+    },
+    {
+      "title": "Staff Software Development Engineer (Lead Backend - NestJs)",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0863219/Staff-Software-Development-Engineer-Lead-Backend-NestJs",
+      "identifier": "Staff Software Development Engineer (Lead Backend _t-Engineer-Lead-Backend-NestJs"
     },
     {
       "title": "Executive Director, Adjudication Software Engineering & Transformation",
@@ -32,18 +42,8 @@
       "title": "Head of HR Data Governance - Workday",
       "url": "https://jobs.cvshealth.com/us/en/job/R0918538/Head-of-HR-Data-Governance-Workday",
       "identifier": "Head of HR Data Governance - Workday_-of-HR-Data-Governance-Workday"
-    },
-    {
-      "title": "Senior Manager - SRE - RunOps - PBM-IT",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0906780/Senior-Manager-SRE-RunOps-PBM-IT",
-      "identifier": "Senior Manager - SRE - RunOps - PBM-IT_nior-Manager-SRE-RunOps-PBM-IT"
-    },
-    {
-      "title": "Exchange & Copilot Operations Support Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0857628/Exchange-Copilot-Operations-Support-Engineer",
-      "identifier": "Exchange & Copilot Operations Support Engineer_ot-Operations-Support-Engineer"
     }
   ],
-  "job_count_text": "28",
-  "timestamp": "2026-05-27T08:08:44.514553"
+  "job_count_text": "30",
+  "timestamp": "2026-05-27T08:25:51.533952"
 }

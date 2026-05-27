@@ -4,6 +4,11 @@
   "total_jobs": 15,
   "jobs": [
     {
+      "title": "Software Engineer (SAP SLT Administrator), IS&T Enterprise Systems",
+      "url": "https://jobs.apple.com/en-us/details/200664845-0240/software-engineer-sap-slt-administrator-is-t-enterprise-systems?team=SFTWR",
+      "identifier": "Software Engineer (SAP SLT Administrator), IS&T En_-enterprise-systems?team=SFTWR"
+    },
+    {
       "title": "Senior Cloud Security Engineer - Design Review",
       "url": "https://jobs.apple.com/en-us/details/200635090-3337/senior-cloud-security-engineer-design-review?team=SFTWR",
       "identifier": "Senior Cloud Security Engineer - Design Review_ineer-design-review?team=SFTWR"
@@ -72,13 +77,8 @@
       "title": "US Security Incident Response Team (SIRT) Manager",
       "url": "https://jobs.apple.com/en-us/details/200664488-0836/us-security-incident-response-team-sirt-manager?team=SFTWR",
       "identifier": "US Security Incident Response Team (SIRT) Manager_e-team-sirt-manager?team=SFTWR"
-    },
-    {
-      "title": "Hardware Engineer - Apple Maps",
-      "url": "https://jobs.apple.com/en-us/details/200631379-0836/hardware-engineer-apple-maps?team=SFTWR",
-      "identifier": "Hardware Engineer - Apple Maps_engineer-apple-maps?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-27T15:53:10.395378"
+  "timestamp": "2026-05-27T16:10:17.592056"
 }

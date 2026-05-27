@@ -4,6 +4,11 @@
   "total_jobs": 10,
   "jobs": [
     {
+      "title": "New College Grad - Metrology Applications Engineer\nManassas, Virginia, United States of America\nPosted 2 days ago",
+      "url": "https://careers.micron.com/careers/job/40100239",
+      "identifier": "New College Grad - Metrology Applications Engineer_icron.com/careers/job/40100239"
+    },
+    {
       "title": "Computer Engineer, CE\nBoise, Idaho, United States of America\nPosted 2 days ago",
       "url": "https://careers.micron.com/careers/job/41740737",
       "identifier": "Computer Engineer, CE\nBoise, Idaho, United States _icron.com/careers/job/41740737"
@@ -17,16 +22,6 @@
       "title": "Computer Engineer, CE\nRichardson, Texas, United States of America\nPosted 2 days ago",
       "url": "https://careers.micron.com/careers/job/41736690",
       "identifier": "Computer Engineer, CE\nRichardson, Texas, United St_icron.com/careers/job/41736690"
-    },
-    {
-      "title": "New College Grad - Metrology Applications Engineer\nManassas, Virginia, United States of America\nPosted 2 days ago",
-      "url": "https://careers.micron.com/careers/job/40100239",
-      "identifier": "New College Grad - Metrology Applications Engineer_icron.com/careers/job/40100239"
-    },
-    {
-      "title": "New College Grad - DRAM Product Reliability Characterization Engineer\nBoise, Idaho, United States of America\nPosted 6 days ago",
-      "url": "https://careers.micron.com/careers/job/41806502",
-      "identifier": "New College Grad - DRAM Product Reliability Charac_icron.com/careers/job/41806502"
     },
     {
       "title": "Design Verification Engineer\nBoise, Idaho, United States of America\nPosted 6 days ago",
@@ -52,8 +47,13 @@
       "title": "Semiconductor Design Engineer\nBoise, Idaho, United States of America\nPosted 6 days ago",
       "url": "https://careers.micron.com/careers/job/42044099",
       "identifier": "Semiconductor Design Engineer\nBoise, Idaho, United_icron.com/careers/job/42044099"
+    },
+    {
+      "title": "ENGINEER, ID1 DRAM PI\nBoise, Idaho, United States of America\nPosted 6 days ago",
+      "url": "https://careers.micron.com/careers/job/42044698",
+      "identifier": "ENGINEER, ID1 DRAM PI\nBoise, Idaho, United States _icron.com/careers/job/42044698"
     }
   ],
   "job_count_text": "101",
-  "timestamp": "2026-05-27T15:56:22.239664"
+  "timestamp": "2026-05-27T16:13:34.859769"
 }

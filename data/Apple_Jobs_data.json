@@ -4,6 +4,11 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Senior Cloud Security Engineer - Design Review",
+      "url": "https://jobs.apple.com/en-us/details/200635090-3337/senior-cloud-security-engineer-design-review?team=SFTWR",
+      "identifier": "Senior Cloud Security Engineer - Design Review_ineer-design-review?team=SFTWR"
+    },
+    {
       "title": "Data Engineer",
       "url": "https://jobs.apple.com/en-us/details/200643156-0836/data-engineer?team=SFTWR",
       "identifier": "Data Engineer_-0836/data-engineer?team=SFTWR"
@@ -77,13 +82,8 @@
       "title": "UI Software Engineer, Camera & Photos",
       "url": "https://jobs.apple.com/en-us/details/200660343-0836/ui-software-engineer-camera-photos?team=SFTWR",
       "identifier": "UI Software Engineer, Camera & Photos_ineer-camera-photos?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer (Security & Reliability Operations), IS&T Enterprise Systems",
-      "url": "https://jobs.apple.com/en-us/details/200664835-0240/software-engineer-security-reliability-operations-is-t-enterprise-systems?team=SFTWR",
-      "identifier": "Software Engineer (Security & Reliability Operatio_-enterprise-systems?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-26T23:45:13.664714"
+  "timestamp": "2026-05-27T00:02:13.501722"
 }

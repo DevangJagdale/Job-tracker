@@ -4,16 +4,6 @@
   "total_jobs": 8,
   "jobs": [
     {
-      "title": "Senior Software Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0816592/Senior-Software-Engineer",
-      "identifier": "Senior Software Engineer_16592/Senior-Software-Engineer"
-    },
-    {
-      "title": "Senior Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0878110/Senior-Software-Development-Engineer",
-      "identifier": "Senior Software Development Engineer_-Software-Development-Engineer"
-    },
-    {
       "title": "Principal Software Development Engineer - Flutter",
       "url": "https://jobs.cvshealth.com/us/en/job/R0767053/Principal-Software-Development-Engineer-Flutter",
       "identifier": "Principal Software Development Engineer - Flutter_e-Development-Engineer-Flutter"
@@ -29,14 +19,24 @@
       "identifier": "Associate Software Development Engineer_-Software-Development-Engineer"
     },
     {
-      "title": "Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0921062/Software-Development-Engineer",
-      "identifier": "Software Development Engineer_/Software-Development-Engineer"
+      "title": "Senior Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0878110/Senior-Software-Development-Engineer",
+      "identifier": "Senior Software Development Engineer_-Software-Development-Engineer"
+    },
+    {
+      "title": "Senior Software Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0816592/Senior-Software-Engineer",
+      "identifier": "Senior Software Engineer_16592/Senior-Software-Engineer"
     },
     {
       "title": "Staff Software Development Engineer (Lead Backend - NestJs)",
       "url": "https://jobs.cvshealth.com/us/en/job/R0863219/Staff-Software-Development-Engineer-Lead-Backend-NestJs",
       "identifier": "Staff Software Development Engineer (Lead Backend _t-Engineer-Lead-Backend-NestJs"
+    },
+    {
+      "title": "Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0921062/Software-Development-Engineer",
+      "identifier": "Software Development Engineer_/Software-Development-Engineer"
     },
     {
       "title": "Executive Director, Adjudication Software Engineering & Transformation",
@@ -45,5 +45,5 @@
     }
   ],
   "job_count_text": "37",
-  "timestamp": "2026-05-27T03:10:38.702870"
+  "timestamp": "2026-05-27T03:18:19.863533"
 }

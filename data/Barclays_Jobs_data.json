@@ -4,6 +4,11 @@
   "total_jobs": 14,
   "jobs": [
     {
+      "title": "Audit Director - AI Assurance",
+      "url": "https://search.jobs.barclays/job/new-york/audit-director-ai-assurance/13015/95633305680",
+      "identifier": "Audit Director - AI Assurance_ai-assurance/13015/95633305680"
+    },
+    {
       "title": "Senior Site Reliability Engineer - AVP",
       "url": "https://search.jobs.barclays/job/whippany/senior-site-reliability-engineer-avp/13015/95633295552",
       "identifier": "Senior Site Reliability Engineer - AVP_engineer-avp/13015/95633295552"
@@ -67,13 +72,8 @@
       "title": "Security Engineer",
       "url": "https://search.jobs.barclays/job/whippany/security-engineer/13015/95396055088",
       "identifier": "Security Engineer_ity-engineer/13015/95396055088"
-    },
-    {
-      "title": "Onboarding Manager",
-      "url": "https://search.jobs.barclays/job/whippany/onboarding-manager/13015/95396054928",
-      "identifier": "Onboarding Manager_ding-manager/13015/95396054928"
     }
   ],
-  "job_count_text": "129",
-  "timestamp": "2026-05-27T23:27:52.472525"
+  "job_count_text": "133",
+  "timestamp": "2026-05-27T23:44:49.515681"
 }

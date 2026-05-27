@@ -9,11 +9,6 @@
       "identifier": "Full-time roles for graduates_tudent-programs/jobs-for-grads"
     },
     {
-      "title": "Solutions Architect - 2026 (US)",
-      "url": "https://www.amazon.jobs/jobs/10430661",
-      "identifier": "Solutions Architect - 2026 (US)_/www.amazon.jobs/jobs/10430661"
-    },
-    {
       "title": "AWS Associate Customer Acquisition Rep",
       "url": "https://www.amazon.jobs/jobs/10419295",
       "identifier": "AWS Associate Customer Acquisition Rep_/www.amazon.jobs/jobs/10419295"
@@ -57,8 +52,13 @@
       "title": "Network Development Engineer",
       "url": "https://www.amazon.jobs/jobs/3176561",
       "identifier": "Network Development Engineer_//www.amazon.jobs/jobs/3176561"
+    },
+    {
+      "title": "Hardware Development Engineer, Quantum Computing",
+      "url": "https://www.amazon.jobs/jobs/3176565",
+      "identifier": "Hardware Development Engineer, Quantum Computing_//www.amazon.jobs/jobs/3176565"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-27T16:32:13.908523"
+  "timestamp": "2026-05-27T16:49:19.914802"
 }

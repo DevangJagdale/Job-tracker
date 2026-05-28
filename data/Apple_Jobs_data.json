@@ -1,99 +1,64 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 18,
+  "total_jobs": 11,
   "jobs": [
     {
-      "title": "Incubation Design Prototyper - Proactive",
-      "url": "https://jobs.apple.com/en-us/details/200665572-0836/incubation-design-prototyper-proactive?team=SFTWR",
-      "identifier": "Incubation Design Prototyper - Proactive_rototyper-proactive?team=SFTWR"
+      "title": "Software Engineer \u2013 Applications",
+      "url": "https://jobs.apple.com/en-us/details/200664699-0157/software-engineer-applications?team=MLAI",
+      "identifier": "Software Engineer \u2013 Applications_ngineer-applications?team=MLAI"
     },
     {
-      "title": "Software Engineer (Java DevOps Administrator), IS&T Enterprise Systems",
-      "url": "https://jobs.apple.com/en-us/details/200647776-0240/software-engineer-java-devops-administrator-is-t-enterprise-systems?team=SFTWR",
-      "identifier": "Software Engineer (Java DevOps Administrator), IS&_-enterprise-systems?team=SFTWR"
+      "title": "Software Development Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200664796-3337/software-development-engineer?team=SFTWR",
+      "identifier": "Software Development Engineer_evelopment-engineer?team=SFTWR"
     },
     {
-      "title": "Systems Architect, Retail and Marcom Engineering",
-      "url": "https://jobs.apple.com/en-us/details/200665367-0157/systems-architect-retail-and-marcom-engineering?team=SFTWR",
-      "identifier": "Systems Architect, Retail and Marcom Engineering_-marcom-engineering?team=SFTWR"
+      "title": "R&D Technical Artist",
+      "url": "https://jobs.apple.com/en-us/details/200664786-0836/r-d-technical-artist?team=SFTWR",
+      "identifier": "R&D Technical Artist_-d-technical-artist?team=SFTWR"
     },
     {
-      "title": "Director, Automation & Tools - Camera & Photos",
-      "url": "https://jobs.apple.com/en-us/details/200665545-0836/director-automation-tools-camera-photos?team=SFTWR",
-      "identifier": "Director, Automation & Tools - Camera & Photos_tools-camera-photos?team=SFTWR"
+      "title": "Software Engineer - Applications",
+      "url": "https://jobs.apple.com/en-us/details/200664765-0157/software-engineer-applications?team=SFTWR",
+      "identifier": "Software Engineer - Applications_gineer-applications?team=SFTWR"
     },
     {
-      "title": "Software Engineering Technical Lead, Wallet Identity Server",
-      "url": "https://jobs.apple.com/en-us/details/200665431-0836/software-engineering-technical-lead-wallet-identity-server?team=SFTWR",
-      "identifier": "Software Engineering Technical Lead, Wallet Identi_let-identity-server?team=SFTWR"
+      "title": "Software Development Engineer \u2013 Applications",
+      "url": "https://jobs.apple.com/en-us/details/200664677-0157/software-development-engineer-applications?team=SFTWR",
+      "identifier": "Software Development Engineer \u2013 Applications_gineer-applications?team=SFTWR"
     },
     {
-      "title": "Wireless Bluetooth Software Engineer, Wireless Technologies & Ecosystems",
-      "url": "https://jobs.apple.com/en-us/details/200662399-3543/wireless-bluetooth-software-engineer-wireless-technologies-ecosystems?team=SFTWR",
-      "identifier": "Wireless Bluetooth Software Engineer, Wireless Tec_nologies-ecosystems?team=SFTWR"
+      "title": "Software Development Engineer - Applications",
+      "url": "https://jobs.apple.com/en-us/details/200664684-0157/software-development-engineer-applications?team=SFTWR",
+      "identifier": "Software Development Engineer - Applications_gineer-applications?team=SFTWR"
     },
     {
-      "title": "Software Development Engineer in Test - Core I/O Transports Quality Engineering, Core OS",
-      "url": "https://jobs.apple.com/en-us/details/200665472-0836/software-development-engineer-in-test-core-i-o-transports-quality-engineering-core-os?team=SFTWR",
-      "identifier": "Software Development Engineer in Test - Core I/O T_engineering-core-os?team=SFTWR"
+      "title": "Software Development Engineer-Applications",
+      "url": "https://jobs.apple.com/en-us/details/200664690-0157/software-development-engineer-applications?team=SFTWR",
+      "identifier": "Software Development Engineer-Applications_gineer-applications?team=SFTWR"
     },
     {
-      "title": "Senior Media Applications Engineer, Audio & Media Technologies",
-      "url": "https://jobs.apple.com/en-us/details/200657151-3543/senior-media-applications-engineer-audio-media-technologies?team=SFTWR",
-      "identifier": "Senior Media Applications Engineer, Audio & Media _-media-technologies?team=SFTWR"
+      "title": "Software Engineering Systems",
+      "url": "https://jobs.apple.com/en-us/details/200664708-3543/software-engineering-systems?team=SFTWR",
+      "identifier": "Software Engineering Systems_engineering-systems?team=SFTWR"
     },
     {
-      "title": "Engineering Manager, Platform Services",
-      "url": "https://jobs.apple.com/en-us/details/200663131-0157/engineering-manager-platform-services?team=SFTWR",
-      "identifier": "Engineering Manager, Platform Services_r-platform-services?team=SFTWR"
+      "title": "Localization Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200664707-0836/localization-engineer?team=SFTWR",
+      "identifier": "Localization Engineer_calization-engineer?team=SFTWR"
     },
     {
-      "title": "Continuous Integration Software Engineer, Audio & Media Technologies",
-      "url": "https://jobs.apple.com/en-us/details/200634333-3543/continuous-integration-software-engineer-audio-media-technologies?team=SFTWR",
-      "identifier": "Continuous Integration Software Engineer, Audio & _-media-technologies?team=SFTWR"
+      "title": "Software Engineer - Systems",
+      "url": "https://jobs.apple.com/en-us/details/200664710-0836/software-engineer-systems?team=SFTWR",
+      "identifier": "Software Engineer - Systems_re-engineer-systems?team=SFTWR"
     },
     {
-      "title": "Software Engineer, Infrastructure Services",
-      "url": "https://jobs.apple.com/en-us/details/200648019-0157/software-engineer-infrastructure-services?team=SFTWR",
-      "identifier": "Software Engineer, Infrastructure Services_astructure-services?team=SFTWR"
-    },
-    {
-      "title": "Audio Software Quality Manager, Apple Vision Pro",
-      "url": "https://jobs.apple.com/en-us/details/200654571-0365/audio-software-quality-manager-apple-vision-pro?team=SFTWR",
-      "identifier": "Audio Software Quality Manager, Apple Vision Pro_er-apple-vision-pro?team=SFTWR"
-    },
-    {
-      "title": "Director of Software Engineering, Comms Apps Teams",
-      "url": "https://jobs.apple.com/en-us/details/200631981-0836/director-of-software-engineering-comms-apps-teams?team=SFTWR",
-      "identifier": "Director of Software Engineering, Comms Apps Teams_ng-comms-apps-teams?team=SFTWR"
-    },
-    {
-      "title": "Engineering Manager, Data for Applied AI Models",
-      "url": "https://jobs.apple.com/en-us/details/200648101-0836/engineering-manager-data-for-applied-ai-models?team=SFTWR",
-      "identifier": "Engineering Manager, Data for Applied AI Models_r-applied-ai-models?team=SFTWR"
-    },
-    {
-      "title": "Metal Frameworks Engineering Manager",
-      "url": "https://jobs.apple.com/en-us/details/200638759-0836/metal-frameworks-engineering-manager?team=SFTWR",
-      "identifier": "Metal Frameworks Engineering Manager_engineering-manager?team=SFTWR"
-    },
-    {
-      "title": "Sr Software Engineering Manager, UI Rendering",
-      "url": "https://jobs.apple.com/en-us/details/200631982-0836/sr-software-engineering-manager-ui-rendering?team=SFTWR",
-      "identifier": "Sr Software Engineering Manager, UI Rendering_anager-ui-rendering?team=SFTWR"
-    },
-    {
-      "title": "Human Interface Designer - Instructional Products",
-      "url": "https://jobs.apple.com/en-us/details/200613718-0836/human-interface-designer-instructional-products?team=SFTWR",
-      "identifier": "Human Interface Designer - Instructional Products_tructional-products?team=SFTWR"
-    },
-    {
-      "title": "Software Device Driver Engineer - Core I/O, Core OS",
-      "url": "https://jobs.apple.com/en-us/details/200658892-0157/software-device-driver-engineer-core-i-o-core-os?team=SFTWR",
-      "identifier": "Software Device Driver Engineer - Core I/O, Core O_er-core-i-o-core-os?team=SFTWR"
+      "title": "Engineering Project Lead",
+      "url": "https://jobs.apple.com/en-us/details/200664703-0836/engineering-project-lead?team=SFTWR",
+      "identifier": "Engineering Project Lead_eering-project-lead?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-28T15:15:46.657042"
+  "timestamp": "2026-05-28T15:32:46.137729"
 }

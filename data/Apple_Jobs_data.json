@@ -4,6 +4,11 @@
   "total_jobs": 17,
   "jobs": [
     {
+      "title": "Software Engineering Technical Lead, Wallet Identity Server",
+      "url": "https://jobs.apple.com/en-us/details/200665431-0836/software-engineering-technical-lead-wallet-identity-server?team=SFTWR",
+      "identifier": "Software Engineering Technical Lead, Wallet Identi_let-identity-server?team=SFTWR"
+    },
+    {
       "title": "Wireless Bluetooth Software Engineer, Wireless Technologies & Ecosystems",
       "url": "https://jobs.apple.com/en-us/details/200662399-3543/wireless-bluetooth-software-engineer-wireless-technologies-ecosystems?team=SFTWR",
       "identifier": "Wireless Bluetooth Software Engineer, Wireless Tec_nologies-ecosystems?team=SFTWR"
@@ -82,13 +87,8 @@
       "title": "Salesforce Technical Architect, Sales Engineering",
       "url": "https://jobs.apple.com/en-us/details/200654967-3956/salesforce-technical-architect-sales-engineering?team=SFTWR",
       "identifier": "Salesforce Technical Architect, Sales Engineering_t-sales-engineering?team=SFTWR"
-    },
-    {
-      "title": "Site Reliability Engineering Manager, Storage - Apple Services Engineering",
-      "url": "https://jobs.apple.com/en-us/details/200665408-0836/site-reliability-engineering-manager-storage-apple-services-engineering?team=SFTWR",
-      "identifier": "Site Reliability Engineering Manager, Storage - Ap_ervices-engineering?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-28T01:10:14.941855"
+  "timestamp": "2026-05-28T01:27:16.261329"
 }

@@ -4,6 +4,11 @@
   "total_jobs": 15,
   "jobs": [
     {
+      "title": "Data Centre Operation Technician",
+      "url": "https://search.jobs.barclays/job/cranford/data-centre-operation-technician/13015/95670821200",
+      "identifier": "Data Centre Operation Technician_n-technician/13015/95670821200"
+    },
+    {
       "title": "Head of Customer Journey and Product Delivery",
       "url": "https://search.jobs.barclays/job/wilmington/head-of-customer-journey-and-product-delivery/13015/95647585760",
       "identifier": "Head of Customer Journey and Product Delivery_uct-delivery/13015/95647585760"
@@ -72,13 +77,8 @@
       "title": "Model Risk Management - Model Validation VP",
       "url": "https://search.jobs.barclays/job/wilmington/model-risk-management-model-validation-vp/13015/95424141376",
       "identifier": "Model Risk Management - Model Validation VP_alidation-vp/13015/95424141376"
-    },
-    {
-      "title": "Director, Markets Audit - Securitised Products",
-      "url": "https://search.jobs.barclays/job/london/director-markets-audit-securitised-products/13015/95411383488",
-      "identifier": "Director, Markets Audit - Securitised Products_sed-products/13015/95411383488"
     }
   ],
-  "job_count_text": "135",
-  "timestamp": "2026-05-28T17:31:07.078408"
+  "job_count_text": "137",
+  "timestamp": "2026-05-28T17:48:07.448976"
 }

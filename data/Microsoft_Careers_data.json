@@ -4,14 +4,19 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Principal Site Reliability Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 20 minutes ago",
+      "title": "Principal Site Reliability Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 37 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556869652?domain=microsoft.com",
       "identifier": "Principal Site Reliability Engineer\nUnited States,_556869652?domain=microsoft.com"
     },
     {
-      "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted 38 minutes ago",
+      "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556867011?domain=microsoft.com",
       "identifier": "Principal Software Engineer\nUnited States, Washing_556867011?domain=microsoft.com"
+    },
+    {
+      "title": "Software Engineer II\nUnited States, Multiple Locations, Multiple Locations\nPosted an hour ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556863505?domain=microsoft.com",
+      "identifier": "Software Engineer II\nUnited States, Multiple Locat_556863505?domain=microsoft.com"
     },
     {
       "title": "Principal Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted an hour ago",
@@ -47,13 +52,8 @@
       "title": "Principal Architect\nUnited States, Washington, Redmond\nPosted a day ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556868079?domain=microsoft.com",
       "identifier": "Principal Architect\nUnited States, Washington, Red_556868079?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted a day ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556868613?domain=microsoft.com",
-      "identifier": "Senior Software Engineer\nUnited States, Washington_556868613?domain=microsoft.com"
     }
   ],
   "job_count_text": "421",
-  "timestamp": "2026-05-28T17:31:24.349811"
+  "timestamp": "2026-05-28T17:48:24.664056"
 }

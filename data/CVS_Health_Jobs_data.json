@@ -4,8 +4,18 @@
   "total_jobs": 8,
   "jobs": [
     {
+      "title": "Manager - Scrum Master",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0922627/Manager-Scrum-Master",
+      "identifier": "Manager - Scrum Master_/R0922627/Manager-Scrum-Master"
+    },
+    {
+      "title": "Lead Director - Enterprise Delivery",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0920203/Lead-Director-Enterprise-Delivery",
+      "identifier": "Lead Director - Enterprise Delivery_d-Director-Enterprise-Delivery"
+    },
+    {
       "title": "Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0868131/Software-Development-Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0916742/Software-Development-Engineer",
       "identifier": "Software Development Engineer_/Software-Development-Engineer"
     },
     {
@@ -14,24 +24,9 @@
       "identifier": "Senior Business Analyst - SAP_33/Senior-Business-Analyst-SAP"
     },
     {
-      "title": "Principal Software Development Engineer (Solutions and Automation)",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0887781/Principal-Software-Development-Engineer-Solutions-and-Automation",
-      "identifier": "Principal Software Development Engineer (Solutions_ineer-Solutions-and-Automation"
-    },
-    {
-      "title": "Lead Director - Enterprise Delivery",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0920203/Lead-Director-Enterprise-Delivery",
-      "identifier": "Lead Director - Enterprise Delivery_d-Director-Enterprise-Delivery"
-    },
-    {
-      "title": "Manager - Scrum Master",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0922627/Manager-Scrum-Master",
-      "identifier": "Manager - Scrum Master_/R0922627/Manager-Scrum-Master"
-    },
-    {
-      "title": "Executive Director, Adjudication Software Engineering & Transformation",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0889257/Executive-Director-Adjudication-Software-Engineering-Transformation",
-      "identifier": "Executive Director, Adjudication Software Engineer_are-Engineering-Transformation"
+      "title": "Quality Engineer - IBMi",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0880639/Quality-Engineer-IBMi",
+      "identifier": "Quality Engineer - IBMi_R0880639/Quality-Engineer-IBMi"
     },
     {
       "title": "Senior Quality Engineer",
@@ -39,11 +34,16 @@
       "identifier": "Senior Quality Engineer_908671/Senior-Quality-Engineer"
     },
     {
+      "title": "Executive Director, Adjudication Software Engineering & Transformation",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0889257/Executive-Director-Adjudication-Software-Engineering-Transformation",
+      "identifier": "Executive Director, Adjudication Software Engineer_are-Engineering-Transformation"
+    },
+    {
       "title": "Head of HR Data Governance - Workday",
       "url": "https://jobs.cvshealth.com/us/en/job/R0918538/Head-of-HR-Data-Governance-Workday",
       "identifier": "Head of HR Data Governance - Workday_-of-HR-Data-Governance-Workday"
     }
   ],
-  "job_count_text": "31",
-  "timestamp": "2026-05-28T06:09:53.436832"
+  "job_count_text": "37",
+  "timestamp": "2026-05-28T06:27:02.097765"
 }

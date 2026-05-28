@@ -4,6 +4,11 @@
   "total_jobs": 17,
   "jobs": [
     {
+      "title": "Director, Automation & Tools - Camera & Photos",
+      "url": "https://jobs.apple.com/en-us/details/200665545-0836/director-automation-tools-camera-photos?team=SFTWR",
+      "identifier": "Director, Automation & Tools - Camera & Photos_tools-camera-photos?team=SFTWR"
+    },
+    {
       "title": "Software Engineering Technical Lead, Wallet Identity Server",
       "url": "https://jobs.apple.com/en-us/details/200665431-0836/software-engineering-technical-lead-wallet-identity-server?team=SFTWR",
       "identifier": "Software Engineering Technical Lead, Wallet Identi_let-identity-server?team=SFTWR"
@@ -82,13 +87,8 @@
       "title": "Database Systems SRE, ASE Cassandra SRE",
       "url": "https://jobs.apple.com/en-us/details/200665417-3337/database-systems-sre-ase-cassandra-sre?team=SFTWR",
       "identifier": "Database Systems SRE, ASE Cassandra SRE_e-ase-cassandra-sre?team=SFTWR"
-    },
-    {
-      "title": "Salesforce Technical Architect, Sales Engineering",
-      "url": "https://jobs.apple.com/en-us/details/200654967-3956/salesforce-technical-architect-sales-engineering?team=SFTWR",
-      "identifier": "Salesforce Technical Architect, Sales Engineering_t-sales-engineering?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-28T01:34:59.219528"
+  "timestamp": "2026-05-28T01:52:06.480580"
 }

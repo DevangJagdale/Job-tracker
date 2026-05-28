@@ -54,11 +54,6 @@
       "identifier": "jpmc_210710776"
     },
     {
-      "title": "Lead Software Engineer - Java/Kafka/AWS/Flink",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210721139/?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
-      "identifier": "jpmc_210721139"
-    },
-    {
       "title": "Software Engineer III - Agentic AI, Java/Python",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210725876/?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
       "identifier": "jpmc_210725876"
@@ -127,8 +122,13 @@
       "title": "Vice President \u2013 Policy Engine & Data Contracts Engineer",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210749863/?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
       "identifier": "jpmc_210749863"
+    },
+    {
+      "title": "Data Scientist Associate \u2013 Product, Experience and Technology (PXT) Analytics Team",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210732754/?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
+      "identifier": "jpmc_210732754"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-28T12:42:12.754543"
+  "timestamp": "2026-05-28T12:59:14.754372"
 }

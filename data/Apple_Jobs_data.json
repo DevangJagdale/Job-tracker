@@ -4,6 +4,11 @@
   "total_jobs": 17,
   "jobs": [
     {
+      "title": "Systems Architect, Retail and Marcom Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200665367-0157/systems-architect-retail-and-marcom-engineering?team=SFTWR",
+      "identifier": "Systems Architect, Retail and Marcom Engineering_-marcom-engineering?team=SFTWR"
+    },
+    {
       "title": "Director, Automation & Tools - Camera & Photos",
       "url": "https://jobs.apple.com/en-us/details/200665545-0836/director-automation-tools-camera-photos?team=SFTWR",
       "identifier": "Director, Automation & Tools - Camera & Photos_tools-camera-photos?team=SFTWR"
@@ -82,13 +87,8 @@
       "title": "Content Engineering Author - Developer Publications",
       "url": "https://jobs.apple.com/en-us/details/200663455-2535/content-engineering-author-developer-publications?team=SFTWR",
       "identifier": "Content Engineering Author - Developer Publication_eloper-publications?team=SFTWR"
-    },
-    {
-      "title": "Database Systems SRE, ASE Cassandra SRE",
-      "url": "https://jobs.apple.com/en-us/details/200665417-3337/database-systems-sre-ase-cassandra-sre?team=SFTWR",
-      "identifier": "Database Systems SRE, ASE Cassandra SRE_e-ase-cassandra-sre?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-28T03:00:32.518623"
+  "timestamp": "2026-05-28T03:17:36.924381"
 }

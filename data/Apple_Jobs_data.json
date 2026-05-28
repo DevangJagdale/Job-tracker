@@ -1,8 +1,18 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 13,
+  "total_jobs": 14,
   "jobs": [
+    {
+      "title": "Senior Gaming Platform Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200665542-3337/senior-gaming-platform-engineer?team=SFTWR",
+      "identifier": "Senior Gaming Platform Engineer_g-platform-engineer?team=SFTWR"
+    },
+    {
+      "title": "Quality Engineer, Rights & Pricing",
+      "url": "https://jobs.apple.com/en-us/details/200665547-0836/quality-engineer-rights-pricing?team=SFTWR",
+      "identifier": "Quality Engineer, Rights & Pricing_neer-rights-pricing?team=SFTWR"
+    },
     {
       "title": "AI/ML - Senior OS Software Engineer, Evaluation",
       "url": "https://jobs.apple.com/en-us/details/200658427-0836/ai-ml-senior-os-software-engineer-evaluation?team=SFTWR",
@@ -62,13 +72,8 @@
       "title": "R&D Technical Artist",
       "url": "https://jobs.apple.com/en-us/details/200664786-0836/r-d-technical-artist?team=SFTWR",
       "identifier": "R&D Technical Artist_-d-technical-artist?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer - Applications",
-      "url": "https://jobs.apple.com/en-us/details/200664765-0157/software-engineer-applications?team=SFTWR",
-      "identifier": "Software Engineer - Applications_gineer-applications?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-28T21:04:29.161569"
+  "timestamp": "2026-05-28T21:21:32.428352"
 }

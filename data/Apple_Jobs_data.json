@@ -1,8 +1,18 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 8,
+  "total_jobs": 9,
   "jobs": [
+    {
+      "title": "Tools and Automation Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200664746-0836/tools-and-automation-engineer?team=SFTWR",
+      "identifier": "Tools and Automation Engineer_automation-engineer?team=SFTWR"
+    },
+    {
+      "title": "Wallets, Payments & Commerce- Marketing Program Manager",
+      "url": "https://jobs.apple.com/en-us/details/200665653-0836/wallets-payments-commerce-marketing-program-manager?team=SFTWR",
+      "identifier": "Wallets, Payments & Commerce- Marketing Program Ma_ing-program-manager?team=SFTWR"
+    },
     {
       "title": "Software Engineering Technical Lead, Wallet Identity Server",
       "url": "https://jobs.apple.com/en-us/details/200665431-0836/software-engineering-technical-lead-wallet-identity-server?team=SFTWR",
@@ -37,13 +47,8 @@
       "title": "Software Development Engineer - Applications",
       "url": "https://jobs.apple.com/en-us/details/200664684-0157/software-development-engineer-applications?team=SFTWR",
       "identifier": "Software Development Engineer - Applications_gineer-applications?team=SFTWR"
-    },
-    {
-      "title": "Software Development Engineer-Applications",
-      "url": "https://jobs.apple.com/en-us/details/200664690-0157/software-development-engineer-applications?team=SFTWR",
-      "identifier": "Software Development Engineer-Applications_gineer-applications?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-28T17:48:40.690786"
+  "timestamp": "2026-05-28T18:05:46.664190"
 }

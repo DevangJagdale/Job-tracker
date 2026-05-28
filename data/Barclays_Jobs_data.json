@@ -1,8 +1,13 @@
 {
   "page_title": "Search our Job Opportunities at Barclays",
   "url": "https://search.jobs.barclays/search-jobs/United%20States/13015/2/6252001/39x76/-98x5/50/2",
-  "total_jobs": 15,
+  "total_jobs": 16,
   "jobs": [
+    {
+      "title": "Head of Customer Journey and Product Delivery",
+      "url": "https://search.jobs.barclays/job/wilmington/head-of-customer-journey-and-product-delivery/13015/95647585760",
+      "identifier": "Head of Customer Journey and Product Delivery_uct-delivery/13015/95647585760"
+    },
     {
       "title": "VP - EM Trader",
       "url": "https://search.jobs.barclays/job/new-york/vp-em-trader/13015/95633305792",
@@ -79,6 +84,6 @@
       "identifier": "Security Engineer_ity-engineer/13015/95396055088"
     }
   ],
-  "job_count_text": "133",
-  "timestamp": "2026-05-28T11:23:39.018042"
+  "job_count_text": "134",
+  "timestamp": "2026-05-28T11:40:43.293144"
 }

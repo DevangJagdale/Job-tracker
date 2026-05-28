@@ -4,6 +4,11 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Software Engineer, Siri App Experiences",
+      "url": "https://jobs.apple.com/en-us/details/200664856-3337/software-engineer-siri-app-experiences?team=SFTWR",
+      "identifier": "Software Engineer, Siri App Experiences_iri-app-experiences?team=SFTWR"
+    },
+    {
       "title": "Full Stack Engineer, FindMy",
       "url": "https://jobs.apple.com/en-us/details/200665699-0836/full-stack-engineer-findmy?team=SFTWR",
       "identifier": "Full Stack Engineer, FindMy_ack-engineer-findmy?team=SFTWR"
@@ -77,13 +82,8 @@
       "title": "Wallets, Payments & Commerce- Marketing Program Manager",
       "url": "https://jobs.apple.com/en-us/details/200665653-0836/wallets-payments-commerce-marketing-program-manager?team=SFTWR",
       "identifier": "Wallets, Payments & Commerce- Marketing Program Ma_ing-program-manager?team=SFTWR"
-    },
-    {
-      "title": "Software Engineering Technical Lead, Wallet Identity Server",
-      "url": "https://jobs.apple.com/en-us/details/200665431-0836/software-engineering-technical-lead-wallet-identity-server?team=SFTWR",
-      "identifier": "Software Engineering Technical Lead, Wallet Identi_let-identity-server?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-28T21:55:42.018091"
+  "timestamp": "2026-05-28T22:12:46.342303"
 }

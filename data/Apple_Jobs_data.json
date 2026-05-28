@@ -4,6 +4,11 @@
   "total_jobs": 17,
   "jobs": [
     {
+      "title": "Software Engineer (Java DevOps Administrator), IS&T Enterprise Systems",
+      "url": "https://jobs.apple.com/en-us/details/200647776-0240/software-engineer-java-devops-administrator-is-t-enterprise-systems?team=SFTWR",
+      "identifier": "Software Engineer (Java DevOps Administrator), IS&_-enterprise-systems?team=SFTWR"
+    },
+    {
       "title": "Systems Architect, Retail and Marcom Engineering",
       "url": "https://jobs.apple.com/en-us/details/200665367-0157/systems-architect-retail-and-marcom-engineering?team=SFTWR",
       "identifier": "Systems Architect, Retail and Marcom Engineering_-marcom-engineering?team=SFTWR"
@@ -82,13 +87,8 @@
       "title": "Software Device Driver Engineer - Core I/O, Core OS",
       "url": "https://jobs.apple.com/en-us/details/200658892-0157/software-device-driver-engineer-core-i-o-core-os?team=SFTWR",
       "identifier": "Software Device Driver Engineer - Core I/O, Core O_er-core-i-o-core-os?team=SFTWR"
-    },
-    {
-      "title": "Content Engineering Author - Developer Publications",
-      "url": "https://jobs.apple.com/en-us/details/200663455-2535/content-engineering-author-developer-publications?team=SFTWR",
-      "identifier": "Content Engineering Author - Developer Publication_eloper-publications?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-28T03:34:43.355520"
+  "timestamp": "2026-05-28T03:51:47.025669"
 }

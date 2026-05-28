@@ -4,6 +4,11 @@
   "total_jobs": 10,
   "jobs": [
     {
+      "title": "Workday Security Administrator II (Full-Time) - United States",
+      "url": "https://careers.cisco.com/global/en/job/2015304/Workday-Security-Administrator-II-Full-Time-United-States",
+      "identifier": "Workday Security Administrator II (Full-Time) - Un_tor-II-Full-Time-United-States"
+    },
+    {
       "title": "Strategy & Planning Manager III (Full Time) - United States",
       "url": "https://careers.cisco.com/global/en/job/2013396/Strategy-Planning-Manager-III-Full-Time-United-States",
       "identifier": "Strategy & Planning Manager III (Full Time) - Unit_er-III-Full-Time-United-States"
@@ -47,13 +52,8 @@
       "title": "Sales Development Representative Outbound Sales II (Full Time) - United States",
       "url": "https://careers.cisco.com/global/en/job/2003091/Sales-Development-Representative-Outbound-Sales-II-Full-Time-United-States",
       "identifier": "Sales Development Representative Outbound Sales II_les-II-Full-Time-United-States"
-    },
-    {
-      "title": "Sales Development Representative II (Full Time) United States (Virtual Demand Center) - United States",
-      "url": "https://careers.cisco.com/global/en/job/2008662/Sales-Development-Representative-II-Full-Time-United-States-Virtual-Demand-Center-United-States",
-      "identifier": "Sales Development Representative II (Full Time) Un_al-Demand-Center-United-States"
     }
   ],
-  "job_count_text": "10",
-  "timestamp": "2026-05-28T14:41:10.600949"
+  "job_count_text": "11",
+  "timestamp": "2026-05-28T14:58:22.357934"
 }

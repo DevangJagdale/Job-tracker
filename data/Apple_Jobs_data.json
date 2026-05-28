@@ -1,8 +1,13 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 16,
+  "total_jobs": 17,
   "jobs": [
+    {
+      "title": "Wireless Bluetooth Software Engineer, Wireless Technologies & Ecosystems",
+      "url": "https://jobs.apple.com/en-us/details/200662399-3543/wireless-bluetooth-software-engineer-wireless-technologies-ecosystems?team=SFTWR",
+      "identifier": "Wireless Bluetooth Software Engineer, Wireless Tec_nologies-ecosystems?team=SFTWR"
+    },
     {
       "title": "Software Development Engineer in Test - Core I/O Transports Quality Engineering, Core OS",
       "url": "https://jobs.apple.com/en-us/details/200665472-0836/software-development-engineer-in-test-core-i-o-transports-quality-engineering-core-os?team=SFTWR",
@@ -85,5 +90,5 @@
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-28T00:36:17.494337"
+  "timestamp": "2026-05-28T00:53:18.347230"
 }

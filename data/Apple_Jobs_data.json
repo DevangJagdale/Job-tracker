@@ -4,6 +4,11 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "AI Engineer - Multimodal Intelligence",
+      "url": "https://jobs.apple.com/en-us/details/200665673-3956/ai-engineer-multimodal-intelligence?team=MLAI",
+      "identifier": "AI Engineer - Multimodal Intelligence_timodal-intelligence?team=MLAI"
+    },
+    {
       "title": "Software Development Build Engineer, Apps Engineering",
       "url": "https://jobs.apple.com/en-us/details/200665586-0670/software-development-build-engineer-apps-engineering?team=SFTWR",
       "identifier": "Software Development Build Engineer, Apps Engineer_er-apps-engineering?team=SFTWR"
@@ -12,11 +17,6 @@
       "title": "Data Scientist - Health AIML",
       "url": "https://jobs.apple.com/en-us/details/200665713-0836/data-scientist-health-aiml?team=MLAI",
       "identifier": "Data Scientist - Health AIML_cientist-health-aiml?team=MLAI"
-    },
-    {
-      "title": "AI Engineer - Multimodal Intelligence",
-      "url": "https://jobs.apple.com/en-us/details/200665673-3956/ai-engineer-multimodal-intelligence?team=MLAI",
-      "identifier": "AI Engineer - Multimodal Intelligence_timodal-intelligence?team=MLAI"
     },
     {
       "title": "Software Engineer, Siri App Experiences",
@@ -85,5 +85,5 @@
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-28T23:03:58.374096"
+  "timestamp": "2026-05-28T23:21:00.395542"
 }

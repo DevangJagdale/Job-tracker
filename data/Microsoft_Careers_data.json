@@ -4,6 +4,11 @@
   "total_jobs": 10,
   "jobs": [
     {
+      "title": "Software Engineering IC5\nUnited States, Washington, Redmond\nPosted 29 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556867072?domain=microsoft.com",
+      "identifier": "Software Engineering IC5\nUnited States, Washington_556867072?domain=microsoft.com"
+    },
+    {
       "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556638003?domain=microsoft.com",
       "identifier": "Software Engineer II\nUnited States, Washington, Re_556638003?domain=microsoft.com"
@@ -44,16 +49,11 @@
       "identifier": "Software Engineer II\nUnited States, Multiple Locat_556863505?domain=microsoft.com"
     },
     {
-      "title": "Principal Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 3 hours ago",
+      "title": "Principal Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 4 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556863486?domain=microsoft.com",
       "identifier": "Principal Software Engineer\nUnited States, Multipl_556863486?domain=microsoft.com"
-    },
-    {
-      "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted 6 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556869993?domain=microsoft.com",
-      "identifier": "Principal Software Engineer\nUnited States, Washing_556869993?domain=microsoft.com"
     }
   ],
-  "job_count_text": "428",
-  "timestamp": "2026-05-28T19:56:02.191768"
+  "job_count_text": "429",
+  "timestamp": "2026-05-28T20:13:02.185134"
 }

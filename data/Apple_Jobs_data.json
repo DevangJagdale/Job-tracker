@@ -4,6 +4,11 @@
   "total_jobs": 10,
   "jobs": [
     {
+      "title": "Director, Automation & Tools - Camera & Photos",
+      "url": "https://jobs.apple.com/en-us/details/200665545-0836/director-automation-tools-camera-photos?team=SFTWR",
+      "identifier": "Director, Automation & Tools - Camera & Photos_tools-camera-photos?team=SFTWR"
+    },
+    {
       "title": "Senior Maching Learning & Data Scientist, OS Power & Performance",
       "url": "https://jobs.apple.com/en-us/details/200660998-0836/senior-maching-learning-data-scientist-os-power-performance?team=SFTWR",
       "identifier": "Senior Maching Learning & Data Scientist, OS Power_s-power-performance?team=SFTWR"
@@ -47,13 +52,8 @@
       "title": "Software Development Engineer \u2013 Applications",
       "url": "https://jobs.apple.com/en-us/details/200664677-0157/software-development-engineer-applications?team=SFTWR",
       "identifier": "Software Development Engineer \u2013 Applications_gineer-applications?team=SFTWR"
-    },
-    {
-      "title": "Software Development Engineer - Applications",
-      "url": "https://jobs.apple.com/en-us/details/200664684-0157/software-development-engineer-applications?team=SFTWR",
-      "identifier": "Software Development Engineer - Applications_gineer-applications?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-28T18:31:02.306308"
+  "timestamp": "2026-05-28T18:48:06.984500"
 }

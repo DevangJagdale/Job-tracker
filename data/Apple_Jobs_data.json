@@ -1,8 +1,13 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 7,
+  "total_jobs": 8,
   "jobs": [
+    {
+      "title": "Software Engineering Technical Lead, Wallet Identity Server",
+      "url": "https://jobs.apple.com/en-us/details/200665431-0836/software-engineering-technical-lead-wallet-identity-server?team=SFTWR",
+      "identifier": "Software Engineering Technical Lead, Wallet Identi_let-identity-server?team=SFTWR"
+    },
     {
       "title": "Software Engineer \u2013 Applications",
       "url": "https://jobs.apple.com/en-us/details/200664699-0157/software-engineer-applications?team=MLAI",
@@ -40,5 +45,5 @@
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-28T16:57:39.591921"
+  "timestamp": "2026-05-28T17:14:38.956557"
 }

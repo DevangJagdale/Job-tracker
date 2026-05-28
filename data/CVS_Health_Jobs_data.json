@@ -9,19 +9,14 @@
       "identifier": "Manager - Scrum Master_/R0922627/Manager-Scrum-Master"
     },
     {
-      "title": "Senior Business Analyst - SAP",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0921233/Senior-Business-Analyst-SAP",
-      "identifier": "Senior Business Analyst - SAP_33/Senior-Business-Analyst-SAP"
-    },
-    {
       "title": "Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0916742/Software-Development-Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0868131/Software-Development-Engineer",
       "identifier": "Software Development Engineer_/Software-Development-Engineer"
     },
     {
-      "title": "Director of Engineering - SRE & Operations",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0890408/Director-of-Engineering-SRE-Operations",
-      "identifier": "Director of Engineering - SRE & Operations_-of-Engineering-SRE-Operations"
+      "title": "Senior Business Analyst - SAP",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0921233/Senior-Business-Analyst-SAP",
+      "identifier": "Senior Business Analyst - SAP_33/Senior-Business-Analyst-SAP"
     },
     {
       "title": "Senior Software Development Engineer",
@@ -29,14 +24,19 @@
       "identifier": "Senior Software Development Engineer_-Software-Development-Engineer"
     },
     {
-      "title": "Principal Software Development Engineer (Solutions and Automation)",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0887781/Principal-Software-Development-Engineer-Solutions-and-Automation",
-      "identifier": "Principal Software Development Engineer (Solutions_ineer-Solutions-and-Automation"
+      "title": "Director of Engineering - SRE & Operations",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0890408/Director-of-Engineering-SRE-Operations",
+      "identifier": "Director of Engineering - SRE & Operations_-of-Engineering-SRE-Operations"
     },
     {
       "title": "Lead Director - Enterprise Delivery",
       "url": "https://jobs.cvshealth.com/us/en/job/R0920203/Lead-Director-Enterprise-Delivery",
       "identifier": "Lead Director - Enterprise Delivery_d-Director-Enterprise-Delivery"
+    },
+    {
+      "title": "Principal Software Development Engineer (Solutions and Automation)",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0887781/Principal-Software-Development-Engineer-Solutions-and-Automation",
+      "identifier": "Principal Software Development Engineer (Solutions_ineer-Solutions-and-Automation"
     },
     {
       "title": "Staff Software Development Engineer (Lead Backend - NestJs)",
@@ -45,5 +45,5 @@
     }
   ],
   "job_count_text": "37",
-  "timestamp": "2026-05-28T00:03:23.722112"
+  "timestamp": "2026-05-28T00:20:18.011266"
 }

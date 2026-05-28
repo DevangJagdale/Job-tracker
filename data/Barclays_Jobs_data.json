@@ -1,7 +1,7 @@
 {
   "page_title": "Search our Job Opportunities at Barclays",
   "url": "https://search.jobs.barclays/search-jobs/United%20States/13015/2/6252001/39x76/-98x5/50/2",
-  "total_jobs": 15,
+  "total_jobs": 12,
   "jobs": [
     {
       "title": "Data Centre Operation Technician",
@@ -62,23 +62,8 @@
       "title": "Product Analyst",
       "url": "https://search.jobs.barclays/job/whippany/product-analyst/13015/95424182528",
       "identifier": "Product Analyst_duct-analyst/13015/95424182528"
-    },
-    {
-      "title": "Data Analyst, AVP",
-      "url": "https://search.jobs.barclays/job/whippany/data-analyst-avp/13015/95424182480",
-      "identifier": "Data Analyst, AVP_-analyst-avp/13015/95424182480"
-    },
-    {
-      "title": "Equities Derivatives Strat, VP",
-      "url": "https://search.jobs.barclays/job/new-york/equities-derivatives-strat-vp/13015/95424170528",
-      "identifier": "Equities Derivatives Strat, VP_ves-strat-vp/13015/95424170528"
-    },
-    {
-      "title": "Model Risk Management - Model Validation VP",
-      "url": "https://search.jobs.barclays/job/wilmington/model-risk-management-model-validation-vp/13015/95424141376",
-      "identifier": "Model Risk Management - Model Validation VP_alidation-vp/13015/95424141376"
     }
   ],
   "job_count_text": "137",
-  "timestamp": "2026-05-28T23:20:27.847619"
+  "timestamp": "2026-05-28T23:37:28.919881"
 }

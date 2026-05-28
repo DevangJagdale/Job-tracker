@@ -1,8 +1,18 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 11,
+  "total_jobs": 13,
   "jobs": [
+    {
+      "title": "AI/ML - Senior OS Software Engineer, Evaluation",
+      "url": "https://jobs.apple.com/en-us/details/200658427-0836/ai-ml-senior-os-software-engineer-evaluation?team=SFTWR",
+      "identifier": "AI/ML - Senior OS Software Engineer, Evaluation_engineer-evaluation?team=SFTWR"
+    },
+    {
+      "title": "Software Development Engineer - Applications",
+      "url": "https://jobs.apple.com/en-us/details/200664764-0157/software-development-engineer-applications?team=SFTWR",
+      "identifier": "Software Development Engineer - Applications_gineer-applications?team=SFTWR"
+    },
     {
       "title": "Full Stack Engineer, FindMy",
       "url": "https://jobs.apple.com/en-us/details/200665699-0836/full-stack-engineer-findmy?team=SFTWR",
@@ -60,5 +70,5 @@
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-28T20:47:24.503961"
+  "timestamp": "2026-05-28T21:04:29.161569"
 }

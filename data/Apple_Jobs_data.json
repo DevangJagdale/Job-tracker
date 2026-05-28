@@ -1,8 +1,38 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 14,
+  "total_jobs": 16,
   "jobs": [
+    {
+      "title": "Full Stack Engineer, FindMy",
+      "url": "https://jobs.apple.com/en-us/details/200665699-0836/full-stack-engineer-findmy?team=SFTWR",
+      "identifier": "Full Stack Engineer, FindMy_ack-engineer-findmy?team=SFTWR"
+    },
+    {
+      "title": "AI Engineer - Multimodal Intelligence",
+      "url": "https://jobs.apple.com/en-us/details/200665673-3956/ai-engineer-multimodal-intelligence?team=MLAI",
+      "identifier": "AI Engineer - Multimodal Intelligence_timodal-intelligence?team=MLAI"
+    },
+    {
+      "title": "Machine Learning Engineer, Video Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200665577-3956/machine-learning-engineer-video-engineering?team=HRDWR",
+      "identifier": "Machine Learning Engineer, Video Engineering_r-video-engineering?team=HRDWR"
+    },
+    {
+      "title": "CVML Engineer - 3D Reconstruction",
+      "url": "https://jobs.apple.com/en-us/details/200664830-3956/cvml-engineer-3d-reconstruction?team=MLAI",
+      "identifier": "CVML Engineer - 3D Reconstruction_er-3d-reconstruction?team=MLAI"
+    },
+    {
+      "title": "AR/VR Applications Engineer - Photos, Vision Products Software",
+      "url": "https://jobs.apple.com/en-us/details/200655347-3956/ar-vr-applications-engineer-photos-vision-products-software?team=SFTWR",
+      "identifier": "AR/VR Applications Engineer - Photos, Vision Produ_n-products-software?team=SFTWR"
+    },
+    {
+      "title": "Senior Quality Engineer, Rights & Pricing",
+      "url": "https://jobs.apple.com/en-us/details/200665532-0836/senior-quality-engineer-rights-pricing?team=SFTWR",
+      "identifier": "Senior Quality Engineer, Rights & Pricing_neer-rights-pricing?team=SFTWR"
+    },
     {
       "title": "Senior Gaming Platform Engineer",
       "url": "https://jobs.apple.com/en-us/details/200665542-3337/senior-gaming-platform-engineer?team=SFTWR",
@@ -22,11 +52,6 @@
       "title": "Software Development Engineer - Applications",
       "url": "https://jobs.apple.com/en-us/details/200664764-0157/software-development-engineer-applications?team=SFTWR",
       "identifier": "Software Development Engineer - Applications_gineer-applications?team=SFTWR"
-    },
-    {
-      "title": "Full Stack Engineer, FindMy",
-      "url": "https://jobs.apple.com/en-us/details/200665699-0836/full-stack-engineer-findmy?team=SFTWR",
-      "identifier": "Full Stack Engineer, FindMy_ack-engineer-findmy?team=SFTWR"
     },
     {
       "title": "Engineering Project Manager (SAP), IS&T Enterprise Systems",
@@ -57,23 +82,8 @@
       "title": "Software Engineering Technical Lead, Wallet Identity Server",
       "url": "https://jobs.apple.com/en-us/details/200665431-0836/software-engineering-technical-lead-wallet-identity-server?team=SFTWR",
       "identifier": "Software Engineering Technical Lead, Wallet Identi_let-identity-server?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer \u2013 Applications",
-      "url": "https://jobs.apple.com/en-us/details/200664699-0157/software-engineer-applications?team=MLAI",
-      "identifier": "Software Engineer \u2013 Applications_ngineer-applications?team=MLAI"
-    },
-    {
-      "title": "Software Development Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200664796-3337/software-development-engineer?team=SFTWR",
-      "identifier": "Software Development Engineer_evelopment-engineer?team=SFTWR"
-    },
-    {
-      "title": "R&D Technical Artist",
-      "url": "https://jobs.apple.com/en-us/details/200664786-0836/r-d-technical-artist?team=SFTWR",
-      "identifier": "R&D Technical Artist_-d-technical-artist?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-28T21:21:32.428352"
+  "timestamp": "2026-05-28T21:38:36.306535"
 }

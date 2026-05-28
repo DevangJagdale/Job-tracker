@@ -4,6 +4,11 @@
   "total_jobs": 8,
   "jobs": [
     {
+      "title": "Lead Director - Digital Engineering",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0872948/Lead-Director-Digital-Engineering",
+      "identifier": "Lead Director - Digital Engineering_d-Director-Digital-Engineering"
+    },
+    {
       "title": "Software Development Engineer - Full Stack",
       "url": "https://jobs.cvshealth.com/us/en/job/R0901795/Software-Development-Engineer-Full-Stack",
       "identifier": "Software Development Engineer - Full Stack_evelopment-Engineer-Full-Stack"
@@ -17,11 +22,6 @@
       "title": "Lead Director, Site Reliability Engineering - Client Experience",
       "url": "https://jobs.cvshealth.com/us/en/job/R0902192/Lead-Director-Site-Reliability-Engineering-Client-Experience",
       "identifier": "Lead Director, Site Reliability Engineering - Clie_-Engineering-Client-Experience"
-    },
-    {
-      "title": "Lead Director - Digital Engineering",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0872948/Lead-Director-Digital-Engineering",
-      "identifier": "Lead Director - Digital Engineering_d-Director-Digital-Engineering"
     },
     {
       "title": "Lead Director - Enterprise Delivery",
@@ -45,5 +45,5 @@
     }
   ],
   "job_count_text": "44",
-  "timestamp": "2026-05-28T17:15:40.576176"
+  "timestamp": "2026-05-28T17:32:41.384742"
 }

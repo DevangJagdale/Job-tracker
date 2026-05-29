@@ -4,21 +4,6 @@
   "total_jobs": 8,
   "jobs": [
     {
-      "title": "Manager - Scrum Master",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0922913/Manager-Scrum-Master",
-      "identifier": "Manager - Scrum Master_/R0922913/Manager-Scrum-Master"
-    },
-    {
-      "title": "Lead Director - Digital Engineering",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0872948/Lead-Director-Digital-Engineering",
-      "identifier": "Lead Director - Digital Engineering_d-Director-Digital-Engineering"
-    },
-    {
-      "title": "Staff Software Development Engineer - Fulfillment",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0924466/Staff-Software-Development-Engineer-Fulfillment",
-      "identifier": "Staff Software Development Engineer - Fulfillment_velopment-Engineer-Fulfillment"
-    },
-    {
       "title": "Manager, Underwriting Model Product Support",
       "url": "https://jobs.cvshealth.com/us/en/job/R0921147/Manager-Underwriting-Model-Product-Support",
       "identifier": "Manager, Underwriting Model Product Support_rwriting-Model-Product-Support"
@@ -34,6 +19,16 @@
       "identifier": "Senior Help Desk Support Specialist_r-Help-Desk-Support-Specialist"
     },
     {
+      "title": "Manager - Scrum Master",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0922913/Manager-Scrum-Master",
+      "identifier": "Manager - Scrum Master_/R0922913/Manager-Scrum-Master"
+    },
+    {
+      "title": "Quality Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0863428/Quality-Engineer",
+      "identifier": "Quality Engineer_/job/R0863428/Quality-Engineer"
+    },
+    {
       "title": "Lead Director - Enterprise Delivery",
       "url": "https://jobs.cvshealth.com/us/en/job/R0920203/Lead-Director-Enterprise-Delivery",
       "identifier": "Lead Director - Enterprise Delivery_d-Director-Enterprise-Delivery"
@@ -42,8 +37,13 @@
       "title": "Quality Engineer - IBMi",
       "url": "https://jobs.cvshealth.com/us/en/job/R0880639/Quality-Engineer-IBMi",
       "identifier": "Quality Engineer - IBMi_R0880639/Quality-Engineer-IBMi"
+    },
+    {
+      "title": "Senior Quality Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0908671/Senior-Quality-Engineer",
+      "identifier": "Senior Quality Engineer_908671/Senior-Quality-Engineer"
     }
   ],
-  "job_count_text": "31",
-  "timestamp": "2026-05-29T06:09:16.833954"
+  "job_count_text": "30",
+  "timestamp": "2026-05-29T06:26:25.618765"
 }

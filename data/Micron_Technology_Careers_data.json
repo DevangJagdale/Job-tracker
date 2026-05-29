@@ -4,6 +4,11 @@
   "total_jobs": 10,
   "jobs": [
     {
+      "title": "DRAM Process Integration Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/39786384",
+      "identifier": "DRAM Process Integration Engineer\nBoise, Idaho, Un_icron.com/careers/job/39786384"
+    },
+    {
       "title": "Computer Engineer, CE\nBoise, Idaho, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/41736690",
       "identifier": "Computer Engineer, CE\nBoise, Idaho, United States _icron.com/careers/job/41736690"
@@ -12,11 +17,6 @@
       "title": "Semiconductor Design Engineer\nRichardson, Texas, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/42120665",
       "identifier": "Semiconductor Design Engineer\nRichardson, Texas, U_icron.com/careers/job/42120665"
-    },
-    {
-      "title": "DRAM Process Integration Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
-      "url": "https://careers.micron.com/careers/job/39786384",
-      "identifier": "DRAM Process Integration Engineer\nBoise, Idaho, Un_icron.com/careers/job/39786384"
     },
     {
       "title": "ATE Process Engineer\nBoise, Idaho, United States of America\nPosted 2 days ago",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "96",
-  "timestamp": "2026-05-29T23:21:16.020941"
+  "timestamp": "2026-05-29T23:38:20.929646"
 }

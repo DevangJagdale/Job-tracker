@@ -1,17 +1,12 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 16,
+  "total_jobs": 15,
   "jobs": [
     {
       "title": "SW Dev Engineer -ASE -Backend",
       "url": "https://jobs.apple.com/en-us/details/200665911-0836/sw-dev-engineer-ase-backend?team=SFTWR",
       "identifier": "SW Dev Engineer -ASE -Backend_ngineer-ase-backend?team=SFTWR"
-    },
-    {
-      "title": "Data Scientist - Health",
-      "url": "https://jobs.apple.com/en-us/details/200633626-3401/data-scientist-health?team=SFTWR",
-      "identifier": "Data Scientist - Health_ta-scientist-health?team=SFTWR"
     },
     {
       "title": "Information Security Business Partner Lead - Product Ops & Supply Chain",
@@ -85,5 +80,5 @@
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-29T23:18:09.011764"
+  "timestamp": "2026-05-29T23:35:12.052274"
 }

@@ -34,11 +34,6 @@
       "identifier": "Staff IT Solutions Engineer, Collaboration Platfor_ang=en-us&previousLocale=en-US"
     },
     {
-      "title": "Operations Coordinator, Autonomy Systems Validation",
-      "url": "https://careers.rivian.com/careers-home/jobs/30550?lang=en-us&previousLocale=en-US",
-      "identifier": "Operations Coordinator, Autonomy Systems Validatio_ang=en-us&previousLocale=en-US"
-    },
-    {
       "title": "Senior Embedded Software Engineer - Vehicle Access Systems",
       "url": "https://careers.rivian.com/careers-home/jobs/30955?lang=en-us&previousLocale=en-US",
       "identifier": "Senior Embedded Software Engineer - Vehicle Access_ang=en-us&previousLocale=en-US"
@@ -57,8 +52,13 @@
       "title": "Senior Full Stack Software Engineer, Communications Platform",
       "url": "https://careers.rivian.com/careers-home/jobs/30142?lang=en-us&previousLocale=en-US",
       "identifier": "Senior Full Stack Software Engineer, Communication_ang=en-us&previousLocale=en-US"
+    },
+    {
+      "title": "Sr. AI Engineer, Enterprise Applied AI",
+      "url": "https://careers.rivian.com/careers-home/jobs/26639?lang=en-us&previousLocale=en-US",
+      "identifier": "Sr. AI Engineer, Enterprise Applied AI_ang=en-us&previousLocale=en-US"
     }
   ],
-  "job_count_text": "47",
-  "timestamp": "2026-05-29T01:16:43.711327"
+  "job_count_text": "46",
+  "timestamp": "2026-05-29T01:33:46.422508"
 }

@@ -1,8 +1,13 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 17,
+  "total_jobs": 16,
   "jobs": [
+    {
+      "title": "Senior Systems Engineer, Watch Software",
+      "url": "https://jobs.apple.com/en-us/details/200662376-0365/senior-systems-engineer-watch-software?team=SFTWR",
+      "identifier": "Senior Systems Engineer, Watch Software_neer-watch-software?team=SFTWR"
+    },
     {
       "title": "Senior Software Engineer",
       "url": "https://jobs.apple.com/en-us/details/200665482-0836/senior-software-engineer?team=OPMFG",
@@ -77,18 +82,8 @@
       "title": "Software Development Engineer - Applications",
       "url": "https://jobs.apple.com/en-us/details/200664764-0157/software-development-engineer-applications?team=SFTWR",
       "identifier": "Software Development Engineer - Applications_gineer-applications?team=SFTWR"
-    },
-    {
-      "title": "Engineering Project Manager (SAP), IS&T Enterprise Systems",
-      "url": "https://jobs.apple.com/en-us/details/200645206-0157/engineering-project-manager-sap-is-t-enterprise-systems?team=SFTWR",
-      "identifier": "Engineering Project Manager (SAP), IS&T Enterprise_-enterprise-systems?team=SFTWR"
-    },
-    {
-      "title": "Director, Automation & Tools - Camera & Photos",
-      "url": "https://jobs.apple.com/en-us/details/200665545-0836/director-automation-tools-camera-photos?team=SFTWR",
-      "identifier": "Director, Automation & Tools - Camera & Photos_tools-camera-photos?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-29T15:04:44.806134"
+  "timestamp": "2026-05-29T15:21:48.360336"
 }

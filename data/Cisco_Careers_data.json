@@ -1,22 +1,12 @@
 {
   "page_title": "Job Openings - Cisco Careers",
   "url": "https://careers.cisco.com/global/en/search-results?s=1",
-  "total_jobs": 9,
+  "total_jobs": 7,
   "jobs": [
     {
       "title": "Workday Security Administrator II (Full-Time) - United States",
       "url": "https://careers.cisco.com/global/en/job/2015304/Workday-Security-Administrator-II-Full-Time-United-States",
       "identifier": "Workday Security Administrator II (Full-Time) - Un_tor-II-Full-Time-United-States"
-    },
-    {
-      "title": "Strategy & Planning Manager III (Full Time) - United States",
-      "url": "https://careers.cisco.com/global/en/job/2013396/Strategy-Planning-Manager-III-Full-Time-United-States",
-      "identifier": "Strategy & Planning Manager III (Full Time) - Unit_er-III-Full-Time-United-States"
-    },
-    {
-      "title": "ASIC Design Verfication Engineer II (Full Time) - United States",
-      "url": "https://careers.cisco.com/global/en/job/2002902/ASIC-Design-Verfication-Engineer-II-Full-Time-United-States",
-      "identifier": "ASIC Design Verfication Engineer II (Full Time) - _eer-II-Full-Time-United-States"
     },
     {
       "title": "Network Systems Engineer I (Full Time) - United States",
@@ -49,6 +39,6 @@
       "identifier": "Sales Development Representative II (Full Time) Un_al-Demand-Center-United-States"
     }
   ],
-  "job_count_text": "9",
-  "timestamp": "2026-05-29T08:09:47.230336"
+  "job_count_text": "7",
+  "timestamp": "2026-05-29T08:26:52.752602"
 }

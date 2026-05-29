@@ -1,19 +1,109 @@
 {
   "page_title": "Salesforce Jobs | Salesforce Careers",
   "url": "https://careers.salesforce.com/en/jobs/?search=&country=United+States+of+America&team=Data&team=Enterprise+Technology+%26+Infrastructure&team=Software+Engineering&jobtype=New+Grads&pagesize=20#results",
-  "total_jobs": 2,
+  "total_jobs": 20,
   "jobs": [
     {
-      "title": "DevOps Engineering AMTS",
-      "url": "https://careers.salesforce.com/en/jobs/jr343354/devops-engineering-amts/",
-      "identifier": "DevOps Engineering AMTS_43354/devops-engineering-amts/"
+      "title": "Solution Engineer - Service cloud",
+      "url": "https://careers.salesforce.com/en/jobs/jr327538/solution-engineer-service-cloud/",
+      "identifier": "Solution Engineer - Service cloud_lution-engineer-service-cloud/"
     },
     {
-      "title": "AI Builder, Emerging Talent",
-      "url": "https://careers.salesforce.com/en/jobs/jr341276/ai-builder-emerging-talent/",
-      "identifier": "AI Builder, Emerging Talent_76/ai-builder-emerging-talent/"
+      "title": "Technical Architect",
+      "url": "https://careers.salesforce.com/en/jobs/jr342640/technical-architect/",
+      "identifier": "Technical Architect_/jr342640/technical-architect/"
+    },
+    {
+      "title": "Delivery Governance - Public Sector Leader",
+      "url": "https://careers.salesforce.com/en/jobs/jr342746/delivery-governance-public-sector-leader/",
+      "identifier": "Delivery Governance - Public Sector Leader_vernance-public-sector-leader/"
+    },
+    {
+      "title": "Commercial Account Executive",
+      "url": "https://careers.salesforce.com/en/jobs/jr242535/commercial-account-executive/",
+      "identifier": "Commercial Account Executive_/commercial-account-executive/"
+    },
+    {
+      "title": "Technical Writing Analyst",
+      "url": "https://careers.salesforce.com/en/jobs/jr307857/technical-writing-analyst/",
+      "identifier": "Technical Writing Analyst_857/technical-writing-analyst/"
+    },
+    {
+      "title": "Commercial Account Executive \u2013 Health & Life Sciences (HLS)",
+      "url": "https://careers.salesforce.com/en/jobs/jr336674/commercial-account-executive-health-life-sciences-hls/",
+      "identifier": "Commercial Account Executive \u2013 Health & Life Scien_tive-health-life-sciences-hls/"
+    },
+    {
+      "title": "Prime Territory Account Executive, Tableau",
+      "url": "https://careers.salesforce.com/en/jobs/jr343449/prime-territory-account-executive-tableau/",
+      "identifier": "Prime Territory Account Executive, Tableau_ory-account-executive-tableau/"
+    },
+    {
+      "title": "Account Executive, Enterprise Sales (MM/GB/ENTR) (Osaka)",
+      "url": "https://careers.salesforce.com/en/jobs/jr333204/account-executive-enterprise-sales-mmgbentr-osaka/",
+      "identifier": "Account Executive, Enterprise Sales (MM/GB/ENTR) (_terprise-sales-mmgbentr-osaka/"
+    },
+    {
+      "title": "Proactive Monitoring Engineering Role (Slack, Salesforce)",
+      "url": "https://careers.salesforce.com/en/jobs/jr343726/proactive-monitoring-engineering-role-slack-salesforce/",
+      "identifier": "Proactive Monitoring Engineering Role (Slack, Sale_neering-role-slack-salesforce/"
+    },
+    {
+      "title": "Enterprise Account Executive - Marketing Cloud, Data Cloud and AI",
+      "url": "https://careers.salesforce.com/en/jobs/jr328870/enterprise-account-executive-marketing-cloud-data-cloud-and-ai/",
+      "identifier": "Enterprise Account Executive - Marketing Cloud, Da_eting-cloud-data-cloud-and-ai/"
+    },
+    {
+      "title": "Senior Product Manager",
+      "url": "https://careers.salesforce.com/en/jobs/jr342308/senior-product-manager/",
+      "identifier": "Senior Product Manager_342308/senior-product-manager/"
+    },
+    {
+      "title": "Senior/Lead Full Stack Engineer, Backend Oriented",
+      "url": "https://careers.salesforce.com/en/jobs/jr339975/seniorlead-full-stack-engineer-backend-oriented/",
+      "identifier": "Senior/Lead Full Stack Engineer, Backend Oriented_ack-engineer-backend-oriented/"
+    },
+    {
+      "title": "Senior Associate Account Partner",
+      "url": "https://careers.salesforce.com/en/jobs/jr343263/senior-associate-account-partner/",
+      "identifier": "Senior Associate Account Partner_ior-associate-account-partner/"
+    },
+    {
+      "title": "Disabilities @Work Manager, APAC",
+      "url": "https://careers.salesforce.com/en/jobs/jr343127/disabilities-work-manager-apac/",
+      "identifier": "Disabilities @Work Manager, APAC_isabilities-work-manager-apac/"
+    },
+    {
+      "title": "Machine Learning Platform Engineer",
+      "url": "https://careers.salesforce.com/en/jobs/jr341270/machine-learning-platform-engineer/",
+      "identifier": "Machine Learning Platform Engineer_ne-learning-platform-engineer/"
+    },
+    {
+      "title": "Named Account Executive, State Government",
+      "url": "https://careers.salesforce.com/en/jobs/jr343540/named-account-executive-state-government/",
+      "identifier": "Named Account Executive, State Government_nt-executive-state-government/"
+    },
+    {
+      "title": "Enterprise Account Executive - Data Foundation",
+      "url": "https://careers.salesforce.com/en/jobs/jr279926/enterprise-account-executive-data-foundation/",
+      "identifier": "Enterprise Account Executive - Data Foundation_unt-executive-data-foundation/"
+    },
+    {
+      "title": "Responsable de compte de r\u00e9gion, affaires des petites entreprises - Growth Business Account Executive - Bilingual (English/French) Montreal",
+      "url": "https://careers.salesforce.com/en/jobs/jr237841/responsable-de-compte-de-region-affaires-des-petites-entreprises-growth-business-account-executive-bilingual-englishfrench-montreal/",
+      "identifier": "Responsable de compte de r\u00e9gion, affaires des peti_ingual-englishfrench-montreal/"
+    },
+    {
+      "title": "Employee Success Operations Associate Analyst",
+      "url": "https://careers.salesforce.com/en/jobs/jr341764/employee-success-operations-associate-analyst/",
+      "identifier": "Employee Success Operations Associate Analyst_-operations-associate-analyst/"
+    },
+    {
+      "title": "Enterprise Account Executive",
+      "url": "https://careers.salesforce.com/en/jobs/jr313065/enterprise-account-executive/",
+      "identifier": "Enterprise Account Executive_/enterprise-account-executive/"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-29T08:11:27.365682"
+  "timestamp": "2026-05-29T08:28:31.421198"
 }

@@ -79,11 +79,6 @@
       "identifier": "GPU System and Scheduling Architect - New College _40a98049581037a3ada55b087049b7"
     },
     {
-      "title": "GPU Verification Engineer - New College Grad 2026",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-MA-Westford/GPU-Verification-Engineer---New-College-Grad-2026_JR2017593?locationCountry=bc33aa3152ec42d4995f4791a106ed09&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&workerSubType=ab40a98049581037a3ada55b087049b7",
-      "identifier": "GPU Verification Engineer - New College Grad 2026_40a98049581037a3ada55b087049b7"
-    },
-    {
       "title": "ASIC Physical Design Engineer, Netlisting - New College Grad 2026",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Physical-Design-Engineer--Netlisting---New-College-Grad-2026_JR2017681?locationCountry=bc33aa3152ec42d4995f4791a106ed09&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&workerSubType=ab40a98049581037a3ada55b087049b7",
       "identifier": "ASIC Physical Design Engineer, Netlisting - New Co_40a98049581037a3ada55b087049b7"
@@ -102,8 +97,13 @@
       "title": "Power Methodology and Modeling Engineer - New College Grad 2026",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/Power-Methodology-and-Modeling-Engineer---New-College-Grad-2026_JR2017486-1?locationCountry=bc33aa3152ec42d4995f4791a106ed09&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&workerSubType=ab40a98049581037a3ada55b087049b7",
       "identifier": "Power Methodology and Modeling Engineer - New Coll_40a98049581037a3ada55b087049b7"
+    },
+    {
+      "title": "GPU Power Architect - New College Grad 2026",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/GPU-Power-Architect---New-College-Grad-2026_JR2017169?locationCountry=bc33aa3152ec42d4995f4791a106ed09&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&workerSubType=ab40a98049581037a3ada55b087049b7",
+      "identifier": "GPU Power Architect - New College Grad 2026_40a98049581037a3ada55b087049b7"
     }
   ],
-  "job_count_text": "58",
-  "timestamp": "2026-05-29T14:01:31.831545"
+  "job_count_text": "56",
+  "timestamp": "2026-05-29T14:18:32.728696"
 }

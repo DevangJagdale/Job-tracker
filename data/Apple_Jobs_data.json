@@ -4,6 +4,11 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Platform Software Engineer, Infrastructure Services",
+      "url": "https://jobs.apple.com/en-us/details/200658896-3956/platform-software-engineer-infrastructure-services?team=SFTWR",
+      "identifier": "Platform Software Engineer, Infrastructure Service_astructure-services?team=SFTWR"
+    },
+    {
       "title": "Project Manager - Employee Experience & Productivity",
       "url": "https://jobs.apple.com/en-us/details/200665531-0670/project-manager-employee-experience-productivity?team=SFTWR",
       "identifier": "Project Manager - Employee Experience & Productivi_rience-productivity?team=SFTWR"
@@ -77,13 +82,8 @@
       "title": "Quality Engineer, Rights & Pricing",
       "url": "https://jobs.apple.com/en-us/details/200665547-0836/quality-engineer-rights-pricing?team=SFTWR",
       "identifier": "Quality Engineer, Rights & Pricing_neer-rights-pricing?team=SFTWR"
-    },
-    {
-      "title": "AI/ML - Senior OS Software Engineer, Evaluation",
-      "url": "https://jobs.apple.com/en-us/details/200658427-0836/ai-ml-senior-os-software-engineer-evaluation?team=SFTWR",
-      "identifier": "AI/ML - Senior OS Software Engineer, Evaluation_engineer-evaluation?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-29T16:37:56.045573"
+  "timestamp": "2026-05-29T16:54:56.829877"
 }

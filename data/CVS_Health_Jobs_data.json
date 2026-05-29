@@ -4,6 +4,11 @@
   "total_jobs": 8,
   "jobs": [
     {
+      "title": "Lead Director - Digital Engineering",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0872948/Lead-Director-Digital-Engineering",
+      "identifier": "Lead Director - Digital Engineering_d-Director-Digital-Engineering"
+    },
+    {
       "title": "Manager - Scrum Master",
       "url": "https://jobs.cvshealth.com/us/en/job/R0922913/Manager-Scrum-Master",
       "identifier": "Manager - Scrum Master_/R0922913/Manager-Scrum-Master"
@@ -14,14 +19,14 @@
       "identifier": "Lead Director, Site Reliability Engineering - Clie_-Engineering-Client-Experience"
     },
     {
-      "title": "Lead Director - Digital Engineering",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0872948/Lead-Director-Digital-Engineering",
-      "identifier": "Lead Director - Digital Engineering_d-Director-Digital-Engineering"
+      "title": "Staff Software Development Engineer - Fulfillment",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0924466/Staff-Software-Development-Engineer-Fulfillment",
+      "identifier": "Staff Software Development Engineer - Fulfillment_velopment-Engineer-Fulfillment"
     },
     {
-      "title": "Manager, Underwriting Model Product Support",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0921147/Manager-Underwriting-Model-Product-Support",
-      "identifier": "Manager, Underwriting Model Product Support_rwriting-Model-Product-Support"
+      "title": "Senior Help Desk Support Specialist",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0914434/Senior-Help-Desk-Support-Specialist",
+      "identifier": "Senior Help Desk Support Specialist_r-Help-Desk-Support-Specialist"
     },
     {
       "title": "Senior Software Development Engineer",
@@ -34,16 +39,11 @@
       "identifier": "Staff Engineer - Regulatory Technology_Engineer-Regulatory-Technology"
     },
     {
-      "title": "Staff Solutions Engineer - Manhattan Active Warehouse Management",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0859681/Staff-Solutions-Engineer-Manhattan-Active-Warehouse-Management",
-      "identifier": "Staff Solutions Engineer - Manhattan Active Wareho_an-Active-Warehouse-Management"
-    },
-    {
-      "title": "Senior Help Desk Support Specialist",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0914434/Senior-Help-Desk-Support-Specialist",
-      "identifier": "Senior Help Desk Support Specialist_r-Help-Desk-Support-Specialist"
+      "title": "Principal Software Engineer \u2013 AI Platform (Production Engineering / Reliability)",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0928277/Principal-Software-Engineer-AI-Platform-Production-Engineering-Reliability",
+      "identifier": "Principal Software Engineer \u2013 AI Platform (Product_uction-Engineering-Reliability"
     }
   ],
   "job_count_text": "49",
-  "timestamp": "2026-05-29T05:34:57.413663"
+  "timestamp": "2026-05-29T05:52:07.115881"
 }

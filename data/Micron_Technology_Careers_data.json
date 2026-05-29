@@ -4,9 +4,14 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Computer Engineer, CE\nBoise, Idaho, United States of America\nPosted 18 hours ago",
+      "title": "Computer Engineer, CE\nBoise, Idaho, United States of America\nPosted 19 hours ago",
       "url": "https://careers.micron.com/careers/job/41736690",
       "identifier": "Computer Engineer, CE\nBoise, Idaho, United States _icron.com/careers/job/41736690"
+    },
+    {
+      "title": "New College Grad - Semiconductor Quality Assurance Engineer\nManassas, Virginia, United States of America\nPosted 3 days ago",
+      "url": "https://careers.micron.com/careers/job/38846488",
+      "identifier": "New College Grad - Semiconductor Quality Assurance_icron.com/careers/job/38846488"
     },
     {
       "title": "New College Grad - Metrology Applications Engineer\nManassas, Virginia, United States of America\nPosted 4 days ago",
@@ -47,13 +52,8 @@
       "title": "Semiconductor Design Engineer\nBoise, Idaho, United States of America\nPosted 8 days ago",
       "url": "https://careers.micron.com/careers/job/42044099",
       "identifier": "Semiconductor Design Engineer\nBoise, Idaho, United_icron.com/careers/job/42044099"
-    },
-    {
-      "title": "ENGINEER, ID1 DRAM PI\nBoise, Idaho, United States of America\nPosted 8 days ago",
-      "url": "https://careers.micron.com/careers/job/42044698",
-      "identifier": "ENGINEER, ID1 DRAM PI\nBoise, Idaho, United States _icron.com/careers/job/42044698"
     }
   ],
-  "job_count_text": "99",
-  "timestamp": "2026-05-29T18:23:40.815615"
+  "job_count_text": "100",
+  "timestamp": "2026-05-29T18:40:41.944787"
 }

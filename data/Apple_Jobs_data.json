@@ -4,6 +4,11 @@
   "total_jobs": 15,
   "jobs": [
     {
+      "title": "Performance & Automation Test Engineer, Creativity Apps",
+      "url": "https://jobs.apple.com/en-us/details/200665875-0836/performance-automation-test-engineer-creativity-apps?team=SFTWR",
+      "identifier": "Performance & Automation Test Engineer, Creativity_eer-creativity-apps?team=SFTWR"
+    },
+    {
       "title": "Senior Maching Learning & Data Scientist, OS Power & Performance",
       "url": "https://jobs.apple.com/en-us/details/200665908-0836/senior-maching-learning-data-scientist-os-power-performance?team=SFTWR",
       "identifier": "Senior Maching Learning & Data Scientist, OS Power_s-power-performance?team=SFTWR"
@@ -72,13 +77,8 @@
       "title": "Software Development Build Engineer, Apps Engineering",
       "url": "https://jobs.apple.com/en-us/details/200665586-0670/software-development-build-engineer-apps-engineering?team=SFTWR",
       "identifier": "Software Development Build Engineer, Apps Engineer_er-apps-engineering?team=SFTWR"
-    },
-    {
-      "title": "Data Scientist - Health AIML",
-      "url": "https://jobs.apple.com/en-us/details/200665713-0836/data-scientist-health-aiml?team=MLAI",
-      "identifier": "Data Scientist - Health AIML_cientist-health-aiml?team=MLAI"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-29T22:09:45.594259"
+  "timestamp": "2026-05-29T22:26:52.841954"
 }

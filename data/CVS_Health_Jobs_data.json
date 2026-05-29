@@ -4,6 +4,11 @@
   "total_jobs": 8,
   "jobs": [
     {
+      "title": "Staff Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0882559/Staff-Software-Development-Engineer",
+      "identifier": "Staff Software Development Engineer_-Software-Development-Engineer"
+    },
+    {
       "title": "Senior Software Engineer - Mainframe COBOL",
       "url": "https://jobs.cvshealth.com/us/en/job/R0882539/Senior-Software-Engineer-Mainframe-COBOL",
       "identifier": "Senior Software Engineer - Mainframe COBOL_tware-Engineer-Mainframe-COBOL"
@@ -37,13 +42,8 @@
       "title": "Lead Director - Enterprise Delivery",
       "url": "https://jobs.cvshealth.com/us/en/job/R0920203/Lead-Director-Enterprise-Delivery",
       "identifier": "Lead Director - Enterprise Delivery_d-Director-Enterprise-Delivery"
-    },
-    {
-      "title": "Quality Engineer - IBMi",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0880639/Quality-Engineer-IBMi",
-      "identifier": "Quality Engineer - IBMi_R0880639/Quality-Engineer-IBMi"
     }
   ],
-  "job_count_text": "31",
-  "timestamp": "2026-05-29T10:08:43.861503"
+  "job_count_text": "32",
+  "timestamp": "2026-05-29T10:25:48.990878"
 }

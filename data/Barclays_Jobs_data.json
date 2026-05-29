@@ -1,8 +1,13 @@
 {
   "page_title": "Search our Job Opportunities at Barclays",
   "url": "https://search.jobs.barclays/search-jobs/United%20States/13015/2/6252001/39x76/-98x5/50/2",
-  "total_jobs": 16,
+  "total_jobs": 14,
   "jobs": [
+    {
+      "title": "Data Analyst",
+      "url": "https://search.jobs.barclays/job/whippany/data-analyst/13015/95721255328",
+      "identifier": "Data Analyst_data-analyst/13015/95721255328"
+    },
     {
       "title": "Private Cloud Engineer",
       "url": "https://search.jobs.barclays/job/whippany/private-cloud-engineer/13015/95689361312",
@@ -67,23 +72,8 @@
       "title": "Developer",
       "url": "https://search.jobs.barclays/job/whippany/developer/13015/95424182640",
       "identifier": "Developer_ny/developer/13015/95424182640"
-    },
-    {
-      "title": "Vice President, Investment Banking",
-      "url": "https://search.jobs.barclays/job/new-york/vice-president-investment-banking/13015/95424182608",
-      "identifier": "Vice President, Investment Banking_ment-banking/13015/95424182608"
-    },
-    {
-      "title": "Application Developer AVP",
-      "url": "https://search.jobs.barclays/job/new-york/application-developer-avp/13015/95424182544",
-      "identifier": "Application Developer AVP_eveloper-avp/13015/95424182544"
-    },
-    {
-      "title": "Product Analyst",
-      "url": "https://search.jobs.barclays/job/whippany/product-analyst/13015/95424182528",
-      "identifier": "Product Analyst_duct-analyst/13015/95424182528"
     }
   ],
-  "job_count_text": "133",
-  "timestamp": "2026-05-29T17:28:35.692468"
+  "job_count_text": "136",
+  "timestamp": "2026-05-29T17:45:36.354054"
 }

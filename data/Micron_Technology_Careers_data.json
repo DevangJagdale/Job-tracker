@@ -4,14 +4,14 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Computer Engineer, CE\nBoise, Idaho, United States of America\nPosted a day ago",
-      "url": "https://careers.micron.com/careers/job/41736690",
-      "identifier": "Computer Engineer, CE\nBoise, Idaho, United States _icron.com/careers/job/41736690"
-    },
-    {
       "title": "DRAM Process Integration Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/39786384",
       "identifier": "DRAM Process Integration Engineer\nBoise, Idaho, Un_icron.com/careers/job/39786384"
+    },
+    {
+      "title": "Computer Engineer, CE\nBoise, Idaho, United States of America\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/41736690",
+      "identifier": "Computer Engineer, CE\nBoise, Idaho, United States _icron.com/careers/job/41736690"
     },
     {
       "title": "Semiconductor Design Engineer\nRichardson, Texas, United States of America\nPosted a day ago",
@@ -39,21 +39,21 @@
       "identifier": "New College Grad - Semiconductor Quality Assurance_icron.com/careers/job/38846488"
     },
     {
-      "title": "Semiconductor Design Engineer\nBoise, Idaho, United States of America\nPosted 3 days ago",
-      "url": "https://careers.micron.com/careers/job/42044099",
-      "identifier": "Semiconductor Design Engineer\nBoise, Idaho, United_icron.com/careers/job/42044099"
-    },
-    {
-      "title": "Engineer - Operations Improvement\nBoise, Idaho, United States of America\nPosted 3 days ago",
-      "url": "https://careers.micron.com/careers/job/42044751",
-      "identifier": "Engineer - Operations Improvement\nBoise, Idaho, Un_icron.com/careers/job/42044751"
-    },
-    {
       "title": "Design Verification Engineer\nBoise, Idaho, United States of America\nPosted 3 days ago",
       "url": "https://careers.micron.com/careers/job/41980073",
       "identifier": "Design Verification Engineer\nBoise, Idaho, United _icron.com/careers/job/41980073"
+    },
+    {
+      "title": "Engineer, RDA DRAM\nBoise, Idaho, United States of America\nPosted 3 days ago",
+      "url": "https://careers.micron.com/careers/job/42043666",
+      "identifier": "Engineer, RDA DRAM\nBoise, Idaho, United States of _icron.com/careers/job/42043666"
+    },
+    {
+      "title": "ENGINEER, ID1 DRAM PI\nBoise, Idaho, United States of America\nPosted 3 days ago",
+      "url": "https://careers.micron.com/careers/job/42044698",
+      "identifier": "ENGINEER, ID1 DRAM PI\nBoise, Idaho, United States _icron.com/careers/job/42044698"
     }
   ],
   "job_count_text": "96",
-  "timestamp": "2026-05-29T21:31:00.022419"
+  "timestamp": "2026-05-29T21:48:03.387447"
 }

@@ -9,11 +9,6 @@
       "identifier": "Lead Director - Digital Engineering_d-Director-Digital-Engineering"
     },
     {
-      "title": "Software Development Engineer - Full Stack",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0901795/Software-Development-Engineer-Full-Stack",
-      "identifier": "Software Development Engineer - Full Stack_evelopment-Engineer-Full-Stack"
-    },
-    {
       "title": "Manager - Scrum Master",
       "url": "https://jobs.cvshealth.com/us/en/job/R0922913/Manager-Scrum-Master",
       "identifier": "Manager - Scrum Master_/R0922913/Manager-Scrum-Master"
@@ -24,26 +19,31 @@
       "identifier": "Lead Director, Site Reliability Engineering - Clie_-Engineering-Client-Experience"
     },
     {
-      "title": "Lead Director - Enterprise Delivery",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0920203/Lead-Director-Enterprise-Delivery",
-      "identifier": "Lead Director - Enterprise Delivery_d-Director-Enterprise-Delivery"
+      "title": "Staff Solutions Engineer - Manhattan Active Warehouse Management",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0859681/Staff-Solutions-Engineer-Manhattan-Active-Warehouse-Management",
+      "identifier": "Staff Solutions Engineer - Manhattan Active Wareho_an-Active-Warehouse-Management"
     },
     {
-      "title": "Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0916742/Software-Development-Engineer",
-      "identifier": "Software Development Engineer_/Software-Development-Engineer"
+      "title": "Staff Software Development Engineer - Fulfillment",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0924466/Staff-Software-Development-Engineer-Fulfillment",
+      "identifier": "Staff Software Development Engineer - Fulfillment_velopment-Engineer-Fulfillment"
     },
     {
-      "title": "Senior Business Analyst - SAP",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0921233/Senior-Business-Analyst-SAP",
-      "identifier": "Senior Business Analyst - SAP_33/Senior-Business-Analyst-SAP"
+      "title": "Senior Help Desk Support Specialist",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0914434/Senior-Help-Desk-Support-Specialist",
+      "identifier": "Senior Help Desk Support Specialist_r-Help-Desk-Support-Specialist"
     },
     {
-      "title": "Manager - Scrum Master",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0922627/Manager-Scrum-Master",
-      "identifier": "Manager - Scrum Master_/R0922627/Manager-Scrum-Master"
+      "title": "Senior Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0924175/Senior-Software-Development-Engineer",
+      "identifier": "Senior Software Development Engineer_-Software-Development-Engineer"
+    },
+    {
+      "title": "Staff Engineer - Regulatory Technology",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0879116/Staff-Engineer-Regulatory-Technology",
+      "identifier": "Staff Engineer - Regulatory Technology_Engineer-Regulatory-Technology"
     }
   ],
-  "job_count_text": "43",
-  "timestamp": "2026-05-29T04:19:11.138189"
+  "job_count_text": "49",
+  "timestamp": "2026-05-29T04:36:10.920067"
 }

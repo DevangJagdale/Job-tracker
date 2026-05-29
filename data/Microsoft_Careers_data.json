@@ -4,12 +4,22 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Member of Technical Staff, Principal Software Engineer - Windows Copilot\nUnited States, Washington, Redmond\nPosted 13 minutes ago",
+      "title": "Applied Scientist II (Bing Places)\nUnited States, Washington, Redmond + 1 more\nPosted 12 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556858338?domain=microsoft.com",
+      "identifier": "Applied Scientist II (Bing Places)\nUnited States, _556858338?domain=microsoft.com"
+    },
+    {
+      "title": "Site Reliability Engineer - CTJ - Poly\nUnited States, Washington, Redmond + 1 more\nPosted 11 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556868612?domain=microsoft.com",
+      "identifier": "Site Reliability Engineer - CTJ - Poly\nUnited Stat_556868612?domain=microsoft.com"
+    },
+    {
+      "title": "Member of Technical Staff, Principal Software Engineer - Windows Copilot\nUnited States, Washington, Redmond\nPosted 30 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556870741?domain=microsoft.com",
       "identifier": "Member of Technical Staff, Principal Software Engi_556870741?domain=microsoft.com"
     },
     {
-      "title": "Principal Group Software Engineering Manager\nUnited States, Washington, Redmond\nPosted 32 minutes ago",
+      "title": "Principal Group Software Engineering Manager\nUnited States, Washington, Redmond\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556869908?domain=microsoft.com",
       "identifier": "Principal Group Software Engineering Manager\nUnite_556869908?domain=microsoft.com"
     },
@@ -19,14 +29,14 @@
       "identifier": "Principal Software Engineering Architect\nUnited St_556868936?domain=microsoft.com"
     },
     {
-      "title": "Member of Technical Staff, Microsoft Robotics (Perception)\nUnited States, Washington, Redmond\nPosted 2 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556866737?domain=microsoft.com",
-      "identifier": "Member of Technical Staff, Microsoft Robotics (Per_556866737?domain=microsoft.com"
-    },
-    {
       "title": "Member of Technical Staff, Microsoft Robotics (Robot Security & Safety)\nUnited States, Washington, Redmond\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556868893?domain=microsoft.com",
       "identifier": "Member of Technical Staff, Microsoft Robotics (Rob_556868893?domain=microsoft.com"
+    },
+    {
+      "title": "Member of Technical Staff, Microsoft Robotics (Perception)\nUnited States, Washington, Redmond\nPosted 2 hours ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556866737?domain=microsoft.com",
+      "identifier": "Member of Technical Staff, Microsoft Robotics (Per_556866737?domain=microsoft.com"
     },
     {
       "title": "Member of Technical Staff, Microsoft Robotics (Navigation)\nUnited States, Washington, Redmond\nPosted 2 hours ago",
@@ -42,18 +52,8 @@
       "title": "Software Engineer II and Sr. Software Engineer - AI Frameworks\nUnited States, Multiple Locations, Multiple Locations + 4 more\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556849595?domain=microsoft.com",
       "identifier": "Software Engineer II and Sr. Software Engineer - A_556849595?domain=microsoft.com"
-    },
-    {
-      "title": "Member of Technical Staff, Microsoft Robotics (Robotics Data)\nUnited States, Washington, Redmond\nPosted 2 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556866701?domain=microsoft.com",
-      "identifier": "Member of Technical Staff, Microsoft Robotics (Rob_556866701?domain=microsoft.com"
-    },
-    {
-      "title": "Member of Technical Staff, Microsoft Robotics (Spatial AI)\nUnited States, Washington, Redmond\nPosted 2 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556866702?domain=microsoft.com",
-      "identifier": "Member of Technical Staff, Microsoft Robotics (Spa_556866702?domain=microsoft.com"
     }
   ],
-  "job_count_text": "443",
-  "timestamp": "2026-05-29T19:28:23.768820"
+  "job_count_text": "445",
+  "timestamp": "2026-05-29T19:45:28.697378"
 }

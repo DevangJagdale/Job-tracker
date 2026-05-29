@@ -24,14 +24,14 @@
       "identifier": "Staff Quality Engineer - Prior Authorization_y-Engineer-Prior-Authorization"
     },
     {
-      "title": "Manager - Scrum Master",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0922913/Manager-Scrum-Master",
-      "identifier": "Manager - Scrum Master_/R0922913/Manager-Scrum-Master"
-    },
-    {
       "title": "Senior Help Desk Support Specialist",
       "url": "https://jobs.cvshealth.com/us/en/job/R0914434/Senior-Help-Desk-Support-Specialist",
       "identifier": "Senior Help Desk Support Specialist_r-Help-Desk-Support-Specialist"
+    },
+    {
+      "title": "Manager - Scrum Master",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0922913/Manager-Scrum-Master",
+      "identifier": "Manager - Scrum Master_/R0922913/Manager-Scrum-Master"
     },
     {
       "title": "Quality Engineer",
@@ -45,5 +45,5 @@
     }
   ],
   "job_count_text": "32",
-  "timestamp": "2026-05-29T19:29:42.054373"
+  "timestamp": "2026-05-29T19:46:44.950695"
 }

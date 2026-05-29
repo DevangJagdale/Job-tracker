@@ -4,7 +4,12 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Software Engineer II\nUnited States, Multiple Locations, Multiple Locations\nPosted an hour ago",
+      "title": "Applied Science: PhD Microsoft AI Internship Opportunities - Redmond\nUnited States, Washington, Redmond\nPosted 18 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556868271?domain=microsoft.com",
+      "identifier": "Applied Science: PhD Microsoft AI Internship Oppor_556868271?domain=microsoft.com"
+    },
+    {
+      "title": "Software Engineer II\nUnited States, Multiple Locations, Multiple Locations\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556649786?domain=microsoft.com",
       "identifier": "Software Engineer II\nUnited States, Multiple Locat_556649786?domain=microsoft.com"
     },
@@ -44,16 +49,11 @@
       "identifier": "Manager- Applied Sciences / Machine Learning\nUnite_556852769?domain=microsoft.com"
     },
     {
-      "title": "Software Engineering IC5\nUnited States, Washington, Redmond\nPosted 4 hours ago",
+      "title": "Software Engineering IC5\nUnited States, Washington, Redmond\nPosted 5 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556867072?domain=microsoft.com",
       "identifier": "Software Engineering IC5\nUnited States, Washington_556867072?domain=microsoft.com"
-    },
-    {
-      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 5 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556638003?domain=microsoft.com",
-      "identifier": "Software Engineer II\nUnited States, Washington, Re_556638003?domain=microsoft.com"
     }
   ],
-  "job_count_text": "433",
-  "timestamp": "2026-05-29T00:02:24.456165"
+  "job_count_text": "434",
+  "timestamp": "2026-05-29T00:19:25.442233"
 }

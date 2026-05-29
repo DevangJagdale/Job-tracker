@@ -4,14 +4,19 @@
   "total_jobs": 10,
   "jobs": [
     {
+      "title": "Computer Engineer, CE\nBoise, Idaho, United States of America\nPosted 20 hours ago",
+      "url": "https://careers.micron.com/careers/job/41736690",
+      "identifier": "Computer Engineer, CE\nBoise, Idaho, United States _icron.com/careers/job/41736690"
+    },
+    {
       "title": "DRAM Process Integration Engineer\nBoise, Idaho, United States of America\nPosted 20 hours ago",
       "url": "https://careers.micron.com/careers/job/39786384",
       "identifier": "DRAM Process Integration Engineer\nBoise, Idaho, Un_icron.com/careers/job/39786384"
     },
     {
-      "title": "Computer Engineer, CE\nBoise, Idaho, United States of America\nPosted 20 hours ago",
-      "url": "https://careers.micron.com/careers/job/41736690",
-      "identifier": "Computer Engineer, CE\nBoise, Idaho, United States _icron.com/careers/job/41736690"
+      "title": "ATE Process Engineer\nBoise, Idaho, United States of America\nPosted 2 days ago",
+      "url": "https://careers.micron.com/careers/job/42044723",
+      "identifier": "ATE Process Engineer\nBoise, Idaho, United States o_icron.com/careers/job/42044723"
     },
     {
       "title": "New College Grad - Semiconductor Quality Assurance Engineer\nManassas, Virginia, United States of America\nPosted 3 days ago",
@@ -19,9 +24,14 @@
       "identifier": "New College Grad - Semiconductor Quality Assurance_icron.com/careers/job/38846488"
     },
     {
-      "title": "New College Grad - Metrology Applications Engineer\nManassas, Virginia, United States of America\nPosted 4 days ago",
-      "url": "https://careers.micron.com/careers/job/40100239",
-      "identifier": "New College Grad - Metrology Applications Engineer_icron.com/careers/job/40100239"
+      "title": "Semiconductor Design Engineer\nBoise, Idaho, United States of America\nPosted 3 days ago",
+      "url": "https://careers.micron.com/careers/job/42044099",
+      "identifier": "Semiconductor Design Engineer\nBoise, Idaho, United_icron.com/careers/job/42044099"
+    },
+    {
+      "title": "Design Verification Engineer\nBoise, Idaho, United States of America\nPosted 3 days ago",
+      "url": "https://careers.micron.com/careers/job/41980073",
+      "identifier": "Design Verification Engineer\nBoise, Idaho, United _icron.com/careers/job/41980073"
     },
     {
       "title": "Computer Engineer, CE\nBoise, Idaho, United States of America\nPosted 4 days ago",
@@ -34,26 +44,16 @@
       "identifier": "ENGINEER, DEMQRA AUTOMOTIVE PQRE\nManassas, Virgini_icron.com/careers/job/42076135"
     },
     {
-      "title": "Design Verification Engineer\nBoise, Idaho, United States of America\nPosted 8 days ago",
-      "url": "https://careers.micron.com/careers/job/41980073",
-      "identifier": "Design Verification Engineer\nBoise, Idaho, United _icron.com/careers/job/41980073"
+      "title": "New College Grad - Metrology Applications Engineer\nManassas, Virginia, United States of America\nPosted 4 days ago",
+      "url": "https://careers.micron.com/careers/job/40100239",
+      "identifier": "New College Grad - Metrology Applications Engineer_icron.com/careers/job/40100239"
     },
     {
-      "title": "DRAM Design Engineer\nBoise, Idaho, United States of America\nPosted 8 days ago",
-      "url": "https://careers.micron.com/careers/job/41980082",
-      "identifier": "DRAM Design Engineer\nBoise, Idaho, United States o_icron.com/careers/job/41980082"
-    },
-    {
-      "title": "MTS, DEG Design Verification\nBoise, Idaho, United States of America\nPosted 8 days ago",
-      "url": "https://careers.micron.com/careers/job/41980120",
-      "identifier": "MTS, DEG Design Verification\nBoise, Idaho, United _icron.com/careers/job/41980120"
-    },
-    {
-      "title": "Engineer, RDA DRAM\nBoise, Idaho, United States of America\nPosted 8 days ago",
+      "title": "Engineer, RDA DRAM\nBoise, Idaho, United States of America\nPosted 3 days ago",
       "url": "https://careers.micron.com/careers/job/42043666",
       "identifier": "Engineer, RDA DRAM\nBoise, Idaho, United States of _icron.com/careers/job/42043666"
     }
   ],
   "job_count_text": "94",
-  "timestamp": "2026-05-29T20:05:53.743555"
+  "timestamp": "2026-05-29T20:22:54.621328"
 }

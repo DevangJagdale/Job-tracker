@@ -4,6 +4,11 @@
   "total_jobs": 15,
   "jobs": [
     {
+      "title": "Senior Maching Learning & Data Scientist, OS Power & Performance",
+      "url": "https://jobs.apple.com/en-us/details/200665908-0836/senior-maching-learning-data-scientist-os-power-performance?team=SFTWR",
+      "identifier": "Senior Maching Learning & Data Scientist, OS Power_s-power-performance?team=SFTWR"
+    },
+    {
       "title": "Software Engineering Manager, ASE Commerce Engineering",
       "url": "https://jobs.apple.com/en-us/details/200665874-2459/software-engineering-manager-ase-commerce-engineering?team=SFTWR",
       "identifier": "Software Engineering Manager, ASE Commerce Enginee_ommerce-engineering?team=SFTWR"
@@ -72,13 +77,8 @@
       "title": "Data Scientist - Health AIML",
       "url": "https://jobs.apple.com/en-us/details/200665713-0836/data-scientist-health-aiml?team=MLAI",
       "identifier": "Data Scientist - Health AIML_cientist-health-aiml?team=MLAI"
-    },
-    {
-      "title": "Software Engineer, Siri App Experiences",
-      "url": "https://jobs.apple.com/en-us/details/200664856-3337/software-engineer-siri-app-experiences?team=SFTWR",
-      "identifier": "Software Engineer, Siri App Experiences_iri-app-experiences?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-29T21:10:50.137577"
+  "timestamp": "2026-05-29T21:27:50.383884"
 }

@@ -24,11 +24,6 @@
       "identifier": "Staff Quality Engineer - Prior Authorization_y-Engineer-Prior-Authorization"
     },
     {
-      "title": "Senior Help Desk Support Specialist",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0914434/Senior-Help-Desk-Support-Specialist",
-      "identifier": "Senior Help Desk Support Specialist_r-Help-Desk-Support-Specialist"
-    },
-    {
       "title": "Manager - Scrum Master",
       "url": "https://jobs.cvshealth.com/us/en/job/R0922913/Manager-Scrum-Master",
       "identifier": "Manager - Scrum Master_/R0922913/Manager-Scrum-Master"
@@ -42,8 +37,13 @@
       "title": "Lead Director - Enterprise Delivery",
       "url": "https://jobs.cvshealth.com/us/en/job/R0920203/Lead-Director-Enterprise-Delivery",
       "identifier": "Lead Director - Enterprise Delivery_d-Director-Enterprise-Delivery"
+    },
+    {
+      "title": "Quality Engineer - IBMi",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0880639/Quality-Engineer-IBMi",
+      "identifier": "Quality Engineer - IBMi_R0880639/Quality-Engineer-IBMi"
     }
   ],
-  "job_count_text": "32",
-  "timestamp": "2026-05-29T21:11:50.623920"
+  "job_count_text": "31",
+  "timestamp": "2026-05-29T21:28:51.643768"
 }

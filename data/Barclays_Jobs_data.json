@@ -4,6 +4,11 @@
   "total_jobs": 14,
   "jobs": [
     {
+      "title": "US Content Client Strategy",
+      "url": "https://search.jobs.barclays/job/new-york/us-content-client-strategy/13015/95721258448",
+      "identifier": "US Content Client Strategy_ent-strategy/13015/95721258448"
+    },
+    {
       "title": "Data Analyst",
       "url": "https://search.jobs.barclays/job/whippany/data-analyst/13015/95721255328",
       "identifier": "Data Analyst_data-analyst/13015/95721255328"
@@ -27,11 +32,6 @@
       "title": "Assistant VP, Loan Fraud Risk Lead",
       "url": "https://search.jobs.barclays/job/wilmington/assistant-vp-loan-fraud-risk-lead/13015/95675826352",
       "identifier": "Assistant VP, Loan Fraud Risk Lead_ud-risk-lead/13015/95675826352"
-    },
-    {
-      "title": "Data Centre Operation Technician",
-      "url": "https://search.jobs.barclays/job/cranford/data-centre-operation-technician/13015/95670821200",
-      "identifier": "Data Centre Operation Technician_n-technician/13015/95670821200"
     },
     {
       "title": "Head of Customer Journey and Product Delivery",
@@ -75,5 +75,5 @@
     }
   ],
   "job_count_text": "136",
-  "timestamp": "2026-05-29T23:34:38.460535"
+  "timestamp": "2026-05-29T23:51:43.541079"
 }

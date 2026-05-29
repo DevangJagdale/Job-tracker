@@ -4,6 +4,11 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Software Quality Engineer, Books",
+      "url": "https://jobs.apple.com/en-us/details/200665686-0836/software-quality-engineer-books?team=SFTWR",
+      "identifier": "Software Quality Engineer, Books_lity-engineer-books?team=SFTWR"
+    },
+    {
       "title": "Sr Program Manager, Commerce Program Management - Partners, Apple Services Engineering",
       "url": "https://jobs.apple.com/en-us/details/200656992-3337/sr-program-manager-commerce-program-management-partners-apple-services-engineering?team=SFTWR",
       "identifier": "Sr Program Manager, Commerce Program Management - _ervices-engineering?team=SFTWR"
@@ -77,13 +82,8 @@
       "title": "CVML Engineer - 3D Reconstruction",
       "url": "https://jobs.apple.com/en-us/details/200664830-3956/cvml-engineer-3d-reconstruction?team=MLAI",
       "identifier": "CVML Engineer - 3D Reconstruction_er-3d-reconstruction?team=MLAI"
-    },
-    {
-      "title": "AR/VR Applications Engineer - Photos, Vision Products Software",
-      "url": "https://jobs.apple.com/en-us/details/200655347-3956/ar-vr-applications-engineer-photos-vision-products-software?team=SFTWR",
-      "identifier": "AR/VR Applications Engineer - Photos, Vision Produ_n-products-software?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-29T17:46:10.292734"
+  "timestamp": "2026-05-29T18:03:13.334259"
 }

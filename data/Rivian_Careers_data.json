@@ -49,16 +49,16 @@
       "identifier": "Sr. Engineering Technician II_ang=en-us&previousLocale=en-US"
     },
     {
-      "title": "Senior Full Stack Software Engineer, Communications Platform",
-      "url": "https://careers.rivian.com/careers-home/jobs/30142?lang=en-us&previousLocale=en-US",
-      "identifier": "Senior Full Stack Software Engineer, Communication_ang=en-us&previousLocale=en-US"
-    },
-    {
       "title": "Sr. AI Engineer, Enterprise Applied AI",
       "url": "https://careers.rivian.com/careers-home/jobs/26639?lang=en-us&previousLocale=en-US",
       "identifier": "Sr. AI Engineer, Enterprise Applied AI_ang=en-us&previousLocale=en-US"
+    },
+    {
+      "title": "Senior Full Stack Software Engineer, Communications Platform",
+      "url": "https://careers.rivian.com/careers-home/jobs/30142?lang=en-us&previousLocale=en-US",
+      "identifier": "Senior Full Stack Software Engineer, Communication_ang=en-us&previousLocale=en-US"
     }
   ],
   "job_count_text": "46",
-  "timestamp": "2026-05-29T13:45:33.430343"
+  "timestamp": "2026-05-29T14:02:33.905588"
 }

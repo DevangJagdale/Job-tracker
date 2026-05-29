@@ -1,8 +1,23 @@
 {
   "page_title": "Search our Job Opportunities at Barclays",
   "url": "https://search.jobs.barclays/search-jobs/United%20States/13015/2/6252001/39x76/-98x5/50/2",
-  "total_jobs": 13,
+  "total_jobs": 16,
   "jobs": [
+    {
+      "title": "Private Cloud Engineer",
+      "url": "https://search.jobs.barclays/job/whippany/private-cloud-engineer/13015/95689361312",
+      "identifier": "Private Cloud Engineer_oud-engineer/13015/95689361312"
+    },
+    {
+      "title": "Fixed Income Corporate Access Coordinator",
+      "url": "https://search.jobs.barclays/job/new-york/fixed-income-corporate-access-coordinator/13015/95689355584",
+      "identifier": "Fixed Income Corporate Access Coordinator_-coordinator/13015/95689355584"
+    },
+    {
+      "title": "Quantitative Analyst/Developer, Vice President",
+      "url": "https://search.jobs.barclays/job/new-york/quantitative-analyst-developer-vice-president/13015/95689352240",
+      "identifier": "Quantitative Analyst/Developer, Vice President_ce-president/13015/95689352240"
+    },
     {
       "title": "Assistant VP, Loan Fraud Risk Lead",
       "url": "https://search.jobs.barclays/job/wilmington/assistant-vp-loan-fraud-risk-lead/13015/95675826352",
@@ -69,6 +84,6 @@
       "identifier": "Product Analyst_duct-analyst/13015/95424182528"
     }
   ],
-  "job_count_text": "134",
-  "timestamp": "2026-05-29T11:22:53.784133"
+  "job_count_text": "133",
+  "timestamp": "2026-05-29T11:39:53.315149"
 }

@@ -4,6 +4,11 @@
   "total_jobs": 8,
   "jobs": [
     {
+      "title": "Senior Software Engineer - Mainframe COBOL",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0882539/Senior-Software-Engineer-Mainframe-COBOL",
+      "identifier": "Senior Software Engineer - Mainframe COBOL_tware-Engineer-Mainframe-COBOL"
+    },
+    {
       "title": "Manager, Underwriting Model Product Support",
       "url": "https://jobs.cvshealth.com/us/en/job/R0921147/Manager-Underwriting-Model-Product-Support",
       "identifier": "Manager, Underwriting Model Product Support_rwriting-Model-Product-Support"
@@ -37,13 +42,8 @@
       "title": "Quality Engineer - IBMi",
       "url": "https://jobs.cvshealth.com/us/en/job/R0880639/Quality-Engineer-IBMi",
       "identifier": "Quality Engineer - IBMi_R0880639/Quality-Engineer-IBMi"
-    },
-    {
-      "title": "Senior Quality Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0908671/Senior-Quality-Engineer",
-      "identifier": "Senior Quality Engineer_908671/Senior-Quality-Engineer"
     }
   ],
-  "job_count_text": "30",
-  "timestamp": "2026-05-29T09:00:17.927548"
+  "job_count_text": "31",
+  "timestamp": "2026-05-29T09:17:21.941092"
 }

@@ -4,6 +4,11 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Project Manager - Employee Experience & Productivity",
+      "url": "https://jobs.apple.com/en-us/details/200665531-0670/project-manager-employee-experience-productivity?team=SFTWR",
+      "identifier": "Project Manager - Employee Experience & Productivi_rience-productivity?team=SFTWR"
+    },
+    {
       "title": "Senior Systems Engineer, Watch Software",
       "url": "https://jobs.apple.com/en-us/details/200662376-0365/senior-systems-engineer-watch-software?team=SFTWR",
       "identifier": "Senior Systems Engineer, Watch Software_neer-watch-software?team=SFTWR"
@@ -77,13 +82,8 @@
       "title": "AI/ML - Senior OS Software Engineer, Evaluation",
       "url": "https://jobs.apple.com/en-us/details/200658427-0836/ai-ml-senior-os-software-engineer-evaluation?team=SFTWR",
       "identifier": "AI/ML - Senior OS Software Engineer, Evaluation_engineer-evaluation?team=SFTWR"
-    },
-    {
-      "title": "Software Development Engineer - Applications",
-      "url": "https://jobs.apple.com/en-us/details/200664764-0157/software-development-engineer-applications?team=SFTWR",
-      "identifier": "Software Development Engineer - Applications_gineer-applications?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-29T16:20:54.394272"
+  "timestamp": "2026-05-29T16:37:56.045573"
 }

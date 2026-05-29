@@ -4,14 +4,14 @@
   "total_jobs": 8,
   "jobs": [
     {
-      "title": "Senior Software Engineer - Mainframe COBOL",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0882539/Senior-Software-Engineer-Mainframe-COBOL",
-      "identifier": "Senior Software Engineer - Mainframe COBOL_tware-Engineer-Mainframe-COBOL"
-    },
-    {
       "title": "Staff Software Development Engineer",
       "url": "https://jobs.cvshealth.com/us/en/job/R0882559/Staff-Software-Development-Engineer",
       "identifier": "Staff Software Development Engineer_-Software-Development-Engineer"
+    },
+    {
+      "title": "Senior Software Engineer - Mainframe COBOL",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0882539/Senior-Software-Engineer-Mainframe-COBOL",
+      "identifier": "Senior Software Engineer - Mainframe COBOL_tware-Engineer-Mainframe-COBOL"
     },
     {
       "title": "Manager, Underwriting Model Product Support",
@@ -24,14 +24,14 @@
       "identifier": "Staff Quality Engineer - Prior Authorization_y-Engineer-Prior-Authorization"
     },
     {
-      "title": "Senior Help Desk Support Specialist",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0914434/Senior-Help-Desk-Support-Specialist",
-      "identifier": "Senior Help Desk Support Specialist_r-Help-Desk-Support-Specialist"
-    },
-    {
       "title": "Manager - Scrum Master",
       "url": "https://jobs.cvshealth.com/us/en/job/R0922913/Manager-Scrum-Master",
       "identifier": "Manager - Scrum Master_/R0922913/Manager-Scrum-Master"
+    },
+    {
+      "title": "Senior Help Desk Support Specialist",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0914434/Senior-Help-Desk-Support-Specialist",
+      "identifier": "Senior Help Desk Support Specialist_r-Help-Desk-Support-Specialist"
     },
     {
       "title": "Quality Engineer",
@@ -45,5 +45,5 @@
     }
   ],
   "job_count_text": "32",
-  "timestamp": "2026-05-29T16:21:55.702185"
+  "timestamp": "2026-05-29T16:38:55.151002"
 }

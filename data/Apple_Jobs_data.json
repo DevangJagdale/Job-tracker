@@ -4,6 +4,11 @@
   "total_jobs": 17,
   "jobs": [
     {
+      "title": "Senior Software Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200665482-0836/senior-software-engineer?team=OPMFG",
+      "identifier": "Senior Software Engineer_r-software-engineer?team=OPMFG"
+    },
+    {
       "title": "Analytics Engineer-Apple Services Engineering",
       "url": "https://jobs.apple.com/en-us/details/200665540-3337/analytics-engineer-apple-services-engineering?team=SFTWR",
       "identifier": "Analytics Engineer-Apple Services Engineering_ervices-engineering?team=SFTWR"
@@ -82,13 +87,8 @@
       "title": "Director, Automation & Tools - Camera & Photos",
       "url": "https://jobs.apple.com/en-us/details/200665545-0836/director-automation-tools-camera-photos?team=SFTWR",
       "identifier": "Director, Automation & Tools - Camera & Photos_tools-camera-photos?team=SFTWR"
-    },
-    {
-      "title": "Senior Maching Learning & Data Scientist, OS Power & Performance",
-      "url": "https://jobs.apple.com/en-us/details/200660998-0836/senior-maching-learning-data-scientist-os-power-performance?team=SFTWR",
-      "identifier": "Senior Maching Learning & Data Scientist, OS Power_s-power-performance?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-29T02:19:01.679776"
+  "timestamp": "2026-05-29T02:36:00.592084"
 }

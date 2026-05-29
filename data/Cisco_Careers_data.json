@@ -1,7 +1,7 @@
 {
   "page_title": "Job Openings - Cisco Careers",
   "url": "https://careers.cisco.com/global/en/search-results?s=1",
-  "total_jobs": 10,
+  "total_jobs": 9,
   "jobs": [
     {
       "title": "Workday Security Administrator II (Full-Time) - United States",
@@ -22,11 +22,6 @@
       "title": "Network Systems Engineer I (Full Time) - United States",
       "url": "https://careers.cisco.com/global/en/job/2015726/Network-Systems-Engineer-I-Full-Time-United-States",
       "identifier": "Network Systems Engineer I (Full Time) - United St_neer-I-Full-Time-United-States"
-    },
-    {
-      "title": "Software Engineer Backend/Platform II (Full Time)- United States ENG/CPO/WTG ETR",
-      "url": "https://careers.cisco.com/global/en/job/2011251/Software-Engineer-Backend-Platform-II-Full-Time-United-States-ENG-CPO-WTG-ETR",
-      "identifier": "Software Engineer Backend/Platform II (Full Time)-_-United-States-ENG-CPO-WTG-ETR"
     },
     {
       "title": "Software Development Engineer II (Full Time) \u2013 United States",
@@ -54,6 +49,6 @@
       "identifier": "Sales Development Representative II (Full Time) Un_al-Demand-Center-United-States"
     }
   ],
-  "job_count_text": "10",
-  "timestamp": "2026-05-29T04:36:54.600898"
+  "job_count_text": "9",
+  "timestamp": "2026-05-29T04:53:53.131624"
 }

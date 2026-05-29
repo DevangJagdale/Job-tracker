@@ -4,6 +4,11 @@
   "total_jobs": 15,
   "jobs": [
     {
+      "title": "Software Engineering Manager, ASE Commerce Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200665874-2459/software-engineering-manager-ase-commerce-engineering?team=SFTWR",
+      "identifier": "Software Engineering Manager, ASE Commerce Enginee_ommerce-engineering?team=SFTWR"
+    },
+    {
       "title": "SW Development Engineer - Front End Frameworks",
       "url": "https://jobs.apple.com/en-us/details/200656666-0670/sw-development-engineer-front-end-frameworks?team=SFTWR",
       "identifier": "SW Development Engineer - Front End Frameworks_ront-end-frameworks?team=SFTWR"
@@ -72,13 +77,8 @@
       "title": "Software Engineer, Siri App Experiences",
       "url": "https://jobs.apple.com/en-us/details/200664856-3337/software-engineer-siri-app-experiences?team=SFTWR",
       "identifier": "Software Engineer, Siri App Experiences_iri-app-experiences?team=SFTWR"
-    },
-    {
-      "title": "Full Stack Engineer, FindMy",
-      "url": "https://jobs.apple.com/en-us/details/200665699-0836/full-stack-engineer-findmy?team=SFTWR",
-      "identifier": "Full Stack Engineer, FindMy_ack-engineer-findmy?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-29T19:45:44.855599"
+  "timestamp": "2026-05-29T20:02:46.622319"
 }

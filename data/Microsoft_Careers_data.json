@@ -4,17 +4,17 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Applied Scientist II (Bing Places)\nUnited States, Washington, Redmond + 1 more\nPosted 12 minutes ago",
+      "title": "Applied Scientist II (Bing Places)\nUnited States, Washington, Redmond + 1 more\nPosted 29 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556858338?domain=microsoft.com",
       "identifier": "Applied Scientist II (Bing Places)\nUnited States, _556858338?domain=microsoft.com"
     },
     {
-      "title": "Site Reliability Engineer - CTJ - Poly\nUnited States, Washington, Redmond + 1 more\nPosted 11 minutes ago",
+      "title": "Site Reliability Engineer - CTJ - Poly\nUnited States, Washington, Redmond + 1 more\nPosted 28 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556868612?domain=microsoft.com",
       "identifier": "Site Reliability Engineer - CTJ - Poly\nUnited Stat_556868612?domain=microsoft.com"
     },
     {
-      "title": "Member of Technical Staff, Principal Software Engineer - Windows Copilot\nUnited States, Washington, Redmond\nPosted 30 minutes ago",
+      "title": "Member of Technical Staff, Principal Software Engineer - Windows Copilot\nUnited States, Washington, Redmond\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556870741?domain=microsoft.com",
       "identifier": "Member of Technical Staff, Principal Software Engi_556870741?domain=microsoft.com"
     },
@@ -27,6 +27,16 @@
       "title": "Principal Software Engineering Architect\nUnited States, Washington, Redmond\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556868936?domain=microsoft.com",
       "identifier": "Principal Software Engineering Architect\nUnited St_556868936?domain=microsoft.com"
+    },
+    {
+      "title": "Member of Technical Staff, Microsoft Robotics (Software Systems)\nUnited States, Washington, Redmond\nPosted 2 hours ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556869727?domain=microsoft.com",
+      "identifier": "Member of Technical Staff, Microsoft Robotics (Sof_556869727?domain=microsoft.com"
+    },
+    {
+      "title": "Member of Technical Staff, Microsoft Robotics (Software Systems)\nUnited States, Washington, Redmond\nPosted 2 hours ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556869726?domain=microsoft.com",
+      "identifier": "Member of Technical Staff, Microsoft Robotics (Sof_556869726?domain=microsoft.com"
     },
     {
       "title": "Member of Technical Staff, Microsoft Robotics (Robot Security & Safety)\nUnited States, Washington, Redmond\nPosted 2 hours ago",
@@ -42,18 +52,8 @@
       "title": "Member of Technical Staff, Microsoft Robotics (Navigation)\nUnited States, Washington, Redmond\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556866738?domain=microsoft.com",
       "identifier": "Member of Technical Staff, Microsoft Robotics (Nav_556866738?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Service Engineer - CTJ - Top Secret\nUnited States, Virginia, Reston + 1 more\nPosted 2 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556859720?domain=microsoft.com",
-      "identifier": "Senior Service Engineer - CTJ - Top Secret\nUnited _556859720?domain=microsoft.com"
-    },
-    {
-      "title": "Software Engineer II and Sr. Software Engineer - AI Frameworks\nUnited States, Multiple Locations, Multiple Locations + 4 more\nPosted 2 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556849595?domain=microsoft.com",
-      "identifier": "Software Engineer II and Sr. Software Engineer - A_556849595?domain=microsoft.com"
     }
   ],
-  "job_count_text": "445",
-  "timestamp": "2026-05-29T19:45:28.697378"
+  "job_count_text": "447",
+  "timestamp": "2026-05-29T20:02:29.695656"
 }

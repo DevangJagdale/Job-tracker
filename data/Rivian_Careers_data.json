@@ -1,7 +1,7 @@
 {
   "page_title": "Rivian Automotive",
   "url": "https://careers.rivian.com/careers-home/jobs?page=1&categories=Information%20Technology%7CSoftware%20Engineering%7CTest%20and%20Development",
-  "total_jobs": 10,
+  "total_jobs": 11,
   "jobs": [
     {
       "title": "Check Application Status",
@@ -52,8 +52,13 @@
       "title": "Sr. Engineering Technician II",
       "url": "https://careers.rivian.com/careers-home/jobs/31019?lang=en-us&previousLocale=en-US",
       "identifier": "Sr. Engineering Technician II_ang=en-us&previousLocale=en-US"
+    },
+    {
+      "title": "Senior Full Stack Software Engineer, Communications Platform",
+      "url": "https://careers.rivian.com/careers-home/jobs/30142?lang=en-us&previousLocale=en-US",
+      "identifier": "Senior Full Stack Software Engineer, Communication_ang=en-us&previousLocale=en-US"
     }
   ],
-  "job_count_text": "48",
-  "timestamp": "2026-05-29T00:59:40.195688"
+  "job_count_text": "47",
+  "timestamp": "2026-05-29T01:16:43.711327"
 }

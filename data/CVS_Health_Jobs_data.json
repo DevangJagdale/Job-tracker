@@ -4,19 +4,14 @@
   "total_jobs": 8,
   "jobs": [
     {
-      "title": "Lead Director - Digital Engineering",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0872948/Lead-Director-Digital-Engineering",
-      "identifier": "Lead Director - Digital Engineering_d-Director-Digital-Engineering"
-    },
-    {
       "title": "Manager - Scrum Master",
       "url": "https://jobs.cvshealth.com/us/en/job/R0922913/Manager-Scrum-Master",
       "identifier": "Manager - Scrum Master_/R0922913/Manager-Scrum-Master"
     },
     {
-      "title": "Lead Director, Site Reliability Engineering - Client Experience",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0902192/Lead-Director-Site-Reliability-Engineering-Client-Experience",
-      "identifier": "Lead Director, Site Reliability Engineering - Clie_-Engineering-Client-Experience"
+      "title": "Lead Director - Digital Engineering",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0872948/Lead-Director-Digital-Engineering",
+      "identifier": "Lead Director - Digital Engineering_d-Director-Digital-Engineering"
     },
     {
       "title": "Staff Software Development Engineer - Fulfillment",
@@ -24,26 +19,31 @@
       "identifier": "Staff Software Development Engineer - Fulfillment_velopment-Engineer-Fulfillment"
     },
     {
+      "title": "Manager, Underwriting Model Product Support",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0921147/Manager-Underwriting-Model-Product-Support",
+      "identifier": "Manager, Underwriting Model Product Support_rwriting-Model-Product-Support"
+    },
+    {
+      "title": "Staff Quality Engineer - Prior Authorization",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0923589/Staff-Quality-Engineer-Prior-Authorization",
+      "identifier": "Staff Quality Engineer - Prior Authorization_y-Engineer-Prior-Authorization"
+    },
+    {
       "title": "Senior Help Desk Support Specialist",
       "url": "https://jobs.cvshealth.com/us/en/job/R0914434/Senior-Help-Desk-Support-Specialist",
       "identifier": "Senior Help Desk Support Specialist_r-Help-Desk-Support-Specialist"
     },
     {
-      "title": "Senior Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0924175/Senior-Software-Development-Engineer",
-      "identifier": "Senior Software Development Engineer_-Software-Development-Engineer"
+      "title": "Lead Director - Enterprise Delivery",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0920203/Lead-Director-Enterprise-Delivery",
+      "identifier": "Lead Director - Enterprise Delivery_d-Director-Enterprise-Delivery"
     },
     {
-      "title": "Staff Engineer - Regulatory Technology",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0879116/Staff-Engineer-Regulatory-Technology",
-      "identifier": "Staff Engineer - Regulatory Technology_Engineer-Regulatory-Technology"
-    },
-    {
-      "title": "Principal Software Engineer \u2013 AI Platform (Production Engineering / Reliability)",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0928277/Principal-Software-Engineer-AI-Platform-Production-Engineering-Reliability",
-      "identifier": "Principal Software Engineer \u2013 AI Platform (Product_uction-Engineering-Reliability"
+      "title": "Quality Engineer - IBMi",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0880639/Quality-Engineer-IBMi",
+      "identifier": "Quality Engineer - IBMi_R0880639/Quality-Engineer-IBMi"
     }
   ],
-  "job_count_text": "49",
-  "timestamp": "2026-05-29T05:52:07.115881"
+  "job_count_text": "31",
+  "timestamp": "2026-05-29T06:09:16.833954"
 }

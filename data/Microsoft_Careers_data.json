@@ -4,12 +4,17 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Principal Group Software Engineering Manager\nUnited States, Washington, Redmond\nPosted 15 minutes ago",
+      "title": "Member of Technical Staff, Principal Software Engineer - Windows Copilot\nUnited States, Washington, Redmond\nPosted 13 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556870741?domain=microsoft.com",
+      "identifier": "Member of Technical Staff, Principal Software Engi_556870741?domain=microsoft.com"
+    },
+    {
+      "title": "Principal Group Software Engineering Manager\nUnited States, Washington, Redmond\nPosted 32 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556869908?domain=microsoft.com",
       "identifier": "Principal Group Software Engineering Manager\nUnite_556869908?domain=microsoft.com"
     },
     {
-      "title": "Principal Software Engineering Architect\nUnited States, Washington, Redmond\nPosted an hour ago",
+      "title": "Principal Software Engineering Architect\nUnited States, Washington, Redmond\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556868936?domain=microsoft.com",
       "identifier": "Principal Software Engineering Architect\nUnited St_556868936?domain=microsoft.com"
     },
@@ -47,13 +52,8 @@
       "title": "Member of Technical Staff, Microsoft Robotics (Spatial AI)\nUnited States, Washington, Redmond\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556866702?domain=microsoft.com",
       "identifier": "Member of Technical Staff, Microsoft Robotics (Spa_556866702?domain=microsoft.com"
-    },
-    {
-      "title": "Member of Technical Staff, Microsoft Robotics (Robotics Simulation)\nUnited States, Washington, Redmond\nPosted 2 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556866690?domain=microsoft.com",
-      "identifier": "Member of Technical Staff, Microsoft Robotics (Rob_556866690?domain=microsoft.com"
     }
   ],
-  "job_count_text": "442",
-  "timestamp": "2026-05-29T19:11:22.981875"
+  "job_count_text": "443",
+  "timestamp": "2026-05-29T19:28:23.768820"
 }

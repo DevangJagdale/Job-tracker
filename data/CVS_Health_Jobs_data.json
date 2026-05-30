@@ -4,9 +4,9 @@
   "total_jobs": 8,
   "jobs": [
     {
-      "title": "Staff Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0921945/Staff-Software-Development-Engineer",
-      "identifier": "Staff Software Development Engineer_-Software-Development-Engineer"
+      "title": "Senior Software Development Engineer (Angular/NodeJS)",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0851800/Senior-Software-Development-Engineer-Angular-NodeJS",
+      "identifier": "Senior Software Development Engineer (Angular/Node_opment-Engineer-Angular-NodeJS"
     },
     {
       "title": "Data Center Technician II",
@@ -14,19 +14,19 @@
       "identifier": "Data Center Technician II_5038/Data-Center-Technician-II"
     },
     {
-      "title": "Senior Software Development Engineer (Angular/NodeJS)",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0851800/Senior-Software-Development-Engineer-Angular-NodeJS",
-      "identifier": "Senior Software Development Engineer (Angular/Node_opment-Engineer-Angular-NodeJS"
-    },
-    {
-      "title": "Senior Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0930494/Senior-Software-Development-Engineer",
-      "identifier": "Senior Software Development Engineer_-Software-Development-Engineer"
-    },
-    {
       "title": "Executive Director - Strategy, Architecture and Application Modernization",
       "url": "https://jobs.cvshealth.com/us/en/job/R0820589/Executive-Director-Strategy-Architecture-and-Application-Modernization",
       "identifier": "Executive Director - Strategy, Architecture and Ap_-and-Application-Modernization"
+    },
+    {
+      "title": "Senior Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0834643/Senior-Software-Development-Engineer",
+      "identifier": "Senior Software Development Engineer_-Software-Development-Engineer"
+    },
+    {
+      "title": "Staff Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0921945/Staff-Software-Development-Engineer",
+      "identifier": "Staff Software Development Engineer_-Software-Development-Engineer"
     },
     {
       "title": "Manager, Underwriting Model Product Support",
@@ -45,5 +45,5 @@
     }
   ],
   "job_count_text": "34",
-  "timestamp": "2026-05-30T13:13:43.174631"
+  "timestamp": "2026-05-30T13:30:46.153476"
 }

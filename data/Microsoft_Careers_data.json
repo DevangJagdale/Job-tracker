@@ -4,6 +4,11 @@
   "total_jobs": 10,
   "jobs": [
     {
+      "title": "Principal Applied Scientist\nUnited States, Washington, Redmond\nPosted 5 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556853169?domain=microsoft.com",
+      "identifier": "Principal Applied Scientist\nUnited States, Washing_556853169?domain=microsoft.com"
+    },
+    {
       "title": "Site Reliability Engineer - CTJ - Poly\nUnited States, Washington, Redmond + 1 more\nPosted 5 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556868612?domain=microsoft.com",
       "identifier": "Site Reliability Engineer - CTJ - Poly\nUnited Stat_556868612?domain=microsoft.com"
@@ -19,7 +24,7 @@
       "identifier": "Member of Technical Staff, Principal Software Engi_556870741?domain=microsoft.com"
     },
     {
-      "title": "Principal Group Software Engineering Manager\nUnited States, Washington, Redmond\nPosted 5 hours ago",
+      "title": "Principal Group Software Engineering Manager\nUnited States, Washington, Redmond\nPosted 6 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556869908?domain=microsoft.com",
       "identifier": "Principal Group Software Engineering Manager\nUnite_556869908?domain=microsoft.com"
     },
@@ -47,13 +52,8 @@
       "title": "Member of Technical Staff, Microsoft Robotics (Perception)\nUnited States, Washington, Redmond\nPosted 7 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556866737?domain=microsoft.com",
       "identifier": "Member of Technical Staff, Microsoft Robotics (Per_556866737?domain=microsoft.com"
-    },
-    {
-      "title": "Member of Technical Staff, Microsoft Robotics (Navigation)\nUnited States, Washington, Redmond\nPosted 7 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556866738?domain=microsoft.com",
-      "identifier": "Member of Technical Staff, Microsoft Robotics (Nav_556866738?domain=microsoft.com"
     }
   ],
-  "job_count_text": "447",
-  "timestamp": "2026-05-30T00:26:11.471709"
+  "job_count_text": "448",
+  "timestamp": "2026-05-30T00:43:15.720720"
 }

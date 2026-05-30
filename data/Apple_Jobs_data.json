@@ -4,6 +4,11 @@
   "total_jobs": 15,
   "jobs": [
     {
+      "title": "OS Performance Tools Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200665933-0836/os-performance-tools-engineer?team=SFTWR",
+      "identifier": "OS Performance Tools Engineer_ance-tools-engineer?team=SFTWR"
+    },
+    {
       "title": "SW Dev Engineer -ASE -Backend",
       "url": "https://jobs.apple.com/en-us/details/200665911-0836/sw-dev-engineer-ase-backend?team=SFTWR",
       "identifier": "SW Dev Engineer -ASE -Backend_ngineer-ase-backend?team=SFTWR"
@@ -72,13 +77,8 @@
       "title": "Senior Software Engineer",
       "url": "https://jobs.apple.com/en-us/details/200665482-0836/senior-software-engineer?team=OPMFG",
       "identifier": "Senior Software Engineer_r-software-engineer?team=OPMFG"
-    },
-    {
-      "title": "Analytics Engineer-Apple Services Engineering",
-      "url": "https://jobs.apple.com/en-us/details/200665540-3337/analytics-engineer-apple-services-engineering?team=SFTWR",
-      "identifier": "Analytics Engineer-Apple Services Engineering_ervices-engineering?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-29T23:52:17.755877"
+  "timestamp": "2026-05-30T00:09:21.862330"
 }

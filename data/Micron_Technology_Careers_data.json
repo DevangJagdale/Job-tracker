@@ -4,11 +4,6 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Computer Engineer, CE\nBoise, Idaho, United States of America\nPosted 3 days ago",
-      "url": "https://careers.micron.com/careers/job/41736690",
-      "identifier": "Computer Engineer, CE\nBoise, Idaho, United States _icron.com/careers/job/41736690"
-    },
-    {
       "title": "DRAM Process Integration Engineer\nBoise, Idaho, United States of America\nPosted 3 days ago",
       "url": "https://careers.micron.com/careers/job/39786384",
       "identifier": "DRAM Process Integration Engineer\nBoise, Idaho, Un_icron.com/careers/job/39786384"
@@ -22,6 +17,11 @@
       "title": "New College Grad - DRAM Product Reliability Characterization Engineer\nBoise, Idaho, United States of America\nPosted 3 days ago",
       "url": "https://careers.micron.com/careers/job/41806502",
       "identifier": "New College Grad - DRAM Product Reliability Charac_icron.com/careers/job/41806502"
+    },
+    {
+      "title": "Computer Engineer, CE\nBoise, Idaho, United States of America\nPosted 3 days ago",
+      "url": "https://careers.micron.com/careers/job/41736690",
+      "identifier": "Computer Engineer, CE\nBoise, Idaho, United States _icron.com/careers/job/41736690"
     },
     {
       "title": "US FE Expansion Planning Engineer\nBoise, Idaho, United States of America\nPosted 4 days ago",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "94",
-  "timestamp": "2026-05-31T17:33:54.747619"
+  "timestamp": "2026-05-31T17:50:59.128846"
 }

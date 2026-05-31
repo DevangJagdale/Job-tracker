@@ -1,19 +1,109 @@
 {
   "page_title": "Salesforce Jobs | Salesforce Careers",
   "url": "https://careers.salesforce.com/en/jobs/?search=&country=United+States+of+America&team=Data&team=Enterprise+Technology+%26+Infrastructure&team=Software+Engineering&jobtype=New+Grads&pagesize=20#results",
-  "total_jobs": 2,
+  "total_jobs": 20,
   "jobs": [
     {
-      "title": "DevOps Engineering AMTS",
-      "url": "https://careers.salesforce.com/en/jobs/jr343354/devops-engineering-amts/",
-      "identifier": "DevOps Engineering AMTS_43354/devops-engineering-amts/"
+      "title": "Staff ML Engineer, Fine Tuning - Slack",
+      "url": "https://careers.salesforce.com/en/jobs/jr344115/staff-ml-engineer-fine-tuning-slack/",
+      "identifier": "Staff ML Engineer, Fine Tuning - Slack_ml-engineer-fine-tuning-slack/"
     },
     {
-      "title": "AI Builder, Emerging Talent",
-      "url": "https://careers.salesforce.com/en/jobs/jr341276/ai-builder-emerging-talent/",
-      "identifier": "AI Builder, Emerging Talent_76/ai-builder-emerging-talent/"
+      "title": "Lead AI Engineer, Data Solutions",
+      "url": "https://careers.salesforce.com/en/jobs/jr341433/lead-ai-engineer-data-solutions/",
+      "identifier": "Lead AI Engineer, Data Solutions_ad-ai-engineer-data-solutions/"
+    },
+    {
+      "title": "Manager, Systems Engineering",
+      "url": "https://careers.salesforce.com/en/jobs/jr341315/manager-systems-engineering/",
+      "identifier": "Manager, Systems Engineering_5/manager-systems-engineering/"
+    },
+    {
+      "title": "Program Executive \u2013 Senior Director (Consumer Goods)",
+      "url": "https://careers.salesforce.com/en/jobs/jr339783/program-executive-senior-director-consumer-goods/",
+      "identifier": "Program Executive \u2013 Senior Director (Consumer Good_enior-director-consumer-goods/"
+    },
+    {
+      "title": "Director of Production Support Engineering",
+      "url": "https://careers.salesforce.com/en/jobs/jr340168/director-of-production-support-engineering/",
+      "identifier": "Director of Production Support Engineering_roduction-support-engineering/"
+    },
+    {
+      "title": "Forward Deployed Engineering Lead - Data Science & Integration",
+      "url": "https://careers.salesforce.com/en/jobs/jr339139/forward-deployed-engineering-lead-data-science-integration/",
+      "identifier": "Forward Deployed Engineering Lead - Data Science &_lead-data-science-integration/"
+    },
+    {
+      "title": "Lead Network Engineer - Backbone Engineering",
+      "url": "https://careers.salesforce.com/en/jobs/jr321396/lead-network-engineer-backbone-engineering/",
+      "identifier": "Lead Network Engineer - Backbone Engineering_engineer-backbone-engineering/"
+    },
+    {
+      "title": "Senior Manager, Enterprise AWS Platform Engineering",
+      "url": "https://careers.salesforce.com/en/jobs/jr328105/senior-manager-enterprise-aws-platform-engineering/",
+      "identifier": "Senior Manager, Enterprise AWS Platform Engineerin_rise-aws-platform-engineering/"
+    },
+    {
+      "title": "Lead Agentic Data Systems Engineer",
+      "url": "https://careers.salesforce.com/en/jobs/jr340267/lead-agentic-data-systems-engineer/",
+      "identifier": "Lead Agentic Data Systems Engineer_agentic-data-systems-engineer/"
+    },
+    {
+      "title": "Sr. Data Engineer, Enterprise - Slack",
+      "url": "https://careers.salesforce.com/en/jobs/jr341884/sr-data-engineer-enterprise-slack/",
+      "identifier": "Sr. Data Engineer, Enterprise - Slack_ata-engineer-enterprise-slack/"
+    },
+    {
+      "title": "Senior Tax Systems Engineer (Vertex)",
+      "url": "https://careers.salesforce.com/en/jobs/jr339073/senior-tax-systems-engineer-vertex/",
+      "identifier": "Senior Tax Systems Engineer (Vertex)_r-tax-systems-engineer-vertex/"
+    },
+    {
+      "title": "Sr. Manager / Director, Engineering Operations",
+      "url": "https://careers.salesforce.com/en/jobs/jr340353/sr-manager-director-engineering-operations/",
+      "identifier": "Sr. Manager / Director, Engineering Operations_rector-engineering-operations/"
+    },
+    {
+      "title": "SRE Systems Engineer - (TS/SCI Clearance)",
+      "url": "https://careers.salesforce.com/en/jobs/jr341343/sre-systems-engineer-tssci-clearance/",
+      "identifier": "SRE Systems Engineer - (TS/SCI Clearance)_tems-engineer-tssci-clearance/"
+    },
+    {
+      "title": "Forward Deployed Engineer",
+      "url": "https://careers.salesforce.com/en/jobs/jr339744/forward-deployed-engineer/",
+      "identifier": "Forward Deployed Engineer_744/forward-deployed-engineer/"
+    },
+    {
+      "title": "Missionforce - Senior/Lead Forward Deployed Engineer (FDE), Public Sector",
+      "url": "https://careers.salesforce.com/en/jobs/jr333178/missionforce-seniorlead-forward-deployed-engineer-fde-public-sector/",
+      "identifier": "Missionforce - Senior/Lead Forward Deployed Engine_ed-engineer-fde-public-sector/"
+    },
+    {
+      "title": "VP, Technical Support Engineering - Slack",
+      "url": "https://careers.salesforce.com/en/jobs/jr334931/vp-technical-support-engineering-slack/",
+      "identifier": "VP, Technical Support Engineering - Slack_cal-support-engineering-slack/"
+    },
+    {
+      "title": "Solution Engineer - Data Integration Specialist",
+      "url": "https://careers.salesforce.com/en/jobs/jr338566/solution-engineer-data-integration-specialist/",
+      "identifier": "Solution Engineer - Data Integration Specialist_r-data-integration-specialist/"
+    },
+    {
+      "title": "Account Solution Engineer, Higher Education",
+      "url": "https://careers.salesforce.com/en/jobs/jr340428/account-solution-engineer-higher-education/",
+      "identifier": "Account Solution Engineer, Higher Education_ion-engineer-higher-education/"
+    },
+    {
+      "title": "Workplace Services MEP Engineering Associate Manager",
+      "url": "https://careers.salesforce.com/en/jobs/jr338973/workplace-services-mep-engineering-associate-manager/",
+      "identifier": "Workplace Services MEP Engineering Associate Manag_engineering-associate-manager/"
+    },
+    {
+      "title": "Qualified Solution Engineer",
+      "url": "https://careers.salesforce.com/en/jobs/jr343815/qualified-solution-engineer/",
+      "identifier": "Qualified Solution Engineer_5/qualified-solution-engineer/"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-30T23:46:43.926993"
+  "timestamp": "2026-05-31T00:03:47.335665"
 }

@@ -4,11 +4,6 @@
   "total_jobs": 8,
   "jobs": [
     {
-      "title": "Senior Software Development Engineer (Angular/NodeJS)",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0851800/Senior-Software-Development-Engineer-Angular-NodeJS",
-      "identifier": "Senior Software Development Engineer (Angular/Node_opment-Engineer-Angular-NodeJS"
-    },
-    {
       "title": "Data Center Technician II",
       "url": "https://jobs.cvshealth.com/us/en/job/R0895038/Data-Center-Technician-II",
       "identifier": "Data Center Technician II_5038/Data-Center-Technician-II"
@@ -29,6 +24,11 @@
       "identifier": "Staff Software Development Engineer_-Software-Development-Engineer"
     },
     {
+      "title": "Senior Software Development Engineer (Angular/NodeJS)",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0851800/Senior-Software-Development-Engineer-Angular-NodeJS",
+      "identifier": "Senior Software Development Engineer (Angular/Node_opment-Engineer-Angular-NodeJS"
+    },
+    {
       "title": "Manager, Underwriting Model Product Support",
       "url": "https://jobs.cvshealth.com/us/en/job/R0921147/Manager-Underwriting-Model-Product-Support",
       "identifier": "Manager, Underwriting Model Product Support_rwriting-Model-Product-Support"
@@ -45,5 +45,5 @@
     }
   ],
   "job_count_text": "34",
-  "timestamp": "2026-05-31T05:15:57.425736"
+  "timestamp": "2026-05-31T05:32:59.936459"
 }

@@ -1,19 +1,109 @@
 {
   "page_title": "Salesforce Jobs | Salesforce Careers",
   "url": "https://careers.salesforce.com/en/jobs/?search=&country=United+States+of+America&team=Data&team=Enterprise+Technology+%26+Infrastructure&team=Software+Engineering&jobtype=New+Grads&pagesize=20#results",
-  "total_jobs": 2,
+  "total_jobs": 20,
   "jobs": [
     {
-      "title": "DevOps Engineering AMTS",
-      "url": "https://careers.salesforce.com/en/jobs/jr343354/devops-engineering-amts/",
-      "identifier": "DevOps Engineering AMTS_43354/devops-engineering-amts/"
+      "title": "Sales Intern (SMB Team)",
+      "url": "https://careers.salesforce.com/en/jobs/jr343884/sales-intern-smb-team/",
+      "identifier": "Sales Intern (SMB Team)_r343884/sales-intern-smb-team/"
     },
     {
-      "title": "AI Builder, Emerging Talent",
-      "url": "https://careers.salesforce.com/en/jobs/jr341276/ai-builder-emerging-talent/",
-      "identifier": "AI Builder, Emerging Talent_76/ai-builder-emerging-talent/"
+      "title": "Sales Intern",
+      "url": "https://careers.salesforce.com/en/jobs/jr335793/sales-intern/",
+      "identifier": "Sales Intern_en/jobs/jr335793/sales-intern/"
+    },
+    {
+      "title": "Strategic Events Marketing Apprentice - Septembre 2026",
+      "url": "https://careers.salesforce.com/en/jobs/jr343059/strategic-events-marketing-apprentice-septembre-2026/",
+      "identifier": "Strategic Events Marketing Apprentice - Septembre _ing-apprentice-septembre-2026/"
+    },
+    {
+      "title": "LATAM Internship Program | Sales Enablement Intern | [Mexico]",
+      "url": "https://careers.salesforce.com/en/jobs/jr343784/latam-internship-program-sales-enablement-intern-mexico/",
+      "identifier": "LATAM Internship Program | Sales Enablement Intern_ales-enablement-intern-mexico/"
+    },
+    {
+      "title": "LATAM Internship Program | Sales Intern [Brazil]",
+      "url": "https://careers.salesforce.com/en/jobs/jr249467/latam-internship-program-sales-intern-brazil/",
+      "identifier": "LATAM Internship Program | Sales Intern [Brazil]_p-program-sales-intern-brazil/"
+    },
+    {
+      "title": "Legal Intern",
+      "url": "https://careers.salesforce.com/en/jobs/jr327292/legal-intern/",
+      "identifier": "Legal Intern_en/jobs/jr327292/legal-intern/"
+    },
+    {
+      "title": "LATAM Internship Program | Sales Intern [Mexico]",
+      "url": "https://careers.salesforce.com/en/jobs/jr290233/latam-internship-program-sales-intern-mexico/",
+      "identifier": "LATAM Internship Program | Sales Intern [Mexico]_p-program-sales-intern-mexico/"
+    },
+    {
+      "title": "LATAM Internship Program | Sales Intern [Argentina]",
+      "url": "https://careers.salesforce.com/en/jobs/jr236329/latam-internship-program-sales-intern-argentina/",
+      "identifier": "LATAM Internship Program | Sales Intern [Argentina_rogram-sales-intern-argentina/"
+    },
+    {
+      "title": "Tech Sales Internship, Arabic Market",
+      "url": "https://careers.salesforce.com/en/jobs/jr336428/tech-sales-internship-arabic-market/",
+      "identifier": "Tech Sales Internship, Arabic Market_ales-internship-arabic-market/"
+    },
+    {
+      "title": "Alliances & Channels Intern",
+      "url": "https://careers.salesforce.com/en/jobs/jr342991/alliances-channels-intern/",
+      "identifier": "Alliances & Channels Intern_991/alliances-channels-intern/"
+    },
+    {
+      "title": "Summer 2027 Intern - Software Engineer",
+      "url": "https://careers.salesforce.com/en/jobs/jr340771/summer-2027-intern-software-engineer/",
+      "identifier": "Summer 2027 Intern - Software Engineer_2027-intern-software-engineer/"
+    },
+    {
+      "title": "Policy Intern, Ethical and Humane Use Policy",
+      "url": "https://careers.salesforce.com/en/jobs/jr343360/policy-intern-ethical-and-humane-use-policy/",
+      "identifier": "Policy Intern, Ethical and Humane Use Policy_ethical-and-humane-use-policy/"
+    },
+    {
+      "title": "Internship- Sales or Solution Engineering Paths-Stockholm",
+      "url": "https://careers.salesforce.com/en/jobs/jr335096/internship-sales-or-solution-engineering-paths-stockholm/",
+      "identifier": "Internship- Sales or Solution Engineering Paths-St_n-engineering-paths-stockholm/"
+    },
+    {
+      "title": "Intern: Sales Strategy-Business Operations (Milan | Sept 2026)",
+      "url": "https://careers.salesforce.com/en/jobs/jr336594/intern-sales-strategy-business-operations-milan-sept-2026/",
+      "identifier": "Intern: Sales Strategy-Business Operations (Milan _ss-operations-milan-sept-2026/"
+    },
+    {
+      "title": "Intern: Tech Sales & Business Development (Milan | September 2026)",
+      "url": "https://careers.salesforce.com/en/jobs/jr336586/intern-tech-sales-business-development-milan-september-2026/",
+      "identifier": "Intern: Tech Sales & Business Development (Milan |_elopment-milan-september-2026/"
+    },
+    {
+      "title": "Internship- Sales or Solution Engineering Paths-Copenhagen",
+      "url": "https://careers.salesforce.com/en/jobs/jr335115/internship-sales-or-solution-engineering-paths-copenhagen/",
+      "identifier": "Internship- Sales or Solution Engineering Paths-Co_-engineering-paths-copenhagen/"
+    },
+    {
+      "title": "LATAM Internship Program - Solution Engineering (Colombia)",
+      "url": "https://careers.salesforce.com/en/jobs/jr329464/latam-internship-program-solution-engineering-colombia/",
+      "identifier": "LATAM Internship Program - Solution Engineering (C_solution-engineering-colombia/"
+    },
+    {
+      "title": "LATAM Internship Program - Experience Design (UX/UI) \u2013 AI & Salesforce",
+      "url": "https://careers.salesforce.com/en/jobs/jr334968/latam-internship-program-experience-design-uxui-ai-salesforce/",
+      "identifier": "LATAM Internship Program - Experience Design (UX/U_nce-design-uxui-ai-salesforce/"
+    },
+    {
+      "title": "Internship- Sales or Solution Engineering Paths-Espoo",
+      "url": "https://careers.salesforce.com/en/jobs/jr335117/internship-sales-or-solution-engineering-paths-espoo/",
+      "identifier": "Internship- Sales or Solution Engineering Paths-Es_ution-engineering-paths-espoo/"
+    },
+    {
+      "title": "Intern:Sales Programs-Business Operations (Milan| Sept 2026)",
+      "url": "https://careers.salesforce.com/en/jobs/jr336595/internsales-programs-business-operations-milan-sept-2026/",
+      "identifier": "Intern:Sales Programs-Business Operations (Milan| _ss-operations-milan-sept-2026/"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-05-31T18:15:57.548890"
+  "timestamp": "2026-05-31T18:33:04.933145"
 }

@@ -4,6 +4,11 @@
   "total_jobs": 18,
   "jobs": [
     {
+      "title": "Wireless Bluetooth QA Engineer, Wireless Technologies & Ecosystems",
+      "url": "https://jobs.apple.com/en-us/details/200665564-3543/wireless-bluetooth-qa-engineer-wireless-technologies-ecosystems?team=SFTWR",
+      "identifier": "Wireless Bluetooth QA Engineer, Wireless Technolog_nologies-ecosystems?team=SFTWR"
+    },
+    {
       "title": "AI/ML Engineer (GenAI), G&A Solutions Engineering (GSE)",
       "url": "https://jobs.apple.com/en-us/details/200626114-0157/ai-ml-engineer-genai-g-a-solutions-engineering-gse?team=SFTWR",
       "identifier": "AI/ML Engineer (GenAI), G&A Solutions Engineering _ons-engineering-gse?team=SFTWR"
@@ -87,13 +92,8 @@
       "title": "Software Engineering Manager, ASE Commerce Engineering",
       "url": "https://jobs.apple.com/en-us/details/200665874-2459/software-engineering-manager-ase-commerce-engineering?team=SFTWR",
       "identifier": "Software Engineering Manager, ASE Commerce Enginee_ommerce-engineering?team=SFTWR"
-    },
-    {
-      "title": "SW Development Engineer - Front End Frameworks",
-      "url": "https://jobs.apple.com/en-us/details/200656666-0670/sw-development-engineer-front-end-frameworks?team=SFTWR",
-      "identifier": "SW Development Engineer - Front End Frameworks_ront-end-frameworks?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-06-01T18:57:53.012830"
+  "timestamp": "2026-06-01T19:15:03.054307"
 }

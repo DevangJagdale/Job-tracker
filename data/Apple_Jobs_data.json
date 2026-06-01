@@ -1,8 +1,23 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 16,
+  "total_jobs": 18,
   "jobs": [
+    {
+      "title": "Manager of Engineering Project Managers, Core Platform",
+      "url": "https://jobs.apple.com/en-us/details/200665877-0836/manager-of-engineering-project-managers-core-platform?team=SFTWR",
+      "identifier": "Manager of Engineering Project Managers, Core Plat_agers-core-platform?team=SFTWR"
+    },
+    {
+      "title": "Manager of Engineering Project Managers, Power",
+      "url": "https://jobs.apple.com/en-us/details/200665878-0836/manager-of-engineering-project-managers-power?team=SFTWR",
+      "identifier": "Manager of Engineering Project Managers, Power_ject-managers-power?team=SFTWR"
+    },
+    {
+      "title": "Senior Engineering Program Manager, Client Engineering, Apple Ads",
+      "url": "https://jobs.apple.com/en-us/details/200666075-0836/senior-engineering-program-manager-client-engineering-apple-ads?team=SFTWR",
+      "identifier": "Senior Engineering Program Manager, Client Enginee_gineering-apple-ads?team=SFTWR"
+    },
     {
       "title": "Sr. Solutions Architect-Customer Systems",
       "url": "https://jobs.apple.com/en-us/details/200663311-0157/sr-solutions-architect-customer-systems?team=SFTWR",
@@ -77,13 +92,8 @@
       "title": "Project Manager - Employee Experience & Productivity",
       "url": "https://jobs.apple.com/en-us/details/200665531-0670/project-manager-employee-experience-productivity?team=SFTWR",
       "identifier": "Project Manager - Employee Experience & Productivi_rience-productivity?team=SFTWR"
-    },
-    {
-      "title": "Senior Systems Engineer, Watch Software",
-      "url": "https://jobs.apple.com/en-us/details/200662376-0365/senior-systems-engineer-watch-software?team=SFTWR",
-      "identifier": "Senior Systems Engineer, Watch Software_neer-watch-software?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-06-01T16:40:17.076707"
+  "timestamp": "2026-06-01T16:57:29.750203"
 }

@@ -1,14 +1,94 @@
 {
   "page_title": "Job Search - DoorDash",
   "url": "https://careersatdoordash.com/job-search/?intern=0&function=Software%20Engineering%7CIT%20Support%7C&keyword=&location=Los%20Angeles&spage=1",
-  "total_jobs": 1,
+  "total_jobs": 17,
   "jobs": [
     {
-      "title": "Engineering Manager, Backend Frameworks",
-      "url": "https://careersatdoordash.com/jobs/engineering-manager-backend-frameworks/7259738",
-      "identifier": "Engineering Manager, Backend Frameworks_ger-backend-frameworks/7259738"
+      "title": "Mission & Values",
+      "url": "https://careersatdoordash.com/mission-and-values/",
+      "identifier": "Mission & Values_ordash.com/mission-and-values/"
+    },
+    {
+      "title": "Working at DoorDash",
+      "url": "https://careersatdoordash.com/working-at-doordash/",
+      "identifier": "Working at DoorDash_rdash.com/working-at-doordash/"
+    },
+    {
+      "title": "Belonging",
+      "url": "https://careersatdoordash.com/belonging/",
+      "identifier": "Belonging_reersatdoordash.com/belonging/"
+    },
+    {
+      "title": "Engineering Blog",
+      "url": "https://careersatdoordash.com/engineering-blog/",
+      "identifier": "Engineering Blog_doordash.com/engineering-blog/"
+    },
+    {
+      "title": "Career Areas",
+      "url": "https://careersatdoordash.com/career-areas/",
+      "identifier": "Career Areas_rsatdoordash.com/career-areas/"
+    },
+    {
+      "title": "Analytics",
+      "url": "https://careersatdoordash.com/career-areas/analytics/",
+      "identifier": "Analytics_sh.com/career-areas/analytics/"
+    },
+    {
+      "title": "DashMart",
+      "url": "https://careersatdoordash.com/career-areas/dashmart/",
+      "identifier": "DashMart_ash.com/career-areas/dashmart/"
+    },
+    {
+      "title": "Design",
+      "url": "https://careersatdoordash.com/career-areas/design/",
+      "identifier": "Design_rdash.com/career-areas/design/"
+    },
+    {
+      "title": "Finance",
+      "url": "https://careersatdoordash.com/career-areas/finance/",
+      "identifier": "Finance_dash.com/career-areas/finance/"
+    },
+    {
+      "title": "Marketing",
+      "url": "https://careersatdoordash.com/career-areas/marketing/",
+      "identifier": "Marketing_sh.com/career-areas/marketing/"
+    },
+    {
+      "title": "People",
+      "url": "https://careersatdoordash.com/career-areas/people/",
+      "identifier": "People_rdash.com/career-areas/people/"
+    },
+    {
+      "title": "Policy and Communications",
+      "url": "https://careersatdoordash.com/career-areas/policy-and-communications/",
+      "identifier": "Policy and Communications_eas/policy-and-communications/"
+    },
+    {
+      "title": "Product",
+      "url": "https://careersatdoordash.com/career-areas/product/",
+      "identifier": "Product_dash.com/career-areas/product/"
+    },
+    {
+      "title": "Strategy & Operations",
+      "url": "https://careersatdoordash.com/career-areas/strategy-operations/",
+      "identifier": "Strategy & Operations_eer-areas/strategy-operations/"
+    },
+    {
+      "title": "University Careers",
+      "url": "https://careersatdoordash.com/university-careers/",
+      "identifier": "University Careers_ordash.com/university-careers/"
+    },
+    {
+      "title": "Engineering",
+      "url": "https://careersatdoordash.com/career-areas/engineering/",
+      "identifier": "Engineering_.com/career-areas/engineering/"
+    },
+    {
+      "title": "SevenRooms",
+      "url": "https://careersatdoordash.com/career-areas/sevenrooms/",
+      "identifier": "SevenRooms_h.com/career-areas/sevenrooms/"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-06-01T07:22:53.817146"
+  "timestamp": "2026-06-01T07:39:55.782922"
 }

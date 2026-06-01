@@ -4,19 +4,9 @@
   "total_jobs": 8,
   "jobs": [
     {
-      "title": "SME ACAS Benefits Testing",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0866905/SME-ACAS-Benefits-Testing",
-      "identifier": "SME ACAS Benefits Testing_6905/SME-ACAS-Benefits-Testing"
-    },
-    {
-      "title": "Senior Manager ACAS/Commercial Benefits Testing",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0871984/Senior-Manager-ACAS-Commercial-Benefits-Testing",
-      "identifier": "Senior Manager ACAS/Commercial Benefits Testing_AS-Commercial-Benefits-Testing"
-    },
-    {
-      "title": "Manager, ACAS/Commercial Benefits Testing",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0872005/Manager-ACAS-Commercial-Benefits-Testing",
-      "identifier": "Manager, ACAS/Commercial Benefits Testing_AS-Commercial-Benefits-Testing"
+      "title": "Staff Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0870573/Staff-Software-Development-Engineer",
+      "identifier": "Staff Software Development Engineer_-Software-Development-Engineer"
     },
     {
       "title": "Data Center Technician II",
@@ -42,8 +32,18 @@
       "title": "Quality Engineer - IBMi",
       "url": "https://jobs.cvshealth.com/us/en/job/R0880639/Quality-Engineer-IBMi",
       "identifier": "Quality Engineer - IBMi_R0880639/Quality-Engineer-IBMi"
+    },
+    {
+      "title": "Senior Quality Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0908671/Senior-Quality-Engineer",
+      "identifier": "Senior Quality Engineer_908671/Senior-Quality-Engineer"
+    },
+    {
+      "title": "Executive Director, Adjudication Software Engineering & Transformation",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0889257/Executive-Director-Adjudication-Software-Engineering-Transformation",
+      "identifier": "Executive Director, Adjudication Software Engineer_are-Engineering-Transformation"
     }
   ],
-  "job_count_text": "25",
-  "timestamp": "2026-06-01T06:10:09.344155"
+  "job_count_text": "23",
+  "timestamp": "2026-06-01T06:27:10.652517"
 }

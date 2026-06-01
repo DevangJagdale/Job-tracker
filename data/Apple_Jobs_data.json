@@ -1,8 +1,18 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 19,
+  "total_jobs": 18,
   "jobs": [
+    {
+      "title": "Senior Machine Learning Engineer, Machine Learning Platform Technologies",
+      "url": "https://jobs.apple.com/en-us/details/200664972-3401/senior-machine-learning-engineer-machine-learning-platform-technologies?team=MLAI",
+      "identifier": "Senior Machine Learning Engineer, Machine Learning_latform-technologies?team=MLAI"
+    },
+    {
+      "title": "AIML - Sr Machine Learning Engineer - Data and ML Innovation",
+      "url": "https://jobs.apple.com/en-us/details/200666135-0836/aiml-sr-machine-learning-engineer-data-and-ml-innovation?team=MLAI",
+      "identifier": "AIML - Sr Machine Learning Engineer - Data and ML _ta-and-ml-innovation?team=MLAI"
+    },
     {
       "title": "Senior iOS Software Engineer \u2014 CloudKit",
       "url": "https://jobs.apple.com/en-us/details/200665931-3543/senior-ios-software-engineer-cloudkit?team=SFTWR",
@@ -82,23 +92,8 @@
       "title": "OS Performance Tools Engineer",
       "url": "https://jobs.apple.com/en-us/details/200665933-0836/os-performance-tools-engineer?team=SFTWR",
       "identifier": "OS Performance Tools Engineer_ance-tools-engineer?team=SFTWR"
-    },
-    {
-      "title": "SW Dev Engineer -ASE -Backend",
-      "url": "https://jobs.apple.com/en-us/details/200665911-0836/sw-dev-engineer-ase-backend?team=SFTWR",
-      "identifier": "SW Dev Engineer -ASE -Backend_ngineer-ase-backend?team=SFTWR"
-    },
-    {
-      "title": "Information Security Business Partner Lead - Product Ops & Supply Chain",
-      "url": "https://jobs.apple.com/en-us/details/200665728-3956/information-security-business-partner-lead-product-ops-supply-chain?team=SFTWR",
-      "identifier": "Information Security Business Partner Lead - Produ_ct-ops-supply-chain?team=SFTWR"
-    },
-    {
-      "title": "Performance & Automation Test Engineer, Creativity Apps",
-      "url": "https://jobs.apple.com/en-us/details/200665875-0836/performance-automation-test-engineer-creativity-apps?team=SFTWR",
-      "identifier": "Performance & Automation Test Engineer, Creativity_eer-creativity-apps?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-06-01T21:32:36.294362"
+  "timestamp": "2026-06-01T21:49:43.054906"
 }

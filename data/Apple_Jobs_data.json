@@ -4,6 +4,11 @@
   "total_jobs": 19,
   "jobs": [
     {
+      "title": "Data Science Engineer, Apple Energy Services",
+      "url": "https://jobs.apple.com/en-us/details/200644564-3543/data-science-engineer-apple-energy-services?team=SFTWR",
+      "identifier": "Data Science Engineer, Apple Energy Services_ple-energy-services?team=SFTWR"
+    },
+    {
       "title": "Machine Learning Engineer, Proactive",
       "url": "https://jobs.apple.com/en-us/details/200622577-0836/machine-learning-engineer-proactive?team=MLAI",
       "identifier": "Machine Learning Engineer, Proactive_g-engineer-proactive?team=MLAI"
@@ -92,13 +97,8 @@
       "title": "Senior Maching Learning & Data Scientist, OS Power & Performance",
       "url": "https://jobs.apple.com/en-us/details/200665908-0836/senior-maching-learning-data-scientist-os-power-performance?team=SFTWR",
       "identifier": "Senior Maching Learning & Data Scientist, OS Power_s-power-performance?team=SFTWR"
-    },
-    {
-      "title": "Software Engineering Manager, ASE Commerce Engineering",
-      "url": "https://jobs.apple.com/en-us/details/200665874-2459/software-engineering-manager-ase-commerce-engineering?team=SFTWR",
-      "identifier": "Software Engineering Manager, ASE Commerce Enginee_ommerce-engineering?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-06-01T20:06:41.574296"
+  "timestamp": "2026-06-01T20:23:57.887414"
 }

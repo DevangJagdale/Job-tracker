@@ -4,6 +4,11 @@
   "total_jobs": 19,
   "jobs": [
     {
+      "title": "Machine Learning Engineer, Proactive",
+      "url": "https://jobs.apple.com/en-us/details/200622577-0836/machine-learning-engineer-proactive?team=MLAI",
+      "identifier": "Machine Learning Engineer, Proactive_g-engineer-proactive?team=MLAI"
+    },
+    {
       "title": "Wireless Bluetooth QA Engineer, Wireless Technologies & Ecosystems",
       "url": "https://jobs.apple.com/en-us/details/200665564-3543/wireless-bluetooth-qa-engineer-wireless-technologies-ecosystems?team=SFTWR",
       "identifier": "Wireless Bluetooth QA Engineer, Wireless Technolog_nologies-ecosystems?team=SFTWR"
@@ -92,13 +97,8 @@
       "title": "Software Engineering Manager, ASE Commerce Engineering",
       "url": "https://jobs.apple.com/en-us/details/200665874-2459/software-engineering-manager-ase-commerce-engineering?team=SFTWR",
       "identifier": "Software Engineering Manager, ASE Commerce Enginee_ommerce-engineering?team=SFTWR"
-    },
-    {
-      "title": "SW Development Engineer - Front End Frameworks",
-      "url": "https://jobs.apple.com/en-us/details/200656666-0670/sw-development-engineer-front-end-frameworks?team=SFTWR",
-      "identifier": "SW Development Engineer - Front End Frameworks_ront-end-frameworks?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-06-01T19:49:32.184881"
+  "timestamp": "2026-06-01T20:06:41.574296"
 }

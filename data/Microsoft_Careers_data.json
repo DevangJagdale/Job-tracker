@@ -1,15 +1,25 @@
 {
   "page_title": "| Microsoft Careers",
   "url": "https://apply.careers.microsoft.com/careers?domain=microsoft.com&start=0&location=United+States&sort_by=timestamp&filter_include_remote=1&filter_profession=software+engineering%2Cresearch%252C%2520applied%252C%2520%2526%2520data%2520sciences",
-  "total_jobs": 10,
+  "total_jobs": 9,
   "jobs": [
     {
-      "title": "Principal Software Engineering - AI Frameworks\nUnited States, Multiple Locations, Multiple Locations + 2 more\nPosted 10 minutes ago",
+      "title": "Principal Software Engineer Manager, CoreAI\nUnited States, Washington, Redmond + 2 more\nPosted 5 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556656776?domain=microsoft.com",
+      "identifier": "Principal Software Engineer Manager, CoreAI\nUnited_556656776?domain=microsoft.com"
+    },
+    {
+      "title": "Member of Technical Staff, Multimodal Infrastructure - MAI Superintelligence Team\nUnited States, Multiple Locations, Multiple Locations\nPosted 11 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556769443?domain=microsoft.com",
+      "identifier": "Member of Technical Staff, Multimodal Infrastructu_556769443?domain=microsoft.com"
+    },
+    {
+      "title": "Principal Software Engineering - AI Frameworks\nUnited States, Multiple Locations, Multiple Locations + 2 more\nPosted 27 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556750007?domain=microsoft.com",
       "identifier": "Principal Software Engineering - AI Frameworks\nUni_556750007?domain=microsoft.com"
     },
     {
-      "title": "Principal Applied AI Engineering Manager\nUnited States, Washington, Redmond\nPosted 12 minutes ago",
+      "title": "Principal Applied AI Engineering Manager\nUnited States, Washington, Redmond\nPosted 29 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556864792?domain=microsoft.com",
       "identifier": "Principal Applied AI Engineering Manager\nUnited St_556864792?domain=microsoft.com"
     },
@@ -37,23 +47,8 @@
       "title": "Senior Software Engineer - Data Platform, AI Infrastructure\nUnited States, Washington, Redmond + 1 more\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556858380?domain=microsoft.com",
       "identifier": "Senior Software Engineer - Data Platform, AI Infra_556858380?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Software Engineer - AI Frameworks\nUnited States, Washington, Redmond + 1 more\nPosted 3 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556857279?domain=microsoft.com",
-      "identifier": "Senior Software Engineer - AI Frameworks\nUnited St_556857279?domain=microsoft.com"
-    },
-    {
-      "title": "Software Engineer\nUnited States, Washington, Redmond\nPosted 3 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556867170?domain=microsoft.com",
-      "identifier": "Software Engineer\nUnited States, Washington, Redmo_556867170?domain=microsoft.com"
-    },
-    {
-      "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted 4 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556755306?domain=microsoft.com",
-      "identifier": "Principal Software Engineer\nUnited States, Washing_556755306?domain=microsoft.com"
     }
   ],
-  "job_count_text": "430",
-  "timestamp": "2026-06-01T19:49:15.432279"
+  "job_count_text": "432",
+  "timestamp": "2026-06-01T20:06:24.107831"
 }

@@ -1,8 +1,18 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 15,
+  "total_jobs": 14,
   "jobs": [
+    {
+      "title": "AR/VR Applications Engineer - Photos, Vision Products Software",
+      "url": "https://jobs.apple.com/en-us/details/200664993-3401/ar-vr-applications-engineer-photos-vision-products-software?team=SFTWR",
+      "identifier": "AR/VR Applications Engineer - Photos, Vision Produ_n-products-software?team=SFTWR"
+    },
+    {
+      "title": "Security Developer Tools Engineer (Static Analysis), Languages & Runtimes",
+      "url": "https://jobs.apple.com/en-us/details/200665894-0505/security-developer-tools-engineer-static-analysis-languages-runtimes?team=SFTWR",
+      "identifier": "Security Developer Tools Engineer (Static Analysis_-languages-runtimes?team=SFTWR"
+    },
     {
       "title": "Deep Learning Engineer - Perception Algorithms",
       "url": "https://jobs.apple.com/en-us/details/200650313-3956/deep-learning-engineer-perception-algorithms?team=MLAI",
@@ -62,23 +72,8 @@
       "title": "System Test Engineer, 5G/6G Wireless Interoperability - Wireless Technologies and Ecosystems",
       "url": "https://jobs.apple.com/en-us/details/200665837-3543/system-test-engineer-5g-6g-wireless-interoperability-wireless-technologies-and-ecosystems?team=SFTWR",
       "identifier": "System Test Engineer, 5G/6G Wireless Interoperabil_gies-and-ecosystems?team=SFTWR"
-    },
-    {
-      "title": "Tools & Automation Engineer - Services",
-      "url": "https://jobs.apple.com/en-us/details/200663792-3543/tools-automation-engineer-services?team=SFTWR",
-      "identifier": "Tools & Automation Engineer - Services_n-engineer-services?team=SFTWR"
-    },
-    {
-      "title": "Senior Engineering Program Manager, Client Engineering, Apple Ads",
-      "url": "https://jobs.apple.com/en-us/details/200666075-0836/senior-engineering-program-manager-client-engineering-apple-ads?team=SFTWR",
-      "identifier": "Senior Engineering Program Manager, Client Enginee_gineering-apple-ads?team=SFTWR"
-    },
-    {
-      "title": "Manager of Engineering Project Managers, Core Platform",
-      "url": "https://jobs.apple.com/en-us/details/200665877-0836/manager-of-engineering-project-managers-core-platform?team=SFTWR",
-      "identifier": "Manager of Engineering Project Managers, Core Plat_agers-core-platform?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-06-01T23:22:49.169689"
+  "timestamp": "2026-06-01T23:39:49.386813"
 }

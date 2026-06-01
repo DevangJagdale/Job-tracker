@@ -1,17 +1,27 @@
 {
   "page_title": "Search our Job Opportunities at Barclays",
   "url": "https://search.jobs.barclays/search-jobs/United%20States/13015/2/6252001/39x76/-98x5/50/2",
-  "total_jobs": 13,
+  "total_jobs": 15,
   "jobs": [
+    {
+      "title": "Workforce Management Forecasting and Analytics VP",
+      "url": "https://search.jobs.barclays/job/wilmington/workforce-management-forecasting-and-analytics-vp/13015/95856692992",
+      "identifier": "Workforce Management Forecasting and Analytics VP_analytics-vp/13015/95856692992"
+    },
+    {
+      "title": "Workforce Management Senior Forecasting Analyst",
+      "url": "https://search.jobs.barclays/job/wilmington/workforce-management-senior-forecasting-analyst/13015/95856692928",
+      "identifier": "Workforce Management Senior Forecasting Analyst_ting-analyst/13015/95856692928"
+    },
+    {
+      "title": "Senior Analyst, Workforce Management Innovation & Optimization",
+      "url": "https://search.jobs.barclays/job/henderson/senior-analyst-workforce-management-innovation-and-optimization/13015/95856692864",
+      "identifier": "Senior Analyst, Workforce Management Innovation & _optimization/13015/95856692864"
+    },
     {
       "title": "Executive Engineering Lead",
       "url": "https://search.jobs.barclays/job/wilmington/executive-engineering-lead/13015/95856689184",
       "identifier": "Executive Engineering Lead_neering-lead/13015/95856689184"
-    },
-    {
-      "title": "L2 Application Support Senior Analyst",
-      "url": "https://search.jobs.barclays/job/whippany/l2-application-support-senior-analyst/13015/95856676896",
-      "identifier": "L2 Application Support Senior Analyst_nior-analyst/13015/95856676896"
     },
     {
       "title": "US Cash Sales Trader, AVP",
@@ -69,6 +79,6 @@
       "identifier": "Senior Site Reliability Engineer - AVP_engineer-avp/13015/95633295552"
     }
   ],
-  "job_count_text": "132",
-  "timestamp": "2026-06-01T23:22:16.500212"
+  "job_count_text": "131",
+  "timestamp": "2026-06-01T23:39:15.363018"
 }

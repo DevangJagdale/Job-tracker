@@ -4,24 +4,19 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Total Rewards Data Analyst\nBoise, Idaho, United States of America\nPosted a day ago",
-      "url": "https://careers.micron.com/careers/job/42168611",
-      "identifier": "Total Rewards Data Analyst\nBoise, Idaho, United St_icron.com/careers/job/42168611"
-    },
-    {
       "title": "Product Yield Enhancement (PYE) Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/41888675",
       "identifier": "Product Yield Enhancement (PYE) Engineer\nBoise, Id_icron.com/careers/job/41888675"
     },
     {
-      "title": "Global Planning Modeling Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
-      "url": "https://careers.micron.com/careers/job/42120466",
-      "identifier": "Global Planning Modeling Engineer\nBoise, Idaho, Un_icron.com/careers/job/42120466"
-    },
-    {
       "title": "Semiconductor Design Engineer\nRichardson, Texas, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/42120629",
       "identifier": "Semiconductor Design Engineer\nRichardson, Texas, U_icron.com/careers/job/42120629"
+    },
+    {
+      "title": "Operational Excellence Engineer - Global Standardization\nBoise, Idaho, United States of America\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/42120309",
+      "identifier": "Operational Excellence Engineer - Global Standardi_icron.com/careers/job/42120309"
     },
     {
       "title": "Data Scientist\nSan Jose, California, United States of America\nPosted a day ago",
@@ -34,9 +29,14 @@
       "identifier": "Semiconductor Design Engineer\nRichardson, Texas, U_icron.com/careers/job/42120665"
     },
     {
-      "title": "Operational Excellence Engineer - Global Standardization\nBoise, Idaho, United States of America\nPosted a day ago",
-      "url": "https://careers.micron.com/careers/job/42120309",
-      "identifier": "Operational Excellence Engineer - Global Standardi_icron.com/careers/job/42120309"
+      "title": "Global Planning Modeling Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/42120466",
+      "identifier": "Global Planning Modeling Engineer\nBoise, Idaho, Un_icron.com/careers/job/42120466"
+    },
+    {
+      "title": "Total Rewards Data Analyst\nBoise, Idaho, United States of America\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/42168611",
+      "identifier": "Total Rewards Data Analyst\nBoise, Idaho, United St_icron.com/careers/job/42168611"
     },
     {
       "title": "Manufacturing Industrial Engineer (MIE) \u2013 Advanced Analytics & AI Enablement\nBoise, Idaho, United States of America\nPosted 2 days ago",
@@ -44,16 +44,16 @@
       "identifier": "Manufacturing Industrial Engineer (MIE) \u2013 Advanced_icron.com/careers/job/42058000"
     },
     {
-      "title": "Computer Engineer, CE\nBoise, Idaho, United States of America\nPosted 4 days ago",
-      "url": "https://careers.micron.com/careers/job/41736690",
-      "identifier": "Computer Engineer, CE\nBoise, Idaho, United States _icron.com/careers/job/41736690"
-    },
-    {
       "title": "DRAM Process Integration Engineer\nBoise, Idaho, United States of America\nPosted 4 days ago",
       "url": "https://careers.micron.com/careers/job/39786384",
       "identifier": "DRAM Process Integration Engineer\nBoise, Idaho, Un_icron.com/careers/job/39786384"
+    },
+    {
+      "title": "Computer Engineer, CE\nBoise, Idaho, United States of America\nPosted 4 days ago",
+      "url": "https://careers.micron.com/careers/job/41736690",
+      "identifier": "Computer Engineer, CE\nBoise, Idaho, United States _icron.com/careers/job/41736690"
     }
   ],
   "job_count_text": "98",
-  "timestamp": "2026-06-01T23:25:54.276594"
+  "timestamp": "2026-06-01T23:42:56.848339"
 }

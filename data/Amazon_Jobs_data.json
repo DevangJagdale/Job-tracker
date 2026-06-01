@@ -9,14 +9,14 @@
       "identifier": "Full-time roles for graduates_tudent-programs/jobs-for-grads"
     },
     {
-      "title": "Solutions Architect - 2026 (US)",
-      "url": "https://www.amazon.jobs/jobs/10430661",
-      "identifier": "Solutions Architect - 2026 (US)_/www.amazon.jobs/jobs/10430661"
-    },
-    {
       "title": "Software Development Engineer \u2013 Amazon Leo (US)",
       "url": "https://www.amazon.jobs/jobs/3144341",
       "identifier": "Software Development Engineer \u2013 Amazon Leo (US)_//www.amazon.jobs/jobs/3144341"
+    },
+    {
+      "title": "Solutions Architect - 2026 (US)",
+      "url": "https://www.amazon.jobs/jobs/10430661",
+      "identifier": "Solutions Architect - 2026 (US)_/www.amazon.jobs/jobs/10430661"
     },
     {
       "title": "Security Engineer \u2013 2026 (US)",
@@ -60,5 +60,5 @@
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-06-01T19:19:51.378077"
+  "timestamp": "2026-06-01T19:37:04.657406"
 }

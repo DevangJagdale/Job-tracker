@@ -1,8 +1,18 @@
 {
   "page_title": "Search our Job Opportunities at Barclays",
   "url": "https://search.jobs.barclays/search-jobs/United%20States/13015/2/6252001/39x76/-98x5/50/2",
-  "total_jobs": 16,
+  "total_jobs": 13,
   "jobs": [
+    {
+      "title": "Executive Engineering Lead",
+      "url": "https://search.jobs.barclays/job/wilmington/executive-engineering-lead/13015/95856689184",
+      "identifier": "Executive Engineering Lead_neering-lead/13015/95856689184"
+    },
+    {
+      "title": "L2 Application Support Senior Analyst",
+      "url": "https://search.jobs.barclays/job/whippany/l2-application-support-senior-analyst/13015/95856676896",
+      "identifier": "L2 Application Support Senior Analyst_nior-analyst/13015/95856676896"
+    },
     {
       "title": "US Cash Sales Trader, AVP",
       "url": "https://search.jobs.barclays/job/boston/us-cash-sales-trader-avp/13015/95736287456",
@@ -57,33 +67,8 @@
       "title": "Senior Site Reliability Engineer - AVP",
       "url": "https://search.jobs.barclays/job/whippany/senior-site-reliability-engineer-avp/13015/95633295552",
       "identifier": "Senior Site Reliability Engineer - AVP_engineer-avp/13015/95633295552"
-    },
-    {
-      "title": "Sr. Tech Lead \u2013 AWS",
-      "url": "https://search.jobs.barclays/job/whippany/sr-tech-lead-aws/13015/95604579104",
-      "identifier": "Sr. Tech Lead \u2013 AWS_ech-lead-aws/13015/95604579104"
-    },
-    {
-      "title": "Sr. AWS Cloud Engineer",
-      "url": "https://search.jobs.barclays/job/whippany/sr-aws-cloud-engineer/13015/95604579056",
-      "identifier": "Sr. AWS Cloud Engineer_oud-engineer/13015/95604579056"
-    },
-    {
-      "title": "AVP - Digital Product Owner",
-      "url": "https://search.jobs.barclays/job/wilmington/avp-digital-product-owner/13015/95437655584",
-      "identifier": "AVP - Digital Product Owner_roduct-owner/13015/95437655584"
-    },
-    {
-      "title": "Developer",
-      "url": "https://search.jobs.barclays/job/whippany/developer/13015/95424182640",
-      "identifier": "Developer_ny/developer/13015/95424182640"
-    },
-    {
-      "title": "Vice President, Investment Banking",
-      "url": "https://search.jobs.barclays/job/new-york/vice-president-investment-banking/13015/95424182608",
-      "identifier": "Vice President, Investment Banking_ment-banking/13015/95424182608"
     }
   ],
-  "job_count_text": "129",
-  "timestamp": "2026-06-01T17:31:13.975128"
+  "job_count_text": "132",
+  "timestamp": "2026-06-01T17:48:26.741023"
 }

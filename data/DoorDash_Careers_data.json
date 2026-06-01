@@ -1,14 +1,19 @@
 {
   "page_title": "Job Search - DoorDash",
   "url": "https://careersatdoordash.com/job-search/?intern=0&function=Software%20Engineering%7CIT%20Support%7C&keyword=&location=Los%20Angeles&spage=1",
-  "total_jobs": 1,
+  "total_jobs": 2,
   "jobs": [
     {
       "title": "Engineering Manager, Backend Frameworks",
       "url": "https://careersatdoordash.com/jobs/engineering-manager-backend-frameworks/7259738",
       "identifier": "Engineering Manager, Backend Frameworks_ger-backend-frameworks/7259738"
+    },
+    {
+      "title": "Software Engineer, Backend (All Teams)",
+      "url": "https://careersatdoordash.com/jobs/software-engineer-backend-all-teams/5630445",
+      "identifier": "Software Engineer, Backend (All Teams)_neer-backend-all-teams/5630445"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-06-01T00:25:08.994345"
+  "timestamp": "2026-06-01T00:42:24.682523"
 }

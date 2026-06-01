@@ -4,6 +4,11 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Sr. Solutions Architect-Customer Systems",
+      "url": "https://jobs.apple.com/en-us/details/200663311-0157/sr-solutions-architect-customer-systems?team=SFTWR",
+      "identifier": "Sr. Solutions Architect-Customer Systems_ct-customer-systems?team=SFTWR"
+    },
+    {
       "title": "Software QA Engineer - Photos, Spatial Media, & Camera Apps, Vision Products Software",
       "url": "https://jobs.apple.com/en-us/details/200665962-3956/software-qa-engineer-photos-spatial-media-camera-apps-vision-products-software?team=SFTWR",
       "identifier": "Software QA Engineer - Photos, Spatial Media, & Ca_n-products-software?team=SFTWR"
@@ -77,13 +82,8 @@
       "title": "Senior Systems Engineer, Watch Software",
       "url": "https://jobs.apple.com/en-us/details/200662376-0365/senior-systems-engineer-watch-software?team=SFTWR",
       "identifier": "Senior Systems Engineer, Watch Software_neer-watch-software?team=SFTWR"
-    },
-    {
-      "title": "Senior Software Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200665482-0836/senior-software-engineer?team=OPMFG",
-      "identifier": "Senior Software Engineer_r-software-engineer?team=OPMFG"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-06-01T00:19:27.606594"
+  "timestamp": "2026-06-01T00:36:33.973153"
 }

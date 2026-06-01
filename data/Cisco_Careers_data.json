@@ -4,9 +4,24 @@
   "total_jobs": 6,
   "jobs": [
     {
+      "title": "Network Systems Engineer I (Full Time) - United States",
+      "url": "https://careers.cisco.com/global/en/job/2015726/Network-Systems-Engineer-I-Full-Time-United-States",
+      "identifier": "Network Systems Engineer I (Full Time) - United St_neer-I-Full-Time-United-States"
+    },
+    {
+      "title": "Software Development Engineer II (Full Time) \u2013 United States",
+      "url": "https://careers.cisco.com/global/en/job/2014387/Software-Development-Engineer-II-Full-Time-United-States",
+      "identifier": "Software Development Engineer II (Full Time) \u2013 Uni_eer-II-Full-Time-United-States"
+    },
+    {
       "title": "Account Development Representative II (Full Time) United States",
       "url": "https://careers.cisco.com/global/en/job/2001887/Account-Development-Representative-II-Full-Time-United-States",
       "identifier": "Account Development Representative II (Full Time) _ive-II-Full-Time-United-States"
+    },
+    {
+      "title": "Sales Development Representative Outbound Sales II (Full Time) - United States",
+      "url": "https://careers.cisco.com/global/en/job/2003091/Sales-Development-Representative-Outbound-Sales-II-Full-Time-United-States",
+      "identifier": "Sales Development Representative Outbound Sales II_les-II-Full-Time-United-States"
     },
     {
       "title": "Sales Development Representative I (Full Time) - United States (Virtual Demand Center)",
@@ -17,23 +32,8 @@
       "title": "Sales Development Representative II (Full Time) United States (Virtual Demand Center) - United States",
       "url": "https://careers.cisco.com/global/en/job/2008662/Sales-Development-Representative-II-Full-Time-United-States-Virtual-Demand-Center-United-States",
       "identifier": "Sales Development Representative II (Full Time) Un_al-Demand-Center-United-States"
-    },
-    {
-      "title": "Software Development Engineer II (Full Time) \u2013 United States",
-      "url": "https://careers.cisco.com/global/en/job/2014387/Software-Development-Engineer-II-Full-Time-United-States",
-      "identifier": "Software Development Engineer II (Full Time) \u2013 Uni_eer-II-Full-Time-United-States"
-    },
-    {
-      "title": "Network Systems Engineer I (Full Time) - United States",
-      "url": "https://careers.cisco.com/global/en/job/2015726/Network-Systems-Engineer-I-Full-Time-United-States",
-      "identifier": "Network Systems Engineer I (Full Time) - United St_neer-I-Full-Time-United-States"
-    },
-    {
-      "title": "Sales Development Representative Outbound Sales II (Full Time) - United States",
-      "url": "https://careers.cisco.com/global/en/job/2003091/Sales-Development-Representative-Outbound-Sales-II-Full-Time-United-States",
-      "identifier": "Sales Development Representative Outbound Sales II_les-II-Full-Time-United-States"
     }
   ],
   "job_count_text": "6",
-  "timestamp": "2026-06-01T14:00:30.239015"
+  "timestamp": "2026-06-01T14:17:31.311847"
 }

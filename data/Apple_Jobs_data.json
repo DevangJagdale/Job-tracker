@@ -4,6 +4,11 @@
   "total_jobs": 18,
   "jobs": [
     {
+      "title": "Systems & Kernel Software Engineer, SEAR",
+      "url": "https://jobs.apple.com/en-us/details/200565362-0836/systems-kernel-software-engineer-sear?team=SFTWR",
+      "identifier": "Systems & Kernel Software Engineer, SEAR_tware-engineer-sear?team=SFTWR"
+    },
+    {
       "title": "Senior Machine Learning Engineer, Machine Learning Platform Technologies",
       "url": "https://jobs.apple.com/en-us/details/200664972-3401/senior-machine-learning-engineer-machine-learning-platform-technologies?team=MLAI",
       "identifier": "Senior Machine Learning Engineer, Machine Learning_latform-technologies?team=MLAI"
@@ -87,13 +92,8 @@
       "title": "Software QA Engineer - Photos, Spatial Media, & Camera Apps, Vision Products Software",
       "url": "https://jobs.apple.com/en-us/details/200665962-3956/software-qa-engineer-photos-spatial-media-camera-apps-vision-products-software?team=SFTWR",
       "identifier": "Software QA Engineer - Photos, Spatial Media, & Ca_n-products-software?team=SFTWR"
-    },
-    {
-      "title": "OS Performance Tools Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200665933-0836/os-performance-tools-engineer?team=SFTWR",
-      "identifier": "OS Performance Tools Engineer_ance-tools-engineer?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-06-01T22:14:33.758867"
+  "timestamp": "2026-06-01T22:31:41.306499"
 }

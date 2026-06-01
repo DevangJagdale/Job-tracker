@@ -4,11 +4,6 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Manufacturing Industrial Engineer (MIE) \u2013 Advanced Analytics & AI Enablement\nBoise, Idaho, United States of America\nPosted a day ago",
-      "url": "https://careers.micron.com/careers/job/42058000",
-      "identifier": "Manufacturing Industrial Engineer (MIE) \u2013 Advanced_icron.com/careers/job/42058000"
-    },
-    {
       "title": "Semiconductor Design Engineer\nRichardson, Texas, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/42120629",
       "identifier": "Semiconductor Design Engineer\nRichardson, Texas, U_icron.com/careers/job/42120629"
@@ -22,6 +17,11 @@
       "title": "Total Rewards Data Analyst\nBoise, Idaho, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/42168611",
       "identifier": "Total Rewards Data Analyst\nBoise, Idaho, United St_icron.com/careers/job/42168611"
+    },
+    {
+      "title": "Manufacturing Industrial Engineer (MIE) \u2013 Advanced Analytics & AI Enablement\nBoise, Idaho, United States of America\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/42058000",
+      "identifier": "Manufacturing Industrial Engineer (MIE) \u2013 Advanced_icron.com/careers/job/42058000"
     },
     {
       "title": "DRAM Process Integration Engineer\nBoise, Idaho, United States of America\nPosted 3 days ago",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "99",
-  "timestamp": "2026-06-01T03:31:01.679203"
+  "timestamp": "2026-06-01T03:48:08.255881"
 }

@@ -9,16 +9,6 @@
       "identifier": "Product Yield Enhancement (PYE) Engineer\nBoise, Id_icron.com/careers/job/41888675"
     },
     {
-      "title": "Global Planning Modeling Engineer\nBoise, Idaho, United States of America\nPosted 21 hours ago",
-      "url": "https://careers.micron.com/careers/job/42120466",
-      "identifier": "Global Planning Modeling Engineer\nBoise, Idaho, Un_icron.com/careers/job/42120466"
-    },
-    {
-      "title": "Semiconductor Design Engineer\nRichardson, Texas, United States of America\nPosted 21 hours ago",
-      "url": "https://careers.micron.com/careers/job/42120629",
-      "identifier": "Semiconductor Design Engineer\nRichardson, Texas, U_icron.com/careers/job/42120629"
-    },
-    {
       "title": "Data Scientist\nSan Jose, California, United States of America\nPosted 21 hours ago",
       "url": "https://careers.micron.com/careers/job/42120652",
       "identifier": "Data Scientist\nSan Jose, California, United States_icron.com/careers/job/42120652"
@@ -27,6 +17,16 @@
       "title": "Semiconductor Design Engineer\nRichardson, Texas, United States of America\nPosted 21 hours ago",
       "url": "https://careers.micron.com/careers/job/42120665",
       "identifier": "Semiconductor Design Engineer\nRichardson, Texas, U_icron.com/careers/job/42120665"
+    },
+    {
+      "title": "Global Planning Modeling Engineer\nBoise, Idaho, United States of America\nPosted 21 hours ago",
+      "url": "https://careers.micron.com/careers/job/42120466",
+      "identifier": "Global Planning Modeling Engineer\nBoise, Idaho, Un_icron.com/careers/job/42120466"
+    },
+    {
+      "title": "Semiconductor Design Engineer\nRichardson, Texas, United States of America\nPosted 21 hours ago",
+      "url": "https://careers.micron.com/careers/job/42120629",
+      "identifier": "Semiconductor Design Engineer\nRichardson, Texas, U_icron.com/careers/job/42120629"
     },
     {
       "title": "Total Rewards Data Analyst\nBoise, Idaho, United States of America\nPosted 21 hours ago",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "97",
-  "timestamp": "2026-06-01T20:44:15.916191"
+  "timestamp": "2026-06-01T21:01:31.705553"
 }

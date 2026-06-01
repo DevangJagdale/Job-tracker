@@ -4,6 +4,11 @@
   "total_jobs": 19,
   "jobs": [
     {
+      "title": "Senior iOS Software Engineer \u2014 CloudKit",
+      "url": "https://jobs.apple.com/en-us/details/200665931-3543/senior-ios-software-engineer-cloudkit?team=SFTWR",
+      "identifier": "Senior iOS Software Engineer \u2014 CloudKit_e-engineer-cloudkit?team=SFTWR"
+    },
+    {
       "title": "Data Science Engineer, Apple Energy Services",
       "url": "https://jobs.apple.com/en-us/details/200644564-3543/data-science-engineer-apple-energy-services?team=SFTWR",
       "identifier": "Data Science Engineer, Apple Energy Services_ple-energy-services?team=SFTWR"
@@ -92,13 +97,8 @@
       "title": "Performance & Automation Test Engineer, Creativity Apps",
       "url": "https://jobs.apple.com/en-us/details/200665875-0836/performance-automation-test-engineer-creativity-apps?team=SFTWR",
       "identifier": "Performance & Automation Test Engineer, Creativity_eer-creativity-apps?team=SFTWR"
-    },
-    {
-      "title": "Senior Maching Learning & Data Scientist, OS Power & Performance",
-      "url": "https://jobs.apple.com/en-us/details/200665908-0836/senior-maching-learning-data-scientist-os-power-performance?team=SFTWR",
-      "identifier": "Senior Maching Learning & Data Scientist, OS Power_s-power-performance?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-06-01T20:58:15.707764"
+  "timestamp": "2026-06-01T21:15:28.648158"
 }

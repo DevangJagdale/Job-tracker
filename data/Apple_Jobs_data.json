@@ -4,6 +4,16 @@
   "total_jobs": 18,
   "jobs": [
     {
+      "title": "Senior Software Engineering Manager - Client Leader",
+      "url": "https://jobs.apple.com/en-us/details/200645193-0836/senior-software-engineering-manager-client-leader?team=SFTWR",
+      "identifier": "Senior Software Engineering Manager - Client Leade_nager-client-leader?team=SFTWR"
+    },
+    {
+      "title": "Software Development Engineer - Security, Enterprise Technology Services",
+      "url": "https://jobs.apple.com/en-us/details/200665724-0157/software-development-engineer-security-enterprise-technology-services?team=SFTWR",
+      "identifier": "Software Development Engineer - Security, Enterpri_technology-services?team=SFTWR"
+    },
+    {
       "title": "QA Tools and Automation Engineer - Apple Cloud",
       "url": "https://jobs.apple.com/en-us/details/200665914-0157/qa-tools-and-automation-engineer-apple-cloud?team=SFTWR",
       "identifier": "QA Tools and Automation Engineer - Apple Cloud_ngineer-apple-cloud?team=SFTWR"
@@ -82,18 +92,8 @@
       "title": "Software Quality Engineer, Books",
       "url": "https://jobs.apple.com/en-us/details/200665686-0836/software-quality-engineer-books?team=SFTWR",
       "identifier": "Software Quality Engineer, Books_lity-engineer-books?team=SFTWR"
-    },
-    {
-      "title": "Sr Program Manager, Commerce Program Management - Partners, Apple Services Engineering",
-      "url": "https://jobs.apple.com/en-us/details/200656992-3337/sr-program-manager-commerce-program-management-partners-apple-services-engineering?team=SFTWR",
-      "identifier": "Sr Program Manager, Commerce Program Management - _ervices-engineering?team=SFTWR"
-    },
-    {
-      "title": "Evaluation Reliability SRE",
-      "url": "https://jobs.apple.com/en-us/details/200665852-0836/evaluation-reliability-sre?team=MLAI",
-      "identifier": "Evaluation Reliability SRE_tion-reliability-sre?team=MLAI"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-06-01T18:06:11.180150"
+  "timestamp": "2026-06-01T18:23:18.972824"
 }

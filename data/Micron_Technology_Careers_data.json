@@ -4,11 +4,6 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Data Scientist\nSan Jose, California, United States of America\nPosted a day ago",
-      "url": "https://careers.micron.com/careers/job/42120652",
-      "identifier": "Data Scientist\nSan Jose, California, United States_icron.com/careers/job/42120652"
-    },
-    {
       "title": "Semiconductor Design Engineer\nRichardson, Texas, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/42120629",
       "identifier": "Semiconductor Design Engineer\nRichardson, Texas, U_icron.com/careers/job/42120629"
@@ -19,9 +14,19 @@
       "identifier": "Total Rewards Data Analyst\nBoise, Idaho, United St_icron.com/careers/job/42168611"
     },
     {
+      "title": "Data Scientist\nSan Jose, California, United States of America\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/42120652",
+      "identifier": "Data Scientist\nSan Jose, California, United States_icron.com/careers/job/42120652"
+    },
+    {
       "title": "Manufacturing Industrial Engineer (MIE) \u2013 Advanced Analytics & AI Enablement\nBoise, Idaho, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/42058000",
       "identifier": "Manufacturing Industrial Engineer (MIE) \u2013 Advanced_icron.com/careers/job/42058000"
+    },
+    {
+      "title": "Computer Engineer, CE\nBoise, Idaho, United States of America\nPosted 3 days ago",
+      "url": "https://careers.micron.com/careers/job/41736690",
+      "identifier": "Computer Engineer, CE\nBoise, Idaho, United States _icron.com/careers/job/41736690"
     },
     {
       "title": "Semiconductor Design Engineer\nRichardson, Texas, United States of America\nPosted 3 days ago",
@@ -39,11 +44,6 @@
       "identifier": "DRAM Process Integration Engineer\nBoise, Idaho, Un_icron.com/careers/job/39786384"
     },
     {
-      "title": "Computer Engineer, CE\nBoise, Idaho, United States of America\nPosted 3 days ago",
-      "url": "https://careers.micron.com/careers/job/41736690",
-      "identifier": "Computer Engineer, CE\nBoise, Idaho, United States _icron.com/careers/job/41736690"
-    },
-    {
       "title": "US FE Expansion Planning Engineer\nBoise, Idaho, United States of America\nPosted 4 days ago",
       "url": "https://careers.micron.com/careers/job/40986798",
       "identifier": "US FE Expansion Planning Engineer\nBoise, Idaho, Un_icron.com/careers/job/40986798"
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "99",
-  "timestamp": "2026-06-01T07:03:23.547024"
+  "timestamp": "2026-06-01T07:20:24.297877"
 }

@@ -1,8 +1,13 @@
 {
   "page_title": "Search our Job Opportunities at Barclays",
   "url": "https://search.jobs.barclays/search-jobs/United%20States/13015/2/6252001/39x76/-98x5/50/2",
-  "total_jobs": 15,
+  "total_jobs": 16,
   "jobs": [
+    {
+      "title": "US Cash Sales Trader, AVP",
+      "url": "https://search.jobs.barclays/job/boston/us-cash-sales-trader-avp/13015/95736287456",
+      "identifier": "US Cash Sales Trader, AVP_s-trader-avp/13015/95736287456"
+    },
     {
       "title": "US Content Client Strategy",
       "url": "https://search.jobs.barclays/job/new-york/us-content-client-strategy/13015/95721258448",
@@ -80,5 +85,5 @@
     }
   ],
   "job_count_text": "129",
-  "timestamp": "2026-06-01T11:24:47.018559"
+  "timestamp": "2026-06-01T11:41:47.824715"
 }

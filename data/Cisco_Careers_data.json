@@ -19,14 +19,14 @@
       "identifier": "Account Development Representative II (Full Time) _ive-II-Full-Time-United-States"
     },
     {
-      "title": "Sales Development Representative I (Full Time) - United States (Virtual Demand Center)",
-      "url": "https://careers.cisco.com/global/en/job/2005272/Sales-Development-Representative-I-Full-Time-United-States-Virtual-Demand-Center",
-      "identifier": "Sales Development Representative I (Full Time) - U_d-States-Virtual-Demand-Center"
-    },
-    {
       "title": "Sales Development Representative Outbound Sales II (Full Time) - United States",
       "url": "https://careers.cisco.com/global/en/job/2003091/Sales-Development-Representative-Outbound-Sales-II-Full-Time-United-States",
       "identifier": "Sales Development Representative Outbound Sales II_les-II-Full-Time-United-States"
+    },
+    {
+      "title": "Sales Development Representative I (Full Time) - United States (Virtual Demand Center)",
+      "url": "https://careers.cisco.com/global/en/job/2005272/Sales-Development-Representative-I-Full-Time-United-States-Virtual-Demand-Center",
+      "identifier": "Sales Development Representative I (Full Time) - U_d-States-Virtual-Demand-Center"
     },
     {
       "title": "Sales Development Representative II (Full Time) United States (Virtual Demand Center) - United States",
@@ -35,5 +35,5 @@
     }
   ],
   "job_count_text": "6",
-  "timestamp": "2026-06-01T11:27:03.327550"
+  "timestamp": "2026-06-01T11:44:05.844096"
 }

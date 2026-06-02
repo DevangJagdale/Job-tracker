@@ -4,6 +4,11 @@
   "total_jobs": 17,
   "jobs": [
     {
+      "title": "Camera Tuning & Image Quality Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200666140-3401/camera-tuning-image-quality-engineer?team=SFTWR",
+      "identifier": "Camera Tuning & Image Quality Engineer_ge-quality-engineer?team=SFTWR"
+    },
+    {
       "title": "QA Engineer",
       "url": "https://jobs.apple.com/en-us/details/200666399-0836/qa-engineer?team=SFTWR",
       "identifier": "QA Engineer_99-0836/qa-engineer?team=SFTWR"
@@ -74,11 +79,6 @@
       "identifier": "Software Engineer, Agentic Workflows_r-agentic-workflows?team=SFTWR"
     },
     {
-      "title": "Camera Tuning & Image Quality Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200666140-3401/camera-tuning-image-quality-engineer?team=SFTWR",
-      "identifier": "Camera Tuning & Image Quality Engineer_ge-quality-engineer?team=SFTWR"
-    },
-    {
       "title": "Senior Software Engineer, Identity",
       "url": "https://jobs.apple.com/en-us/details/200654515-0953/senior-software-engineer-identity?team=SFTWR",
       "identifier": "Senior Software Engineer, Identity_e-engineer-identity?team=SFTWR"
@@ -90,5 +90,5 @@
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-06-02T19:24:48.622489"
+  "timestamp": "2026-06-02T19:41:49.009743"
 }

@@ -4,6 +4,16 @@
   "total_jobs": 17,
   "jobs": [
     {
+      "title": "Sr. Ruby on Rails Engineer, ASE",
+      "url": "https://jobs.apple.com/en-us/details/200636171-3337/sr-ruby-on-rails-engineer-ase?team=SFTWR",
+      "identifier": "Sr. Ruby on Rails Engineer, ASE_-rails-engineer-ase?team=SFTWR"
+    },
+    {
+      "title": "Forward Deployed Engineer, Maps Client QE Intelligence",
+      "url": "https://jobs.apple.com/en-us/details/200647290-0836/forward-deployed-engineer-maps-client-qe-intelligence?team=SFTWR",
+      "identifier": "Forward Deployed Engineer, Maps Client QE Intellig_ent-qe-intelligence?team=SFTWR"
+    },
+    {
       "title": "Camera Tuning & Image Quality Engineer",
       "url": "https://jobs.apple.com/en-us/details/200666140-3401/camera-tuning-image-quality-engineer?team=SFTWR",
       "identifier": "Camera Tuning & Image Quality Engineer_ge-quality-engineer?team=SFTWR"
@@ -37,11 +47,6 @@
       "title": "Software Tools and Automation Engineer - Apple Services Engineering",
       "url": "https://jobs.apple.com/en-us/details/200666145-3337/software-tools-and-automation-engineer-apple-services-engineering?team=SFTWR",
       "identifier": "Software Tools and Automation Engineer - Apple Ser_ervices-engineering?team=SFTWR"
-    },
-    {
-      "title": "Forward Deployed Engineer, AI",
-      "url": "https://jobs.apple.com/en-us/details/200647290-0836/forward-deployed-engineer-ai?team=SFTWR",
-      "identifier": "Forward Deployed Engineer, AI_eployed-engineer-ai?team=SFTWR"
     },
     {
       "title": "Software Development Build Engineer, Apps Engineering",
@@ -82,13 +87,8 @@
       "title": "Senior Software Engineer, Identity",
       "url": "https://jobs.apple.com/en-us/details/200654515-0953/senior-software-engineer-identity?team=SFTWR",
       "identifier": "Senior Software Engineer, Identity_e-engineer-identity?team=SFTWR"
-    },
-    {
-      "title": "Senior IOS Software Engineer - Image Generation, Input Experience",
-      "url": "https://jobs.apple.com/en-us/details/200665982-0836/senior-ios-software-engineer-image-generation-input-experience?team=SFTWR",
-      "identifier": "Senior IOS Software Engineer - Image Generation, I_on-input-experience?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-06-02T19:41:49.009743"
+  "timestamp": "2026-06-02T19:58:55.739378"
 }

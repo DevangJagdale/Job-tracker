@@ -4,6 +4,16 @@
   "total_jobs": 12,
   "jobs": [
     {
+      "title": "Senior/Staff Software Engineer, Apple Services Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200651920-3337/senior-staff-software-engineer-apple-services-engineering?team=SFTWR",
+      "identifier": "Senior/Staff Software Engineer, Apple Services Eng_ervices-engineering?team=SFTWR"
+    },
+    {
+      "title": "Software Engineer, Agentic Workflows",
+      "url": "https://jobs.apple.com/en-us/details/200666134-0836/software-engineer-agentic-workflows?team=SFTWR",
+      "identifier": "Software Engineer, Agentic Workflows_r-agentic-workflows?team=SFTWR"
+    },
+    {
       "title": "Camera Tuning & Image Quality Engineer",
       "url": "https://jobs.apple.com/en-us/details/200666140-3401/camera-tuning-image-quality-engineer?team=SFTWR",
       "identifier": "Camera Tuning & Image Quality Engineer_ge-quality-engineer?team=SFTWR"
@@ -52,18 +62,8 @@
       "title": "Senior iOS Software Engineer \u2014 CloudKit",
       "url": "https://jobs.apple.com/en-us/details/200665931-3543/senior-ios-software-engineer-cloudkit?team=SFTWR",
       "identifier": "Senior iOS Software Engineer \u2014 CloudKit_e-engineer-cloudkit?team=SFTWR"
-    },
-    {
-      "title": "Data Science Engineer, Apple Energy Services",
-      "url": "https://jobs.apple.com/en-us/details/200644564-3543/data-science-engineer-apple-energy-services?team=SFTWR",
-      "identifier": "Data Science Engineer, Apple Energy Services_ple-energy-services?team=SFTWR"
-    },
-    {
-      "title": "Wireless Bluetooth QA Engineer, Wireless Technologies & Ecosystems",
-      "url": "https://jobs.apple.com/en-us/details/200665564-3543/wireless-bluetooth-qa-engineer-wireless-technologies-ecosystems?team=SFTWR",
-      "identifier": "Wireless Bluetooth QA Engineer, Wireless Technolog_nologies-ecosystems?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-06-02T15:25:30.724610"
+  "timestamp": "2026-06-02T15:42:36.309569"
 }

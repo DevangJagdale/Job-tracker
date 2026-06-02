@@ -4,6 +4,11 @@
   "total_jobs": 10,
   "jobs": [
     {
+      "title": "Software Engineer II\nUnited States, Multiple Locations, Multiple Locations\nPosted 5 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556649786?domain=microsoft.com",
+      "identifier": "Software Engineer II\nUnited States, Multiple Locat_556649786?domain=microsoft.com"
+    },
+    {
       "title": "Senior Software Engineer - Azure Storage\nUnited States, Multiple Locations, Multiple Locations\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556752727?domain=microsoft.com",
       "identifier": "Senior Software Engineer - Azure Storage\nUnited St_556752727?domain=microsoft.com"
@@ -14,12 +19,12 @@
       "identifier": "Senior Software Engineer - Azure Storage\nUnited St_556637615?domain=microsoft.com"
     },
     {
-      "title": "Principal Software Engineer\nUnited States, California, Mountain View + 1 more\nPosted an hour ago",
+      "title": "Principal Software Engineer\nUnited States, California, Mountain View + 1 more\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556630574?domain=microsoft.com",
       "identifier": "Principal Software Engineer\nUnited States, Califor_556630574?domain=microsoft.com"
     },
     {
-      "title": "Principal Service Engineering Manager\nUnited States, Washington, Redmond\nPosted an hour ago",
+      "title": "Principal Service Engineering Manager\nUnited States, Washington, Redmond\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556870316?domain=microsoft.com",
       "identifier": "Principal Service Engineering Manager\nUnited State_556870316?domain=microsoft.com"
     },
@@ -39,21 +44,16 @@
       "identifier": "Principal Applied Scientist\nUnited States, Washing_556834599?domain=microsoft.com"
     },
     {
-      "title": "Principal Software Engineer - CoreAI\nUnited States, Washington, Redmond + 1 more\nPosted 4 hours ago",
+      "title": "Principal Software Engineer - CoreAI\nUnited States, Washington, Redmond + 1 more\nPosted 5 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556871022?domain=microsoft.com",
       "identifier": "Principal Software Engineer - CoreAI\nUnited States_556871022?domain=microsoft.com"
     },
     {
-      "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted 13 hours ago",
+      "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted 14 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556870207?domain=microsoft.com",
       "identifier": "Principal Software Engineer\nUnited States, Washing_556870207?domain=microsoft.com"
-    },
-    {
-      "title": "Principal Applied AI Scientist\nUnited States, Washington, Redmond\nPosted 15 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556621350?domain=microsoft.com",
-      "identifier": "Principal Applied AI Scientist\nUnited States, Wash_556621350?domain=microsoft.com"
     }
   ],
-  "job_count_text": "426",
-  "timestamp": "2026-06-02T17:42:07.039775"
+  "job_count_text": "427",
+  "timestamp": "2026-06-02T17:59:09.685503"
 }

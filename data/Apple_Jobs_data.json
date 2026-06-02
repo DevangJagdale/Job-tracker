@@ -1,8 +1,33 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 13,
+  "total_jobs": 16,
   "jobs": [
+    {
+      "title": "Security Adoption Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200665938-3337/security-adoption-engineer?team=SFTWR",
+      "identifier": "Security Adoption Engineer_y-adoption-engineer?team=SFTWR"
+    },
+    {
+      "title": "AI Security Engineer - Red Team",
+      "url": "https://jobs.apple.com/en-us/details/200665998-3337/ai-security-engineer-red-team?team=SFTWR",
+      "identifier": "AI Security Engineer - Red Team_y-engineer-red-team?team=SFTWR"
+    },
+    {
+      "title": "Software Development Engineer in Test",
+      "url": "https://jobs.apple.com/en-us/details/200666150-0836/software-development-engineer-in-test?team=SFTWR",
+      "identifier": "Software Development Engineer in Test_nt-engineer-in-test?team=SFTWR"
+    },
+    {
+      "title": "Software Tools and Automation Engineer - Apple Services Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200666145-3337/software-tools-and-automation-engineer-apple-services-engineering?team=SFTWR",
+      "identifier": "Software Tools and Automation Engineer - Apple Ser_ervices-engineering?team=SFTWR"
+    },
+    {
+      "title": "Forward Deployed Engineer, AI",
+      "url": "https://jobs.apple.com/en-us/details/200647290-0836/forward-deployed-engineer-ai?team=SFTWR",
+      "identifier": "Forward Deployed Engineer, AI_eployed-engineer-ai?team=SFTWR"
+    },
     {
       "title": "Software Development Build Engineer, Apps Engineering",
       "url": "https://jobs.apple.com/en-us/details/200665586-0670/software-development-build-engineer-apps-engineering?team=SFTWR",
@@ -22,11 +47,6 @@
       "title": "Navigation Framework Software Development in Test (SDET) \u2013 Apple Maps",
       "url": "https://jobs.apple.com/en-us/details/200636683-3337/navigation-framework-software-development-in-test-sdet-apple-maps?team=SFTWR",
       "identifier": "Navigation Framework Software Development in Test _est-sdet-apple-maps?team=SFTWR"
-    },
-    {
-      "title": "Forward Deployed Engineer, AI",
-      "url": "https://jobs.apple.com/en-us/details/200647290-0836/forward-deployed-engineer-ai?team=SFTWR",
-      "identifier": "Forward Deployed Engineer, AI_eployed-engineer-ai?team=SFTWR"
     },
     {
       "title": "Data Analytics Engineer - Apple Services Engineering",
@@ -62,13 +82,8 @@
       "title": "AR/VR Applications Engineer - Photos, Vision Products Software",
       "url": "https://jobs.apple.com/en-us/details/200664993-3401/ar-vr-applications-engineer-photos-vision-products-software?team=SFTWR",
       "identifier": "AR/VR Applications Engineer - Photos, Vision Produ_n-products-software?team=SFTWR"
-    },
-    {
-      "title": "Security Developer Tools Engineer (Static Analysis), Languages & Runtimes",
-      "url": "https://jobs.apple.com/en-us/details/200665894-0505/security-developer-tools-engineer-static-analysis-languages-runtimes?team=SFTWR",
-      "identifier": "Security Developer Tools Engineer (Static Analysis_-languages-runtimes?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-06-02T17:42:22.661292"
+  "timestamp": "2026-06-02T17:59:25.940451"
 }

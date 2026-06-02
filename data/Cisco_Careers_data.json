@@ -1,7 +1,7 @@
 {
   "page_title": "Job Openings - Cisco Careers",
   "url": "https://careers.cisco.com/global/en/search-results?s=1",
-  "total_jobs": 8,
+  "total_jobs": 7,
   "jobs": [
     {
       "title": "Software Engineer Data/AI/Intelligent Systems I (Full Time) \u2013 United States",
@@ -12,11 +12,6 @@
       "title": "Workday Security Administrator II (Full-Time) - United States",
       "url": "https://careers.cisco.com/global/en/job/2015304/Workday-Security-Administrator-II-Full-Time-United-States",
       "identifier": "Workday Security Administrator II (Full-Time) - Un_tor-II-Full-Time-United-States"
-    },
-    {
-      "title": "FY26 Software Engineer Full Stack & Application Development II (Full Time) \u2013 United States",
-      "url": "https://careers.cisco.com/global/en/job/2000127/FY26-Software-Engineer-Full-Stack-Application-Development-II-Full-Time-United-States",
-      "identifier": "FY26 Software Engineer Full Stack & Application De_ent-II-Full-Time-United-States"
     },
     {
       "title": "Software Development Engineer II (Full Time) \u2013 United States",
@@ -44,6 +39,6 @@
       "identifier": "Sales Development Representative II (Full Time) Un_al-Demand-Center-United-States"
     }
   ],
-  "job_count_text": "8",
-  "timestamp": "2026-06-02T07:31:48.940058"
+  "job_count_text": "7",
+  "timestamp": "2026-06-02T07:49:00.607940"
 }

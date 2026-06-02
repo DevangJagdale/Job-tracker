@@ -4,6 +4,11 @@
   "total_jobs": 15,
   "jobs": [
     {
+      "title": "Portfolio Hedging & Optimization, Analyst",
+      "url": "https://search.jobs.barclays/job/new-york/portfolio-hedging-and-optimization-analyst/13015/95872253152",
+      "identifier": "Portfolio Hedging & Optimization, Analyst_tion-analyst/13015/95872253152"
+    },
+    {
       "title": "Workforce Management Forecasting and Analytics VP",
       "url": "https://search.jobs.barclays/job/wilmington/workforce-management-forecasting-and-analytics-vp/13015/95856692992",
       "identifier": "Workforce Management Forecasting and Analytics VP_analytics-vp/13015/95856692992"
@@ -72,13 +77,8 @@
       "title": "Audit Director - AI Assurance",
       "url": "https://search.jobs.barclays/job/new-york/audit-director-ai-assurance/13015/95633305680",
       "identifier": "Audit Director - AI Assurance_ai-assurance/13015/95633305680"
-    },
-    {
-      "title": "Senior Site Reliability Engineer - AVP",
-      "url": "https://search.jobs.barclays/job/whippany/senior-site-reliability-engineer-avp/13015/95633295552",
-      "identifier": "Senior Site Reliability Engineer - AVP_engineer-avp/13015/95633295552"
     }
   ],
-  "job_count_text": "130",
-  "timestamp": "2026-06-02T11:18:50.516893"
+  "job_count_text": "131",
+  "timestamp": "2026-06-02T11:35:52.892175"
 }

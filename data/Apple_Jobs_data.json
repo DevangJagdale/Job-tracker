@@ -4,6 +4,11 @@
   "total_jobs": 18,
   "jobs": [
     {
+      "title": "Wi-Fi Software Engineer, Wireless Technologies & Ecosystems",
+      "url": "https://jobs.apple.com/en-us/details/200666337-0836/wi-fi-software-engineer-wireless-technologies-ecosystems?team=SFTWR",
+      "identifier": "Wi-Fi Software Engineer, Wireless Technologies & E_nologies-ecosystems?team=SFTWR"
+    },
+    {
       "title": "Computer Vision and Machine Learning Engineer",
       "url": "https://jobs.apple.com/en-us/details/200633612-3956/computer-vision-and-machine-learning-engineer?team=HRDWR",
       "identifier": "Computer Vision and Machine Learning Engineer_e-learning-engineer?team=HRDWR"
@@ -87,13 +92,8 @@
       "title": "Software Engineer, Agentic Workflows",
       "url": "https://jobs.apple.com/en-us/details/200666134-0836/software-engineer-agentic-workflows?team=SFTWR",
       "identifier": "Software Engineer, Agentic Workflows_r-agentic-workflows?team=SFTWR"
-    },
-    {
-      "title": "Senior Software Engineer, Identity",
-      "url": "https://jobs.apple.com/en-us/details/200654515-0953/senior-software-engineer-identity?team=SFTWR",
-      "identifier": "Senior Software Engineer, Identity_e-engineer-identity?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-06-02T20:58:12.589031"
+  "timestamp": "2026-06-02T21:15:19.275759"
 }

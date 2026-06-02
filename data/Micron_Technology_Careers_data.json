@@ -4,21 +4,6 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Global Planning Modeling Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
-      "url": "https://careers.micron.com/careers/job/42120466",
-      "identifier": "Global Planning Modeling Engineer\nBoise, Idaho, Un_icron.com/careers/job/42120466"
-    },
-    {
-      "title": "Total Rewards Data Analyst\nBoise, Idaho, United States of America\nPosted a day ago",
-      "url": "https://careers.micron.com/careers/job/42168611",
-      "identifier": "Total Rewards Data Analyst\nBoise, Idaho, United St_icron.com/careers/job/42168611"
-    },
-    {
-      "title": "Operational Excellence Engineer - Global Standardization\nBoise, Idaho, United States of America\nPosted a day ago",
-      "url": "https://careers.micron.com/careers/job/42120309",
-      "identifier": "Operational Excellence Engineer - Global Standardi_icron.com/careers/job/42120309"
-    },
-    {
       "title": "Data Scientist\nSan Jose, California, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/42120652",
       "identifier": "Data Scientist\nSan Jose, California, United States_icron.com/careers/job/42120652"
@@ -32,6 +17,21 @@
       "title": "New College Grad - Supply Chain Planner\nBoise, Idaho, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/41084880",
       "identifier": "New College Grad - Supply Chain Planner\nBoise, Ida_icron.com/careers/job/41084880"
+    },
+    {
+      "title": "Operational Excellence Engineer - Global Standardization\nBoise, Idaho, United States of America\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/42120309",
+      "identifier": "Operational Excellence Engineer - Global Standardi_icron.com/careers/job/42120309"
+    },
+    {
+      "title": "Global Planning Modeling Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/42120466",
+      "identifier": "Global Planning Modeling Engineer\nBoise, Idaho, Un_icron.com/careers/job/42120466"
+    },
+    {
+      "title": "Total Rewards Data Analyst\nBoise, Idaho, United States of America\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/42168611",
+      "identifier": "Total Rewards Data Analyst\nBoise, Idaho, United St_icron.com/careers/job/42168611"
     },
     {
       "title": "Product Yield Enhancement (PYE) Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "99",
-  "timestamp": "2026-06-02T01:59:23.045269"
+  "timestamp": "2026-06-02T02:16:46.193922"
 }

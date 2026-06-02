@@ -4,16 +4,6 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Global Planning Modeling Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
-      "url": "https://careers.micron.com/careers/job/42120466",
-      "identifier": "Global Planning Modeling Engineer\nBoise, Idaho, Un_icron.com/careers/job/42120466"
-    },
-    {
-      "title": "Total Rewards Data Analyst\nBoise, Idaho, United States of America\nPosted a day ago",
-      "url": "https://careers.micron.com/careers/job/42168611",
-      "identifier": "Total Rewards Data Analyst\nBoise, Idaho, United St_icron.com/careers/job/42168611"
-    },
-    {
       "title": "Product Yield Enhancement (PYE) Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/41888675",
       "identifier": "Product Yield Enhancement (PYE) Engineer\nBoise, Id_icron.com/careers/job/41888675"
@@ -44,6 +34,16 @@
       "identifier": "Semiconductor Design Engineer\nRichardson, Texas, U_icron.com/careers/job/42120665"
     },
     {
+      "title": "Global Planning Modeling Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/42120466",
+      "identifier": "Global Planning Modeling Engineer\nBoise, Idaho, Un_icron.com/careers/job/42120466"
+    },
+    {
+      "title": "Total Rewards Data Analyst\nBoise, Idaho, United States of America\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/42168611",
+      "identifier": "Total Rewards Data Analyst\nBoise, Idaho, United St_icron.com/careers/job/42168611"
+    },
+    {
       "title": "Manufacturing Industrial Engineer (MIE) \u2013 Advanced Analytics & AI Enablement\nBoise, Idaho, United States of America\nPosted 2 days ago",
       "url": "https://careers.micron.com/careers/job/42058000",
       "identifier": "Manufacturing Industrial Engineer (MIE) \u2013 Advanced_icron.com/careers/job/42058000"
@@ -54,6 +54,6 @@
       "identifier": "Computer Engineer, CE\nBoise, Idaho, United States _icron.com/careers/job/41736690"
     }
   ],
-  "job_count_text": "99",
-  "timestamp": "2026-06-02T06:59:03.649545"
+  "job_count_text": "98",
+  "timestamp": "2026-06-02T07:16:06.538240"
 }

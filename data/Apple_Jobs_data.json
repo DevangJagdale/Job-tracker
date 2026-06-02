@@ -4,6 +4,11 @@
   "total_jobs": 13,
   "jobs": [
     {
+      "title": "Navigation Framework Software Development in Test (SDET) \u2013 Apple Maps",
+      "url": "https://jobs.apple.com/en-us/details/200636683-3337/navigation-framework-software-development-in-test-sdet-apple-maps?team=SFTWR",
+      "identifier": "Navigation Framework Software Development in Test _est-sdet-apple-maps?team=SFTWR"
+    },
+    {
       "title": "Forward Deployed Engineer, AI",
       "url": "https://jobs.apple.com/en-us/details/200647290-0836/forward-deployed-engineer-ai?team=SFTWR",
       "identifier": "Forward Deployed Engineer, AI_eployed-engineer-ai?team=SFTWR"
@@ -62,13 +67,8 @@
       "title": "Senior Machine Learning Engineer, Machine Learning Platform Technologies",
       "url": "https://jobs.apple.com/en-us/details/200664972-3401/senior-machine-learning-engineer-machine-learning-platform-technologies?team=MLAI",
       "identifier": "Senior Machine Learning Engineer, Machine Learning_latform-technologies?team=MLAI"
-    },
-    {
-      "title": "AIML - Sr Machine Learning Engineer - Data and ML Innovation",
-      "url": "https://jobs.apple.com/en-us/details/200666135-0836/aiml-sr-machine-learning-engineer-data-and-ml-innovation?team=MLAI",
-      "identifier": "AIML - Sr Machine Learning Engineer - Data and ML _ta-and-ml-innovation?team=MLAI"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-06-02T16:34:02.346001"
+  "timestamp": "2026-06-02T16:51:05.914022"
 }

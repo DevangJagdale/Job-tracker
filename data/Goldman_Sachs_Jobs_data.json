@@ -89,11 +89,6 @@
       "identifier": "Corporate Treasury, Payments Platform, Software En_s://higher.gs.com/roles/170578"
     },
     {
-      "title": "Corporate Planning & Management, Product & Reporting - BI Specialist, Associate, Dallas\nDallas\u00b7United States\n\u00b7Associate",
-      "url": "https://higher.gs.com/roles/172617",
-      "identifier": "Corporate Planning & Management, Product & Reporti_s://higher.gs.com/roles/172617"
-    },
-    {
       "title": "Software Engineering - Data, Lakehouse and AI Data Platform Engineer - Associate - Dallas\nDallas\u00b7United States\n\u00b7Associate",
       "url": "https://higher.gs.com/roles/153361",
       "identifier": "Software Engineering - Data, Lakehouse and AI Data_s://higher.gs.com/roles/153361"
@@ -102,8 +97,13 @@
       "title": "Compliance, Senior Backend Engineer (Java & ETL Specialist), Dallas, Associate\nDallas\u00b7United States\n\u00b7Associate",
       "url": "https://higher.gs.com/roles/168652",
       "identifier": "Compliance, Senior Backend Engineer (Java & ETL Sp_s://higher.gs.com/roles/168652"
+    },
+    {
+      "title": "Asset & Wealth Management - Software Engineer - Associate - Salt Lake City\nSalt Lake City\u00b7United States\n\u00b7Associate",
+      "url": "https://higher.gs.com/roles/159035",
+      "identifier": "Asset & Wealth Management - Software Engineer - As_s://higher.gs.com/roles/159035"
     }
   ],
-  "job_count_text": "40",
-  "timestamp": "2026-06-02T16:33:11.346516"
+  "job_count_text": "39",
+  "timestamp": "2026-06-02T16:50:15.360449"
 }

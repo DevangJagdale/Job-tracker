@@ -4,7 +4,12 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Principal Software Engineer - CoreAI\nUnited States, Washington, Redmond + 1 more\nPosted 17 minutes ago",
+      "title": "Principal Applied Scientist\nUnited States, Washington, Redmond + 1 more\nPosted 17 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556834599?domain=microsoft.com",
+      "identifier": "Principal Applied Scientist\nUnited States, Washing_556834599?domain=microsoft.com"
+    },
+    {
+      "title": "Principal Software Engineer - CoreAI\nUnited States, Washington, Redmond + 1 more\nPosted 34 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556871022?domain=microsoft.com",
       "identifier": "Principal Software Engineer - CoreAI\nUnited States_556871022?domain=microsoft.com"
     },
@@ -47,13 +52,8 @@
       "title": "Senior Software Engineer - CoreAI\nUnited States, Washington, Redmond\nPosted 16 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556778473?domain=microsoft.com",
       "identifier": "Senior Software Engineer - CoreAI\nUnited States, W_556778473?domain=microsoft.com"
-    },
-    {
-      "title": "Software Engineer II - CoreAI\nUnited States, Washington, Redmond\nPosted 16 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556637527?domain=microsoft.com",
-      "identifier": "Software Engineer II - CoreAI\nUnited States, Washi_556637527?domain=microsoft.com"
     }
   ],
-  "job_count_text": "420",
-  "timestamp": "2026-06-02T13:35:13.339457"
+  "job_count_text": "421",
+  "timestamp": "2026-06-02T13:52:16.785627"
 }

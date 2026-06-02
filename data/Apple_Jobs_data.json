@@ -4,6 +4,11 @@
   "total_jobs": 14,
   "jobs": [
     {
+      "title": "Machine Learning Video Codec Algorithm Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200656320-0836/machine-learning-video-codec-algorithm-engineer?team=MLAI",
+      "identifier": "Machine Learning Video Codec Algorithm Engineer_c-algorithm-engineer?team=MLAI"
+    },
+    {
       "title": "Senior Engineering Program Manager, Find My",
       "url": "https://jobs.apple.com/en-us/details/200630263-0836/senior-engineering-program-manager-find-my?team=SFTWR",
       "identifier": "Senior Engineering Program Manager, Find My_ram-manager-find-my?team=SFTWR"
@@ -67,13 +72,8 @@
       "title": "Systems & Kernel Software Engineer, SEAR",
       "url": "https://jobs.apple.com/en-us/details/200565362-0836/systems-kernel-software-engineer-sear?team=SFTWR",
       "identifier": "Systems & Kernel Software Engineer, SEAR_tware-engineer-sear?team=SFTWR"
-    },
-    {
-      "title": "Senior Machine Learning Engineer, Machine Learning Platform Technologies",
-      "url": "https://jobs.apple.com/en-us/details/200664972-3401/senior-machine-learning-engineer-machine-learning-platform-technologies?team=MLAI",
-      "identifier": "Senior Machine Learning Engineer, Machine Learning_latform-technologies?team=MLAI"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-06-02T17:08:09.080764"
+  "timestamp": "2026-06-02T17:25:18.234096"
 }

@@ -4,6 +4,16 @@
   "total_jobs": 18,
   "jobs": [
     {
+      "title": "Software Build Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200666251-3543/software-build-engineer?team=SFTWR",
+      "identifier": "Software Build Engineer_ware-build-engineer?team=SFTWR"
+    },
+    {
+      "title": "Build Security Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200666261-0157/build-security-engineer?team=SFTWR",
+      "identifier": "Build Security Engineer_d-security-engineer?team=SFTWR"
+    },
+    {
       "title": "Wi-Fi Software Engineer, Wireless Technologies & Ecosystems",
       "url": "https://jobs.apple.com/en-us/details/200666337-0836/wi-fi-software-engineer-wireless-technologies-ecosystems?team=SFTWR",
       "identifier": "Wi-Fi Software Engineer, Wireless Technologies & E_nologies-ecosystems?team=SFTWR"
@@ -82,18 +92,8 @@
       "title": "Data Analytics Engineer - Apple Services Engineering",
       "url": "https://jobs.apple.com/en-us/details/200662203-0836/data-analytics-engineer-apple-services-engineering?team=SFTWR",
       "identifier": "Data Analytics Engineer - Apple Services Engineeri_ervices-engineering?team=SFTWR"
-    },
-    {
-      "title": "Senior/Staff Software Engineer, Apple Services Engineering",
-      "url": "https://jobs.apple.com/en-us/details/200651920-3337/senior-staff-software-engineer-apple-services-engineering?team=SFTWR",
-      "identifier": "Senior/Staff Software Engineer, Apple Services Eng_ervices-engineering?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer, Agentic Workflows",
-      "url": "https://jobs.apple.com/en-us/details/200666134-0836/software-engineer-agentic-workflows?team=SFTWR",
-      "identifier": "Software Engineer, Agentic Workflows_r-agentic-workflows?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-06-02T21:15:19.275759"
+  "timestamp": "2026-06-02T21:32:23.201590"
 }

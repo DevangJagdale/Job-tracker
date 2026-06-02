@@ -1,8 +1,13 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 13,
+  "total_jobs": 12,
   "jobs": [
+    {
+      "title": "Camera Tuning & Image Quality Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200666140-3401/camera-tuning-image-quality-engineer?team=SFTWR",
+      "identifier": "Camera Tuning & Image Quality Engineer_ge-quality-engineer?team=SFTWR"
+    },
     {
       "title": "Senior Software Engineer, Identity",
       "url": "https://jobs.apple.com/en-us/details/200654515-0953/senior-software-engineer-identity?team=SFTWR",
@@ -57,18 +62,8 @@
       "title": "Wireless Bluetooth QA Engineer, Wireless Technologies & Ecosystems",
       "url": "https://jobs.apple.com/en-us/details/200665564-3543/wireless-bluetooth-qa-engineer-wireless-technologies-ecosystems?team=SFTWR",
       "identifier": "Wireless Bluetooth QA Engineer, Wireless Technolog_nologies-ecosystems?team=SFTWR"
-    },
-    {
-      "title": "AI/ML Engineer (GenAI), G&A Solutions Engineering (GSE)",
-      "url": "https://jobs.apple.com/en-us/details/200626114-0157/ai-ml-engineer-genai-g-a-solutions-engineering-gse?team=SFTWR",
-      "identifier": "AI/ML Engineer (GenAI), G&A Solutions Engineering _ons-engineering-gse?team=SFTWR"
-    },
-    {
-      "title": "Senior Software Engineering Manager - Client Leader",
-      "url": "https://jobs.apple.com/en-us/details/200645193-0836/senior-software-engineering-manager-client-leader?team=SFTWR",
-      "identifier": "Senior Software Engineering Manager - Client Leade_nager-client-leader?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-06-02T15:08:25.220403"
+  "timestamp": "2026-06-02T15:25:30.724610"
 }

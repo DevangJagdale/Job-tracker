@@ -4,6 +4,11 @@
   "total_jobs": 17,
   "jobs": [
     {
+      "title": "QA Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200666399-0836/qa-engineer?team=SFTWR",
+      "identifier": "QA Engineer_99-0836/qa-engineer?team=SFTWR"
+    },
+    {
       "title": "Software Engineering Manager, Siri AI Quality",
       "url": "https://jobs.apple.com/en-us/details/200666119-0836/software-engineering-manager-siri-ai-quality?team=SFTWR",
       "identifier": "Software Engineering Manager, Siri AI Quality_ger-siri-ai-quality?team=SFTWR"
@@ -82,13 +87,8 @@
       "title": "Senior IOS Software Engineer - Image Generation, Input Experience",
       "url": "https://jobs.apple.com/en-us/details/200665982-0836/senior-ios-software-engineer-image-generation-input-experience?team=SFTWR",
       "identifier": "Senior IOS Software Engineer - Image Generation, I_on-input-experience?team=SFTWR"
-    },
-    {
-      "title": "AR/VR Applications Engineer - Photos, Vision Products Software",
-      "url": "https://jobs.apple.com/en-us/details/200664993-3401/ar-vr-applications-engineer-photos-vision-products-software?team=SFTWR",
-      "identifier": "AR/VR Applications Engineer - Photos, Vision Produ_n-products-software?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-06-02T19:07:46.974072"
+  "timestamp": "2026-06-02T19:24:48.622489"
 }

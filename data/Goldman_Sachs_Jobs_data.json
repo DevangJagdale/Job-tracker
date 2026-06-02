@@ -59,11 +59,6 @@
       "identifier": "Asset & Wealth Management, Business Analytics, Ass_s://higher.gs.com/roles/168993"
     },
     {
-      "title": "AMD Public-Salt Lake City-Associate-Software Engineering\nSalt Lake City\u00b7United States\n\u00b7Associate",
-      "url": "https://higher.gs.com/roles/165919",
-      "identifier": "AMD Public-Salt Lake City-Associate-Software Engin_s://higher.gs.com/roles/165919"
-    },
-    {
       "title": "Asset & Wealth Management-DevOps Cloud Engineer-Associate-Richardson\nRichardson\u00b7United States\n\u00b7Associate",
       "url": "https://higher.gs.com/roles/159167",
       "identifier": "Asset & Wealth Management-DevOps Cloud Engineer-As_s://higher.gs.com/roles/159167"
@@ -102,8 +97,13 @@
       "title": "Asset & Wealth Management - Software Engineer - Associate - Salt Lake City\nSalt Lake City\u00b7United States\n\u00b7Associate",
       "url": "https://higher.gs.com/roles/159035",
       "identifier": "Asset & Wealth Management - Software Engineer - As_s://higher.gs.com/roles/159035"
+    },
+    {
+      "title": "Asset & Wealth Management-Software Engineering-Associate-Dallas\nDallas\u00b7United States\n\u00b7Associate",
+      "url": "https://higher.gs.com/roles/165889",
+      "identifier": "Asset & Wealth Management-Software Engineering-Ass_s://higher.gs.com/roles/165889"
     }
   ],
-  "job_count_text": "39",
-  "timestamp": "2026-06-02T19:06:54.879227"
+  "job_count_text": "38",
+  "timestamp": "2026-06-02T19:23:57.531309"
 }

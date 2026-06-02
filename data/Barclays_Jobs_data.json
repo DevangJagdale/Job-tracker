@@ -4,6 +4,16 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Change Delivery Manager - VP",
+      "url": "https://search.jobs.barclays/job/whippany/change-delivery-manager-vp/13015/95917774832",
+      "identifier": "Change Delivery Manager - VP_y-manager-vp/13015/95917774832"
+    },
+    {
+      "title": "Application Support Analyst",
+      "url": "https://search.jobs.barclays/job/whippany/application-support-analyst/13015/95917774736",
+      "identifier": "Application Support Analyst_port-analyst/13015/95917774736"
+    },
+    {
       "title": "Operational Risk VP \u2013 Digital Assets",
       "url": "https://search.jobs.barclays/job/new-york/operational-risk-vp-digital-assets/13015/95888760352",
       "identifier": "Operational Risk VP \u2013 Digital Assets_gital-assets/13015/95888760352"
@@ -72,18 +82,8 @@
       "title": "Head of Customer Journey and Product Delivery",
       "url": "https://search.jobs.barclays/job/wilmington/head-of-customer-journey-and-product-delivery/13015/95647585760",
       "identifier": "Head of Customer Journey and Product Delivery_uct-delivery/13015/95647585760"
-    },
-    {
-      "title": "VP - EM Trader",
-      "url": "https://search.jobs.barclays/job/new-york/vp-em-trader/13015/95633305792",
-      "identifier": "VP - EM Trader_vp-em-trader/13015/95633305792"
-    },
-    {
-      "title": "Audit Director - AI Assurance",
-      "url": "https://search.jobs.barclays/job/new-york/audit-director-ai-assurance/13015/95633305680",
-      "identifier": "Audit Director - AI Assurance_ai-assurance/13015/95633305680"
     }
   ],
-  "job_count_text": "134",
-  "timestamp": "2026-06-02T23:31:34.696569"
+  "job_count_text": "135",
+  "timestamp": "2026-06-02T23:48:41.427546"
 }

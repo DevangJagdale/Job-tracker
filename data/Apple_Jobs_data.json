@@ -1,8 +1,13 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 18,
+  "total_jobs": 17,
   "jobs": [
+    {
+      "title": "Product Design Producer, Music & Podcasts",
+      "url": "https://jobs.apple.com/en-us/details/200666488-0670/product-design-producer-music-podcasts?team=SFTWR",
+      "identifier": "Product Design Producer, Music & Podcasts_ucer-music-podcasts?team=SFTWR"
+    },
     {
       "title": "Senior Engineering Program Manager - Apple Services Engineering, Rights & Pricing",
       "url": "https://jobs.apple.com/en-us/details/200666447-0836/senior-engineering-program-manager-apple-services-engineering-rights-pricing?team=SFTWR",
@@ -82,18 +87,8 @@
       "title": "Software Development Build Engineer, Apps Engineering",
       "url": "https://jobs.apple.com/en-us/details/200665586-0670/software-development-build-engineer-apps-engineering?team=SFTWR",
       "identifier": "Software Development Build Engineer, Apps Engineer_er-apps-engineering?team=SFTWR"
-    },
-    {
-      "title": "Machine Learning Video Codec Algorithm Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200656320-0836/machine-learning-video-codec-algorithm-engineer?team=MLAI",
-      "identifier": "Machine Learning Video Codec Algorithm Engineer_c-algorithm-engineer?team=MLAI"
-    },
-    {
-      "title": "Senior Engineering Program Manager, Find My",
-      "url": "https://jobs.apple.com/en-us/details/200630263-0836/senior-engineering-program-manager-find-my?team=SFTWR",
-      "identifier": "Senior Engineering Program Manager, Find My_ram-manager-find-my?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-06-02T23:32:07.719735"
+  "timestamp": "2026-06-02T23:49:14.682985"
 }

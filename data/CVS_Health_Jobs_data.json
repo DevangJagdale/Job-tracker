@@ -4,24 +4,14 @@
   "total_jobs": 8,
   "jobs": [
     {
-      "title": "Senior Manager - Software Engineering (Health100 Platform)",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0863062/Senior-Manager-Software-Engineering-Health100-Platform",
-      "identifier": "Senior Manager - Software Engineering (Health100 P_Engineering-Health100-Platform"
-    },
-    {
       "title": "Staff Software Development Engineer (Lead Backend - NestJs)",
       "url": "https://jobs.cvshealth.com/us/en/job/R0863219/Staff-Software-Development-Engineer-Lead-Backend-NestJs",
       "identifier": "Staff Software Development Engineer (Lead Backend _t-Engineer-Lead-Backend-NestJs"
     },
     {
-      "title": "Senior Compute Engineer (Apple Platforms and Automation)",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0878389/Senior-Compute-Engineer-Apple-Platforms-and-Automation",
-      "identifier": "Senior Compute Engineer (Apple Platforms and Autom_Apple-Platforms-and-Automation"
-    },
-    {
-      "title": "Senior Agentic AI Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0893553/Senior-Agentic-AI-Engineer",
-      "identifier": "Senior Agentic AI Engineer_553/Senior-Agentic-AI-Engineer"
+      "title": "Manager - Budget Planning and Execution",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0887200/Manager-Budget-Planning-and-Execution",
+      "identifier": "Manager - Budget Planning and Execution_-Budget-Planning-and-Execution"
     },
     {
       "title": "Senior Software Development Engineer",
@@ -34,16 +24,26 @@
       "identifier": "Software Development Engineer_/Software-Development-Engineer"
     },
     {
-      "title": "Senior Software Engineer \u2013 Developer Experience (Previews Platform)",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0915126/Senior-Software-Engineer-Developer-Experience-Previews-Platform",
-      "identifier": "Senior Software Engineer \u2013 Developer Experience (P_r-Experience-Previews-Platform"
+      "title": "Senior Compute Engineer (Apple Platforms and Automation)",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0878389/Senior-Compute-Engineer-Apple-Platforms-and-Automation",
+      "identifier": "Senior Compute Engineer (Apple Platforms and Autom_Apple-Platforms-and-Automation"
+    },
+    {
+      "title": "Senior Agentic AI Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0893553/Senior-Agentic-AI-Engineer",
+      "identifier": "Senior Agentic AI Engineer_553/Senior-Agentic-AI-Engineer"
     },
     {
       "title": "Staff Software Engineer - Java Cloud (Health100 Platform)",
       "url": "https://jobs.cvshealth.com/us/en/job/R0916388/Staff-Software-Engineer-Java-Cloud-Health100-Platform",
       "identifier": "Staff Software Engineer - Java Cloud (Health100 Pl_-Java-Cloud-Health100-Platform"
+    },
+    {
+      "title": "Senior Manager - Software Engineering (Health100 Platform)",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0863062/Senior-Manager-Software-Engineering-Health100-Platform",
+      "identifier": "Senior Manager - Software Engineering (Health100 P_Engineering-Health100-Platform"
     }
   ],
   "job_count_text": "36",
-  "timestamp": "2026-06-02T18:34:37.001717"
+  "timestamp": "2026-06-02T18:51:41.813557"
 }

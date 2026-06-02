@@ -1,8 +1,13 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 16,
+  "total_jobs": 17,
   "jobs": [
+    {
+      "title": "Software Engineering Manager, Siri AI Quality",
+      "url": "https://jobs.apple.com/en-us/details/200666119-0836/software-engineering-manager-siri-ai-quality?team=SFTWR",
+      "identifier": "Software Engineering Manager, Siri AI Quality_ger-siri-ai-quality?team=SFTWR"
+    },
     {
       "title": "Security Adoption Engineer",
       "url": "https://jobs.apple.com/en-us/details/200665938-3337/security-adoption-engineer?team=SFTWR",
@@ -85,5 +90,5 @@
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-06-02T18:33:36.988963"
+  "timestamp": "2026-06-02T18:50:39.424659"
 }

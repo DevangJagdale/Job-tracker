@@ -4,12 +4,17 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Principal Applied AI Scientist\nUnited States, Washington, Redmond\nPosted an hour ago",
+      "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted 16 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556870207?domain=microsoft.com",
+      "identifier": "Principal Software Engineer\nUnited States, Washing_556870207?domain=microsoft.com"
+    },
+    {
+      "title": "Principal Applied AI Scientist\nUnited States, Washington, Redmond\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556621350?domain=microsoft.com",
       "identifier": "Principal Applied AI Scientist\nUnited States, Wash_556621350?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 4 hours ago",
+      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 5 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556869979?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Washington_556869979?domain=microsoft.com"
     },
@@ -47,13 +52,8 @@
       "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 7 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556870497?domain=microsoft.com",
       "identifier": "Software Engineer II\nUnited States, Washington, Re_556870497?domain=microsoft.com"
-    },
-    {
-      "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted 8 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556859736?domain=microsoft.com",
-      "identifier": "Principal Software Engineer\nUnited States, Washing_556859736?domain=microsoft.com"
     }
   ],
-  "job_count_text": "428",
-  "timestamp": "2026-06-02T04:22:21.849564"
+  "job_count_text": "429",
+  "timestamp": "2026-06-02T04:39:23.054537"
 }

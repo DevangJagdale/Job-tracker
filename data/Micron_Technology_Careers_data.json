@@ -4,24 +4,19 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Engineer, SIG Equip Software Design\nBoise, Idaho, United States of America\nPosted 18 hours ago",
-      "url": "https://careers.micron.com/careers/job/42198036",
-      "identifier": "Engineer, SIG Equip Software Design\nBoise, Idaho, _icron.com/careers/job/42198036"
-    },
-    {
       "title": "Design Validation Product Engineer, DEG Technology\nBoise, Idaho, United States of America\nPosted 18 hours ago",
       "url": "https://careers.micron.com/careers/job/41121665",
       "identifier": "Design Validation Product Engineer, DEG Technology_icron.com/careers/job/41121665"
     },
     {
+      "title": "Engineer, SIG Equip Software Design\nBoise, Idaho, United States of America\nPosted 18 hours ago",
+      "url": "https://careers.micron.com/careers/job/42198036",
+      "identifier": "Engineer, SIG Equip Software Design\nBoise, Idaho, _icron.com/careers/job/42198036"
+    },
+    {
       "title": "Product Yield Enhancement (PYE) Engineer\nBoise, Idaho, United States of America\nPosted 2 days ago",
       "url": "https://careers.micron.com/careers/job/41888675",
       "identifier": "Product Yield Enhancement (PYE) Engineer\nBoise, Id_icron.com/careers/job/41888675"
-    },
-    {
-      "title": "New College Grad - Supply Chain Planner\nBoise, Idaho, United States of America\nPosted 2 days ago",
-      "url": "https://careers.micron.com/careers/job/41084880",
-      "identifier": "New College Grad - Supply Chain Planner\nBoise, Ida_icron.com/careers/job/41084880"
     },
     {
       "title": "Operational Excellence Engineer - Global Standardization\nBoise, Idaho, United States of America\nPosted 2 days ago",
@@ -52,8 +47,13 @@
       "title": "Data Scientist\nSan Jose, California, United States of America\nPosted 2 days ago",
       "url": "https://careers.micron.com/careers/job/42120652",
       "identifier": "Data Scientist\nSan Jose, California, United States_icron.com/careers/job/42120652"
+    },
+    {
+      "title": "New College Grad - Supply Chain Planner\nBoise, Idaho, United States of America\nPosted 2 days ago",
+      "url": "https://careers.micron.com/careers/job/41084880",
+      "identifier": "New College Grad - Supply Chain Planner\nBoise, Ida_icron.com/careers/job/41084880"
     }
   ],
   "job_count_text": "97",
-  "timestamp": "2026-06-02T18:02:34.576732"
+  "timestamp": "2026-06-02T18:19:42.779305"
 }

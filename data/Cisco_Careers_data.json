@@ -1,32 +1,12 @@
 {
   "page_title": "Job Openings - Cisco Careers",
   "url": "https://careers.cisco.com/global/en/search-results?s=1",
-  "total_jobs": 10,
+  "total_jobs": 7,
   "jobs": [
-    {
-      "title": "Software Engineer",
-      "url": "https://careers.cisco.com/global/en/job/2015541/Software-Engineer",
-      "identifier": "Software Engineer_/job/2015541/Software-Engineer"
-    },
     {
       "title": "Software Engineer Data/AI/Intelligent Systems I (Full Time) \u2013 United States",
       "url": "https://careers.cisco.com/global/en/job/2000073/Software-Engineer-Data-AI-Intelligent-Systems-I-Full-Time-United-States",
       "identifier": "Software Engineer Data/AI/Intelligent Systems I (F_tems-I-Full-Time-United-States"
-    },
-    {
-      "title": "Consulting Engineer",
-      "url": "https://careers.cisco.com/global/en/job/2015529/Consulting-Engineer",
-      "identifier": "Consulting Engineer_ob/2015529/Consulting-Engineer"
-    },
-    {
-      "title": "Security Consulting Engineer",
-      "url": "https://careers.cisco.com/global/en/job/2015469/Security-Consulting-Engineer",
-      "identifier": "Security Consulting Engineer_9/Security-Consulting-Engineer"
-    },
-    {
-      "title": "Software Engineer - Graduate - Sweden",
-      "url": "https://careers.cisco.com/global/en/job/2011457/Software-Engineer-Graduate-Sweden",
-      "identifier": "Software Engineer - Graduate - Sweden_tware-Engineer-Graduate-Sweden"
     },
     {
       "title": "Workday Security Administrator II (Full-Time) - United States",
@@ -34,26 +14,31 @@
       "identifier": "Workday Security Administrator II (Full-Time) - Un_tor-II-Full-Time-United-States"
     },
     {
-      "title": "Software Engineer",
-      "url": "https://careers.cisco.com/global/en/job/2006945/Software-Engineer",
-      "identifier": "Software Engineer_/job/2006945/Software-Engineer"
+      "title": "Software Development Engineer II (Full Time) \u2013 United States",
+      "url": "https://careers.cisco.com/global/en/job/2014387/Software-Development-Engineer-II-Full-Time-United-States",
+      "identifier": "Software Development Engineer II (Full Time) \u2013 Uni_eer-II-Full-Time-United-States"
     },
     {
-      "title": "Technical Marketing Engineer",
-      "url": "https://careers.cisco.com/global/en/job/2011421/Technical-Marketing-Engineer",
-      "identifier": "Technical Marketing Engineer_1/Technical-Marketing-Engineer"
+      "title": "Account Development Representative II (Full Time) United States",
+      "url": "https://careers.cisco.com/global/en/job/2001887/Account-Development-Representative-II-Full-Time-United-States",
+      "identifier": "Account Development Representative II (Full Time) _ive-II-Full-Time-United-States"
     },
     {
-      "title": "Software Engineer",
-      "url": "https://careers.cisco.com/global/en/job/2015027/Software-Engineer",
-      "identifier": "Software Engineer_/job/2015027/Software-Engineer"
+      "title": "Sales Development Representative Outbound Sales II (Full Time) - United States",
+      "url": "https://careers.cisco.com/global/en/job/2003091/Sales-Development-Representative-Outbound-Sales-II-Full-Time-United-States",
+      "identifier": "Sales Development Representative Outbound Sales II_les-II-Full-Time-United-States"
     },
     {
-      "title": "Consulting Engineer | CX SP Migration",
-      "url": "https://careers.cisco.com/global/en/job/2016184/Consulting-Engineer-CX-SP-Migration",
-      "identifier": "Consulting Engineer | CX SP Migration_lting-Engineer-CX-SP-Migration"
+      "title": "Sales Development Representative I (Full Time) - United States (Virtual Demand Center)",
+      "url": "https://careers.cisco.com/global/en/job/2005272/Sales-Development-Representative-I-Full-Time-United-States-Virtual-Demand-Center",
+      "identifier": "Sales Development Representative I (Full Time) - U_d-States-Virtual-Demand-Center"
+    },
+    {
+      "title": "Sales Development Representative II (Full Time) United States (Virtual Demand Center) - United States",
+      "url": "https://careers.cisco.com/global/en/job/2008662/Sales-Development-Representative-II-Full-Time-United-States-Virtual-Demand-Center-United-States",
+      "identifier": "Sales Development Representative II (Full Time) Un_al-Demand-Center-United-States"
     }
   ],
-  "job_count_text": "47",
-  "timestamp": "2026-06-02T15:44:23.680063"
+  "job_count_text": "7",
+  "timestamp": "2026-06-02T16:01:30.108914"
 }

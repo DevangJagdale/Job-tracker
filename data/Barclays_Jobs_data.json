@@ -4,6 +4,16 @@
   "total_jobs": 14,
   "jobs": [
     {
+      "title": "Senior Test Automation Engineer VP - Digital Assets",
+      "url": "https://search.jobs.barclays/job/whippany/senior-test-automation-engineer-vp-digital-assets/13015/95948097392",
+      "identifier": "Senior Test Automation Engineer VP - Digital Asset_gital-assets/13015/95948097392"
+    },
+    {
+      "title": "Senior Engineer VP - Digital Assets",
+      "url": "https://search.jobs.barclays/job/whippany/senior-engineer-vp-digital-assets/13015/95948097264",
+      "identifier": "Senior Engineer VP - Digital Assets_gital-assets/13015/95948097264"
+    },
+    {
       "title": "Investment Bank Power Group, Associate",
       "url": "https://search.jobs.barclays/job/new-york/investment-bank-power-group-associate/13015/95948096096",
       "identifier": "Investment Bank Power Group, Associate_up-associate/13015/95948096096"
@@ -62,18 +72,8 @@
       "title": "US Content Client Strategy",
       "url": "https://search.jobs.barclays/job/new-york/us-content-client-strategy/13015/95721258448",
       "identifier": "US Content Client Strategy_ent-strategy/13015/95721258448"
-    },
-    {
-      "title": "Private Cloud Engineer",
-      "url": "https://search.jobs.barclays/job/whippany/private-cloud-engineer/13015/95689361312",
-      "identifier": "Private Cloud Engineer_oud-engineer/13015/95689361312"
-    },
-    {
-      "title": "Fixed Income Corporate Access Coordinator",
-      "url": "https://search.jobs.barclays/job/new-york/fixed-income-corporate-access-coordinator/13015/95689355584",
-      "identifier": "Fixed Income Corporate Access Coordinator_-coordinator/13015/95689355584"
     }
   ],
-  "job_count_text": "142",
-  "timestamp": "2026-06-03T23:14:49.352712"
+  "job_count_text": "148",
+  "timestamp": "2026-06-03T23:31:23.779450"
 }

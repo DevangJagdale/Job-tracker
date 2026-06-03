@@ -4,21 +4,6 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Design Validation Product Engineer, DEG Technology\nBoise, Idaho, United States of America\nPosted a day ago",
-      "url": "https://careers.micron.com/careers/job/41121665",
-      "identifier": "Design Validation Product Engineer, DEG Technology_icron.com/careers/job/41121665"
-    },
-    {
-      "title": "Supply Management Analyst\nBoise, Idaho, United States of America\nPosted a day ago",
-      "url": "https://careers.micron.com/careers/job/41482847",
-      "identifier": "Supply Management Analyst\nBoise, Idaho, United Sta_icron.com/careers/job/41482847"
-    },
-    {
-      "title": "TPG Workforce Development AI Workflow Integration Specialist\nBoise, Idaho, United States of America\nPosted a day ago",
-      "url": "https://careers.micron.com/careers/job/42120327",
-      "identifier": "TPG Workforce Development AI Workflow Integration _icron.com/careers/job/42120327"
-    },
-    {
       "title": "New College Grad - Photolithography Process Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/41923169",
       "identifier": "New College Grad - Photolithography Process Engine_icron.com/careers/job/41923169"
@@ -44,6 +29,21 @@
       "identifier": "Supply Management Analyst\nManassas, Virginia, Unit_icron.com/careers/job/41926344"
     },
     {
+      "title": "Design Validation Product Engineer, DEG Technology\nBoise, Idaho, United States of America\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/41121665",
+      "identifier": "Design Validation Product Engineer, DEG Technology_icron.com/careers/job/41121665"
+    },
+    {
+      "title": "Supply Management Analyst\nBoise, Idaho, United States of America\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/41482847",
+      "identifier": "Supply Management Analyst\nBoise, Idaho, United Sta_icron.com/careers/job/41482847"
+    },
+    {
+      "title": "TPG Workforce Development AI Workflow Integration Specialist\nBoise, Idaho, United States of America\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/42120327",
+      "identifier": "TPG Workforce Development AI Workflow Integration _icron.com/careers/job/42120327"
+    },
+    {
       "title": "Data Scientist\nSan Jose, California, United States of America\nPosted 2 days ago",
       "url": "https://careers.micron.com/careers/job/42120652",
       "identifier": "Data Scientist\nSan Jose, California, United States_icron.com/careers/job/42120652"
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "94",
-  "timestamp": "2026-06-03T06:49:04.278002"
+  "timestamp": "2026-06-03T07:06:13.000596"
 }

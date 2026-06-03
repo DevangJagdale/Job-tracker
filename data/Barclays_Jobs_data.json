@@ -1,8 +1,18 @@
 {
   "page_title": "Search our Job Opportunities at Barclays",
   "url": "https://search.jobs.barclays/search-jobs/United%20States/13015/2/6252001/39x76/-98x5/50/2",
-  "total_jobs": 16,
+  "total_jobs": 14,
   "jobs": [
+    {
+      "title": "Investment Bank Power Group, Associate",
+      "url": "https://search.jobs.barclays/job/new-york/investment-bank-power-group-associate/13015/95948096096",
+      "identifier": "Investment Bank Power Group, Associate_up-associate/13015/95948096096"
+    },
+    {
+      "title": "Change Delivery Manager",
+      "url": "https://search.jobs.barclays/job/whippany/change-delivery-manager/13015/95948079360",
+      "identifier": "Change Delivery Manager_very-manager/13015/95948079360"
+    },
     {
       "title": "Change Delivery Manager - VP",
       "url": "https://search.jobs.barclays/job/whippany/change-delivery-manager-vp/13015/95917774832",
@@ -62,28 +72,8 @@
       "title": "Fixed Income Corporate Access Coordinator",
       "url": "https://search.jobs.barclays/job/new-york/fixed-income-corporate-access-coordinator/13015/95689355584",
       "identifier": "Fixed Income Corporate Access Coordinator_-coordinator/13015/95689355584"
-    },
-    {
-      "title": "Quantitative Analyst/Developer, Vice President",
-      "url": "https://search.jobs.barclays/job/new-york/quantitative-analyst-developer-vice-president/13015/95689352240",
-      "identifier": "Quantitative Analyst/Developer, Vice President_ce-president/13015/95689352240"
-    },
-    {
-      "title": "Assistant VP, Loan Fraud Risk Lead",
-      "url": "https://search.jobs.barclays/job/wilmington/assistant-vp-loan-fraud-risk-lead/13015/95675826352",
-      "identifier": "Assistant VP, Loan Fraud Risk Lead_ud-risk-lead/13015/95675826352"
-    },
-    {
-      "title": "Head of Customer Journey and Product Delivery",
-      "url": "https://search.jobs.barclays/job/wilmington/head-of-customer-journey-and-product-delivery/13015/95647585760",
-      "identifier": "Head of Customer Journey and Product Delivery_uct-delivery/13015/95647585760"
-    },
-    {
-      "title": "VP - EM Trader",
-      "url": "https://search.jobs.barclays/job/new-york/vp-em-trader/13015/95633305792",
-      "identifier": "VP - EM Trader_vp-em-trader/13015/95633305792"
     }
   ],
-  "job_count_text": "134",
-  "timestamp": "2026-06-03T17:33:47.239928"
+  "job_count_text": "142",
+  "timestamp": "2026-06-03T17:50:51.425069"
 }

@@ -4,6 +4,11 @@
   "total_jobs": 18,
   "jobs": [
     {
+      "title": "Senior iOS Engineer, Apple Games",
+      "url": "https://jobs.apple.com/en-us/details/200664311-0836/senior-ios-engineer-apple-games?team=SFTWR",
+      "identifier": "Senior iOS Engineer, Apple Games_ngineer-apple-games?team=SFTWR"
+    },
+    {
       "title": "Front End SW Engineer - iOS / Web - iCloud",
       "url": "https://jobs.apple.com/en-us/details/200665913-3543/front-end-sw-engineer-ios-web-icloud?team=SFTWR",
       "identifier": "Front End SW Engineer - iOS / Web - iCloud_neer-ios-web-icloud?team=SFTWR"
@@ -87,13 +92,8 @@
       "title": "QA Engineer",
       "url": "https://jobs.apple.com/en-us/details/200666399-0836/qa-engineer?team=SFTWR",
       "identifier": "QA Engineer_99-0836/qa-engineer?team=SFTWR"
-    },
-    {
-      "title": "Software Engineering Manager, Siri AI Quality",
-      "url": "https://jobs.apple.com/en-us/details/200666119-0836/software-engineering-manager-siri-ai-quality?team=SFTWR",
-      "identifier": "Software Engineering Manager, Siri AI Quality_ger-siri-ai-quality?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-06-03T17:34:19.701697"
+  "timestamp": "2026-06-03T17:51:24.423606"
 }

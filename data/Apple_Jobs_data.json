@@ -4,6 +4,11 @@
   "total_jobs": 17,
   "jobs": [
     {
+      "title": "Automation and Triage Engineer, Siri",
+      "url": "https://jobs.apple.com/en-us/details/200665456-0836/automation-and-triage-engineer-siri?team=SFTWR",
+      "identifier": "Automation and Triage Engineer, Siri_riage-engineer-siri?team=SFTWR"
+    },
+    {
       "title": "AirPlay Engineering Investigations Lead",
       "url": "https://jobs.apple.com/en-us/details/200660710-3543/airplay-engineering-investigations-lead?team=SFTWR",
       "identifier": "AirPlay Engineering Investigations Lead_investigations-lead?team=SFTWR"
@@ -82,13 +87,8 @@
       "title": "Senior Product Manager \u2013 Client Platform for Commerce and Messaging",
       "url": "https://jobs.apple.com/en-us/details/200666473-0836/senior-product-manager-client-platform-for-commerce-and-messaging?team=SFTWR",
       "identifier": "Senior Product Manager \u2013 Client Platform for Comme_merce-and-messaging?team=SFTWR"
-    },
-    {
-      "title": "Senior iOS Engineer, Apple Games",
-      "url": "https://jobs.apple.com/en-us/details/200664311-0836/senior-ios-engineer-apple-games?team=SFTWR",
-      "identifier": "Senior iOS Engineer, Apple Games_ngineer-apple-games?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-06-03T21:52:20.928304"
+  "timestamp": "2026-06-03T22:08:55.515708"
 }

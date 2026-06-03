@@ -4,14 +4,14 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Supply Management Analyst\nBoise, Idaho, United States of America\nPosted 20 hours ago",
-      "url": "https://careers.micron.com/careers/job/41482847",
-      "identifier": "Supply Management Analyst\nBoise, Idaho, United Sta_icron.com/careers/job/41482847"
-    },
-    {
       "title": "Semiconductor Process Engineer, Metrology\nBoise, Idaho, United States of America\nPosted 20 hours ago",
       "url": "https://careers.micron.com/careers/job/39196650",
       "identifier": "Semiconductor Process Engineer, Metrology\nBoise, I_icron.com/careers/job/39196650"
+    },
+    {
+      "title": "Supply Management Analyst\nBoise, Idaho, United States of America\nPosted 20 hours ago",
+      "url": "https://careers.micron.com/careers/job/41482847",
+      "identifier": "Supply Management Analyst\nBoise, Idaho, United Sta_icron.com/careers/job/41482847"
     },
     {
       "title": "New College Grad - Process Integration Engineer\nBoise, Idaho, United States of America\nPosted 2 days ago",
@@ -49,11 +49,11 @@
       "identifier": "TPG Workforce Development AI Workflow Integration _icron.com/careers/job/42120327"
     },
     {
-      "title": "Data Scientist\nSan Jose, California, United States of America\nPosted 3 days ago",
-      "url": "https://careers.micron.com/careers/job/42120652",
-      "identifier": "Data Scientist\nSan Jose, California, United States_icron.com/careers/job/42120652"
+      "title": "Product Yield Enhancement (PYE) Engineer\nBoise, Idaho, United States of America\nPosted 3 days ago",
+      "url": "https://careers.micron.com/careers/job/41888675",
+      "identifier": "Product Yield Enhancement (PYE) Engineer\nBoise, Id_icron.com/careers/job/41888675"
     }
   ],
   "job_count_text": "95",
-  "timestamp": "2026-06-03T19:58:51.534090"
+  "timestamp": "2026-06-03T20:15:28.697198"
 }

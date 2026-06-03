@@ -4,14 +4,14 @@
   "total_jobs": 8,
   "jobs": [
     {
-      "title": "Executive Director, Engineering - AI Automation",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0849706/Executive-Director-Engineering-AI-Automation",
-      "identifier": "Executive Director, Engineering - AI Automation_ctor-Engineering-AI-Automation"
-    },
-    {
       "title": "Manager - Business Analysis (IC)",
       "url": "https://jobs.cvshealth.com/us/en/job/R0880802/Manager-Business-Analysis-IC",
       "identifier": "Manager - Business Analysis (IC)_2/Manager-Business-Analysis-IC"
+    },
+    {
+      "title": "Senior Engineering Manager",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0903493/Senior-Engineering-Manager",
+      "identifier": "Senior Engineering Manager_493/Senior-Engineering-Manager"
     },
     {
       "title": "Mac Support Technician - Onsite | Hartford, CT",
@@ -24,14 +24,9 @@
       "identifier": "Software Development Engineer_/Software-Development-Engineer"
     },
     {
-      "title": "Senior Engineering Manager",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0903493/Senior-Engineering-Manager",
-      "identifier": "Senior Engineering Manager_493/Senior-Engineering-Manager"
-    },
-    {
-      "title": "Technical Support Representative",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0920656/Technical-Support-Representative",
-      "identifier": "Technical Support Representative_chnical-Support-Representative"
+      "title": "Executive Director, Engineering - AI Automation",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0849706/Executive-Director-Engineering-AI-Automation",
+      "identifier": "Executive Director, Engineering - AI Automation_ctor-Engineering-AI-Automation"
     },
     {
       "title": "Staff Software Development Engineer",
@@ -39,11 +34,16 @@
       "identifier": "Staff Software Development Engineer_-Software-Development-Engineer"
     },
     {
+      "title": "Technical Support Representative",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0920656/Technical-Support-Representative",
+      "identifier": "Technical Support Representative_chnical-Support-Representative"
+    },
+    {
       "title": "Epic Senior Access Analyst - Prelude & Referrals",
       "url": "https://jobs.cvshealth.com/us/en/job/R0930290/Epic-Senior-Access-Analyst-Prelude-Referrals",
       "identifier": "Epic Senior Access Analyst - Prelude & Referrals_cess-Analyst-Prelude-Referrals"
     }
   ],
-  "job_count_text": "34",
-  "timestamp": "2026-06-03T17:18:16.365871"
+  "job_count_text": "36",
+  "timestamp": "2026-06-03T17:35:20.724601"
 }

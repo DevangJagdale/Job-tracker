@@ -4,14 +4,14 @@
   "total_jobs": 8,
   "jobs": [
     {
-      "title": "Network Systems Engineer I (Full Time) - United States",
-      "url": "https://careers.cisco.com/global/en/job/2015726/Network-Systems-Engineer-I-Full-Time-United-States",
-      "identifier": "Network Systems Engineer I (Full Time) - United St_neer-I-Full-Time-United-States"
-    },
-    {
       "title": "Software Engineer Data/AI/Intelligent Systems I (Full Time) \u2013 United States",
       "url": "https://careers.cisco.com/global/en/job/2000073/Software-Engineer-Data-AI-Intelligent-Systems-I-Full-Time-United-States",
       "identifier": "Software Engineer Data/AI/Intelligent Systems I (F_tems-I-Full-Time-United-States"
+    },
+    {
+      "title": "Network Systems Engineer I (Full Time) - United States",
+      "url": "https://careers.cisco.com/global/en/job/2015726/Network-Systems-Engineer-I-Full-Time-United-States",
+      "identifier": "Network Systems Engineer I (Full Time) - United St_neer-I-Full-Time-United-States"
     },
     {
       "title": "Workday Security Administrator II (Full-Time) - United States",
@@ -45,5 +45,5 @@
     }
   ],
   "job_count_text": "8",
-  "timestamp": "2026-06-03T06:30:42.272128"
+  "timestamp": "2026-06-03T06:47:39.868212"
 }

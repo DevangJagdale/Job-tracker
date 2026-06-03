@@ -59,11 +59,6 @@
       "identifier": "Machine Learning Engineer, Proactive_g-engineer-proactive?team=MLAI"
     },
     {
-      "title": "Software Engineer - Customer Systems, Information Systems & Technology (IS&T)",
-      "url": "https://jobs.apple.com/en-us/details/200663125-3956/software-engineer-customer-systems-information-systems-technology-is-t?team=SFTWR",
-      "identifier": "Software Engineer - Customer Systems, Information _ems-technology-is-t?team=SFTWR"
-    },
-    {
       "title": "AI Software Engineer, Siri User Experiences",
       "url": "https://jobs.apple.com/en-us/details/200666380-0836/ai-software-engineer-siri-user-experiences?team=SFTWR",
       "identifier": "AI Software Engineer, Siri User Experiences_ri-user-experiences?team=SFTWR"
@@ -87,8 +82,13 @@
       "title": "Software Build Engineer",
       "url": "https://jobs.apple.com/en-us/details/200666251-3543/software-build-engineer?team=SFTWR",
       "identifier": "Software Build Engineer_ware-build-engineer?team=SFTWR"
+    },
+    {
+      "title": "Build Security Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200666261-0157/build-security-engineer?team=SFTWR",
+      "identifier": "Build Security Engineer_d-security-engineer?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-06-03T18:32:51.766853"
+  "timestamp": "2026-06-03T18:49:40.756287"
 }

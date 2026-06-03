@@ -4,19 +4,14 @@
   "total_jobs": 7,
   "jobs": [
     {
-      "title": "Staff Software Engineer - Java Cloud (Health100 Platform)",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0916388/Staff-Software-Engineer-Java-Cloud-Health100-Platform",
-      "identifier": "Staff Software Engineer - Java Cloud (Health100 Pl_-Java-Cloud-Health100-Platform"
-    },
-    {
       "title": "Manager - Budget Planning and Execution",
       "url": "https://jobs.cvshealth.com/us/en/job/R0887200/Manager-Budget-Planning-and-Execution",
       "identifier": "Manager - Budget Planning and Execution_-Budget-Planning-and-Execution"
     },
     {
-      "title": "Senior Manager - Software Engineering (Health100 Platform)",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0863062/Senior-Manager-Software-Engineering-Health100-Platform",
-      "identifier": "Senior Manager - Software Engineering (Health100 P_Engineering-Health100-Platform"
+      "title": "Senior Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0891790/Senior-Software-Development-Engineer",
+      "identifier": "Senior Software Development Engineer_-Software-Development-Engineer"
     },
     {
       "title": "Senior Compute Engineer (Apple Platforms and Automation)",
@@ -29,9 +24,14 @@
       "identifier": "Senior Agentic AI Engineer_553/Senior-Agentic-AI-Engineer"
     },
     {
-      "title": "Senior Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0891790/Senior-Software-Development-Engineer",
-      "identifier": "Senior Software Development Engineer_-Software-Development-Engineer"
+      "title": "Staff Software Engineer - Java Cloud (Health100 Platform)",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0916388/Staff-Software-Engineer-Java-Cloud-Health100-Platform",
+      "identifier": "Staff Software Engineer - Java Cloud (Health100 Pl_-Java-Cloud-Health100-Platform"
+    },
+    {
+      "title": "Senior Manager - Software Engineering (Health100 Platform)",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0863062/Senior-Manager-Software-Engineering-Health100-Platform",
+      "identifier": "Senior Manager - Software Engineering (Health100 P_Engineering-Health100-Platform"
     },
     {
       "title": "Manager - Scrum Master",
@@ -40,5 +40,5 @@
     }
   ],
   "job_count_text": "41",
-  "timestamp": "2026-06-03T02:48:35.343226"
+  "timestamp": "2026-06-03T03:05:35.525218"
 }

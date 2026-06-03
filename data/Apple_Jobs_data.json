@@ -4,6 +4,11 @@
   "total_jobs": 17,
   "jobs": [
     {
+      "title": "iOS Location Engineer, Sensing & Connectivity",
+      "url": "https://jobs.apple.com/en-us/details/200666514-0836/ios-location-engineer-sensing-connectivity?team=SFTWR",
+      "identifier": "iOS Location Engineer, Sensing & Connectivity_ensing-connectivity?team=SFTWR"
+    },
+    {
       "title": "Software Engineer, G&A Solutions Engineering (GSE)",
       "url": "https://jobs.apple.com/en-us/details/200666196-0157/software-engineer-g-a-solutions-engineering-gse?team=SFTWR",
       "identifier": "Software Engineer, G&A Solutions Engineering (GSE)_ons-engineering-gse?team=SFTWR"
@@ -82,13 +87,8 @@
       "title": "Machine Learning Engineer, Proactive",
       "url": "https://jobs.apple.com/en-us/details/200622577-0836/machine-learning-engineer-proactive?team=MLAI",
       "identifier": "Machine Learning Engineer, Proactive_g-engineer-proactive?team=MLAI"
-    },
-    {
-      "title": "AI Software Engineer, Siri User Experiences",
-      "url": "https://jobs.apple.com/en-us/details/200666380-0836/ai-software-engineer-siri-user-experiences?team=SFTWR",
-      "identifier": "AI Software Engineer, Siri User Experiences_ri-user-experiences?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-06-03T20:29:16.066640"
+  "timestamp": "2026-06-03T20:45:48.791590"
 }

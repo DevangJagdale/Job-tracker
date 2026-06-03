@@ -14,11 +14,6 @@
       "identifier": "Manager - Budget Planning and Execution_-Budget-Planning-and-Execution"
     },
     {
-      "title": "Manager - Scrum Master",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0918501/Manager-Scrum-Master",
-      "identifier": "Manager - Scrum Master_/R0918501/Manager-Scrum-Master"
-    },
-    {
       "title": "Principal Software Development Engineer",
       "url": "https://jobs.cvshealth.com/us/en/job/R0762980/Principal-Software-Development-Engineer",
       "identifier": "Principal Software Development Engineer_-Software-Development-Engineer"
@@ -42,8 +37,13 @@
       "title": "Manager, Underwriting Model Product Support",
       "url": "https://jobs.cvshealth.com/us/en/job/R0921147/Manager-Underwriting-Model-Product-Support",
       "identifier": "Manager, Underwriting Model Product Support_rwriting-Model-Product-Support"
+    },
+    {
+      "title": "Staff Quality Engineer - Prior Authorization",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0923589/Staff-Quality-Engineer-Prior-Authorization",
+      "identifier": "Staff Quality Engineer - Prior Authorization_y-Engineer-Prior-Authorization"
     }
   ],
-  "job_count_text": "26",
-  "timestamp": "2026-06-03T13:18:52.902905"
+  "job_count_text": "25",
+  "timestamp": "2026-06-03T13:35:56.487849"
 }

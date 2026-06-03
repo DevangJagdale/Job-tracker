@@ -4,6 +4,11 @@
   "total_jobs": 17,
   "jobs": [
     {
+      "title": "AirPlay Engineering Investigations Lead",
+      "url": "https://jobs.apple.com/en-us/details/200660710-3543/airplay-engineering-investigations-lead?team=SFTWR",
+      "identifier": "AirPlay Engineering Investigations Lead_investigations-lead?team=SFTWR"
+    },
+    {
       "title": "Machine Learning Systems Engineer, Siri Agent Modeling",
       "url": "https://jobs.apple.com/en-us/details/200620661-0836/machine-learning-systems-engineer-siri-agent-modeling?team=SFTWR",
       "identifier": "Machine Learning Systems Engineer, Siri Agent Mode_siri-agent-modeling?team=SFTWR"
@@ -82,13 +87,8 @@
       "title": "Senior iOS Engineer, Apple Games",
       "url": "https://jobs.apple.com/en-us/details/200664311-0836/senior-ios-engineer-apple-games?team=SFTWR",
       "identifier": "Senior iOS Engineer, Apple Games_ngineer-apple-games?team=SFTWR"
-    },
-    {
-      "title": "Front End SW Engineer - iOS / Web - iCloud",
-      "url": "https://jobs.apple.com/en-us/details/200665913-3543/front-end-sw-engineer-ios-web-icloud?team=SFTWR",
-      "identifier": "Front End SW Engineer - iOS / Web - iCloud_neer-ios-web-icloud?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-06-03T21:18:59.196054"
+  "timestamp": "2026-06-03T21:35:45.054070"
 }

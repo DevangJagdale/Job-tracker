@@ -4,6 +4,11 @@
   "total_jobs": 18,
   "jobs": [
     {
+      "title": "Software Engineer - Customer Systems, Information Systems & Technology (IS&T)",
+      "url": "https://jobs.apple.com/en-us/details/200663125-3956/software-engineer-customer-systems-information-systems-technology-is-t?team=SFTWR",
+      "identifier": "Software Engineer - Customer Systems, Information _ems-technology-is-t?team=SFTWR"
+    },
+    {
       "title": "AI Software Engineer, Siri User Experiences",
       "url": "https://jobs.apple.com/en-us/details/200666380-0836/ai-software-engineer-siri-user-experiences?team=SFTWR",
       "identifier": "AI Software Engineer, Siri User Experiences_ri-user-experiences?team=SFTWR"
@@ -87,13 +92,8 @@
       "title": "Software Tools and Automation Engineer - Apple Services Engineering",
       "url": "https://jobs.apple.com/en-us/details/200666145-3337/software-tools-and-automation-engineer-apple-services-engineering?team=SFTWR",
       "identifier": "Software Tools and Automation Engineer - Apple Ser_ervices-engineering?team=SFTWR"
-    },
-    {
-      "title": "Software Development Build Engineer, Apps Engineering",
-      "url": "https://jobs.apple.com/en-us/details/200665586-0670/software-development-build-engineer-apps-engineering?team=SFTWR",
-      "identifier": "Software Development Build Engineer, Apps Engineer_er-apps-engineering?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-06-03T15:34:44.532746"
+  "timestamp": "2026-06-03T15:51:46.630980"
 }

@@ -9,6 +9,11 @@
       "identifier": "Full-time roles for graduates_tudent-programs/jobs-for-grads"
     },
     {
+      "title": "Software Development Engineer, AWS Data Services - 2026 (US)",
+      "url": "https://www.amazon.jobs/jobs/10414316",
+      "identifier": "Software Development Engineer, AWS Data Services -_/www.amazon.jobs/jobs/10414316"
+    },
+    {
       "title": "Software Development Engineer \u2013 Amazon Leo (US)",
       "url": "https://www.amazon.jobs/jobs/3144341",
       "identifier": "Software Development Engineer \u2013 Amazon Leo (US)_//www.amazon.jobs/jobs/3144341"
@@ -22,11 +27,6 @@
       "title": "Security Engineer \u2013 2026 (US)",
       "url": "https://www.amazon.jobs/jobs/10421053",
       "identifier": "Security Engineer \u2013 2026 (US)_/www.amazon.jobs/jobs/10421053"
-    },
-    {
-      "title": "Software Development Engineer, AWS Data Services - 2026 (US)",
-      "url": "https://www.amazon.jobs/jobs/10414316",
-      "identifier": "Software Development Engineer, AWS Data Services -_/www.amazon.jobs/jobs/10414316"
     },
     {
       "title": "Software Development Engineer - 2026 (US)",
@@ -60,5 +60,5 @@
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-06-03T20:16:54.782461"
+  "timestamp": "2026-06-03T20:33:26.403943"
 }

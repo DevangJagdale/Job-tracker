@@ -1,7 +1,7 @@
 {
   "page_title": "Salesforce Jobs | Salesforce Careers",
   "url": "https://careers.salesforce.com/en/jobs/?search=&country=United+States+of+America&team=Data&team=Enterprise+Technology+%26+Infrastructure&team=Software+Engineering&jobtype=New+Grads&pagesize=20#results",
-  "total_jobs": 2,
+  "total_jobs": 3,
   "jobs": [
     {
       "title": "DevOps Engineering AMTS",
@@ -12,8 +12,13 @@
       "title": "AI Builder, Emerging Talent",
       "url": "https://careers.salesforce.com/en/jobs/jr341276/ai-builder-emerging-talent/",
       "identifier": "AI Builder, Emerging Talent_76/ai-builder-emerging-talent/"
+    },
+    {
+      "title": "Software Engineering AMTS (College Grad)",
+      "url": "https://careers.salesforce.com/en/jobs/jr330400/software-engineering-amts-college-grad/",
+      "identifier": "Software Engineering AMTS (College Grad)_engineering-amts-college-grad/"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-06-03T20:15:44.395452"
+  "timestamp": "2026-06-03T20:32:15.322594"
 }

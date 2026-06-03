@@ -4,6 +4,11 @@
   "total_jobs": 17,
   "jobs": [
     {
+      "title": "Software Engineer, Safari Extensions",
+      "url": "https://jobs.apple.com/en-us/details/200582815-3543/software-engineer-safari-extensions?team=SFTWR",
+      "identifier": "Software Engineer, Safari Extensions_r-safari-extensions?team=SFTWR"
+    },
+    {
       "title": "Automation and Triage Engineer, Siri",
       "url": "https://jobs.apple.com/en-us/details/200665456-0836/automation-and-triage-engineer-siri?team=SFTWR",
       "identifier": "Automation and Triage Engineer, Siri_riage-engineer-siri?team=SFTWR"
@@ -82,13 +87,8 @@
       "title": "Core Audio System Software Engineer",
       "url": "https://jobs.apple.com/en-us/details/200666534-0836/core-audio-system-software-engineer?team=SFTWR",
       "identifier": "Core Audio System Software Engineer_m-software-engineer?team=SFTWR"
-    },
-    {
-      "title": "Senior Product Manager \u2013 Client Platform for Commerce and Messaging",
-      "url": "https://jobs.apple.com/en-us/details/200666473-0836/senior-product-manager-client-platform-for-commerce-and-messaging?team=SFTWR",
-      "identifier": "Senior Product Manager \u2013 Client Platform for Comme_merce-and-messaging?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-06-03T22:25:30.656147"
+  "timestamp": "2026-06-03T22:42:05.218582"
 }

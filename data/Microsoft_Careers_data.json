@@ -4,12 +4,17 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Sr. Software Engineer - CTJ - Poly\nUnited States, Washington, Redmond + 1 more\nPosted 16 hours ago",
+      "title": "Software Engineer II - Exposure Management, Security\nUnited States, Washington, Redmond\nPosted 8 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556868143?domain=microsoft.com",
+      "identifier": "Software Engineer II - Exposure Management, Securi_556868143?domain=microsoft.com"
+    },
+    {
+      "title": "Sr. Software Engineer - CTJ - Poly\nUnited States, Washington, Redmond + 1 more\nPosted 17 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556866169?domain=microsoft.com",
       "identifier": "Sr. Software Engineer - CTJ - Poly\nUnited States, _556866169?domain=microsoft.com"
     },
     {
-      "title": "Software Engineer II - CTJ - Poly\nUnited States, Virginia, Reston + 1 more\nPosted 16 hours ago",
+      "title": "Software Engineer II - CTJ - Poly\nUnited States, Virginia, Reston + 1 more\nPosted 17 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556863430?domain=microsoft.com",
       "identifier": "Software Engineer II - CTJ - Poly\nUnited States, V_556863430?domain=microsoft.com"
     },
@@ -47,13 +52,8 @@
       "title": "Data Scientist - Pricing\nUnited States, Washington, Redmond + 3 more\nPosted 20 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556872454?domain=microsoft.com",
       "identifier": "Data Scientist - Pricing\nUnited States, Washington_556872454?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Software Engineer/ Principal Software Engineer - Copilot CLI\nUnited States, Washington, Redmond\nPosted 21 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556872425?domain=microsoft.com",
-      "identifier": "Senior Software Engineer/ Principal Software Engin_556872425?domain=microsoft.com"
     }
   ],
-  "job_count_text": "409",
-  "timestamp": "2026-06-03T15:00:08.180874"
+  "job_count_text": "410",
+  "timestamp": "2026-06-03T15:17:19.653894"
 }

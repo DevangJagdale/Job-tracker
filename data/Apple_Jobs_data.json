@@ -1,8 +1,23 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 16,
+  "total_jobs": 17,
   "jobs": [
+    {
+      "title": "Software Engineer, G&A Solutions Engineering (GSE)",
+      "url": "https://jobs.apple.com/en-us/details/200666196-0157/software-engineer-g-a-solutions-engineering-gse?team=SFTWR",
+      "identifier": "Software Engineer, G&A Solutions Engineering (GSE)_ons-engineering-gse?team=SFTWR"
+    },
+    {
+      "title": "ML Software Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200666649-3337/ml-software-engineer?team=MLAI",
+      "identifier": "ML Software Engineer_ml-software-engineer?team=MLAI"
+    },
+    {
+      "title": "Platform Supply Planner, Cloud Infrastructure Business Operations",
+      "url": "https://jobs.apple.com/en-us/details/200665635-0157/platform-supply-planner-cloud-infrastructure-business-operations?team=SFTWR",
+      "identifier": "Platform Supply Planner, Cloud Infrastructure Busi_business-operations?team=SFTWR"
+    },
     {
       "title": "Change Manager, AIML Data Operations",
       "url": "https://jobs.apple.com/en-us/details/200662439-0157/change-manager-aiml-data-operations?team=SFTWR",
@@ -72,18 +87,8 @@
       "title": "AI Software Engineer, Siri User Experiences",
       "url": "https://jobs.apple.com/en-us/details/200666380-0836/ai-software-engineer-siri-user-experiences?team=SFTWR",
       "identifier": "AI Software Engineer, Siri User Experiences_ri-user-experiences?team=SFTWR"
-    },
-    {
-      "title": "Product Design Producer, Music & Podcasts",
-      "url": "https://jobs.apple.com/en-us/details/200666488-0670/product-design-producer-music-podcasts?team=SFTWR",
-      "identifier": "Product Design Producer, Music & Podcasts_ucer-music-podcasts?team=SFTWR"
-    },
-    {
-      "title": "Senior Engineering Program Manager - Apple Services Engineering, Rights & Pricing",
-      "url": "https://jobs.apple.com/en-us/details/200666447-0836/senior-engineering-program-manager-apple-services-engineering-rights-pricing?team=SFTWR",
-      "identifier": "Senior Engineering Program Manager - Apple Service_ring-rights-pricing?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-06-03T19:22:53.704289"
+  "timestamp": "2026-06-03T19:39:28.240157"
 }

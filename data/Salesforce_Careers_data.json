@@ -1,109 +1,19 @@
 {
   "page_title": "Salesforce Jobs | Salesforce Careers",
   "url": "https://careers.salesforce.com/en/jobs/?search=&country=United+States+of+America&team=Data&team=Enterprise+Technology+%26+Infrastructure&team=Software+Engineering&jobtype=New+Grads&pagesize=20#results",
-  "total_jobs": 20,
+  "total_jobs": 2,
   "jobs": [
     {
-      "title": "Disabilities @Work Manager - APAC, Office of Accessibility",
-      "url": "https://careers.salesforce.com/en/jobs/jr343127/disabilities-work-manager-apac-office-of-accessibility/",
-      "identifier": "Disabilities @Work Manager - APAC, Office of Acces_-apac-office-of-accessibility/"
+      "title": "DevOps Engineering AMTS",
+      "url": "https://careers.salesforce.com/en/jobs/jr343354/devops-engineering-amts/",
+      "identifier": "DevOps Engineering AMTS_43354/devops-engineering-amts/"
     },
     {
-      "title": "RVP, Sales",
-      "url": "https://careers.salesforce.com/en/jobs/jr344373/rvp-sales/",
-      "identifier": "RVP, Sales_om/en/jobs/jr344373/rvp-sales/"
-    },
-    {
-      "title": "Platform Security - Cloud AE (Public Sector & NGO - Emea South)",
-      "url": "https://careers.salesforce.com/en/jobs/jr343469/platform-security-cloud-ae-public-sector-ngo-emea-south/",
-      "identifier": "Platform Security - Cloud AE (Public Sector & NGO _-public-sector-ngo-emea-south/"
-    },
-    {
-      "title": "(FY27) MuleSoft, Account Executive (Enterprise Sales)",
-      "url": "https://careers.salesforce.com/en/jobs/jr325032/fy27-mulesoft-account-executive-enterprise-sales/",
-      "identifier": "(FY27) MuleSoft, Account Executive (Enterprise Sal_nt-executive-enterprise-sales/"
-    },
-    {
-      "title": "Account Executive, Small Business: Non-Profit",
-      "url": "https://careers.salesforce.com/en/jobs/jr341183/account-executive-small-business-non-profit/",
-      "identifier": "Account Executive, Small Business: Non-Profit_ive-small-business-non-profit/"
-    },
-    {
-      "title": "Named Account Executive",
-      "url": "https://careers.salesforce.com/en/jobs/jr340902/named-account-executive/",
-      "identifier": "Named Account Executive_40902/named-account-executive/"
-    },
-    {
-      "title": "Consumption Value Delivery Senior Manager - Solution Engineering AI & API Solutions",
-      "url": "https://careers.salesforce.com/en/jobs/jr336021/consumption-value-delivery-senior-manager-solution-engineering-ai-api-solutions/",
-      "identifier": "Consumption Value Delivery Senior Manager - Soluti_-engineering-ai-api-solutions/"
-    },
-    {
-      "title": "Signature Success, Sales Executive",
-      "url": "https://careers.salesforce.com/en/jobs/jr344304/signature-success-sales-executive/",
-      "identifier": "Signature Success, Sales Executive_ature-success-sales-executive/"
-    },
-    {
-      "title": "Customer Success Manager, Sales/ Service Cloud",
-      "url": "https://careers.salesforce.com/en/jobs/jr329765/customer-success-manager-sales-service-cloud/",
-      "identifier": "Customer Success Manager, Sales/ Service Cloud_s-manager-sales-service-cloud/"
-    },
-    {
-      "title": "Territory Account Executive",
-      "url": "https://careers.salesforce.com/en/jobs/jr343748/territory-account-executive/",
-      "identifier": "Territory Account Executive_8/territory-account-executive/"
-    },
-    {
-      "title": "Auditor, Internal Audit",
-      "url": "https://careers.salesforce.com/en/jobs/jr343945/auditor-internal-audit/",
-      "identifier": "Auditor, Internal Audit_343945/auditor-internal-audit/"
-    },
-    {
-      "title": "Partner Development Manager",
-      "url": "https://careers.salesforce.com/en/jobs/jr332530/partner-development-manager/",
-      "identifier": "Partner Development Manager_0/partner-development-manager/"
-    },
-    {
-      "title": "Senior Services Sales Solutions Manager",
-      "url": "https://careers.salesforce.com/en/jobs/jr338751/senior-services-sales-solutions-manager/",
-      "identifier": "Senior Services Sales Solutions Manager_vices-sales-solutions-manager/"
-    },
-    {
-      "title": "Technical Consultant / Senior Technical Consultant - Salesforce Loyalty Cloud",
-      "url": "https://careers.salesforce.com/en/jobs/jr326381/technical-consultant-senior-technical-consultant-salesforce-loyalty-cloud/",
-      "identifier": "Technical Consultant / Senior Technical Consultant_tant-salesforce-loyalty-cloud/"
-    },
-    {
-      "title": "Technical Consultant - Salesforce Field Services",
-      "url": "https://careers.salesforce.com/en/jobs/jr342011/technical-consultant-salesforce-field-services/",
-      "identifier": "Technical Consultant - Salesforce Field Services_ant-salesforce-field-services/"
-    },
-    {
-      "title": "Senior Success Architect (Informatica)",
-      "url": "https://careers.salesforce.com/en/jobs/jr343640/senior-success-architect-informatica/",
-      "identifier": "Senior Success Architect (Informatica)_success-architect-informatica/"
-    },
-    {
-      "title": "Procurement Operations Manager, Technical Systems",
-      "url": "https://careers.salesforce.com/en/jobs/jr344137/procurement-operations-manager-technical-systems/",
-      "identifier": "Procurement Operations Manager, Technical Systems_ons-manager-technical-systems/"
-    },
-    {
-      "title": "Enterprise Account Executive, Apromore",
-      "url": "https://careers.salesforce.com/en/jobs/jr344578/enterprise-account-executive-apromore/",
-      "identifier": "Enterprise Account Executive, Apromore_se-account-executive-apromore/"
-    },
-    {
-      "title": "Slack Account Executive - Middle East",
-      "url": "https://careers.salesforce.com/en/jobs/jr344388/slack-account-executive-middle-east/",
-      "identifier": "Slack Account Executive - Middle East_account-executive-middle-east/"
-    },
-    {
-      "title": "MuleSoft Account Executive - Germany",
-      "url": "https://careers.salesforce.com/en/jobs/jr344539/mulesoft-account-executive-germany/",
-      "identifier": "MuleSoft Account Executive - Germany_oft-account-executive-germany/"
+      "title": "AI Builder, Emerging Talent",
+      "url": "https://careers.salesforce.com/en/jobs/jr341276/ai-builder-emerging-talent/",
+      "identifier": "AI Builder, Emerging Talent_76/ai-builder-emerging-talent/"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-06-02T23:52:39.373544"
+  "timestamp": "2026-06-03T00:09:46.278642"
 }

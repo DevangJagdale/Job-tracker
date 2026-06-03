@@ -4,11 +4,6 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "TPG Workforce Development AI Workflow Integration Specialist\nBoise, Idaho, United States of America\nPosted a day ago",
-      "url": "https://careers.micron.com/careers/job/42120327",
-      "identifier": "TPG Workforce Development AI Workflow Integration _icron.com/careers/job/42120327"
-    },
-    {
       "title": "Supply Management Analyst\nBoise, Idaho, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/41482847",
       "identifier": "Supply Management Analyst\nBoise, Idaho, United Sta_icron.com/careers/job/41482847"
@@ -29,9 +24,9 @@
       "identifier": "New College Grad - Process Integration Engineer\nBo_icron.com/careers/job/40475196"
     },
     {
-      "title": "Engineer, SIG Equip Software Design\nBoise, Idaho, United States of America\nPosted a day ago",
-      "url": "https://careers.micron.com/careers/job/42198036",
-      "identifier": "Engineer, SIG Equip Software Design\nBoise, Idaho, _icron.com/careers/job/42198036"
+      "title": "Design Validation Product Engineer, DEG Technology\nBoise, Idaho, United States of America\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/41121665",
+      "identifier": "Design Validation Product Engineer, DEG Technology_icron.com/careers/job/41121665"
     },
     {
       "title": "ENGINEER, DEMQRA AUTOMOTIVE PQRE\nManassas, Virginia, United States of America + 1 more\nPosted a day ago",
@@ -39,9 +34,14 @@
       "identifier": "ENGINEER, DEMQRA AUTOMOTIVE PQRE\nManassas, Virgini_icron.com/careers/job/42076135"
     },
     {
-      "title": "Design Validation Product Engineer, DEG Technology\nBoise, Idaho, United States of America\nPosted a day ago",
-      "url": "https://careers.micron.com/careers/job/41121665",
-      "identifier": "Design Validation Product Engineer, DEG Technology_icron.com/careers/job/41121665"
+      "title": "TPG Workforce Development AI Workflow Integration Specialist\nBoise, Idaho, United States of America\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/42120327",
+      "identifier": "TPG Workforce Development AI Workflow Integration _icron.com/careers/job/42120327"
+    },
+    {
+      "title": "Engineer, SIG Equip Software Design\nBoise, Idaho, United States of America\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/42198036",
+      "identifier": "Engineer, SIG Equip Software Design\nBoise, Idaho, _icron.com/careers/job/42198036"
     },
     {
       "title": "Product Yield Enhancement (PYE) Engineer\nBoise, Idaho, United States of America\nPosted 2 days ago",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "94",
-  "timestamp": "2026-06-03T09:29:54.075208"
+  "timestamp": "2026-06-03T09:46:51.598465"
 }

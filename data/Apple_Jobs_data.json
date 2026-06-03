@@ -1,8 +1,33 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 18,
+  "total_jobs": 17,
   "jobs": [
+    {
+      "title": "AIML - ML Engineer, Responsible AI",
+      "url": "https://jobs.apple.com/en-us/details/200642026-3337/aiml-ml-engineer-responsible-ai?team=MLAI",
+      "identifier": "AIML - ML Engineer, Responsible AI_ineer-responsible-ai?team=MLAI"
+    },
+    {
+      "title": "Senior Software Engineer, Energy Services",
+      "url": "https://jobs.apple.com/en-us/details/200644575-3543/senior-software-engineer-energy-services?team=SFTWR",
+      "identifier": "Senior Software Engineer, Energy Services_eer-energy-services?team=SFTWR"
+    },
+    {
+      "title": "Software Engineer (Customer Success), Developer Engagement",
+      "url": "https://jobs.apple.com/en-us/details/200666610-0836/software-engineer-customer-success-developer-engagement?team=SFTWR",
+      "identifier": "Software Engineer (Customer Success), Developer En_eveloper-engagement?team=SFTWR"
+    },
+    {
+      "title": "Platform Architect - Security (Platform Architecture)",
+      "url": "https://jobs.apple.com/en-us/details/200666608-0157/platform-architect-security-platform-architecture?team=SFTWR",
+      "identifier": "Platform Architect - Security (Platform Architectu_atform-architecture?team=SFTWR"
+    },
+    {
+      "title": "Platform Engineer - Security (Platform Architecture)",
+      "url": "https://jobs.apple.com/en-us/details/200666621-0157/platform-engineer-security-platform-architecture?team=SFTWR",
+      "identifier": "Platform Engineer - Security (Platform Architectur_atform-architecture?team=SFTWR"
+    },
     {
       "title": "Core Audio System Software Engineer",
       "url": "https://jobs.apple.com/en-us/details/200666534-0836/core-audio-system-software-engineer?team=SFTWR",
@@ -62,38 +87,8 @@
       "title": "Software Build Engineer",
       "url": "https://jobs.apple.com/en-us/details/200666251-3543/software-build-engineer?team=SFTWR",
       "identifier": "Software Build Engineer_ware-build-engineer?team=SFTWR"
-    },
-    {
-      "title": "Build Security Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200666261-0157/build-security-engineer?team=SFTWR",
-      "identifier": "Build Security Engineer_d-security-engineer?team=SFTWR"
-    },
-    {
-      "title": "Wi-Fi Software Engineer, Wireless Technologies & Ecosystems",
-      "url": "https://jobs.apple.com/en-us/details/200666337-0836/wi-fi-software-engineer-wireless-technologies-ecosystems?team=SFTWR",
-      "identifier": "Wi-Fi Software Engineer, Wireless Technologies & E_nologies-ecosystems?team=SFTWR"
-    },
-    {
-      "title": "Computer Vision and Machine Learning Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200633612-3956/computer-vision-and-machine-learning-engineer?team=HRDWR",
-      "identifier": "Computer Vision and Machine Learning Engineer_e-learning-engineer?team=HRDWR"
-    },
-    {
-      "title": "Sr. Ruby on Rails Engineer, ASE",
-      "url": "https://jobs.apple.com/en-us/details/200636171-3337/sr-ruby-on-rails-engineer-ase?team=SFTWR",
-      "identifier": "Sr. Ruby on Rails Engineer, ASE_-rails-engineer-ase?team=SFTWR"
-    },
-    {
-      "title": "Forward Deployed Engineer, Maps Client QE Intelligence",
-      "url": "https://jobs.apple.com/en-us/details/200647290-0836/forward-deployed-engineer-maps-client-qe-intelligence?team=SFTWR",
-      "identifier": "Forward Deployed Engineer, Maps Client QE Intellig_ent-qe-intelligence?team=SFTWR"
-    },
-    {
-      "title": "Camera Tuning & Image Quality Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200666140-3401/camera-tuning-image-quality-engineer?team=SFTWR",
-      "identifier": "Camera Tuning & Image Quality Engineer_ge-quality-engineer?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-06-03T18:16:18.107117"
+  "timestamp": "2026-06-03T18:32:51.766853"
 }

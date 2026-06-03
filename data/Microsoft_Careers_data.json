@@ -4,7 +4,12 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Senior Software Engineer - Frontend\nUnited States, Washington, Redmond\nPosted 24 minutes ago",
+      "title": "Principal Data Scientist - CoreAI\nUnited States, Washington, Redmond + 1 more\nPosted 18 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556650820?domain=microsoft.com",
+      "identifier": "Principal Data Scientist - CoreAI\nUnited States, W_556650820?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Software Engineer - Frontend\nUnited States, Washington, Redmond\nPosted 40 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556868017?domain=microsoft.com",
       "identifier": "Senior Software Engineer - Frontend\nUnited States,_556868017?domain=microsoft.com"
     },
@@ -47,13 +52,8 @@
       "title": "Senior Applied Scientist and Principal Applied Scientist\nUnited States, Multiple Locations, Multiple Locations + 2 more\nPosted 21 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556872450?domain=microsoft.com",
       "identifier": "Senior Applied Scientist and Principal Applied Sci_556872450?domain=microsoft.com"
-    },
-    {
-      "title": "Cloud Network Engineer\nUnited States, Texas, San Antonio\nPosted 21 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556870828?domain=microsoft.com",
-      "identifier": "Cloud Network Engineer\nUnited States, Texas, San A_556870828?domain=microsoft.com"
     }
   ],
-  "job_count_text": "411",
-  "timestamp": "2026-06-03T18:16:02.503297"
+  "job_count_text": "410",
+  "timestamp": "2026-06-03T18:32:35.338951"
 }

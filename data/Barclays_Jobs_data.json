@@ -1,7 +1,7 @@
 {
   "page_title": "Search our Job Opportunities at Barclays",
   "url": "https://search.jobs.barclays/search-jobs/United%20States/13015/2/6252001/39x76/-98x5/50/2",
-  "total_jobs": 14,
+  "total_jobs": 16,
   "jobs": [
     {
       "title": "Change Delivery Manager - VP",
@@ -24,9 +24,19 @@
       "identifier": "Portfolio Hedging & Optimization, Analyst_tion-analyst/13015/95872253152"
     },
     {
+      "title": "Workforce Management Forecasting and Analytics VP",
+      "url": "https://search.jobs.barclays/job/wilmington/workforce-management-forecasting-and-analytics-vp/13015/95856692992",
+      "identifier": "Workforce Management Forecasting and Analytics VP_analytics-vp/13015/95856692992"
+    },
+    {
       "title": "Workforce Management Senior Forecasting Analyst",
       "url": "https://search.jobs.barclays/job/wilmington/workforce-management-senior-forecasting-analyst/13015/95856692928",
       "identifier": "Workforce Management Senior Forecasting Analyst_ting-analyst/13015/95856692928"
+    },
+    {
+      "title": "Senior Analyst, Workforce Management Innovation & Optimization",
+      "url": "https://search.jobs.barclays/job/henderson/senior-analyst-workforce-management-innovation-and-optimization/13015/95856692864",
+      "identifier": "Senior Analyst, Workforce Management Innovation & _optimization/13015/95856692864"
     },
     {
       "title": "Executive Engineering Lead",
@@ -75,5 +85,5 @@
     }
   ],
   "job_count_text": "134",
-  "timestamp": "2026-06-03T11:24:58.783308"
+  "timestamp": "2026-06-03T11:44:08.217118"
 }

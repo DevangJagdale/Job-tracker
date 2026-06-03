@@ -1,8 +1,49 @@
 {
-  "page_title": "ERROR: The request could not be satisfied",
+  "page_title": "Search CVS Health Jobs | Find Your Next Career Opportunity",
   "url": "https://jobs.cvshealth.com/us/en/search-results",
-  "total_jobs": 0,
-  "jobs": [],
-  "job_count_text": "",
-  "timestamp": "2026-06-03T12:44:44.262565"
+  "total_jobs": 8,
+  "jobs": [
+    {
+      "title": "Senior Compute Engineer (Apple Platforms and Automation)",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0878389/Senior-Compute-Engineer-Apple-Platforms-and-Automation",
+      "identifier": "Senior Compute Engineer (Apple Platforms and Autom_Apple-Platforms-and-Automation"
+    },
+    {
+      "title": "Manager - Budget Planning and Execution",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0887200/Manager-Budget-Planning-and-Execution",
+      "identifier": "Manager - Budget Planning and Execution_-Budget-Planning-and-Execution"
+    },
+    {
+      "title": "Manager - Scrum Master",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0918501/Manager-Scrum-Master",
+      "identifier": "Manager - Scrum Master_/R0918501/Manager-Scrum-Master"
+    },
+    {
+      "title": "Principal Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0762980/Principal-Software-Development-Engineer",
+      "identifier": "Principal Software Development Engineer_-Software-Development-Engineer"
+    },
+    {
+      "title": "IT Production Operations Analyst",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0927631/IT-Production-Operations-Analyst",
+      "identifier": "IT Production Operations Analyst_-Production-Operations-Analyst"
+    },
+    {
+      "title": "Manager, ACAS/Commercial Benefits Testing",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0872005/Manager-ACAS-Commercial-Benefits-Testing",
+      "identifier": "Manager, ACAS/Commercial Benefits Testing_AS-Commercial-Benefits-Testing"
+    },
+    {
+      "title": "Data Center Technician II",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0895038/Data-Center-Technician-II",
+      "identifier": "Data Center Technician II_5038/Data-Center-Technician-II"
+    },
+    {
+      "title": "Manager, Underwriting Model Product Support",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0921147/Manager-Underwriting-Model-Product-Support",
+      "identifier": "Manager, Underwriting Model Product Support_rwriting-Model-Product-Support"
+    }
+  ],
+  "job_count_text": "26",
+  "timestamp": "2026-06-03T13:01:42.023674"
 }

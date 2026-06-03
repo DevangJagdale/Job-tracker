@@ -4,6 +4,16 @@
   "total_jobs": 17,
   "jobs": [
     {
+      "title": "Machine Learning Systems Engineer, Siri Agent Modeling",
+      "url": "https://jobs.apple.com/en-us/details/200620661-0836/machine-learning-systems-engineer-siri-agent-modeling?team=SFTWR",
+      "identifier": "Machine Learning Systems Engineer, Siri Agent Mode_siri-agent-modeling?team=SFTWR"
+    },
+    {
+      "title": "Software Engineer - Customer Systems, Information Systems & Technology (IS&T)",
+      "url": "https://jobs.apple.com/en-us/details/200663125-3956/software-engineer-customer-systems-information-systems-technology-is-t?team=SFTWR",
+      "identifier": "Software Engineer - Customer Systems, Information _ems-technology-is-t?team=SFTWR"
+    },
+    {
       "title": "iOS Location Engineer, Sensing & Connectivity",
       "url": "https://jobs.apple.com/en-us/details/200666514-0836/ios-location-engineer-sensing-connectivity?team=SFTWR",
       "identifier": "iOS Location Engineer, Sensing & Connectivity_ensing-connectivity?team=SFTWR"
@@ -77,18 +87,8 @@
       "title": "Front End SW Engineer - iOS / Web - iCloud",
       "url": "https://jobs.apple.com/en-us/details/200665913-3543/front-end-sw-engineer-ios-web-icloud?team=SFTWR",
       "identifier": "Front End SW Engineer - iOS / Web - iCloud_neer-ios-web-icloud?team=SFTWR"
-    },
-    {
-      "title": "WPC Partner Ops Support & Optimization",
-      "url": "https://jobs.apple.com/en-us/details/200666600-0157/wpc-partner-ops-support-optimization?team=SFTWR",
-      "identifier": "WPC Partner Ops Support & Optimization_upport-optimization?team=SFTWR"
-    },
-    {
-      "title": "Machine Learning Engineer, Proactive",
-      "url": "https://jobs.apple.com/en-us/details/200622577-0836/machine-learning-engineer-proactive?team=MLAI",
-      "identifier": "Machine Learning Engineer, Proactive_g-engineer-proactive?team=MLAI"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-06-03T21:02:24.810931"
+  "timestamp": "2026-06-03T21:18:59.196054"
 }

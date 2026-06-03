@@ -4,11 +4,6 @@
   "total_jobs": 8,
   "jobs": [
     {
-      "title": "Staff Software Development Engineer (Lead Backend - NestJs)",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0863219/Staff-Software-Development-Engineer-Lead-Backend-NestJs",
-      "identifier": "Staff Software Development Engineer (Lead Backend _t-Engineer-Lead-Backend-NestJs"
-    },
-    {
       "title": "Manager - Budget Planning and Execution",
       "url": "https://jobs.cvshealth.com/us/en/job/R0887200/Manager-Budget-Planning-and-Execution",
       "identifier": "Manager - Budget Planning and Execution_-Budget-Planning-and-Execution"
@@ -42,8 +37,13 @@
       "title": "Senior Manager - Software Engineering (Health100 Platform)",
       "url": "https://jobs.cvshealth.com/us/en/job/R0863062/Senior-Manager-Software-Engineering-Health100-Platform",
       "identifier": "Senior Manager - Software Engineering (Health100 P_Engineering-Health100-Platform"
+    },
+    {
+      "title": "Senior Software Engineer \u2013 Developer Experience (Previews Platform)",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0915126/Senior-Software-Engineer-Developer-Experience-Previews-Platform",
+      "identifier": "Senior Software Engineer \u2013 Developer Experience (P_r-Experience-Previews-Platform"
     }
   ],
   "job_count_text": "41",
-  "timestamp": "2026-06-03T00:58:39.190305"
+  "timestamp": "2026-06-03T01:15:43.966586"
 }

@@ -1,7 +1,7 @@
 {
   "page_title": "Job Openings - Cisco Careers",
   "url": "https://careers.cisco.com/global/en/search-results?s=1",
-  "total_jobs": 8,
+  "total_jobs": 9,
   "jobs": [
     {
       "title": "Customer Experience Project Specialist I (Full-Time) - United States",
@@ -9,24 +9,9 @@
       "identifier": "Customer Experience Project Specialist I (Full-Tim_list-I-Full-Time-United-States"
     },
     {
-      "title": "Workday Security Administrator II (Full-Time) - United States",
-      "url": "https://careers.cisco.com/global/en/job/2015304/Workday-Security-Administrator-II-Full-Time-United-States",
-      "identifier": "Workday Security Administrator II (Full-Time) - Un_tor-II-Full-Time-United-States"
-    },
-    {
-      "title": "Information Security Engineer II (Full Time) - United States",
-      "url": "https://careers.cisco.com/global/en/job/2016214/Information-Security-Engineer-II-Full-Time-United-States",
-      "identifier": "Information Security Engineer II (Full Time) - Uni_eer-II-Full-Time-United-States"
-    },
-    {
       "title": "Network Systems Engineer I (Full Time) - United States",
       "url": "https://careers.cisco.com/global/en/job/2015726/Network-Systems-Engineer-I-Full-Time-United-States",
       "identifier": "Network Systems Engineer I (Full Time) - United St_neer-I-Full-Time-United-States"
-    },
-    {
-      "title": "Software Development Engineer II (Full Time) \u2013 United States",
-      "url": "https://careers.cisco.com/global/en/job/2014387/Software-Development-Engineer-II-Full-Time-United-States",
-      "identifier": "Software Development Engineer II (Full Time) \u2013 Uni_eer-II-Full-Time-United-States"
     },
     {
       "title": "Account Development Representative II (Full Time) United States",
@@ -34,16 +19,36 @@
       "identifier": "Account Development Representative II (Full Time) _ive-II-Full-Time-United-States"
     },
     {
-      "title": "Sales Development Representative Outbound Sales II (Full Time) - United States",
-      "url": "https://careers.cisco.com/global/en/job/2003091/Sales-Development-Representative-Outbound-Sales-II-Full-Time-United-States",
-      "identifier": "Sales Development Representative Outbound Sales II_les-II-Full-Time-United-States"
-    },
-    {
       "title": "Sales Development Representative I (Full Time) - United States (Virtual Demand Center)",
       "url": "https://careers.cisco.com/global/en/job/2005272/Sales-Development-Representative-I-Full-Time-United-States-Virtual-Demand-Center",
       "identifier": "Sales Development Representative I (Full Time) - U_d-States-Virtual-Demand-Center"
+    },
+    {
+      "title": "Sales Development Representative II (Full Time) United States (Virtual Demand Center) - United States",
+      "url": "https://careers.cisco.com/global/en/job/2008662/Sales-Development-Representative-II-Full-Time-United-States-Virtual-Demand-Center-United-States",
+      "identifier": "Sales Development Representative II (Full Time) Un_al-Demand-Center-United-States"
+    },
+    {
+      "title": "Software Development Engineer II (Full Time) \u2013 United States",
+      "url": "https://careers.cisco.com/global/en/job/2014387/Software-Development-Engineer-II-Full-Time-United-States",
+      "identifier": "Software Development Engineer II (Full Time) \u2013 Uni_eer-II-Full-Time-United-States"
+    },
+    {
+      "title": "Information Security Engineer II (Full Time) - United States",
+      "url": "https://careers.cisco.com/global/en/job/2016214/Information-Security-Engineer-II-Full-Time-United-States",
+      "identifier": "Information Security Engineer II (Full Time) - Uni_eer-II-Full-Time-United-States"
+    },
+    {
+      "title": "Workday Security Administrator II (Full-Time) - United States",
+      "url": "https://careers.cisco.com/global/en/job/2015304/Workday-Security-Administrator-II-Full-Time-United-States",
+      "identifier": "Workday Security Administrator II (Full-Time) - Un_tor-II-Full-Time-United-States"
+    },
+    {
+      "title": "Sales Development Representative Outbound Sales II (Full Time) - United States",
+      "url": "https://careers.cisco.com/global/en/job/2003091/Sales-Development-Representative-Outbound-Sales-II-Full-Time-United-States",
+      "identifier": "Sales Development Representative Outbound Sales II_les-II-Full-Time-United-States"
     }
   ],
   "job_count_text": "11",
-  "timestamp": "2026-06-04T13:54:01.776669"
+  "timestamp": "2026-06-04T14:11:01.011045"
 }

@@ -1,8 +1,28 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 18,
+  "total_jobs": 17,
   "jobs": [
+    {
+      "title": "Secure Systems Engineer - Platform Architecture",
+      "url": "https://jobs.apple.com/en-us/details/200666637-0836/secure-systems-engineer-platform-architecture?team=SFTWR",
+      "identifier": "Secure Systems Engineer - Platform Architecture_atform-architecture?team=SFTWR"
+    },
+    {
+      "title": "SoC Security Engineer - Platform Architecture",
+      "url": "https://jobs.apple.com/en-us/details/200666867-0836/soc-security-engineer-platform-architecture?team=SFTWR",
+      "identifier": "SoC Security Engineer - Platform Architecture_atform-architecture?team=SFTWR"
+    },
+    {
+      "title": "Senior Machine Learning Engineer, AI, SIML",
+      "url": "https://jobs.apple.com/en-us/details/200651112-0836/senior-machine-learning-engineer-ai-siml?team=SFTWR",
+      "identifier": "Senior Machine Learning Engineer, AI, SIML_ng-engineer-ai-siml?team=SFTWR"
+    },
+    {
+      "title": "Bluetooth Firmware Engineer, Wireless Technologies & Ecosystems",
+      "url": "https://jobs.apple.com/en-us/details/200666184-3543/bluetooth-firmware-engineer-wireless-technologies-ecosystems?team=SFTWR",
+      "identifier": "Bluetooth Firmware Engineer, Wireless Technologies_nologies-ecosystems?team=SFTWR"
+    },
     {
       "title": "Program Manager - SWE Infrastructure",
       "url": "https://jobs.apple.com/en-us/details/200666799-0836/program-manager-swe-infrastructure?team=SFTWR",
@@ -67,33 +87,8 @@
       "title": "Senior machine learning platform engineer, Evaluation & Privacy",
       "url": "https://jobs.apple.com/en-us/details/200666705-0836/senior-machine-learning-platform-engineer-evaluation-privacy?team=SFTWR",
       "identifier": "Senior machine learning platform engineer, Evaluat_-evaluation-privacy?team=SFTWR"
-    },
-    {
-      "title": "Large Machine Learning Model Optimization Engineer, SIML",
-      "url": "https://jobs.apple.com/en-us/details/200626700-3337/large-machine-learning-model-optimization-engineer-siml?team=SFTWR",
-      "identifier": "Large Machine Learning Model Optimization Engineer_ation-engineer-siml?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer, Safari Extensions",
-      "url": "https://jobs.apple.com/en-us/details/200582815-3543/software-engineer-safari-extensions?team=SFTWR",
-      "identifier": "Software Engineer, Safari Extensions_r-safari-extensions?team=SFTWR"
-    },
-    {
-      "title": "Automation and Triage Engineer, Siri",
-      "url": "https://jobs.apple.com/en-us/details/200665456-0836/automation-and-triage-engineer-siri?team=SFTWR",
-      "identifier": "Automation and Triage Engineer, Siri_riage-engineer-siri?team=SFTWR"
-    },
-    {
-      "title": "AirPlay Engineering Investigations Lead",
-      "url": "https://jobs.apple.com/en-us/details/200660710-3543/airplay-engineering-investigations-lead?team=SFTWR",
-      "identifier": "AirPlay Engineering Investigations Lead_investigations-lead?team=SFTWR"
-    },
-    {
-      "title": "Machine Learning Systems Engineer, Siri Agent Modeling",
-      "url": "https://jobs.apple.com/en-us/details/200620661-0836/machine-learning-systems-engineer-siri-agent-modeling?team=SFTWR",
-      "identifier": "Machine Learning Systems Engineer, Siri Agent Mode_siri-agent-modeling?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-06-04T21:48:07.676120"
+  "timestamp": "2026-06-04T22:04:54.531304"
 }

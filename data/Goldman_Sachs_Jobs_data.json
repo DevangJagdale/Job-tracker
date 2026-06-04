@@ -4,6 +4,16 @@
   "total_jobs": 20,
   "jobs": [
     {
+      "title": "Corporate Planning & Management, Data Engineering, New York, Associate\nNew York\u00b7United States\n\u00b7Associate",
+      "url": "https://higher.gs.com/roles/170256",
+      "identifier": "Corporate Planning & Management, Data Engineering,_s://higher.gs.com/roles/170256"
+    },
+    {
+      "title": "Corporate Planning & Management, Software Engineering, Dallas, Associate\nDallas\u00b7United States\n\u00b7Associate",
+      "url": "https://higher.gs.com/roles/170257",
+      "identifier": "Corporate Planning & Management, Software Engineer_s://higher.gs.com/roles/170257"
+    },
+    {
       "title": "Asset & Wealth Management-Software Engineering-Associate-Dallas\nDallas\u00b7United States\n\u00b7Associate",
       "url": "https://higher.gs.com/roles/159036",
       "identifier": "Asset & Wealth Management-Software Engineering-Ass_s://higher.gs.com/roles/159036"
@@ -92,18 +102,8 @@
       "title": "Compliance, Senior Backend Engineer (Java & ETL Specialist), Dallas, Associate\nDallas\u00b7United States\n\u00b7Associate",
       "url": "https://higher.gs.com/roles/168652",
       "identifier": "Compliance, Senior Backend Engineer (Java & ETL Sp_s://higher.gs.com/roles/168652"
-    },
-    {
-      "title": "Asset & Wealth Management - Software Engineer - Associate - Salt Lake City\nSalt Lake City\u00b7United States\n\u00b7Associate",
-      "url": "https://higher.gs.com/roles/159035",
-      "identifier": "Asset & Wealth Management - Software Engineer - As_s://higher.gs.com/roles/159035"
-    },
-    {
-      "title": "Asset & Wealth Management-Software Engineering-Associate-Dallas\nDallas\u00b7United States\n\u00b7Associate",
-      "url": "https://higher.gs.com/roles/165889",
-      "identifier": "Asset & Wealth Management-Software Engineering-Ass_s://higher.gs.com/roles/165889"
     }
   ],
-  "job_count_text": "34",
-  "timestamp": "2026-06-04T15:50:31.332939"
+  "job_count_text": "36",
+  "timestamp": "2026-06-04T16:07:33.443414"
 }

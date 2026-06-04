@@ -1,8 +1,18 @@
 {
   "page_title": "Search our Job Opportunities at Barclays",
   "url": "https://search.jobs.barclays/search-jobs/United%20States/13015/2/6252001/39x76/-98x5/50/2",
-  "total_jobs": 16,
+  "total_jobs": 14,
   "jobs": [
+    {
+      "title": "Equities Markets Risk VP",
+      "url": "https://search.jobs.barclays/job/new-york/equities-markets-risk-vp/13015/95994002336",
+      "identifier": "Equities Markets Risk VP_kets-risk-vp/13015/95994002336"
+    },
+    {
+      "title": "Equity Market Risk AVP",
+      "url": "https://search.jobs.barclays/job/new-york/equity-market-risk-avp/13015/95994002240",
+      "identifier": "Equity Market Risk AVP_ket-risk-avp/13015/95994002240"
+    },
     {
       "title": "AVP Consumer Loan Trading",
       "url": "https://search.jobs.barclays/job/new-york/avp-consumer-loan-trading/13015/95963484064",
@@ -49,11 +59,6 @@
       "identifier": "Operational Risk VP \u2013 Digital Assets_gital-assets/13015/95888760352"
     },
     {
-      "title": "Portfolio Hedging & Optimization, Analyst",
-      "url": "https://search.jobs.barclays/job/new-york/portfolio-hedging-and-optimization-analyst/13015/95872253152",
-      "identifier": "Portfolio Hedging & Optimization, Analyst_tion-analyst/13015/95872253152"
-    },
-    {
       "title": "Workforce Management Forecasting and Analytics VP",
       "url": "https://search.jobs.barclays/job/wilmington/workforce-management-forecasting-and-analytics-vp/13015/95856692992",
       "identifier": "Workforce Management Forecasting and Analytics VP_analytics-vp/13015/95856692992"
@@ -67,23 +72,8 @@
       "title": "Senior Analyst, Workforce Management Innovation & Optimization",
       "url": "https://search.jobs.barclays/job/henderson/senior-analyst-workforce-management-innovation-and-optimization/13015/95856692864",
       "identifier": "Senior Analyst, Workforce Management Innovation & _optimization/13015/95856692864"
-    },
-    {
-      "title": "Executive Engineering Lead",
-      "url": "https://search.jobs.barclays/job/wilmington/executive-engineering-lead/13015/95856689184",
-      "identifier": "Executive Engineering Lead_neering-lead/13015/95856689184"
-    },
-    {
-      "title": "US Cash Sales Trader, AVP",
-      "url": "https://search.jobs.barclays/job/boston/us-cash-sales-trader-avp/13015/95736287456",
-      "identifier": "US Cash Sales Trader, AVP_s-trader-avp/13015/95736287456"
-    },
-    {
-      "title": "US Content Client Strategy",
-      "url": "https://search.jobs.barclays/job/new-york/us-content-client-strategy/13015/95721258448",
-      "identifier": "US Content Client Strategy_ent-strategy/13015/95721258448"
     }
   ],
-  "job_count_text": "148",
-  "timestamp": "2026-06-04T17:23:57.510788"
+  "job_count_text": "152",
+  "timestamp": "2026-06-04T17:41:07.112412"
 }

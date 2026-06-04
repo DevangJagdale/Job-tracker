@@ -4,6 +4,11 @@
   "total_jobs": 19,
   "jobs": [
     {
+      "title": "Engineering Project Manager, Cross-Functional Programs",
+      "url": "https://jobs.apple.com/en-us/details/200666693-0836/engineering-project-manager-cross-functional-programs?team=SFTWR",
+      "identifier": "Engineering Project Manager, Cross-Functional Prog_functional-programs?team=SFTWR"
+    },
+    {
       "title": "Site Reliability Engineering Manager, eBusiness Services",
       "url": "https://jobs.apple.com/en-us/details/200648315-3956/site-reliability-engineering-manager-ebusiness-services?team=SFTWR",
       "identifier": "Site Reliability Engineering Manager, eBusiness Se_-ebusiness-services?team=SFTWR"
@@ -92,13 +97,8 @@
       "title": "AIML - ML Engineer, Responsible AI",
       "url": "https://jobs.apple.com/en-us/details/200642026-3337/aiml-ml-engineer-responsible-ai?team=MLAI",
       "identifier": "AIML - ML Engineer, Responsible AI_ineer-responsible-ai?team=MLAI"
-    },
-    {
-      "title": "Senior Software Engineer, Energy Services",
-      "url": "https://jobs.apple.com/en-us/details/200644575-3543/senior-software-engineer-energy-services?team=SFTWR",
-      "identifier": "Senior Software Engineer, Energy Services_eer-energy-services?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-06-04T17:24:30.554953"
+  "timestamp": "2026-06-04T17:41:40.372499"
 }

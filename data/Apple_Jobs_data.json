@@ -4,6 +4,11 @@
   "total_jobs": 18,
   "jobs": [
     {
+      "title": "Sr. Engineering Project Manager, Build and Release",
+      "url": "https://jobs.apple.com/en-us/details/200666811-0157/sr-engineering-project-manager-build-and-release?team=SFTWR",
+      "identifier": "Sr. Engineering Project Manager, Build and Release_r-build-and-release?team=SFTWR"
+    },
+    {
       "title": "Software Engineer, Apps",
       "url": "https://jobs.apple.com/en-us/details/200661273-2926/software-engineer-apps?team=SFTWR",
       "identifier": "Software Engineer, Apps_tware-engineer-apps?team=SFTWR"
@@ -87,13 +92,8 @@
       "title": "iOS Location Engineer, Sensing & Connectivity",
       "url": "https://jobs.apple.com/en-us/details/200666514-0836/ios-location-engineer-sensing-connectivity?team=SFTWR",
       "identifier": "iOS Location Engineer, Sensing & Connectivity_ensing-connectivity?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer, G&A Solutions Engineering (GSE)",
-      "url": "https://jobs.apple.com/en-us/details/200666196-0157/software-engineer-g-a-solutions-engineering-gse?team=SFTWR",
-      "identifier": "Software Engineer, G&A Solutions Engineering (GSE)_ons-engineering-gse?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-06-04T20:32:24.350641"
+  "timestamp": "2026-06-04T20:49:26.955050"
 }

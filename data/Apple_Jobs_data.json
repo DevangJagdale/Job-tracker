@@ -4,6 +4,11 @@
   "total_jobs": 18,
   "jobs": [
     {
+      "title": "Sr Machine Learning Engineer, Proactive",
+      "url": "https://jobs.apple.com/en-us/details/200661999-3760/sr-machine-learning-engineer-proactive?team=MLAI",
+      "identifier": "Sr Machine Learning Engineer, Proactive_g-engineer-proactive?team=MLAI"
+    },
+    {
       "title": "Machine Learning Engineer - Visual Intelligence",
       "url": "https://jobs.apple.com/en-us/details/200666805-3337/machine-learning-engineer-visual-intelligence?team=SFTWR",
       "identifier": "Machine Learning Engineer - Visual Intelligence_visual-intelligence?team=SFTWR"
@@ -87,13 +92,8 @@
       "title": "ML Software Engineer",
       "url": "https://jobs.apple.com/en-us/details/200666649-3337/ml-software-engineer?team=MLAI",
       "identifier": "ML Software Engineer_ml-software-engineer?team=MLAI"
-    },
-    {
-      "title": "Platform Supply Planner, Cloud Infrastructure Business Operations",
-      "url": "https://jobs.apple.com/en-us/details/200665635-0157/platform-supply-planner-cloud-infrastructure-business-operations?team=SFTWR",
-      "identifier": "Platform Supply Planner, Cloud Infrastructure Busi_business-operations?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-06-04T19:41:16.670864"
+  "timestamp": "2026-06-04T19:58:18.637263"
 }

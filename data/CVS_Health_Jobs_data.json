@@ -4,6 +4,16 @@
   "total_jobs": 8,
   "jobs": [
     {
+      "title": "Staff Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0923087/Staff-Software-Development-Engineer",
+      "identifier": "Staff Software Development Engineer_-Software-Development-Engineer"
+    },
+    {
+      "title": "Technical Support Representative",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0920656/Technical-Support-Representative",
+      "identifier": "Technical Support Representative_chnical-Support-Representative"
+    },
+    {
       "title": "Mac Support Technician - Onsite | Hartford, CT",
       "url": "https://jobs.cvshealth.com/us/en/job/R0930937/Mac-Support-Technician-Onsite-Hartford-CT",
       "identifier": "Mac Support Technician - Onsite | Hartford, CT_-Technician-Onsite-Hartford-CT"
@@ -14,6 +24,16 @@
       "identifier": "Software Development Engineer_/Software-Development-Engineer"
     },
     {
+      "title": "Epic Senior Access Analyst - Prelude & Referrals",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0930290/Epic-Senior-Access-Analyst-Prelude-Referrals",
+      "identifier": "Epic Senior Access Analyst - Prelude & Referrals_cess-Analyst-Prelude-Referrals"
+    },
+    {
+      "title": "Lead Java Software Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0821040/Lead-Java-Software-Engineer",
+      "identifier": "Lead Java Software Engineer_40/Lead-Java-Software-Engineer"
+    },
+    {
       "title": "Executive Director, Engineering - AI Automation",
       "url": "https://jobs.cvshealth.com/us/en/job/R0849706/Executive-Director-Engineering-AI-Automation",
       "identifier": "Executive Director, Engineering - AI Automation_ctor-Engineering-AI-Automation"
@@ -22,28 +42,8 @@
       "title": "Field Technician (Denver, Colorado area)",
       "url": "https://jobs.cvshealth.com/us/en/job/R0930005/Field-Technician-Denver-Colorado-area",
       "identifier": "Field Technician (Denver, Colorado area)_echnician-Denver-Colorado-area"
-    },
-    {
-      "title": "Lead Java Software Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0821040/Lead-Java-Software-Engineer",
-      "identifier": "Lead Java Software Engineer_40/Lead-Java-Software-Engineer"
-    },
-    {
-      "title": "Epic Senior Access Analyst - Prelude & Referrals",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0930290/Epic-Senior-Access-Analyst-Prelude-Referrals",
-      "identifier": "Epic Senior Access Analyst - Prelude & Referrals_cess-Analyst-Prelude-Referrals"
-    },
-    {
-      "title": "Technical Support Representative",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0920656/Technical-Support-Representative",
-      "identifier": "Technical Support Representative_chnical-Support-Representative"
-    },
-    {
-      "title": "Staff Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0923087/Staff-Software-Development-Engineer",
-      "identifier": "Staff Software Development Engineer_-Software-Development-Engineer"
     }
   ],
   "job_count_text": "40",
-  "timestamp": "2026-06-04T16:34:14.297474"
+  "timestamp": "2026-06-04T16:51:20.932747"
 }

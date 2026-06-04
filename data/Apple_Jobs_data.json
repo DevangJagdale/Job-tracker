@@ -4,6 +4,16 @@
   "total_jobs": 19,
   "jobs": [
     {
+      "title": "Site Reliability Engineering Manager, eBusiness Services",
+      "url": "https://jobs.apple.com/en-us/details/200648315-3956/site-reliability-engineering-manager-ebusiness-services?team=SFTWR",
+      "identifier": "Site Reliability Engineering Manager, eBusiness Se_-ebusiness-services?team=SFTWR"
+    },
+    {
+      "title": "Senior Software Engineer, Machine Learning Infrastructure and Quality",
+      "url": "https://jobs.apple.com/en-us/details/200663885-3337/senior-software-engineer-machine-learning-infrastructure-and-quality?team=SFTWR",
+      "identifier": "Senior Software Engineer, Machine Learning Infrast_ructure-and-quality?team=SFTWR"
+    },
+    {
       "title": "Software Engineer - AI Agents & Automation, Maps Data Tooling",
       "url": "https://jobs.apple.com/en-us/details/200663946-0836/software-engineer-ai-agents-automation-maps-data-tooling?team=SFTWR",
       "identifier": "Software Engineer - AI Agents & Automation, Maps D_n-maps-data-tooling?team=SFTWR"
@@ -87,18 +97,8 @@
       "title": "Senior Software Engineer, Energy Services",
       "url": "https://jobs.apple.com/en-us/details/200644575-3543/senior-software-engineer-energy-services?team=SFTWR",
       "identifier": "Senior Software Engineer, Energy Services_eer-energy-services?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer (Customer Success), Developer Engagement",
-      "url": "https://jobs.apple.com/en-us/details/200666610-0836/software-engineer-customer-success-developer-engagement?team=SFTWR",
-      "identifier": "Software Engineer (Customer Success), Developer En_eveloper-engagement?team=SFTWR"
-    },
-    {
-      "title": "Platform Architect - Security (Platform Architecture)",
-      "url": "https://jobs.apple.com/en-us/details/200666608-0157/platform-architect-security-platform-architecture?team=SFTWR",
-      "identifier": "Platform Architect - Security (Platform Architectu_atform-architecture?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-06-04T16:50:19.562629"
+  "timestamp": "2026-06-04T17:07:23.081159"
 }

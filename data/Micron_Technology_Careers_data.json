@@ -4,11 +4,6 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Metals/Films Process Development Engineer\nBoise, Idaho, United States of America\nPosted 2 days ago",
-      "url": "https://careers.micron.com/careers/job/40797024",
-      "identifier": "Metals/Films Process Development Engineer\nBoise, I_icron.com/careers/job/40797024"
-    },
-    {
       "title": "New College Grad - Process Integration Engineer\nBoise, Idaho, United States of America\nPosted 2 days ago",
       "url": "https://careers.micron.com/careers/job/40475196",
       "identifier": "New College Grad - Process Integration Engineer\nBo_icron.com/careers/job/40475196"
@@ -22,6 +17,11 @@
       "title": "Supply Management Analyst\nBoise, Idaho, United States of America\nPosted 2 days ago",
       "url": "https://careers.micron.com/careers/job/41482847",
       "identifier": "Supply Management Analyst\nBoise, Idaho, United Sta_icron.com/careers/job/41482847"
+    },
+    {
+      "title": "Metals/Films Process Development Engineer\nBoise, Idaho, United States of America\nPosted 2 days ago",
+      "url": "https://careers.micron.com/careers/job/40797024",
+      "identifier": "Metals/Films Process Development Engineer\nBoise, I_icron.com/careers/job/40797024"
     },
     {
       "title": "Design Validation Product Engineer, DEG Technology\nBoise, Idaho, United States of America\nPosted 3 days ago",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "96",
-  "timestamp": "2026-06-04T16:19:19.215416"
+  "timestamp": "2026-06-04T16:36:23.590370"
 }

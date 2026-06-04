@@ -9,6 +9,11 @@
       "identifier": "Full-time roles for graduates_tudent-programs/jobs-for-grads"
     },
     {
+      "title": "ASIC Engineer, Project Leo",
+      "url": "https://www.amazon.jobs/jobs/3176560",
+      "identifier": "ASIC Engineer, Project Leo_//www.amazon.jobs/jobs/3176560"
+    },
+    {
       "title": "Software Development Engineer, AWS Data Services - 2026 (US)",
       "url": "https://www.amazon.jobs/jobs/10414316",
       "identifier": "Software Development Engineer, AWS Data Services -_/www.amazon.jobs/jobs/10414316"
@@ -34,11 +39,6 @@
       "identifier": "Software Development Engineer - 2026 (US)_//www.amazon.jobs/jobs/3177934"
     },
     {
-      "title": "ASIC Engineer, Project Leo",
-      "url": "https://www.amazon.jobs/jobs/3176560",
-      "identifier": "ASIC Engineer, Project Leo_//www.amazon.jobs/jobs/3176560"
-    },
-    {
       "title": "Software Development Engineer - Military Veterans",
       "url": "https://www.amazon.jobs/jobs/3179205",
       "identifier": "Software Development Engineer - Military Veterans_//www.amazon.jobs/jobs/3179205"
@@ -50,5 +50,5 @@
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-06-04T22:09:24.888270"
+  "timestamp": "2026-06-04T22:26:15.018279"
 }

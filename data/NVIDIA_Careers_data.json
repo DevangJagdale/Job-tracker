@@ -1,7 +1,7 @@
 {
   "page_title": "Search for Jobs",
   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite?locationCountry=bc33aa3152ec42d4995f4791a106ed09&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&workerSubType=ab40a98049581037a3ada55b087049b7",
-  "total_jobs": 19,
+  "total_jobs": 18,
   "jobs": [
     {
       "title": "ASIC Clocks Design Engineer - New College Grad 2026",
@@ -32,11 +32,6 @@
       "title": "Software R&D Engineer, Digital Logic Synthesis - New College Grad 2026",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-R-D-Engineer--Digital-Logic-Synthesis---New-College-Grad-2026_JR2018263?locationCountry=bc33aa3152ec42d4995f4791a106ed09&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&workerSubType=ab40a98049581037a3ada55b087049b7",
       "identifier": "Software R&D Engineer, Digital Logic Synthesis - N_40a98049581037a3ada55b087049b7"
-    },
-    {
-      "title": "Software R&D Engineer, VLSI Physical Design - New College Grad 2026",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/Software-R-D-Engineer--VLSI-Physical-Design---New-College-Grad-2026_JR2018183?locationCountry=bc33aa3152ec42d4995f4791a106ed09&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&workerSubType=ab40a98049581037a3ada55b087049b7",
-      "identifier": "Software R&D Engineer, VLSI Physical Design - New _40a98049581037a3ada55b087049b7"
     },
     {
       "title": "Low Power ASIC Engineer - New College Grad 2026",
@@ -100,5 +95,5 @@
     }
   ],
   "job_count_text": "57",
-  "timestamp": "2026-06-04T01:26:47.267600"
+  "timestamp": "2026-06-04T01:43:50.876647"
 }

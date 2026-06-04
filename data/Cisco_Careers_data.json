@@ -1,7 +1,7 @@
 {
   "page_title": "Job Openings - Cisco Careers",
   "url": "https://careers.cisco.com/global/en/search-results?s=1",
-  "total_jobs": 9,
+  "total_jobs": 8,
   "jobs": [
     {
       "title": "Information Security Engineer II (Full Time) - United States",
@@ -9,14 +9,14 @@
       "identifier": "Information Security Engineer II (Full Time) - Uni_eer-II-Full-Time-United-States"
     },
     {
-      "title": "Network Systems Engineer I (Full Time) - United States",
-      "url": "https://careers.cisco.com/global/en/job/2015726/Network-Systems-Engineer-I-Full-Time-United-States",
-      "identifier": "Network Systems Engineer I (Full Time) - United St_neer-I-Full-Time-United-States"
-    },
-    {
       "title": "Software Engineer Data/AI/Intelligent Systems I (Full Time) \u2013 United States",
       "url": "https://careers.cisco.com/global/en/job/2000073/Software-Engineer-Data-AI-Intelligent-Systems-I-Full-Time-United-States",
       "identifier": "Software Engineer Data/AI/Intelligent Systems I (F_tems-I-Full-Time-United-States"
+    },
+    {
+      "title": "Network Systems Engineer I (Full Time) - United States",
+      "url": "https://careers.cisco.com/global/en/job/2015726/Network-Systems-Engineer-I-Full-Time-United-States",
+      "identifier": "Network Systems Engineer I (Full Time) - United St_neer-I-Full-Time-United-States"
     },
     {
       "title": "Workday Security Administrator II (Full-Time) - United States",
@@ -42,13 +42,8 @@
       "title": "Sales Development Representative I (Full Time) - United States (Virtual Demand Center)",
       "url": "https://careers.cisco.com/global/en/job/2005272/Sales-Development-Representative-I-Full-Time-United-States-Virtual-Demand-Center",
       "identifier": "Sales Development Representative I (Full Time) - U_d-States-Virtual-Demand-Center"
-    },
-    {
-      "title": "Sales Development Representative II (Full Time) United States (Virtual Demand Center) - United States",
-      "url": "https://careers.cisco.com/global/en/job/2008662/Sales-Development-Representative-II-Full-Time-United-States-Virtual-Demand-Center-United-States",
-      "identifier": "Sales Development Representative II (Full Time) Un_al-Demand-Center-United-States"
     }
   ],
-  "job_count_text": "9",
-  "timestamp": "2026-06-04T03:40:02.218046"
+  "job_count_text": "11",
+  "timestamp": "2026-06-04T03:57:03.673544"
 }

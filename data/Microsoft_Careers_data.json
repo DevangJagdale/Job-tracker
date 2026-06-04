@@ -1,15 +1,25 @@
 {
   "page_title": "| Microsoft Careers",
   "url": "https://apply.careers.microsoft.com/careers?domain=microsoft.com&start=0&location=United+States&sort_by=timestamp&filter_include_remote=1&filter_profession=software+engineering%2Cresearch%252C%2520applied%252C%2520%2526%2520data%2520sciences",
-  "total_jobs": 9,
+  "total_jobs": 10,
   "jobs": [
     {
-      "title": "Senior Data Scientist\nUnited States, Multiple Locations, Multiple Locations\nPosted 12 minutes ago",
+      "title": "Senior Software Engineer\nUnited States, California, Mountain View + 1 more\nPosted 3 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556748047?domain=microsoft.com",
+      "identifier": "Senior Software Engineer\nUnited States, California_556748047?domain=microsoft.com"
+    },
+    {
+      "title": "Principal Software Engineer - CTJ - Poly\nUnited States, Washington, Redmond + 1 more\nPosted 10 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556872171?domain=microsoft.com",
+      "identifier": "Principal Software Engineer - CTJ - Poly\nUnited St_556872171?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Data Scientist\nUnited States, Multiple Locations, Multiple Locations\nPosted 29 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556873125?domain=microsoft.com",
       "identifier": "Senior Data Scientist\nUnited States, Multiple Loca_556873125?domain=microsoft.com"
     },
     {
-      "title": "Senior Data Scientist\nUnited States, Multiple Locations, Multiple Locations + 8 more\nPosted 23 minutes ago",
+      "title": "Senior Data Scientist\nUnited States, Multiple Locations, Multiple Locations + 8 more\nPosted 40 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556872901?domain=microsoft.com",
       "identifier": "Senior Data Scientist\nUnited States, Multiple Loca_556872901?domain=microsoft.com"
     },
@@ -24,7 +34,7 @@
       "identifier": "Senior Applied Scientist\nUnited States, Multiple L_556850759?domain=microsoft.com"
     },
     {
-      "title": "Principal Software Engineer - DPU Integrations\nUnited States, California, Santa Clara\nPosted 19 hours ago",
+      "title": "Principal Software Engineer - DPU Integrations\nUnited States, California, Santa Clara\nPosted 20 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556870017?domain=microsoft.com",
       "identifier": "Principal Software Engineer - DPU Integrations\nUni_556870017?domain=microsoft.com"
     },
@@ -42,13 +52,8 @@
       "title": "Senior Software Engineer - DPU Integrations\nUnited States, California, Santa Clara\nPosted 21 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556869701?domain=microsoft.com",
       "identifier": "Senior Software Engineer - DPU Integrations\nUnited_556869701?domain=microsoft.com"
-    },
-    {
-      "title": "Software Engineer\nUnited States, Washington, Redmond\nPosted 21 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556870540?domain=microsoft.com",
-      "identifier": "Software Engineer\nUnited States, Washington, Redmo_556870540?domain=microsoft.com"
     }
   ],
-  "job_count_text": "404",
-  "timestamp": "2026-06-04T17:41:24.320723"
+  "job_count_text": "406",
+  "timestamp": "2026-06-04T17:58:28.838421"
 }

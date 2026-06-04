@@ -1,8 +1,18 @@
 {
   "page_title": "Search our Job Opportunities at Barclays",
   "url": "https://search.jobs.barclays/search-jobs/United%20States/13015/2/6252001/39x76/-98x5/50/2",
-  "total_jobs": 14,
+  "total_jobs": 16,
   "jobs": [
+    {
+      "title": "Assistant VP, Windows Server Engineer",
+      "url": "https://search.jobs.barclays/job/whippany/assistant-vp-windows-server-engineer/13015/95994010176",
+      "identifier": "Assistant VP, Windows Server Engineer_ver-engineer/13015/95994010176"
+    },
+    {
+      "title": "Senior App Support Specialist",
+      "url": "https://search.jobs.barclays/job/whippany/senior-app-support-specialist/13015/95994009936",
+      "identifier": "Senior App Support Specialist_t-specialist/13015/95994009936"
+    },
     {
       "title": "Equities Markets Risk VP",
       "url": "https://search.jobs.barclays/job/new-york/equities-markets-risk-vp/13015/95994002336",
@@ -75,5 +85,5 @@
     }
   ],
   "job_count_text": "152",
-  "timestamp": "2026-06-04T21:22:59.174609"
+  "timestamp": "2026-06-04T21:40:03.706038"
 }

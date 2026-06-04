@@ -1,8 +1,13 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 19,
+  "total_jobs": 18,
   "jobs": [
+    {
+      "title": "Software Engineer in Natural Language Processing (NLP) and Machine Learning (ML)",
+      "url": "https://jobs.apple.com/en-us/details/200666537-0836/software-engineer-in-natural-language-processing-nlp-and-machine-learning-ml?team=SFTWR",
+      "identifier": "Software Engineer in Natural Language Processing (_machine-learning-ml?team=SFTWR"
+    },
     {
       "title": "Engineering Project Manager, Cross-Functional Programs",
       "url": "https://jobs.apple.com/en-us/details/200666693-0836/engineering-project-manager-cross-functional-programs?team=SFTWR",
@@ -87,18 +92,8 @@
       "title": "Change Manager, AIML Data Operations",
       "url": "https://jobs.apple.com/en-us/details/200662439-0157/change-manager-aiml-data-operations?team=SFTWR",
       "identifier": "Change Manager, AIML Data Operations_iml-data-operations?team=SFTWR"
-    },
-    {
-      "title": "Senior Compliance and Automation Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200665946-3577/senior-compliance-and-automation-engineer?team=SFTWR",
-      "identifier": "Senior Compliance and Automation Engineer_automation-engineer?team=SFTWR"
-    },
-    {
-      "title": "AIML - ML Engineer, Responsible AI",
-      "url": "https://jobs.apple.com/en-us/details/200642026-3337/aiml-ml-engineer-responsible-ai?team=MLAI",
-      "identifier": "AIML - ML Engineer, Responsible AI_ineer-responsible-ai?team=MLAI"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-06-04T17:58:44.912745"
+  "timestamp": "2026-06-04T18:15:49.347295"
 }

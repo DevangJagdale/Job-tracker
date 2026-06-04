@@ -4,6 +4,11 @@
   "total_jobs": 10,
   "jobs": [
     {
+      "title": "Supply Management Analyst\nBoise, Idaho, United States of America\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/41482847",
+      "identifier": "Supply Management Analyst\nBoise, Idaho, United Sta_icron.com/careers/job/41482847"
+    },
+    {
       "title": "Semiconductor Process Engineer, Metrology\nBoise, Idaho, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/39196650",
       "identifier": "Semiconductor Process Engineer, Metrology\nBoise, I_icron.com/careers/job/39196650"
@@ -17,11 +22,6 @@
       "title": "Metals/Films Process Development Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/40797024",
       "identifier": "Metals/Films Process Development Engineer\nBoise, I_icron.com/careers/job/40797024"
-    },
-    {
-      "title": "Supply Management Analyst\nBoise, Idaho, United States of America\nPosted a day ago",
-      "url": "https://careers.micron.com/careers/job/41482847",
-      "identifier": "Supply Management Analyst\nBoise, Idaho, United Sta_icron.com/careers/job/41482847"
     },
     {
       "title": "TPG Workforce Development AI Workflow Integration Specialist\nBoise, Idaho, United States of America\nPosted 2 days ago",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "96",
-  "timestamp": "2026-06-04T00:33:35.638014"
+  "timestamp": "2026-06-04T00:50:45.823576"
 }

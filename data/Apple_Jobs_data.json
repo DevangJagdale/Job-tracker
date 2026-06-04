@@ -4,6 +4,11 @@
   "total_jobs": 17,
   "jobs": [
     {
+      "title": "Large Machine Learning Model Optimization Engineer, SIML",
+      "url": "https://jobs.apple.com/en-us/details/200626700-3337/large-machine-learning-model-optimization-engineer-siml?team=SFTWR",
+      "identifier": "Large Machine Learning Model Optimization Engineer_ation-engineer-siml?team=SFTWR"
+    },
+    {
       "title": "Software Engineer, Safari Extensions",
       "url": "https://jobs.apple.com/en-us/details/200582815-3543/software-engineer-safari-extensions?team=SFTWR",
       "identifier": "Software Engineer, Safari Extensions_r-safari-extensions?team=SFTWR"
@@ -82,13 +87,8 @@
       "title": "Platform Engineer - Security (Platform Architecture)",
       "url": "https://jobs.apple.com/en-us/details/200666621-0157/platform-engineer-security-platform-architecture?team=SFTWR",
       "identifier": "Platform Engineer - Security (Platform Architectur_atform-architecture?team=SFTWR"
-    },
-    {
-      "title": "Core Audio System Software Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200666534-0836/core-audio-system-software-engineer?team=SFTWR",
-      "identifier": "Core Audio System Software Engineer_m-software-engineer?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-06-04T00:30:27.661784"
+  "timestamp": "2026-06-04T00:47:34.482758"
 }

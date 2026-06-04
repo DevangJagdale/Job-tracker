@@ -4,6 +4,11 @@
   "total_jobs": 18,
   "jobs": [
     {
+      "title": "Program Manager - SWE Infrastructure",
+      "url": "https://jobs.apple.com/en-us/details/200666799-0836/program-manager-swe-infrastructure?team=SFTWR",
+      "identifier": "Program Manager - SWE Infrastructure_-swe-infrastructure?team=SFTWR"
+    },
+    {
       "title": "Sr. CI Tooling & Infrastructure Engineer - Xcode",
       "url": "https://jobs.apple.com/en-us/details/200666807-3543/sr-ci-tooling-infrastructure-engineer-xcode?team=SFTWR",
       "identifier": "Sr. CI Tooling & Infrastructure Engineer - Xcode_ture-engineer-xcode?team=SFTWR"
@@ -87,13 +92,8 @@
       "title": "Machine Learning Systems Engineer, Siri Agent Modeling",
       "url": "https://jobs.apple.com/en-us/details/200620661-0836/machine-learning-systems-engineer-siri-agent-modeling?team=SFTWR",
       "identifier": "Machine Learning Systems Engineer, Siri Agent Mode_siri-agent-modeling?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer - Customer Systems, Information Systems & Technology (IS&T)",
-      "url": "https://jobs.apple.com/en-us/details/200663125-3956/software-engineer-customer-systems-information-systems-technology-is-t?team=SFTWR",
-      "identifier": "Software Engineer - Customer Systems, Information _ems-technology-is-t?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-06-04T21:06:31.023229"
+  "timestamp": "2026-06-04T21:23:32.351144"
 }

@@ -4,6 +4,16 @@
   "total_jobs": 10,
   "jobs": [
     {
+      "title": "Semiconductor Process Engineer, Metrology\nBoise, Idaho, United States of America\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/39196650",
+      "identifier": "Semiconductor Process Engineer, Metrology\nBoise, I_icron.com/careers/job/39196650"
+    },
+    {
+      "title": "Metals/Films Process Development Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/40797024",
+      "identifier": "Metals/Films Process Development Engineer\nBoise, I_icron.com/careers/job/40797024"
+    },
+    {
       "title": "Supply Management Analyst\nBoise, Idaho, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/41482847",
       "identifier": "Supply Management Analyst\nBoise, Idaho, United Sta_icron.com/careers/job/41482847"
@@ -12,16 +22,6 @@
       "title": "New College Grad - Process Integration Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/40475196",
       "identifier": "New College Grad - Process Integration Engineer\nBo_icron.com/careers/job/40475196"
-    },
-    {
-      "title": "Metals/Films Process Development Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
-      "url": "https://careers.micron.com/careers/job/40797024",
-      "identifier": "Metals/Films Process Development Engineer\nBoise, I_icron.com/careers/job/40797024"
-    },
-    {
-      "title": "Semiconductor Process Engineer, Metrology\nBoise, Idaho, United States of America\nPosted a day ago",
-      "url": "https://careers.micron.com/careers/job/39196650",
-      "identifier": "Semiconductor Process Engineer, Metrology\nBoise, I_icron.com/careers/job/39196650"
     },
     {
       "title": "Design Validation Product Engineer, DEG Technology\nBoise, Idaho, United States of America\nPosted 2 days ago",
@@ -39,11 +39,6 @@
       "identifier": "Engineer, SIG Equip Software Design\nBoise, Idaho, _icron.com/careers/job/42198036"
     },
     {
-      "title": "New College Grad - Photolithography Process Engineer\nBoise, Idaho, United States of America\nPosted 2 days ago",
-      "url": "https://careers.micron.com/careers/job/41923169",
-      "identifier": "New College Grad - Photolithography Process Engine_icron.com/careers/job/41923169"
-    },
-    {
       "title": "TPG Workforce Development AI Workflow Integration Specialist\nBoise, Idaho, United States of America\nPosted 2 days ago",
       "url": "https://careers.micron.com/careers/job/42120327",
       "identifier": "TPG Workforce Development AI Workflow Integration _icron.com/careers/job/42120327"
@@ -52,8 +47,13 @@
       "title": "ENGINEER, DEMQRA AUTOMOTIVE PQRE\nManassas, Virginia, United States of America + 1 more\nPosted 2 days ago",
       "url": "https://careers.micron.com/careers/job/42076135",
       "identifier": "ENGINEER, DEMQRA AUTOMOTIVE PQRE\nManassas, Virgini_icron.com/careers/job/42076135"
+    },
+    {
+      "title": "New College Grad - Photolithography Process Engineer\nBoise, Idaho, United States of America\nPosted 2 days ago",
+      "url": "https://careers.micron.com/careers/job/41923169",
+      "identifier": "New College Grad - Photolithography Process Engine_icron.com/careers/job/41923169"
     }
   ],
   "job_count_text": "96",
-  "timestamp": "2026-06-04T07:31:39.876876"
+  "timestamp": "2026-06-04T07:48:45.906596"
 }

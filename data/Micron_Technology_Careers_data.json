@@ -4,11 +4,6 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "New College Grad - Process Integration Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
-      "url": "https://careers.micron.com/careers/job/40475196",
-      "identifier": "New College Grad - Process Integration Engineer\nBo_icron.com/careers/job/40475196"
-    },
-    {
       "title": "Metals/Films Process Development Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/40797024",
       "identifier": "Metals/Films Process Development Engineer\nBoise, I_icron.com/careers/job/40797024"
@@ -24,6 +19,11 @@
       "identifier": "Semiconductor Process Engineer, Metrology\nBoise, I_icron.com/careers/job/39196650"
     },
     {
+      "title": "New College Grad - Process Integration Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/40475196",
+      "identifier": "New College Grad - Process Integration Engineer\nBo_icron.com/careers/job/40475196"
+    },
+    {
       "title": "New College Grad - Photolithography Process Engineer\nBoise, Idaho, United States of America\nPosted 2 days ago",
       "url": "https://careers.micron.com/careers/job/41923169",
       "identifier": "New College Grad - Photolithography Process Engine_icron.com/careers/job/41923169"
@@ -32,6 +32,11 @@
       "title": "TPG Workforce Development AI Workflow Integration Specialist\nBoise, Idaho, United States of America\nPosted 2 days ago",
       "url": "https://careers.micron.com/careers/job/42120327",
       "identifier": "TPG Workforce Development AI Workflow Integration _icron.com/careers/job/42120327"
+    },
+    {
+      "title": "Supply Management Analyst\nManassas, Virginia, United States of America\nPosted 2 days ago",
+      "url": "https://careers.micron.com/careers/job/41926344",
+      "identifier": "Supply Management Analyst\nManassas, Virginia, Unit_icron.com/careers/job/41926344"
     },
     {
       "title": "ENGINEER, DEMQRA AUTOMOTIVE PQRE\nManassas, Virginia, United States of America + 1 more\nPosted 2 days ago",
@@ -44,16 +49,11 @@
       "identifier": "Design Validation Product Engineer, DEG Technology_icron.com/careers/job/41121665"
     },
     {
-      "title": "Supply Management Analyst\nManassas, Virginia, United States of America\nPosted 2 days ago",
-      "url": "https://careers.micron.com/careers/job/41926344",
-      "identifier": "Supply Management Analyst\nManassas, Virginia, Unit_icron.com/careers/job/41926344"
-    },
-    {
       "title": "Engineer, SIG Equip Software Design\nBoise, Idaho, United States of America\nPosted 2 days ago",
       "url": "https://careers.micron.com/careers/job/42198036",
       "identifier": "Engineer, SIG Equip Software Design\nBoise, Idaho, _icron.com/careers/job/42198036"
     }
   ],
   "job_count_text": "96",
-  "timestamp": "2026-06-04T11:05:13.433948"
+  "timestamp": "2026-06-04T11:22:13.131353"
 }

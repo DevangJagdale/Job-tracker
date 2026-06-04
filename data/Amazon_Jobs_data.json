@@ -1,7 +1,7 @@
 {
   "page_title": "Amazon University Talent Acquisition (AUTA)",
   "url": "https://www.amazon.jobs/content/en/career-programs/university?country%5B%5D=US&employment-type%5B%5D=Full+time&team%5B%5D=studentprograms.team-jobs-for-grads",
-  "total_jobs": 11,
+  "total_jobs": 9,
   "jobs": [
     {
       "title": "Full-time roles for graduates",
@@ -47,18 +47,8 @@
       "title": "Software Development Engineer Apprentice - Military Veterans",
       "url": "https://www.amazon.jobs/jobs/3188438",
       "identifier": "Software Development Engineer Apprentice - Militar_//www.amazon.jobs/jobs/3188438"
-    },
-    {
-      "title": "Network Development Engineer",
-      "url": "https://www.amazon.jobs/jobs/3176561",
-      "identifier": "Network Development Engineer_//www.amazon.jobs/jobs/3176561"
-    },
-    {
-      "title": "Hardware Development Engineer, Quantum Computing",
-      "url": "https://www.amazon.jobs/jobs/3176565",
-      "identifier": "Hardware Development Engineer, Quantum Computing_//www.amazon.jobs/jobs/3176565"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-06-04T20:02:59.719712"
+  "timestamp": "2026-06-04T20:20:00.910341"
 }

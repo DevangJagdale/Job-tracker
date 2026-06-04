@@ -4,12 +4,17 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Principal Engineer - Identity Services\nUnited States, Washington, Redmond\nPosted 32 minutes ago",
+      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 19 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556864971?domain=microsoft.com",
+      "identifier": "Software Engineer II\nUnited States, Washington, Re_556864971?domain=microsoft.com"
+    },
+    {
+      "title": "Principal Engineer - Identity Services\nUnited States, Washington, Redmond\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556852373?domain=microsoft.com",
       "identifier": "Principal Engineer - Identity Services\nUnited Stat_556852373?domain=microsoft.com"
     },
     {
-      "title": "Principal Software Architect\nUnited States, Washington, Redmond\nPosted 34 minutes ago",
+      "title": "Principal Software Architect\nUnited States, Washington, Redmond\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556754947?domain=microsoft.com",
       "identifier": "Principal Software Architect\nUnited States, Washin_556754947?domain=microsoft.com"
     },
@@ -29,7 +34,7 @@
       "identifier": "Principal Software Engineer\nUnited States, Multipl_556851517?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer\nUnited States, California, Mountain View + 1 more\nPosted 4 hours ago",
+      "title": "Senior Software Engineer\nUnited States, California, Mountain View + 1 more\nPosted 5 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556748047?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, California_556748047?domain=microsoft.com"
     },
@@ -47,13 +52,8 @@
       "title": "Senior Data Scientist\nUnited States, Multiple Locations, Multiple Locations + 8 more\nPosted 5 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556872901?domain=microsoft.com",
       "identifier": "Senior Data Scientist\nUnited States, Multiple Loca_556872901?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Service Engineer\nUnited States, Washington, Redmond\nPosted 6 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556870429?domain=microsoft.com",
-      "identifier": "Senior Service Engineer\nUnited States, Washington,_556870429?domain=microsoft.com"
     }
   ],
-  "job_count_text": "406",
-  "timestamp": "2026-06-04T22:21:28.955547"
+  "job_count_text": "407",
+  "timestamp": "2026-06-04T22:38:19.164583"
 }

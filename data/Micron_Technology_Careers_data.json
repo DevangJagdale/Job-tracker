@@ -4,14 +4,14 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Sales Business Planning Analyst\nBoise, Idaho, United States of America\nPosted a day ago",
-      "url": "https://careers.micron.com/careers/job/42248907",
-      "identifier": "Sales Business Planning Analyst\nBoise, Idaho, Unit_icron.com/careers/job/42248907"
-    },
-    {
       "title": "Product Yield & Analytics ESDA Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/40788461",
       "identifier": "Product Yield & Analytics ESDA Engineer\nBoise, Ida_icron.com/careers/job/40788461"
+    },
+    {
+      "title": "Sales Business Planning Analyst\nBoise, Idaho, United States of America\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/42248907",
+      "identifier": "Sales Business Planning Analyst\nBoise, Idaho, Unit_icron.com/careers/job/42248907"
     },
     {
       "title": "New College Grad - Process Integration Engineer\nBoise, Idaho, United States of America\nPosted 2 days ago",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "96",
-  "timestamp": "2026-06-04T22:24:48.465238"
+  "timestamp": "2026-06-04T22:41:44.123241"
 }

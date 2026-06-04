@@ -4,6 +4,11 @@
   "total_jobs": 18,
   "jobs": [
     {
+      "title": "Sr. CI Tooling & Infrastructure Engineer - Xcode",
+      "url": "https://jobs.apple.com/en-us/details/200666807-3543/sr-ci-tooling-infrastructure-engineer-xcode?team=SFTWR",
+      "identifier": "Sr. CI Tooling & Infrastructure Engineer - Xcode_ture-engineer-xcode?team=SFTWR"
+    },
+    {
       "title": "Sr. Engineering Project Manager, Build and Release",
       "url": "https://jobs.apple.com/en-us/details/200666811-0157/sr-engineering-project-manager-build-and-release?team=SFTWR",
       "identifier": "Sr. Engineering Project Manager, Build and Release_r-build-and-release?team=SFTWR"
@@ -87,13 +92,8 @@
       "title": "Software Engineer - Customer Systems, Information Systems & Technology (IS&T)",
       "url": "https://jobs.apple.com/en-us/details/200663125-3956/software-engineer-customer-systems-information-systems-technology-is-t?team=SFTWR",
       "identifier": "Software Engineer - Customer Systems, Information _ems-technology-is-t?team=SFTWR"
-    },
-    {
-      "title": "iOS Location Engineer, Sensing & Connectivity",
-      "url": "https://jobs.apple.com/en-us/details/200666514-0836/ios-location-engineer-sensing-connectivity?team=SFTWR",
-      "identifier": "iOS Location Engineer, Sensing & Connectivity_ensing-connectivity?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-06-04T20:49:26.955050"
+  "timestamp": "2026-06-04T21:06:31.023229"
 }

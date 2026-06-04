@@ -4,17 +4,22 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Principal Data Scientist\nUnited States, Washington, Redmond + 1 more\nPosted 6 minutes ago",
+      "title": "Principal Data Scientist\nUnited States, Washington, Redmond + 1 more\nPosted 10 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556863166?domain=microsoft.com",
       "identifier": "Principal Data Scientist\nUnited States, Washington_556863166?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer\nUnited States, California, Mountain View + 1 more\nPosted 20 minutes ago",
+      "title": "Principal Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 20 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556851517?domain=microsoft.com",
+      "identifier": "Principal Software Engineer\nUnited States, Multipl_556851517?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Software Engineer\nUnited States, California, Mountain View + 1 more\nPosted 37 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556748047?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, California_556748047?domain=microsoft.com"
     },
     {
-      "title": "Principal Software Engineer - CTJ - Poly\nUnited States, Washington, Redmond + 1 more\nPosted 27 minutes ago",
+      "title": "Principal Software Engineer - CTJ - Poly\nUnited States, Washington, Redmond + 1 more\nPosted 44 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556872171?domain=microsoft.com",
       "identifier": "Principal Software Engineer - CTJ - Poly\nUnited St_556872171?domain=microsoft.com"
     },
@@ -44,16 +49,11 @@
       "identifier": "Principal Software Engineer - DPU Integrations\nUni_556870017?domain=microsoft.com"
     },
     {
-      "title": "Software Engineering Manager\nUnited States, Washington, Redmond\nPosted 20 hours ago",
+      "title": "Software Engineering Manager\nUnited States, Washington, Redmond\nPosted 21 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556872676?domain=microsoft.com",
       "identifier": "Software Engineering Manager\nUnited States, Washin_556872676?domain=microsoft.com"
-    },
-    {
-      "title": "Principal Software Engineer - Finance Data & Experiences\nUnited States, Washington, Redmond\nPosted 20 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556863490?domain=microsoft.com",
-      "identifier": "Principal Software Engineer - Finance Data & Exper_556863490?domain=microsoft.com"
     }
   ],
   "job_count_text": "407",
-  "timestamp": "2026-06-04T18:15:33.297493"
+  "timestamp": "2026-06-04T18:32:40.606477"
 }

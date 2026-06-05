@@ -4,6 +4,11 @@
   "total_jobs": 18,
   "jobs": [
     {
+      "title": "Senior Site Reliability Engineer (SRE) - Apple Services Engineering / iCloud",
+      "url": "https://jobs.apple.com/en-us/details/200665825-3337/senior-site-reliability-engineer-sre-apple-services-engineering-icloud?team=SFTWR",
+      "identifier": "Senior Site Reliability Engineer (SRE) - Apple Ser_-engineering-icloud?team=SFTWR"
+    },
+    {
       "title": "SRE Manager, ML Operations - Apple Ads",
       "url": "https://jobs.apple.com/en-us/details/200667013-2459/sre-manager-ml-operations-apple-ads?team=SFTWR",
       "identifier": "SRE Manager, ML Operations - Apple Ads_perations-apple-ads?team=SFTWR"
@@ -87,13 +92,8 @@
       "title": "Software Engineer, Apps",
       "url": "https://jobs.apple.com/en-us/details/200661273-2926/software-engineer-apps?team=SFTWR",
       "identifier": "Software Engineer, Apps_tware-engineer-apps?team=SFTWR"
-    },
-    {
-      "title": "Sr Machine Learning Engineer, Proactive",
-      "url": "https://jobs.apple.com/en-us/details/200661999-3760/sr-machine-learning-engineer-proactive?team=MLAI",
-      "identifier": "Sr Machine Learning Engineer, Proactive_g-engineer-proactive?team=MLAI"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-06-05T19:51:28.661566"
+  "timestamp": "2026-06-05T19:58:58.774910"
 }

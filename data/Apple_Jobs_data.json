@@ -4,6 +4,11 @@
   "total_jobs": 17,
   "jobs": [
     {
+      "title": "System Experience - Notifications and Focus Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200661462-0836/system-experience-notifications-and-focus-engineer?team=SFTWR",
+      "identifier": "System Experience - Notifications and Focus Engine_-and-focus-engineer?team=SFTWR"
+    },
+    {
       "title": "Senior Data Scientist, Experimentation & Causal Inference",
       "url": "https://jobs.apple.com/en-us/details/200666485-0836/senior-data-scientist-experimentation-causal-inference?team=SFTWR",
       "identifier": "Senior Data Scientist, Experimentation & Causal In_on-causal-inference?team=SFTWR"
@@ -82,13 +87,8 @@
       "title": "Engineering Project Manager, Cross-Functional Programs",
       "url": "https://jobs.apple.com/en-us/details/200666693-0836/engineering-project-manager-cross-functional-programs?team=SFTWR",
       "identifier": "Engineering Project Manager, Cross-Functional Prog_functional-programs?team=SFTWR"
-    },
-    {
-      "title": "Site Reliability Engineering Manager, eBusiness Services",
-      "url": "https://jobs.apple.com/en-us/details/200648315-3956/site-reliability-engineering-manager-ebusiness-services?team=SFTWR",
-      "identifier": "Site Reliability Engineering Manager, eBusiness Se_-ebusiness-services?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-06-05T02:02:33.545403"
+  "timestamp": "2026-06-05T02:21:27.792039"
 }

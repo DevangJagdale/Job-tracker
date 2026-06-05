@@ -4,19 +4,14 @@
   "total_jobs": 7,
   "jobs": [
     {
+      "title": "Lead Director \u2013 Software Development Engineering (AI & Automation)",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0843277/Lead-Director-Software-Development-Engineering-AI-Automation",
+      "identifier": "Lead Director \u2013 Software Development Engineering (_ment-Engineering-AI-Automation"
+    },
+    {
       "title": "Senior Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0888451/Senior-Software-Development-Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0875597/Senior-Software-Development-Engineer",
       "identifier": "Senior Software Development Engineer_-Software-Development-Engineer"
-    },
-    {
-      "title": "Software Development Engineer - Front Store",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0927508/Software-Development-Engineer-Front-Store",
-      "identifier": "Software Development Engineer - Front Store_velopment-Engineer-Front-Store"
-    },
-    {
-      "title": "Staff Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0928864/Staff-Software-Development-Engineer",
-      "identifier": "Staff Software Development Engineer_-Software-Development-Engineer"
     },
     {
       "title": "Lead Director - Agile Practice Management",
@@ -29,16 +24,21 @@
       "identifier": "Senior Software Development Engineer \u2013 Imaging Pla_ment-Engineer-Imaging-Platform"
     },
     {
+      "title": "Software Development Engineer - Front Store",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0927508/Software-Development-Engineer-Front-Store",
+      "identifier": "Software Development Engineer - Front Store_velopment-Engineer-Front-Store"
+    },
+    {
+      "title": "Staff Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0928864/Staff-Software-Development-Engineer",
+      "identifier": "Staff Software Development Engineer_-Software-Development-Engineer"
+    },
+    {
       "title": "Senior Solutions Engineer - Manhattan Active Warehouse Management",
       "url": "https://jobs.cvshealth.com/us/en/job/R0859775/Senior-Solutions-Engineer-Manhattan-Active-Warehouse-Management",
       "identifier": "Senior Solutions Engineer - Manhattan Active Wareh_an-Active-Warehouse-Management"
-    },
-    {
-      "title": "Senior Analyst Tech Infrastructure",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0923885/Senior-Analyst-Tech-Infrastructure",
-      "identifier": "Senior Analyst Tech Infrastructure_or-Analyst-Tech-Infrastructure"
     }
   ],
-  "job_count_text": "44",
-  "timestamp": "2026-06-05T13:07:41.882440"
+  "job_count_text": "45",
+  "timestamp": "2026-06-05T13:24:48.726530"
 }

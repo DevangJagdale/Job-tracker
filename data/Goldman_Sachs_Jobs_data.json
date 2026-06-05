@@ -4,6 +4,11 @@
   "total_jobs": 20,
   "jobs": [
     {
+      "title": "AWM, Marcus by Goldman Sachs, Commercial Strategy, Analyst - Richardson, TX\nRichardson\u00b7United States\n\u00b7Analyst",
+      "url": "https://higher.gs.com/roles/151793",
+      "identifier": "AWM, Marcus by Goldman Sachs, Commercial Strategy,_s://higher.gs.com/roles/151793"
+    },
+    {
       "title": "Corporate Planning & Management, Data Engineering, New York, Associate\nNew York\u00b7United States\n\u00b7Associate",
       "url": "https://higher.gs.com/roles/170256",
       "identifier": "Corporate Planning & Management, Data Engineering,_s://higher.gs.com/roles/170256"
@@ -22,11 +27,6 @@
       "title": "MLOps Engineer - Machine Learning Platform - New York\nJersey City\u00b7United States\n\u00b7Associate",
       "url": "https://higher.gs.com/roles/153822",
       "identifier": "MLOps Engineer - Machine Learning Platform - New Y_s://higher.gs.com/roles/153822"
-    },
-    {
-      "title": "AWM, Marcus by Goldman Sachs, Commercial Strategy, Analyst - Richardson, TX\nRichardson\u00b7United States\n\u00b7Analyst",
-      "url": "https://higher.gs.com/roles/151793",
-      "identifier": "AWM, Marcus by Goldman Sachs, Commercial Strategy,_s://higher.gs.com/roles/151793"
     },
     {
       "title": "Controllers, Software Engineering, Salt Lake City, Associate\nSalt Lake City\u00b7United States\n\u00b7Associate",
@@ -105,5 +105,5 @@
     }
   ],
   "job_count_text": "35",
-  "timestamp": "2026-06-05T17:48:50.499517"
+  "timestamp": "2026-06-05T18:06:19.012823"
 }

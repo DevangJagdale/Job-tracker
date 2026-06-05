@@ -79,11 +79,6 @@
       "identifier": "jpmc_210706388"
     },
     {
-      "title": "Software Engineer III - Python Developer/AWS/Kafka",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210726417/?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
-      "identifier": "jpmc_210726417"
-    },
-    {
       "title": "Lead Software Engineer - Databricks/PySpark/AI",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210728002/?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
       "identifier": "jpmc_210728002"
@@ -127,8 +122,13 @@
       "title": "Consumer and Community Banking - Quant Modeling Management Lead (VP)",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210734280/?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
       "identifier": "jpmc_210734280"
+    },
+    {
+      "title": "Vice President, Data Scientist Ontology Operations",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210754426/?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
+      "identifier": "jpmc_210754426"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-06-05T18:45:26.047577"
+  "timestamp": "2026-06-05T19:02:26.450752"
 }

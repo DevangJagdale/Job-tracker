@@ -1,8 +1,18 @@
 {
   "page_title": "Search our Job Opportunities at Barclays",
   "url": "https://search.jobs.barclays/search-jobs/United%20States/13015/2/6252001/39x76/-98x5/50/2",
-  "total_jobs": 14,
+  "total_jobs": 16,
   "jobs": [
+    {
+      "title": "Application Support Analyst",
+      "url": "https://search.jobs.barclays/job/whippany/application-support-analyst/13015/96018448576",
+      "identifier": "Application Support Analyst_port-analyst/13015/96018448576"
+    },
+    {
+      "title": "US Controls Assurance VP",
+      "url": "https://search.jobs.barclays/job/whippany/us-controls-assurance-vp/13015/96009191648",
+      "identifier": "US Controls Assurance VP_assurance-vp/13015/96009191648"
+    },
     {
       "title": "Assistant VP, Windows Server Engineer",
       "url": "https://search.jobs.barclays/job/whippany/assistant-vp-windows-server-engineer/13015/95994010176",
@@ -74,6 +84,6 @@
       "identifier": "Executive Engineering Lead_neering-lead/13015/95856689184"
     }
   ],
-  "job_count_text": "144",
-  "timestamp": "2026-06-05T11:23:38.284777"
+  "job_count_text": "143",
+  "timestamp": "2026-06-05T11:40:42.715355"
 }

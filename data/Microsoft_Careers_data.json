@@ -4,12 +4,17 @@
   "total_jobs": 10,
   "jobs": [
     {
+      "title": "Software Engineer II\nUnited States, Multiple Locations, Multiple Locations\nPosted 10 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556863505?domain=microsoft.com",
+      "identifier": "Software Engineer II\nUnited States, Multiple Locat_556863505?domain=microsoft.com"
+    },
+    {
       "title": "Senior Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556861873?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Multiple L_556861873?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer, CoreAI\nUnited States, Washington, Redmond\nPosted 3 hours ago",
+      "title": "Senior Software Engineer, CoreAI\nUnited States, Washington, Redmond\nPosted 4 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556866572?domain=microsoft.com",
       "identifier": "Senior Software Engineer, CoreAI\nUnited States, Wa_556866572?domain=microsoft.com"
     },
@@ -47,13 +52,8 @@
       "title": "Principal Data Scientist\nUnited States, Washington, Redmond + 1 more\nPosted a day ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556863166?domain=microsoft.com",
       "identifier": "Principal Data Scientist\nUnited States, Washington_556863166?domain=microsoft.com"
-    },
-    {
-      "title": "Principal Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted a day ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556851517?domain=microsoft.com",
-      "identifier": "Principal Software Engineer\nUnited States, Multipl_556851517?domain=microsoft.com"
     }
   ],
-  "job_count_text": "397",
-  "timestamp": "2026-06-05T20:32:32.158050"
+  "job_count_text": "398",
+  "timestamp": "2026-06-05T20:49:27.703711"
 }

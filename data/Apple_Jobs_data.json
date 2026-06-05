@@ -4,6 +4,16 @@
   "total_jobs": 15,
   "jobs": [
     {
+      "title": "Technical Enablement Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200666578-0836/technical-enablement-engineer?team=SFTWR",
+      "identifier": "Technical Enablement Engineer_enablement-engineer?team=SFTWR"
+    },
+    {
+      "title": "Senior Software Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200654516-3337/senior-software-engineer?team=SFTWR",
+      "identifier": "Senior Software Engineer_r-software-engineer?team=SFTWR"
+    },
+    {
       "title": "iOS Software Engineer (MSO)",
       "url": "https://jobs.apple.com/en-us/details/200665666-0836/ios-software-engineer-mso?team=SFTWR",
       "identifier": "iOS Software Engineer (MSO)_ftware-engineer-mso?team=SFTWR"
@@ -67,18 +77,8 @@
       "title": "Build & Integration Engineering Manager, Software Delivery & Technologies",
       "url": "https://jobs.apple.com/en-us/details/200666260-3543/build-integration-engineering-manager-software-delivery-technologies?team=SFTWR",
       "identifier": "Build & Integration Engineering Manager, Software _livery-technologies?team=SFTWR"
-    },
-    {
-      "title": "SoC Security Engineer - Platform Architecture",
-      "url": "https://jobs.apple.com/en-us/details/200666867-0836/soc-security-engineer-platform-architecture?team=SFTWR",
-      "identifier": "SoC Security Engineer - Platform Architecture_atform-architecture?team=SFTWR"
-    },
-    {
-      "title": "Senior Machine Learning Engineer, AI, SIML",
-      "url": "https://jobs.apple.com/en-us/details/200651112-0836/senior-machine-learning-engineer-ai-siml?team=SFTWR",
-      "identifier": "Senior Machine Learning Engineer, AI, SIML_ng-engineer-ai-siml?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-06-05T22:30:50.632021"
+  "timestamp": "2026-06-05T22:47:40.816789"
 }

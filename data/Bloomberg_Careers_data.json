@@ -1,7 +1,7 @@
 {
   "page_title": "Bloomberg Careers",
   "url": "https://bloomberg.avature.net/careers/SearchJobs/?1686=%5B55478%5D&1686_format=2312&2562=%5B219290%5D&2562_format=6594&listFilterMode=1&jobRecordsPerPage=12&",
-  "total_jobs": 4,
+  "total_jobs": 3,
   "jobs": [
     {
       "title": "privacy policy",
@@ -14,16 +14,11 @@
       "identifier": "Bloomberg_/bloomberg.avature.net/careers"
     },
     {
-      "title": "2026 Software Engineer - Lugano",
-      "url": "https://bloomberg.avature.net/careers/JobDetail/2026-Software-Engineer-Lugano/18492",
-      "identifier": "2026 Software Engineer - Lugano_Software-Engineer-Lugano/18492"
-    },
-    {
       "title": "Technology Policy Writer - Engineering COO Office (Contract)",
       "url": "https://bloomberg.avature.net/careers/JobDetail/Technology-Policy-Writer-Engineering-COO-Office-Contract/16986",
       "identifier": "Technology Policy Writer - Engineering COO Office _ring-COO-Office-Contract/16986"
     }
   ],
-  "job_count_text": "2",
-  "timestamp": "2026-06-05T13:28:59.575643"
+  "job_count_text": "1",
+  "timestamp": "2026-06-05T13:46:03.813255"
 }

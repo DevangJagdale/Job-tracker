@@ -9,11 +9,6 @@
       "identifier": "Engineering Project Manager, Video Apps_-manager-video-apps?team=SFTWR"
     },
     {
-      "title": "Senior Site Reliability Engineer (SRE) - Apple Services Engineering / iCloud",
-      "url": "https://jobs.apple.com/en-us/details/200665825-3337/senior-site-reliability-engineer-sre-apple-services-engineering-icloud?team=SFTWR",
-      "identifier": "Senior Site Reliability Engineer (SRE) - Apple Ser_-engineering-icloud?team=SFTWR"
-    },
-    {
       "title": "SRE Manager, ML Operations - Apple Ads",
       "url": "https://jobs.apple.com/en-us/details/200667013-2459/sre-manager-ml-operations-apple-ads?team=SFTWR",
       "identifier": "SRE Manager, ML Operations - Apple Ads_perations-apple-ads?team=SFTWR"
@@ -72,8 +67,13 @@
       "title": "Senior Machine Learning Engineer, AI, SIML",
       "url": "https://jobs.apple.com/en-us/details/200651112-0836/senior-machine-learning-engineer-ai-siml?team=SFTWR",
       "identifier": "Senior Machine Learning Engineer, AI, SIML_ng-engineer-ai-siml?team=SFTWR"
+    },
+    {
+      "title": "Bluetooth Firmware Engineer, Wireless Technologies & Ecosystems",
+      "url": "https://jobs.apple.com/en-us/details/200666184-3543/bluetooth-firmware-engineer-wireless-technologies-ecosystems?team=SFTWR",
+      "identifier": "Bluetooth Firmware Engineer, Wireless Technologies_nologies-ecosystems?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-06-05T21:06:34.727811"
+  "timestamp": "2026-06-05T21:23:23.336361"
 }

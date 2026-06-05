@@ -5,18 +5,8 @@
   "jobs": [
     {
       "title": "Senior Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0888451/Senior-Software-Development-Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0875597/Senior-Software-Development-Engineer",
       "identifier": "Senior Software Development Engineer_-Software-Development-Engineer"
-    },
-    {
-      "title": "Software Development Engineer - Front Store",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0927508/Software-Development-Engineer-Front-Store",
-      "identifier": "Software Development Engineer - Front Store_velopment-Engineer-Front-Store"
-    },
-    {
-      "title": "Staff Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0928864/Staff-Software-Development-Engineer",
-      "identifier": "Staff Software Development Engineer_-Software-Development-Engineer"
     },
     {
       "title": "Lead Director - Agile Practice Management",
@@ -29,16 +19,26 @@
       "identifier": "Senior Software Development Engineer \u2013 Imaging Pla_ment-Engineer-Imaging-Platform"
     },
     {
+      "title": "Software Development Engineer - Front Store",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0927508/Software-Development-Engineer-Front-Store",
+      "identifier": "Software Development Engineer - Front Store_velopment-Engineer-Front-Store"
+    },
+    {
+      "title": "Staff Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0928864/Staff-Software-Development-Engineer",
+      "identifier": "Staff Software Development Engineer_-Software-Development-Engineer"
+    },
+    {
       "title": "Senior Solutions Engineer - Manhattan Active Warehouse Management",
       "url": "https://jobs.cvshealth.com/us/en/job/R0859775/Senior-Solutions-Engineer-Manhattan-Active-Warehouse-Management",
       "identifier": "Senior Solutions Engineer - Manhattan Active Wareh_an-Active-Warehouse-Management"
     },
     {
-      "title": "Senior Analyst Tech Infrastructure",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0923885/Senior-Analyst-Tech-Infrastructure",
-      "identifier": "Senior Analyst Tech Infrastructure_or-Analyst-Tech-Infrastructure"
+      "title": "Senior Manager ACAS/Commercial Benefits Testing",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0871984/Senior-Manager-ACAS-Commercial-Benefits-Testing",
+      "identifier": "Senior Manager ACAS/Commercial Benefits Testing_AS-Commercial-Benefits-Testing"
     }
   ],
   "job_count_text": "44",
-  "timestamp": "2026-06-05T08:51:28.583712"
+  "timestamp": "2026-06-05T09:08:33.810960"
 }

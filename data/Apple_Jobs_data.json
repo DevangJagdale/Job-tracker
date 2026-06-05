@@ -1,8 +1,13 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 12,
+  "total_jobs": 11,
   "jobs": [
+    {
+      "title": "Software Engineer (Data Solutions), AI & Data Platforms (AiDP)",
+      "url": "https://jobs.apple.com/en-us/details/200667022-0157/software-engineer-data-solutions-ai-data-platforms-aidp?team=SFTWR",
+      "identifier": "Software Engineer (Data Solutions), AI & Data Plat_data-platforms-aidp?team=SFTWR"
+    },
     {
       "title": "Technical Enablement Engineer",
       "url": "https://jobs.apple.com/en-us/details/200666578-0836/technical-enablement-engineer?team=SFTWR",
@@ -52,18 +57,8 @@
       "title": "System Experience - Notifications and Focus Engineer",
       "url": "https://jobs.apple.com/en-us/details/200661462-0836/system-experience-notifications-and-focus-engineer?team=SFTWR",
       "identifier": "System Experience - Notifications and Focus Engine_-and-focus-engineer?team=SFTWR"
-    },
-    {
-      "title": "Senior Data Scientist, Experimentation & Causal Inference",
-      "url": "https://jobs.apple.com/en-us/details/200666485-0836/senior-data-scientist-experimentation-causal-inference?team=SFTWR",
-      "identifier": "Senior Data Scientist, Experimentation & Causal In_on-causal-inference?team=SFTWR"
-    },
-    {
-      "title": "Senior Data Scientist, Strategic Modeling & Simulation",
-      "url": "https://jobs.apple.com/en-us/details/200666451-0836/senior-data-scientist-strategic-modeling-simulation?team=SFTWR",
-      "identifier": "Senior Data Scientist, Strategic Modeling & Simula_modeling-simulation?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-06-05T23:04:29.575034"
+  "timestamp": "2026-06-05T23:21:16.842652"
 }

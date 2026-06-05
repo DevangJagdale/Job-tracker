@@ -4,6 +4,11 @@
   "total_jobs": 17,
   "jobs": [
     {
+      "title": "Software Engineer - Regulatory AI & Connected Data",
+      "url": "https://jobs.apple.com/en-us/details/200666913-0836/software-engineer-regulatory-ai-connected-data?team=OPMFG",
+      "identifier": "Software Engineer - Regulatory AI & Connected Data_y-ai-connected-data?team=OPMFG"
+    },
+    {
       "title": "System Experience - Notifications and Focus Engineer",
       "url": "https://jobs.apple.com/en-us/details/200661462-0836/system-experience-notifications-and-focus-engineer?team=SFTWR",
       "identifier": "System Experience - Notifications and Focus Engine_-and-focus-engineer?team=SFTWR"
@@ -82,13 +87,8 @@
       "title": "Software Engineer in Natural Language Processing (NLP) and Machine Learning (ML)",
       "url": "https://jobs.apple.com/en-us/details/200666537-0836/software-engineer-in-natural-language-processing-nlp-and-machine-learning-ml?team=SFTWR",
       "identifier": "Software Engineer in Natural Language Processing (_machine-learning-ml?team=SFTWR"
-    },
-    {
-      "title": "Engineering Project Manager, Cross-Functional Programs",
-      "url": "https://jobs.apple.com/en-us/details/200666693-0836/engineering-project-manager-cross-functional-programs?team=SFTWR",
-      "identifier": "Engineering Project Manager, Cross-Functional Prog_functional-programs?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-06-05T03:53:19.710588"
+  "timestamp": "2026-06-05T04:10:21.019463"
 }

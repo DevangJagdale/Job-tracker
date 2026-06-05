@@ -4,12 +4,17 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Principal Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 35 minutes ago",
+      "title": "Principal Software Engineer - Architect\nUnited States, Washington, Redmond\nPosted 14 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556872959?domain=microsoft.com",
+      "identifier": "Principal Software Engineer - Architect\nUnited Sta_556872959?domain=microsoft.com"
+    },
+    {
+      "title": "Principal Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556863486?domain=microsoft.com",
       "identifier": "Principal Software Engineer\nUnited States, Multipl_556863486?domain=microsoft.com"
     },
     {
-      "title": "Software Engineer II\nUnited States, Multiple Locations, Multiple Locations\nPosted 44 minutes ago",
+      "title": "Software Engineer II\nUnited States, Multiple Locations, Multiple Locations\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556863505?domain=microsoft.com",
       "identifier": "Software Engineer II\nUnited States, Multiple Locat_556863505?domain=microsoft.com"
     },
@@ -19,12 +24,12 @@
       "identifier": "Senior Software Engineer\nUnited States, Multiple L_556861873?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer, CoreAI\nUnited States, Washington, Redmond\nPosted 4 hours ago",
+      "title": "Senior Software Engineer, CoreAI\nUnited States, Washington, Redmond\nPosted 5 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556866572?domain=microsoft.com",
       "identifier": "Senior Software Engineer, CoreAI\nUnited States, Wa_556866572?domain=microsoft.com"
     },
     {
-      "title": "Principal Software Engineer - CTJ - Poly\nUnited States, Washington, Redmond + 1 more\nPosted 5 hours ago",
+      "title": "Principal Software Engineer - CTJ - Poly\nUnited States, Washington, Redmond + 1 more\nPosted 6 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556872171?domain=microsoft.com",
       "identifier": "Principal Software Engineer - CTJ - Poly\nUnited St_556872171?domain=microsoft.com"
     },
@@ -47,13 +52,8 @@
       "title": "Principal Software Architect\nUnited States, Washington, Redmond\nPosted a day ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556754947?domain=microsoft.com",
       "identifier": "Principal Software Architect\nUnited States, Washin_556754947?domain=microsoft.com"
-    },
-    {
-      "title": "Principal, Data Science & Analytics\nUnited States, Washington, Redmond\nPosted a day ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556872960?domain=microsoft.com",
-      "identifier": "Principal, Data Science & Analytics\nUnited States,_556872960?domain=microsoft.com"
     }
   ],
-  "job_count_text": "399",
-  "timestamp": "2026-06-05T21:23:07.584602"
+  "job_count_text": "400",
+  "timestamp": "2026-06-05T21:39:58.992890"
 }

@@ -4,6 +4,16 @@
   "total_jobs": 17,
   "jobs": [
     {
+      "title": "Senior Data Scientist, Experimentation & Causal Inference",
+      "url": "https://jobs.apple.com/en-us/details/200666485-0836/senior-data-scientist-experimentation-causal-inference?team=SFTWR",
+      "identifier": "Senior Data Scientist, Experimentation & Causal In_on-causal-inference?team=SFTWR"
+    },
+    {
+      "title": "Senior Data Scientist, Strategic Modeling & Simulation",
+      "url": "https://jobs.apple.com/en-us/details/200666451-0836/senior-data-scientist-strategic-modeling-simulation?team=SFTWR",
+      "identifier": "Senior Data Scientist, Strategic Modeling & Simula_modeling-simulation?team=SFTWR"
+    },
+    {
       "title": "Secure Systems Engineer - Platform Architecture",
       "url": "https://jobs.apple.com/en-us/details/200666637-0836/secure-systems-engineer-platform-architecture?team=SFTWR",
       "identifier": "Secure Systems Engineer - Platform Architecture_atform-architecture?team=SFTWR"
@@ -77,18 +87,8 @@
       "title": "Site Reliability Engineering Manager, eBusiness Services",
       "url": "https://jobs.apple.com/en-us/details/200648315-3956/site-reliability-engineering-manager-ebusiness-services?team=SFTWR",
       "identifier": "Site Reliability Engineering Manager, eBusiness Se_-ebusiness-services?team=SFTWR"
-    },
-    {
-      "title": "Senior Software Engineer, Machine Learning Infrastructure and Quality",
-      "url": "https://jobs.apple.com/en-us/details/200663885-3337/senior-software-engineer-machine-learning-infrastructure-and-quality?team=SFTWR",
-      "identifier": "Senior Software Engineer, Machine Learning Infrast_ructure-and-quality?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer - AI Agents & Automation, Maps Data Tooling",
-      "url": "https://jobs.apple.com/en-us/details/200663946-0836/software-engineer-ai-agents-automation-maps-data-tooling?team=SFTWR",
-      "identifier": "Software Engineer - AI Agents & Automation, Maps D_n-maps-data-tooling?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-06-05T01:29:01.345250"
+  "timestamp": "2026-06-05T01:45:48.241806"
 }

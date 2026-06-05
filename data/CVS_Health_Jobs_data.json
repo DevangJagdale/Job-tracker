@@ -1,7 +1,7 @@
 {
   "page_title": "Search CVS Health Jobs | Find Your Next Career Opportunity",
   "url": "https://jobs.cvshealth.com/us/en/search-results",
-  "total_jobs": 6,
+  "total_jobs": 8,
   "jobs": [
     {
       "title": "Lead Director \u2013 Software Development Engineering (AI & Automation)",
@@ -14,26 +14,36 @@
       "identifier": "Staff Software Development Engineer_-Software-Development-Engineer"
     },
     {
-      "title": "Senior Solutions Engineer - Manhattan Active Warehouse Management",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0859775/Senior-Solutions-Engineer-Manhattan-Active-Warehouse-Management",
-      "identifier": "Senior Solutions Engineer - Manhattan Active Wareh_an-Active-Warehouse-Management"
+      "title": "Senior Manager - Provider Experience Program",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0909170/Senior-Manager-Provider-Experience-Program",
+      "identifier": "Senior Manager - Provider Experience Program_er-Provider-Experience-Program"
+    },
+    {
+      "title": "SME ACAS Benefits Testing",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0937901/SME-ACAS-Benefits-Testing",
+      "identifier": "SME ACAS Benefits Testing_7901/SME-ACAS-Benefits-Testing"
     },
     {
       "title": "Senior Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0891790/Senior-Software-Development-Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0888451/Senior-Software-Development-Engineer",
       "identifier": "Senior Software Development Engineer_-Software-Development-Engineer"
     },
     {
-      "title": "Senior Software Development Engineer \u2013 Imaging Platform",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0936197/Senior-Software-Development-Engineer-Imaging-Platform",
-      "identifier": "Senior Software Development Engineer \u2013 Imaging Pla_ment-Engineer-Imaging-Platform"
+      "title": "Software Development Engineer - Front Store",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0927508/Software-Development-Engineer-Front-Store",
+      "identifier": "Software Development Engineer - Front Store_velopment-Engineer-Front-Store"
     },
     {
       "title": "Lead Director - Agile Practice Management",
       "url": "https://jobs.cvshealth.com/us/en/job/R0924052/Lead-Director-Agile-Practice-Management",
       "identifier": "Lead Director - Agile Practice Management_ctor-Agile-Practice-Management"
+    },
+    {
+      "title": "Senior Software Development Engineer \u2013 Imaging Platform",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0936197/Senior-Software-Development-Engineer-Imaging-Platform",
+      "identifier": "Senior Software Development Engineer \u2013 Imaging Pla_ment-Engineer-Imaging-Platform"
     }
   ],
-  "job_count_text": "46",
-  "timestamp": "2026-06-05T18:08:12.155140"
+  "job_count_text": "48",
+  "timestamp": "2026-06-05T18:27:18.775712"
 }

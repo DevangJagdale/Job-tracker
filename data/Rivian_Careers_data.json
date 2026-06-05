@@ -39,11 +39,6 @@
       "identifier": "Sr. IT Wireless Network Engineer_ang=en-us&previousLocale=en-US"
     },
     {
-      "title": "Sr. Engineering Technician II",
-      "url": "https://careers.rivian.com/careers-home/jobs/31019?lang=en-us&previousLocale=en-US",
-      "identifier": "Sr. Engineering Technician II_ang=en-us&previousLocale=en-US"
-    },
-    {
       "title": "Sr. AI Engineer, Enterprise Applied AI",
       "url": "https://careers.rivian.com/careers-home/jobs/26639?lang=en-us&previousLocale=en-US",
       "identifier": "Sr. AI Engineer, Enterprise Applied AI_ang=en-us&previousLocale=en-US"
@@ -57,8 +52,13 @@
       "title": "Sr. Software Engineer, Enterprise Technology",
       "url": "https://careers.rivian.com/careers-home/jobs/29205?lang=en-us&previousLocale=en-US",
       "identifier": "Sr. Software Engineer, Enterprise Technology_ang=en-us&previousLocale=en-US"
+    },
+    {
+      "title": "Sr. Staff Product Manager, Enterprise Data",
+      "url": "https://careers.rivian.com/careers-home/jobs/23691?lang=en-us&previousLocale=en-US",
+      "identifier": "Sr. Staff Product Manager, Enterprise Data_ang=en-us&previousLocale=en-US"
     }
   ],
-  "job_count_text": "43",
-  "timestamp": "2026-06-05T14:28:50.474796"
+  "job_count_text": "42",
+  "timestamp": "2026-06-05T14:45:53.487158"
 }

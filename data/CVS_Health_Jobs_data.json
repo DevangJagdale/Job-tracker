@@ -1,49 +1,44 @@
 {
   "page_title": "Search CVS Health Jobs | Find Your Next Career Opportunity",
   "url": "https://jobs.cvshealth.com/us/en/search-results",
-  "total_jobs": 8,
+  "total_jobs": 7,
   "jobs": [
     {
+      "title": "Senior Solutions Engineer - Manhattan Active Warehouse Management",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0859775/Senior-Solutions-Engineer-Manhattan-Active-Warehouse-Management",
+      "identifier": "Senior Solutions Engineer - Manhattan Active Wareh_an-Active-Warehouse-Management"
+    },
+    {
+      "title": "Senior Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0875597/Senior-Software-Development-Engineer",
+      "identifier": "Senior Software Development Engineer_-Software-Development-Engineer"
+    },
+    {
       "title": "Staff Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0923087/Staff-Software-Development-Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0835190/Staff-Software-Development-Engineer",
       "identifier": "Staff Software Development Engineer_-Software-Development-Engineer"
     },
     {
-      "title": "Technical Support Representative",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0920656/Technical-Support-Representative",
-      "identifier": "Technical Support Representative_chnical-Support-Representative"
+      "title": "Senior Software Development Engineer \u2013 Imaging Platform",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0936197/Senior-Software-Development-Engineer-Imaging-Platform",
+      "identifier": "Senior Software Development Engineer \u2013 Imaging Pla_ment-Engineer-Imaging-Platform"
+    },
+    {
+      "title": "Lead Director - Agile Practice Management",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0924052/Lead-Director-Agile-Practice-Management",
+      "identifier": "Lead Director - Agile Practice Management_ctor-Agile-Practice-Management"
+    },
+    {
+      "title": "Software Development Engineer - Front Store",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0927508/Software-Development-Engineer-Front-Store",
+      "identifier": "Software Development Engineer - Front Store_velopment-Engineer-Front-Store"
     },
     {
       "title": "Mac Support Technician - Onsite | Hartford, CT",
       "url": "https://jobs.cvshealth.com/us/en/job/R0930937/Mac-Support-Technician-Onsite-Hartford-CT",
       "identifier": "Mac Support Technician - Onsite | Hartford, CT_-Technician-Onsite-Hartford-CT"
-    },
-    {
-      "title": "Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0854683/Software-Development-Engineer",
-      "identifier": "Software Development Engineer_/Software-Development-Engineer"
-    },
-    {
-      "title": "Epic Senior Access Analyst - Prelude & Referrals",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0930290/Epic-Senior-Access-Analyst-Prelude-Referrals",
-      "identifier": "Epic Senior Access Analyst - Prelude & Referrals_cess-Analyst-Prelude-Referrals"
-    },
-    {
-      "title": "Lead Java Software Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0821040/Lead-Java-Software-Engineer",
-      "identifier": "Lead Java Software Engineer_40/Lead-Java-Software-Engineer"
-    },
-    {
-      "title": "Executive Director, Engineering - AI Automation",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0849706/Executive-Director-Engineering-AI-Automation",
-      "identifier": "Executive Director, Engineering - AI Automation_ctor-Engineering-AI-Automation"
-    },
-    {
-      "title": "Field Technician (Denver, Colorado area)",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0930005/Field-Technician-Denver-Colorado-area",
-      "identifier": "Field Technician (Denver, Colorado area)_echnician-Denver-Colorado-area"
     }
   ],
-  "job_count_text": "38",
-  "timestamp": "2026-06-05T06:10:36.010060"
+  "job_count_text": "44",
+  "timestamp": "2026-06-05T06:27:37.647289"
 }

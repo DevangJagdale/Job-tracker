@@ -1,7 +1,7 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 15,
+  "total_jobs": 12,
   "jobs": [
     {
       "title": "Technical Enablement Engineer",
@@ -62,23 +62,8 @@
       "title": "Senior Data Scientist, Strategic Modeling & Simulation",
       "url": "https://jobs.apple.com/en-us/details/200666451-0836/senior-data-scientist-strategic-modeling-simulation?team=SFTWR",
       "identifier": "Senior Data Scientist, Strategic Modeling & Simula_modeling-simulation?team=SFTWR"
-    },
-    {
-      "title": "Secure Systems Engineer - Platform Architecture",
-      "url": "https://jobs.apple.com/en-us/details/200666637-0836/secure-systems-engineer-platform-architecture?team=SFTWR",
-      "identifier": "Secure Systems Engineer - Platform Architecture_atform-architecture?team=SFTWR"
-    },
-    {
-      "title": "Sr. Software Engineer, Core Location, Sensing & Connectivity",
-      "url": "https://jobs.apple.com/en-us/details/200630136-0836/sr-software-engineer-core-location-sensing-connectivity?team=SFTWR",
-      "identifier": "Sr. Software Engineer, Core Location, Sensing & Co_ensing-connectivity?team=SFTWR"
-    },
-    {
-      "title": "Build & Integration Engineering Manager, Software Delivery & Technologies",
-      "url": "https://jobs.apple.com/en-us/details/200666260-3543/build-integration-engineering-manager-software-delivery-technologies?team=SFTWR",
-      "identifier": "Build & Integration Engineering Manager, Software _livery-technologies?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-06-05T22:47:40.816789"
+  "timestamp": "2026-06-05T23:04:29.575034"
 }

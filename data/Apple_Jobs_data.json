@@ -4,6 +4,11 @@
   "total_jobs": 14,
   "jobs": [
     {
+      "title": "Director of Engineering, AiDP Data Services",
+      "url": "https://jobs.apple.com/en-us/details/200667043-3956/director-of-engineering-aidp-data-services?team=SFTWR",
+      "identifier": "Director of Engineering, AiDP Data Services_-aidp-data-services?team=SFTWR"
+    },
+    {
       "title": "Engineering Project Manager, Video Apps",
       "url": "https://jobs.apple.com/en-us/details/200666987-0157/engineering-project-manager-video-apps?team=SFTWR",
       "identifier": "Engineering Project Manager, Video Apps_-manager-video-apps?team=SFTWR"
@@ -67,13 +72,8 @@
       "title": "Senior Machine Learning Engineer, AI, SIML",
       "url": "https://jobs.apple.com/en-us/details/200651112-0836/senior-machine-learning-engineer-ai-siml?team=SFTWR",
       "identifier": "Senior Machine Learning Engineer, AI, SIML_ng-engineer-ai-siml?team=SFTWR"
-    },
-    {
-      "title": "Bluetooth Firmware Engineer, Wireless Technologies & Ecosystems",
-      "url": "https://jobs.apple.com/en-us/details/200666184-3543/bluetooth-firmware-engineer-wireless-technologies-ecosystems?team=SFTWR",
-      "identifier": "Bluetooth Firmware Engineer, Wireless Technologies_nologies-ecosystems?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-06-05T21:40:15.613850"
+  "timestamp": "2026-06-05T21:57:05.270902"
 }

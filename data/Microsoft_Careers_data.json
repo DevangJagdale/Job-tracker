@@ -4,7 +4,12 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Software Engineer II\nUnited States, Multiple Locations, Multiple Locations\nPosted 10 minutes ago",
+      "title": "Principal Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 18 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556863486?domain=microsoft.com",
+      "identifier": "Principal Software Engineer\nUnited States, Multipl_556863486?domain=microsoft.com"
+    },
+    {
+      "title": "Software Engineer II\nUnited States, Multiple Locations, Multiple Locations\nPosted 27 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556863505?domain=microsoft.com",
       "identifier": "Software Engineer II\nUnited States, Multiple Locat_556863505?domain=microsoft.com"
     },
@@ -47,13 +52,8 @@
       "title": "Principal, Data Science & Analytics\nUnited States, Washington, Redmond\nPosted a day ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556872960?domain=microsoft.com",
       "identifier": "Principal, Data Science & Analytics\nUnited States,_556872960?domain=microsoft.com"
-    },
-    {
-      "title": "Principal Data Scientist\nUnited States, Washington, Redmond + 1 more\nPosted a day ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556863166?domain=microsoft.com",
-      "identifier": "Principal Data Scientist\nUnited States, Washington_556863166?domain=microsoft.com"
     }
   ],
-  "job_count_text": "398",
-  "timestamp": "2026-06-05T20:49:27.703711"
+  "job_count_text": "399",
+  "timestamp": "2026-06-05T21:06:18.340799"
 }

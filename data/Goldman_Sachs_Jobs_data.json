@@ -84,11 +84,6 @@
       "identifier": "Corporate Treasury, Payments Platform, Software En_s://higher.gs.com/roles/170575"
     },
     {
-      "title": "Engineering-Dallas-Associate-Software Engineering\nDallas\u00b7United States\n\u00b7Associate",
-      "url": "https://higher.gs.com/roles/153020",
-      "identifier": "Engineering-Dallas-Associate-Software Engineering\n_s://higher.gs.com/roles/153020"
-    },
-    {
       "title": "Corporate Treasury, Payments Platform, Software Engineering, Associate, NY\nNew York\u00b7United States\n\u00b7Associate",
       "url": "https://higher.gs.com/roles/170578",
       "identifier": "Corporate Treasury, Payments Platform, Software En_s://higher.gs.com/roles/170578"
@@ -102,8 +97,13 @@
       "title": "Compliance, Senior Backend Engineer (Java & ETL Specialist), Dallas, Associate\nDallas\u00b7United States\n\u00b7Associate",
       "url": "https://higher.gs.com/roles/168652",
       "identifier": "Compliance, Senior Backend Engineer (Java & ETL Sp_s://higher.gs.com/roles/168652"
+    },
+    {
+      "title": "Asset & Wealth Management - Software Engineer - Associate - Salt Lake City\nSalt Lake City\u00b7United States\n\u00b7Associate",
+      "url": "https://higher.gs.com/roles/159035",
+      "identifier": "Asset & Wealth Management - Software Engineer - As_s://higher.gs.com/roles/159035"
     }
   ],
-  "job_count_text": "36",
-  "timestamp": "2026-06-05T16:04:19.578289"
+  "job_count_text": "35",
+  "timestamp": "2026-06-05T16:21:20.773198"
 }

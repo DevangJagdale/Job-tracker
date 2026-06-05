@@ -4,24 +4,19 @@
   "total_jobs": 7,
   "jobs": [
     {
+      "title": "Staff Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0835190/Staff-Software-Development-Engineer",
+      "identifier": "Staff Software Development Engineer_-Software-Development-Engineer"
+    },
+    {
       "title": "Senior Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0891790/Senior-Software-Development-Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0888451/Senior-Software-Development-Engineer",
       "identifier": "Senior Software Development Engineer_-Software-Development-Engineer"
     },
     {
       "title": "Senior Solutions Engineer - Manhattan Active Warehouse Management",
       "url": "https://jobs.cvshealth.com/us/en/job/R0859775/Senior-Solutions-Engineer-Manhattan-Active-Warehouse-Management",
       "identifier": "Senior Solutions Engineer - Manhattan Active Wareh_an-Active-Warehouse-Management"
-    },
-    {
-      "title": "Staff Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0835190/Staff-Software-Development-Engineer",
-      "identifier": "Staff Software Development Engineer_-Software-Development-Engineer"
-    },
-    {
-      "title": "Senior Software Development Engineer \u2013 Imaging Platform",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0936197/Senior-Software-Development-Engineer-Imaging-Platform",
-      "identifier": "Senior Software Development Engineer \u2013 Imaging Pla_ment-Engineer-Imaging-Platform"
     },
     {
       "title": "Software Development Engineer - Front Store",
@@ -34,11 +29,16 @@
       "identifier": "Lead Director - Agile Practice Management_ctor-Agile-Practice-Management"
     },
     {
-      "title": "Technical Support Representative",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0920656/Technical-Support-Representative",
-      "identifier": "Technical Support Representative_chnical-Support-Representative"
+      "title": "Senior Software Development Engineer \u2013 Imaging Platform",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0936197/Senior-Software-Development-Engineer-Imaging-Platform",
+      "identifier": "Senior Software Development Engineer \u2013 Imaging Pla_ment-Engineer-Imaging-Platform"
+    },
+    {
+      "title": "Senior Analyst Tech Infrastructure",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0923885/Senior-Analyst-Tech-Infrastructure",
+      "identifier": "Senior Analyst Tech Infrastructure_or-Analyst-Tech-Infrastructure"
     }
   ],
   "job_count_text": "44",
-  "timestamp": "2026-06-05T07:35:48.271501"
+  "timestamp": "2026-06-05T07:52:51.291275"
 }

@@ -1,8 +1,23 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 11,
+  "total_jobs": 9,
   "jobs": [
+    {
+      "title": "Software Engineer (Framework Solutions), AI & Data Platforms (AiDP)",
+      "url": "https://jobs.apple.com/en-us/details/200667030-0157/software-engineer-framework-solutions-ai-data-platforms-aidp?team=SFTWR",
+      "identifier": "Software Engineer (Framework Solutions), AI & Data_data-platforms-aidp?team=SFTWR"
+    },
+    {
+      "title": "Data Platform SRE, AI & Data Platforms (AiDP)",
+      "url": "https://jobs.apple.com/en-us/details/200667035-0157/data-platform-sre-ai-data-platforms-aidp?team=SFTWR",
+      "identifier": "Data Platform SRE, AI & Data Platforms (AiDP)_data-platforms-aidp?team=SFTWR"
+    },
+    {
+      "title": "Software Engineer (AML), AI & Data Platforms (AiDP)",
+      "url": "https://jobs.apple.com/en-us/details/200667037-0157/software-engineer-aml-ai-data-platforms-aidp?team=SFTWR",
+      "identifier": "Software Engineer (AML), AI & Data Platforms (AiDP_data-platforms-aidp?team=SFTWR"
+    },
     {
       "title": "Software Engineer (Data Solutions), AI & Data Platforms (AiDP)",
       "url": "https://jobs.apple.com/en-us/details/200667022-0157/software-engineer-data-solutions-ai-data-platforms-aidp?team=SFTWR",
@@ -32,33 +47,8 @@
       "title": "Engineering Project Manager, Video Apps",
       "url": "https://jobs.apple.com/en-us/details/200666987-0157/engineering-project-manager-video-apps?team=SFTWR",
       "identifier": "Engineering Project Manager, Video Apps_-manager-video-apps?team=SFTWR"
-    },
-    {
-      "title": "SRE Manager, ML Operations - Apple Ads",
-      "url": "https://jobs.apple.com/en-us/details/200667013-2459/sre-manager-ml-operations-apple-ads?team=SFTWR",
-      "identifier": "SRE Manager, ML Operations - Apple Ads_perations-apple-ads?team=SFTWR"
-    },
-    {
-      "title": "Cloud Database Engineer - Apple Ads",
-      "url": "https://jobs.apple.com/en-us/details/200666675-0157/cloud-database-engineer-apple-ads?team=SFTWR",
-      "identifier": "Cloud Database Engineer - Apple Ads_-engineer-apple-ads?team=SFTWR"
-    },
-    {
-      "title": "iOS Engineer, Visual Productivity",
-      "url": "https://jobs.apple.com/en-us/details/200663978-0836/ios-engineer-visual-productivity?team=SFTWR",
-      "identifier": "iOS Engineer, Visual Productivity_visual-productivity?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer - Regulatory AI & Connected Data",
-      "url": "https://jobs.apple.com/en-us/details/200666913-0836/software-engineer-regulatory-ai-connected-data?team=OPMFG",
-      "identifier": "Software Engineer - Regulatory AI & Connected Data_y-ai-connected-data?team=OPMFG"
-    },
-    {
-      "title": "System Experience - Notifications and Focus Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200661462-0836/system-experience-notifications-and-focus-engineer?team=SFTWR",
-      "identifier": "System Experience - Notifications and Focus Engine_-and-focus-engineer?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-06-05T23:21:16.842652"
+  "timestamp": "2026-06-05T23:38:07.817371"
 }

@@ -1,8 +1,13 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 9,
+  "total_jobs": 10,
   "jobs": [
+    {
+      "title": "Detection and Response Software Engineer |",
+      "url": "https://jobs.apple.com/en-us/details/200655126-3337/detection-and-response-software-engineer?team=SFTWR",
+      "identifier": "Detection and Response Software Engineer |_e-software-engineer?team=SFTWR"
+    },
     {
       "title": "Software Engineer (Framework Solutions), AI & Data Platforms (AiDP)",
       "url": "https://jobs.apple.com/en-us/details/200667030-0157/software-engineer-framework-solutions-ai-data-platforms-aidp?team=SFTWR",
@@ -50,5 +55,5 @@
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-06-06T00:45:29.246444"
+  "timestamp": "2026-06-06T01:02:18.847412"
 }

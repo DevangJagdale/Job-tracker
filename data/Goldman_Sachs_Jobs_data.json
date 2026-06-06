@@ -4,6 +4,11 @@
   "total_jobs": 20,
   "jobs": [
     {
+      "title": "AWM, Marcus by Goldman Sachs, Commercial Strategy, Analyst - Richardson, TX\nRichardson\u00b7United States\n\u00b7Analyst",
+      "url": "https://higher.gs.com/roles/151793",
+      "identifier": "AWM, Marcus by Goldman Sachs, Commercial Strategy,_s://higher.gs.com/roles/151793"
+    },
+    {
       "title": "Corporate Planning & Management, Data Engineering, New York, Associate\nNew York\u00b7United States\n\u00b7Associate",
       "url": "https://higher.gs.com/roles/170256",
       "identifier": "Corporate Planning & Management, Data Engineering,_s://higher.gs.com/roles/170256"
@@ -97,13 +102,8 @@
       "title": "Asset & Wealth Management - Software Engineer - Associate - Salt Lake City\nSalt Lake City\u00b7United States\n\u00b7Associate",
       "url": "https://higher.gs.com/roles/159035",
       "identifier": "Asset & Wealth Management - Software Engineer - As_s://higher.gs.com/roles/159035"
-    },
-    {
-      "title": "Asset & Wealth Management-Software Engineering-Associate-Dallas\nDallas\u00b7United States\n\u00b7Associate",
-      "url": "https://higher.gs.com/roles/165889",
-      "identifier": "Asset & Wealth Management-Software Engineering-Ass_s://higher.gs.com/roles/165889"
     }
   ],
-  "job_count_text": "34",
-  "timestamp": "2026-06-06T11:26:39.782963"
+  "job_count_text": "35",
+  "timestamp": "2026-06-06T11:43:41.735553"
 }

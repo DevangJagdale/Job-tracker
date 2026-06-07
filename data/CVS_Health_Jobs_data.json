@@ -4,14 +4,14 @@
   "total_jobs": 8,
   "jobs": [
     {
-      "title": "Senior Manager - Provider Experience Program",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0909170/Senior-Manager-Provider-Experience-Program",
-      "identifier": "Senior Manager - Provider Experience Program_er-Provider-Experience-Program"
-    },
-    {
       "title": "Lead Director \u2013 Software Development Engineering (AI & Automation)",
       "url": "https://jobs.cvshealth.com/us/en/job/R0843277/Lead-Director-Software-Development-Engineering-AI-Automation",
       "identifier": "Lead Director \u2013 Software Development Engineering (_ment-Engineering-AI-Automation"
+    },
+    {
+      "title": "Senior Manager - Provider Experience Program",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0909170/Senior-Manager-Provider-Experience-Program",
+      "identifier": "Senior Manager - Provider Experience Program_er-Provider-Experience-Program"
     },
     {
       "title": "SME ACAS Benefits Testing",
@@ -24,11 +24,6 @@
       "identifier": "Lead Director - Agile Practice Management_ctor-Agile-Practice-Management"
     },
     {
-      "title": "Senior Manager ACAS/Commercial Benefits Testing",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0871984/Senior-Manager-ACAS-Commercial-Benefits-Testing",
-      "identifier": "Senior Manager ACAS/Commercial Benefits Testing_AS-Commercial-Benefits-Testing"
-    },
-    {
       "title": "Senior Analyst Tech Infrastructure",
       "url": "https://jobs.cvshealth.com/us/en/job/R0923885/Senior-Analyst-Tech-Infrastructure",
       "identifier": "Senior Analyst Tech Infrastructure_or-Analyst-Tech-Infrastructure"
@@ -39,11 +34,16 @@
       "identifier": "Technical Support Representative_chnical-Support-Representative"
     },
     {
+      "title": "Senior Manager ACAS/Commercial Benefits Testing",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0871984/Senior-Manager-ACAS-Commercial-Benefits-Testing",
+      "identifier": "Senior Manager ACAS/Commercial Benefits Testing_AS-Commercial-Benefits-Testing"
+    },
+    {
       "title": "Field Technician (Denver, Colorado area)",
       "url": "https://jobs.cvshealth.com/us/en/job/R0930005/Field-Technician-Denver-Colorado-area",
       "identifier": "Field Technician (Denver, Colorado area)_echnician-Denver-Colorado-area"
     }
   ],
   "job_count_text": "29",
-  "timestamp": "2026-06-07T14:12:12.068387"
+  "timestamp": "2026-06-07T14:29:10.647647"
 }

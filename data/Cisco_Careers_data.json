@@ -1,22 +1,12 @@
 {
   "page_title": "Job Openings - Cisco Careers",
   "url": "https://careers.cisco.com/global/en/search-results?s=1",
-  "total_jobs": 8,
+  "total_jobs": 6,
   "jobs": [
     {
       "title": "Customer Experience Project Specialist I (Full-Time) - United States",
       "url": "https://careers.cisco.com/global/en/job/2001576/Customer-Experience-Project-Specialist-I-Full-Time-United-States",
       "identifier": "Customer Experience Project Specialist I (Full-Tim_list-I-Full-Time-United-States"
-    },
-    {
-      "title": "Software QA Engineer II (Full Time) \u2013 United States",
-      "url": "https://careers.cisco.com/global/en/job/2002838/Software-QA-Engineer-II-Full-Time-United-States",
-      "identifier": "Software QA Engineer II (Full Time) \u2013 United State_eer-II-Full-Time-United-States"
-    },
-    {
-      "title": "Workday Security Administrator II (Full-Time) - United States",
-      "url": "https://careers.cisco.com/global/en/job/2015304/Workday-Security-Administrator-II-Full-Time-United-States",
-      "identifier": "Workday Security Administrator II (Full-Time) - Un_tor-II-Full-Time-United-States"
     },
     {
       "title": "Information Security Engineer II (Full Time) - United States",
@@ -44,6 +34,6 @@
       "identifier": "Sales Development Representative II (Full Time) Un_al-Demand-Center-United-States"
     }
   ],
-  "job_count_text": "9",
-  "timestamp": "2026-06-07T07:00:23.951752"
+  "job_count_text": "7",
+  "timestamp": "2026-06-07T07:17:22.780899"
 }

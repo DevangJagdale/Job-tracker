@@ -4,14 +4,9 @@
   "total_jobs": 8,
   "jobs": [
     {
-      "title": "Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0892167/Software-Development-Engineer",
-      "identifier": "Software Development Engineer_/Software-Development-Engineer"
-    },
-    {
-      "title": "Site Reliability Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0925014/Site-Reliability-Engineer",
-      "identifier": "Site Reliability Engineer_5014/Site-Reliability-Engineer"
+      "title": "Senior Manager - Provider Experience Program",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0909170/Senior-Manager-Provider-Experience-Program",
+      "identifier": "Senior Manager - Provider Experience Program_er-Provider-Experience-Program"
     },
     {
       "title": "Lead Director \u2013 Software Development Engineering (AI & Automation)",
@@ -19,31 +14,36 @@
       "identifier": "Lead Director \u2013 Software Development Engineering (_ment-Engineering-AI-Automation"
     },
     {
-      "title": "Senior Manager - Provider Experience Program",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0909170/Senior-Manager-Provider-Experience-Program",
-      "identifier": "Senior Manager - Provider Experience Program_er-Provider-Experience-Program"
-    },
-    {
-      "title": "Staff Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0907989/Staff-Software-Development-Engineer",
-      "identifier": "Staff Software Development Engineer_-Software-Development-Engineer"
-    },
-    {
-      "title": "Principal Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0920462/Principal-Software-Development-Engineer",
-      "identifier": "Principal Software Development Engineer_-Software-Development-Engineer"
-    },
-    {
-      "title": "Staff Solutions Engineer - Manhattan Active Warehouse Management",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0859681/Staff-Solutions-Engineer-Manhattan-Active-Warehouse-Management",
-      "identifier": "Staff Solutions Engineer - Manhattan Active Wareho_an-Active-Warehouse-Management"
-    },
-    {
       "title": "SME ACAS Benefits Testing",
       "url": "https://jobs.cvshealth.com/us/en/job/R0937901/SME-ACAS-Benefits-Testing",
       "identifier": "SME ACAS Benefits Testing_7901/SME-ACAS-Benefits-Testing"
+    },
+    {
+      "title": "Lead Director - Agile Practice Management",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0924052/Lead-Director-Agile-Practice-Management",
+      "identifier": "Lead Director - Agile Practice Management_ctor-Agile-Practice-Management"
+    },
+    {
+      "title": "Senior Manager ACAS/Commercial Benefits Testing",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0871984/Senior-Manager-ACAS-Commercial-Benefits-Testing",
+      "identifier": "Senior Manager ACAS/Commercial Benefits Testing_AS-Commercial-Benefits-Testing"
+    },
+    {
+      "title": "Senior Analyst Tech Infrastructure",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0923885/Senior-Analyst-Tech-Infrastructure",
+      "identifier": "Senior Analyst Tech Infrastructure_or-Analyst-Tech-Infrastructure"
+    },
+    {
+      "title": "Technical Support Representative",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0934953/Technical-Support-Representative",
+      "identifier": "Technical Support Representative_chnical-Support-Representative"
+    },
+    {
+      "title": "Field Technician (Denver, Colorado area)",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0930005/Field-Technician-Denver-Colorado-area",
+      "identifier": "Field Technician (Denver, Colorado area)_echnician-Denver-Colorado-area"
     }
   ],
-  "job_count_text": "50",
-  "timestamp": "2026-06-07T06:08:46.556520"
+  "job_count_text": "29",
+  "timestamp": "2026-06-07T06:25:45.656661"
 }

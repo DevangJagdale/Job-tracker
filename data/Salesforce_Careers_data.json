@@ -1,109 +1,24 @@
 {
   "page_title": "Salesforce Jobs | Salesforce Careers",
   "url": "https://careers.salesforce.com/en/jobs/?search=&country=United+States+of+America&team=Data&team=Enterprise+Technology+%26+Infrastructure&team=Software+Engineering&jobtype=New+Grads&pagesize=20#results",
-  "total_jobs": 20,
+  "total_jobs": 3,
   "jobs": [
     {
-      "title": "Principal Software Engineer - PMTS",
-      "url": "https://careers.salesforce.com/en/jobs/jr338244/principal-software-engineer-pmts/",
-      "identifier": "Principal Software Engineer - PMTS_ncipal-software-engineer-pmts/"
+      "title": "DevOps Engineering AMTS",
+      "url": "https://careers.salesforce.com/en/jobs/jr343354/devops-engineering-amts/",
+      "identifier": "DevOps Engineering AMTS_43354/devops-engineering-amts/"
     },
     {
-      "title": "Technical Consultant - Salesforce Field Services",
-      "url": "https://careers.salesforce.com/en/jobs/jr342011/technical-consultant-salesforce-field-services/",
-      "identifier": "Technical Consultant - Salesforce Field Services_ant-salesforce-field-services/"
+      "title": "AI Builder, Emerging Talent",
+      "url": "https://careers.salesforce.com/en/jobs/jr341276/ai-builder-emerging-talent/",
+      "identifier": "AI Builder, Emerging Talent_76/ai-builder-emerging-talent/"
     },
     {
-      "title": "Senior Manager Technical Consulting - FSC / Finserv",
-      "url": "https://careers.salesforce.com/en/jobs/jr326106/senior-manager-technical-consulting-fsc-finserv/",
-      "identifier": "Senior Manager Technical Consulting - FSC / Finser_hnical-consulting-fsc-finserv/"
-    },
-    {
-      "title": "Success Architect-Industry (FY27-Q1)-1",
-      "url": "https://careers.salesforce.com/en/jobs/jr345293/success-architect-industry-fy27-q1-1/",
-      "identifier": "Success Architect-Industry (FY27-Q1)-1_-architect-industry-fy27-q1-1/"
-    },
-    {
-      "title": "Solution Engineer - Higher Education",
-      "url": "https://careers.salesforce.com/en/jobs/jr334809/solution-engineer-higher-education/",
-      "identifier": "Solution Engineer - Higher Education_ion-engineer-higher-education/"
-    },
-    {
-      "title": "SVP & General Manager Mexico",
-      "url": "https://careers.salesforce.com/en/jobs/jr345335/svp-general-manager-mexico/",
-      "identifier": "SVP & General Manager Mexico_35/svp-general-manager-mexico/"
-    },
-    {
-      "title": "Sr. Partner Enablement Architect",
-      "url": "https://careers.salesforce.com/en/jobs/jr343099/sr-partner-enablement-architect/",
-      "identifier": "Sr. Partner Enablement Architect_-partner-enablement-architect/"
-    },
-    {
-      "title": "Success Guide (Informatica)",
-      "url": "https://careers.salesforce.com/en/jobs/jr338914/success-guide-informatica/",
-      "identifier": "Success Guide (Informatica)_914/success-guide-informatica/"
-    },
-    {
-      "title": "Solution COE - Strategy & Operations Senior Director",
-      "url": "https://careers.salesforce.com/en/jobs/jr344178/solution-coe-strategy-operations-senior-director/",
-      "identifier": "Solution COE - Strategy & Operations Senior Direct_gy-operations-senior-director/"
-    },
-    {
-      "title": "Manager, Enterprise Learning Integration Excellence",
-      "url": "https://careers.salesforce.com/en/jobs/jr344552/manager-enterprise-learning-integration-excellence/",
-      "identifier": "Manager, Enterprise Learning Integration Excellenc_arning-integration-excellence/"
-    },
-    {
-      "title": "Business Analyst",
-      "url": "https://careers.salesforce.com/en/jobs/jr341882/business-analyst/",
-      "identifier": "Business Analyst_obs/jr341882/business-analyst/"
-    },
-    {
-      "title": "SIC Program Transformation Lead",
-      "url": "https://careers.salesforce.com/en/jobs/jr342345/sic-program-transformation-lead/",
-      "identifier": "SIC Program Transformation Lead_c-program-transformation-lead/"
-    },
-    {
-      "title": "MuleSoft Consumption Value Delivery Sr Manager, AI & API Solutions",
-      "url": "https://careers.salesforce.com/en/jobs/jr336021/mulesoft-consumption-value-delivery-sr-manager-ai-api-solutions/",
-      "identifier": "MuleSoft Consumption Value Delivery Sr Manager, AI_y-sr-manager-ai-api-solutions/"
-    },
-    {
-      "title": "Senior Executive Assistant",
-      "url": "https://careers.salesforce.com/en/jobs/jr345042/senior-executive-assistant/",
-      "identifier": "Senior Executive Assistant_42/senior-executive-assistant/"
-    },
-    {
-      "title": "Customer Success Manager - Core (Sales & Service) Clouds - HLS",
-      "url": "https://careers.salesforce.com/en/jobs/jr332336/customer-success-manager-core-sales-service-clouds-hls/",
-      "identifier": "Customer Success Manager - Core (Sales & Service) _core-sales-service-clouds-hls/"
-    },
-    {
-      "title": "PubSec Sr. Salesforce Software Engineer (SMTS)",
-      "url": "https://careers.salesforce.com/en/jobs/jr338155/pubsec-sr-salesforce-software-engineer-smts/",
-      "identifier": "PubSec Sr. Salesforce Software Engineer (SMTS)_sforce-software-engineer-smts/"
-    },
-    {
-      "title": "Senior Manager, Customer Success Management, Technical (People Manager)",
-      "url": "https://careers.salesforce.com/en/jobs/jr343435/senior-manager-customer-success-management-technical-people-manager/",
-      "identifier": "Senior Manager, Customer Success Management, Techn_ment-technical-people-manager/"
-    },
-    {
-      "title": "Digital Account Executive - SMB",
-      "url": "https://careers.salesforce.com/en/jobs/jr344222/digital-account-executive-smb/",
-      "identifier": "Digital Account Executive - SMB_digital-account-executive-smb/"
-    },
-    {
-      "title": "Services Sales Account Executive - Public Sector/Enterprise",
-      "url": "https://careers.salesforce.com/en/jobs/jr341759/services-sales-account-executive-public-sectorenterprise/",
-      "identifier": "Services Sales Account Executive - Public Sector/E_utive-public-sectorenterprise/"
-    },
-    {
-      "title": "Customer Success Manager, Senior Manager (Consumer & Business Services)",
-      "url": "https://careers.salesforce.com/en/jobs/jr342340/customer-success-manager-senior-manager-consumer-business-services/",
-      "identifier": "Customer Success Manager, Senior Manager (Consumer_er-consumer-business-services/"
+      "title": "Software Engineering AMTS (College Grad)",
+      "url": "https://careers.salesforce.com/en/jobs/jr330400/software-engineering-amts-college-grad/",
+      "identifier": "Software Engineering AMTS (College Grad)_engineering-amts-college-grad/"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-06-07T07:35:57.745600"
+  "timestamp": "2026-06-07T07:52:57.764096"
 }

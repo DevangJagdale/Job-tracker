@@ -4,12 +4,12 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Senior Software Engineer\nUnited States\nPosted 25 minutes ago",
+      "title": "Senior Software Engineer\nUnited States\nPosted 42 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556871017?domain=microsoft.com",
-      "identifier": "Senior Software Engineer\nUnited States\nPosted 25 m_556871017?domain=microsoft.com"
+      "identifier": "Senior Software Engineer\nUnited States\nPosted 42 m_556871017?domain=microsoft.com"
     },
     {
-      "title": "Principal Site Reliability Engineering Manager - CTJ - Secret\nUnited States\nPosted 32 minutes ago",
+      "title": "Principal Site Reliability Engineering Manager - CTJ - Secret\nUnited States\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556870825?domain=microsoft.com",
       "identifier": "Principal Site Reliability Engineering Manager - C_556870825?domain=microsoft.com"
     },
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "368",
-  "timestamp": "2026-06-08T16:30:08.913412"
+  "timestamp": "2026-06-08T16:47:05.600717"
 }

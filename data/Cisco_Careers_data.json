@@ -1,12 +1,17 @@
 {
   "page_title": "Job Openings - Cisco Careers",
   "url": "https://careers.cisco.com/global/en/search-results?s=1",
-  "total_jobs": 4,
+  "total_jobs": 5,
   "jobs": [
     {
       "title": "Software Engineer I (Full Time) \u2013 Devices Technology Group \u2013 United States",
       "url": "https://careers.cisco.com/global/en/job/2011256/Software-Engineer-I-Full-Time-Devices-Technology-Group-United-States",
       "identifier": "Software Engineer I (Full Time) \u2013 Devices Technolo_Technology-Group-United-States"
+    },
+    {
+      "title": "Data Analyst (Hybrid)",
+      "url": "https://careers.cisco.com/global/en/job/2011265/Data-Analyst-Hybrid",
+      "identifier": "Data Analyst (Hybrid)_ob/2011265/Data-Analyst-Hybrid"
     },
     {
       "title": "Customer Experience Project Specialist I (Full-Time) - United States",
@@ -24,6 +29,6 @@
       "identifier": "Sales Development Representative II (Full Time) Un_al-Demand-Center-United-States"
     }
   ],
-  "job_count_text": "5",
-  "timestamp": "2026-06-08T20:19:55.631792"
+  "job_count_text": "6",
+  "timestamp": "2026-06-08T20:36:53.912147"
 }

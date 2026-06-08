@@ -1,11 +1,16 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 14,
+  "total_jobs": 13,
   "jobs": [
     {
+      "title": "AIML - Sr Machine Learning Engineer, Data and ML Innovation",
+      "url": "https://jobs.apple.com/en-us/details/200667335-0836/aiml-sr-machine-learning-engineer-data-and-ml-innovation?team=MLAI",
+      "identifier": "AIML - Sr Machine Learning Engineer, Data and ML I_ta-and-ml-innovation?team=MLAI"
+    },
+    {
       "title": "Solutions Architect",
-      "url": "https://jobs.apple.com/en-us/details/200666389-0157/solutions-architect?team=OPMFG",
+      "url": "https://jobs.apple.com/en-us/details/200666384-3956/solutions-architect?team=OPMFG",
       "identifier": "Solutions Architect_solutions-architect?team=OPMFG"
     },
     {
@@ -62,18 +67,8 @@
       "title": "Senior Machine Learning Engineer, Wallet, Payment & Commerce",
       "url": "https://jobs.apple.com/en-us/details/200667108-0157/senior-machine-learning-engineer-wallet-payment-commerce?team=SFTWR",
       "identifier": "Senior Machine Learning Engineer, Wallet, Payment _et-payment-commerce?team=SFTWR"
-    },
-    {
-      "title": "Detection and Response Software Engineer |",
-      "url": "https://jobs.apple.com/en-us/details/200655126-3337/detection-and-response-software-engineer?team=SFTWR",
-      "identifier": "Detection and Response Software Engineer |_e-software-engineer?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer (Framework Solutions), AI & Data Platforms (AiDP)",
-      "url": "https://jobs.apple.com/en-us/details/200667030-0157/software-engineer-framework-solutions-ai-data-platforms-aidp?team=SFTWR",
-      "identifier": "Software Engineer (Framework Solutions), AI & Data_data-platforms-aidp?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-06-08T22:17:01.026321"
+  "timestamp": "2026-06-08T22:34:01.235884"
 }

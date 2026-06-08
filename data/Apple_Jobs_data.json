@@ -4,6 +4,21 @@
   "total_jobs": 14,
   "jobs": [
     {
+      "title": "Sr. Software Engineer - Apple Vision Pro Developer Ecosystem, Vision Products Group",
+      "url": "https://jobs.apple.com/en-us/details/200659830-3401/sr-software-engineer-apple-vision-pro-developer-ecosystem-vision-products-group?team=SFTWR",
+      "identifier": "Sr. Software Engineer - Apple Vision Pro Developer_sion-products-group?team=SFTWR"
+    },
+    {
+      "title": "Software Engineer (Front End), Retail and Marcom Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200667258-0157/software-engineer-front-end-retail-and-marcom-engineering?team=SFTWR",
+      "identifier": "Software Engineer (Front End), Retail and Marcom E_-marcom-engineering?team=SFTWR"
+    },
+    {
+      "title": "AIML - Sr Machine Learning Engineer, Data and ML Innovation",
+      "url": "https://jobs.apple.com/en-us/details/200667335-0836/aiml-sr-machine-learning-engineer-data-and-ml-innovation?team=MLAI",
+      "identifier": "AIML - Sr Machine Learning Engineer, Data and ML I_ta-and-ml-innovation?team=MLAI"
+    },
+    {
       "title": "AIML Engineer - Human Perception",
       "url": "https://jobs.apple.com/en-us/details/200667012-3956/aiml-engineer-human-perception?team=MLAI",
       "identifier": "AIML Engineer - Human Perception_eer-human-perception?team=MLAI"
@@ -19,19 +34,9 @@
       "identifier": "Machine Learning Manager, Data for Foundation Mode_r-foundation-models?team=SFTWR"
     },
     {
-      "title": "AIML - Sr Machine Learning Engineer, Data and ML Innovation",
-      "url": "https://jobs.apple.com/en-us/details/200667335-0836/aiml-sr-machine-learning-engineer-data-and-ml-innovation?team=MLAI",
-      "identifier": "AIML - Sr Machine Learning Engineer, Data and ML I_ta-and-ml-innovation?team=MLAI"
-    },
-    {
       "title": "Solutions Architect",
       "url": "https://jobs.apple.com/en-us/details/200666384-3956/solutions-architect?team=OPMFG",
       "identifier": "Solutions Architect_solutions-architect?team=OPMFG"
-    },
-    {
-      "title": "Sr. Software Engineer - Apple Vision Pro Developer Ecosystem, Vision Products Group",
-      "url": "https://jobs.apple.com/en-us/details/200659830-3401/sr-software-engineer-apple-vision-pro-developer-ecosystem-vision-products-group?team=SFTWR",
-      "identifier": "Sr. Software Engineer - Apple Vision Pro Developer_sion-products-group?team=SFTWR"
     },
     {
       "title": "Senior Cloud Security Engineer",
@@ -67,13 +72,8 @@
       "title": "Software Development Engineer Test, Customer Systems",
       "url": "https://jobs.apple.com/en-us/details/200666024-0157/software-development-engineer-test-customer-systems?team=SFTWR",
       "identifier": "Software Development Engineer Test, Customer Syste_st-customer-systems?team=SFTWR"
-    },
-    {
-      "title": "Security Software Engineer, OS Security",
-      "url": "https://jobs.apple.com/en-us/details/200667231-0836/security-software-engineer-os-security?team=SFTWR",
-      "identifier": "Security Software Engineer, OS Security_ngineer-os-security?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-06-08T22:50:58.922828"
+  "timestamp": "2026-06-08T23:07:54.494304"
 }

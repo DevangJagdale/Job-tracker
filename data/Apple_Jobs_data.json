@@ -4,6 +4,16 @@
   "total_jobs": 14,
   "jobs": [
     {
+      "title": "Solutions Architect",
+      "url": "https://jobs.apple.com/en-us/details/200666389-0157/solutions-architect?team=OPMFG",
+      "identifier": "Solutions Architect_solutions-architect?team=OPMFG"
+    },
+    {
+      "title": "Sr. Software Engineer - Apple Vision Pro Developer Ecosystem, Vision Products Group",
+      "url": "https://jobs.apple.com/en-us/details/200659830-3401/sr-software-engineer-apple-vision-pro-developer-ecosystem-vision-products-group?team=SFTWR",
+      "identifier": "Sr. Software Engineer - Apple Vision Pro Developer_sion-products-group?team=SFTWR"
+    },
+    {
       "title": "Senior Cloud Security Engineer",
       "url": "https://jobs.apple.com/en-us/details/200653483-3337/senior-cloud-security-engineer?team=SFTWR",
       "identifier": "Senior Cloud Security Engineer_d-security-engineer?team=SFTWR"
@@ -34,11 +44,6 @@
       "identifier": "Agent Development Engineer, Customer Systems_er-customer-systems?team=SFTWR"
     },
     {
-      "title": "Solutions Architect",
-      "url": "https://jobs.apple.com/en-us/details/200666389-0157/solutions-architect?team=OPMFG",
-      "identifier": "Solutions Architect_solutions-architect?team=OPMFG"
-    },
-    {
       "title": "Software Development Engineer Test, Customer Systems",
       "url": "https://jobs.apple.com/en-us/details/200666024-0157/software-development-engineer-test-customer-systems?team=SFTWR",
       "identifier": "Software Development Engineer Test, Customer Syste_st-customer-systems?team=SFTWR"
@@ -67,13 +72,8 @@
       "title": "Software Engineer (Framework Solutions), AI & Data Platforms (AiDP)",
       "url": "https://jobs.apple.com/en-us/details/200667030-0157/software-engineer-framework-solutions-ai-data-platforms-aidp?team=SFTWR",
       "identifier": "Software Engineer (Framework Solutions), AI & Data_data-platforms-aidp?team=SFTWR"
-    },
-    {
-      "title": "Data Platform SRE, AI & Data Platforms (AiDP)",
-      "url": "https://jobs.apple.com/en-us/details/200667035-0157/data-platform-sre-ai-data-platforms-aidp?team=SFTWR",
-      "identifier": "Data Platform SRE, AI & Data Platforms (AiDP)_data-platforms-aidp?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-06-08T22:00:04.745618"
+  "timestamp": "2026-06-08T22:17:01.026321"
 }

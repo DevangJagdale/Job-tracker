@@ -4,27 +4,37 @@
   "total_jobs": 10,
   "jobs": [
     {
+      "title": "Lead Compute System Architect\nUnited States, California, Mountain View\nPosted 5 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556873901?domain=microsoft.com",
+      "identifier": "Lead Compute System Architect\nUnited States, Calif_556873901?domain=microsoft.com"
+    },
+    {
+      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 8 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556623413?domain=microsoft.com",
+      "identifier": "Software Engineer II\nUnited States, Washington, Re_556623413?domain=microsoft.com"
+    },
+    {
       "title": "Parent | Sr. Software Engineer - Azure Storage\nUnited States\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556849539?domain=microsoft.com",
       "identifier": "Parent | Sr. Software Engineer - Azure Storage\nUni_556849539?domain=microsoft.com"
     },
     {
-      "title": "Software Engineer II - CoreAI\nUnited States\nPosted an hour ago",
+      "title": "Software Engineer II - CoreAI\nUnited States\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556638528?domain=microsoft.com",
       "identifier": "Software Engineer II - CoreAI\nUnited States\nPosted_556638528?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer - CoreAI\nUnited States\nPosted an hour ago",
+      "title": "Senior Software Engineer - CoreAI\nUnited States\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556620361?domain=microsoft.com",
       "identifier": "Senior Software Engineer - CoreAI\nUnited States\nPo_556620361?domain=microsoft.com"
     },
     {
-      "title": "Software Engineer II - CoreAI\nUnited States\nPosted an hour ago",
+      "title": "Software Engineer II - CoreAI\nUnited States\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556657543?domain=microsoft.com",
       "identifier": "Software Engineer II - CoreAI\nUnited States\nPosted_556657543?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer - CoreAI\nUnited States\nPosted an hour ago",
+      "title": "Senior Software Engineer - CoreAI\nUnited States\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556778473?domain=microsoft.com",
       "identifier": "Senior Software Engineer - CoreAI\nUnited States\nPo_556778473?domain=microsoft.com"
     },
@@ -42,18 +52,8 @@
       "title": "Senior Software Engineer\nUnited States\nPosted 3 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556871017?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States\nPosted 3 ho_556871017?domain=microsoft.com"
-    },
-    {
-      "title": "Site Reliability Engineer - CTJ - Secret\nUnited States\nPosted 3 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556870822?domain=microsoft.com",
-      "identifier": "Site Reliability Engineer - CTJ - Secret\nUnited St_556870822?domain=microsoft.com"
-    },
-    {
-      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 5 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556627708?domain=microsoft.com",
-      "identifier": "Software Engineer II\nUnited States, Washington, Re_556627708?domain=microsoft.com"
     }
   ],
-  "job_count_text": "371",
-  "timestamp": "2026-06-08T18:45:34.142385"
+  "job_count_text": "372",
+  "timestamp": "2026-06-08T19:02:26.501910"
 }

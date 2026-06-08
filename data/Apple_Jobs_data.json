@@ -4,6 +4,16 @@
   "total_jobs": 12,
   "jobs": [
     {
+      "title": "Software Development Engineer Test, Customer Systems",
+      "url": "https://jobs.apple.com/en-us/details/200666024-0157/software-development-engineer-test-customer-systems?team=SFTWR",
+      "identifier": "Software Development Engineer Test, Customer Syste_st-customer-systems?team=SFTWR"
+    },
+    {
+      "title": "Security Software Engineer, OS Security",
+      "url": "https://jobs.apple.com/en-us/details/200667231-0836/security-software-engineer-os-security?team=SFTWR",
+      "identifier": "Security Software Engineer, OS Security_ngineer-os-security?team=SFTWR"
+    },
+    {
       "title": "WPC Partner Ops Support & Optimization",
       "url": "https://jobs.apple.com/en-us/details/200666600-0157/wpc-partner-ops-support-optimization?team=SFTWR",
       "identifier": "WPC Partner Ops Support & Optimization_upport-optimization?team=SFTWR"
@@ -52,18 +62,8 @@
       "title": "iOS Software Engineer (MSO)",
       "url": "https://jobs.apple.com/en-us/details/200665666-0836/ios-software-engineer-mso?team=SFTWR",
       "identifier": "iOS Software Engineer (MSO)_ftware-engineer-mso?team=SFTWR"
-    },
-    {
-      "title": "Director of Engineering, AiDP Data Services",
-      "url": "https://jobs.apple.com/en-us/details/200667043-3956/director-of-engineering-aidp-data-services?team=SFTWR",
-      "identifier": "Director of Engineering, AiDP Data Services_-aidp-data-services?team=SFTWR"
-    },
-    {
-      "title": "Engineering Project Manager, Video Apps",
-      "url": "https://jobs.apple.com/en-us/details/200666987-0157/engineering-project-manager-video-apps?team=SFTWR",
-      "identifier": "Engineering Project Manager, Video Apps_-manager-video-apps?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-06-08T16:13:24.866064"
+  "timestamp": "2026-06-08T16:30:24.970337"
 }

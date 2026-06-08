@@ -1,8 +1,23 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 13,
+  "total_jobs": 14,
   "jobs": [
+    {
+      "title": "AIML Engineer - Human Perception",
+      "url": "https://jobs.apple.com/en-us/details/200667012-3956/aiml-engineer-human-perception?team=MLAI",
+      "identifier": "AIML Engineer - Human Perception_eer-human-perception?team=MLAI"
+    },
+    {
+      "title": "Software Engineer: Agentic Evaluation",
+      "url": "https://jobs.apple.com/en-us/details/200666976-0836/software-engineer-agentic-evaluation?team=MLAI",
+      "identifier": "Software Engineer: Agentic Evaluation_r-agentic-evaluation?team=MLAI"
+    },
+    {
+      "title": "Machine Learning Manager, Data for Foundation Models",
+      "url": "https://jobs.apple.com/en-us/details/200667330-3337/machine-learning-manager-data-for-foundation-models?team=SFTWR",
+      "identifier": "Machine Learning Manager, Data for Foundation Mode_r-foundation-models?team=SFTWR"
+    },
     {
       "title": "AIML - Sr Machine Learning Engineer, Data and ML Innovation",
       "url": "https://jobs.apple.com/en-us/details/200667335-0836/aiml-sr-machine-learning-engineer-data-and-ml-innovation?team=MLAI",
@@ -57,18 +72,8 @@
       "title": "Security Software Engineer, OS Security",
       "url": "https://jobs.apple.com/en-us/details/200667231-0836/security-software-engineer-os-security?team=SFTWR",
       "identifier": "Security Software Engineer, OS Security_ngineer-os-security?team=SFTWR"
-    },
-    {
-      "title": "WPC Partner Ops Support & Optimization",
-      "url": "https://jobs.apple.com/en-us/details/200666600-0157/wpc-partner-ops-support-optimization?team=SFTWR",
-      "identifier": "WPC Partner Ops Support & Optimization_upport-optimization?team=SFTWR"
-    },
-    {
-      "title": "Senior Machine Learning Engineer, Wallet, Payment & Commerce",
-      "url": "https://jobs.apple.com/en-us/details/200667108-0157/senior-machine-learning-engineer-wallet-payment-commerce?team=SFTWR",
-      "identifier": "Senior Machine Learning Engineer, Wallet, Payment _et-payment-commerce?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-06-08T22:34:01.235884"
+  "timestamp": "2026-06-08T22:50:58.922828"
 }

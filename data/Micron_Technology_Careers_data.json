@@ -4,14 +4,14 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Sales Business Planning Analyst\nBoise, Idaho, United States of America\nPosted 15 hours ago",
-      "url": "https://careers.micron.com/careers/job/42248907",
-      "identifier": "Sales Business Planning Analyst\nBoise, Idaho, Unit_icron.com/careers/job/42248907"
-    },
-    {
       "title": "Data Scientist\nBoise, Idaho, United States of America\nPosted 15 hours ago",
       "url": "https://careers.micron.com/careers/job/42120652",
       "identifier": "Data Scientist\nBoise, Idaho, United States of Amer_icron.com/careers/job/42120652"
+    },
+    {
+      "title": "Sales Business Planning Analyst\nBoise, Idaho, United States of America\nPosted 15 hours ago",
+      "url": "https://careers.micron.com/careers/job/42248907",
+      "identifier": "Sales Business Planning Analyst\nBoise, Idaho, Unit_icron.com/careers/job/42248907"
     },
     {
       "title": "New College Grad - Software Engineer, Full Stack\nBoise, Idaho, United States of America\nPosted 4 days ago",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "96",
-  "timestamp": "2026-06-08T15:08:44.191092"
+  "timestamp": "2026-06-08T15:25:38.739775"
 }

@@ -4,7 +4,7 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Data Scientist\nBoise, Idaho, United States of America\nPosted 14 hours ago",
+      "title": "Data Scientist\nBoise, Idaho, United States of America\nPosted 15 hours ago",
       "url": "https://careers.micron.com/careers/job/42120652",
       "identifier": "Data Scientist\nBoise, Idaho, United States of Amer_icron.com/careers/job/42120652"
     },
@@ -14,7 +14,7 @@
       "identifier": "New College Grad - Software Engineer, Full Stack\nB_icron.com/careers/job/41979548"
     },
     {
-      "title": "Sales Business Planning Analyst\nBoise, Idaho, United States of America\nPosted 5 days ago",
+      "title": "Sales Business Planning Analyst\nBoise, Idaho, United States of America\nPosted 15 hours ago",
       "url": "https://careers.micron.com/careers/job/42248907",
       "identifier": "Sales Business Planning Analyst\nBoise, Idaho, Unit_icron.com/careers/job/42248907"
     },
@@ -34,11 +34,6 @@
       "identifier": "Semiconductor Process Engineer, Metrology\nBoise, I_icron.com/careers/job/39196650"
     },
     {
-      "title": "New College Grad - Process Integration Engineer\nBoise, Idaho, United States of America\nPosted 6 days ago",
-      "url": "https://careers.micron.com/careers/job/40475196",
-      "identifier": "New College Grad - Process Integration Engineer\nBo_icron.com/careers/job/40475196"
-    },
-    {
       "title": "Supply Management Analyst\nBoise, Idaho, United States of America\nPosted 6 days ago",
       "url": "https://careers.micron.com/careers/job/41482847",
       "identifier": "Supply Management Analyst\nBoise, Idaho, United Sta_icron.com/careers/job/41482847"
@@ -49,11 +44,16 @@
       "identifier": "Metals/Films Process Development Engineer\nBoise, I_icron.com/careers/job/40797024"
     },
     {
+      "title": "New College Grad - Process Integration Engineer\nBoise, Idaho, United States of America\nPosted 6 days ago",
+      "url": "https://careers.micron.com/careers/job/40475196",
+      "identifier": "New College Grad - Process Integration Engineer\nBo_icron.com/careers/job/40475196"
+    },
+    {
       "title": "Design Validation Product Engineer, DEG Technology\nBoise, Idaho, United States of America\nPosted 7 days ago",
       "url": "https://careers.micron.com/careers/job/41121665",
       "identifier": "Design Validation Product Engineer, DEG Technology_icron.com/careers/job/41121665"
     }
   ],
   "job_count_text": "96",
-  "timestamp": "2026-06-08T14:18:04.606475"
+  "timestamp": "2026-06-08T14:34:55.026033"
 }

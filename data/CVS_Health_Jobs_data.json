@@ -4,14 +4,14 @@
   "total_jobs": 8,
   "jobs": [
     {
-      "title": "Senior Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0875597/Senior-Software-Development-Engineer",
-      "identifier": "Senior Software Development Engineer_-Software-Development-Engineer"
-    },
-    {
       "title": "Executive Director, Digital Solutions Engineering",
       "url": "https://jobs.cvshealth.com/us/en/job/R0930160/Executive-Director-Digital-Solutions-Engineering",
       "identifier": "Executive Director, Digital Solutions Engineering_-Digital-Solutions-Engineering"
+    },
+    {
+      "title": "Senior Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0875597/Senior-Software-Development-Engineer",
+      "identifier": "Senior Software Development Engineer_-Software-Development-Engineer"
     },
     {
       "title": "Exchange & Copilot Operations Support Engineer",
@@ -45,5 +45,5 @@
     }
   ],
   "job_count_text": "39",
-  "timestamp": "2026-06-08T19:37:47.349127"
+  "timestamp": "2026-06-08T19:45:18.083203"
 }

@@ -4,6 +4,11 @@
   "total_jobs": 12,
   "jobs": [
     {
+      "title": "Solutions Architect",
+      "url": "https://jobs.apple.com/en-us/details/200666384-3956/solutions-architect?team=OPMFG",
+      "identifier": "Solutions Architect_solutions-architect?team=OPMFG"
+    },
+    {
       "title": "Software Development Engineer Test, Customer Systems",
       "url": "https://jobs.apple.com/en-us/details/200666024-0157/software-development-engineer-test-customer-systems?team=SFTWR",
       "identifier": "Software Development Engineer Test, Customer Syste_st-customer-systems?team=SFTWR"
@@ -57,13 +62,8 @@
       "title": "Senior Software Engineer",
       "url": "https://jobs.apple.com/en-us/details/200654516-3337/senior-software-engineer?team=SFTWR",
       "identifier": "Senior Software Engineer_r-software-engineer?team=SFTWR"
-    },
-    {
-      "title": "iOS Software Engineer (MSO)",
-      "url": "https://jobs.apple.com/en-us/details/200665666-0836/ios-software-engineer-mso?team=SFTWR",
-      "identifier": "iOS Software Engineer (MSO)_ftware-engineer-mso?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-06-08T17:04:15.774997"
+  "timestamp": "2026-06-08T17:21:09.855105"
 }

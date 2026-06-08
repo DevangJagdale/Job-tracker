@@ -1,8 +1,18 @@
 {
   "page_title": "Search our Job Opportunities at Barclays",
   "url": "https://search.jobs.barclays/search-jobs/United%20States/13015/2/6252001/39x76/-98x5/50/2",
-  "total_jobs": 13,
+  "total_jobs": 16,
   "jobs": [
+    {
+      "title": "Administrative Assistant",
+      "url": "https://search.jobs.barclays/job/new-york/administrative-assistant/13015/96054826896",
+      "identifier": "Administrative Assistant_ve-assistant/13015/96054826896"
+    },
+    {
+      "title": "Vice President \u2013 Liquid Financing Solutions",
+      "url": "https://search.jobs.barclays/job/new-york/vice-president-liquid-financing-solutions/13015/96054812560",
+      "identifier": "Vice President \u2013 Liquid Financing Solutions_ng-solutions/13015/96054812560"
+    },
     {
       "title": "Suspicious Activity Reporting Specialist",
       "url": "https://search.jobs.barclays/job/whippany/suspicious-activity-reporting-specialist/13015/96037413856",
@@ -22,6 +32,11 @@
       "title": "US Controls Assurance VP",
       "url": "https://search.jobs.barclays/job/whippany/us-controls-assurance-vp/13015/96009191648",
       "identifier": "US Controls Assurance VP_assurance-vp/13015/96009191648"
+    },
+    {
+      "title": "Assistant VP, Windows Server Engineer",
+      "url": "https://search.jobs.barclays/job/whippany/assistant-vp-windows-server-engineer/13015/95994010176",
+      "identifier": "Assistant VP, Windows Server Engineer_ver-engineer/13015/95994010176"
     },
     {
       "title": "Senior App Support Specialist",
@@ -70,5 +85,5 @@
     }
   ],
   "job_count_text": "134",
-  "timestamp": "2026-06-08T11:29:36.551140"
+  "timestamp": "2026-06-08T11:46:36.646010"
 }

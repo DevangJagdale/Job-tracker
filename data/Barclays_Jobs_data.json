@@ -1,12 +1,12 @@
 {
   "page_title": "Search our Job Opportunities at Barclays",
   "url": "https://search.jobs.barclays/search-jobs/United%20States/13015/2/6252001/39x76/-98x5/50/2",
-  "total_jobs": 14,
+  "total_jobs": 15,
   "jobs": [
     {
-      "title": "Senior Penetration Tester - AVP",
-      "url": "https://search.jobs.barclays/job/whippany/senior-penetration-tester-avp/13015/96172950640",
-      "identifier": "Senior Penetration Tester - AVP_n-tester-avp/13015/96172950640"
+      "title": "Intelligence Specialist - VP",
+      "url": "https://search.jobs.barclays/job/new-york/intelligence-specialist-vp/13015/96172963456",
+      "identifier": "Intelligence Specialist - VP_pecialist-vp/13015/96172963456"
     },
     {
       "title": "Principal Architect - Digital Assets",
@@ -14,24 +14,14 @@
       "identifier": "Principal Architect - Digital Assets_gital-assets/13015/96172944576"
     },
     {
-      "title": "Administrative Assistant",
-      "url": "https://search.jobs.barclays/job/new-york/administrative-assistant/13015/96054826896",
-      "identifier": "Administrative Assistant_ve-assistant/13015/96054826896"
-    },
-    {
       "title": "Vice President \u2013 Liquid Financing Solutions",
       "url": "https://search.jobs.barclays/job/new-york/vice-president-liquid-financing-solutions/13015/96054812560",
       "identifier": "Vice President \u2013 Liquid Financing Solutions_ng-solutions/13015/96054812560"
     },
     {
-      "title": "Senior C#/.NET Developer in Custody Liquid Finance",
-      "url": "https://search.jobs.barclays/job/new-york/senior-c-net-developer-in-custody-liquid-finance/13015/96037404672",
-      "identifier": "Senior C#/.NET Developer in Custody Liquid Finance_quid-finance/13015/96037404672"
-    },
-    {
-      "title": "Application Support Analyst",
-      "url": "https://search.jobs.barclays/job/whippany/application-support-analyst/13015/96018448576",
-      "identifier": "Application Support Analyst_port-analyst/13015/96018448576"
+      "title": "Suspicious Activity Reporting Specialist",
+      "url": "https://search.jobs.barclays/job/whippany/suspicious-activity-reporting-specialist/13015/96037413856",
+      "identifier": "Suspicious Activity Reporting Specialist_g-specialist/13015/96037413856"
     },
     {
       "title": "US Controls Assurance VP",
@@ -72,8 +62,23 @@
       "title": "Investment Bank Power Group, Associate",
       "url": "https://search.jobs.barclays/job/new-york/investment-bank-power-group-associate/13015/95948096096",
       "identifier": "Investment Bank Power Group, Associate_up-associate/13015/95948096096"
+    },
+    {
+      "title": "Change Delivery Manager",
+      "url": "https://search.jobs.barclays/job/whippany/change-delivery-manager/13015/95948079360",
+      "identifier": "Change Delivery Manager_very-manager/13015/95948079360"
+    },
+    {
+      "title": "Workforce Management Forecasting and Analytics VP",
+      "url": "https://search.jobs.barclays/job/wilmington/workforce-management-forecasting-and-analytics-vp/13015/95856692992",
+      "identifier": "Workforce Management Forecasting and Analytics VP_analytics-vp/13015/95856692992"
+    },
+    {
+      "title": "Workforce Management Senior Forecasting Analyst",
+      "url": "https://search.jobs.barclays/job/wilmington/workforce-management-senior-forecasting-analyst/13015/95856692928",
+      "identifier": "Workforce Management Senior Forecasting Analyst_ting-analyst/13015/95856692928"
     }
   ],
-  "job_count_text": "139",
-  "timestamp": "2026-06-08T23:24:18.715986"
+  "job_count_text": "134",
+  "timestamp": "2026-06-08T23:41:16.857147"
 }

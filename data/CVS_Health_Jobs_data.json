@@ -4,24 +4,24 @@
   "total_jobs": 8,
   "jobs": [
     {
-      "title": "Executive Director, Digital Solutions Engineering",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0930160/Executive-Director-Digital-Solutions-Engineering",
-      "identifier": "Executive Director, Digital Solutions Engineering_-Digital-Solutions-Engineering"
-    },
-    {
       "title": "Senior Software Development Engineer",
       "url": "https://jobs.cvshealth.com/us/en/job/R0875597/Senior-Software-Development-Engineer",
       "identifier": "Senior Software Development Engineer_-Software-Development-Engineer"
     },
     {
-      "title": "Lead Director \u2013 Software Development Engineering (AI & Automation)",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0843277/Lead-Director-Software-Development-Engineering-AI-Automation",
-      "identifier": "Lead Director \u2013 Software Development Engineering (_ment-Engineering-AI-Automation"
+      "title": "Executive Director, Digital Solutions Engineering",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0930160/Executive-Director-Digital-Solutions-Engineering",
+      "identifier": "Executive Director, Digital Solutions Engineering_-Digital-Solutions-Engineering"
     },
     {
       "title": "Senior Manager - Provider Experience Program",
       "url": "https://jobs.cvshealth.com/us/en/job/R0909170/Senior-Manager-Provider-Experience-Program",
       "identifier": "Senior Manager - Provider Experience Program_er-Provider-Experience-Program"
+    },
+    {
+      "title": "Lead Director \u2013 Software Development Engineering (AI & Automation)",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0843277/Lead-Director-Software-Development-Engineering-AI-Automation",
+      "identifier": "Lead Director \u2013 Software Development Engineering (_ment-Engineering-AI-Automation"
     },
     {
       "title": "SME ACAS Benefits Testing",
@@ -34,16 +34,16 @@
       "identifier": "Lead Director - Agile Practice Management_ctor-Agile-Practice-Management"
     },
     {
+      "title": "Senior Manager ACAS/Commercial Benefits Testing",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0871984/Senior-Manager-ACAS-Commercial-Benefits-Testing",
+      "identifier": "Senior Manager ACAS/Commercial Benefits Testing_AS-Commercial-Benefits-Testing"
+    },
+    {
       "title": "Senior Analyst Tech Infrastructure",
       "url": "https://jobs.cvshealth.com/us/en/job/R0923885/Senior-Analyst-Tech-Infrastructure",
       "identifier": "Senior Analyst Tech Infrastructure_or-Analyst-Tech-Infrastructure"
-    },
-    {
-      "title": "Technical Support Representative",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0934953/Technical-Support-Representative",
-      "identifier": "Technical Support Representative_chnical-Support-Representative"
     }
   ],
   "job_count_text": "30",
-  "timestamp": "2026-06-08T13:16:54.440389"
+  "timestamp": "2026-06-08T13:33:58.317468"
 }

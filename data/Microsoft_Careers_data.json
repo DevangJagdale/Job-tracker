@@ -4,32 +4,37 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Software Engineer II - CoreAI\nUnited States\nPosted 16 minutes ago",
+      "title": "Parent | Sr. Software Engineer - Azure Storage\nUnited States\nPosted 18 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556849539?domain=microsoft.com",
+      "identifier": "Parent | Sr. Software Engineer - Azure Storage\nUni_556849539?domain=microsoft.com"
+    },
+    {
+      "title": "Software Engineer II - CoreAI\nUnited States\nPosted 33 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556638528?domain=microsoft.com",
       "identifier": "Software Engineer II - CoreAI\nUnited States\nPosted_556638528?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer - CoreAI\nUnited States\nPosted 16 minutes ago",
+      "title": "Senior Software Engineer - CoreAI\nUnited States\nPosted 33 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556620361?domain=microsoft.com",
       "identifier": "Senior Software Engineer - CoreAI\nUnited States\nPo_556620361?domain=microsoft.com"
     },
     {
-      "title": "Software Engineer II - CoreAI\nUnited States\nPosted 16 minutes ago",
+      "title": "Software Engineer II - CoreAI\nUnited States\nPosted 33 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556657543?domain=microsoft.com",
       "identifier": "Software Engineer II - CoreAI\nUnited States\nPosted_556657543?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer - CoreAI\nUnited States\nPosted 15 minutes ago",
+      "title": "Senior Software Engineer - CoreAI\nUnited States\nPosted 32 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556778473?domain=microsoft.com",
       "identifier": "Senior Software Engineer - CoreAI\nUnited States\nPo_556778473?domain=microsoft.com"
     },
     {
-      "title": "Senior Applied Data Scientist\nUnited States\nPosted 26 minutes ago",
+      "title": "Senior Applied Data Scientist\nUnited States\nPosted 43 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556828160?domain=microsoft.com",
       "identifier": "Senior Applied Data Scientist\nUnited States\nPosted_556828160?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer - Performance\nUnited States\nPosted 44 minutes ago",
+      "title": "Senior Software Engineer - Performance\nUnited States\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556828255?domain=microsoft.com",
       "identifier": "Senior Software Engineer - Performance\nUnited Stat_556828255?domain=microsoft.com"
     },
@@ -47,13 +52,8 @@
       "title": "Site Reliability Engineer - CTJ - Secret\nUnited States\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556870822?domain=microsoft.com",
       "identifier": "Site Reliability Engineer - CTJ - Secret\nUnited St_556870822?domain=microsoft.com"
-    },
-    {
-      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 4 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556627708?domain=microsoft.com",
-      "identifier": "Software Engineer II\nUnited States, Washington, Re_556627708?domain=microsoft.com"
     }
   ],
   "job_count_text": "373",
-  "timestamp": "2026-06-08T17:37:49.807764"
+  "timestamp": "2026-06-08T17:54:42.470994"
 }

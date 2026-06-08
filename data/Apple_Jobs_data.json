@@ -4,6 +4,11 @@
   "total_jobs": 13,
   "jobs": [
     {
+      "title": "Sr Engineering Program Manager, Generative AI Experiences - Special Projects",
+      "url": "https://jobs.apple.com/en-us/details/200666631-0836/sr-engineering-program-manager-generative-ai-experiences-special-projects?team=SFTWR",
+      "identifier": "Sr Engineering Program Manager, Generative AI Expe_es-special-projects?team=SFTWR"
+    },
+    {
       "title": "SDET - Wallet Identity Quality Engineer",
       "url": "https://jobs.apple.com/en-us/details/200667279-0157/sdet-wallet-identity-quality-engineer?team=SFTWR",
       "identifier": "SDET - Wallet Identity Quality Engineer_ty-quality-engineer?team=SFTWR"
@@ -12,11 +17,6 @@
       "title": "Software Development Engineer - Data",
       "url": "https://jobs.apple.com/en-us/details/200667248-0836/software-development-engineer-data?team=SFTWR",
       "identifier": "Software Development Engineer - Data_pment-engineer-data?team=SFTWR"
-    },
-    {
-      "title": "Sr Engineering Program Manager, Generative AI Experiences - Special Projects",
-      "url": "https://jobs.apple.com/en-us/details/200666631-0836/sr-engineering-program-manager-generative-ai-experiences-special-projects?team=SFTWR",
-      "identifier": "Sr Engineering Program Manager, Generative AI Expe_es-special-projects?team=SFTWR"
     },
     {
       "title": "Agent Development Engineer, Customer Systems",
@@ -70,5 +70,5 @@
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-06-08T19:44:17.297197"
+  "timestamp": "2026-06-08T20:01:14.141082"
 }

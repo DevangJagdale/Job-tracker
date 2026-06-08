@@ -4,14 +4,14 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Data Scientist\nBoise, Idaho, United States of America\nPosted 17 hours ago",
-      "url": "https://careers.micron.com/careers/job/42120652",
-      "identifier": "Data Scientist\nBoise, Idaho, United States of Amer_icron.com/careers/job/42120652"
-    },
-    {
-      "title": "Sales Business Planning Analyst\nBoise, Idaho, United States of America\nPosted 17 hours ago",
+      "title": "Sales Business Planning Analyst\nBoise, Idaho, United States of America\nPosted 18 hours ago",
       "url": "https://careers.micron.com/careers/job/42248907",
       "identifier": "Sales Business Planning Analyst\nBoise, Idaho, Unit_icron.com/careers/job/42248907"
+    },
+    {
+      "title": "Data Scientist\nBoise, Idaho, United States of America\nPosted 18 hours ago",
+      "url": "https://careers.micron.com/careers/job/42120652",
+      "identifier": "Data Scientist\nBoise, Idaho, United States of Amer_icron.com/careers/job/42120652"
     },
     {
       "title": "Product Yield & Analytics ESDA Engineer\nBoise, Idaho, United States of America\nPosted 5 days ago",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "95",
-  "timestamp": "2026-06-08T17:24:09.695005"
+  "timestamp": "2026-06-08T17:41:06.566309"
 }

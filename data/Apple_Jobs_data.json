@@ -1,11 +1,11 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 12,
+  "total_jobs": 10,
   "jobs": [
     {
       "title": "Solutions Architect",
-      "url": "https://jobs.apple.com/en-us/details/200666384-3956/solutions-architect?team=OPMFG",
+      "url": "https://jobs.apple.com/en-us/details/200666389-0157/solutions-architect?team=OPMFG",
       "identifier": "Solutions Architect_solutions-architect?team=OPMFG"
     },
     {
@@ -52,18 +52,8 @@
       "title": "Software Engineer (Data Solutions), AI & Data Platforms (AiDP)",
       "url": "https://jobs.apple.com/en-us/details/200667022-0157/software-engineer-data-solutions-ai-data-platforms-aidp?team=SFTWR",
       "identifier": "Software Engineer (Data Solutions), AI & Data Plat_data-platforms-aidp?team=SFTWR"
-    },
-    {
-      "title": "Technical Enablement Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200666578-0836/technical-enablement-engineer?team=SFTWR",
-      "identifier": "Technical Enablement Engineer_enablement-engineer?team=SFTWR"
-    },
-    {
-      "title": "Senior Software Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200654516-3337/senior-software-engineer?team=SFTWR",
-      "identifier": "Senior Software Engineer_r-software-engineer?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-06-08T17:21:09.855105"
+  "timestamp": "2026-06-08T17:38:05.830287"
 }

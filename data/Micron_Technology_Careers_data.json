@@ -4,6 +4,11 @@
   "total_jobs": 10,
   "jobs": [
     {
+      "title": "Data Scientist\nBoise, Idaho, United States of America\nPosted 7 hours ago",
+      "url": "https://careers.micron.com/careers/job/42120652",
+      "identifier": "Data Scientist\nBoise, Idaho, United States of Amer_icron.com/careers/job/42120652"
+    },
+    {
       "title": "New College Grad - Software Engineer, Full Stack\nBoise, Idaho, United States of America\nPosted 3 days ago",
       "url": "https://careers.micron.com/careers/job/41979548",
       "identifier": "New College Grad - Software Engineer, Full Stack\nB_icron.com/careers/job/41979548"
@@ -47,13 +52,8 @@
       "title": "Supply Management Analyst\nManassas, Virginia, United States of America\nPosted 6 days ago",
       "url": "https://careers.micron.com/careers/job/41926344",
       "identifier": "Supply Management Analyst\nManassas, Virginia, Unit_icron.com/careers/job/41926344"
-    },
-    {
-      "title": "New College Grad - Photolithography Process Engineer\nBoise, Idaho, United States of America\nPosted 6 days ago",
-      "url": "https://careers.micron.com/careers/job/41923169",
-      "identifier": "New College Grad - Photolithography Process Engine_icron.com/careers/job/41923169"
     }
   ],
   "job_count_text": "96",
-  "timestamp": "2026-06-08T07:10:24.292826"
+  "timestamp": "2026-06-08T07:27:21.482367"
 }

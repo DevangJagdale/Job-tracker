@@ -1,8 +1,13 @@
 {
   "page_title": "Job Openings - Cisco Careers",
   "url": "https://careers.cisco.com/global/en/search-results?s=1",
-  "total_jobs": 3,
+  "total_jobs": 4,
   "jobs": [
+    {
+      "title": "Software Engineer I (Full Time) \u2013 Devices Technology Group \u2013 United States",
+      "url": "https://careers.cisco.com/global/en/job/2011256/Software-Engineer-I-Full-Time-Devices-Technology-Group-United-States",
+      "identifier": "Software Engineer I (Full Time) \u2013 Devices Technolo_Technology-Group-United-States"
+    },
     {
       "title": "Customer Experience Project Specialist I (Full-Time) - United States",
       "url": "https://careers.cisco.com/global/en/job/2001576/Customer-Experience-Project-Specialist-I-Full-Time-United-States",
@@ -19,6 +24,6 @@
       "identifier": "Sales Development Representative II (Full Time) Un_al-Demand-Center-United-States"
     }
   ],
-  "job_count_text": "4",
-  "timestamp": "2026-06-08T18:30:40.965122"
+  "job_count_text": "5",
+  "timestamp": "2026-06-08T18:47:33.622417"
 }

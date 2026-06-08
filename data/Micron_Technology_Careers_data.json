@@ -4,11 +4,6 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Data Scientist\nBoise, Idaho, United States of America\nPosted 19 hours ago",
-      "url": "https://careers.micron.com/careers/job/42120652",
-      "identifier": "Data Scientist\nBoise, Idaho, United States of Amer_icron.com/careers/job/42120652"
-    },
-    {
       "title": "New College Grad - Software Engineer, Full Stack\nBoise, Idaho, United States of America\nPosted 19 hours ago",
       "url": "https://careers.micron.com/careers/job/41979548",
       "identifier": "New College Grad - Software Engineer, Full Stack\nB_icron.com/careers/job/41979548"
@@ -17,6 +12,11 @@
       "title": "Sales Business Planning Analyst\nBoise, Idaho, United States of America\nPosted 19 hours ago",
       "url": "https://careers.micron.com/careers/job/42248907",
       "identifier": "Sales Business Planning Analyst\nBoise, Idaho, Unit_icron.com/careers/job/42248907"
+    },
+    {
+      "title": "Data Scientist\nBoise, Idaho, United States of America\nPosted 19 hours ago",
+      "url": "https://careers.micron.com/careers/job/42120652",
+      "identifier": "Data Scientist\nBoise, Idaho, United States of Amer_icron.com/careers/job/42120652"
     },
     {
       "title": "Product Yield & Analytics ESDA Engineer\nBoise, Idaho, United States of America\nPosted 5 days ago",
@@ -29,11 +29,6 @@
       "identifier": "Engineer - Operations Improvement\nBoise, Idaho, Un_icron.com/careers/job/40899085"
     },
     {
-      "title": "Supply Management Analyst\nBoise, Idaho, United States of America\nPosted 6 days ago",
-      "url": "https://careers.micron.com/careers/job/41482847",
-      "identifier": "Supply Management Analyst\nBoise, Idaho, United Sta_icron.com/careers/job/41482847"
-    },
-    {
       "title": "Metals/Films Process Development Engineer\nBoise, Idaho, United States of America\nPosted 6 days ago",
       "url": "https://careers.micron.com/careers/job/40797024",
       "identifier": "Metals/Films Process Development Engineer\nBoise, I_icron.com/careers/job/40797024"
@@ -44,9 +39,14 @@
       "identifier": "New College Grad - Process Integration Engineer\nBo_icron.com/careers/job/40475196"
     },
     {
-      "title": "Semiconductor Process Engineer, Metrology\nBoise, Idaho, United States of America\nPosted 6 days ago",
+      "title": "Semiconductor Process Engineer, Metrology\nBoise, Idaho, United States of America\nPosted 19 hours ago",
       "url": "https://careers.micron.com/careers/job/39196650",
       "identifier": "Semiconductor Process Engineer, Metrology\nBoise, I_icron.com/careers/job/39196650"
+    },
+    {
+      "title": "Supply Management Analyst\nBoise, Idaho, United States of America\nPosted 6 days ago",
+      "url": "https://careers.micron.com/careers/job/41482847",
+      "identifier": "Supply Management Analyst\nBoise, Idaho, United Sta_icron.com/careers/job/41482847"
     },
     {
       "title": "Supply Management Analyst\nManassas, Virginia, United States of America\nPosted 7 days ago",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "96",
-  "timestamp": "2026-06-08T18:31:57.733508"
+  "timestamp": "2026-06-08T18:48:49.850127"
 }

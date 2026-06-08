@@ -1,8 +1,18 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 14,
+  "total_jobs": 15,
   "jobs": [
+    {
+      "title": "Senior Machine Learning Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200666339-0836/senior-machine-learning-engineer?team=SFTWR",
+      "identifier": "Senior Machine Learning Engineer_e-learning-engineer?team=SFTWR"
+    },
+    {
+      "title": "Software Engineer, System Services & Daemons, Core OS",
+      "url": "https://jobs.apple.com/en-us/details/200667318-0505/software-engineer-system-services-daemons-core-os?team=SFTWR",
+      "identifier": "Software Engineer, System Services & Daemons, Core_ces-daemons-core-os?team=SFTWR"
+    },
     {
       "title": "Sr. Software Engineer - Apple Vision Pro Developer Ecosystem, Vision Products Group",
       "url": "https://jobs.apple.com/en-us/details/200659830-3401/sr-software-engineer-apple-vision-pro-developer-ecosystem-vision-products-group?team=SFTWR",
@@ -67,13 +77,8 @@
       "title": "Agent Development Engineer, Customer Systems",
       "url": "https://jobs.apple.com/en-us/details/200662678-0836/agent-development-engineer-customer-systems?team=SFTWR",
       "identifier": "Agent Development Engineer, Customer Systems_er-customer-systems?team=SFTWR"
-    },
-    {
-      "title": "Software Development Engineer Test, Customer Systems",
-      "url": "https://jobs.apple.com/en-us/details/200666024-0157/software-development-engineer-test-customer-systems?team=SFTWR",
-      "identifier": "Software Development Engineer Test, Customer Syste_st-customer-systems?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-06-08T23:07:54.494304"
+  "timestamp": "2026-06-08T23:24:51.900764"
 }

@@ -4,29 +4,14 @@
   "total_jobs": 8,
   "jobs": [
     {
-      "title": "Senior Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0875597/Senior-Software-Development-Engineer",
-      "identifier": "Senior Software Development Engineer_-Software-Development-Engineer"
-    },
-    {
-      "title": "Executive Director, Digital Solutions Engineering",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0930160/Executive-Director-Digital-Solutions-Engineering",
-      "identifier": "Executive Director, Digital Solutions Engineering_-Digital-Solutions-Engineering"
-    },
-    {
-      "title": "Exchange & Copilot Operations Support Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0857628/Exchange-Copilot-Operations-Support-Engineer",
-      "identifier": "Exchange & Copilot Operations Support Engineer_ot-Operations-Support-Engineer"
-    },
-    {
       "title": "Senior Software Development Engineer - Developer Tooling",
       "url": "https://jobs.cvshealth.com/us/en/job/R0918622/Senior-Software-Development-Engineer-Developer-Tooling",
       "identifier": "Senior Software Development Engineer - Developer T_ent-Engineer-Developer-Tooling"
     },
     {
-      "title": "Manager, Business Analysis",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0906521/Manager-Business-Analysis",
-      "identifier": "Manager, Business Analysis_6521/Manager-Business-Analysis"
+      "title": "Senior Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0938245/Senior-Software-Development-Engineer",
+      "identifier": "Senior Software Development Engineer_-Software-Development-Engineer"
     },
     {
       "title": "Senior Manager - Software Development Engineering",
@@ -42,8 +27,23 @@
       "title": "Senior Manager - Scrum Master",
       "url": "https://jobs.cvshealth.com/us/en/job/R0933663/Senior-Manager-Scrum-Master",
       "identifier": "Senior Manager - Scrum Master_63/Senior-Manager-Scrum-Master"
+    },
+    {
+      "title": "Executive Director, Digital Solutions Engineering",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0930160/Executive-Director-Digital-Solutions-Engineering",
+      "identifier": "Executive Director, Digital Solutions Engineering_-Digital-Solutions-Engineering"
+    },
+    {
+      "title": "Exchange & Copilot Operations Support Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0857628/Exchange-Copilot-Operations-Support-Engineer",
+      "identifier": "Exchange & Copilot Operations Support Engineer_ot-Operations-Support-Engineer"
+    },
+    {
+      "title": "Manager, Business Analysis",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0906521/Manager-Business-Analysis",
+      "identifier": "Manager, Business Analysis_6521/Manager-Business-Analysis"
     }
   ],
-  "job_count_text": "39",
-  "timestamp": "2026-06-08T21:10:06.849120"
+  "job_count_text": "41",
+  "timestamp": "2026-06-08T21:27:11.055672"
 }

@@ -4,14 +4,14 @@
   "total_jobs": 8,
   "jobs": [
     {
-      "title": "Executive Director, Digital Solutions Engineering",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0930160/Executive-Director-Digital-Solutions-Engineering",
-      "identifier": "Executive Director, Digital Solutions Engineering_-Digital-Solutions-Engineering"
-    },
-    {
       "title": "Senior Software Development Engineer",
       "url": "https://jobs.cvshealth.com/us/en/job/R0875597/Senior-Software-Development-Engineer",
       "identifier": "Senior Software Development Engineer_-Software-Development-Engineer"
+    },
+    {
+      "title": "Executive Director, Digital Solutions Engineering",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0930160/Executive-Director-Digital-Solutions-Engineering",
+      "identifier": "Executive Director, Digital Solutions Engineering_-Digital-Solutions-Engineering"
     },
     {
       "title": "Exchange & Copilot Operations Support Engineer",
@@ -29,6 +29,11 @@
       "identifier": "Manager, Business Analysis_6521/Manager-Business-Analysis"
     },
     {
+      "title": "Senior Manager - Software Development Engineering",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0915200/Senior-Manager-Software-Development-Engineering",
+      "identifier": "Senior Manager - Software Development Engineering_ftware-Development-Engineering"
+    },
+    {
       "title": "Staff Software Development Engineer",
       "url": "https://jobs.cvshealth.com/us/en/job/R0938284/Staff-Software-Development-Engineer",
       "identifier": "Staff Software Development Engineer_-Software-Development-Engineer"
@@ -37,13 +42,8 @@
       "title": "Senior Manager - Scrum Master",
       "url": "https://jobs.cvshealth.com/us/en/job/R0933663/Senior-Manager-Scrum-Master",
       "identifier": "Senior Manager - Scrum Master_63/Senior-Manager-Scrum-Master"
-    },
-    {
-      "title": "Senior Manager - Software Development Engineering",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0915200/Senior-Manager-Software-Development-Engineering",
-      "identifier": "Senior Manager - Software Development Engineering_ftware-Development-Engineering"
     }
   ],
   "job_count_text": "39",
-  "timestamp": "2026-06-08T20:53:06.825769"
+  "timestamp": "2026-06-08T21:10:06.849120"
 }

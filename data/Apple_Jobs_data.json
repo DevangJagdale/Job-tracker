@@ -4,6 +4,11 @@
   "total_jobs": 13,
   "jobs": [
     {
+      "title": "Data Scientist - Health AIML",
+      "url": "https://jobs.apple.com/en-us/details/200665713-0836/data-scientist-health-aiml?team=MLAI",
+      "identifier": "Data Scientist - Health AIML_cientist-health-aiml?team=MLAI"
+    },
+    {
       "title": "Sr Engineering Program Manager, Generative AI Experiences - Special Projects",
       "url": "https://jobs.apple.com/en-us/details/200666631-0836/sr-engineering-program-manager-generative-ai-experiences-special-projects?team=SFTWR",
       "identifier": "Sr Engineering Program Manager, Generative AI Expe_es-special-projects?team=SFTWR"
@@ -62,13 +67,8 @@
       "title": "Data Platform SRE, AI & Data Platforms (AiDP)",
       "url": "https://jobs.apple.com/en-us/details/200667035-0157/data-platform-sre-ai-data-platforms-aidp?team=SFTWR",
       "identifier": "Data Platform SRE, AI & Data Platforms (AiDP)_data-platforms-aidp?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer (AML), AI & Data Platforms (AiDP)",
-      "url": "https://jobs.apple.com/en-us/details/200667037-0157/software-engineer-aml-ai-data-platforms-aidp?team=SFTWR",
-      "identifier": "Software Engineer (AML), AI & Data Platforms (AiDP_data-platforms-aidp?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-06-08T20:52:06.364002"
+  "timestamp": "2026-06-08T21:09:04.497663"
 }

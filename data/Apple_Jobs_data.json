@@ -1,8 +1,18 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 12,
+  "total_jobs": 13,
   "jobs": [
+    {
+      "title": "SDET - Wallet Identity Quality Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200667279-0157/sdet-wallet-identity-quality-engineer?team=SFTWR",
+      "identifier": "SDET - Wallet Identity Quality Engineer_ty-quality-engineer?team=SFTWR"
+    },
+    {
+      "title": "Software Development Engineer - Data",
+      "url": "https://jobs.apple.com/en-us/details/200667248-0836/software-development-engineer-data?team=SFTWR",
+      "identifier": "Software Development Engineer - Data_pment-engineer-data?team=SFTWR"
+    },
     {
       "title": "Sr Engineering Program Manager, Generative AI Experiences - Special Projects",
       "url": "https://jobs.apple.com/en-us/details/200666631-0836/sr-engineering-program-manager-generative-ai-experiences-special-projects?team=SFTWR",
@@ -57,13 +67,8 @@
       "title": "Software Engineer (AML), AI & Data Platforms (AiDP)",
       "url": "https://jobs.apple.com/en-us/details/200667037-0157/software-engineer-aml-ai-data-platforms-aidp?team=SFTWR",
       "identifier": "Software Engineer (AML), AI & Data Platforms (AiDP_data-platforms-aidp?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer (Data Solutions), AI & Data Platforms (AiDP)",
-      "url": "https://jobs.apple.com/en-us/details/200667022-0157/software-engineer-data-solutions-ai-data-platforms-aidp?team=SFTWR",
-      "identifier": "Software Engineer (Data Solutions), AI & Data Plat_data-platforms-aidp?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-06-08T19:19:41.778490"
+  "timestamp": "2026-06-08T19:36:45.417940"
 }

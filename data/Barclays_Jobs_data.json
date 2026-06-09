@@ -1,12 +1,17 @@
 {
   "page_title": "Search our Job Opportunities at Barclays",
   "url": "https://search.jobs.barclays/search-jobs/United%20States/13015/2/6252001/39x76/-98x5/50/2",
-  "total_jobs": 15,
+  "total_jobs": 16,
   "jobs": [
     {
       "title": "Intelligence Specialist - VP",
       "url": "https://search.jobs.barclays/job/new-york/intelligence-specialist-vp/13015/96172963456",
       "identifier": "Intelligence Specialist - VP_pecialist-vp/13015/96172963456"
+    },
+    {
+      "title": "Penetration Tester - AVP",
+      "url": "https://search.jobs.barclays/job/whippany/penetration-tester-avp/13015/96172950640",
+      "identifier": "Penetration Tester - AVP_n-tester-avp/13015/96172950640"
     },
     {
       "title": "Principal Architect - Digital Assets",
@@ -80,5 +85,5 @@
     }
   ],
   "job_count_text": "134",
-  "timestamp": "2026-06-09T11:34:57.528233"
+  "timestamp": "2026-06-09T11:52:03.944642"
 }

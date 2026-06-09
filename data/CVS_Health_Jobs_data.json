@@ -14,9 +14,19 @@
       "identifier": "Exchange & Copilot Operations Support Engineer_ot-Operations-Support-Engineer"
     },
     {
+      "title": "Manager, Business Analysis",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0906521/Manager-Business-Analysis",
+      "identifier": "Manager, Business Analysis_6521/Manager-Business-Analysis"
+    },
+    {
       "title": "Lead Director - Digital Engineering",
       "url": "https://jobs.cvshealth.com/us/en/job/R0872948/Lead-Director-Digital-Engineering",
       "identifier": "Lead Director - Digital Engineering_d-Director-Digital-Engineering"
+    },
+    {
+      "title": "Senior Software Development Engineer - Developer Tooling",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0918622/Senior-Software-Development-Engineer-Developer-Tooling",
+      "identifier": "Senior Software Development Engineer - Developer T_ent-Engineer-Developer-Tooling"
     },
     {
       "title": "Senior Manager - Software Development Engineering",
@@ -32,18 +42,8 @@
       "title": "Senior Manager - Scrum Master",
       "url": "https://jobs.cvshealth.com/us/en/job/R0933663/Senior-Manager-Scrum-Master",
       "identifier": "Senior Manager - Scrum Master_63/Senior-Manager-Scrum-Master"
-    },
-    {
-      "title": "Senior Software Development Engineer - Developer Tooling",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0918622/Senior-Software-Development-Engineer-Developer-Tooling",
-      "identifier": "Senior Software Development Engineer - Developer T_ent-Engineer-Developer-Tooling"
-    },
-    {
-      "title": "Manager, Business Analysis",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0906521/Manager-Business-Analysis",
-      "identifier": "Manager, Business Analysis_6521/Manager-Business-Analysis"
     }
   ],
   "job_count_text": "41",
-  "timestamp": "2026-06-09T00:16:46.928317"
+  "timestamp": "2026-06-09T00:33:42.196718"
 }

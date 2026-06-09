@@ -4,6 +4,11 @@
   "total_jobs": 8,
   "jobs": [
     {
+      "title": "Staff Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0938382/Staff-Software-Development-Engineer",
+      "identifier": "Staff Software Development Engineer_-Software-Development-Engineer"
+    },
+    {
       "title": "Exchange & Copilot Operations Support Engineer",
       "url": "https://jobs.cvshealth.com/us/en/job/R0857628/Exchange-Copilot-Operations-Support-Engineer",
       "identifier": "Exchange & Copilot Operations Support Engineer_ot-Operations-Support-Engineer"
@@ -37,13 +42,8 @@
       "title": "SME ACAS Benefits Testing",
       "url": "https://jobs.cvshealth.com/us/en/job/R0937901/SME-ACAS-Benefits-Testing",
       "identifier": "SME ACAS Benefits Testing_7901/SME-ACAS-Benefits-Testing"
-    },
-    {
-      "title": "Lead Director - Agile Practice Management",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0924052/Lead-Director-Agile-Practice-Management",
-      "identifier": "Lead Director - Agile Practice Management_ctor-Agile-Practice-Management"
     }
   ],
-  "job_count_text": "30",
-  "timestamp": "2026-06-09T10:10:45.869166"
+  "job_count_text": "31",
+  "timestamp": "2026-06-09T10:27:52.394221"
 }

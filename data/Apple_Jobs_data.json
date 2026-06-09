@@ -4,6 +4,11 @@
   "total_jobs": 15,
   "jobs": [
     {
+      "title": "Software Development Engineer in Test, Wireless Technologies and Ecosystems",
+      "url": "https://jobs.apple.com/en-us/details/200664179-3543/software-development-engineer-in-test-wireless-technologies-and-ecosystems?team=SFTWR",
+      "identifier": "Software Development Engineer in Test, Wireless Te_gies-and-ecosystems?team=SFTWR"
+    },
+    {
       "title": "Senior Machine Learning Engineer",
       "url": "https://jobs.apple.com/en-us/details/200666339-0836/senior-machine-learning-engineer?team=SFTWR",
       "identifier": "Senior Machine Learning Engineer_e-learning-engineer?team=SFTWR"
@@ -54,11 +59,6 @@
       "identifier": "Senior Cloud Security Engineer_d-security-engineer?team=SFTWR"
     },
     {
-      "title": "Data Scientist - Health AIML",
-      "url": "https://jobs.apple.com/en-us/details/200665713-0836/data-scientist-health-aiml?team=MLAI",
-      "identifier": "Data Scientist - Health AIML_cientist-health-aiml?team=MLAI"
-    },
-    {
       "title": "Sr Engineering Program Manager, Generative AI Experiences - Special Projects",
       "url": "https://jobs.apple.com/en-us/details/200666631-0836/sr-engineering-program-manager-generative-ai-experiences-special-projects?team=SFTWR",
       "identifier": "Sr Engineering Program Manager, Generative AI Expe_es-special-projects?team=SFTWR"
@@ -80,5 +80,5 @@
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-06-08T23:41:49.806409"
+  "timestamp": "2026-06-08T23:58:46.483014"
 }

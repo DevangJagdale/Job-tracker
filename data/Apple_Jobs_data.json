@@ -4,6 +4,11 @@
   "total_jobs": 15,
   "jobs": [
     {
+      "title": "Data Scientist, Maps Evaluation",
+      "url": "https://jobs.apple.com/en-us/details/200666663-0836/data-scientist-maps-evaluation?team=SFTWR",
+      "identifier": "Data Scientist, Maps Evaluation_ist-maps-evaluation?team=SFTWR"
+    },
+    {
       "title": "Software Development Engineer in Test, Wireless Technologies and Ecosystems",
       "url": "https://jobs.apple.com/en-us/details/200664179-3543/software-development-engineer-in-test-wireless-technologies-and-ecosystems?team=SFTWR",
       "identifier": "Software Development Engineer in Test, Wireless Te_gies-and-ecosystems?team=SFTWR"
@@ -72,13 +77,8 @@
       "title": "Software Development Engineer - Data",
       "url": "https://jobs.apple.com/en-us/details/200667248-0836/software-development-engineer-data?team=SFTWR",
       "identifier": "Software Development Engineer - Data_pment-engineer-data?team=SFTWR"
-    },
-    {
-      "title": "Agent Development Engineer, Customer Systems",
-      "url": "https://jobs.apple.com/en-us/details/200662678-0836/agent-development-engineer-customer-systems?team=SFTWR",
-      "identifier": "Agent Development Engineer, Customer Systems_er-customer-systems?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-06-09T05:28:48.922519"
+  "timestamp": "2026-06-09T05:45:48.455633"
 }

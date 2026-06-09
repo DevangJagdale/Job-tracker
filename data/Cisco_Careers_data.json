@@ -4,14 +4,14 @@
   "total_jobs": 5,
   "jobs": [
     {
-      "title": "Software Engineer I (Full Time) \u2013 Devices Technology Group \u2013 United States",
-      "url": "https://careers.cisco.com/global/en/job/2011256/Software-Engineer-I-Full-Time-Devices-Technology-Group-United-States",
-      "identifier": "Software Engineer I (Full Time) \u2013 Devices Technolo_Technology-Group-United-States"
-    },
-    {
       "title": "Data Analyst (Hybrid)",
       "url": "https://careers.cisco.com/global/en/job/2011265/Data-Analyst-Hybrid",
       "identifier": "Data Analyst (Hybrid)_ob/2011265/Data-Analyst-Hybrid"
+    },
+    {
+      "title": "Software Engineer I (Full Time) \u2013 Devices Technology Group \u2013 United States",
+      "url": "https://careers.cisco.com/global/en/job/2011256/Software-Engineer-I-Full-Time-Devices-Technology-Group-United-States",
+      "identifier": "Software Engineer I (Full Time) \u2013 Devices Technolo_Technology-Group-United-States"
     },
     {
       "title": "Customer Experience Project Specialist I (Full-Time) - United States",
@@ -30,5 +30,5 @@
     }
   ],
   "job_count_text": "6",
-  "timestamp": "2026-06-09T06:21:29.113395"
+  "timestamp": "2026-06-09T06:38:28.568254"
 }
